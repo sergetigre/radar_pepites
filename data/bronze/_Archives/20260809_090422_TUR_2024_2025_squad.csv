@@ -1,0 +1,603 @@
+﻿country,tournament,tournament_id,season_id,team_name,team_id,player_name,player_id,age,height,player_country,position,preferred_foot,contract_until,market_value,market_currency,_league_id,_season,_source,_scraped_at
+Turkey,Trendyol Süper Lig,52,63814,Galatasaray,3061,Victor Osimhen,822471,27,186.0,Nigeria,F,Right,1877472000.0,73000000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Galatasaray,3061,Can Armando Güner,1861964,18,178.0,Argentina,F,Left,1909008000.0,485000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Galatasaray,3061,Ada Yüzgeç,2128081,17,,Türkiye,F,Right,,95000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Galatasaray,3061,Halil Dervişoğlu,930775,26,183.0,Türkiye,F,Right,1814313600.0,660000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Galatasaray,3061,Berat Luş,1945952,19,178.0,Türkiye,F,Right,1814313600.0,920000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Galatasaray,3061,Recep Yalın Dilek,1405718,20,188.0,Türkiye,F,Left,1845936000.0,155000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Galatasaray,3061,Ali Efe Çördek,2010196,21,178.0,Türkiye,F,Left,1845936000.0,48000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Galatasaray,3061,İlkay Gündoğan,45853,35,180.0,Germany,M,Right,1814313600.0,1900000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Galatasaray,3061,Leroy Sané,293519,30,184.0,Germany,M,Left,1845936000.0,22000000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Galatasaray,3061,Gabriel Sara,913593,27,178.0,Brazil,M,Left,1877472000.0,25000000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Galatasaray,3061,Barış Alper Yılmaz,904096,26,186.0,Türkiye,M,Right,1845936000.0,32000000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Galatasaray,3061,Mario Lemina,307284,32,184.0,Gabon,M,Right,1845936000.0,4099999.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Galatasaray,3061,Yunus Akgün,857738,26,173.0,Türkiye,M,Left,1877472000.0,16700000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Galatasaray,3061,Lucas Torreira,754794,30,168.0,Uruguay,M,Right,1845936000.0,10300000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Galatasaray,3061,Lesley Ugochukwu,1048916,22,188.0,France,M,Right,1814313600.0,21000000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Galatasaray,3061,Renato Nhaga,2119726,19,172.0,Guinea-Bissau,M,Right,1909008000.0,5800000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Galatasaray,3061,Eyüp Aydın,1130115,22,181.0,Türkiye,M,Left,1814313600.0,825000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Galatasaray,3061,İlhami Siraçhan Nas,1017891,24,177.0,Türkiye,M,Right,1845936000.0,165000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Galatasaray,3061,Wilfried Singo,978285,25,190.0,Côte d'Ivoire,D,Right,1909008000.0,21000000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Galatasaray,3061,Davinson Sánchez,566102,30,187.0,Colombia,D,Right,1877472000.0,16500000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Galatasaray,3061,Roland Sallai,355088,29,182.0,Hungary,D,Right,1845936000.0,14500000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Galatasaray,3061,Ismail Jakobs,897291,26,184.0,Senegal,D,Left,1814313600.0,8700000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Galatasaray,3061,Abdülkerim Bardakcı,178963,31,185.0,Türkiye,D,Left,1814313600.0,7100000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Galatasaray,3061,Eren Elmalı,981483,26,180.0,Türkiye,D,Left,1845936000.0,5400000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Galatasaray,3061,Kaan Ayhan,138152,31,185.0,Türkiye,D,Right,1845936000.0,1400000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Galatasaray,3061,Victor Nelsson,846148,27,187.0,Denmark,D,Right,1814313600.0,6400000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Galatasaray,3061,Elias Jelert,1126433,23,178.0,Denmark,D,Right,1877472000.0,5400000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Galatasaray,3061,Metehan Baltacı,997155,23,189.0,Türkiye,D,Right,1845936000.0,2100000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Galatasaray,3061,Arda Ünyay,1464636,19,187.0,Türkiye,D,Right,1845936000.0,970000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Galatasaray,3061,Kazımcan Karataş,1008884,23,182.0,Türkiye,D,Left,1814313600.0,2100000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Galatasaray,3061,Ali Turap Bülbül,1149043,21,179.0,Türkiye,D,Right,1814313600.0,540000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Galatasaray,3061,Yusuf Sivaslıoğlu,2332733,16,173.0,Türkiye,D,Right,,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Galatasaray,3061,Uğurcan Çakır,754330,30,192.0,Türkiye,G,Right,1909008000.0,14500000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Galatasaray,3061,Günay Güvenç,103457,35,187.0,Türkiye,G,Right,1845936000.0,210000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Galatasaray,3061,Jankat Yılmaz,1210422,21,193.0,Türkiye,G,Left,1814313600.0,1600000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Galatasaray,3061,Enes Emre Büyük,1405619,20,188.0,Türkiye,G,Right,1814313600.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Mason Greenwood,942116,24,181.0,England,F,Both,1909008000.0,53000000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Kerem Aktürkoğlu,903324,27,173.0,Türkiye,F,Right,1877472000.0,21000000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Vedat Muriqi,310874,32,194.0,Kosovo,F,Left,1877472000.0,4400000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Dorgeles Nene,1102788,23,174.0,Mali,F,Right,1909008000.0,21000000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Sidiki Cherif,1514916,19,188.0,Guinea,F,Right,1909008000.0,16900000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Amara Diouf,1536761,18,175.0,Senegal,F,Right,1940544000.0,825000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Adem Yeşilyurt,2437632,19,178.0,Türkiye,F,Left,1940544000.0,540000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Çağrı Fedai,1481738,20,185.0,North Macedonia,F,Right,1877472000.0,135000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Emin Eren Sayar,2128112,17,185.0,Türkiye,F,Left,1845936000.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,N'Golo Kanté,234148,35,169.0,France,M,Right,1845936000.0,3900000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Marco Asensio,361004,30,182.0,Spain,M,Left,1845936000.0,15500000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Sofyan Amrabat,359272,29,183.0,Morocco,M,Right,1845936000.0,9700000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Talisca,329245,32,191.0,Brazil,M,Left,1845936000.0,7700000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Fred,243623,33,169.0,Brazil,M,Left,1814313600.0,4900000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Mattéo Guendouzi,852404,27,185.0,France,M,Right,1909008000.0,26000000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Cengiz Ünder,758876,29,173.0,Türkiye,M,Left,1814313600.0,3800000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,İrfan Can Kahveci,226986,31,180.0,Türkiye,M,Left,1845936000.0,3100000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,İsmail Yüksek,952600,27,183.0,Türkiye,M,Right,1845936000.0,14000000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Oğuz Aydın,999396,25,183.0,Türkiye,M,Right,1845936000.0,6500000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Anthony Musaba,979473,25,182.0,Netherlands,M,Both,1909008000.0,7500000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Mert Hakan Yandaş,856849,31,174.0,Türkiye,M,Right,1814313600.0,2700000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Bartuğ Elmaz,997165,23,179.0,Türkiye,M,Right,1845936000.0,1500000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Abdou Aziz Fall,1542689,19,180.0,Senegal,M,Right,1909008000.0,94000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Emre Demir,974075,22,175.0,Türkiye,M,Left,1814313600.0,480000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Yağız Fikri Şen,2128083,17,176.0,Türkiye,M,Right,1814313600.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Nathan Aké,149663,31,180.0,Netherlands,D,Left,1877472000.0,10900000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Milan Škriniar,187205,31,187.0,Slovakia,D,Right,1877472000.0,11000000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Nélson Semedo,252821,32,177.0,Portugal,D,Right,1814313600.0,5500000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Çağlar Söyüncü,758608,30,187.0,Türkiye,D,Right,1814313600.0,3600000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Jayden Oosterwolde,1048324,25,189.0,Netherlands,D,Left,1845936000.0,21000000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Archie Brown,1009738,24,190.0,England,D,Left,1845936000.0,11600000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Mert Müldür,836683,27,184.0,Türkiye,D,Right,1814313600.0,7400000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Diego Carlos,604232,33,185.0,Brazil,D,Right,1845936000.0,5300000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Omar Fayed,1393731,23,189.0,Egypt,D,Right,1814313600.0,560000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Levent Mercan,1085938,25,176.0,Türkiye,D,Left,1845936000.0,4600000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Rodrigo Becão,880207,30,191.0,Brazil,D,Right,1845936000.0,2100000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Ognjen Mimović,1146274,21,180.0,Serbia,D,Right,1877472000.0,2500000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Yiğit Efe Demir,1133200,22,194.0,Türkiye,D,Right,1877472000.0,6300000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Ederson,254491,32,188.0,Brazil,G,Left,1845936000.0,9200000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Dominik Livaković,190419,31,186.0,Croatia,G,Right,1845936000.0,4099999.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Mert Günok,39573,37,196.0,Türkiye,G,Right,1845936000.0,545000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,İrfan Can Eğribayat,594618,28,193.0,Türkiye,G,Right,1814313600.0,1100000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Fenerbahçe,3052,Tarık Çetin,913985,29,193.0,Türkiye,G,Right,1877472000.0,550000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Samsunspor,3053,Cherif Ndiaye,868268,30,188.0,Senegal,F,Right,1877472000.0,5400000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Samsunspor,3053,Marius Mouandilmadji,943593,28,190.0,Chad,F,Right,1845936000.0,7600000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Samsunspor,3053,Elayis Tavsan,929631,25,183.0,Netherlands,F,Left,1909008000.0,1400000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Samsunspor,3053,Fatih Kaya,930697,26,183.0,Türkiye,F,Both,1877472000.0,485000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Samsunspor,3053,Richie Omorowa,1104954,22,181.0,Sweden,F,Right,1909008000.0,355000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Samsunspor,3053,Ebrima Ceesay,2216420,20,185.0,Gambia,F,Right,1845936000.0,47000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Samsunspor,3053,Saikuba Jarju,2430544,18,180.0,Gambia,F,Right,1877472000.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Samsunspor,3053,Tahsin Bülbül ,2237105,20,182.0,Türkiye,F,Right,1909008000.0,220000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Samsunspor,3053,Emre Koroglu,1602701,20,181.0,Türkiye,F,Left,1877472000.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Samsunspor,3053,Antoine Makoumbou,920391,28,186.0,Congo Republic,M,Right,1877472000.0,4200000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Samsunspor,3053,Afonso Sousa,855672,26,170.0,Portugal,M,Right,1909008000.0,2300000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Samsunspor,3053,Arbnor Muja,890695,27,179.0,Albania,M,Right,1814313600.0,2600000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Samsunspor,3053,Tanguy Coulibaly,954060,25,180.0,France,M,Left,1845936000.0,1300000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Samsunspor,3053,Jaures Assoumou,1514452,23,182.0,Côte d'Ivoire,M,Right,1909008000.0,1900000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Samsunspor,3053,Emre Kılınç,202032,31,174.0,Türkiye,M,Left,1845936000.0,1000000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Samsunspor,3053,Elliot Watt,942060,26,175.0,Scotland,M,Right,1909008000.0,1900000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Samsunspor,3053,Antoine Sekongo,1513644,22,178.0,Mali,M,Left,1940544000.0,3900000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Samsunspor,3053,Celil Yüksel,806972,28,165.0,Türkiye,M,Right,1814313600.0,865000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Samsunspor,3053,Yalçın Kayan,945548,27,182.0,Türkiye,M,Left,1845936000.0,970000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Samsunspor,3053,Samed Onur,980608,24,175.0,Türkiye,M,Left,1877472000.0,670000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Samsunspor,3053,Alper Efe Pazar,1214888,21,180.0,Türkiye,M,Both,1909008000.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Samsunspor,3053,Eyup Degirmenci,2142281,19,183.0,Türkiye,M,Right,1909008000.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Samsunspor,3053,Cheick Diabaté,2656835,19,181.0,Côte d'Ivoire,M,Right,1909008000.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Samsunspor,3053,Josafat Mendes,1133258,23,177.0,Sweden,D,Right,1909008000.0,2400000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Samsunspor,3053,Toni Borevković,886843,29,194.0,Croatia,D,Right,1845936000.0,2100000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Samsunspor,3053,Logi Tomasson,858266,25,182.0,Iceland,D,Left,1877472000.0,2900000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Samsunspor,3053,Igor Drapiński,1161838,22,186.0,Poland,D,Left,1874880000.0,1400000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Samsunspor,3053,Ali Diabaté,2430541,19,190.0,Côte d'Ivoire,D,Left,1877472000.0,1100000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Samsunspor,3053,Enes Albak,1431471,21,175.0,Türkiye,D,Left,1814313600.0,155000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Samsunspor,3053,Yunus Emre Çift,1063325,22,185.0,Türkiye,D,Right,1814313600.0,620000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Samsunspor,3053,Bedirhan Çetin,1215897,20,182.0,Türkiye,D,Right,1909008000.0,105000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Samsunspor,3053,Ali Tarkan,1928572,20,185.0,Türkiye,D,Right,1877472000.0,23000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Samsunspor,3053,Haluk Mustafa Tan,1605311,21,181.0,Türkiye,D,Right,1845936000.0,170000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Samsunspor,3053,Kerem Fidan,1640288,20,189.0,Türkiye,D,Left,1877472000.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Samsunspor,3053,Okan Kocuk,190179,31,187.0,Türkiye,G,Right,1845936000.0,1900000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Samsunspor,3053,Bilal Bayazit,825850,27,185.0,Türkiye,G,Right,1909008000.0,1600000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Samsunspor,3053,Efe Berat Törüz,1417040,19,194.0,Türkiye,G,Right,1877472000.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Samsunspor,3053,Efe Yiğit Üstün,2237096,18,188.0,Türkiye,G,Right,1845936000.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Beşiktaş JK,3050,Leandro Trossard,135666,31,172.0,Belgium,F,Right,1877472000.0,19300000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Beşiktaş JK,3050,Semih Kılıçsoy,1142606,20,178.0,Türkiye,F,Right,1845936000.0,11700000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Beşiktaş JK,3050,Hyeon-gyu Oh,1010634,25,185.0,South Korea,F,Right,1877472000.0,16000000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Beşiktaş JK,3050,Mustafa Hekimoğlu,1524303,19,186.0,Türkiye,F,Right,1845936000.0,5200000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Beşiktaş JK,3050,Yakup Arda Kılıç,1639816,21,179.0,Türkiye,F,Right,1814313600.0,54000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Beşiktaş JK,3050,Can Keleş,918408,24,180.0,Austria,F,Left,1845936000.0,1300000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Beşiktaş JK,3050,Orkun Kökçü,907461,25,175.0,Türkiye,M,Both,1909008000.0,24000000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Beşiktaş JK,3050,Wilfred Ndidi,787885,29,186.0,Nigeria,M,Right,1845936000.0,7500000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Beşiktaş JK,3050,Junior Olaitan,1124357,24,174.0,Benin,M,Right,1877472000.0,6800000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Beşiktaş JK,3050,Milot Rashica,800411,30,177.0,Kosovo,M,Right,1814313600.0,3300000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Beşiktaş JK,3050,Václav Černý,280631,28,182.0,Czechia,M,Left,1845936000.0,7200000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Beşiktaş JK,3050,João Mário,97001,33,179.0,Portugal,M,Right,1814313600.0,1500000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Beşiktaş JK,3050,Salih Özcan,795005,28,180.0,Türkiye,M,Right,1877472000.0,3400000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Beşiktaş JK,3050,Moatasem Al-Musrati,868958,30,189.0,Libya,M,Right,1814313600.0,4200000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Beşiktaş JK,3050,Amir Hadžiahmetović,795421,29,179.0,Bosnia & Herzegovina,M,Right,1814313600.0,3600000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Beşiktaş JK,3050,Jean Onana,978301,26,189.0,Cameroon,M,Right,1814313600.0,1100000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Beşiktaş JK,3050,Elan Ricardo,1388631,22,184.0,Colombia,M,Right,1893369600.0,1100000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Beşiktaş JK,3050,Kartal Kayra Yılmaz,966811,25,177.0,Türkiye,M,Right,1845936000.0,2400000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Beşiktaş JK,3050,İlhan Fakili,1858278,20,180.0,Türkiye,M,Right,1909008000.0,1300000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Beşiktaş JK,3050,Fahri Ay,1195756,21,178.0,Türkiye,M,Left,1845936000.0,270000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Beşiktaş JK,3050,Amir Murillo,839493,30,183.0,Panama,D,Right,1845936000.0,6600000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Beşiktaş JK,3050,Emmanuel Agbadou,1013842,29,192.0,Côte d'Ivoire,D,Right,1909008000.0,16500000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Beşiktaş JK,3050,Tiago Djaló,892735,26,190.0,Portugal,D,Right,1845936000.0,7500000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Beşiktaş JK,3050,Emirhan Topçu,895009,25,188.0,Türkiye,D,Left,1845936000.0,6500000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Beşiktaş JK,3050,Yasin Özcan,1392102,20,185.0,Türkiye,D,Left,1801008000.0,5300000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Beşiktaş JK,3050,Rıdvan Yılmaz,910086,25,174.0,Türkiye,D,Left,1845936000.0,4700000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Beşiktaş JK,3050,Felix Uduokhai,792142,28,193.0,Germany,D,Left,1814313600.0,3200000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Beşiktaş JK,3050,Taylan Bulut,1418644,20,188.0,Germany,D,Right,1909008000.0,5200000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Beşiktaş JK,3050,Kassoum Ouattara,1397558,21,184.0,France,D,Left,1909008000.0,11600000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Beşiktaş JK,3050,Emrecan Uzunhan,997684,25,189.0,Türkiye,D,Left,1814313600.0,460000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Beşiktaş JK,3050,Alexander Nübel,584722,29,193.0,Germany,G,Right,1877472000.0,10900000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Beşiktaş JK,3050,Emir Yaşar,1417036,20,190.0,Türkiye,G,Right,1845936000.0,94000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Beşiktaş JK,3050,Doğan Alemdar,947874,23,192.0,Türkiye,G,Right,1909008000.0,1400000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Beşiktaş JK,3050,Emre Bilgin,1050730,22,188.0,Türkiye,G,Left,1814313600.0,435000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Eldor Shomurodov,791355,31,190.0,Uzbekistan,F,Right,1845936000.0,7400000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Bertuğ Yıldırım,1382235,24,186.0,Türkiye,F,Right,1877472000.0,6700000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Nuno Da Costa,209374,35,184.0,Cape Verde,F,Right,1814313600.0,380000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Davie Selke,187437,31,195.0,Germany,F,Right,1814313600.0,2900000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Ivan Brnić,916182,24,175.0,Croatia,F,Right,1845936000.0,2100000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Umut Bozok,869839,29,178.0,Türkiye,F,Right,1845936000.0,1500000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Berkay Aslan,1584878,19,179.0,Türkiye,F,Right,1845936000.0,415000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Batuhan Çelik,1148977,21,186.0,Türkiye,F,Right,1814313600.0,980000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Abbosbek Fayzullaev,1118429,22,167.0,Uzbekistan,M,Right,1909008000.0,6500000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Andreas Skov Olsen,888537,26,187.0,Denmark,M,Left,1814313600.0,6600000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Mohamed Fofana,1522251,21,187.0,Côte d'Ivoire,M,Right,,53000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Edin Višća,109779,36,172.0,Bosnia & Herzegovina,M,Right,1814313600.0,90000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Jakub Kałuziński,1019026,23,185.0,Poland,M,Both,1877472000.0,2300000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Olivier Kemen,280447,30,177.0,Cameroon,M,Right,1814313600.0,2400000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Yusuf Sarı,896364,27,168.0,Türkiye,M,Left,1845936000.0,4300000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Ömer Faruk Beyaz,1022881,22,171.0,Türkiye,M,Left,1814313600.0,510000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Berat Özdemir,876857,28,187.0,Türkiye,M,Right,1814313600.0,2600000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Matchoi Djaló,989599,23,175.0,Portugal,M,Right,1814313600.0,470000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Berkay Özcan,806964,28,178.0,Türkiye,M,Both,1814313600.0,1300000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Abdoulaye Yoro,2042194,19,175.0,Côte d'Ivoire,M,Left,1814313600.0,315000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Umut Güneş,876782,26,177.0,Türkiye,M,Left,1845936000.0,2900000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Onur Ergün,893009,33,185.0,Türkiye,M,Right,1814313600.0,145000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Jerome Opoku,920514,27,194.0,Ghana,D,Left,1814313600.0,7500000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Christopher Operi,858977,29,182.0,Côte d'Ivoire,D,Left,1814313600.0,3700000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Michał Karbownik,910043,25,175.0,Poland,D,Right,1877472000.0,1700000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Saba Kharebashvili,1652678,17,184.0,Georgia,D,Left,1909008000.0,2300000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Emin Bayram,997153,23,193.0,Türkiye,D,Right,1909008000.0,3900000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Onur Bulut,142494,32,179.0,Türkiye,D,Right,1814313600.0,580000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Ousseynou Ba,889430,30,192.0,Senegal,D,Right,1814313600.0,1300000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Hamza Güreler,1562294,20,192.0,Türkiye,D,Right,1845936000.0,1700000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Francis Nzaba,1158797,24,178.0,Congo Republic,D,Right,1814313600.0,1300000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Ömer Ali Şahiner,103912,34,175.0,Türkiye,D,Right,1845936000.0,185000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Efe Arda Koyuncu,1148991,21,185.0,Türkiye,D,Right,1814313600.0,105000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Doğukan Tuzcu,2010048,20,175.0,Türkiye,D,Left,1814313600.0,160000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Muhammed Şengezer,827418,29,185.0,Türkiye,G,Right,1845936000.0,3600000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Volkan Babacan,30143,37,192.0,Türkiye,G,Right,1814313600.0,52000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Deniz Dilmen,1065508,21,198.0,Türkiye,G,Left,1814313600.0,1100000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Luca Stancic,1549522,19,189.0,Türkiye,G,Right,1845936000.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Başakşehir FK,3086,Yusuf Yılmaz,1804803,20,193.0,Türkiye,G,Right,1845936000.0,45000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Eyüpspor,7040,Ahmed Abdullahi,1442017,22,181.0,Nigeria,F,Right,,750000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Eyüpspor,7040,Abdou Sy,2460449,18,,Senegal,F,,1845936000.0,90000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Eyüpspor,7040,Christ Sadia,2266454,19,185.0,Côte d'Ivoire,F,Left,1845936000.0,110000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Eyüpspor,7040,Berkay Kumlu,1618419,21,180.0,Türkiye,F,Left,1845936000.0,49000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Eyüpspor,7040,Abdelhamid Sabiri,807400,29,186.0,Morocco,M,Both,,925000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Eyüpspor,7040,Konrad Michalak,851243,28,174.0,Poland,M,Right,,530000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Eyüpspor,7040,Bilal Boutobba,769163,27,172.0,France,M,Left,,1300000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Eyüpspor,7040,Hamza Akman,1394720,21,170.0,Türkiye,M,Right,1845936000.0,390000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Eyüpspor,7040,Chandrel Massanga,1083138,26,172.0,Congo Republic,M,Right,,480000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Eyüpspor,7040,Lenny Pintor,896596,26,179.0,France,M,Right,1814313600.0,195000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Eyüpspor,7040,Ismaila Manga,2169898,19,180.0,Senegal,M,Right,1845936000.0,97000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Eyüpspor,7040,Taşkın Ilter,171911,32,185.0,Azerbaijan,M,Right,1814313600.0,160000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Eyüpspor,7040,David Costa,1512413,22,170.0,Cape Verde,M,Right,,470000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Eyüpspor,7040,Charles-Andre Raux Yao,1622183,24,,France,M,Right,1845936000.0,680000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Eyüpspor,7040,Erdem Çalık,2049797,20,184.0,Türkiye,M,Right,1877472000.0,135000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Eyüpspor,7040,Mete Demir,845929,28,169.0,Türkiye,M,Left,,350000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Eyüpspor,7040,Jawad El Yamiq,877103,34,190.0,Morocco,D,Right,,290000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Eyüpspor,7040,Calegari,988906,24,171.0,Brazil,D,Right,1814313600.0,2400000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Eyüpspor,7040,Gilbert Mendy,2266455,21,,Senegal,D,Left,1877472000.0,49000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Eyüpspor,7040,Diabel Ndoye,2169895,18,,Senegal,D,Right,1845936000.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Eyüpspor,7040,Talha Ülvan,1084164,25,179.0,Türkiye,D,Right,1845936000.0,385000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Eyüpspor,7040,Seyfettin Anıl Yaşar,999646,24,192.0,Türkiye,D,Left,1814313600.0,310000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Eyüpspor,7040,Zak Jules,556774,29,190.0,Scotland,D,Left,,300000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Eyüpspor,7040,Arda Yavuz,1618417,20,180.0,Türkiye,D,Left,1909008000.0,46000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Eyüpspor,7040,Berhan Satli,2404820,20,186.0,Türkiye,D,Right,,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Eyüpspor,7040,Horațiu Moldovan,857065,28,186.0,Romania,G,Both,1814313600.0,1900000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Eyüpspor,7040,Umut Keseci,2477769,22,189.0,Türkiye,G,Right,1877472000.0,52000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Trabzonspor,3051,Paul Onuachu,295123,32,201.0,Nigeria,F,Right,1845936000.0,6200000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Trabzonspor,3051,Denis Drăguş,841199,27,184.0,Romania,F,Right,1845936000.0,1900000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Trabzonspor,3051,Umut Nayir,284767,33,191.0,Türkiye,F,Right,1814313600.0,625000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Trabzonspor,3051,Cihan Çanak,1127335,21,175.0,Türkiye,F,Left,1814313600.0,1900000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Trabzonspor,3051,Thierry Karadeniz,2317866,18,179.0,Türkiye,F,Right,1940544000.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Trabzonspor,3051,René Mitongo,1931567,18,187.0,Belgium,F,Right,1909008000.0,945000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Trabzonspor,3051,Mohamed Salah,159665,34,175.0,Egypt,M,Left,1845936000.0,21000000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Trabzonspor,3051,Ernest Muçi,924670,25,180.0,Albania,M,Right,1877472000.0,11700000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Trabzonspor,3051,Ruslan Malinovskyi,195850,33,181.0,Ukraine,M,Left,1877472000.0,2600000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Trabzonspor,3051,Aral Şimşir,999186,24,175.0,Türkiye,M,Right,1909008000.0,9200000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Trabzonspor,3051,Ozan Tufan,251907,31,182.0,Türkiye,M,Right,1814313600.0,1400000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Trabzonspor,3051,Benjamin Bouchouari,1046446,24,165.0,Morocco,M,Right,1845936000.0,4800000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Trabzonspor,3051,Batista Mendy,859021,26,191.0,France,M,Both,1814313600.0,6800000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Trabzonspor,3051,Okay Yokuşlu,97967,32,190.0,Türkiye,M,Right,1814313600.0,1200000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Trabzonspor,3051,Noah Saviolo,1153328,22,181.0,Portugal,M,Right,1940544000.0,9100000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Trabzonspor,3051,John Lundstram,149815,32,181.0,England,M,Right,1814313600.0,1300000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Trabzonspor,3051,Tim Jabol-Folcarelli,1106446,26,187.0,France,M,Right,1877472000.0,6600000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Trabzonspor,3051,Göktan Gürpüz,997007,23,178.0,Türkiye,M,Right,1845936000.0,2100000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Trabzonspor,3051,Metehan Mimaroğlu,900809,32,178.0,Türkiye,M,Left,1814313600.0,420000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Trabzonspor,3051,Melih Kabasakal,828872,30,178.0,Türkiye,M,Right,1845936000.0,560000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Trabzonspor,3051,Sidny Lopes Cabral,1117723,23,176.0,Cape Verde,D,Both,1940544000.0,10300000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Trabzonspor,3051,Stefan Savić,76265,35,186.0,Montenegro,D,Right,1814313600.0,430000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Trabzonspor,3051,Chibuike Nwaiwu,1481134,23,193.0,Nigeria,D,Right,1909008000.0,9100000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Trabzonspor,3051,Samet Akaydın,863600,32,190.0,Türkiye,D,Right,1845936000.0,1300000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Trabzonspor,3051,Wagner Pina,1513625,23,180.0,Cape Verde,D,Right,1877472000.0,11400000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Trabzonspor,3051,Arseniy Batagov,981395,24,185.0,Ukraine,D,Left,1845936000.0,11500000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Trabzonspor,3051,Cenk Özkaçar,953097,25,190.0,Türkiye,D,Left,1877472000.0,4099999.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Trabzonspor,3051,Mustafa Eskihellaç,899069,29,175.0,Türkiye,D,Right,1814313600.0,4300000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Trabzonspor,3051,Salih Malkoçoğlu,1499364,21,190.0,Türkiye,D,Right,1845936000.0,1500000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Trabzonspor,3051,Oğuzhan Yılmaz,1417079,20,178.0,Türkiye,D,Right,1845936000.0,390000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Trabzonspor,3051,André Onana,787498,30,190.0,Cameroon,G,Right,1814313600.0,9300000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Trabzonspor,3051,Onuralp Çevikkan,1417078,20,190.0,Türkiye,G,Right,1845936000.0,945000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Trabzonspor,3051,Ahmet Doğan Yıldırım,1907056,19,194.0,Türkiye,G,Right,1877472000.0,190000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Trabzonspor,3051,Erol Can Çolak,1974349,20,190.0,Türkiye,G,Left,1845936000.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Göztepe,3054,Juan Santos da Silva,1009928,24,176.0,Brazil,F,Right,1877472000.0,12600000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Göztepe,3054,André Henrique,1463912,24,189.0,Brazil,F,Right,1909008000.0,3200000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Göztepe,3054,Ibrahim Sabra,1522038,20,183.0,Jordan,F,Right,1877472000.0,455000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Göztepe,3054,Janderson,1462989,27,189.0,Brazil,F,Both,1845936000.0,5800000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Göztepe,3054,Sinclair Armstrong,958056,23,182.0,Ireland,F,Right,1909008000.0,2300000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Göztepe,3054,Guilherme Luiz,1631434,21,191.0,Brazil,F,Right,1909008000.0,1400000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Göztepe,3054,Efkan Bekiroğlu,800458,30,185.0,Türkiye,F,Right,1814313600.0,1100000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Göztepe,3054,Gökdeniz Bayrakdar,952564,24,181.0,Türkiye,F,Left,1877472000.0,775000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Göztepe,3054,Tibet Durakcay,2023967,20,181.0,Türkiye,F,Right,1814313600.0,52000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Göztepe,3054,Omur Turan,2687256,17,,Türkiye,F,,,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Göztepe,3054,Novatus Miroshi,1103597,23,185.0,Tanzania,M,Left,1845936000.0,4600000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Göztepe,3054,Amine Cherni,1094487,25,181.0,Tunisia,M,Left,1845936000.0,3600000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Göztepe,3054,Alex Matos,1186050,21,175.0,England,M,Right,1814313600.0,1100000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Göztepe,3054,Anthony Dennis,1484438,22,180.0,Nigeria,M,Right,1814313600.0,7700000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Göztepe,3054,Arda Kurtulan,1063395,23,183.0,Türkiye,M,Right,1877472000.0,6800000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Göztepe,3054,Rhaldney,992024,27,184.0,Brazil,M,Right,1845936000.0,1100000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Göztepe,3054,Alexis Antunes,865516,26,181.0,Switzerland,M,Right,1877472000.0,1500000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Göztepe,3054,Musah Mohammed,1105505,24,192.0,Ghana,M,Right,1845936000.0,970000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Göztepe,3054,İsmail Köybaşı,43605,37,177.0,Türkiye,M,Left,,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Göztepe,3054,Ogün Bayrak,903999,27,175.0,Türkiye,M,Right,1845936000.0,740000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Göztepe,3054,İzzet Furkan Malak,1397819,21,,Türkiye,M,Right,1845936000.0,54000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Göztepe,3054,Berke Sarıgül,2437635,19,,Türkiye,M,Right,1845936000.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Göztepe,3054,Yusuf Ali Şirin,2572814,18,183.0,Türkiye,M,Right,1877472000.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Göztepe,3054,Pah Franck Gouhon,2640217,19,186.0,Côte d'Ivoire,M,Right,1877472000.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Göztepe,3054,Malcom Bokele,1122632,26,193.0,Cameroon,D,Right,1814313600.0,5400000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Göztepe,3054,Taha Altıkardeş,1101279,22,188.0,Türkiye,D,Right,1845936000.0,4099999.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Göztepe,3054,Noah Sonko Sundberg,279541,30,186.0,Gambia,D,Right,1845936000.0,820000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Göztepe,3054,Allan,987088,32,187.0,Brazil,D,Right,1814313600.0,105000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Göztepe,3054,Ege Yildirim,1533919,19,,Türkiye,D,Left,1877472000.0,53000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Göztepe,3054,Furkan Bayır,1003161,26,188.0,Türkiye,D,Right,1845936000.0,970000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Göztepe,3054,Luka Gugeshashvili,827472,27,196.0,Georgia,G,Left,1814313600.0,655000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Göztepe,3054,Arda Özçimen,964196,24,202.0,Türkiye,G,Right,1814313600.0,495000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Göztepe,3054,Mehmet Şamil Öztürk,1216027,21,194.0,Türkiye,G,Right,1845936000.0,91000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Göztepe,3054,Nevzat Üzel,2337924,19,192.0,Türkiye,G,Right,1814313600.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Çaykur Rizespor,3064,Ali Sowe,238394,32,186.0,Gambia,F,Right,1845936000.0,1600000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Çaykur Rizespor,3064,Adedire Mebude,1144096,22,179.0,Scotland,F,Right,1909008000.0,1600000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Çaykur Rizespor,3064,Emrecan Bulut,1480663,23,185.0,Türkiye,F,Right,1845936000.0,580000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Çaykur Rizespor,3064,Ahmed Kutucu,906049,26,181.0,Türkiye,M,Right,1814313600.0,2800000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Çaykur Rizespor,3064,Valentin Mihăilă,925242,26,177.0,Romania,M,Right,1877472000.0,3600000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Çaykur Rizespor,3064,Qazim Laci,284395,30,173.0,Albania,M,Right,1845936000.0,2900000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Çaykur Rizespor,3064,Ibrahim Olawoyin,1008173,28,178.0,Nigeria,M,Right,1814313600.0,2100000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Çaykur Rizespor,3064,Dal Varešanović,979109,25,177.0,Bosnia & Herzegovina,M,Right,1814313600.0,1300000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Çaykur Rizespor,3064,Taylan Antalyalı,190197,31,180.0,Türkiye,M,Right,1814313600.0,725000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Çaykur Rizespor,3064,Mame Mor Faye,1471165,21,170.0,Senegal,M,Right,1814313600.0,920000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Çaykur Rizespor,3064,Eren Emre Aydın,1427199,21,188.0,Türkiye,M,Right,1814313600.0,130000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Çaykur Rizespor,3064,Husniddin Aliqulov,1121174,27,186.0,Uzbekistan,D,Right,1814313600.0,1200000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Çaykur Rizespor,3064,Tayyip Talha Sanuç,851909,26,188.0,Türkiye,D,Right,1845936000.0,1400000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Çaykur Rizespor,3064,Modibo Sagnan,904759,27,187.0,Mali,D,Left,1845936000.0,2100000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Çaykur Rizespor,3064,Attila Mocsi,889382,26,188.0,Hungary,D,Right,1814313600.0,2100000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Çaykur Rizespor,3064,Zakaria Ariss,1511915,22,178.0,France,D,Left,1909008000.0,1900000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Çaykur Rizespor,3064,Taha Şahin,1394729,25,178.0,Türkiye,D,Right,1845936000.0,3200000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Çaykur Rizespor,3064,Mithat Pala,1016393,25,172.0,Türkiye,D,Right,1814313600.0,2800000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Çaykur Rizespor,3064,Siaka Bakayoko,1550065,21,188.0,France,D,Right,1877472000.0,2700000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Çaykur Rizespor,3064,Furkan Orak,1822943,25,179.0,Türkiye,D,Right,1877472000.0,205000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Çaykur Rizespor,3064,Habil Özbakir,1865901,21,178.0,Türkiye,D,Left,1814313600.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Çaykur Rizespor,3064,Hüseyincan Kırıkçı,1618491,22,183.0,Türkiye,D,Left,1814313600.0,52000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Çaykur Rizespor,3064,Yahia Fofana,877977,25,194.0,Côte d'Ivoire,G,Right,1845936000.0,6200000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Çaykur Rizespor,3064,Zafer Görgen,930907,26,188.0,Türkiye,G,Right,1814313600.0,775000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Çaykur Rizespor,3064,Efe Doğan,1618840,21,195.0,Türkiye,G,Right,1877472000.0,155000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Adrian Benedyczak,928295,25,190.0,Poland,F,Both,1909008000.0,4900000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Güven Yalçın,826162,27,184.0,Türkiye,F,Right,1845936000.0,1100000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Yusuf Barası,1000187,23,182.0,Türkiye,F,Right,1845936000.0,775000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Ali Yavuz Kol,910091,25,175.0,Türkiye,F,Right,1814313600.0,240000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Kubilay Kanatsızkuş,828953,29,190.0,Türkiye,F,Left,1814313600.0,435000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Sinan Alkas,1548530,19,195.0,Türkiye,F,Right,1845936000.0,135000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Sarp Yavrucu,1173148,21,180.0,Türkiye,F,Right,1814313600.0,80000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Stann Élysée Dalo,2635559,18,180.0,Côte d'Ivoire,F,Right,,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Mecit Deniz,2010186,19,182.0,Türkiye,F,Right,1909008000.0,220000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Muhammed Bektas,2287517,20,186.0,Türkiye,F,Right,1909008000.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Kerem Demirbay,142619,33,185.0,Germany,M,Left,1877472000.0,1100000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Mortadha Ben Ouanes,919225,32,182.0,Tunisia,M,Left,1814313600.0,1400000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Haris Hajradinović,254979,32,179.0,Bosnia & Herzegovina,M,Left,1814313600.0,1300000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Fousseni Diabaté,796374,30,175.0,Mali,M,Left,1814313600.0,775000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Mamadou Fall,822228,34,184.0,Senegal,M,Right,1814313600.0,330000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Thiemoko Diarra,1427156,23,176.0,Mali,M,Right,,440000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Andri Fannar Baldursson,932856,24,187.0,Iceland,M,Right,1845936000.0,2100000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Marcus Rafferty,1145731,21,180.0,Sweden,M,,1909008000.0,775000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Elson Mendes,1625623,20,176.0,Cape Verde,M,Right,1909008000.0,875000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Atakan Mujde,1134704,22,182.0,Türkiye,M,Right,1814313600.0,120000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Burak Gultekin,1932111,19,182.0,Türkiye,M,Right,1909008000.0,96000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Emirhan Boz,2010104,20,181.0,Türkiye,M,Right,1909008000.0,105000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Oguzhan Yilmaz,1480585,23,181.0,Türkiye,M,Right,1814313600.0,46000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Sercan Deniz,2649962,19,182.0,Türkiye,M,,,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Adem Arous,2018238,22,188.0,Tunisia,D,Right,1845936000.0,3900000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Matei Ilie,1005347,23,191.0,Romania,D,Left,1909008000.0,2400000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Ayberk Karapo,1395701,22,186.0,Türkiye,D,Right,,1600000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Godfried Frimpong,931743,27,180.0,Netherlands,D,Left,1814313600.0,2200000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Cláudio Winck,155998,32,183.0,Brazil,D,Right,1814313600.0,850000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Kamil Ahmet Çörekçi,124728,34,173.0,Türkiye,D,Right,1814313600.0,96000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Taylan Utku Aydın,1498789,20,180.0,Türkiye,D,Right,1877472000.0,185000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Jakob Jessen,1133228,22,184.0,Denmark,D,Left,1909008000.0,850000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Berkay Muratoğlu,1931424,18,183.0,Türkiye,D,Right,1814313600.0,48000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Ahmet Taha Dağbaşı,2430362,21,197.0,Türkiye,D,Right,1909008000.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Andreas Gianniotis,236746,33,190.0,Greece,G,Right,1814313600.0,330000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Ali Emre Yanar,840297,28,190.0,Türkiye,G,Right,1814313600.0,110000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Ege Albayrak,2028660,18,191.0,Türkiye,G,Right,1845936000.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Şant Kazancı,1912907,17,186.0,Türkiye,G,Right,1814313600.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kasımpaşa,6063,Ramazan Özkanli,1131343,23,190.0,Türkiye,G,Right,1845936000.0,46000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Konyaspor,3085,Jackson Muleka,927649,26,180.0,DR Congo,F,Right,1814313600.0,2900000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Konyaspor,3085,Ebrima Colley,928106,26,179.0,Gambia,F,Right,1814313600.0,755000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Konyaspor,3085,Blaž Kramer,804405,30,191.0,Slovenia,F,Right,1814313600.0,875000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Konyaspor,3085,Enis Bardhi,355024,31,172.0,North Macedonia,M,Right,1814313600.0,2700000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Konyaspor,3085,Diogo Gonçalves,357746,29,178.0,Portugal,M,Right,1845936000.0,2400000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Konyaspor,3085,Deniz Türüç,252207,33,175.0,Türkiye,M,Left,1845936000.0,530000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Konyaspor,3085,Emir Bars,1148996,21,180.0,Türkiye,M,Right,1877472000.0,410000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Konyaspor,3085,Morten Bjørlo,921358,30,176.0,Norway,M,Right,1814313600.0,950000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Konyaspor,3085,Melih İbrahimoğlu,998462,26,175.0,Türkiye,M,Both,1814313600.0,2600000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Konyaspor,3085,Chidozie Awaziem,804764,29,189.0,Nigeria,D,Right,1845936000.0,2600000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Konyaspor,3085,Da Mata,1482346,20,186.0,Brazil,D,Right,1877472000.0,245000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Konyaspor,3085,Rayyan Baniya,929739,27,192.0,Türkiye,D,Right,1909008000.0,970000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Konyaspor,3085,Yhoan Andzouana,605548,29,179.0,Congo Republic,D,Right,1845936000.0,825000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Konyaspor,3085,Adil Demirbağ,787949,28,185.0,Türkiye,D,Right,1814313600.0,3300000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Konyaspor,3085,Arif Boşluk,1138095,23,183.0,Türkiye,D,Left,,725000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Konyaspor,3085,Uğurcan Yazğılı,904303,27,184.0,Türkiye,D,Right,1814313600.0,1900000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Konyaspor,3085,Muzaffer Utku Eriş,1981253,20,186.0,Türkiye,D,Right,1845936000.0,46000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Konyaspor,3085,Ata Yanık,2128093,17,182.0,Türkiye,D,Left,1814313600.0,48000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Konyaspor,3085,Deniz Ertaş,1195772,21,194.0,Türkiye,G,Right,1814313600.0,3400000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Konyaspor,3085,Bahadır Han Güngördü,807289,30,190.0,Türkiye,G,Right,1814313600.0,660000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Konyaspor,3085,Egemen Aydin,1892942,19,193.0,Türkiye,G,Right,1814313600.0,45000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Alanyaspor,6362,Meschak Elia,862078,29,173.0,DR Congo,F,Right,1845936000.0,1600000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Alanyaspor,6362,Ianis Hagi,756344,27,180.0,Romania,F,Both,1814313600.0,1700000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Alanyaspor,6362,Hwang Ui-Jo,791314,33,186.0,South Korea,F,Right,1814313600.0,485000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Alanyaspor,6362,Omar Ben Ali,1996692,21,197.0,Tunisia,F,Right,1909008000.0,710000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Alanyaspor,6362,Ibrahim Kaya,996405,25,184.0,Türkiye,F,Right,1877472000.0,1600000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Alanyaspor,6362,Arda Usluoğlu,1618838,19,189.0,Türkiye,F,Right,1814313600.0,725000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Alanyaspor,6362,Veysel Unal,991516,25,173.0,Türkiye,F,Right,1877472000.0,46000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Alanyaspor,6362,Maestro,1002146,23,173.0,Angola,M,Right,1877472000.0,7200000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Alanyaspor,6362,Florent Hadergjonaj,354860,32,183.0,Kosovo,M,Right,1814313600.0,1900000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Alanyaspor,6362,Gaius Makouta,847013,29,180.0,Congo Republic,M,Right,1814313600.0,2100000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Alanyaspor,6362,Ruan Pereira Duarte,1400494,21,172.0,Brazil,M,Right,1909008000.0,3100000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Alanyaspor,6362,Yusuf Özdemir,1084884,25,181.0,Türkiye,M,Right,1845936000.0,3100000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Alanyaspor,6362,Baran Ali Gezek,1215110,20,182.0,Türkiye,M,Right,1909008000.0,1600000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Alanyaspor,6362,İzzet Çelik,826836,22,166.0,Türkiye,M,Right,1877472000.0,245000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Alanyaspor,6362,Şahin Dik,1214454,22,170.0,Türkiye,M,Left,1940544000.0,140000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Alanyaspor,6362,Batuhan Yavuz,1195735,21,177.0,Türkiye,M,Right,1877472000.0,52000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Alanyaspor,6362,Enes Keskin,897168,25,185.0,Türkiye,M,Right,1877472000.0,370000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Alanyaspor,6362,Yusuf Karademir,2085002,18,181.0,Türkiye,M,Left,1814313600.0,46000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Alanyaspor,6362,Emirhan Çavuş,1522244,23,178.0,Türkiye,M,Right,1814313600.0,46000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Alanyaspor,6362,Ümit Akdağ,1215071,22,192.0,Romania,D,Left,1845936000.0,6400000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Alanyaspor,6362,Fidan Aliti,385296,32,182.0,Kosovo,D,Left,1845936000.0,870000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Alanyaspor,6362,Nuno Lima,1133301,25,184.0,Portugal,D,Right,1877472000.0,2100000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Alanyaspor,6362,Fatih Aksoy,827922,28,189.0,Türkiye,D,Right,1814313600.0,1100000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Alanyaspor,6362,Bedirhan Özyurt,1138102,23,195.0,Türkiye,D,Right,1909008000.0,195000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Alanyaspor,6362,Paulo Victor,34142,39,187.0,Brazil,G,Left,1814313600.0,55000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Alanyaspor,6362,Mert Furkan Bayram,1149021,21,187.0,Türkiye,G,Right,1877472000.0,280000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Alanyaspor,6362,Yusuf Karagöz,1133582,26,195.0,Türkiye,G,Right,1814313600.0,72000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kayserispor,3072,German Onugkha,928418,30,190.0,Russia,F,Right,1814313600.0,1700000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kayserispor,3072,Florent Hasani,885048,29,183.0,Kosovo,F,Left,,990000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kayserispor,3072,Mamadi Camara,1089411,22,175.0,Guinea-Bissau,F,Right,,185000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kayserispor,3072,Talha Sariarslan,1088715,22,186.0,Türkiye,F,Right,1877472000.0,515000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kayserispor,3072,Nurettin Korkmaz,976993,24,172.0,Türkiye,F,Left,1814313600.0,105000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kayserispor,3072,Arda Kaya,1982288,20,183.0,Türkiye,F,Left,1877472000.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kayserispor,3072,Ataol Taylan Karapınar,2331669,18,,Türkiye,F,Right,1877472000.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kayserispor,3072,Burak Erkan,2662626,19,177.0,Türkiye,F,Right,1877472000.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kayserispor,3072,Taulant Seferi,279487,29,177.0,Albania,M,Right,,1300000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kayserispor,3072,Youssef Aït Bennasser,802850,30,184.0,Morocco,M,Right,1814313600.0,830000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kayserispor,3072,Sam Mather,1136727,21,180.0,England,M,Right,1845936000.0,110000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kayserispor,3072,Miguel Cardoso,344009,32,176.0,Portugal,M,Both,1814313600.0,1400000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kayserispor,3072,Daniel Moreno,941637,31,180.0,Colombia,M,Right,,365000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kayserispor,3072,Görkem Sağlam,795001,28,175.0,Türkiye,M,Right,1814313600.0,845000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kayserispor,3072,Marco Dulca,920622,27,184.0,Romania,M,Right,,375000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kayserispor,3072,Sinan Kurt,381560,31,178.0,Germany,M,Both,,435000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kayserispor,3072,Yiğit Emre Çeltik,1035954,23,164.0,Türkiye,M,Left,1814313600.0,53000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kayserispor,3072,Benhur Keser,899402,29,185.0,Türkiye,M,Right,,720000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kayserispor,3072,Mert Göckan,997004,25,185.0,Germany,M,Left,,210000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kayserispor,3072,Malik Hayvali,2232148,21,170.0,Germany,M,Left,,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kayserispor,3072,Majid Hosseini,359332,30,187.0,Iran,D,Right,1814313600.0,675000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kayserispor,3072,Jadel Katongo,1142702,21,184.0,England,D,Right,1845936000.0,485000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kayserispor,3072,Joshua Brenet,296438,32,181.0,Curacao,D,Right,1814313600.0,905000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kayserispor,3072,Semih Güler,325155,31,184.0,Germany,D,Right,1845936000.0,825000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kayserispor,3072,Jemal Tabidze,287607,30,186.0,Georgia,D,Right,,940000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kayserispor,3072,Denis Radu,1102676,23,176.0,Romania,D,Both,,775000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kayserispor,3072,Kayra Cihan,1982283,18,187.0,Türkiye,D,Left,1877472000.0,105000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kayserispor,3072,Cenk Şen,957359,25,170.0,Türkiye,D,Left,,850000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kayserispor,3072,Mehmet Murat Uçar,816407,35,172.0,Türkiye,D,Right,,120000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kayserispor,3072,Abdulsamet Burak,900798,30,182.0,Türkiye,D,Left,1814313600.0,105000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kayserispor,3072,Fethi Özer,355006,29,185.0,Türkiye,D,Right,,185000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kayserispor,3072,Aras Çelik,2332716,16,,Türkiye,D,,1877472000.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kayserispor,3072,Ertugrul Demirel,2402736,18,,Türkiye,D,,1877472000.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kayserispor,3072,Deniz Eren Dönmezer,1550760,17,190.0,Türkiye,G,Right,1845936000.0,960000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kayserispor,3072,Gökhan Değirmenci,60317,37,184.0,Türkiye,G,Right,,46000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Kayserispor,3072,Hasan Kaan Yalci,2017392,19,190.0,Türkiye,G,Right,1877472000.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Gaziantep FK,5138,Serdar Dursun,123917,34,190.0,Türkiye,F,Right,1814313600.0,230000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Gaziantep FK,5138,Trivante Stewart,1431516,26,183.0,Jamaica,F,Right,1814313600.0,1500000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Gaziantep FK,5138,Fuat Bavuk,953954,25,189.0,Türkiye,F,Right,1845936000.0,205000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Gaziantep FK,5138,Ali Osman Kalın,2161813,18,,Türkiye,F,Right,1814313600.0,53000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Gaziantep FK,5138,Muhammet Akmelek,2405904,17,185.0,Türkiye,F,Right,1845936000.0,52000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Gaziantep FK,5138,Ali Mevran Ablak,1165418,23,179.0,Türkiye,F,Right,1814313600.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Gaziantep FK,5138,Kacper Kozłowski,984602,22,182.0,Poland,M,Right,1814313600.0,5600000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Gaziantep FK,5138,Juninho Bacuna,788971,29,178.0,Curacao,M,Right,1814313600.0,1800000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Gaziantep FK,5138,Alexandru Maxim,180511,36,177.0,Romania,M,Right,1814313600.0,290000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Gaziantep FK,5138,Deian Sorescu,797602,28,175.0,Romania,M,Right,1814313600.0,1600000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Gaziantep FK,5138,Drissa Camara,958167,24,179.0,Côte d'Ivoire,M,Right,1845936000.0,3600000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Gaziantep FK,5138,Enver Kulašin,1124590,22,168.0,Bosnia & Herzegovina,M,Right,1845936000.0,680000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Gaziantep FK,5138,Karamba Gassama,1528256,21,173.0,Gambia,M,Right,1877472000.0,470000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Gaziantep FK,5138,Florin Ştefan,887741,30,182.0,Romania,M,Left,1814313600.0,755000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Gaziantep FK,5138,Gidado Victor Ntino-Emo,1632791,22,181.0,Nigeria,M,Right,1877472000.0,420000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Gaziantep FK,5138,Ogün Özçiçek,859783,27,172.0,Türkiye,M,Right,1814313600.0,540000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Gaziantep FK,5138,Ulrich Meleke,933448,27,181.0,Côte d'Ivoire,M,Right,1845936000.0,1600000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Gaziantep FK,5138,Mirza Cihan,909289,25,175.0,Türkiye,M,Right,,195000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Gaziantep FK,5138,Muhammet Taha Gunes,2019097,20,175.0,Türkiye,M,Left,1814313600.0,52000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Gaziantep FK,5138,Burak Enes Yikici,1923338,22,181.0,Türkiye,M,,1814313600.0,24000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Gaziantep FK,5138,Yusuf Delen,2059229,21,187.0,Türkiye,M,Right,1814313600.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Gaziantep FK,5138,Luis Pérez,843180,31,173.0,Spain,D,Right,1814313600.0,875000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Gaziantep FK,5138,Myenty Abena,555422,31,191.0,Suriname,D,Right,1814313600.0,625000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Gaziantep FK,5138,Kerim Çalhanoğlu,980630,23,180.0,Germany,D,Left,1845936000.0,310000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Gaziantep FK,5138,Nazım Sangaré,169425,32,180.0,Türkiye,D,Right,1845936000.0,220000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Gaziantep FK,5138,Arda Kızıldağ,904228,27,187.0,Türkiye,D,Right,1814313600.0,840000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Gaziantep FK,5138,Sabahattin Destici,962738,26,172.0,Türkiye,D,Right,1845936000.0,285000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Gaziantep FK,5138,Kacper Tobiasz,1083777,23,191.0,Poland,G,Left,1877472000.0,640000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Gaziantep FK,5138,Cemilhan Aslan,2405903,18,191.0,Türkiye,G,Right,1814313600.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Gaziantep FK,5138,Ibrahim Kagan Alkis,2166431,20,190.0,Türkiye,G,Right,1814313600.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Antalyaspor,3056,Samuel Ballet,966663,25,184.0,Switzerland,F,Both,1814313600.0,2200000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Antalyaspor,3056,Nikola Storm,149796,31,178.0,Belgium,F,Right,1814313600.0,1100000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Antalyaspor,3056,Sander van de Streek,220155,33,180.0,Netherlands,F,Right,1814313600.0,515000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Antalyaspor,3056,Yohan Boli,797732,32,181.0,Côte d'Ivoire,F,Right,1814313600.0,750000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Antalyaspor,3056,Bachir Gueye,2266453,23,184.0,Senegal,F,Right,1814313600.0,105000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Antalyaspor,3056,Berkay Topdemir,1961825,19,179.0,Türkiye,F,Right,,46000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Antalyaspor,3056,Arda Altun,2161943,19,179.0,Türkiye,F,Right,,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Antalyaspor,3056,Dario Šarić,848385,29,180.0,Bosnia & Herzegovina,M,Both,1814313600.0,665000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Antalyaspor,3056,Ramzi Safouri,186949,30,184.0,Israel,M,Right,1814313600.0,870000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Antalyaspor,3056,Jesper Ceesay,1021269,24,192.0,Gambia,M,Right,1845936000.0,1400000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Antalyaspor,3056,Hasan Yakub İlçin,2031279,17,,Türkiye,M,Right,,315000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Antalyaspor,3056,Doğukan Sinik,796114,27,180.0,Türkiye,M,Right,1814313600.0,1000000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Antalyaspor,3056,Soner Dikmen,847782,32,179.0,Türkiye,M,Right,1845936000.0,680000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Antalyaspor,3056,Mevlut Simsek,2458740,19,,Türkiye,M,Left,,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Antalyaspor,3056,Hasan Ürkmez,2018934,19,174.0,Türkiye,M,Right,,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Antalyaspor,3056,Ismail Chehaima,2684021,20,,France,M,,,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Antalyaspor,3056,Kenneth Paal,285997,29,175.0,Suriname,D,Left,1845936000.0,2100000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Antalyaspor,3056,Bünyamin Balcı,967214,26,180.0,Türkiye,D,Right,1814313600.0,2100000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Antalyaspor,3056,Veysel Sarı,98276,38,185.0,Türkiye,D,Right,1814313600.0,97000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Antalyaspor,3056,Erdoğan Yeşilyurt,142541,32,178.0,Türkiye,D,Right,1845936000.0,320000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Antalyaspor,3056,Güray Vural,43559,38,177.0,Türkiye,D,Left,,79000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Antalyaspor,3056,Samet Karakoc,1148625,23,185.0,Azerbaijan,D,Left,1845936000.0,515000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Antalyaspor,3056,Mert Yilmaz,881966,27,174.0,Türkiye,D,Right,1814313600.0,365000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Antalyaspor,3056,Ensar Bugra Tivsiz,2203587,19,186.0,Türkiye,D,Right,,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Antalyaspor,3056,Ege Izmirli,1931456,18,,Türkiye,D,Right,,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Antalyaspor,3056,Efecan Gülerce,1212154,24,180.0,Türkiye,D,Left,1877472000.0,53000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Antalyaspor,3056,Julián Cuesta,217110,35,195.0,Spain,G,Right,1814313600.0,195000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Antalyaspor,3056,Abdullah Yiğiter,827515,26,189.0,Türkiye,G,Right,1814313600.0,260000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Antalyaspor,3056,Kağan Arıcan,1418111,20,187.0,Türkiye,G,Right,1845936000.0,90000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Antalyaspor,3056,Doğukan Özkan,902045,26,187.0,Türkiye,G,Right,1814313600.0,46000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Bodrum FK,202390,Devrim Şahin,2273226,19,178.0,Türkiye,F,Right,1814313600.0,380000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Bodrum FK,202390,Jonathan Okita,809225,29,180.0,DR Congo,F,Right,1814313600.0,345000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Bodrum FK,202390,Ali Habeşoğlu,1480626,22,190.0,Türkiye,F,Right,1909008000.0,2000000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Bodrum FK,202390,Emirhan Arkutcu,1417037,20,173.0,Türkiye,F,Left,1845936000.0,205000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Bodrum FK,202390,Kerem Kayaarasi,1839258,20,187.0,Türkiye,F,Right,,47000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Bodrum FK,202390,Haqi Osman,1126525,24,173.0,Ghana,F,Right,1877472000.0,205000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Bodrum FK,202390,Celal Dumanli,903334,32,189.0,Türkiye,F,Right,,105000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Bodrum FK,202390,Yusuf Bozkurt,1618466,20,181.0,Türkiye,F,Both,1877472000.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Bodrum FK,202390,Adem Metin Türk,1063594,22,177.0,Türkiye,F,Left,1845936000.0,240000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Bodrum FK,202390,Boran Başkan,1974312,20,175.0,Türkiye,M,Right,1845936000.0,92000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Bodrum FK,202390,Pedro Brazão,981535,23,172.0,Portugal,M,Left,1845936000.0,1100000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Bodrum FK,202390,Florian Loshaj,831407,29,174.0,Kosovo,M,Left,1845936000.0,550000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Bodrum FK,202390,Enes Ogruce,1395595,19,184.0,Türkiye,M,Right,1814313600.0,140000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Bodrum FK,202390,Kartal Cengizer,2481134,19,175.0,Türkiye,M,Left,1877472000.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Bodrum FK,202390,Yusuf Sertkaya,1216154,20,188.0,Türkiye,M,Right,1877472000.0,485000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Bodrum FK,202390,Enes Koc,1465131,21,175.0,Türkiye,M,Right,,77000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Bodrum FK,202390,Gabriel Obekpa,1481257,22,187.0,Nigeria,M,Left,1845936000.0,135000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Bodrum FK,202390,Mustafa Erdilman,1003335,22,178.0,Türkiye,M,Left,1845936000.0,530000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Bodrum FK,202390,Ahmet Aslan,1134098,25,179.0,Türkiye,M,Right,1845936000.0,875000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Bodrum FK,202390,Ege Arslan,1932139,20,174.0,Türkiye,M,Right,1877472000.0,190000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Bodrum FK,202390,Tunahan Akpınar,1651324,25,178.0,Türkiye,M,Left,1845936000.0,52000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Bodrum FK,202390,Yunus Tarhan,1165018,24,190.0,Türkiye,M,Right,1814313600.0,27000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Bodrum FK,202390,Arlind Ajeti,111746,32,184.0,Albania,D,Right,1814313600.0,575000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Bodrum FK,202390,Ali Şahin Yılmaz,1145980,22,185.0,Türkiye,D,Right,1877472000.0,110000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Bodrum FK,202390,Ege Bilsel,1011244,22,175.0,Türkiye,D,Right,1845936000.0,725000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Bodrum FK,202390,Emre Kaplan,1009308,25,174.0,Türkiye,D,Left,1845936000.0,425000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Bodrum FK,202390,Ali Aytemur,802650,30,184.0,Türkiye,D,Left,1814313600.0,480000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Bodrum FK,202390,Ogulcan Basol,2001938,21,190.0,Türkiye,D,Right,1845936000.0,52000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Bodrum FK,202390,Furkan Apaydın,1430707,24,185.0,Türkiye,D,Left,1814313600.0,480000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Bodrum FK,202390,Ismail Tarim,1164961,22,189.0,Türkiye,D,Right,1814313600.0,420000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Bodrum FK,202390,Berşan Yavuzay,1932107,24,177.0,Türkiye,D,Right,1814313600.0,390000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Bodrum FK,202390,Diogo Sousa,882110,27,195.0,Portugal,G,Right,1814313600.0,1100000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Bodrum FK,202390,Rüzgar Adıyaman,1643688,19,185.0,Türkiye,G,Right,1814313600.0,52000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Bodrum FK,202390,Bahri Can Tosun,1164956,23,185.0,Türkiye,G,Right,1877472000.0,260000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Bodrum FK,202390,Baran Demir,2085727,20,187.0,Türkiye,G,Right,1845936000.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Sivasspor,3076,Rey Manaj,587882,29,182.0,Albania,F,Both,1877472000.0,1700000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Sivasspor,3076,Aliou Badji,869845,28,188.0,Senegal,F,Right,1814313600.0,480000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Sivasspor,3076,Jonathan Okoronkwo,1188543,22,175.0,Nigeria,F,Right,1814313600.0,1000000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Sivasspor,3076,Emre Gökay,1393928,20,181.0,Türkiye,F,Right,1814313600.0,490000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Sivasspor,3076,Salih Kavrazlı,964233,24,178.0,Türkiye,F,Right,1814313600.0,180000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Sivasspor,3076,Bekir Turaç Böke,997681,27,190.0,Türkiye,F,Right,1814313600.0,1000000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Sivasspor,3076,Muhammed Sinan Kaya,1655216,20,,Türkiye,F,Right,1845936000.0,47000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Sivasspor,3076,Burak Kapacak,836686,26,180.0,Türkiye,M,Right,,195000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Sivasspor,3076,Charis Charisis,317297,31,177.0,Greece,M,Right,1845936000.0,530000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Sivasspor,3076,Valon Ethemi,904945,28,179.0,North Macedonia,M,Right,1814313600.0,740000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Sivasspor,3076,Kerem Kesgin,857745,25,174.0,Türkiye,M,Right,1814313600.0,290000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Sivasspor,3076,Amilton,803148,36,172.0,Brazil,M,Right,,70000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Sivasspor,3076,Cihat Çelik,339253,30,182.0,Netherlands,M,Right,1814313600.0,370000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Sivasspor,3076,Kamil Fidan,1618310,23,185.0,Türkiye,M,Right,1877472000.0,570000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Sivasspor,3076,Oguzhan Aksoy,1640657,19,,Türkiye,M,,1814313600.0,145000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Sivasspor,3076,Eren Kaya,1464307,22,179.0,Türkiye,M,Left,,26000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Sivasspor,3076,Aaron Appindangoyé,785850,34,185.0,Gabon,D,Right,1845936000.0,190000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Sivasspor,3076,Mert Çelik,973624,26,186.0,Azerbaijan,D,Right,1814313600.0,415000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Sivasspor,3076,Uğur Çiftçi,142850,34,180.0,Türkiye,D,Left,1814313600.0,270000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Sivasspor,3076,Okan Erdoğan,881213,27,185.0,Germany,D,Both,1845936000.0,635000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Sivasspor,3076,Murat Paluli,893014,32,175.0,Türkiye,D,Right,1814313600.0,440000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Sivasspor,3076,Mehmet Feyzi Yıldırım,787897,30,175.0,Türkiye,D,Right,1814313600.0,145000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Sivasspor,3076,Mehmet Albayrak,1141652,22,189.0,Türkiye,D,Right,1814313600.0,52000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Sivasspor,3076,Süleyman Özdamar,124952,33,182.0,Türkiye,D,Right,,52000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Sivasspor,3076,Mehmet Göktuğ Bakırbaş,816223,30,196.0,Türkiye,G,Right,1814313600.0,340000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Sivasspor,3076,Arda Erdursun,2027618,19,193.0,Türkiye,G,Right,1814313600.0,54000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Sivasspor,3076,Yigit Baynazoglu,2181960,16,185.0,Türkiye,G,Right,1814313600.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Hatayspor,3091,Ensar Arslan,988896,25,183.0,Germany,F,Right,1814313600.0,135000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Hatayspor,3091,Eren Guler,2409964,20,170.0,Türkiye,F,Right,1814313600.0,49000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Hatayspor,3091,Taylan Ozgun,996076,26,183.0,Türkiye,F,Right,1814313600.0,68000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Hatayspor,3091,Ali Yıldız,1516749,19,173.0,Türkiye,M,Right,1845936000.0,135000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Hatayspor,3091,Ünal-Emre Durmushan,1391929,22,175.0,Germany,M,Right,1845936000.0,210000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Hatayspor,3091,Mustafa Aydin,2265886,18,,Türkiye,M,,1845936000.0,80000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Hatayspor,3091,Birhan Vatansever,788054,29,180.0,Türkiye,M,Right,1814313600.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Hatayspor,3091,Cemil Aksu,2369004,20,,Türkiye,M,,1845936000.0,24000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Hatayspor,3091,Halil Can Cemali,1480625,23,179.0,Türkiye,M,Right,1814313600.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Hatayspor,3091,Mehmet Haluk Alagoz,2477676,18,,Türkiye,M,,1845936000.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Hatayspor,3091,Engin Aksoy,1166884,22,184.0,Türkiye,D,Left,1814313600.0,140000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Hatayspor,3091,Sinan Ozen,2462522,21,185.0,Netherlands,D,Left,1814313600.0,46000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Hatayspor,3091,Hakan Cinemre,329035,32,183.0,Türkiye,D,Right,1814313600.0,52000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Hatayspor,3091,Seyit Gazanfer,1165298,27,180.0,Türkiye,D,Right,1814313600.0,97000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Hatayspor,3091,Ersin Aydemir,2124247,20,178.0,Türkiye,D,Right,1845936000.0,80000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Hatayspor,3091,Melih Sen,2124249,20,190.0,Türkiye,D,Right,1845936000.0,93000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Hatayspor,3091,Abdulkadir Adiyaman,2369001,20,190.0,Türkiye,D,Left,1845936000.0,24000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Hatayspor,3091,Baris Uzel,2354832,18,,Türkiye,D,Left,1845936000.0,26000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Hatayspor,3091,Emir Dadük,1618350,18,191.0,Türkiye,G,Right,1845936000.0,230000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Hatayspor,3091,Demir Sarıcalı,1548585,21,195.0,Türkiye,G,Right,1814313600.0,130000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Hatayspor,3091,Mert Çiçek,2444956,19,188.0,Türkiye,G,Right,1845936000.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Adana Demirspor,3101,Ahmet Bolat,2237600,18,,Türkiye,F,,,155000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Adana Demirspor,3101,Diyar Zengin,2166429,18,,Türkiye,F,,1909008000.0,27000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Adana Demirspor,3101,Ahmet Birinci,2272006,20,,Türkiye,F,,,26000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Adana Demirspor,3101,Ahmet Yilmaz,1983995,20,177.0,Türkiye,M,Left,1909008000.0,105000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Adana Demirspor,3101,Gokdeniz Tunc,2086510,20,176.0,Türkiye,M,Left,1909008000.0,130000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Adana Demirspor,3101,Kursat Turkes Kucuk,2196420,21,165.0,Türkiye,M,Left,1814313600.0,97000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Adana Demirspor,3101,Sefa Gulay,2121511,20,,Türkiye,M,,,82000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Adana Demirspor,3101,Kayra Saygan,2229693,16,177.0,Türkiye,M,Right,1845936000.0,90000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Adana Demirspor,3101,Mert Menemencioglu,2217477,19,181.0,Türkiye,M,,1909008000.0,82000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Adana Demirspor,3101,Ulaş İmergi,2217478,19,180.0,Türkiye,M,Right,1845936000.0,23000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Adana Demirspor,3101,Toprak Bayar,2420213,17,184.0,Türkiye,M,Right,1845936000.0,,,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Adana Demirspor,3101,Enes Demirtas,2216318,20,182.0,Türkiye,M,Right,1909008000.0,70000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Adana Demirspor,3101,Halil Eray Aktas,2216319,19,,Türkiye,M,,1909008000.0,24000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Adana Demirspor,3101,Demir Yavuz,2121510,19,,Türkiye,M,,,54000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Adana Demirspor,3101,Osman Kaynak,1170288,20,175.0,Türkiye,D,Left,1845936000.0,90000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Adana Demirspor,3101,Ali Arda Yildiz,2086501,19,183.0,Türkiye,D,Left,,54000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Adana Demirspor,3101,Ali Fidan,2162484,20,194.0,Türkiye,D,Left,1909008000.0,52000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Adana Demirspor,3101,Yusuf Demirkiran,2086502,20,187.0,Türkiye,D,Right,1909008000.0,79000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Adana Demirspor,3101,Yucel Gurol,1106437,21,171.0,Türkiye,D,Left,1909008000.0,47000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Adana Demirspor,3101,Aykut Sarikaya,2142411,16,172.0,Türkiye,D,Right,1845936000.0,81000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Adana Demirspor,3101,Doguhan Dübüs,2317978,18,,Türkiye,D,Right,,46000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Adana Demirspor,3101,Aslan Atay,1550757,21,,Türkiye,D,,,53000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Adana Demirspor,3101,Hasan Alp Kaya,2368656,17,,Türkiye,D,,,52000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Adana Demirspor,3101,Murat Uğur Eser,1550761,21,191.0,Türkiye,G,Right,1845936000.0,94000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Adana Demirspor,3101,Eren Fidan,2121507,16,190.0,Türkiye,G,Right,1845936000.0,52000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497
+Turkey,Trendyol Süper Lig,52,63814,Adana Demirspor,3101,Ata Gül,2450401,17,190.0,Türkiye,G,Right,,54000.0,EUR,TUR,2024-2025,datafc_sofascore,2026-08-09T09:04:22.745497

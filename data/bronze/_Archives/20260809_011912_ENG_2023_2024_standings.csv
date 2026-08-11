@@ -1,0 +1,61 @@
+﻿country,tournament,tournament_id,season_id,team_name,team_id,position,matches,wins,draws,losses,scores_for,scores_against,points,category,_league_id,_season,_source,_scraped_at
+England,Premier League,17,52186,Manchester City,17,1,38,28,7,3,96,34,91,Total,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Arsenal,42,2,38,28,5,5,91,29,89,Total,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Liverpool FC,44,3,38,24,10,4,86,41,82,Total,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Aston Villa,40,4,38,20,8,10,76,61,68,Total,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Tottenham Hotspur,33,5,38,20,6,12,74,61,66,Total,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Chelsea,38,6,38,18,9,11,77,63,63,Total,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Newcastle United,39,7,38,18,6,14,85,62,60,Total,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Manchester United,35,8,38,18,6,14,57,58,60,Total,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,West Ham United,37,9,38,14,10,14,60,74,52,Total,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Crystal Palace,7,10,38,13,10,15,57,58,49,Total,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Brighton & Hove Albion,30,11,38,12,12,14,55,62,48,Total,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Bournemouth,60,12,38,13,9,16,54,67,48,Total,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Fulham,43,13,38,13,8,17,55,61,47,Total,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Wolverhampton,3,14,38,13,7,18,50,65,46,Total,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Everton,48,15,38,13,9,16,40,51,40,Total,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Brentford,50,16,38,10,9,19,56,65,39,Total,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Nottingham Forest,14,17,38,9,9,20,49,67,32,Total,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Luton Town,72,18,38,6,8,24,52,85,26,Total,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Burnley,6,19,38,5,9,24,41,78,24,Total,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Sheffield United,15,20,38,3,7,28,35,104,16,Total,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Liverpool FC,44,1,19,15,3,1,49,17,48,Home,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Manchester City,17,2,19,14,5,0,51,16,47,Home,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Arsenal,42,3,19,15,2,2,48,16,47,Home,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Newcastle United,39,4,19,12,4,3,49,22,40,Home,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Aston Villa,40,5,19,12,4,3,48,28,40,Home,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Tottenham Hotspur,33,6,19,13,0,6,38,27,39,Home,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Chelsea,38,7,19,11,4,4,44,26,37,Home,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Manchester United,35,8,19,10,3,6,31,28,33,Home,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Brighton & Hove Albion,30,9,19,8,6,5,30,27,30,Home,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Fulham,43,10,19,9,2,8,31,24,29,Home,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,West Ham United,37,11,19,7,8,4,31,28,29,Home,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Crystal Palace,7,12,19,8,4,7,37,26,28,Home,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Everton,48,13,19,8,4,7,22,18,28,Home,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Bournemouth,60,14,19,7,6,6,27,28,27,Home,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Wolverhampton,3,15,19,8,3,8,26,30,27,Home,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Brentford,50,16,19,5,7,7,29,34,22,Home,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Nottingham Forest,14,17,19,5,5,9,27,30,20,Home,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Luton Town,72,18,19,4,4,11,28,37,16,Home,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Burnley,6,19,19,2,4,13,19,43,10,Home,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Sheffield United,15,20,19,2,4,13,19,57,10,Home,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Manchester City,17,1,19,14,2,3,45,18,44,Away,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Arsenal,42,2,19,13,3,3,43,13,42,Away,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Liverpool FC,44,3,19,9,7,3,37,24,34,Away,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Aston Villa,40,4,19,8,4,7,28,33,28,Away,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Tottenham Hotspur,33,5,19,7,6,6,36,34,27,Away,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Manchester United,35,6,19,8,3,8,26,30,27,Away,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Chelsea,38,7,19,7,5,7,33,37,26,Away,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,West Ham United,37,8,19,7,2,10,29,46,23,Away,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Bournemouth,60,9,19,6,3,10,27,39,21,Away,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Crystal Palace,7,10,19,5,6,8,20,32,21,Away,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Newcastle United,39,11,19,6,2,11,36,40,20,Away,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Everton,48,12,19,5,5,9,18,33,20,Away,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Wolverhampton,3,13,19,5,4,10,24,35,19,Away,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Brighton & Hove Albion,30,14,19,4,6,9,25,35,18,Away,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Fulham,43,15,19,4,6,9,24,37,18,Away,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Brentford,50,16,19,5,2,12,27,31,17,Away,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Nottingham Forest,14,17,19,4,4,11,22,37,16,Away,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Burnley,6,18,19,3,5,11,22,35,14,Away,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Luton Town,72,19,19,2,4,13,24,48,10,Away,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959
+England,Premier League,17,52186,Sheffield United,15,20,19,1,3,15,16,47,6,Away,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:12.167959

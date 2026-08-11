@@ -1,0 +1,55 @@
+﻿country,tournament,tournament_id,season_id,team_name,team_id,position,matches,wins,draws,losses,scores_for,scores_against,points,category,_league_id,_season,_source,_scraped_at
+France,Ligue 1,34,52571,Paris Saint-Germain,1644,1,34,22,10,2,81,33,76,Total,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,AS Monaco,1653,2,34,20,7,7,68,42,67,Total,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Stade Brestois,1715,3,34,17,10,7,53,34,61,Total,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Lille,1643,4,34,16,11,7,52,34,59,Total,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Nice,1661,5,34,15,10,9,40,29,55,Total,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Olympique Lyonnais,1649,6,34,16,5,13,49,55,53,Total,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,RC Lens,1648,7,34,14,9,11,45,37,51,Total,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Olympique de Marseille,1641,8,34,13,11,10,52,41,50,Total,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Stade de Reims,1682,9,34,13,8,13,42,47,47,Total,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Stade Rennais,1658,10,34,12,10,12,53,46,46,Total,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Toulouse,1681,11,34,11,10,13,42,46,43,Total,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Montpellier,1642,12,34,10,12,12,43,48,41,Total,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,RC Strasbourg,1659,13,34,10,9,15,38,50,39,Total,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Nantes,1647,14,34,9,6,19,30,55,33,Total,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Le Havre,1662,15,34,7,11,16,34,45,32,Total,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Metz,1651,16,34,8,5,21,35,58,29,Total,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Lorient,1656,17,34,7,8,19,43,66,29,Total,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Clermont Foot,1680,18,34,5,10,19,26,60,25,Total,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Lille,1643,1,17,11,4,2,34,14,37,Home,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Olympique de Marseille,1641,2,17,10,6,1,31,13,36,Home,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,AS Monaco,1653,3,17,10,3,4,30,14,33,Home,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Paris Saint-Germain,1644,4,17,9,6,2,42,22,33,Home,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Nice,1661,6,17,9,4,4,21,11,31,Home,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,RC Lens,1648,6,17,9,4,4,27,18,31,Home,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Stade Brestois,1715,7,17,8,7,2,25,14,31,Home,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Stade de Reims,1682,8,17,8,3,6,19,18,27,Home,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Stade Rennais,1658,9,17,7,4,6,34,26,25,Home,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Olympique Lyonnais,1649,10,17,7,4,6,25,29,25,Home,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,RC Strasbourg,1659,11,17,7,3,7,22,23,24,Home,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Le Havre,1662,12,17,6,2,9,18,19,20,Home,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Montpellier,1642,13,17,3,9,5,20,23,18,Home,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Lorient,1656,14,17,4,4,9,26,30,16,Home,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Toulouse,1681,15,17,3,7,7,21,25,16,Home,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Clermont Foot,1680,16,17,3,5,9,14,27,14,Home,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Metz,1651,17,17,3,3,11,17,27,12,Home,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Nantes,1647,18,17,3,3,11,17,30,12,Home,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Paris Saint-Germain,1644,1,17,13,4,0,39,11,43,Away,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,AS Monaco,1653,2,17,10,4,3,38,28,34,Away,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Stade Brestois,1715,3,17,9,3,5,28,20,30,Away,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Olympique Lyonnais,1649,4,17,9,1,7,24,26,28,Away,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Toulouse,1681,5,17,8,3,6,21,21,27,Away,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Montpellier,1642,6,17,7,3,7,23,25,24,Away,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Nice,1661,7,17,6,6,5,19,18,24,Away,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Lille,1643,8,17,5,7,5,18,20,22,Away,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Nantes,1647,9,17,6,3,8,13,25,21,Away,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Stade Rennais,1658,10,17,5,6,6,19,20,21,Away,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,RC Lens,1648,11,17,5,5,7,18,19,20,Away,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Stade de Reims,1682,12,17,5,5,7,23,29,20,Away,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Metz,1651,13,17,5,2,10,18,31,17,Away,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,RC Strasbourg,1659,14,17,3,6,8,16,27,15,Away,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Olympique de Marseille,1641,15,17,3,5,9,21,28,14,Away,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Lorient,1656,16,17,3,4,10,17,36,13,Away,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Le Havre,1662,17,17,1,9,7,16,26,12,Away,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189
+France,Ligue 1,34,52571,Clermont Foot,1680,18,17,2,5,10,12,33,11,Away,FRA,2023-2024,datafc_sofascore,2026-08-09T08:17:39.498189

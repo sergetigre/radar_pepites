@@ -1,0 +1,579 @@
+﻿country,tournament,tournament_id,season_id,team_name,team_id,player_name,player_id,age,height,player_country,position,preferred_foot,contract_until,market_value,market_currency,_league_id,_season,_source,_scraped_at
+Germany,Bundesliga,35,63516,FC Bayern München,2672,Harry Kane,108579,33,188.0,England,F,Right,1814313600.0,65000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Bayern München,2672,Bryan Zaragoza,1084730,24,165.0,Spain,F,Right,1877472000.0,7500000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Bayern München,2672,Maycon Cardozo,2236502,17,165.0,Brazil,F,Right,,2900000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Bayern München,2672,Armindo Sieb,1005834,23,175.0,Germany,F,Both,1814313600.0,2600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Bayern München,2672,Bastian Assomo,2361805,16,190.0,Germany,F,Right,1845936000.0,,,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Bayern München,2672,Tim Binder,1925507,19,178.0,Germany,F,Left,1814313600.0,390000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Bayern München,2672,Michael Olise,978838,24,184.0,France,M,Left,1877472000.0,164000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Bayern München,2672,Luis Díaz,883537,29,178.0,Colombia,M,Right,1877472000.0,76000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Bayern München,2672,Jamal Musiala,1010231,23,184.0,Germany,M,Right,1909008000.0,97000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Bayern München,2672,Ismael Saibari,1063767,25,185.0,Morocco,M,Right,1940544000.0,60000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Bayern München,2672,Joshua Kimmich,259117,31,176.0,Germany,M,Right,1877472000.0,38000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Bayern München,2672,Lennart Karl,1861975,18,168.0,Germany,M,Left,1877472000.0,63000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Bayern München,2672,Serge Gnabry,187433,31,176.0,Germany,M,Right,1845936000.0,18900000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Bayern München,2672,Aleksandar Pavlović,1142251,22,186.0,Germany,M,Both,1877472000.0,96000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Bayern München,2672,João Palhinha,364612,31,189.0,Portugal,M,Right,1845936000.0,13800000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Bayern München,2672,Bara Sapoko Ndiaye,2427970,18,180.0,Senegal,M,Right,,3700000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Bayern München,2672,Tom Bischof,1129935,21,176.0,Germany,M,Left,1877472000.0,39000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Bayern München,2672,Felipe Chávez,1482457,19,175.0,Peru,M,Both,1814313600.0,3700000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Bayern München,2672,Arijon Ibrahimović,1142248,20,176.0,Germany,M,Right,1845936000.0,10500000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Bayern München,2672,David Daiber,1489220,19,179.0,Portugal,M,Right,1909008000.0,2800000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Bayern München,2672,Guido Della Rovere,1618538,19,187.0,Italy,M,Left,1814313600.0,1600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Bayern München,2672,Alphonso Davies,843665,25,185.0,Canada,D,Left,1909008000.0,39000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Bayern München,2672,Dayot Upamecano,798583,27,185.0,France,D,Right,1909008000.0,69000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Bayern München,2672,Kim Min-jae,896569,29,190.0,South Korea,D,Right,1845936000.0,21000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Bayern München,2672,Sacha Boey,980418,25,178.0,France,D,Right,1845936000.0,9200000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Bayern München,2672,Jonathan Tah,227672,30,194.0,Germany,D,Right,1877472000.0,26000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Bayern München,2672,Josip Stanišić,927407,26,186.0,Croatia,D,Right,1877472000.0,39000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Bayern München,2672,Konrad Laimer,355492,29,180.0,Austria,D,Right,1877472000.0,31000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Bayern München,2672,Hiroki Itō,873106,27,188.0,Japan,D,Left,1845936000.0,19800000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Bayern München,2672,Nathaniel Brown,1159759,23,179.0,Germany,D,Left,1940544000.0,46000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Bayern München,2672,Tarek Buchmann,1153298,21,188.0,Germany,D,Right,1814313600.0,310000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Bayern München,2672,Filip Pavić,2518029,16,193.0,Croatia,D,Right,1877472000.0,940000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Bayern München,2672,Vincent Manuba,1195752,21,183.0,Germany,D,Right,1814313600.0,130000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Bayern München,2672,Manuel Neuer,8959,40,193.0,Germany,G,Right,1814313600.0,4099999.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Bayern München,2672,Jonas Urbig,1130647,23,189.0,Germany,G,Both,1877472000.0,19600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Bayern München,2672,Sven Ulreich,26768,38,192.0,Germany,G,Right,1814313600.0,515000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Bayern München,2672,David Podar-Stiube,2311149,16,,Germany,G,,1845936000.0,,,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Bayer 04 Leverkusen,2681,Ibrahim Maza,1407524,20,181.0,Algeria,F,Right,1909008000.0,41000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Bayer 04 Leverkusen,2681,Victor Okoh Boniface,978521,25,193.0,Nigeria,F,Right,1845936000.0,5500000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Bayer 04 Leverkusen,2681,Eliesse Ben Seghir,1394353,21,178.0,Morocco,F,Right,1909008000.0,21000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Bayer 04 Leverkusen,2681,Patrik Schick,280609,30,191.0,Czechia,F,Left,1909008000.0,16600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Bayer 04 Leverkusen,2681,Christian Kofane,2029648,20,189.0,Cameroon,F,Right,1877472000.0,41000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Bayer 04 Leverkusen,2681,Ernest Poku,1119502,22,172.0,Netherlands,F,Right,1909008000.0,24000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Bayer 04 Leverkusen,2681,Afonso Moreira,1215906,21,175.0,Portugal,F,Right,1940544000.0,18400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Bayer 04 Leverkusen,2681,Nathan Tella,920379,27,173.0,Nigeria,F,Right,1940544000.0,15800000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Bayer 04 Leverkusen,2681,Martin Terrier,846445,29,184.0,France,F,Right,1877472000.0,7400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Bayer 04 Leverkusen,2681,Jonas Hofmann,142390,34,176.0,Germany,F,Right,1814313600.0,1600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Bayer 04 Leverkusen,2681,Aleksa Damjanović,2207346,17,198.0,Serbia,F,Left,1877472000.0,4700000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Bayer 04 Leverkusen,2681,Ndjicoura Bomba,2111739,18,188.0,Mali,F,,1909008000.0,1600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Bayer 04 Leverkusen,2681,Lucas Vázquez,255239,35,173.0,Spain,M,Right,1814313600.0,1600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Bayer 04 Leverkusen,2681,Exequiel Palacios,822600,27,177.0,Argentina,M,Right,1909008000.0,26000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Bayer 04 Leverkusen,2681,Malik Tillman,975798,24,186.0,USA,M,Right,1909008000.0,27000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Bayer 04 Leverkusen,2681,Ezequiel Fernández,1003012,24,178.0,Argentina,M,Left,1909008000.0,21000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Bayer 04 Leverkusen,2681,Aleix García,796047,29,173.0,Spain,M,Right,1877472000.0,21000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Bayer 04 Leverkusen,2681,Arthur,1174761,23,173.0,Brazil,M,Right,1940544000.0,7400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Bayer 04 Leverkusen,2681,Kennet Eichhorn,1961762,17,186.0,Germany,M,Right,1940544000.0,21000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Bayer 04 Leverkusen,2681,Montrell Culbreath,1568522,18,172.0,Germany,M,Right,1940544000.0,15600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Bayer 04 Leverkusen,2681,Farid Alfa-Ruprecht,1402920,20,181.0,Germany,M,Right,1909008000.0,3200000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Bayer 04 Leverkusen,2681,Naba Mensah,1489216,19,,Germany,M,Both,1814313600.0,,,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Bayer 04 Leverkusen,2681,Edmond Tapsoba,883262,27,193.0,Burkina Faso,D,Right,1940544000.0,37000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Bayer 04 Leverkusen,2681,Jarell Quansah,1003339,23,190.0,England,D,Right,1909008000.0,48000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Bayer 04 Leverkusen,2681,Miguel Gutiérrez,908716,25,180.0,Spain,D,Left,1909008000.0,24000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Bayer 04 Leverkusen,2681,Robert Andrich,168903,31,189.0,Germany,D,Right,1845936000.0,6200000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Bayer 04 Leverkusen,2681,Loïc Badé,1006489,26,191.0,France,D,Right,1909008000.0,19400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Bayer 04 Leverkusen,2681,Axel Tape,1937795,18,180.0,France,D,Right,1909008000.0,8700000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Bayer 04 Leverkusen,2681,Jeanuël Belocian,1173172,21,186.0,France,D,Left,1877472000.0,12900000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Bayer 04 Leverkusen,2681,Tim Oermann,1138778,22,187.0,Germany,D,Right,1877472000.0,4099999.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Bayer 04 Leverkusen,2681,Ben Hawighorst,1861963,18,185.0,Germany,D,Left,,,,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Bayer 04 Leverkusen,2681,Mark Flekken,171919,33,194.0,Netherlands,G,Both,1845936000.0,6400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Bayer 04 Leverkusen,2681,Janis Blaswich,96832,35,193.0,Germany,G,Right,1814313600.0,650000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Bayer 04 Leverkusen,2681,Niklas Lomb,142471,33,188.0,Germany,G,Right,1814313600.0,240000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Eintracht Frankfurt,2674,Ayoube Amaimouni Echghouyab,1898148,21,178.0,Morocco,F,Left,1940544000.0,10900000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Eintracht Frankfurt,2674,Michy Batshuayi,147745,32,185.0,Belgium,F,Right,1814313600.0,2200000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Eintracht Frankfurt,2674,Elye Wahi,979315,23,180.0,Côte d'Ivoire,F,Right,1909008000.0,19400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Eintracht Frankfurt,2674,Jonathan Burkardt,939830,26,181.0,Germany,F,Right,1909008000.0,29000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Eintracht Frankfurt,2674,Jean-Mattéo Bahoya,1146148,21,180.0,France,F,Right,1877472000.0,24000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Eintracht Frankfurt,2674,Ansgar Knauff,997012,24,180.0,Germany,F,Right,1845936000.0,15500000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Eintracht Frankfurt,2674,Younes Ebnoutalib,1474296,22,191.0,Germany,F,Right,1940544000.0,8800000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Eintracht Frankfurt,2674,Noel Futkeu,1017574,23,183.0,Germany,F,Right,,7300000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Eintracht Frankfurt,2674,Jessic Ngankam,906276,26,180.0,Germany,F,Right,1845936000.0,720000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Eintracht Frankfurt,2674,Malik Pimpong,1957761,18,190.0,Denmark,F,Right,1940544000.0,3800000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Eintracht Frankfurt,2674,Farès Chaïbi,1192318,23,183.0,Algeria,M,Right,1845936000.0,14500000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Eintracht Frankfurt,2674,Can Uzun,1440948,20,186.0,Türkiye,M,Both,1877472000.0,44000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Eintracht Frankfurt,2674,Ritsu Doan,790965,28,172.0,Japan,M,Left,1909008000.0,15600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Eintracht Frankfurt,2674,Raphael Onyedika,1129862,25,184.0,Nigeria,M,Right,1940544000.0,24000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Eintracht Frankfurt,2674,Mario Götze,66518,34,176.0,Germany,M,Right,1845936000.0,3100000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Eintracht Frankfurt,2674,Ellyes Skhiri,591706,31,185.0,Tunisia,M,Right,1814313600.0,5200000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Eintracht Frankfurt,2674,Noël Aséko,1410926,20,178.0,Germany,M,Right,1940544000.0,12400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Eintracht Frankfurt,2674,Hugo Larsson,1142211,22,187.0,Sweden,M,Right,1877472000.0,30000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Eintracht Frankfurt,2674,Oscar Højlund,1149113,21,184.0,Denmark,M,Right,1877472000.0,14600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Eintracht Frankfurt,2674,Love Arrhov,1977245,18,178.0,Sweden,M,Right,1845936000.0,5200000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Eintracht Frankfurt,2674,Timothy Chandler,40239,36,186.0,USA,M,Right,1814313600.0,375000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Eintracht Frankfurt,2674,Arthur Theate,965778,26,186.0,Belgium,D,Left,1877472000.0,16500000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Eintracht Frankfurt,2674,Robin Koch,581302,30,190.0,Germany,D,Right,1909008000.0,10800000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Eintracht Frankfurt,2674,Keita Kosugi,1501641,20,172.0,Japan,D,Left,1940544000.0,4900000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Eintracht Frankfurt,2674,Nnamdi Collins,1048569,22,191.0,Germany,D,Right,1909008000.0,18500000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Eintracht Frankfurt,2674,Elias Baum,1403018,20,180.0,Germany,D,Right,1845936000.0,3900000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Eintracht Frankfurt,2674,Niels Nkounkou,941179,25,184.0,France,D,Left,1845936000.0,2800000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Eintracht Frankfurt,2674,Otavio,2115909,20,193.0,Brazil,D,Left,1940544000.0,1600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Eintracht Frankfurt,2674,Kauã Santos,1134203,23,196.0,Brazil,G,Right,1909008000.0,6500000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Eintracht Frankfurt,2674,Michael Zetterer,190161,31,187.0,Germany,G,Both,1877472000.0,4099999.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Eintracht Frankfurt,2674,Amil Šiljević,2006785,19,192.0,Bosnia & Herzegovina,G,Right,1877472000.0,,,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Eintracht Frankfurt,2674,Jens Grahl,27214,37,193.0,Germany,G,Right,1814313600.0,210000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia Dortmund,2673,Serhou Guirassy,328027,30,187.0,Guinea,F,Right,1845936000.0,34000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia Dortmund,2673,Maximilian Beier,980628,23,183.0,Germany,F,Right,1877472000.0,43000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia Dortmund,2673,Fábio Silva,954076,24,185.0,Portugal,F,Right,1909008000.0,21000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia Dortmund,2673,Mathis Albert,1937835,17,175.0,USA,F,Right,1814313600.0,310000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia Dortmund,2673,Jobe Bellingham,1134083,20,189.0,England,M,Right,1909008000.0,38000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia Dortmund,2673,Carney Chukwuemeka,994556,22,185.0,Austria,M,Right,1909008000.0,18100000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia Dortmund,2673,Felix Nmecha,907463,25,190.0,Germany,M,Right,1909008000.0,53000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia Dortmund,2673,Marcel Sabitzer,133908,32,177.0,Austria,M,Right,1814313600.0,6200000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia Dortmund,2673,Konstantinos Karetsas,1468744,18,171.0,Greece,M,Left,1940544000.0,34000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia Dortmund,2673,Julian Ryerson,800951,28,183.0,Norway,M,Right,1845936000.0,24000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia Dortmund,2673,Samuele Inacio,1861666,18,175.0,Italy,M,Right,1877472000.0,15900000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia Dortmund,2673,Daniel Svensson,1021272,24,183.0,Sweden,M,Left,1877472000.0,20000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia Dortmund,2673,Justin Lerma,1836843,18,176.0,Ecuador,M,Right,1940544000.0,3100000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia Dortmund,2673,Mussa Kaba,1931662,17,194.0,Germany,M,Right,1940544000.0,215000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia Dortmund,2673,Ramy Bensebaini,577726,31,186.0,Algeria,D,Left,1814313600.0,7400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia Dortmund,2673,Nico Schlotterbeck,940871,26,191.0,Germany,D,Left,1940544000.0,57000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia Dortmund,2673,Emre Can,138156,32,186.0,Germany,D,Right,1814313600.0,3200000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia Dortmund,2673,Niklas Süle,168937,30,195.0,Germany,D,Right,1814313600.0,,,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia Dortmund,2673,Waldemar Anton,799046,30,189.0,Germany,D,Right,1845936000.0,19700000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia Dortmund,2673,Filippo Mané,1137131,21,188.0,Italy,D,Right,1845936000.0,2400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia Dortmund,2673,Luca Reggiani,1937833,18,192.0,Italy,D,Right,,9700000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia Dortmund,2673,Joane Gadou,1471049,19,195.0,France,D,Right,1940544000.0,18500000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia Dortmund,2673,Almugera Kabar,1418620,20,181.0,Germany,D,Left,1845936000.0,3100000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia Dortmund,2673,Gregor Kobel,556866,28,193.0,Switzerland,G,Right,1845936000.0,41000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia Dortmund,2673,Diant Ramaj,981562,24,189.0,Germany,G,Right,1877472000.0,6300000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia Dortmund,2673,Alexander Meyer,138491,35,196.0,Germany,G,Right,1814313600.0,475000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia Dortmund,2673,Silas Ostrzinski,1140591,22,197.0,Germany,G,Right,1814313600.0,205000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia Dortmund,2673,Patrick Drewes,132607,33,194.0,Germany,G,Right,1814313600.0,315000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SC Freiburg,2538,Igor Matanović,1019321,23,197.0,Croatia,F,Right,,21000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SC Freiburg,2538,Keisuke Goto,1391315,21,191.0,Japan,F,Right,,9300000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SC Freiburg,2538,Eren Dinkçi,1067120,24,188.0,Türkiye,F,Right,,5400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SC Freiburg,2538,Lucas Höler,280009,32,184.0,Germany,F,Right,,2900000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SC Freiburg,2538,Derry Scherhant,1131002,23,184.0,Germany,F,Right,,7300000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SC Freiburg,2538,Cyriaque Irié,1508537,21,184.0,Burkina Faso,M,Left,,8199999.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SC Freiburg,2538,Yuito Suzuki,1020422,24,175.0,Japan,M,Right,,25000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SC Freiburg,2538,Vincenzo Grifo,171961,33,181.0,Italy,M,Right,1814313600.0,3700000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SC Freiburg,2538,Jan-Niklas Beste,836711,27,177.0,Germany,M,Left,1909008000.0,10800000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SC Freiburg,2538,Florent Muslija,882019,28,172.0,Kosovo,M,Right,1845936000.0,1900000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SC Freiburg,2538,Rihito Yamamoto,1030211,24,179.0,Japan,M,Left,,7400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SC Freiburg,2538,Maximilian Eggestein,569784,29,181.0,Germany,M,Right,,10500000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SC Freiburg,2538,Yannick Engelhardt,990209,25,184.0,Germany,M,Right,,6500000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SC Freiburg,2538,Patrick Osterhage,914755,26,183.0,Germany,M,Left,,11600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SC Freiburg,2538,Rouven Tarnutzer,2217897,19,181.0,Switzerland,M,Right,1814313600.0,380000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SC Freiburg,2538,Matthias Ginter,142259,32,189.0,Germany,D,Right,1814313600.0,4800000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SC Freiburg,2538,Philipp Lienhart,576266,30,189.0,Austria,D,Right,,9600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SC Freiburg,2538,Berkay Yılmaz,1195724,21,182.0,Türkiye,D,Left,,6300000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SC Freiburg,2538,Jordy Makengo,1131339,25,191.0,France,D,Left,1845936000.0,5800000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SC Freiburg,2538,Christian Günter,142231,33,184.0,Germany,D,Left,,1900000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SC Freiburg,2538,Bruno Ogbus,1596573,20,188.0,Switzerland,D,Right,,14000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SC Freiburg,2538,Lukas Kübler,142525,33,183.0,Germany,D,Right,,1500000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SC Freiburg,2538,Maximilian Rosenfelder,1131337,23,186.0,Germany,D,Right,,6300000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SC Freiburg,2538,Philipp Treu,979820,25,172.0,Germany,D,Right,,15900000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SC Freiburg,2538,Anthony Jung,103442,34,186.0,Germany,D,Left,1814313600.0,580000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SC Freiburg,2538,Karl Steinmann,1864722,20,186.0,Germany,D,Right,,160000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SC Freiburg,2538,Noah Atubolu,980626,24,190.0,Germany,G,Right,1814313600.0,24000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SC Freiburg,2538,Mio Backhaus,1083390,22,194.0,Germany,G,Right,,14400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SC Freiburg,2538,Florian Müller,842858,28,190.0,Germany,G,Left,,1200000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SC Freiburg,2538,Jannik Huth,174341,32,185.0,Germany,G,Right,,435000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FSV Mainz 05,2556,Ransford Yeboah Königsdörffer,1012235,24,182.0,Ghana,F,Right,,4700000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FSV Mainz 05,2556,Sheraldo Becker,352544,31,180.0,Suriname,F,Right,,1500000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FSV Mainz 05,2556,William Bøving,1021075,23,176.0,Denmark,F,Right,1877472000.0,3200000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FSV Mainz 05,2556,Phillip Tietz,822340,29,190.0,Germany,F,Right,1845936000.0,3800000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FSV Mainz 05,2556,Benedict Hollerbach,975800,25,181.0,Germany,F,Right,1877472000.0,7500000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FSV Mainz 05,2556,Alynho Haidara,2112003,18,190.0,Côte d'Ivoire,F,Right,,,,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FSV Mainz 05,2556,Silas,949062,27,189.0,DR Congo,M,Right,,2100000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FSV Mainz 05,2556,Kaishu Sano,1028307,25,176.0,Japan,M,Right,1845936000.0,53000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FSV Mainz 05,2556,Jae-sung Lee,537552,33,180.0,South Korea,M,Left,,2100000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FSV Mainz 05,2556,Nadiem Amiri,327755,29,180.0,Germany,M,Right,1845936000.0,15500000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FSV Mainz 05,2556,Hong Hyun-seok,942937,27,177.0,South Korea,M,Left,1845936000.0,2400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FSV Mainz 05,2556,Paul Nebel,980621,23,169.0,Germany,M,Both,1814313600.0,17200000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FSV Mainz 05,2556,Eric Martel,988639,24,186.0,Germany,M,Right,,8199999.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FSV Mainz 05,2556,Silvan Widmer,157377,33,182.0,Switzerland,M,Right,,730000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FSV Mainz 05,2556,Phillipp Mwene,138126,32,170.0,Austria,M,Right,,1600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FSV Mainz 05,2556,Sota Kawasaki,1028306,25,171.0,Japan,M,Right,,1800000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FSV Mainz 05,2556,Anthony Caci,846471,29,184.0,France,M,Right,1845936000.0,6800000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FSV Mainz 05,2556,Otto Ruoppi,1175898,20,180.0,Finland,M,Right,1909008000.0,1000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FSV Mainz 05,2556,Lennard Maloney,893962,26,187.0,USA,M,Right,1845936000.0,2600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FSV Mainz 05,2556,Marco Richter,796027,28,176.0,Germany,M,Right,1814313600.0,1600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FSV Mainz 05,2556,Kacper Potulski,1548910,18,195.0,Poland,D,Right,1845936000.0,16600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FSV Mainz 05,2556,Fabio Gruber,1130119,23,188.0,Peru,D,Right,1909008000.0,2900000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FSV Mainz 05,2556,Andreas Hanche Olsen,794294,29,185.0,Norway,D,Right,1845936000.0,3300000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FSV Mainz 05,2556,Dominik Kohr,152206,32,183.0,Germany,D,Right,1845936000.0,1900000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FSV Mainz 05,2556,Danny da Costa,97926,33,186.0,Germany,D,Right,1814313600.0,1100000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FSV Mainz 05,2556,Stefan Bell,106662,34,192.0,Germany,D,Right,1814313600.0,620000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FSV Mainz 05,2556,Rael Nakuzola,2650701,19,191.0,Germany,D,Left,,,,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FSV Mainz 05,2556,Robin Zentner,174345,31,193.0,Germany,G,Right,1845936000.0,2400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FSV Mainz 05,2556,Alexander Schwolow,134778,34,189.0,Germany,G,Both,,465000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FSV Mainz 05,2556,Maximilian Kinzig,1131885,22,188.0,Germany,G,Right,,155000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,RB Leipzig,36360,Antonio Nusa,1121923,21,180.0,Norway,F,Right,1877472000.0,31000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,RB Leipzig,36360,Johan Bakayoko,1088896,23,179.0,Belgium,F,Left,1909008000.0,18600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,RB Leipzig,36360,Conrad Harder,1494826,21,186.0,Denmark,F,Left,1909008000.0,18600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,RB Leipzig,36360,Rômulo,1133743,24,193.0,Brazil,F,Right,1909008000.0,32000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,RB Leipzig,36360,Sani Suleiman,1894870,19,175.0,Nigeria,F,Both,1940544000.0,5400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,RB Leipzig,36360,Robert Ramsak,1418659,19,184.0,Germany,F,Right,1814313600.0,260000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,RB Leipzig,36360,Samba Konaté,2269705,17,190.0,France,F,Right,1845936000.0,970000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,RB Leipzig,36360,Assan Ouédraogo,1418623,20,192.0,Germany,M,Right,1877472000.0,26000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,RB Leipzig,36360,Arthur Vermeeren,1149127,21,180.0,Belgium,M,Right,1877472000.0,19400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,RB Leipzig,36360,Andrija Maksimović,1406171,19,182.0,Serbia,M,Both,1909008000.0,8600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,RB Leipzig,36360,Eljif Elmas,838232,26,182.0,North Macedonia,M,Right,1845936000.0,12600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,RB Leipzig,36360,Brajan Gruda,1198075,22,178.0,Germany,M,Left,1814313600.0,29000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,RB Leipzig,36360,Christoph Baumgartner,825956,27,180.0,Austria,M,Right,1845936000.0,42000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,RB Leipzig,36360,Nicolas Seiwald,976575,25,179.0,Austria,M,Right,1845936000.0,24000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,RB Leipzig,36360,Ezechiel Banzuzi,1155383,21,191.0,Netherlands,M,Right,1909008000.0,16800000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,RB Leipzig,36360,Rocco Reitz,1048650,24,175.0,Germany,M,Both,1940544000.0,22000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,RB Leipzig,36360,Tidiam Gomis,1426577,20,183.0,France,M,Right,1877472000.0,5300000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,RB Leipzig,36360,Ayodele Thomas,1586659,19,188.0,Netherlands,M,Right,1940544000.0,925000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,RB Leipzig,36360,Viggo Gebel,1900995,18,175.0,Germany,M,Right,1845936000.0,340000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,RB Leipzig,36360,Joyeux Masanka Bungi,1405444,19,186.0,Belgium,M,Left,1814313600.0,430000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,RB Leipzig,36360,Benno Kaltefleiter,1925472,18,189.0,Germany,M,Right,1877472000.0,,,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,RB Leipzig,36360,Castello Lukeba,976421,23,184.0,France,D,Left,1877472000.0,49000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,RB Leipzig,36360,Willi Orbán,136924,33,186.0,Hungary,D,Right,1814313600.0,5500000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,RB Leipzig,36360,David Raum,856076,28,180.0,Germany,D,Left,1814313600.0,27000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,RB Leipzig,36360,Lutsharel Geertruida,856739,26,185.0,Netherlands,D,Right,1877472000.0,22000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,RB Leipzig,36360,El Chadaille Bitshiabu,1048009,21,196.0,France,D,Left,1877472000.0,17500000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,RB Leipzig,36360,Maxime Estève,1117223,24,192.0,France,D,Left,1940544000.0,26000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,RB Leipzig,36360,Ridle Baku,856553,28,176.0,Germany,D,Right,1814313600.0,12800000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,RB Leipzig,36360,Benjamin Henrichs,319857,29,182.0,Germany,D,Both,1845936000.0,7600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,RB Leipzig,36360,Lukas Klostermann,319853,30,188.0,Germany,D,Right,1845936000.0,3400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,RB Leipzig,36360,Abdoul Kone,1859949,21,191.0,France,D,Right,1940544000.0,13800000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,RB Leipzig,36360,Max Finkgräfe,1146250,22,183.0,Germany,D,Left,1909008000.0,5400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,RB Leipzig,36360,Ørjan Nyland,22209,35,192.0,Norway,G,Right,1845936000.0,825000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,RB Leipzig,36360,Maarten Vandevoordt,934385,24,192.0,Belgium,G,Right,1909008000.0,16399999.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,RB Leipzig,36360,Leopold Zingerle,148263,32,188.0,Germany,G,Right,1845936000.0,280000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,RB Leipzig,36360,Timo Schlieck,1389738,20,195.0,Germany,G,Right,,390000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SV Werder Bremen,2534,Dawid Kownacki,286103,29,186.0,Poland,F,Right,1814313600.0,1600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SV Werder Bremen,2534,Cédric Itten,352290,29,189.0,Switzerland,F,Right,1877472000.0,1600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SV Werder Bremen,2534,Keke Topp,1166832,22,192.0,Germany,F,Right,1845936000.0,3100000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SV Werder Bremen,2534,Justin Njinmah,1005343,25,185.0,Germany,F,Right,,5300000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SV Werder Bremen,2534,Marco Grüll,815612,28,182.0,Austria,F,Both,,4300000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SV Werder Bremen,2534,Kenny Quetant,2198657,20,187.0,France,F,Right,1909008000.0,3100000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SV Werder Bremen,2534,Salim Musah,1864786,20,198.0,Germany,F,Right,,2100000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SV Werder Bremen,2534,Paul Erevbenagie,2160258,19,182.0,Germany,F,Both,,120000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SV Werder Bremen,2534,Samuel Mbangula,1100836,22,180.0,Belgium,M,Right,1909008000.0,7300000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SV Werder Bremen,2534,Romano Schmid,830127,26,168.0,Austria,M,Right,1814313600.0,16500000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SV Werder Bremen,2534,Mitchell Weiser,138150,32,176.0,Germany,M,Right,1814313600.0,2700000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SV Werder Bremen,2534,Dariusz Stalmach,1141977,20,182.0,Poland,M,Both,,1600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SV Werder Bremen,2534,Patrice Čović,1596105,19,182.0,Croatia,M,Right,,3900000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SV Werder Bremen,2534,Jens Stage,830142,29,187.0,Denmark,M,Right,1845936000.0,14400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SV Werder Bremen,2534,Skelly Alvero,1165722,24,202.0,France,M,Right,1845936000.0,1900000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SV Werder Bremen,2534,Chuki,1137584,22,176.0,Spain,M,Left,1909008000.0,8700000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SV Werder Bremen,2534,Senne Lynen,826171,27,182.0,Belgium,M,Right,,7300000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SV Werder Bremen,2534,Darwin Soylu,1823917,19,,Türkiye,M,Left,,,,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SV Werder Bremen,2534,Karim Coulibaly,1797852,19,191.0,Germany,D,Left,1877472000.0,26000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SV Werder Bremen,2534,Felix Agu,933398,26,180.0,Nigeria,D,Right,1814313600.0,4700000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SV Werder Bremen,2534,Marco Friedl,825771,28,187.0,Austria,D,Left,1845936000.0,10600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SV Werder Bremen,2534,Julián Malatini,1087043,25,191.0,Argentina,D,Right,,2100000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SV Werder Bremen,2534,Olivier Deman,960114,26,181.0,Belgium,D,Left,1845936000.0,3400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SV Werder Bremen,2534,Oskar Wójcik,1173623,23,191.0,Poland,D,Right,1940544000.0,5400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SV Werder Bremen,2534,Amos Pieper,851254,28,191.0,Germany,D,Right,,3900000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SV Werder Bremen,2534,Niklas Stark,229544,31,190.0,Germany,D,Right,,2300000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SV Werder Bremen,2534,Mick Schmetgens,1568521,18,190.0,Germany,D,Right,1877472000.0,770000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SV Werder Bremen,2534,Mats Heitmann,1830894,20,195.0,Germany,D,,,115000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SV Werder Bremen,2534,Luca Hocker,2160257,19,180.0,Germany,D,Right,1877472000.0,135000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SV Werder Bremen,2534,Karl Hein,991591,24,193.0,Estonia,G,Right,,2900000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SV Werder Bremen,2534,Alexander Schlager,282073,30,184.0,Austria,G,Right,1877472000.0,1900000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SV Werder Bremen,2534,Stefan Smarkalev,1466561,19,188.0,Bulgaria,G,Right,1814313600.0,145000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,SV Werder Bremen,2534,Markus Kolke,94411,35,187.0,Germany,G,Right,,330000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfB Stuttgart,2677,Deniz Undav,794298,30,179.0,Germany,F,Both,1877472000.0,20000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfB Stuttgart,2677,Ermedin Demirović,878081,28,184.0,Bosnia & Herzegovina,F,Right,1845936000.0,20000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfB Stuttgart,2677,Jeremy Arevalo,1464642,21,180.0,Ecuador,F,Left,1940544000.0,7200000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfB Stuttgart,2677,Jovan Milošević,1154491,21,190.0,Serbia,F,Both,1877472000.0,7200000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfB Stuttgart,2677,Leo Sauer,1150938,20,184.0,Slovakia,F,Right,1940544000.0,6500000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfB Stuttgart,2677,Tiago Tomás,983540,24,180.0,Portugal,F,Right,1877472000.0,14600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfB Stuttgart,2677,Bilal El Khannouss,1126569,22,180.0,Morocco,M,Right,1909008000.0,32000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfB Stuttgart,2677,Badredine Bouanani,1153265,21,177.0,Algeria,M,Left,1909008000.0,10500000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfB Stuttgart,2677,Angelo Stiller,901882,25,183.0,Germany,M,Left,1845936000.0,46000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfB Stuttgart,2677,Chema Andrés,1464641,21,193.0,Spain,M,Right,1909008000.0,19400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfB Stuttgart,2677,Jamie Leweling,990201,25,184.0,Germany,M,Both,1877472000.0,37000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfB Stuttgart,2677,Chris Führich,891510,28,178.0,Germany,M,Right,1845936000.0,11600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfB Stuttgart,2677,Atakan Karazor,801030,29,190.0,Türkiye,M,Right,1845936000.0,8800000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfB Stuttgart,2677,Lazar Jovanović,1427148,19,182.0,Serbia,M,Right,1877472000.0,3800000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfB Stuttgart,2677,Nikolas Nartey,861981,26,185.0,Denmark,M,Left,1845936000.0,10300000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfB Stuttgart,2677,Laurin Ulrich,1152486,21,180.0,Germany,M,Right,1814313600.0,3200000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfB Stuttgart,2677,Mirza Ćatović,1937274,19,190.0,Germany,M,Left,1845936000.0,3600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfB Stuttgart,2677,Justin Diehl,1146132,21,174.0,Germany,M,Right,1877472000.0,1100000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfB Stuttgart,2677,Grischa Prömel,253993,31,182.0,Germany,M,Both,1877472000.0,3600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfB Stuttgart,2677,Jarzinho Malanga,1418665,20,179.0,Germany,M,Right,1845936000.0,1600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfB Stuttgart,2677,Yanik Spalt,1566307,18,176.0,Austria,M,Left,1845936000.0,730000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfB Stuttgart,2677,Ertugrul Yigit,1961772,17,,Germany,M,Right,1877472000.0,,,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfB Stuttgart,2677,Maximilian Mittelstädt,788949,29,178.0,Germany,D,Left,1845936000.0,19800000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfB Stuttgart,2677,Finn Jeltsch,1418649,20,188.0,Germany,D,Both,1909008000.0,32000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfB Stuttgart,2677,Dan Zagadou,826205,27,196.0,France,D,Left,1814313600.0,1900000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfB Stuttgart,2677,Jeff Chabot,863271,28,194.0,Germany,D,Left,1845936000.0,15500000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfB Stuttgart,2677,Luca Jaquez,1127823,23,187.0,Switzerland,D,Right,1877472000.0,10700000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfB Stuttgart,2677,Josha Vagnoman,906278,25,186.0,Germany,D,Right,1845936000.0,10300000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfB Stuttgart,2677,Ameen Al-Dakhil,1979970,24,185.0,Belgium,D,Right,1845936000.0,3100000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfB Stuttgart,2677,Lorenz Assignon,1009334,26,179.0,France,D,Right,1877472000.0,8700000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfB Stuttgart,2677,Leonidas Stergiou,962898,24,180.0,Switzerland,D,Right,1845936000.0,2700000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfB Stuttgart,2677,Ramon Hendriks,916943,25,189.0,Netherlands,D,Left,1845936000.0,24000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfB Stuttgart,2677,Christopher Olivier,1500744,20,187.0,Austria,D,Right,1845936000.0,1100000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfB Stuttgart,2677,Dennis Seimen,1195736,20,191.0,Germany,G,Left,1877472000.0,9500000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfB Stuttgart,2677,Fabian Bredlow,152463,31,191.0,Germany,G,Right,1814313600.0,725000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfB Stuttgart,2677,Stefan Drljača,930339,27,191.0,Germany,G,Right,1814313600.0,280000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfB Stuttgart,2677,Marius Funk,222770,30,187.0,Germany,G,Right,1845936000.0,290000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia M'gladbach,2527,Tim Kleindienst,228981,30,194.0,Germany,F,Right,1877472000.0,7700000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia M'gladbach,2527,Shuto Machino,925910,26,185.0,Japan,F,Both,1877472000.0,3900000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia M'gladbach,2527,Isac Lidberg,798175,27,185.0,Sweden,F,Right,1909008000.0,5300000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia M'gladbach,2527,Tomáš Čvančara,929163,25,190.0,Czechia,F,Right,1845936000.0,1900000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia M'gladbach,2527,Iaia Manco Danfa,2276906,19,188.0,Guinea-Bissau,F,Right,1845936000.0,245000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia M'gladbach,2527,Wael Mohya,1995809,17,176.0,Germany,M,Right,,18700000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia M'gladbach,2527,Jens Castrop,1019312,23,177.0,South Korea,M,Right,1877472000.0,9300000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia M'gladbach,2527,Florian Neuhaus,837205,29,185.0,Germany,M,Right,1814313600.0,2700000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia M'gladbach,2527,Hugo Bolin,1142210,23,179.0,Sweden,M,Right,1909008000.0,6200000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia M'gladbach,2527,Kevin Stöger,95381,32,175.0,Austria,M,Left,1814313600.0,1900000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia M'gladbach,2527,Franck Honorat,280453,29,180.0,France,M,Right,1877472000.0,6500000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia M'gladbach,2527,Nathan N'Goumou,962409,26,182.0,Cameroon,M,Right,1814313600.0,3600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia M'gladbach,2527,Robin Hack,876858,27,176.0,Germany,M,Right,1877472000.0,6500000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia M'gladbach,2527,Enzo Leopold,1009161,26,174.0,Germany,M,Right,1909008000.0,4200000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia M'gladbach,2527,Zento Uno,1184035,22,176.0,Japan,M,Right,1909008000.0,970000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia M'gladbach,2527,Fritz Fleck,1925476,19,170.0,Germany,M,Left,1845936000.0,280000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia M'gladbach,2527,Mathieu Nguefack ,1861977,18,175.0,Germany,M,Both,1814313600.0,,,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia M'gladbach,2527,Kevin Diks,583806,29,186.0,Indonesia,D,Right,1909008000.0,4800000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia M'gladbach,2527,Nico Elvedi,282229,29,188.0,Switzerland,D,Right,1814313600.0,7300000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia M'gladbach,2527,Joe Scally,1002920,23,184.0,USA,D,Right,1814313600.0,6600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia M'gladbach,2527,Daiki Hashioka,897334,27,185.0,Japan,D,Right,1814313600.0,1500000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia M'gladbach,2527,Fabio Chiarodia,1130067,21,186.0,Italy,D,Left,1845936000.0,2900000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia M'gladbach,2527,Yukhym Konoplya,904852,26,180.0,Ukraine,D,Right,1877472000.0,5400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia M'gladbach,2527,Jan Leszczyński,1823942,19,184.0,Poland,D,Both,1909008000.0,645000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia M'gladbach,2527,Lukas Ullrich,1083382,22,177.0,Germany,D,Left,1877472000.0,6200000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia M'gladbach,2527,Tyler Meiser,1417130,19,189.0,Germany,D,Right,1845936000.0,130000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia M'gladbach,2527,Philipp Sander,939880,28,185.0,Germany,D,Right,1845936000.0,4200000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia M'gladbach,2527,David Herold,997178,23,185.0,Germany,D,Left,1909008000.0,4300000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia M'gladbach,2527,Dillon Berko,1470011,20,185.0,Germany,D,Left,1845936000.0,26000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia M'gladbach,2527,Moritz Nicolas,578166,28,193.0,Germany,G,Right,1877472000.0,7700000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia M'gladbach,2527,Daniel Batz,94312,35,189.0,Germany,G,Right,1877472000.0,370000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia M'gladbach,2527,Jan Olschowsky,972510,24,182.0,Germany,G,Right,1814313600.0,465000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Borussia M'gladbach,2527,Tobias Sippel,8772,38,180.0,Germany,G,Right,1814313600.0,290000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Wolfsburg,2524,Mohamed Amoura,1107591,26,169.0,Algeria,F,Right,1877472000.0,22000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Wolfsburg,2524,Kento Shiogai,1499696,21,180.0,Japan,F,Right,1909008000.0,8199999.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Wolfsburg,2524,Dženan Pejčinović,1127790,21,188.0,Germany,F,Left,1877472000.0,16399999.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Wolfsburg,2524,Robert Glatzel,168987,32,193.0,Germany,F,Both,1845936000.0,1400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Wolfsburg,2524,Alessio Besio,1118067,22,185.0,Switzerland,F,Right,1909008000.0,2100000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Wolfsburg,2524,Bruno Katz,1649047,18,183.0,Finland,F,Right,1877472000.0,,,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Wolfsburg,2524,Trevor Benedict,1901954,19,182.0,Germany,F,,,,,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Wolfsburg,2524,Christian Eriksen,105734,34,182.0,Denmark,M,Right,1814313600.0,2400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Wolfsburg,2524,Vinícius Souza,979290,27,187.0,Brazil,M,Right,1909008000.0,6600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Wolfsburg,2524,Bence Dárdai,1418624,20,185.0,Hungary,M,Right,1877472000.0,4800000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Wolfsburg,2524,Aster Vranckx,989371,23,183.0,Belgium,M,Both,1877472000.0,5200000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Wolfsburg,2524,Fabian Reese,817968,28,187.0,Germany,M,Both,1909008000.0,5200000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Wolfsburg,2524,Mattias Svanberg,796987,27,185.0,Sweden,M,Right,1814313600.0,8300000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Wolfsburg,2524,Maximilian Arnold,147289,32,184.0,Germany,M,Left,1845936000.0,2800000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Wolfsburg,2524,Elvis Rexhbeçaj,842188,28,182.0,Kosovo,M,Left,1909008000.0,3800000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Wolfsburg,2524,Muhammed Damar,1128638,22,185.0,Germany,M,Both,1940544000.0,4600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Wolfsburg,2524,Fraser Hornby,914877,26,195.0,Scotland,M,Left,1909008000.0,4400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Wolfsburg,2524,Eryk Grzywacz,1927775,20,185.0,Poland,M,Right,1814313600.0,230000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Wolfsburg,2524,Yannick Gerhardt,169255,32,184.0,Germany,M,Left,,1700000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Wolfsburg,2524,Pharell Hensel,2114948,19,188.0,Germany,M,,1877472000.0,3200000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Wolfsburg,2524,Jonas Adjei Adjetey,1218056,22,188.0,Ghana,D,Right,1909008000.0,6400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Wolfsburg,2524,Cleiton,1134199,23,194.0,Brazil,D,Left,1909008000.0,775000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Wolfsburg,2524,Joakim Mæhle,842364,29,185.0,Denmark,D,Right,1814313600.0,7400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Wolfsburg,2524,Saël Kumbedi,1155226,21,175.0,France,D,Right,1877472000.0,12400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Wolfsburg,2524,Denis Vavro,293127,30,187.0,Slovakia,D,Right,1814313600.0,4700000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Wolfsburg,2524,Aaron Zehnter,1127788,21,180.0,Germany,D,Left,1909008000.0,5300000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Wolfsburg,2524,Moritz Jenz,920525,27,190.0,Germany,D,Right,1814313600.0,4700000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Wolfsburg,2524,Mathys Angely,1606624,19,190.0,France,D,Left,1877472000.0,1100000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Wolfsburg,2524,Rogério,830551,28,178.0,Brazil,D,Left,1814313600.0,1100000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Wolfsburg,2524,Kilian Fischer,995316,25,179.0,Germany,D,Right,1814313600.0,4400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Wolfsburg,2524,Hauke Wahl,253469,32,189.0,Germany,D,Right,1877472000.0,1500000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Wolfsburg,2524,Jan Bürger,1568511,19,180.0,Germany,D,Right,1814313600.0,2900000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Wolfsburg,2524,Kamil Grabara,902080,27,195.0,Poland,G,Right,1845936000.0,11600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Wolfsburg,2524,Timon Wellenreuther,253875,30,186.0,Germany,G,Both,1877472000.0,5200000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Wolfsburg,2524,Jakub Zieliński,1594710,18,190.0,Poland,G,Right,1845936000.0,535000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Wolfsburg,2524,Pavao Pervan,35976,38,193.0,Austria,G,Both,1814313600.0,310000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Augsburg,2600,Steve Mounié,345035,31,190.0,Benin,F,Right,1814313600.0,1500000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Augsburg,2600,Michael Gregoritsch,111483,32,193.0,Austria,F,Left,1814313600.0,1600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Augsburg,2600,Rodrigo Ribeiro,1215904,21,185.0,Portugal,F,Right,1940544000.0,3900000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Augsburg,2600,Alexis Claude-Maurice,822877,28,174.0,France,F,Right,1814313600.0,16200000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Augsburg,2600,Uchenna Ogundu,1996846,20,188.0,Nigeria,F,Right,1940544000.0,4200000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Augsburg,2600,Thomas Kastanaras,1005996,23,185.0,Germany,F,Right,1814313600.0,310000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Augsburg,2600,Faik Sakar,1901001,18,174.0,Germany,F,Right,1909008000.0,205000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Augsburg,2600,Nathanaël Mbuku,963399,24,170.0,DR Congo,M,Left,,1800000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Augsburg,2600,Kristijan Jakić,796206,29,181.0,Croatia,M,Right,1845936000.0,5600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Augsburg,2600,Fabian Rieder,929620,24,181.0,Switzerland,M,Left,1909008000.0,11100000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Augsburg,2600,Mert Kömür,1390682,21,183.0,Germany,M,Both,1877472000.0,11600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Augsburg,2600,Han-Noah Massengo,927340,25,175.0,France,M,Right,1909008000.0,8199999.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Augsburg,2600,Marius Wolf,254119,31,187.0,Germany,M,Right,1814313600.0,2300000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Augsburg,2600,Yusuf Kabadayi,1130113,22,186.0,Germany,M,Right,1845936000.0,1300000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Augsburg,2600,Anton Kade,1129365,22,179.0,Germany,M,Right,1877472000.0,10300000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Augsburg,2600,Yannik Keitel,877842,26,186.0,Germany,M,Both,1814313600.0,1900000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Augsburg,2600,Robin Fellhauer,860461,28,185.0,Germany,M,Right,1877472000.0,3700000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Augsburg,2600,Tim Breithaupt,1049177,24,192.0,Germany,M,Right,1845936000.0,740000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Augsburg,2600,Mahmut Kücüksahin,1388328,22,182.0,Türkiye,M,Right,1814313600.0,155000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Augsburg,2600,Sima Suso,1540234,21,189.0,Germany,M,Left,1940544000.0,2700000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Augsburg,2600,Tim Schnitzer,1861987,18,,Germany,M,,1877472000.0,525000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Augsburg,2600,Noahkai Banks,1597260,19,193.0,USA,D,Right,1877472000.0,19400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Augsburg,2600,Chrislain Matsima,963198,24,192.0,France,D,Right,1909008000.0,21000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Augsburg,2600,Keven Schlotterbeck,891651,29,189.0,Germany,D,Left,1814313600.0,5700000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Augsburg,2600,Jeffrey Gouweleeuw,146853,35,187.0,Netherlands,D,Right,1814313600.0,1000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Augsburg,2600,Hennes Behrens,1864760,21,174.0,Germany,D,Right,1940544000.0,5200000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Augsburg,2600,Mads Pedersen,809219,29,179.0,Denmark,D,Left,1814313600.0,875000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Augsburg,2600,Calvin Brackelmann,1128792,26,196.0,Germany,D,Left,1909008000.0,3200000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Augsburg,2600,Nediljko Labrović,947986,26,196.0,Croatia,G,Right,1877472000.0,2100000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Augsburg,2600,Finn Dahmen,822564,28,188.0,Germany,G,Right,1814313600.0,12500000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC Augsburg,2600,Tom Wisbereit,1995013,18,195.0,Germany,G,,1909008000.0,,,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Union Berlin,2547,Ilyas Ansah,1462742,21,197.0,Germany,F,Right,,12900000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Union Berlin,2547,Marin Ljubičić,1090010,24,183.0,Croatia,F,Right,,1800000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Union Berlin,2547,Woo-Yeong Jeong,927405,26,179.0,South Korea,F,Right,,3700000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Union Berlin,2547,Emmanuel Latte Lath,848074,27,180.0,Côte d'Ivoire,F,Right,1814313600.0,10400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Union Berlin,2547,Andrej Ilić,953767,26,189.0,Serbia,F,Right,1814313600.0,8300000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Union Berlin,2547,Oliver Burke,608362,29,188.0,Scotland,F,Right,1877472000.0,2900000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Union Berlin,2547,Livan Burcu,1513469,21,178.0,Türkiye,F,Right,,4200000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Union Berlin,2547,Dmytro Bogdanov,1568506,19,188.0,Ukraine,F,Right,1877472000.0,770000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Union Berlin,2547,Linus Guther,2311163,16,175.0,Germany,F,Right,1845936000.0,1000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Union Berlin,2547,Mekhi Gray,1989789,19,194.0,Germany,F,Right,,,,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Union Berlin,2547,Julien Friedrich,1534058,19,176.0,Germany,F,Left,,130000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Union Berlin,2547,Josip Juranović,791642,30,173.0,Croatia,M,Right,,2200000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Union Berlin,2547,András Schäfer,877302,27,179.0,Hungary,M,Both,1814313600.0,4099999.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Union Berlin,2547,Derrick Köhn,886737,27,180.0,Ghana,M,Left,1877472000.0,4200000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Union Berlin,2547,Rani Khedira,149479,32,188.0,Tunisia,M,Right,,2100000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Union Berlin,2547,Robert Skov,327863,30,183.0,Denmark,M,Left,,1900000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Union Berlin,2547,Aljoscha Kemlein,1198074,22,185.0,Germany,M,Right,1877472000.0,11000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Union Berlin,2547,Christopher Trimmel,48557,39,189.0,Austria,M,Right,1814313600.0,555000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Union Berlin,2547,Tim Skarke,800252,29,179.0,Germany,M,Right,,1500000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Union Berlin,2547,Janik Haberer,168985,32,187.0,Germany,M,Right,1814313600.0,2100000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Union Berlin,2547,Tim Blaszczak,2304188,18,,Germany,M,,,,,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Union Berlin,2547,Leopold Querfeld,1086547,22,190.0,Austria,D,Right,,18900000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Union Berlin,2547,Tom Alexander Rothe,1210666,21,192.0,Germany,D,Left,,10300000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Union Berlin,2547,Zeno Van Den Bosch,1103765,23,191.0,Belgium,D,Right,,6300000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Union Berlin,2547,Stanley Nsoki,904991,27,184.0,France,D,Left,,1800000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Union Berlin,2547,Marvin Friedrich,254449,30,193.0,Germany,D,Right,,1900000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Union Berlin,2547,Oluwaseun Ogbemudia,1481918,20,185.0,Germany,D,Right,1877472000.0,825000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Union Berlin,2547,Andrik Markgraf,1534045,19,172.0,Germany,D,Left,,310000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Union Berlin,2547,Frederik Rønnow,137692,34,188.0,Denmark,G,Right,,2100000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Union Berlin,2547,Matheo Raab,842718,27,186.0,Germany,G,Right,,560000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Union Berlin,2547,Carl Klaus,148167,32,189.0,Germany,G,Right,,335000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC St. Pauli,2526,Martijn Kaars,861850,27,183.0,Netherlands,F,Right,,3100000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC St. Pauli,2526,Abdoulie Ceesay,1888501,22,185.0,Gambia,F,,,910000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC St. Pauli,2526,Taichi Hara,925790,27,191.0,Japan,F,Right,,965000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC St. Pauli,2526,Branimir Hrgota,148076,33,185.0,Sweden,F,Left,,485000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC St. Pauli,2526,Ricky-Jade Jones,994529,23,183.0,England,F,Right,,1100000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC St. Pauli,2526,Mathias Pereira Lage,831400,29,180.0,Portugal,F,Right,1845936000.0,2300000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC St. Pauli,2526,Wissou Kaba,2205372,18,190.0,Germany,F,Right,,,,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC St. Pauli,2526,Joel Chima Fujita,1002461,24,175.0,Japan,M,Right,,9700000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC St. Pauli,2526,Connor Metcalfe,888854,26,178.0,Australia,M,Left,1814313600.0,1400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC St. Pauli,2526,Arkadiusz Pyrka,971481,23,177.0,Poland,M,Right,,3400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC St. Pauli,2526,Gisli Thordarson,1388767,21,191.0,Iceland,M,Right,1814313600.0,740000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC St. Pauli,2526,Mathias Rasmussen,834244,28,180.0,Norway,M,Left,1877472000.0,2100000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC St. Pauli,2526,Nick Schmidt,1967998,18,178.0,Japan,M,Right,,120000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC St. Pauli,2526,Louis Oppie,1137900,24,184.0,Germany,M,Left,,2400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC St. Pauli,2526,Samuel Klein,1172097,22,188.0,Australia,M,Right,,590000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC St. Pauli,2526,Erik Ahlstrand,980742,24,182.0,Sweden,M,Left,,380000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC St. Pauli,2526,Scott Banks,944027,25,183.0,Scotland,M,Left,,375000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC St. Pauli,2526,Marwin Schmitz,1607774,19,180.0,Germany,M,Right,,205000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC St. Pauli,2526,Tomoya Ando,1125024,27,190.0,Japan,D,Right,,2800000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC St. Pauli,2526,Eric Smith,542038,29,191.0,Sweden,D,Right,1814313600.0,5300000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC St. Pauli,2526,Adam Dźwigała,252343,30,185.0,Poland,D,Right,1814313600.0,775000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC St. Pauli,2526,David Nemeth,966889,25,191.0,Austria,D,Both,,2700000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC St. Pauli,2526,Marcus Mathisen,352986,30,185.0,Denmark,D,Right,,940000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC St. Pauli,2526,Rony Jansson,1120656,22,183.0,Finland,D,Right,,485000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC St. Pauli,2526,Jannik Thomas Robatsch,1401055,21,190.0,Austria,D,Left,,515000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC St. Pauli,2526,Lars Ritzka,873347,28,185.0,Germany,D,Left,,1100000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC St. Pauli,2526,Ben Voll,987437,25,195.0,Germany,G,Both,,525000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,FC St. Pauli,2526,Simon Emil Spari,1133370,24,196.0,Austria,G,,,325000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,TSG Hoffenheim,2569,Andrej Kramarić,67647,35,177.0,Croatia,F,Right,1845936000.0,2700000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,TSG Hoffenheim,2569,Fisnik Asllani,1010117,24,191.0,Kosovo,F,Both,1877472000.0,36000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,TSG Hoffenheim,2569,Adam Hložek,963801,24,186.0,Czechia,F,Right,1877472000.0,10300000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,TSG Hoffenheim,2569,Max Moerstedt,1418703,20,194.0,Germany,F,Right,1909008000.0,7600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,TSG Hoffenheim,2569,Adam Daghim,1180758,20,186.0,Denmark,F,Left,,8100000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,TSG Hoffenheim,2569,Tim Lemperle,1014290,24,186.0,Germany,F,Right,1940544000.0,15300000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,TSG Hoffenheim,2569,Alessandro Vogt,1408406,21,188.0,Switzerland,F,Right,1940544000.0,7600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,TSG Hoffenheim,2569,Deniz Zeitler,1604187,19,181.0,Germany,F,Both,,4099999.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,TSG Hoffenheim,2569,Nathan De Cat,1637689,18,192.0,Belgium,M,Right,1940544000.0,25000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,TSG Hoffenheim,2569,Patrick Wimmer,987504,25,182.0,Austria,M,Right,1940544000.0,11100000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,TSG Hoffenheim,2569,Leon Avdullahu,1493305,22,185.0,Kosovo,M,Right,1940544000.0,33000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,TSG Hoffenheim,2569,Wouter Burger,916946,25,190.0,Netherlands,M,Left,1909008000.0,21000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,TSG Hoffenheim,2569,Alexander Prass,978062,25,180.0,Austria,M,Left,1845936000.0,8700000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,TSG Hoffenheim,2569,Umut Tohumcu,1083410,21,176.0,Germany,M,Both,1845936000.0,3200000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,TSG Hoffenheim,2569,Bambasé Conté,1185359,23,178.0,Germany,M,Left,,3800000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,TSG Hoffenheim,2569,Cajetan Lenz,2077300,20,190.0,Germany,M,Right,1940544000.0,9600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,TSG Hoffenheim,2569,Luis Engelns,1838178,19,188.0,Germany,M,Right,,4400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,TSG Hoffenheim,2569,Dennis Geiger,795004,28,172.0,Germany,M,Right,1814313600.0,1100000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,TSG Hoffenheim,2569,Ozan Kabak,857740,26,185.0,Türkiye,D,Right,1909008000.0,14600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,TSG Hoffenheim,2569,Vladimír Coufal,138024,33,179.0,Czechia,D,Right,1845936000.0,2400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,TSG Hoffenheim,2569,Koki Machida,790977,28,190.0,Japan,D,Left,1877472000.0,5800000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,TSG Hoffenheim,2569,Albian Hajdari,1000269,23,189.0,Kosovo,D,Left,1940544000.0,24000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,TSG Hoffenheim,2569,Bernardo,828571,31,186.0,Brazil,D,Left,1814313600.0,3700000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,TSG Hoffenheim,2569,Mats Rots,1387012,20,190.0,Netherlands,D,Left,1940544000.0,11200000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,TSG Hoffenheim,2569,Arthur Chaves,1122806,25,187.0,Brazil,D,Right,1877472000.0,4900000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,TSG Hoffenheim,2569,Robin Hranáč,957615,26,189.0,Czechia,D,Right,1845936000.0,10900000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,TSG Hoffenheim,2569,Valentin Gendrey,944899,26,179.0,France,D,Right,1845936000.0,6300000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,TSG Hoffenheim,2569,Sean Dulic,1885630,21,187.0,Germany,D,Both,1909008000.0,1200000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,TSG Hoffenheim,2569,Natnael Abraha,1861981,18,179.0,Germany,D,Right,,435000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,TSG Hoffenheim,2569,Tristan Spranger,1974432,18,190.0,Germany,D,Left,1814313600.0,,,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,TSG Hoffenheim,2569,Oliver Baumann,40244,36,185.0,Germany,G,Right,1845936000.0,2700000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,TSG Hoffenheim,2569,Luca Philipp,943550,25,192.0,Germany,G,Right,,705000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,TSG Hoffenheim,2569,Lukas Petersson,1196091,22,193.0,Iceland,G,Right,,570000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,TSG Hoffenheim,2569,Tobias Trautner,253999,31,186.0,Germany,G,Right,1845936000.0,24000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Heidenheim,5885,Budu Zivzivadze,149728,32,189.0,Georgia,F,Both,1877472000.0,1300000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Heidenheim,5885,Marvin Pieringer,909485,26,189.0,Germany,F,Right,1814313600.0,2700000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Heidenheim,5885,Mikkel Kaufmann,918437,25,190.0,Denmark,F,Right,1845936000.0,1500000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Heidenheim,5885,Christian Conteh,933833,26,182.0,Germany,F,Right,1877472000.0,1400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Heidenheim,5885,Sirlord Conteh,800400,30,178.0,Germany,F,Right,1814313600.0,1300000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Heidenheim,5885,Maximilian Breunig,935281,25,193.0,Germany,F,Right,1814313600.0,570000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Heidenheim,5885,Yannik Wagner,2189165,19,182.0,Germany,F,Left,1877472000.0,825000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Heidenheim,5885,Mathias Honsak,575952,29,188.0,Austria,M,Left,1814313600.0,1600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Heidenheim,5885,Jan Schöppner,933707,27,190.0,Germany,M,Right,1845936000.0,3200000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Heidenheim,5885,Luca Kerber,1097453,24,180.0,Germany,M,Right,1814313600.0,1900000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Heidenheim,5885,Adrian Beck,845742,29,186.0,Germany,M,Right,1845936000.0,1500000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Heidenheim,5885,Julian Niehues,1066042,25,195.0,Germany,M,Right,1814313600.0,1600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Heidenheim,5885,Paul Hennrich,1864801,21,179.0,Germany,M,Left,1909008000.0,1100000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Heidenheim,5885,Marko Zrilić,2203863,18,191.0,Croatia,M,Right,1877472000.0,,,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Heidenheim,5885,Luka Janeš,1481943,22,184.0,Germany,M,Right,1845936000.0,105000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Heidenheim,5885,Marcel Costly,537268,30,183.0,Germany,M,Right,1845936000.0,370000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Heidenheim,5885,Leart Paqarada,151581,31,184.0,Kosovo,D,Left,1814313600.0,740000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Heidenheim,5885,Patrick Mainka,254429,31,194.0,Germany,D,Right,1877472000.0,2600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Heidenheim,5885,Oualid Mhamdi,1218052,23,187.0,Morocco,D,Right,1909008000.0,815000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Heidenheim,5885,Benedikt Gimber,798936,29,185.0,Germany,D,Left,1845936000.0,1600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Heidenheim,5885,Tim Siersleben,988252,26,187.0,Germany,D,Left,1845936000.0,1900000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Heidenheim,5885,Marnon Busch,168861,31,182.0,Germany,D,Right,1814313600.0,1100000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Heidenheim,5885,Jonas Föhrenbach,311676,30,185.0,Germany,D,Left,1814313600.0,1000000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Heidenheim,5885,Adam Kölle,2192753,20,195.0,Germany,D,Right,1877472000.0,1100000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Heidenheim,5885,Frank Feller,1083359,22,183.0,Germany,G,Right,1877472000.0,720000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Heidenheim,5885,Thomas Dähne,126346,32,193.0,Germany,G,Both,1845936000.0,340000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Heidenheim,5885,Paul Tschernuth,1022845,24,186.0,Austria,G,Right,1814313600.0,105000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,1. FC Heidenheim,5885,Felix Mark,2361798,18,,Germany,G,Right,1877472000.0,,,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Holstein Kiel,2573,Giorgi Kvilitaia,300412,32,193.0,Georgia,F,Right,1814313600.0,870000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Holstein Kiel,2573,Phil Harres,1121902,24,193.0,Germany,F,Right,,2400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Holstein Kiel,2573,Faride Alidou,994197,25,186.0,Germany,F,Left,1814313600.0,860000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Holstein Kiel,2573,Adrián Kaprálik,1031650,24,178.0,Slovakia,F,Right,1877472000.0,1300000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Holstein Kiel,2573,Steven Skrzybski,122573,33,173.0,Germany,F,Right,1814313600.0,485000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Holstein Kiel,2573,Moritz Reimers,1995005,19,182.0,Germany,F,Right,1909008000.0,195000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Holstein Kiel,2573,Andu Kelati,1021087,23,181.0,Germany,F,Right,1845936000.0,675000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Holstein Kiel,2573,Marcus Müller,1085199,23,187.0,Germany,F,Right,1845936000.0,540000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Holstein Kiel,2573,Mark Richter Monserrat,2656575,18,,Germany,F,Left,1877472000.0,,,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Holstein Kiel,2573,Alexander Bernhardsson,980916,27,184.0,Sweden,M,Left,1814313600.0,3200000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Holstein Kiel,2573,John Tolkin,1015186,24,170.0,USA,M,Left,1845936000.0,2400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Holstein Kiel,2573,Taisei Abe,1117324,22,172.0,Japan,M,Left,1814313600.0,2400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Holstein Kiel,2573,Guillermo Balzi,1117038,25,175.0,Argentina,M,Left,1877472000.0,940000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Holstein Kiel,2573,Kasper Davidsen,1616590,21,189.0,Denmark,M,Right,1877472000.0,2600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Holstein Kiel,2573,Jonas Meffert,148256,31,179.0,Germany,M,Right,1845936000.0,655000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Holstein Kiel,2573,Jonas Therkelsen,1385752,23,184.0,Norway,M,Right,1877472000.0,2700000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Holstein Kiel,2573,Hamza Muqaj,1605312,20,186.0,Kosovo,M,Right,1845936000.0,260000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Holstein Kiel,2573,Tayar Tasdelen,2184161,20,179.0,Germany,M,Left,1877472000.0,160000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Holstein Kiel,2573,Ikem Ugoh,2203217,21,178.0,Germany,M,Both,1845936000.0,730000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Holstein Kiel,2573,Till Wiese,2656581,18,,Germany,M,Right,1877472000.0,,,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Holstein Kiel,2573,Hiroki Sekine,1500627,23,187.0,Japan,D,Right,1814313600.0,1100000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Holstein Kiel,2573,David Zec,887911,26,185.0,Slovenia,D,Right,1877472000.0,2300000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Holstein Kiel,2573,Sebastian Schonlau,326325,32,185.0,Germany,D,Both,1814313600.0,520000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Holstein Kiel,2573,Ivan Nekić,880741,25,184.0,Croatia,D,Right,1877472000.0,1400000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Holstein Kiel,2573,Marko Ivezić,1105869,24,191.0,Serbia,D,Right,1814313600.0,1600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Holstein Kiel,2573,Lasse Rosenboom,980616,24,190.0,Germany,D,Right,,1300000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Holstein Kiel,2573,Frederik Roslyng,1648780,20,191.0,Denmark,D,Left,1877472000.0,1100000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Holstein Kiel,2573,Leon Parduzi,1871035,19,180.0,Kosovo,D,Left,1845936000.0,280000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Holstein Kiel,2573,Caspar Medlin,2149070,19,186.0,Germany,D,Right,,,,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Holstein Kiel,2573,Timon Weiner,1140362,27,191.0,Germany,G,Both,1814313600.0,840000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Holstein Kiel,2573,Marcel Engelhardt,126531,33,191.0,Germany,G,Right,,170000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Holstein Kiel,2573,Lio Rothenhagen,1596517,19,187.0,Germany,G,Right,1877472000.0,340000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,Holstein Kiel,2573,Ben Schmit,1958804,18,184.0,Luxembourg,G,Right,1909008000.0,110000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Bochum 1848,2542,Ibrahim Sissoko,914738,30,190.0,Mali,F,Right,1814313600.0,580000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Bochum 1848,2542,Christian Rasmussen,996989,23,184.0,Denmark,F,Left,1909008000.0,1200000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Bochum 1848,2542,Philipp Hofmann,340719,33,195.0,Germany,F,Left,1845936000.0,580000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Bochum 1848,2542,Daniel Hanslik,886170,29,186.0,Germany,F,Left,1845936000.0,775000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Bochum 1848,2542,Alessandro Crimaldi,1962250,18,180.0,Italy,F,Left,1877472000.0,145000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Bochum 1848,2542,Charalampos Drakas,1394488,23,173.0,Germany,F,Right,1877472000.0,170000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Bochum 1848,2542,Luis Pick,2152108,18,185.0,Germany,F,Both,1845936000.0,,,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Bochum 1848,2542,Koji Miyoshi,358984,29,167.0,Japan,M,Left,1845936000.0,915000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Bochum 1848,2542,Enis Çokaj,990148,27,176.0,Albania,M,Right,1845936000.0,1100000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Bochum 1848,2542,Gerrit Holtmann,253517,31,183.0,Philippines,M,Left,1814313600.0,750000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Bochum 1848,2542,Berkan Taz,886738,27,179.0,Germany,M,Both,1845936000.0,720000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Bochum 1848,2542,Mats Pannewig,1197157,21,195.0,Germany,M,Right,1845936000.0,2900000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Bochum 1848,2542,Aurel Wagbe,1138554,22,189.0,Germany,M,Left,1814313600.0,79000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Bochum 1848,2542,Lasse Isbruch,2028407,18,189.0,Germany,M,,1845936000.0,,,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Bochum 1848,2542,Tom Meyer,2253954,18,195.0,Germany,M,,1845936000.0,,,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Bochum 1848,2542,Karol Mets,57627,33,190.0,Estonia,D,Left,1845936000.0,620000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Bochum 1848,2542,Maximilian Wittek,254125,30,173.0,Germany,D,Left,1845936000.0,870000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Bochum 1848,2542,Kacper Kościerski,1926445,19,180.0,Germany,D,Right,,720000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Bochum 1848,2542,Jean-Manuel Mbom,941342,26,185.0,Germany,D,Right,1877472000.0,1100000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Bochum 1848,2542,Michael Steinwender,936268,26,190.0,Austria,D,Right,1877472000.0,1200000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Bochum 1848,2542,Yiğit Karademir,1171410,22,185.0,Türkiye,D,Both,1909008000.0,360000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Bochum 1848,2542,Philipp Strompf,886316,28,193.0,Germany,D,Left,1845936000.0,905000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Bochum 1848,2542,Oliver Olsen,856653,25,190.0,Denmark,D,Both,1909008000.0,1600000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Bochum 1848,2542,Mikkel Rakneberg,1121305,24,187.0,Norway,D,Left,1877472000.0,660000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Bochum 1848,2542,Timo Horn,97923,33,192.0,Germany,G,Left,1845936000.0,565000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Bochum 1848,2542,Tino Casali,352398,30,191.0,Austria,G,Right,1845936000.0,215000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045
+Germany,Bundesliga,35,63516,VfL Bochum 1848,2542,Hugo Rolleke,1634275,21,204.0,Germany,G,,1877472000.0,47000.0,EUR,GER,2024-2025,datafc_sofascore,2026-08-09T07:49:13.674045

@@ -1,0 +1,489 @@
+2026-08-06 22:30:06,436 [INFO] =================================================================
+2026-08-06 22:30:06,437 [INFO]   RadarPepites - Scraping Avance Bronze (BS4)
+2026-08-06 22:30:06,437 [INFO] =================================================================
+2026-08-06 22:30:06,438 [INFO]   Ligues  : ['ENG', 'ESP', 'GER', 'ITA', 'FRA', 'POR', 'NED', 'BEL', 'TUR', 'AUT']
+2026-08-06 22:30:06,439 [INFO]   Saisons : ['2022-2023', '2023-2024', '2024-2025']
+2026-08-06 22:30:06,440 [INFO]   Stats   : ['passing', 'passing_types', 'goal_shot_creation', 'defense', 'possession']
+2026-08-06 22:30:06,441 [INFO]   Total   : 150 fichiers
+2026-08-06 22:30:06,442 [INFO]   Duree   : ~12 minutes
+2026-08-06 22:30:06,450 [INFO] =================================================================
+2026-08-06 22:30:06,451 [INFO] [1/150] Premier League | 2022-2023 | passing
+2026-08-06 22:30:06,452 [INFO]     URL : https://fbref.com/en/comps/9/2022-2023/passing/2022-2023-Premier-League-Stats
+2026-08-06 22:30:06,578 [ERROR]     HTTP 403
+2026-08-06 22:30:06,580 [WARNING]   -> Echec : ENG_2022-2023_passing
+2026-08-06 22:30:06,581 [INFO]   -> Pause 5s...
+2026-08-06 22:30:11,582 [INFO] [2/150] Premier League | 2022-2023 | passing_types
+2026-08-06 22:30:11,583 [INFO]     URL : https://fbref.com/en/comps/9/2022-2023/passing_types/2022-2023-Premier-League-Stats
+2026-08-06 22:30:11,677 [ERROR]     HTTP 403
+2026-08-06 22:30:11,680 [WARNING]   -> Echec : ENG_2022-2023_passing_types
+2026-08-06 22:30:11,680 [INFO]   -> Pause 5s...
+2026-08-06 22:30:16,682 [INFO] [3/150] Premier League | 2022-2023 | goal_shot_creation
+2026-08-06 22:30:16,682 [INFO]     URL : https://fbref.com/en/comps/9/2022-2023/goal_shot_creation/2022-2023-Premier-League-Stats
+2026-08-06 22:30:16,820 [ERROR]     HTTP 403
+2026-08-06 22:30:16,823 [WARNING]   -> Echec : ENG_2022-2023_goal_shot_creation
+2026-08-06 22:30:16,823 [INFO]   -> Pause 5s...
+2026-08-06 22:30:21,824 [INFO] [4/150] Premier League | 2022-2023 | defense
+2026-08-06 22:30:21,825 [INFO]     URL : https://fbref.com/en/comps/9/2022-2023/defense/2022-2023-Premier-League-Stats
+2026-08-06 22:30:21,952 [ERROR]     HTTP 403
+2026-08-06 22:30:21,955 [WARNING]   -> Echec : ENG_2022-2023_defense
+2026-08-06 22:30:21,956 [INFO]   -> Pause 5s...
+2026-08-06 22:30:26,958 [INFO] [5/150] Premier League | 2022-2023 | possession
+2026-08-06 22:30:26,959 [INFO]     URL : https://fbref.com/en/comps/9/2022-2023/possession/2022-2023-Premier-League-Stats
+2026-08-06 22:30:27,079 [ERROR]     HTTP 403
+2026-08-06 22:30:27,083 [WARNING]   -> Echec : ENG_2022-2023_possession
+2026-08-06 22:30:27,083 [INFO]   -> Pause 5s...
+2026-08-06 22:30:32,085 [INFO] [6/150] Premier League | 2023-2024 | passing
+2026-08-06 22:30:32,086 [INFO]     URL : https://fbref.com/en/comps/9/2023-2024/passing/2023-2024-Premier-League-Stats
+2026-08-06 22:30:32,212 [ERROR]     HTTP 403
+2026-08-06 22:30:32,216 [WARNING]   -> Echec : ENG_2023-2024_passing
+2026-08-06 22:30:32,219 [INFO]   -> Pause 5s...
+2026-08-06 22:30:37,222 [INFO] [7/150] Premier League | 2023-2024 | passing_types
+2026-08-06 22:30:37,223 [INFO]     URL : https://fbref.com/en/comps/9/2023-2024/passing_types/2023-2024-Premier-League-Stats
+2026-08-06 22:30:37,325 [ERROR]     HTTP 403
+2026-08-06 22:30:37,329 [WARNING]   -> Echec : ENG_2023-2024_passing_types
+2026-08-06 22:30:37,330 [INFO]   -> Pause 5s...
+2026-08-06 22:30:42,332 [INFO] [8/150] Premier League | 2023-2024 | goal_shot_creation
+2026-08-06 22:30:42,333 [INFO]     URL : https://fbref.com/en/comps/9/2023-2024/goal_shot_creation/2023-2024-Premier-League-Stats
+2026-08-06 22:30:42,476 [ERROR]     HTTP 403
+2026-08-06 22:30:42,479 [WARNING]   -> Echec : ENG_2023-2024_goal_shot_creation
+2026-08-06 22:30:42,480 [INFO]   -> Pause 5s...
+2026-08-06 22:30:47,481 [INFO] [9/150] Premier League | 2023-2024 | defense
+2026-08-06 22:30:47,483 [INFO]     URL : https://fbref.com/en/comps/9/2023-2024/defense/2023-2024-Premier-League-Stats
+2026-08-06 22:30:47,587 [ERROR]     HTTP 403
+2026-08-06 22:30:47,590 [WARNING]   -> Echec : ENG_2023-2024_defense
+2026-08-06 22:30:47,591 [INFO]   -> Pause 5s...
+2026-08-06 22:30:52,593 [INFO] [10/150] Premier League | 2023-2024 | possession
+2026-08-06 22:30:52,594 [INFO]     URL : https://fbref.com/en/comps/9/2023-2024/possession/2023-2024-Premier-League-Stats
+2026-08-06 22:30:52,723 [ERROR]     HTTP 403
+2026-08-06 22:30:52,726 [WARNING]   -> Echec : ENG_2023-2024_possession
+2026-08-06 22:30:52,727 [INFO]   -> Pause 5s...
+2026-08-06 22:30:57,729 [INFO] [11/150] Premier League | 2024-2025 | passing
+2026-08-06 22:30:57,730 [INFO]     URL : https://fbref.com/en/comps/9/passing/Premier-League-Stats
+2026-08-06 22:30:57,850 [ERROR]     HTTP 403
+2026-08-06 22:30:57,853 [WARNING]   -> Echec : ENG_2024-2025_passing
+2026-08-06 22:30:57,854 [INFO]   -> Pause 5s...
+2026-08-06 22:31:02,857 [INFO] [12/150] Premier League | 2024-2025 | passing_types
+2026-08-06 22:31:02,858 [INFO]     URL : https://fbref.com/en/comps/9/passing_types/Premier-League-Stats
+2026-08-06 22:31:02,975 [ERROR]     HTTP 403
+2026-08-06 22:31:02,977 [WARNING]   -> Echec : ENG_2024-2025_passing_types
+2026-08-06 22:31:02,978 [INFO]   -> Pause 5s...
+2026-08-06 22:31:07,979 [INFO] [13/150] Premier League | 2024-2025 | goal_shot_creation
+2026-08-06 22:31:07,980 [INFO]     URL : https://fbref.com/en/comps/9/goal_shot_creation/Premier-League-Stats
+2026-08-06 22:31:08,099 [ERROR]     HTTP 403
+2026-08-06 22:31:08,102 [WARNING]   -> Echec : ENG_2024-2025_goal_shot_creation
+2026-08-06 22:31:08,102 [INFO]   -> Pause 5s...
+2026-08-06 22:31:13,104 [INFO] [14/150] Premier League | 2024-2025 | defense
+2026-08-06 22:31:13,105 [INFO]     URL : https://fbref.com/en/comps/9/defense/Premier-League-Stats
+2026-08-06 22:31:13,221 [ERROR]     HTTP 403
+2026-08-06 22:31:13,224 [WARNING]   -> Echec : ENG_2024-2025_defense
+2026-08-06 22:31:13,225 [INFO]   -> Pause 5s...
+2026-08-06 22:31:18,226 [INFO] [15/150] Premier League | 2024-2025 | possession
+2026-08-06 22:31:18,229 [INFO]     URL : https://fbref.com/en/comps/9/possession/Premier-League-Stats
+2026-08-06 22:31:18,345 [ERROR]     HTTP 403
+2026-08-06 22:31:18,348 [WARNING]   -> Echec : ENG_2024-2025_possession
+2026-08-06 22:31:18,349 [INFO]   -> Pause 5s...
+2026-08-06 22:31:23,352 [INFO] [16/150] La Liga | 2022-2023 | passing
+2026-08-06 22:31:23,353 [INFO]     URL : https://fbref.com/en/comps/12/2022-2023/passing/2022-2023-La-Liga-Stats
+2026-08-06 22:31:23,461 [ERROR]     HTTP 403
+2026-08-06 22:31:23,464 [WARNING]   -> Echec : ESP_2022-2023_passing
+2026-08-06 22:31:23,465 [INFO]   -> Pause 5s...
+2026-08-06 22:31:28,467 [INFO] [17/150] La Liga | 2022-2023 | passing_types
+2026-08-06 22:31:28,468 [INFO]     URL : https://fbref.com/en/comps/12/2022-2023/passing_types/2022-2023-La-Liga-Stats
+2026-08-06 22:31:28,594 [ERROR]     HTTP 403
+2026-08-06 22:31:28,597 [WARNING]   -> Echec : ESP_2022-2023_passing_types
+2026-08-06 22:31:28,597 [INFO]   -> Pause 5s...
+2026-08-06 22:31:33,599 [INFO] [18/150] La Liga | 2022-2023 | goal_shot_creation
+2026-08-06 22:31:33,600 [INFO]     URL : https://fbref.com/en/comps/12/2022-2023/goal_shot_creation/2022-2023-La-Liga-Stats
+2026-08-06 22:31:33,699 [ERROR]     HTTP 403
+2026-08-06 22:31:33,703 [WARNING]   -> Echec : ESP_2022-2023_goal_shot_creation
+2026-08-06 22:31:33,704 [INFO]   -> Pause 5s...
+2026-08-06 22:31:38,705 [INFO] [19/150] La Liga | 2022-2023 | defense
+2026-08-06 22:31:38,709 [INFO]     URL : https://fbref.com/en/comps/12/2022-2023/defense/2022-2023-La-Liga-Stats
+2026-08-06 22:31:38,828 [ERROR]     HTTP 403
+2026-08-06 22:31:38,831 [WARNING]   -> Echec : ESP_2022-2023_defense
+2026-08-06 22:31:38,832 [INFO]   -> Pause 5s...
+2026-08-06 22:31:43,835 [INFO] [20/150] La Liga | 2022-2023 | possession
+2026-08-06 22:31:43,836 [INFO]     URL : https://fbref.com/en/comps/12/2022-2023/possession/2022-2023-La-Liga-Stats
+2026-08-06 22:31:43,959 [ERROR]     HTTP 403
+2026-08-06 22:31:43,963 [WARNING]   -> Echec : ESP_2022-2023_possession
+2026-08-06 22:31:43,963 [INFO]   -> Pause 5s...
+2026-08-06 22:31:48,964 [INFO] [21/150] La Liga | 2023-2024 | passing
+2026-08-06 22:31:48,965 [INFO]     URL : https://fbref.com/en/comps/12/2023-2024/passing/2023-2024-La-Liga-Stats
+2026-08-06 22:31:49,096 [ERROR]     HTTP 403
+2026-08-06 22:31:49,100 [WARNING]   -> Echec : ESP_2023-2024_passing
+2026-08-06 22:31:49,101 [INFO]   -> Pause 5s...
+2026-08-06 22:31:54,103 [INFO] [22/150] La Liga | 2023-2024 | passing_types
+2026-08-06 22:31:54,106 [INFO]     URL : https://fbref.com/en/comps/12/2023-2024/passing_types/2023-2024-La-Liga-Stats
+2026-08-06 22:31:54,209 [ERROR]     HTTP 403
+2026-08-06 22:31:54,213 [WARNING]   -> Echec : ESP_2023-2024_passing_types
+2026-08-06 22:31:54,213 [INFO]   -> Pause 5s...
+2026-08-06 22:31:59,214 [INFO] [23/150] La Liga | 2023-2024 | goal_shot_creation
+2026-08-06 22:31:59,215 [INFO]     URL : https://fbref.com/en/comps/12/2023-2024/goal_shot_creation/2023-2024-La-Liga-Stats
+2026-08-06 22:31:59,341 [ERROR]     HTTP 403
+2026-08-06 22:31:59,345 [WARNING]   -> Echec : ESP_2023-2024_goal_shot_creation
+2026-08-06 22:31:59,348 [INFO]   -> Pause 5s...
+2026-08-06 22:32:04,351 [INFO] [24/150] La Liga | 2023-2024 | defense
+2026-08-06 22:32:04,352 [INFO]     URL : https://fbref.com/en/comps/12/2023-2024/defense/2023-2024-La-Liga-Stats
+2026-08-06 22:32:04,476 [ERROR]     HTTP 403
+2026-08-06 22:32:04,482 [WARNING]   -> Echec : ESP_2023-2024_defense
+2026-08-06 22:32:04,483 [INFO]   -> Pause 5s...
+2026-08-06 22:32:09,485 [INFO] [25/150] La Liga | 2023-2024 | possession
+2026-08-06 22:32:09,486 [INFO]     URL : https://fbref.com/en/comps/12/2023-2024/possession/2023-2024-La-Liga-Stats
+2026-08-06 22:32:09,599 [ERROR]     HTTP 403
+2026-08-06 22:32:09,602 [WARNING]   -> Echec : ESP_2023-2024_possession
+2026-08-06 22:32:09,603 [INFO]   -> Pause 5s...
+2026-08-06 22:32:14,604 [INFO] [26/150] La Liga | 2024-2025 | passing
+2026-08-06 22:32:14,604 [INFO]     URL : https://fbref.com/en/comps/12/passing/La-Liga-Stats
+2026-08-06 22:32:14,698 [ERROR]     HTTP 403
+2026-08-06 22:32:14,701 [WARNING]   -> Echec : ESP_2024-2025_passing
+2026-08-06 22:32:14,701 [INFO]   -> Pause 5s...
+2026-08-06 22:32:19,703 [INFO] [27/150] La Liga | 2024-2025 | passing_types
+2026-08-06 22:32:19,704 [INFO]     URL : https://fbref.com/en/comps/12/passing_types/La-Liga-Stats
+2026-08-06 22:32:19,832 [ERROR]     HTTP 403
+2026-08-06 22:32:19,836 [WARNING]   -> Echec : ESP_2024-2025_passing_types
+2026-08-06 22:32:19,836 [INFO]   -> Pause 5s...
+2026-08-06 22:32:24,838 [INFO] [28/150] La Liga | 2024-2025 | goal_shot_creation
+2026-08-06 22:32:24,838 [INFO]     URL : https://fbref.com/en/comps/12/goal_shot_creation/La-Liga-Stats
+2026-08-06 22:32:24,957 [ERROR]     HTTP 403
+2026-08-06 22:32:24,960 [WARNING]   -> Echec : ESP_2024-2025_goal_shot_creation
+2026-08-06 22:32:24,961 [INFO]   -> Pause 5s...
+2026-08-06 22:32:29,965 [INFO] [29/150] La Liga | 2024-2025 | defense
+2026-08-06 22:32:29,966 [INFO]     URL : https://fbref.com/en/comps/12/defense/La-Liga-Stats
+2026-08-06 22:32:30,072 [ERROR]     HTTP 403
+2026-08-06 22:32:30,075 [WARNING]   -> Echec : ESP_2024-2025_defense
+2026-08-06 22:32:30,075 [INFO]   -> Pause 5s...
+2026-08-06 22:32:35,076 [INFO] [30/150] La Liga | 2024-2025 | possession
+2026-08-06 22:32:35,077 [INFO]     URL : https://fbref.com/en/comps/12/possession/La-Liga-Stats
+2026-08-06 22:32:35,184 [ERROR]     HTTP 403
+2026-08-06 22:32:35,188 [WARNING]   -> Echec : ESP_2024-2025_possession
+2026-08-06 22:32:35,189 [INFO]   -> Pause 5s...
+2026-08-06 22:32:40,190 [INFO] [31/150] Bundesliga | 2022-2023 | passing
+2026-08-06 22:32:40,193 [INFO]     URL : https://fbref.com/en/comps/20/2022-2023/passing/2022-2023-Bundesliga-Stats
+2026-08-06 22:32:40,318 [ERROR]     HTTP 403
+2026-08-06 22:32:40,321 [WARNING]   -> Echec : GER_2022-2023_passing
+2026-08-06 22:32:40,322 [INFO]   -> Pause 5s...
+2026-08-06 22:32:45,323 [INFO] [32/150] Bundesliga | 2022-2023 | passing_types
+2026-08-06 22:32:45,324 [INFO]     URL : https://fbref.com/en/comps/20/2022-2023/passing_types/2022-2023-Bundesliga-Stats
+2026-08-06 22:32:45,442 [ERROR]     HTTP 403
+2026-08-06 22:32:45,445 [WARNING]   -> Echec : GER_2022-2023_passing_types
+2026-08-06 22:32:45,446 [INFO]   -> Pause 5s...
+2026-08-06 22:32:50,447 [INFO] [33/150] Bundesliga | 2022-2023 | goal_shot_creation
+2026-08-06 22:32:50,447 [INFO]     URL : https://fbref.com/en/comps/20/2022-2023/goal_shot_creation/2022-2023-Bundesliga-Stats
+2026-08-06 22:32:50,553 [ERROR]     HTTP 403
+2026-08-06 22:32:50,558 [WARNING]   -> Echec : GER_2022-2023_goal_shot_creation
+2026-08-06 22:32:50,559 [INFO]   -> Pause 5s...
+2026-08-06 22:32:55,560 [INFO] [34/150] Bundesliga | 2022-2023 | defense
+2026-08-06 22:32:55,560 [INFO]     URL : https://fbref.com/en/comps/20/2022-2023/defense/2022-2023-Bundesliga-Stats
+2026-08-06 22:32:55,678 [ERROR]     HTTP 403
+2026-08-06 22:32:55,681 [WARNING]   -> Echec : GER_2022-2023_defense
+2026-08-06 22:32:55,682 [INFO]   -> Pause 5s...
+2026-08-06 22:33:00,685 [INFO] [35/150] Bundesliga | 2022-2023 | possession
+2026-08-06 22:33:00,686 [INFO]     URL : https://fbref.com/en/comps/20/2022-2023/possession/2022-2023-Bundesliga-Stats
+2026-08-06 22:33:00,788 [ERROR]     HTTP 403
+2026-08-06 22:33:00,791 [WARNING]   -> Echec : GER_2022-2023_possession
+2026-08-06 22:33:00,792 [INFO]   -> Pause 5s...
+2026-08-06 22:33:05,793 [INFO] [36/150] Bundesliga | 2023-2024 | passing
+2026-08-06 22:33:05,794 [INFO]     URL : https://fbref.com/en/comps/20/2023-2024/passing/2023-2024-Bundesliga-Stats
+2026-08-06 22:33:05,937 [ERROR]     HTTP 403
+2026-08-06 22:33:05,941 [WARNING]   -> Echec : GER_2023-2024_passing
+2026-08-06 22:33:05,942 [INFO]   -> Pause 5s...
+2026-08-06 22:33:10,945 [INFO] [37/150] Bundesliga | 2023-2024 | passing_types
+2026-08-06 22:33:10,946 [INFO]     URL : https://fbref.com/en/comps/20/2023-2024/passing_types/2023-2024-Bundesliga-Stats
+2026-08-06 22:33:11,076 [ERROR]     HTTP 403
+2026-08-06 22:33:11,079 [WARNING]   -> Echec : GER_2023-2024_passing_types
+2026-08-06 22:33:11,079 [INFO]   -> Pause 5s...
+2026-08-06 22:33:16,081 [INFO] [38/150] Bundesliga | 2023-2024 | goal_shot_creation
+2026-08-06 22:33:16,081 [INFO]     URL : https://fbref.com/en/comps/20/2023-2024/goal_shot_creation/2023-2024-Bundesliga-Stats
+2026-08-06 22:33:16,223 [ERROR]     HTTP 403
+2026-08-06 22:33:16,234 [WARNING]   -> Echec : GER_2023-2024_goal_shot_creation
+2026-08-06 22:33:16,236 [INFO]   -> Pause 5s...
+2026-08-06 22:33:21,239 [INFO] [39/150] Bundesliga | 2023-2024 | defense
+2026-08-06 22:33:21,240 [INFO]     URL : https://fbref.com/en/comps/20/2023-2024/defense/2023-2024-Bundesliga-Stats
+2026-08-06 22:33:21,349 [ERROR]     HTTP 403
+2026-08-06 22:33:21,351 [WARNING]   -> Echec : GER_2023-2024_defense
+2026-08-06 22:33:21,352 [INFO]   -> Pause 5s...
+2026-08-06 22:33:26,353 [INFO] [40/150] Bundesliga | 2023-2024 | possession
+2026-08-06 22:33:26,354 [INFO]     URL : https://fbref.com/en/comps/20/2023-2024/possession/2023-2024-Bundesliga-Stats
+2026-08-06 22:33:26,462 [ERROR]     HTTP 403
+2026-08-06 22:33:26,466 [WARNING]   -> Echec : GER_2023-2024_possession
+2026-08-06 22:33:26,468 [INFO]   -> Pause 5s...
+2026-08-06 22:33:31,470 [INFO] [41/150] Bundesliga | 2024-2025 | passing
+2026-08-06 22:33:31,470 [INFO]     URL : https://fbref.com/en/comps/20/passing/Bundesliga-Stats
+2026-08-06 22:33:31,581 [ERROR]     HTTP 403
+2026-08-06 22:33:31,584 [WARNING]   -> Echec : GER_2024-2025_passing
+2026-08-06 22:33:31,585 [INFO]   -> Pause 5s...
+2026-08-06 22:33:36,586 [INFO] [42/150] Bundesliga | 2024-2025 | passing_types
+2026-08-06 22:33:36,588 [INFO]     URL : https://fbref.com/en/comps/20/passing_types/Bundesliga-Stats
+2026-08-06 22:33:36,702 [ERROR]     HTTP 403
+2026-08-06 22:33:36,705 [WARNING]   -> Echec : GER_2024-2025_passing_types
+2026-08-06 22:33:36,706 [INFO]   -> Pause 5s...
+2026-08-06 22:33:41,707 [INFO] [43/150] Bundesliga | 2024-2025 | goal_shot_creation
+2026-08-06 22:33:41,707 [INFO]     URL : https://fbref.com/en/comps/20/goal_shot_creation/Bundesliga-Stats
+2026-08-06 22:33:41,789 [ERROR]     HTTP 403
+2026-08-06 22:33:41,791 [WARNING]   -> Echec : GER_2024-2025_goal_shot_creation
+2026-08-06 22:33:41,791 [INFO]   -> Pause 5s...
+2026-08-06 22:33:46,793 [INFO] [44/150] Bundesliga | 2024-2025 | defense
+2026-08-06 22:33:46,794 [INFO]     URL : https://fbref.com/en/comps/20/defense/Bundesliga-Stats
+2026-08-06 22:33:46,905 [ERROR]     HTTP 403
+2026-08-06 22:33:46,908 [WARNING]   -> Echec : GER_2024-2025_defense
+2026-08-06 22:33:46,909 [INFO]   -> Pause 5s...
+2026-08-06 22:33:51,911 [INFO] [45/150] Bundesliga | 2024-2025 | possession
+2026-08-06 22:33:51,911 [INFO]     URL : https://fbref.com/en/comps/20/possession/Bundesliga-Stats
+2026-08-06 22:33:52,014 [ERROR]     HTTP 403
+2026-08-06 22:33:52,018 [WARNING]   -> Echec : GER_2024-2025_possession
+2026-08-06 22:33:52,019 [INFO]   -> Pause 5s...
+2026-08-06 22:33:57,021 [INFO] [46/150] Serie A | 2022-2023 | passing
+2026-08-06 22:33:57,022 [INFO]     URL : https://fbref.com/en/comps/11/2022-2023/passing/2022-2023-Serie-A-Stats
+2026-08-06 22:33:57,145 [ERROR]     HTTP 403
+2026-08-06 22:33:57,148 [WARNING]   -> Echec : ITA_2022-2023_passing
+2026-08-06 22:33:57,149 [INFO]   -> Pause 5s...
+2026-08-06 22:34:02,150 [INFO] [47/150] Serie A | 2022-2023 | passing_types
+2026-08-06 22:34:02,151 [INFO]     URL : https://fbref.com/en/comps/11/2022-2023/passing_types/2022-2023-Serie-A-Stats
+2026-08-06 22:34:02,276 [ERROR]     HTTP 403
+2026-08-06 22:34:02,279 [WARNING]   -> Echec : ITA_2022-2023_passing_types
+2026-08-06 22:34:02,279 [INFO]   -> Pause 5s...
+2026-08-06 22:34:07,280 [INFO] [48/150] Serie A | 2022-2023 | goal_shot_creation
+2026-08-06 22:34:07,281 [INFO]     URL : https://fbref.com/en/comps/11/2022-2023/goal_shot_creation/2022-2023-Serie-A-Stats
+2026-08-06 22:34:07,373 [ERROR]     HTTP 403
+2026-08-06 22:34:07,375 [WARNING]   -> Echec : ITA_2022-2023_goal_shot_creation
+2026-08-06 22:34:07,375 [INFO]   -> Pause 5s...
+2026-08-06 22:34:12,376 [INFO] [49/150] Serie A | 2022-2023 | defense
+2026-08-06 22:34:12,377 [INFO]     URL : https://fbref.com/en/comps/11/2022-2023/defense/2022-2023-Serie-A-Stats
+2026-08-06 22:34:12,489 [ERROR]     HTTP 403
+2026-08-06 22:34:12,493 [WARNING]   -> Echec : ITA_2022-2023_defense
+2026-08-06 22:34:12,493 [INFO]   -> Pause 5s...
+2026-08-06 22:34:17,496 [INFO] [50/150] Serie A | 2022-2023 | possession
+2026-08-06 22:34:17,498 [INFO]     URL : https://fbref.com/en/comps/11/2022-2023/possession/2022-2023-Serie-A-Stats
+2026-08-06 22:34:17,613 [ERROR]     HTTP 403
+2026-08-06 22:34:17,620 [WARNING]   -> Echec : ITA_2022-2023_possession
+2026-08-06 22:34:17,622 [INFO]   -> Pause 5s...
+2026-08-06 22:34:22,629 [INFO] [51/150] Serie A | 2023-2024 | passing
+2026-08-06 22:34:22,629 [INFO]     URL : https://fbref.com/en/comps/11/2023-2024/passing/2023-2024-Serie-A-Stats
+2026-08-06 22:34:22,778 [ERROR]     HTTP 403
+2026-08-06 22:34:22,781 [WARNING]   -> Echec : ITA_2023-2024_passing
+2026-08-06 22:34:22,783 [INFO]   -> Pause 5s...
+2026-08-06 22:34:27,785 [INFO] [52/150] Serie A | 2023-2024 | passing_types
+2026-08-06 22:34:27,786 [INFO]     URL : https://fbref.com/en/comps/11/2023-2024/passing_types/2023-2024-Serie-A-Stats
+2026-08-06 22:34:27,904 [ERROR]     HTTP 403
+2026-08-06 22:34:27,907 [WARNING]   -> Echec : ITA_2023-2024_passing_types
+2026-08-06 22:34:27,907 [INFO]   -> Pause 5s...
+2026-08-06 22:34:32,909 [INFO] [53/150] Serie A | 2023-2024 | goal_shot_creation
+2026-08-06 22:34:32,910 [INFO]     URL : https://fbref.com/en/comps/11/2023-2024/goal_shot_creation/2023-2024-Serie-A-Stats
+2026-08-06 22:34:33,024 [ERROR]     HTTP 403
+2026-08-06 22:34:33,027 [WARNING]   -> Echec : ITA_2023-2024_goal_shot_creation
+2026-08-06 22:34:33,028 [INFO]   -> Pause 5s...
+2026-08-06 22:34:38,030 [INFO] [54/150] Serie A | 2023-2024 | defense
+2026-08-06 22:34:38,032 [INFO]     URL : https://fbref.com/en/comps/11/2023-2024/defense/2023-2024-Serie-A-Stats
+2026-08-06 22:34:38,169 [ERROR]     HTTP 403
+2026-08-06 22:34:38,173 [WARNING]   -> Echec : ITA_2023-2024_defense
+2026-08-06 22:34:38,174 [INFO]   -> Pause 5s...
+2026-08-06 22:34:43,176 [INFO] [55/150] Serie A | 2023-2024 | possession
+2026-08-06 22:34:43,180 [INFO]     URL : https://fbref.com/en/comps/11/2023-2024/possession/2023-2024-Serie-A-Stats
+2026-08-06 22:34:43,329 [ERROR]     HTTP 403
+2026-08-06 22:34:43,334 [WARNING]   -> Echec : ITA_2023-2024_possession
+2026-08-06 22:34:43,335 [INFO]   -> Pause 5s...
+2026-08-06 22:34:48,337 [INFO] [56/150] Serie A | 2024-2025 | passing
+2026-08-06 22:34:48,338 [INFO]     URL : https://fbref.com/en/comps/11/passing/Serie-A-Stats
+2026-08-06 22:34:48,452 [ERROR]     HTTP 403
+2026-08-06 22:34:48,455 [WARNING]   -> Echec : ITA_2024-2025_passing
+2026-08-06 22:34:48,456 [INFO]   -> Pause 5s...
+2026-08-06 22:34:53,458 [INFO] [57/150] Serie A | 2024-2025 | passing_types
+2026-08-06 22:34:53,459 [INFO]     URL : https://fbref.com/en/comps/11/passing_types/Serie-A-Stats
+2026-08-06 22:34:53,584 [ERROR]     HTTP 403
+2026-08-06 22:34:53,587 [WARNING]   -> Echec : ITA_2024-2025_passing_types
+2026-08-06 22:34:53,588 [INFO]   -> Pause 5s...
+2026-08-06 22:34:58,590 [INFO] [58/150] Serie A | 2024-2025 | goal_shot_creation
+2026-08-06 22:34:58,590 [INFO]     URL : https://fbref.com/en/comps/11/goal_shot_creation/Serie-A-Stats
+2026-08-06 22:34:58,688 [ERROR]     HTTP 403
+2026-08-06 22:34:58,692 [WARNING]   -> Echec : ITA_2024-2025_goal_shot_creation
+2026-08-06 22:34:58,693 [INFO]   -> Pause 5s...
+2026-08-06 22:35:03,694 [INFO] [59/150] Serie A | 2024-2025 | defense
+2026-08-06 22:35:03,695 [INFO]     URL : https://fbref.com/en/comps/11/defense/Serie-A-Stats
+2026-08-06 22:35:03,824 [ERROR]     HTTP 403
+2026-08-06 22:35:03,836 [WARNING]   -> Echec : ITA_2024-2025_defense
+2026-08-06 22:35:03,837 [INFO]   -> Pause 5s...
+2026-08-06 22:35:08,839 [INFO] [60/150] Serie A | 2024-2025 | possession
+2026-08-06 22:35:08,839 [INFO]     URL : https://fbref.com/en/comps/11/possession/Serie-A-Stats
+2026-08-06 22:35:08,957 [ERROR]     HTTP 403
+2026-08-06 22:35:08,961 [WARNING]   -> Echec : ITA_2024-2025_possession
+2026-08-06 22:35:08,962 [INFO]   -> Pause 5s...
+2026-08-06 22:35:13,963 [INFO] [61/150] Ligue 1 | 2022-2023 | passing
+2026-08-06 22:35:13,964 [INFO]     URL : https://fbref.com/en/comps/13/2022-2023/passing/2022-2023-Ligue-1-Stats
+2026-08-06 22:35:14,072 [ERROR]     HTTP 403
+2026-08-06 22:35:14,076 [WARNING]   -> Echec : FRA_2022-2023_passing
+2026-08-06 22:35:14,077 [INFO]   -> Pause 5s...
+2026-08-06 22:35:19,080 [INFO] [62/150] Ligue 1 | 2022-2023 | passing_types
+2026-08-06 22:35:19,081 [INFO]     URL : https://fbref.com/en/comps/13/2022-2023/passing_types/2022-2023-Ligue-1-Stats
+2026-08-06 22:35:19,185 [ERROR]     HTTP 403
+2026-08-06 22:35:19,189 [WARNING]   -> Echec : FRA_2022-2023_passing_types
+2026-08-06 22:35:19,189 [INFO]   -> Pause 5s...
+2026-08-06 22:35:24,190 [INFO] [63/150] Ligue 1 | 2022-2023 | goal_shot_creation
+2026-08-06 22:35:24,191 [INFO]     URL : https://fbref.com/en/comps/13/2022-2023/goal_shot_creation/2022-2023-Ligue-1-Stats
+2026-08-06 22:35:24,306 [ERROR]     HTTP 403
+2026-08-06 22:35:24,309 [WARNING]   -> Echec : FRA_2022-2023_goal_shot_creation
+2026-08-06 22:35:24,310 [INFO]   -> Pause 5s...
+2026-08-06 22:35:29,312 [INFO] [64/150] Ligue 1 | 2022-2023 | defense
+2026-08-06 22:35:29,313 [INFO]     URL : https://fbref.com/en/comps/13/2022-2023/defense/2022-2023-Ligue-1-Stats
+2026-08-06 22:35:29,416 [ERROR]     HTTP 403
+2026-08-06 22:35:29,419 [WARNING]   -> Echec : FRA_2022-2023_defense
+2026-08-06 22:35:29,419 [INFO]   -> Pause 5s...
+2026-08-06 22:35:34,420 [INFO] [65/150] Ligue 1 | 2022-2023 | possession
+2026-08-06 22:35:34,421 [INFO]     URL : https://fbref.com/en/comps/13/2022-2023/possession/2022-2023-Ligue-1-Stats
+2026-08-06 22:35:34,533 [ERROR]     HTTP 403
+2026-08-06 22:35:34,537 [WARNING]   -> Echec : FRA_2022-2023_possession
+2026-08-06 22:35:34,537 [INFO]   -> Pause 5s...
+2026-08-06 22:35:39,538 [INFO] [66/150] Ligue 1 | 2023-2024 | passing
+2026-08-06 22:35:39,540 [INFO]     URL : https://fbref.com/en/comps/13/2023-2024/passing/2023-2024-Ligue-1-Stats
+2026-08-06 22:35:39,612 [ERROR]     HTTP 403
+2026-08-06 22:35:39,614 [WARNING]   -> Echec : FRA_2023-2024_passing
+2026-08-06 22:35:39,614 [INFO]   -> Pause 5s...
+2026-08-06 22:35:44,616 [INFO] [67/150] Ligue 1 | 2023-2024 | passing_types
+2026-08-06 22:35:44,617 [INFO]     URL : https://fbref.com/en/comps/13/2023-2024/passing_types/2023-2024-Ligue-1-Stats
+2026-08-06 22:35:44,701 [ERROR]     HTTP 403
+2026-08-06 22:35:44,703 [WARNING]   -> Echec : FRA_2023-2024_passing_types
+2026-08-06 22:35:44,705 [INFO]   -> Pause 5s...
+2026-08-06 22:35:49,706 [INFO] [68/150] Ligue 1 | 2023-2024 | goal_shot_creation
+2026-08-06 22:35:49,707 [INFO]     URL : https://fbref.com/en/comps/13/2023-2024/goal_shot_creation/2023-2024-Ligue-1-Stats
+2026-08-06 22:35:49,801 [ERROR]     HTTP 403
+2026-08-06 22:35:49,802 [WARNING]   -> Echec : FRA_2023-2024_goal_shot_creation
+2026-08-06 22:35:49,803 [INFO]   -> Pause 5s...
+2026-08-06 22:35:54,804 [INFO] [69/150] Ligue 1 | 2023-2024 | defense
+2026-08-06 22:35:54,805 [INFO]     URL : https://fbref.com/en/comps/13/2023-2024/defense/2023-2024-Ligue-1-Stats
+2026-08-06 22:35:54,917 [ERROR]     HTTP 403
+2026-08-06 22:35:54,921 [WARNING]   -> Echec : FRA_2023-2024_defense
+2026-08-06 22:35:54,921 [INFO]   -> Pause 5s...
+2026-08-06 22:35:59,923 [INFO] [70/150] Ligue 1 | 2023-2024 | possession
+2026-08-06 22:35:59,924 [INFO]     URL : https://fbref.com/en/comps/13/2023-2024/possession/2023-2024-Ligue-1-Stats
+2026-08-06 22:36:00,065 [ERROR]     HTTP 403
+2026-08-06 22:36:00,069 [WARNING]   -> Echec : FRA_2023-2024_possession
+2026-08-06 22:36:00,069 [INFO]   -> Pause 5s...
+2026-08-06 22:36:05,073 [INFO] [71/150] Ligue 1 | 2024-2025 | passing
+2026-08-06 22:36:05,075 [INFO]     URL : https://fbref.com/en/comps/13/passing/Ligue-1-Stats
+2026-08-06 22:36:05,194 [ERROR]     HTTP 403
+2026-08-06 22:36:05,197 [WARNING]   -> Echec : FRA_2024-2025_passing
+2026-08-06 22:36:05,197 [INFO]   -> Pause 5s...
+2026-08-06 22:36:10,199 [INFO] [72/150] Ligue 1 | 2024-2025 | passing_types
+2026-08-06 22:36:10,200 [INFO]     URL : https://fbref.com/en/comps/13/passing_types/Ligue-1-Stats
+2026-08-06 22:36:10,312 [ERROR]     HTTP 403
+2026-08-06 22:36:10,315 [WARNING]   -> Echec : FRA_2024-2025_passing_types
+2026-08-06 22:36:10,316 [INFO]   -> Pause 5s...
+2026-08-06 22:36:15,318 [INFO] [73/150] Ligue 1 | 2024-2025 | goal_shot_creation
+2026-08-06 22:36:15,318 [INFO]     URL : https://fbref.com/en/comps/13/goal_shot_creation/Ligue-1-Stats
+2026-08-06 22:36:15,435 [ERROR]     HTTP 403
+2026-08-06 22:36:15,439 [WARNING]   -> Echec : FRA_2024-2025_goal_shot_creation
+2026-08-06 22:36:15,440 [INFO]   -> Pause 5s...
+2026-08-06 22:36:20,443 [INFO] [74/150] Ligue 1 | 2024-2025 | defense
+2026-08-06 22:36:20,443 [INFO]     URL : https://fbref.com/en/comps/13/defense/Ligue-1-Stats
+2026-08-06 22:36:20,554 [ERROR]     HTTP 403
+2026-08-06 22:36:20,557 [WARNING]   -> Echec : FRA_2024-2025_defense
+2026-08-06 22:36:20,558 [INFO]   -> Pause 5s...
+2026-08-06 22:36:25,560 [INFO] [75/150] Ligue 1 | 2024-2025 | possession
+2026-08-06 22:36:25,561 [INFO]     URL : https://fbref.com/en/comps/13/possession/Ligue-1-Stats
+2026-08-06 22:36:25,674 [ERROR]     HTTP 403
+2026-08-06 22:36:25,678 [WARNING]   -> Echec : FRA_2024-2025_possession
+2026-08-06 22:36:25,679 [INFO]   -> Pause 5s...
+2026-08-06 22:36:30,680 [INFO] [76/150] Primeira Liga | 2022-2023 | passing
+2026-08-06 22:36:30,681 [INFO]     URL : https://fbref.com/en/comps/32/2022-2023/passing/2022-2023-Primeira-Liga-Stats
+2026-08-06 22:36:30,800 [ERROR]     HTTP 403
+2026-08-06 22:36:30,803 [WARNING]   -> Echec : POR_2022-2023_passing
+2026-08-06 22:36:30,804 [INFO]   -> Pause 5s...
+2026-08-06 22:36:35,806 [INFO] [77/150] Primeira Liga | 2022-2023 | passing_types
+2026-08-06 22:36:35,807 [INFO]     URL : https://fbref.com/en/comps/32/2022-2023/passing_types/2022-2023-Primeira-Liga-Stats
+2026-08-06 22:36:35,925 [ERROR]     HTTP 403
+2026-08-06 22:36:35,930 [WARNING]   -> Echec : POR_2022-2023_passing_types
+2026-08-06 22:36:35,931 [INFO]   -> Pause 5s...
+2026-08-06 22:36:40,934 [INFO] [78/150] Primeira Liga | 2022-2023 | goal_shot_creation
+2026-08-06 22:36:40,936 [INFO]     URL : https://fbref.com/en/comps/32/2022-2023/goal_shot_creation/2022-2023-Primeira-Liga-Stats
+2026-08-06 22:36:41,042 [ERROR]     HTTP 403
+2026-08-06 22:36:41,045 [WARNING]   -> Echec : POR_2022-2023_goal_shot_creation
+2026-08-06 22:36:41,046 [INFO]   -> Pause 5s...
+2026-08-06 22:36:46,046 [INFO] [79/150] Primeira Liga | 2022-2023 | defense
+2026-08-06 22:36:46,047 [INFO]     URL : https://fbref.com/en/comps/32/2022-2023/defense/2022-2023-Primeira-Liga-Stats
+2026-08-06 22:36:46,177 [ERROR]     HTTP 403
+2026-08-06 22:36:46,180 [WARNING]   -> Echec : POR_2022-2023_defense
+2026-08-06 22:36:46,181 [INFO]   -> Pause 5s...
+2026-08-06 22:36:51,184 [INFO] [80/150] Primeira Liga | 2022-2023 | possession
+2026-08-06 22:36:51,185 [INFO]     URL : https://fbref.com/en/comps/32/2022-2023/possession/2022-2023-Primeira-Liga-Stats
+2026-08-06 22:36:51,295 [ERROR]     HTTP 403
+2026-08-06 22:36:51,298 [WARNING]   -> Echec : POR_2022-2023_possession
+2026-08-06 22:36:51,299 [INFO]   -> Pause 5s...
+2026-08-06 22:36:56,300 [INFO] [81/150] Primeira Liga | 2023-2024 | passing
+2026-08-06 22:36:56,301 [INFO]     URL : https://fbref.com/en/comps/32/2023-2024/passing/2023-2024-Primeira-Liga-Stats
+2026-08-06 22:36:56,429 [ERROR]     HTTP 403
+2026-08-06 22:36:56,432 [WARNING]   -> Echec : POR_2023-2024_passing
+2026-08-06 22:36:56,433 [INFO]   -> Pause 5s...
+2026-08-06 22:37:01,435 [INFO] [82/150] Primeira Liga | 2023-2024 | passing_types
+2026-08-06 22:37:01,436 [INFO]     URL : https://fbref.com/en/comps/32/2023-2024/passing_types/2023-2024-Primeira-Liga-Stats
+2026-08-06 22:37:01,555 [ERROR]     HTTP 403
+2026-08-06 22:37:01,559 [WARNING]   -> Echec : POR_2023-2024_passing_types
+2026-08-06 22:37:01,560 [INFO]   -> Pause 5s...
+2026-08-06 22:37:06,562 [INFO] [83/150] Primeira Liga | 2023-2024 | goal_shot_creation
+2026-08-06 22:37:06,562 [INFO]     URL : https://fbref.com/en/comps/32/2023-2024/goal_shot_creation/2023-2024-Primeira-Liga-Stats
+2026-08-06 22:37:06,663 [ERROR]     HTTP 403
+2026-08-06 22:37:06,666 [WARNING]   -> Echec : POR_2023-2024_goal_shot_creation
+2026-08-06 22:37:06,667 [INFO]   -> Pause 5s...
+2026-08-06 22:37:11,669 [INFO] [84/150] Primeira Liga | 2023-2024 | defense
+2026-08-06 22:37:11,670 [INFO]     URL : https://fbref.com/en/comps/32/2023-2024/defense/2023-2024-Primeira-Liga-Stats
+2026-08-06 22:37:11,790 [ERROR]     HTTP 403
+2026-08-06 22:37:11,791 [WARNING]   -> Echec : POR_2023-2024_defense
+2026-08-06 22:37:11,791 [INFO]   -> Pause 5s...
+2026-08-06 22:37:16,793 [INFO] [85/150] Primeira Liga | 2023-2024 | possession
+2026-08-06 22:37:16,795 [INFO]     URL : https://fbref.com/en/comps/32/2023-2024/possession/2023-2024-Primeira-Liga-Stats
+2026-08-06 22:37:16,935 [ERROR]     HTTP 403
+2026-08-06 22:37:16,939 [WARNING]   -> Echec : POR_2023-2024_possession
+2026-08-06 22:37:16,941 [INFO]   -> Pause 5s...
+2026-08-06 22:37:21,944 [INFO] [86/150] Primeira Liga | 2024-2025 | passing
+2026-08-06 22:37:21,945 [INFO]     URL : https://fbref.com/en/comps/32/passing/Primeira-Liga-Stats
+2026-08-06 22:37:22,070 [ERROR]     HTTP 403
+2026-08-06 22:37:22,074 [WARNING]   -> Echec : POR_2024-2025_passing
+2026-08-06 22:37:22,075 [INFO]   -> Pause 5s...
+2026-08-06 22:37:27,076 [INFO] [87/150] Primeira Liga | 2024-2025 | passing_types
+2026-08-06 22:37:27,077 [INFO]     URL : https://fbref.com/en/comps/32/passing_types/Primeira-Liga-Stats
+2026-08-06 22:37:27,187 [ERROR]     HTTP 403
+2026-08-06 22:37:27,192 [WARNING]   -> Echec : POR_2024-2025_passing_types
+2026-08-06 22:37:27,194 [INFO]   -> Pause 5s...
+2026-08-06 22:37:32,196 [INFO] [88/150] Primeira Liga | 2024-2025 | goal_shot_creation
+2026-08-06 22:37:32,197 [INFO]     URL : https://fbref.com/en/comps/32/goal_shot_creation/Primeira-Liga-Stats
+2026-08-06 22:37:32,354 [ERROR]     HTTP 403
+2026-08-06 22:37:32,358 [WARNING]   -> Echec : POR_2024-2025_goal_shot_creation
+2026-08-06 22:37:32,359 [INFO]   -> Pause 5s...
+2026-08-06 22:37:37,359 [INFO] [89/150] Primeira Liga | 2024-2025 | defense
+2026-08-06 22:37:37,360 [INFO]     URL : https://fbref.com/en/comps/32/defense/Primeira-Liga-Stats
+2026-08-06 22:37:37,470 [ERROR]     HTTP 403
+2026-08-06 22:37:37,477 [WARNING]   -> Echec : POR_2024-2025_defense
+2026-08-06 22:37:37,481 [INFO]   -> Pause 5s...
+2026-08-06 22:37:42,485 [INFO] [90/150] Primeira Liga | 2024-2025 | possession
+2026-08-06 22:37:42,486 [INFO]     URL : https://fbref.com/en/comps/32/possession/Primeira-Liga-Stats
+2026-08-06 22:37:42,603 [ERROR]     HTTP 403
+2026-08-06 22:37:42,606 [WARNING]   -> Echec : POR_2024-2025_possession
+2026-08-06 22:37:42,606 [INFO]   -> Pause 5s...
+2026-08-06 22:37:47,608 [INFO] [91/150] Eredivisie | 2022-2023 | passing
+2026-08-06 22:37:47,608 [INFO]     URL : https://fbref.com/en/comps/23/2022-2023/passing/2022-2023-Eredivisie-Stats
+2026-08-06 22:37:47,722 [ERROR]     HTTP 403
+2026-08-06 22:37:47,725 [WARNING]   -> Echec : NED_2022-2023_passing
+2026-08-06 22:37:47,726 [INFO]   -> Pause 5s...
+2026-08-06 22:37:52,729 [INFO] [92/150] Eredivisie | 2022-2023 | passing_types
+2026-08-06 22:37:52,731 [INFO]     URL : https://fbref.com/en/comps/23/2022-2023/passing_types/2022-2023-Eredivisie-Stats
+2026-08-06 22:37:52,884 [ERROR]     HTTP 403
+2026-08-06 22:37:52,887 [WARNING]   -> Echec : NED_2022-2023_passing_types
+2026-08-06 22:37:52,888 [INFO]   -> Pause 5s...
+2026-08-06 22:37:57,891 [INFO] [93/150] Eredivisie | 2022-2023 | goal_shot_creation
+2026-08-06 22:37:57,892 [INFO]     URL : https://fbref.com/en/comps/23/2022-2023/goal_shot_creation/2022-2023-Eredivisie-Stats
+2026-08-06 22:37:58,013 [ERROR]     HTTP 403
+2026-08-06 22:37:58,016 [WARNING]   -> Echec : NED_2022-2023_goal_shot_creation
+2026-08-06 22:37:58,017 [INFO]   -> Pause 5s...
+2026-08-06 22:38:03,019 [INFO] [94/150] Eredivisie | 2022-2023 | defense
+2026-08-06 22:38:03,020 [INFO]     URL : https://fbref.com/en/comps/23/2022-2023/defense/2022-2023-Eredivisie-Stats
+2026-08-06 22:38:03,123 [ERROR]     HTTP 403
+2026-08-06 22:38:03,128 [WARNING]   -> Echec : NED_2022-2023_defense
+2026-08-06 22:38:03,129 [INFO]   -> Pause 5s...
+2026-08-06 22:38:08,130 [INFO] [95/150] Eredivisie | 2022-2023 | possession
+2026-08-06 22:38:08,131 [INFO]     URL : https://fbref.com/en/comps/23/2022-2023/possession/2022-2023-Eredivisie-Stats
+2026-08-06 22:38:08,221 [ERROR]     HTTP 403
+2026-08-06 22:38:08,223 [WARNING]   -> Echec : NED_2022-2023_possession
+2026-08-06 22:38:08,223 [INFO]   -> Pause 5s...
+2026-08-06 22:38:13,225 [INFO] [96/150] Eredivisie | 2023-2024 | passing
+2026-08-06 22:38:13,227 [INFO]     URL : https://fbref.com/en/comps/23/2023-2024/passing/2023-2024-Eredivisie-Stats
+2026-08-06 22:38:13,319 [ERROR]     HTTP 403
+2026-08-06 22:38:13,321 [WARNING]   -> Echec : NED_2023-2024_passing
+2026-08-06 22:38:13,322 [INFO]   -> Pause 5s...

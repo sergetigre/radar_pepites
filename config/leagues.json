@@ -1,0 +1,12 @@
+[
+  {"id": "ENG", "nom": "Premier League",   "pays": "Angleterre", "coefficient_uefa": 1, "soccerdata_key": "ENG-Premier League"},
+  {"id": "ESP", "nom": "La Liga",          "pays": "Espagne",    "coefficient_uefa": 2, "soccerdata_key": "ESP-La Liga"},
+  {"id": "GER", "nom": "Bundesliga",       "pays": "Allemagne",  "coefficient_uefa": 3, "soccerdata_key": "GER-Bundesliga"},
+  {"id": "ITA", "nom": "Serie A",          "pays": "Italie",     "coefficient_uefa": 4, "soccerdata_key": "ITA-Serie A"},
+  {"id": "FRA", "nom": "Ligue 1",          "pays": "France",     "coefficient_uefa": 5, "soccerdata_key": "FRA-Ligue 1"},
+  {"id": "POR", "nom": "Primeira Liga",    "pays": "Portugal",   "coefficient_uefa": 6, "soccerdata_key": "POR-Primeira Liga"},
+  {"id": "NED", "nom": "Eredivisie",       "pays": "Pays-Bas",   "coefficient_uefa": 7, "soccerdata_key": "NED-Eredivisie"},
+  {"id": "BEL", "nom": "Pro League",       "pays": "Belgique",   "coefficient_uefa": 8, "soccerdata_key": "BEL-First Division A"},
+  {"id": "TUR", "nom": "Super Lig",        "pays": "Turquie",    "coefficient_uefa": 9, "soccerdata_key": "TUR-Super Lig"},
+  {"id": "AUT", "nom": "Bundesliga (AUT)", "pays": "Autriche",   "coefficient_uefa": 10,"soccerdata_key": "AUT-Bundesliga"}
+]

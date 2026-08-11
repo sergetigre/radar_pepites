@@ -1,0 +1,15 @@
+{
+  "saisons": ["2022-2023", "2023-2024", "2024-2025", "2025-2026"],
+  "ligues": {
+    "ENG": { "nom": "Premier League",       "actif": true  },
+    "ESP": { "nom": "La Liga",              "actif": true  },
+    "GER": { "nom": "Bundesliga",           "actif": true  },
+    "ITA": { "nom": "Serie A",              "actif": true  },
+    "FRA": { "nom": "Ligue 1",              "actif": true  },
+    "POR": { "nom": "Primeira Liga",        "actif": true  },
+    "NED": { "nom": "Eredivisie",           "actif": true  },
+    "BEL": { "nom": "Pro League",           "actif": true  },
+    "TUR": { "nom": "Super Lig",            "actif": true  },
+    "AUT": { "nom": "Bundesliga Autriche",  "actif": true  }
+  }
+}

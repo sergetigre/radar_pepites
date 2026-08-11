@@ -1,0 +1,139 @@
+2026-08-06 22:38:56,824 [INFO] =================================================================
+2026-08-06 22:38:56,826 [INFO]   RadarPepites - Scraping Avance Bronze (cloudscraper)
+2026-08-06 22:38:56,828 [INFO] =================================================================
+2026-08-06 22:38:56,830 [INFO]   Ligues  : ['ENG', 'ESP', 'GER', 'ITA', 'FRA', 'POR', 'NED', 'BEL', 'TUR', 'AUT']
+2026-08-06 22:38:56,832 [INFO]   Saisons : ['2022-2023', '2023-2024', '2024-2025']
+2026-08-06 22:38:56,833 [INFO]   Stats   : ['passing', 'passing_types', 'goal_shot_creation', 'defense', 'possession']
+2026-08-06 22:38:56,836 [INFO]   Total   : 150 fichiers
+2026-08-06 22:38:56,836 [INFO]   Duree   : ~15 minutes
+2026-08-06 22:38:56,845 [INFO] =================================================================
+2026-08-06 22:38:56,845 [INFO] [1/150] Premier League | 2022-2023 | passing
+2026-08-06 22:38:56,846 [INFO]     URL : https://fbref.com/en/comps/9/2022-2023/passing/2022-2023-Premier-League-Stats
+2026-08-06 22:38:56,958 [ERROR]     HTTP 403 — Cloudflare non contourné sur cette URL
+2026-08-06 22:38:56,959 [WARNING]   -> Echec : ENG_2022-2023_passing
+2026-08-06 22:38:56,959 [INFO]   -> Pause 6s...
+2026-08-06 22:39:02,961 [INFO] [2/150] Premier League | 2022-2023 | passing_types
+2026-08-06 22:39:02,961 [INFO]     URL : https://fbref.com/en/comps/9/2022-2023/passing_types/2022-2023-Premier-League-Stats
+2026-08-06 22:39:03,048 [ERROR]     HTTP 403 — Cloudflare non contourné sur cette URL
+2026-08-06 22:39:03,048 [WARNING]   -> Echec : ENG_2022-2023_passing_types
+2026-08-06 22:39:03,049 [INFO]   -> Pause 6s...
+2026-08-06 22:39:09,049 [INFO] [3/150] Premier League | 2022-2023 | goal_shot_creation
+2026-08-06 22:39:09,050 [INFO]     URL : https://fbref.com/en/comps/9/2022-2023/goal_shot_creation/2022-2023-Premier-League-Stats
+2026-08-06 22:39:09,132 [ERROR]     HTTP 403 — Cloudflare non contourné sur cette URL
+2026-08-06 22:39:09,133 [WARNING]   -> Echec : ENG_2022-2023_goal_shot_creation
+2026-08-06 22:39:09,134 [INFO]   -> Pause 6s...
+2026-08-06 22:39:15,136 [INFO] [4/150] Premier League | 2022-2023 | defense
+2026-08-06 22:39:15,138 [INFO]     URL : https://fbref.com/en/comps/9/2022-2023/defense/2022-2023-Premier-League-Stats
+2026-08-06 22:39:15,215 [ERROR]     HTTP 403 — Cloudflare non contourné sur cette URL
+2026-08-06 22:39:15,216 [WARNING]   -> Echec : ENG_2022-2023_defense
+2026-08-06 22:39:15,216 [INFO]   -> Pause 6s...
+2026-08-06 22:39:21,218 [INFO] [5/150] Premier League | 2022-2023 | possession
+2026-08-06 22:39:21,226 [INFO]     URL : https://fbref.com/en/comps/9/2022-2023/possession/2022-2023-Premier-League-Stats
+2026-08-06 22:39:21,347 [ERROR]     HTTP 403 — Cloudflare non contourné sur cette URL
+2026-08-06 22:39:21,353 [WARNING]   -> Echec : ENG_2022-2023_possession
+2026-08-06 22:39:21,355 [INFO]   -> Pause 6s...
+2026-08-06 22:39:27,357 [INFO] [6/150] Premier League | 2023-2024 | passing
+2026-08-06 22:39:27,358 [INFO]     URL : https://fbref.com/en/comps/9/2023-2024/passing/2023-2024-Premier-League-Stats
+2026-08-06 22:39:27,446 [ERROR]     HTTP 403 — Cloudflare non contourné sur cette URL
+2026-08-06 22:39:27,447 [WARNING]   -> Echec : ENG_2023-2024_passing
+2026-08-06 22:39:27,448 [INFO]   -> Pause 6s...
+2026-08-06 22:39:33,449 [INFO] [7/150] Premier League | 2023-2024 | passing_types
+2026-08-06 22:39:33,450 [INFO]     URL : https://fbref.com/en/comps/9/2023-2024/passing_types/2023-2024-Premier-League-Stats
+2026-08-06 22:39:33,537 [ERROR]     HTTP 403 — Cloudflare non contourné sur cette URL
+2026-08-06 22:39:33,538 [WARNING]   -> Echec : ENG_2023-2024_passing_types
+2026-08-06 22:39:33,539 [INFO]   -> Pause 6s...
+2026-08-06 22:39:39,540 [INFO] [8/150] Premier League | 2023-2024 | goal_shot_creation
+2026-08-06 22:39:39,541 [INFO]     URL : https://fbref.com/en/comps/9/2023-2024/goal_shot_creation/2023-2024-Premier-League-Stats
+2026-08-06 22:39:39,636 [ERROR]     HTTP 403 — Cloudflare non contourné sur cette URL
+2026-08-06 22:39:39,638 [WARNING]   -> Echec : ENG_2023-2024_goal_shot_creation
+2026-08-06 22:39:39,640 [INFO]   -> Pause 6s...
+2026-08-06 22:39:45,641 [INFO] [9/150] Premier League | 2023-2024 | defense
+2026-08-06 22:39:45,642 [INFO]     URL : https://fbref.com/en/comps/9/2023-2024/defense/2023-2024-Premier-League-Stats
+2026-08-06 22:39:45,736 [ERROR]     HTTP 403 — Cloudflare non contourné sur cette URL
+2026-08-06 22:39:45,738 [WARNING]   -> Echec : ENG_2023-2024_defense
+2026-08-06 22:39:45,738 [INFO]   -> Pause 6s...
+2026-08-06 22:39:51,740 [INFO] [10/150] Premier League | 2023-2024 | possession
+2026-08-06 22:39:51,741 [INFO]     URL : https://fbref.com/en/comps/9/2023-2024/possession/2023-2024-Premier-League-Stats
+2026-08-06 22:39:51,837 [ERROR]     HTTP 403 — Cloudflare non contourné sur cette URL
+2026-08-06 22:39:51,838 [WARNING]   -> Echec : ENG_2023-2024_possession
+2026-08-06 22:39:51,838 [INFO]   -> Pause 6s...
+2026-08-06 22:39:57,839 [INFO] [11/150] Premier League | 2024-2025 | passing
+2026-08-06 22:39:57,840 [INFO]     URL : https://fbref.com/en/comps/9/passing/Premier-League-Stats
+2026-08-06 22:39:57,914 [ERROR]     HTTP 403 — Cloudflare non contourné sur cette URL
+2026-08-06 22:39:57,915 [WARNING]   -> Echec : ENG_2024-2025_passing
+2026-08-06 22:39:57,915 [INFO]   -> Pause 6s...
+2026-08-06 22:40:03,916 [INFO] [12/150] Premier League | 2024-2025 | passing_types
+2026-08-06 22:40:03,917 [INFO]     URL : https://fbref.com/en/comps/9/passing_types/Premier-League-Stats
+2026-08-06 22:40:04,012 [ERROR]     HTTP 403 — Cloudflare non contourné sur cette URL
+2026-08-06 22:40:04,013 [WARNING]   -> Echec : ENG_2024-2025_passing_types
+2026-08-06 22:40:04,013 [INFO]   -> Pause 6s...
+2026-08-06 22:40:10,014 [INFO] [13/150] Premier League | 2024-2025 | goal_shot_creation
+2026-08-06 22:40:10,015 [INFO]     URL : https://fbref.com/en/comps/9/goal_shot_creation/Premier-League-Stats
+2026-08-06 22:40:10,090 [ERROR]     HTTP 403 — Cloudflare non contourné sur cette URL
+2026-08-06 22:40:10,091 [WARNING]   -> Echec : ENG_2024-2025_goal_shot_creation
+2026-08-06 22:40:10,091 [INFO]   -> Pause 6s...
+2026-08-06 22:40:16,092 [INFO] [14/150] Premier League | 2024-2025 | defense
+2026-08-06 22:40:16,093 [INFO]     URL : https://fbref.com/en/comps/9/defense/Premier-League-Stats
+2026-08-06 22:40:16,184 [ERROR]     HTTP 403 — Cloudflare non contourné sur cette URL
+2026-08-06 22:40:16,185 [WARNING]   -> Echec : ENG_2024-2025_defense
+2026-08-06 22:40:16,186 [INFO]   -> Pause 6s...
+2026-08-06 22:40:22,187 [INFO] [15/150] Premier League | 2024-2025 | possession
+2026-08-06 22:40:22,188 [INFO]     URL : https://fbref.com/en/comps/9/possession/Premier-League-Stats
+2026-08-06 22:40:22,286 [ERROR]     HTTP 403 — Cloudflare non contourné sur cette URL
+2026-08-06 22:40:22,287 [WARNING]   -> Echec : ENG_2024-2025_possession
+2026-08-06 22:40:22,287 [INFO]   -> Pause 6s...
+2026-08-06 22:40:28,288 [INFO] [16/150] La Liga | 2022-2023 | passing
+2026-08-06 22:40:28,290 [INFO]     URL : https://fbref.com/en/comps/12/2022-2023/passing/2022-2023-La-Liga-Stats
+2026-08-06 22:40:28,373 [ERROR]     HTTP 403 — Cloudflare non contourné sur cette URL
+2026-08-06 22:40:28,374 [WARNING]   -> Echec : ESP_2022-2023_passing
+2026-08-06 22:40:28,374 [INFO]   -> Pause 6s...
+2026-08-06 22:40:34,375 [INFO] [17/150] La Liga | 2022-2023 | passing_types
+2026-08-06 22:40:34,376 [INFO]     URL : https://fbref.com/en/comps/12/2022-2023/passing_types/2022-2023-La-Liga-Stats
+2026-08-06 22:40:34,451 [ERROR]     HTTP 403 — Cloudflare non contourné sur cette URL
+2026-08-06 22:40:34,452 [WARNING]   -> Echec : ESP_2022-2023_passing_types
+2026-08-06 22:40:34,452 [INFO]   -> Pause 6s...
+2026-08-06 22:40:40,453 [INFO] [18/150] La Liga | 2022-2023 | goal_shot_creation
+2026-08-06 22:40:40,456 [INFO]     URL : https://fbref.com/en/comps/12/2022-2023/goal_shot_creation/2022-2023-La-Liga-Stats
+2026-08-06 22:40:40,538 [ERROR]     HTTP 403 — Cloudflare non contourné sur cette URL
+2026-08-06 22:40:40,539 [WARNING]   -> Echec : ESP_2022-2023_goal_shot_creation
+2026-08-06 22:40:40,539 [INFO]   -> Pause 6s...
+2026-08-06 22:40:46,540 [INFO] [19/150] La Liga | 2022-2023 | defense
+2026-08-06 22:40:46,543 [INFO]     URL : https://fbref.com/en/comps/12/2022-2023/defense/2022-2023-La-Liga-Stats
+2026-08-06 22:40:46,631 [ERROR]     HTTP 403 — Cloudflare non contourné sur cette URL
+2026-08-06 22:40:46,632 [WARNING]   -> Echec : ESP_2022-2023_defense
+2026-08-06 22:40:46,633 [INFO]   -> Pause 6s...
+2026-08-06 22:40:52,636 [INFO] [20/150] La Liga | 2022-2023 | possession
+2026-08-06 22:40:52,636 [INFO]     URL : https://fbref.com/en/comps/12/2022-2023/possession/2022-2023-La-Liga-Stats
+2026-08-06 22:40:52,738 [ERROR]     HTTP 403 — Cloudflare non contourné sur cette URL
+2026-08-06 22:40:52,738 [WARNING]   -> Echec : ESP_2022-2023_possession
+2026-08-06 22:40:52,739 [INFO]   -> Pause 6s...
+2026-08-06 22:40:58,740 [INFO] [21/150] La Liga | 2023-2024 | passing
+2026-08-06 22:40:58,740 [INFO]     URL : https://fbref.com/en/comps/12/2023-2024/passing/2023-2024-La-Liga-Stats
+2026-08-06 22:40:58,821 [ERROR]     HTTP 403 — Cloudflare non contourné sur cette URL
+2026-08-06 22:40:58,821 [WARNING]   -> Echec : ESP_2023-2024_passing
+2026-08-06 22:40:58,822 [INFO]   -> Pause 6s...
+2026-08-06 22:41:04,823 [INFO] [22/150] La Liga | 2023-2024 | passing_types
+2026-08-06 22:41:04,824 [INFO]     URL : https://fbref.com/en/comps/12/2023-2024/passing_types/2023-2024-La-Liga-Stats
+2026-08-06 22:41:04,919 [ERROR]     HTTP 403 — Cloudflare non contourné sur cette URL
+2026-08-06 22:41:04,920 [WARNING]   -> Echec : ESP_2023-2024_passing_types
+2026-08-06 22:41:04,921 [INFO]   -> Pause 6s...
+2026-08-06 22:41:10,922 [INFO] [23/150] La Liga | 2023-2024 | goal_shot_creation
+2026-08-06 22:41:10,923 [INFO]     URL : https://fbref.com/en/comps/12/2023-2024/goal_shot_creation/2023-2024-La-Liga-Stats
+2026-08-06 22:41:11,037 [ERROR]     HTTP 403 — Cloudflare non contourné sur cette URL
+2026-08-06 22:41:11,038 [WARNING]   -> Echec : ESP_2023-2024_goal_shot_creation
+2026-08-06 22:41:11,039 [INFO]   -> Pause 6s...
+2026-08-06 22:41:17,040 [INFO] [24/150] La Liga | 2023-2024 | defense
+2026-08-06 22:41:17,041 [INFO]     URL : https://fbref.com/en/comps/12/2023-2024/defense/2023-2024-La-Liga-Stats
+2026-08-06 22:41:17,118 [ERROR]     HTTP 403 — Cloudflare non contourné sur cette URL
+2026-08-06 22:41:17,119 [WARNING]   -> Echec : ESP_2023-2024_defense
+2026-08-06 22:41:17,120 [INFO]   -> Pause 6s...
+2026-08-06 22:41:23,121 [INFO] [25/150] La Liga | 2023-2024 | possession
+2026-08-06 22:41:23,122 [INFO]     URL : https://fbref.com/en/comps/12/2023-2024/possession/2023-2024-La-Liga-Stats
+2026-08-06 22:41:23,236 [ERROR]     HTTP 403 — Cloudflare non contourné sur cette URL
+2026-08-06 22:41:23,237 [WARNING]   -> Echec : ESP_2023-2024_possession
+2026-08-06 22:41:23,237 [INFO]   -> Pause 6s...
+2026-08-06 22:41:29,238 [INFO] [26/150] La Liga | 2024-2025 | passing
+2026-08-06 22:41:29,240 [INFO]     URL : https://fbref.com/en/comps/12/passing/La-Liga-Stats
+2026-08-06 22:41:29,316 [ERROR]     HTTP 403 — Cloudflare non contourné sur cette URL
+2026-08-06 22:41:29,317 [WARNING]   -> Echec : ESP_2024-2025_passing
+2026-08-06 22:41:29,318 [INFO]   -> Pause 6s...

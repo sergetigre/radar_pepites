@@ -1,0 +1,660 @@
+﻿country,tournament,tournament_id,season_id,team_name,team_id,player_name,player_id,age,height,player_country,position,preferred_foot,contract_until,market_value,market_currency,_league_id,_season,_source,_scraped_at
+England,Premier League,17,52186,Manchester City,17,Erling Haaland,839956,26.0,194.0,Norway,F,Left,2035238400.0,240000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Omar Marmoush,873554,27.0,183.0,Egypt,F,Right,1877472000.0,55000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Divin Mubama,1167025,21.0,183.0,England,F,Left,,5500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Mahamadou Sangaré,1544537,19.0,177.0,France,F,Left,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Jaden Heskey,1402923,20.0,180.0,England,F,Right,,310000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Phil Foden,859765,26.0,171.0,England,M,Left,1909008000.0,66000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Rodri,827606,30.0,191.0,Spain,M,Right,1814313600.0,50000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Antoine Semenyo,934354,26.0,185.0,Ghana,M,Right,1940544000.0,85000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Rayan Cherki,979128,22.0,176.0,France,M,Both,1909008000.0,98000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Jérémy Doku,934386,24.0,173.0,Belgium,M,Right,1845936000.0,70000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Jack Grealish,189061,30.0,180.0,England,M,Right,1814313600.0,21000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Savinho,1046795,22.0,176.0,Brazil,M,Left,1940544000.0,37000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Tijjani Reijnders,893549,28.0,185.0,Netherlands,M,Right,1909008000.0,48000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Claudio Echeverri,1482424,20.0,171.0,Argentina,M,Right,1845936000.0,14300000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Mateo Kovačić,136710,32.0,178.0,Croatia,M,Right,1814313600.0,9700000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Elliot Anderson,994546,23.0,179.0,England,M,Right,,68000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Nico González,954056,24.0,186.0,Spain,M,Right,1877472000.0,43000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Issa Kaboré,1006189,25.0,180.0,Burkina Faso,M,Right,1814313600.0,4099999.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Divine Mukasa,1467990,18.0,178.0,England,M,Left,1909008000.0,4900000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Kalvin Phillips,786028,30.0,177.0,England,M,Right,1845936000.0,2400000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Jeremy Monga,1861707,17.0,173.0,England,M,Right,1940544000.0,15500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Floyd Samba,1937970,17.0,183.0,England,M,Right,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Xavier Parker,2222774,16.0,,England,M,Right,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Abdukodir Khusanov,1194333,22.0,186.0,Uzbekistan,D,Right,1940544000.0,47000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Joško Gvardiol,964994,24.0,186.0,Croatia,D,Left,1940544000.0,64000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Rayan Aït-Nouri,931278,25.0,179.0,Algeria,D,Left,1909008000.0,39000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Rúben Dias,318941,29.0,188.0,Portugal,D,Right,1877472000.0,60000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Nico O'Reilly,1142703,21.0,193.0,England,D,Left,1909008000.0,76000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Marc Guéhi,877994,26.0,182.0,England,D,Right,1940544000.0,66000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Matheus Nunes,945122,27.0,183.0,Portugal,D,Right,1845936000.0,48000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Rico Lewis,1136731,21.0,170.0,England,D,Right,1909008000.0,26000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Vitor Reis,1485300,20.0,186.0,Brazil,D,Right,1877472000.0,31000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Max Alleyne,1168513,21.0,185.0,England,D,Both,1909008000.0,7800000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Abdulay Juma Bah,1606792,20.0,195.0,Sierra Leone,D,Right,1940544000.0,10400000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Josh Wilson-Esbrand,1017915,23.0,176.0,England,D,Left,1814313600.0,2400000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Stephen Mfuni,1402791,18.0,193.0,England,D,Left,,1400000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Kaden Braithwaite,1899484,18.0,194.0,England,D,Right,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Matthew Henderson-Hall,1402760,19.0,,England,D,Both,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Gianluigi Donnarumma,824509,27.0,196.0,Italy,G,Right,1909008000.0,46000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Marcus Bettinelli,257993,34.0,194.0,England,G,Right,1814313600.0,320000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Jack Wint,1601598,19.0,187.0,England,G,Right,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester City,17,Max-Edgar Chabot,2245589,18.0,188.0,France,G,Left,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,Viktor Gyökeres,804508,28.0,187.0,Sweden,F,Right,1909008000.0,61000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,Bukayo Saka,934235,24.0,178.0,England,F,Left,1909008000.0,115000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,Kai Havertz,836705,27.0,193.0,Germany,F,Left,1845936000.0,53000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,Gabriel Martinelli,922573,25.0,180.0,Brazil,F,Right,1814313600.0,42000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,Gabriel Jesus,794839,29.0,175.0,Brazil,F,Right,1814313600.0,17600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,Noni Madueke,966547,24.0,182.0,England,F,Left,1909008000.0,54000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,Ismeal Kabia,1621612,20.0,176.0,Netherlands,F,Right,,97000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,Ceadach O'Neill,1590853,18.0,175.0,Northern Ireland,F,Right,1814313600.0,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,Demiane Agustien,1469025,19.0,183.0,Netherlands,F,Left,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,Martin Ødegaard,547410,27.0,178.0,Norway,M,Left,1845936000.0,77000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,Declan Rice,856714,27.0,188.0,England,M,Right,1845936000.0,114000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,Eberechi Eze,864921,28.0,178.0,England,M,Right,1877472000.0,69000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,Bruno Guimarães,866469,28.0,182.0,Brazil,M,Right,1909008000.0,72000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,Mikel Merino,592010,30.0,188.0,Spain,M,Left,1845936000.0,26000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,Max Dowman,1917626,16.0,183.0,England,M,Left,,31000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,Martín Zubimendi,966837,27.0,180.0,Spain,M,Right,1909008000.0,77000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,Ethan Nwaneri,1401702,19.0,176.0,England,M,Left,1909008000.0,34000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,Christos Tzolis,1031259,24.0,180.0,Greece,M,Right,1940544000.0,42000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,Fábio Vieira,904835,26.0,170.0,Portugal,M,Left,1814313600.0,16600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,Reiss Nelson,826139,26.0,175.0,England,M,Right,1814313600.0,8800000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,Andre Harriman-Annous,1899736,18.0,181.0,England,M,Right,,1100000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,Ife Ibrahim,1899739,18.0,187.0,England,M,Right,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,Louie Copley,1596273,19.0,175.0,England,M,Right,,68000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,Gabriel Magalhães,869792,28.0,190.0,Brazil,D,Left,1877472000.0,70000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,William Saliba,941168,25.0,193.0,France,D,Right,1909008000.0,94000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,Piero Hincapié,1002837,24.0,184.0,Ecuador,D,Left,1940544000.0,46000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,Jurriën Timber,958959,25.0,179.0,Netherlands,D,Right,1845936000.0,73000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,Riccardo Calafiori,957602,24.0,188.0,Italy,D,Left,1877472000.0,53000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,Cristhian Mosquera,1144630,22.0,191.0,Spain,D,Right,1909008000.0,38000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,Myles Lewis-Skelly,1423711,19.0,178.0,England,D,Left,1909008000.0,48000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,Ben White,846036,28.0,186.0,England,D,Right,1845936000.0,27000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,Marli Salmon,1912995,16.0,186.0,England,D,Right,1814313600.0,4800000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,Brayden Clarke,1424625,19.0,181.0,Wales,D,Right,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,Theo Julienne,1899763,18.0,,England,D,,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,Josh Ogunnaike,1899749,18.0,,England,D,,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,David Raya,581310,30.0,183.0,Spain,G,Right,1845936000.0,33000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,Kepa Arrizabalaga,232422,31.0,188.0,Spain,G,Right,1845936000.0,5300000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,Illan Meslier,906076,26.0,196.0,France,G,Left,1845936000.0,7500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,Tommy Setford,1150958,20.0,185.0,England,G,Right,1845936000.0,515000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Arsenal,42,Khari Ranson,1842987,18.0,183.0,England,G,Left,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Liverpool FC,44,Alexander Isak,823941,26.0,193.0,Sweden,F,Right,1940544000.0,88000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Liverpool FC,44,Hugo Ekitiké,1048422,24.0,190.0,France,F,Right,1940544000.0,77000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Liverpool FC,44,Federico Chiesa,845386,28.0,175.0,Italy,F,Right,1845936000.0,11900000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Liverpool FC,44,Rio Ngumoha,1881902,17.0,170.0,England,F,Right,1845936000.0,29000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Liverpool FC,44,Víctor Muñoz,1145642,23.0,173.0,Spain,F,Right,,29000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Liverpool FC,44,Kieran Morrison,1462781,19.0,170.0,Northern Ireland,F,Left,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Liverpool FC,44,Lewis Koumas,1403111,20.0,181.0,Wales,F,Right,1877472000.0,3700000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Liverpool FC,44,Florian Wirtz,1019322,23.0,175.0,Germany,M,Right,1909008000.0,95000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Liverpool FC,44,Dominik Szoboszlai,869856,25.0,187.0,Hungary,M,Right,1940544000.0,91000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Liverpool FC,44,Alexis Mac Allister,895324,27.0,176.0,Argentina,M,Right,1845936000.0,77000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Liverpool FC,44,Cody Gakpo,862967,27.0,193.0,Netherlands,M,Right,1909008000.0,58000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Liverpool FC,44,Ryan Gravenberch,904897,24.0,190.0,Netherlands,M,Right,1972166400.0,87000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Liverpool FC,44,Harvey Elliott,955245,23.0,170.0,England,M,Left,1814313600.0,21000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Liverpool FC,44,Wataru Endo,143040,33.0,178.0,Japan,M,Right,1814313600.0,3700000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Liverpool FC,44,Curtis Jones,927353,25.0,185.0,England,M,Right,1814313600.0,33000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Liverpool FC,44,Stefan Bajčetić,1142636,21.0,185.0,Spain,M,Right,1814313600.0,3900000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Liverpool FC,44,Trey Nyoni,1445945,19.0,180.0,England,M,Right,1909008000.0,8500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Liverpool FC,44,James McConnell,1138428,21.0,180.0,England,M,Right,1909008000.0,1600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Liverpool FC,44,Virgil van Dijk,151545,35.0,195.0,Netherlands,D,Right,1814313600.0,15500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Liverpool FC,44,Jeremie Frimpong,970361,25.0,171.0,Netherlands,D,Right,1909008000.0,36000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Liverpool FC,44,Miloš Kerkez,1097425,22.0,180.0,Hungary,D,Left,1909008000.0,36000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Liverpool FC,44,Conor Bradley,1008402,23.0,181.0,Northern Ireland,D,Right,1877472000.0,27000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Liverpool FC,44,Kostas Tsimikas,786259,30.0,178.0,Greece,D,Left,1814313600.0,4400000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Liverpool FC,44,Giovanni Leoni,1473137,19.0,196.0,Italy,D,Right,1940544000.0,27000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Liverpool FC,44,Joe Gomez,318927,29.0,188.0,England,D,Right,1814313600.0,12600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Liverpool FC,44,Jérémy Jacquet,1445625,21.0,191.0,France,D,Right,1940544000.0,57000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Liverpool FC,44,Calvin Ramsay,991227,23.0,177.0,Scotland,D,Right,1814313600.0,1500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Liverpool FC,44,Calum Scanlon,1188167,21.0,,England,D,Left,,430000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Liverpool FC,44,Alisson,243609,33.0,193.0,Brazil,G,Right,1814313600.0,16500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Liverpool FC,44,Giorgi Mamardashvili,930997,25.0,200.0,Georgia,G,Left,1940544000.0,29000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Liverpool FC,44,Freddie Woodman,284417,29.0,187.0,England,G,Right,1877472000.0,3100000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Liverpool FC,44,Vítězslav Jaroš,927359,25.0,190.0,Czechia,G,Right,1845936000.0,5300000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Liverpool FC,44,Harvey Davies,1008403,22.0,185.0,England,G,Left,1814313600.0,470000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Aston Villa,40,Alejandro Garnacho,1135873,22.0,180.0,Argentina,F,Right,1814313600.0,26000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Aston Villa,40,Ollie Watkins,555386,30.0,179.0,England,F,Right,1845936000.0,26000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Aston Villa,40,Tammy Abraham,610766,28.0,195.0,England,F,Right,1909008000.0,16500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Aston Villa,40,Leon Bailey,808590,28.0,178.0,Jamaica,F,Left,1814313600.0,13100000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Aston Villa,40,Evann Guessand,930245,25.0,185.0,Côte d'Ivoire,F,Right,1909008000.0,24000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Aston Villa,40,Brian Madjo,2070311,17.0,193.0,England,F,Right,1972166400.0,12600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Aston Villa,40,Luka Lynch,1656223,19.0,,England,F,Right,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Aston Villa,40,João Gomes,1015267,25.0,176.0,Brazil,M,Right,1940544000.0,36000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Aston Villa,40,Johan Manzambi,1518931,20.0,182.0,Switzerland,M,Right,,71000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Aston Villa,40,Emiliano Buendía,783126,29.0,170.0,Argentina,M,Right,1814313600.0,14600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Aston Villa,40,Amadou Onana,923973,24.0,195.0,Belgium,M,Both,1877472000.0,41000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Aston Villa,40,John McGinn,250223,31.0,175.0,Scotland,M,Left,1845936000.0,12600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Aston Villa,40,Boubacar Kamara,826204,26.0,184.0,France,M,Right,1909008000.0,39000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Aston Villa,40,Alysson,1631879,20.0,184.0,Brazil,M,Left,1940544000.0,10800000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Aston Villa,40,Ross Barkley,98435,32.0,188.0,England,M,Right,1814313600.0,3600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Aston Villa,40,Samuel Iling Junior,996919,22.0,182.0,England,M,Left,1877472000.0,6300000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Aston Villa,40,Lamare Bogarde,1089388,22.0,183.0,Netherlands,M,Right,1845936000.0,17500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Aston Villa,40,Bradley Burrowes,1899712,18.0,169.0,England,M,Right,1814313600.0,1800000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Aston Villa,40,George Hemmings,1398204,19.0,182.0,England,M,Both,,860000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Aston Villa,40,Triston Rowe,1400655,19.0,183.0,England,M,Right,,1600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Aston Villa,40,Lucas Digne,96538,33.0,178.0,France,D,Left,1845936000.0,5500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Aston Villa,40,Matty Cash,833956,29.0,185.0,Poland,D,Right,1877472000.0,19800000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Aston Villa,40,Victor Lindelöf,143334,32.0,187.0,Sweden,D,Right,1814313600.0,4800000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Aston Villa,40,Ezri Konsa,827679,28.0,183.0,England,D,Right,1845936000.0,47000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Aston Villa,40,Ian Maatsen,976263,24.0,178.0,Netherlands,D,Left,1909008000.0,28000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Aston Villa,40,Pau Torres,864169,29.0,192.0,Spain,D,Left,1845936000.0,21000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Aston Villa,40,Kosta Nedeljković,1152923,20.0,184.0,Serbia,D,Right,1877472000.0,6600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Aston Villa,40,Tyrone Mings,303638,33.0,195.0,England,D,Left,1814313600.0,3200000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Aston Villa,40,Modou Kéba Cissé,1944705,21.0,191.0,Senegal,D,Right,1877472000.0,5400000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Aston Villa,40,TJ Carroll,1881907,19.0,197.0,England,D,Left,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Aston Villa,40,Emiliano Martínez,158263,33.0,195.0,Argentina,G,Right,1877472000.0,11500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Aston Villa,40,Marco Bizot,100390,35.0,194.0,Netherlands,G,Right,1814313600.0,1400000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Aston Villa,40,James Wright,1138445,21.0,188.0,England,G,Right,,220000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Aston Villa,40,Owen Asemota,1939211,18.0,,England,G,,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,Richarlison,840217,29.0,184.0,Brazil,F,Right,1814313600.0,24000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,Mathys Tel,1048888,21.0,183.0,France,F,Right,1940544000.0,23000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,Dominic Solanke,361420,28.0,186.0,England,F,Right,1909008000.0,31000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,Manor Solomon,862223,27.0,167.0,Israel,F,Both,1845936000.0,7800000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,Wilson Odobert,1142679,21.0,182.0,France,F,Right,1877472000.0,18500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,Mikey Moore,1403192,18.0,180.0,England,F,Right,1909008000.0,18500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,Dane Scarlett,998772,22.0,180.0,England,F,Right,1814313600.0,1400000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,Mohammed Kudus,905163,26.0,176.0,Ghana,M,Left,1940544000.0,54000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,Xavi Simons,997183,23.0,179.0,Netherlands,M,Right,1909008000.0,43000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,Pape Matar Sarr,1002711,23.0,185.0,Senegal,M,Right,1909008000.0,28000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,Sandro Tonali,892673,26.0,181.0,Italy,M,Right,1972166400.0,74000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,Conor Gallagher,904970,26.0,182.0,England,M,Right,1940544000.0,31000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,James Maddison,356398,29.0,175.0,England,M,Right,1845936000.0,19400000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,Dejan Kulusevski,928124,26.0,186.0,Sweden,M,Left,1845936000.0,16500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,Lucas Bergvall,1391251,20.0,186.0,Sweden,M,Right,1940544000.0,36000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,Rodrigo Bentancur,791190,29.0,187.0,Uruguay,M,Both,1877472000.0,19300000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,Mateus Fernandes,1142562,22.0,178.0,Portugal,M,Right,1940544000.0,49000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,Archie Gray,1142335,20.0,187.0,England,M,Right,1909008000.0,34000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,Yang Min-hyeok,1500794,20.0,176.0,South Korea,M,Right,1909008000.0,3300000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,Jamie Donley,1150934,21.0,183.0,Northern Ireland,M,Left,1877472000.0,1600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,Cristian Romero,829932,28.0,185.0,Argentina,D,Right,1877472000.0,46000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,Andy Robertson,262911,32.0,178.0,Scotland,D,Left,1909008000.0,7500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,Pedro Porro,913654,26.0,173.0,Spain,D,Right,1940544000.0,42000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,Micky van de Ven,998247,25.0,193.0,Netherlands,D,Left,1877472000.0,49000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,Djed Spence,945798,25.0,184.0,England,D,Right,1877472000.0,41000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,Marcos Senesi,830659,29.0,184.0,Argentina,D,Left,1909008000.0,23000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,Jan Paul van Hecke,962012,26.0,189.0,Netherlands,D,Right,,65000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,Destiny Udogie,983572,23.0,186.0,Italy,D,Left,1909008000.0,28000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,Kevin Danso,794953,27.0,190.0,Austria,D,Right,1909008000.0,19400000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,Souza,1482340,20.0,179.0,Brazil,D,Left,1940544000.0,12400000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,Kota Takai,1144143,21.0,192.0,Japan,D,Right,1909008000.0,4600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,Ben Davies,94758,33.0,181.0,Wales,D,Left,1814313600.0,2800000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,Ashley Phillips,1134744,21.0,192.0,England,D,Right,1845936000.0,7500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,Malachi Hardy,1471592,18.0,188.0,England,D,Right,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,Harry Byrne,1899459,18.0,,Ireland,D,Left,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,Antonín Kinský,1031251,23.0,190.0,Czechia,G,Right,1940544000.0,15700000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,Guglielmo Vicario,553606,29.0,194.0,Italy,G,Right,1845936000.0,17300000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,Martin Dúbravka,42209,37.0,190.0,Slovakia,G,Right,1814313600.0,485000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Tottenham Hotspur,33,Brandon Austin,859896,27.0,188.0,England,G,Right,1877472000.0,530000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,João Pedro,975079,24.0,182.0,Brazil,F,Right,2003702400.0,74000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Nicolas Jackson,1085381,25.0,186.0,Senegal,F,Right,2003702400.0,39000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Marc Guiu,1414933,20.0,187.0,Spain,F,Right,1877472000.0,11200000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Liam Delap,997087,23.0,186.0,England,F,Right,1940544000.0,26000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Dastan Satpaev,1584939,17.0,176.0,Kazakhstan,F,Both,1798675200.0,3400000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Emmanuel Emegha,1048333,23.0,195.0,Netherlands,F,Right,2003702400.0,26000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Danny Welbeck,33902,35.0,185.0,England,F,Right,1845936000.0,3100000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,David Datro Fofana,1090458,23.0,181.0,Côte d'Ivoire,F,Right,1877472000.0,4099999.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Ryan Kavuma-McQueen,1861699,17.0,179.0,England,F,Left,1845936000.0,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Cole Palmer,982780,24.0,185.0,England,M,Left,2003702400.0,92000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Estêvão,1597265,19.0,176.0,Brazil,M,Left,2003702400.0,82000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Enzo Fernández,974505,25.0,177.0,Argentina,M,Right,1972166400.0,97000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Moisés Caicedo,987650,24.0,178.0,Ecuador,M,Right,2003702400.0,104000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Mykhailo Mudryk,958966,25.0,175.0,Ukraine,M,Right,1940544000.0,42000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Pedro Neto,879349,26.0,172.0,Portugal,M,Left,1940544000.0,58000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Morgan Rogers,948261,24.0,187.0,England,M,Right,2003702400.0,105000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Valentín Barco,1127057,22.0,172.0,Argentina,M,Left,2003702400.0,44000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Jamie Gittens,1140599,22.0,178.0,England,M,Right,1972166400.0,29000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Roméo Lavia,1069488,22.0,181.0,Belgium,M,Right,1909008000.0,21000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Geovany Quenda,1403165,19.0,172.0,Portugal,M,Left,2035238400.0,45000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Dário Essugo,1110006,21.0,178.0,Portugal,M,Right,2003702400.0,13900000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Marco Palestra,1397736,21.0,186.0,Italy,M,Right,2003702400.0,36000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Jordan Henderson,42694,36.0,183.0,England,M,Right,1845936000.0,1300000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Reggie Walsh,1913033,17.0,176.0,England,M,Right,1845936000.0,485000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Mahdi Nicoll-Jazuli,2037476,16.0,,England,M,Right,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Omari Kellyman,1162083,20.0,191.0,England,M,Left,1909008000.0,1600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Reggie Watson,2045421,16.0,182.0,England,M,Right,1845936000.0,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Reece James,885908,26.0,180.0,England,D,Right,1972166400.0,63000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Mamadou Sarr,1154657,20.0,194.0,Senegal,D,Right,2003702400.0,24000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Malo Gusto,996958,23.0,179.0,France,D,Right,1909008000.0,36000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Levi Colwill,996911,23.0,187.0,England,D,Left,1877472000.0,55000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Maxence Lacroix,879674,26.0,192.0,France,D,Right,1972166400.0,54000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Jorrel Hato,1153079,20.0,182.0,Netherlands,D,Left,1972166400.0,41000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Wesley Fofana,923894,25.0,186.0,France,D,Right,1877472000.0,29000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Trevoh Chalobah,826134,27.0,190.0,England,D,Right,1845936000.0,43000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Josh Acheampong,1403050,20.0,190.0,England,D,Right,1877472000.0,24000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Aarón Anselmino,1500263,21.0,186.0,Argentina,D,Right,1940544000.0,10600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Tosin Adarabioyo,352668,28.0,196.0,England,D,Right,1845936000.0,16500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Benoît Badiashile,904827,25.0,194.0,France,D,Left,1909008000.0,14500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Axel Disasi,827243,28.0,190.0,France,D,Right,1877472000.0,15500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Caleb Wiley,1035645,21.0,178.0,USA,D,Left,1909008000.0,7600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Denner,1937658,18.0,176.0,Brazil,D,Left,1972166400.0,10500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Olutayo Subuloye,1899529,18.0,186.0,England,D,Left,1909008000.0,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Calvin Diakite,1861693,17.0,185.0,England,D,Left,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Robert Sánchez,920546,28.0,197.0,Spain,G,Right,1909008000.0,19900000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Filip Jørgensen,962053,24.0,190.0,Denmark,G,Both,1940544000.0,14600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Mike Penders,1149148,21.0,199.0,Belgium,G,Left,1972166400.0,24000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Gabriel Słonina,978787,22.0,193.0,USA,G,Right,1845936000.0,3300000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Teddy Sharman-Lowe,1009762,23.0,194.0,England,G,Right,1845936000.0,465000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Chelsea,38,Ted Curd,1142130,20.0,186.0,England,G,Right,1845936000.0,155000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Newcastle United,39,Yoane Wissa,805123,29.0,176.0,DR Congo,F,Right,1877472000.0,23000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Newcastle United,39,Nick Woltemade,980623,24.0,198.0,Germany,F,Right,1940544000.0,59000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Newcastle United,39,Anthony Elanga,979232,24.0,178.0,Sweden,F,Right,1909008000.0,31000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Newcastle United,39,William Osula,1122603,23.0,191.0,Denmark,F,Right,1877472000.0,26000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Newcastle United,39,Harvey Barnes,855647,28.0,181.0,England,F,Right,,35000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Newcastle United,39,Jacob Murphy,372336,31.0,176.0,England,F,Right,1814313600.0,11000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Newcastle United,39,Sean Neave,1511675,19.0,184.0,England,F,Right,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Newcastle United,39,Joelinton,560128,29.0,186.0,Brazil,M,Right,1845936000.0,27000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Newcastle United,39,Bazoumana Touré,1568123,20.0,175.0,Côte d'Ivoire,M,Left,,48000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Newcastle United,39,Lewis Miley,1400650,20.0,188.0,England,M,Right,1972166400.0,27000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Newcastle United,39,Jacob Ramsey,975937,25.0,180.0,England,M,Right,1909008000.0,36000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Newcastle United,39,Joe Willock,888550,26.0,186.0,England,M,Right,1814313600.0,14500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Newcastle United,39,Aladji Bamba,1868591,20.0,194.0,France,M,Right,1940544000.0,16700000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Newcastle United,39,Sean Steur,1859920,18.0,180.0,Netherlands,M,Right,1940544000.0,6800000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Newcastle United,39,Rory Finneran,1548400,18.0,177.0,Ireland,M,Right,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Newcastle United,39,Mason Miley,1947565,17.0,,England,M,,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Newcastle United,39,Malick Thiaw,1014286,25.0,194.0,Germany,D,Right,1877472000.0,41000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Newcastle United,39,Dan Burn,99090,34.0,201.0,England,D,Left,1814313600.0,4099999.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Newcastle United,39,Tino Livramento,980634,23.0,181.0,England,D,Right,1845936000.0,44000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Newcastle United,39,Lewis Hall,1136730,21.0,179.0,England,D,Left,1877472000.0,38000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Newcastle United,39,Sven Botman,910046,26.0,193.0,Netherlands,D,Left,1909008000.0,33000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Newcastle United,39,Fabian Schär,101882,34.0,186.0,Switzerland,D,Right,1814313600.0,3900000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Newcastle United,39,Alex Murphy,1125214,22.0,188.0,Ireland,D,Left,1845936000.0,1600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Newcastle United,39,Leo Shahar,1479682,19.0,179.0,England,D,Right,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Newcastle United,39,Miodrag Pivas,1129829,21.0,188.0,Serbia,D,Right,,260000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Newcastle United,39,Dylan Charlton,1542343,20.0,175.0,England,D,Left,1814313600.0,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Newcastle United,39,Henry Johnson,1899470,18.0,,England,D,,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Newcastle United,39,Nick Pope,162653,34.0,198.0,England,G,Right,1814313600.0,4800000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Newcastle United,39,Lukáš Horníček,963744,24.0,194.0,Czechia,G,Right,1940544000.0,16900000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Newcastle United,39,Ewen Jaouen,1154665,20.0,197.0,France,G,Right,1909008000.0,12700000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Newcastle United,39,Mark Gillespie,108508,34.0,190.0,England,G,Right,1814313600.0,105000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Newcastle United,39,Aidan Harris,1425207,19.0,185.0,England,G,Left,,180000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester United,35,Marcus Rashford,814590,28.0,188.0,England,F,Right,1845936000.0,38000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester United,35,Bryan Mbeumo,927083,27.0,173.0,Cameroon,F,Left,1909008000.0,73000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester United,35,Benjamin Šeško,986397,23.0,195.0,Slovenia,F,Right,1909008000.0,78000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester United,35,Matheus Cunha,886363,27.0,184.0,Brazil,F,Right,1909008000.0,79000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester United,35,Mason Mount,836694,27.0,181.0,England,F,Right,1845936000.0,23000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester United,35,Joshua Zirkzee,917007,25.0,193.0,Netherlands,F,Right,1877472000.0,21000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester United,35,Tynan Thompson,1899445,18.0,187.0,England,F,Left,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester United,35,Bruno Fernandes,288205,31.0,179.0,Portugal,M,Right,1814313600.0,32000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester United,35,Amad Diallo,971037,24.0,173.0,Côte d'Ivoire,M,Left,1909008000.0,44000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester United,35,Kobbie Mainoo,1142175,21.0,184.0,England,M,Right,1940544000.0,72000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester United,35,Andrey Santos,1105779,22.0,180.0,Brazil,M,Right,1940544000.0,39000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester United,35,Patrick Dorgu,1397168,21.0,185.0,Denmark,M,Left,1909008000.0,33000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester United,35,Youri Tielemans,331737,29.0,177.0,Belgium,M,Right,1940544000.0,43000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester United,35,Manuel Ugarte,846425,25.0,182.0,Uruguay,M,Right,1877472000.0,24000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester United,35,Harry Amass,1461595,19.0,181.0,England,M,Left,1814313600.0,7200000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester United,35,Shea Lacey,1465865,19.0,175.0,England,M,Left,1877472000.0,5200000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester United,35,Toby Collyer,1084356,22.0,180.0,England,M,Both,1814313600.0,5200000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester United,35,Jack Fletcher,1402726,19.0,180.0,England,M,Left,1814313600.0,1600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester United,35,Tyler Fletcher,1402850,19.0,184.0,Scotland,M,Right,1814313600.0,1600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester United,35,Noussair Mazraoui,847030,28.0,183.0,Morocco,D,Right,1845936000.0,17500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester United,35,Lisandro Martínez,859999,28.0,175.0,Argentina,D,Left,1814313600.0,48000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester United,35,Matthijs de Ligt,803031,26.0,188.0,Netherlands,D,Right,1877472000.0,32000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester United,35,Harry Maguire,149380,33.0,194.0,England,D,Right,1814313600.0,8600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester United,35,Diogo Dalot,843200,27.0,184.0,Portugal,D,Right,1845936000.0,28000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester United,35,Leny Yoro,1153315,20.0,190.0,France,D,Right,1877472000.0,46000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester United,35,Luke Shaw,190839,31.0,178.0,England,D,Left,1814313600.0,7500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester United,35,Ayden Heaven,1445799,19.0,189.0,England,D,Left,1877472000.0,32000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester United,35,Daniel Armer,1545160,18.0,193.0,Scotland,D,Left,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester United,35,Senne Lammens,964753,24.0,193.0,Belgium,G,Right,1909008000.0,38000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester United,35,Tom Heaton,18122,40.0,188.0,England,G,Right,1814313600.0,94000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester United,35,Karl Darlow,123689,35.0,185.0,Wales,G,Right,1845936000.0,210000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester United,35,Dermot Mee,1005664,23.0,183.0,Northern Ireland,G,Right,1845936000.0,210000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Manchester United,35,Fred Heath,1899542,18.0,198.0,England,G,Right,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,West Ham United,37,Valentín Castellanos,877013,27.0,179.0,Argentina,F,Right,1909008000.0,29000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,West Ham United,37,Niclas Füllkrug,132645,33.0,188.0,Germany,F,Right,1845936000.0,3700000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,West Ham United,37,Pablo Felipe,1101174,22.0,184.0,Brazil,F,Right,1909008000.0,18500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,West Ham United,37,Maxwel Cornet,280439,29.0,179.0,Côte d'Ivoire,F,Left,1814313600.0,1800000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,West Ham United,37,Joshua Ajala,1636037,19.0,,England,F,Right,1845936000.0,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,West Ham United,37,Jett Murphy,2115437,18.0,,England,F,,1845936000.0,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,West Ham United,37,Edson Álvarez,847151,28.0,190.0,Mexico,M,Right,1845936000.0,14600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,West Ham United,37,Jarrod Bowen,552884,29.0,174.0,England,M,Left,1909008000.0,29000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,West Ham United,37,James Ward-Prowse,161717,31.0,177.0,England,M,Right,1814313600.0,4500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,West Ham United,37,Tomáš Souček,799041,31.0,192.0,Czechia,M,Right,1814313600.0,9700000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,West Ham United,37,Keiber Lamadrid,1190165,22.0,177.0,Venezuela,M,Left,,1300000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,West Ham United,37,Soungoutou Magassa,1170560,22.0,188.0,France,M,Right,1940544000.0,18400000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,West Ham United,37,Mohamadou Kanté,1523623,20.0,189.0,France,M,Right,1940544000.0,905000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,West Ham United,37,George Earthy,1212165,21.0,180.0,England,M,Right,1814313600.0,1900000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,West Ham United,37,Lewis Orford,1414991,20.0,182.0,England,M,Right,1877472000.0,325000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,West Ham United,37,Aaron Wan-Bissaka,863653,28.0,183.0,DR Congo,D,Right,1940544000.0,14100000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,West Ham United,37,El Hadji Malick Diouf,1471764,21.0,183.0,Senegal,D,Left,1909008000.0,29000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,West Ham United,37,Konstantinos Mavropanos,829022,28.0,194.0,Greece,D,Right,1845936000.0,19500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,West Ham United,37,Jean-Clair Todibo,945217,26.0,189.0,France,D,Right,1877472000.0,24000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,West Ham United,37,Kyle Walker-Peters,823085,29.0,173.0,England,D,Right,1845936000.0,11200000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,West Ham United,37,Max Kilman,894474,29.0,192.0,England,D,Left,1940544000.0,12600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,West Ham United,37,Joël Veltman,219572,34.0,184.0,Netherlands,D,Right,1814313600.0,1500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,West Ham United,37,Oliver Scarles,1150952,20.0,180.0,England,D,Left,1845936000.0,9100000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,West Ham United,37,Kaelan Casey,1142343,21.0,185.0,England,D,Right,1814313600.0,930000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,West Ham United,37,Ezra Mayers,1652590,19.0,183.0,England,D,Left,1845936000.0,1800000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,West Ham United,37,Airidas Golambeckis,1841368,18.0,,England,D,,1877472000.0,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,West Ham United,37,Alphonse Aréola,96531,33.0,195.0,France,G,Right,1814313600.0,3700000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,West Ham United,37,Mads Hermansen,856640,26.0,187.0,Denmark,G,Right,1909008000.0,15500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,West Ham United,37,Finlay Herrick,1410165,20.0,184.0,England,G,Right,1845936000.0,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Crystal Palace,7,Ismaïla Sarr,845286,28.0,185.0,Senegal,F,Right,1877472000.0,43000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Crystal Palace,7,Jean-Philippe Mateta,848276,29.0,192.0,France,F,Right,1814313600.0,29000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Crystal Palace,7,Brennan Johnson,1085180,25.0,186.0,Wales,F,Right,1909008000.0,32000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Crystal Palace,7,Yéremy Pino,984624,23.0,172.0,Spain,F,Right,1909008000.0,27000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Crystal Palace,7,Jørgen Strand Larsen,876599,26.0,193.0,Norway,F,Right,1909008000.0,41000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Crystal Palace,7,Eddie Nketiah,858194,27.0,175.0,England,F,Right,1877472000.0,10300000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Crystal Palace,7,Matheus França,1116593,22.0,184.0,Brazil,F,Right,1845936000.0,6200000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Crystal Palace,7,Rio Cardines,1469007,20.0,187.0,Trinidad and Tobago,F,Left,1845936000.0,290000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Crystal Palace,7,Daniel Muñoz,870360,30.0,183.0,Colombia,M,Right,1845936000.0,23000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Crystal Palace,7,Daichi Kamada,794338,30.0,184.0,Japan,M,Right,1814313600.0,10300000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Crystal Palace,7,Adam Wharton,1109771,22.0,182.0,England,M,Left,1877472000.0,74000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Crystal Palace,7,Jefferson Lerma,355796,31.0,179.0,Colombia,M,Right,1814313600.0,5500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Crystal Palace,7,Óscar Mingueza,859773,27.0,184.0,Spain,M,Right,1909008000.0,18700000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Crystal Palace,7,Borna Sosa,357584,28.0,187.0,Croatia,M,Left,1845936000.0,2700000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Crystal Palace,7,Cheick Doucouré,906047,26.0,181.0,Mali,M,Right,1877472000.0,10600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Crystal Palace,7,Tyrick Mitchell,988275,26.0,174.0,England,M,Left,1814313600.0,23000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Crystal Palace,7,Jesurun Rak-Sakyi,1101362,23.0,178.0,Ghana,M,Left,1814313600.0,5600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Crystal Palace,7,Romain Esse,1438837,21.0,178.0,England,M,Left,1909008000.0,10900000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Crystal Palace,7,Will Hughes,193554,31.0,185.0,England,M,Left,1814313600.0,4600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Crystal Palace,7,Justin Devenny,1084311,22.0,184.0,Northern Ireland,M,Left,1814313600.0,11500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Crystal Palace,7,David Ozoh,1212155,21.0,183.0,England,M,Right,1814313600.0,2300000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Crystal Palace,7,Chadi Riad,1064218,23.0,186.0,Morocco,D,Left,1877472000.0,19400000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Crystal Palace,7,Takehiro Tomiyasu,804434,27.0,188.0,Japan,D,Right,,5400000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Crystal Palace,7,Chris Richards,931844,26.0,188.0,USA,D,Right,1814313600.0,25000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Crystal Palace,7,Jaydee Canvot,1471671,20.0,188.0,France,D,Right,1877472000.0,25000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Crystal Palace,7,Dean Benamar,1899540,18.0,,England,D,Left,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Crystal Palace,7,Caleb Kporha,1465401,20.0,179.0,England,D,Right,1877472000.0,1000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Crystal Palace,7,Mofe Jemide,1410222,19.0,187.0,England,D,,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Crystal Palace,7,Dean Henderson,788134,29.0,188.0,England,G,Right,1845936000.0,29000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Crystal Palace,7,Walter Benítez,249859,33.0,193.0,Argentina,G,Right,1845936000.0,3700000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Crystal Palace,7,Remi Matthews,581610,32.0,184.0,England,G,Right,1814313600.0,220000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Crystal Palace,7,Joe Whitworth,1134718,22.0,179.0,England,G,Right,1814313600.0,1600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brighton & Hove Albion,30,Evan Ferguson,999231,21.0,188.0,Ireland,F,Right,1877472000.0,21000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brighton & Hove Albion,30,Charalampos Kostoulas,1416535,19.0,185.0,Greece,F,Right,1909008000.0,27000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brighton & Hove Albion,30,Stefanos Tzimas,1155321,20.0,184.0,Greece,F,Both,1909008000.0,18500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brighton & Hove Albion,30,Zadok Yohanna,2189496,19.0,184.0,Nigeria,F,Left,1940544000.0,16500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brighton & Hove Albion,30,Carlos Baleba,1199043,22.0,179.0,Cameroon,M,Left,1845936000.0,53000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brighton & Hove Albion,30,Kaoru Mitoma,936849,29.0,178.0,Japan,M,Right,1814313600.0,20000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brighton & Hove Albion,30,Diego Gómez,1065588,23.0,185.0,Paraguay,M,Right,1909008000.0,27000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brighton & Hove Albion,30,Yasin Ayari,1036269,22.0,172.0,Sweden,M,Right,1814313600.0,36000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brighton & Hove Albion,30,Yankuba Minteh,1400106,22.0,180.0,Gambia,M,Left,1877472000.0,42000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brighton & Hove Albion,30,Pascal Groß,48480,35.0,181.0,Germany,M,Right,1814313600.0,2300000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brighton & Hove Albion,30,Matt O'Riley,891829,25.0,187.0,Denmark,M,Left,1877472000.0,16500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brighton & Hove Albion,30,Georginio Rutter,946695,24.0,182.0,France,M,Left,1845936000.0,31000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brighton & Hove Albion,30,Ibrahim Osman,1471095,21.0,177.0,Ghana,M,Right,1877472000.0,7400000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brighton & Hove Albion,30,Jack Hinshelwood,1142315,21.0,182.0,England,M,Right,1877472000.0,27000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brighton & Hove Albion,30,Malick Yalcouyé,1568186,20.0,171.0,Côte d'Ivoire,M,Right,1877472000.0,12600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brighton & Hove Albion,30,Amario Cozier-Duberry,1138842,21.0,170.0,England,M,Left,1845936000.0,4500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brighton & Hove Albion,30,Jesse Middleton,1899604,18.0,184.0,England,M,Right,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brighton & Hove Albion,30,Ferdi Kadıoğlu,825844,26.0,174.0,Türkiye,D,Right,1845936000.0,36000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brighton & Hove Albion,30,Luka Vušković,1405212,19.0,193.0,Croatia,D,Right,1940544000.0,64000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brighton & Hove Albion,30,Maxim De Cuyper,997152,25.0,183.0,Belgium,D,Left,1909008000.0,21000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brighton & Hove Albion,30,Mats Wieffer,959628,26.0,188.0,Netherlands,D,Right,1877472000.0,24000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brighton & Hove Albion,30,Lewis Dunk,115365,34.0,190.0,England,D,Right,1814313600.0,3600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brighton & Hove Albion,30,Pascal Struijk,836675,26.0,190.0,Netherlands,D,Left,1940544000.0,23000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brighton & Hove Albion,30,Igor Júlio,842513,28.0,185.0,Brazil,D,Left,1814313600.0,9700000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brighton & Hove Albion,30,Olivier Boscagli,788784,28.0,181.0,France,D,Left,1909008000.0,13900000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brighton & Hove Albion,30,Costinha,988333,26.0,181.0,Portugal,D,Right,1940544000.0,6400000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brighton & Hove Albion,30,Eiran Cashin,998928,24.0,184.0,Ireland,D,Left,1909008000.0,5300000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brighton & Hove Albion,30,Michael Svoboda,888340,27.0,195.0,Austria,D,Right,1909008000.0,3400000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brighton & Hove Albion,30,Bart Verbruggen,994363,23.0,193.0,Netherlands,G,Right,1845936000.0,37000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brighton & Hove Albion,30,Jason Steele,31867,35.0,188.0,England,G,Right,1814313600.0,480000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brighton & Hove Albion,30,Tom McGill,1007073,26.0,185.0,Canada,G,Right,1814313600.0,515000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Bournemouth,60,Amine Adli,991478,26.0,174.0,Morocco,F,Left,1909008000.0,18100000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Bournemouth,60,Eli Junior Kroupi,1426228,20.0,179.0,France,F,Right,1909008000.0,72000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Bournemouth,60,Álvaro Rodriguez,1154587,22.0,193.0,Uruguay,F,Left,,9100000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Bournemouth,60,Evanilson,998490,26.0,181.0,Brazil,F,Both,1877472000.0,33000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Bournemouth,60,Enes Ünal,336655,29.0,185.0,Türkiye,F,Right,1845936000.0,6800000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Bournemouth,60,Daniel Jebbison,1096136,23.0,190.0,Canada,F,Right,1845936000.0,5800000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Bournemouth,60,Michael Dacosta Gonzalez,1463438,21.0,186.0,Spain,F,Left,1877472000.0,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Bournemouth,60,Rayan,1464966,20.0,185.0,Brazil,M,Left,1940544000.0,58000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Bournemouth,60,Justin Kluivert,851596,27.0,171.0,Netherlands,M,Right,1845936000.0,24000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Bournemouth,60,Ben Gannon-Doak,1154861,20.0,174.0,Scotland,M,Right,1909008000.0,14600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Bournemouth,60,Alex Scott,1104986,22.0,178.0,England,M,Right,1845936000.0,53000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Bournemouth,60,Alex Tóth,1476524,20.0,181.0,Hungary,M,Right,1940544000.0,13100000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Bournemouth,60,Tyler Adams,800419,27.0,175.0,USA,M,Right,1845936000.0,26000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Bournemouth,60,Marcus Tavernier,895576,27.0,178.0,England,M,Left,1877472000.0,23000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Bournemouth,60,Ryan Christie,322391,31.0,178.0,Scotland,M,Left,1877472000.0,8600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Bournemouth,60,David Brooks,855731,29.0,173.0,Wales,M,Left,1877472000.0,11000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Bournemouth,60,Juanlu Sánchez,1010655,22.0,186.0,Spain,M,Right,,9700000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Bournemouth,60,Lewis Cook,548188,29.0,175.0,England,M,Right,1845936000.0,11600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Bournemouth,60,Ben Winterburn,2007889,21.0,185.0,England,M,Right,1814313600.0,320000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Bournemouth,60,António Silva,1006069,22.0,187.0,Portugal,D,Right,,27000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Bournemouth,60,Julián Araujo,978150,24.0,175.0,Mexico,D,Right,1877472000.0,8199999.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Bournemouth,60,Julio Soler,1201520,21.0,175.0,Argentina,D,Left,1877472000.0,8300000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Bournemouth,60,Veljko Milosavljević,1406130,19.0,192.0,Serbia,D,Right,1909008000.0,18600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Bournemouth,60,Bafodé Diakité,962408,25.0,182.0,France,D,Right,1909008000.0,23000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Bournemouth,60,Adrien Truffert,999028,24.0,176.0,France,D,Left,1909008000.0,28000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Bournemouth,60,Max Aarons,943645,26.0,178.0,England,D,Right,1877472000.0,2400000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Bournemouth,60,James Hill,1156586,24.0,184.0,England,D,Right,1877472000.0,24000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Bournemouth,60,Adam Smith,44566,35.0,180.0,England,D,Right,1814313600.0,310000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Bournemouth,60,Matai Akinmboni,1190712,19.0,191.0,USA,D,Left,1814313600.0,1000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Bournemouth,60,Đorđe Petrović,882604,26.0,194.0,Serbia,G,Right,1909008000.0,29000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Bournemouth,60,Fraser Forster,19314,38.0,201.0,England,G,Right,1814313600.0,440000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Bournemouth,60,Will Dennis,991001,26.0,188.0,England,G,Left,1845936000.0,335000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Fulham,43,Gonzalo García,1402716,22.0,182.0,Spain,F,Right,1940544000.0,31000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Fulham,43,Rodrigo Muniz,1015256,25.0,184.0,Brazil,F,Right,1909008000.0,22000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Fulham,43,Jonah Kusi-Asare,1503757,19.0,196.0,Sweden,F,Both,1940544000.0,3300000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Fulham,43,Macauley Zepa,1899764,18.0,,Cameroon,F,Left,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Fulham,43,Oscar Bobb,1065216,23.0,174.0,Norway,M,Left,1940544000.0,27000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Fulham,43,César Palacios,1402688,21.0,181.0,Spain,M,Right,1940544000.0,6800000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Fulham,43,Alex Iwobi,352770,30.0,183.0,Nigeria,M,Right,1845936000.0,21000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Fulham,43,Emile Smith Rowe,867445,26.0,182.0,England,M,Right,1877472000.0,18300000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Fulham,43,Kevin,1112879,23.0,176.0,Brazil,M,Right,1909008000.0,26000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Fulham,43,Sander Berge,793167,28.0,195.0,Norway,M,Right,1877472000.0,26000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Fulham,43,Saša Lukić,371222,29.0,183.0,Serbia,M,Right,1814313600.0,9400000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Fulham,43,Joshua King,1546231,19.0,172.0,England,M,Right,1877472000.0,26000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Fulham,43,Tom Cairney,82566,35.0,185.0,Scotland,M,Left,1814313600.0,530000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Fulham,43,Harrison Reed,365802,31.0,176.0,England,M,Right,1814313600.0,2100000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Fulham,43,Calvin Bassey,861972,26.0,185.0,Nigeria,D,Left,1814313600.0,29000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Fulham,43,Antonee Robinson,803174,29.0,183.0,USA,D,Left,1845936000.0,24000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Fulham,43,Timothy Castagne,329417,30.0,185.0,Belgium,D,Right,1814313600.0,7600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Fulham,43,Joachim Andersen,362682,30.0,190.0,Denmark,D,Right,1877472000.0,21000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Fulham,43,Ryan Sessegnon,836698,26.0,178.0,England,D,Left,1814313600.0,21000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Fulham,43,Kenny Tete,190877,30.0,180.0,Netherlands,D,Right,1845936000.0,8700000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Fulham,43,Luc De Fougerolles,1413129,20.0,183.0,Canada,D,Right,1877472000.0,5200000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Fulham,43,Jorge Cuenca,868715,26.0,190.0,Spain,D,Left,1845936000.0,8600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Fulham,43,Bernd Leno,103335,34.0,190.0,Germany,G,Right,1814313600.0,5500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Fulham,43,Benjamin Lecomte,123207,35.0,186.0,France,G,Left,1814313600.0,825000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Fulham,43,Alex Borto,1173363,22.0,188.0,USA,G,,1814313600.0,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Wolverhampton,3,Raúl Jiménez,192442,35.0,189.0,Mexico,F,Right,1845936000.0,3200000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Wolverhampton,3,Hwang Hee-chan,786186,30.0,177.0,South Korea,F,Right,1845936000.0,5500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Wolverhampton,3,Mateus Mané,1899647,18.0,175.0,Portugal,F,Right,1877472000.0,18500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Wolverhampton,3,Saša Kalajdžić,870038,29.0,200.0,Austria,F,Right,1814313600.0,3700000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Wolverhampton,3,Enso González,1402232,21.0,168.0,Paraguay,F,Left,1877472000.0,2300000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Wolverhampton,3,Adam Armstrong,361352,29.0,172.0,England,F,Right,1877472000.0,6500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Wolverhampton,3,Nathan Fraser,1166679,21.0,188.0,Ireland,F,Right,1845936000.0,625000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Wolverhampton,3,Jean-Ricner Bellegarde,845273,28.0,170.0,Haiti,M,Right,1845936000.0,17600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Wolverhampton,3,André,1035996,25.0,176.0,Brazil,M,Right,1909008000.0,26000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Wolverhampton,3,Jackson Tchatchoua,1096210,24.0,180.0,Cameroon,M,Right,1909008000.0,13200000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Wolverhampton,3,Marshall Munetsi,894733,30.0,187.0,Zimbabwe,M,Right,1845936000.0,15500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Wolverhampton,3,Rodrigo Gomes,1006073,23.0,171.0,Portugal,M,Right,1877472000.0,14600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Wolverhampton,3,Fer López,1526628,22.0,186.0,Spain,M,Left,1909008000.0,17500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Wolverhampton,3,Hugo Bueno,1013928,23.0,180.0,Spain,M,Left,1845936000.0,13000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Wolverhampton,3,Boubacar Traoré,982613,24.0,183.0,Mali,M,Right,1814313600.0,3900000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Wolverhampton,3,Tawanda Chirewa,1005725,22.0,181.0,Zimbabwe,M,Right,1814313600.0,440000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Wolverhampton,3,Tommy Doyle,932628,24.0,172.0,England,M,Right,1845936000.0,6700000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Wolverhampton,3,Rafiki Saïd,1047321,26.0,178.0,Comoros,M,Both,1877472000.0,4700000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Wolverhampton,3,Jerome Abbey,2263877,16.0,184.0,England,M,,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Wolverhampton,3,Kieran Trippier,69256,35.0,174.0,England,D,Right,1845936000.0,1400000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Wolverhampton,3,Ladislav Krejčí,856250,27.0,191.0,Czechia,D,Left,1909008000.0,21000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Wolverhampton,3,Pedro Lima,1597270,20.0,174.0,Brazil,D,Right,1877472000.0,3900000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Wolverhampton,3,Nasser Djiga,1127169,23.0,187.0,Burkina Faso,D,Right,1909008000.0,6500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Wolverhampton,3,Yerson Mosquera,1014835,25.0,188.0,Colombia,D,Right,1909008000.0,13000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Wolverhampton,3,David Møller Wolfe,1031283,24.0,185.0,Norway,D,Left,1909008000.0,11000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Wolverhampton,3,Santiago Bueno,846308,27.0,189.0,Uruguay,D,Right,1845936000.0,9200000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Wolverhampton,3,Toti Gomes,973418,27.0,187.0,Portugal,D,Left,1877472000.0,18700000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Wolverhampton,3,Ki-Jana Hoever,954044,24.0,180.0,Netherlands,D,Right,1814313600.0,3300000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Wolverhampton,3,José Sá,252669,33.0,192.0,Portugal,G,Right,1814313600.0,3300000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Wolverhampton,3,Sam Johnstone,98427,33.0,193.0,England,G,Right,1845936000.0,2100000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Wolverhampton,3,Daniel Bentley,101367,33.0,188.0,England,G,Right,1814313600.0,730000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Everton,48,Tyrique George,1403061,20.0,181.0,England,F,Right,1909008000.0,21000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Everton,48,Thierno Barry,1395746,23.0,195.0,France,F,Right,1877472000.0,31000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Everton,48,Beto,987489,28.0,194.0,Guinea-Bissau,F,Right,1814313600.0,19300000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Everton,48,Braiden Graham,1481988,18.0,175.0,Northern Ireland,F,Right,1814313600.0,205000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Everton,48,Iliman Ndiaye,914309,26.0,180.0,Senegal,M,Right,1877472000.0,53000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Everton,48,Christian Nørgaard,135256,32.0,185.0,Denmark,M,Right,1845936000.0,4800000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Everton,48,Kiernan Dewsbury-Hall,861970,27.0,178.0,England,M,Left,1909008000.0,38000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Everton,48,Carlos Alcaraz,1017392,23.0,183.0,Argentina,M,Right,1814313600.0,14600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Everton,48,James Garner,927361,25.0,182.0,England,M,Right,1909008000.0,48000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Everton,48,Tyler Dibling,1174472,20.0,178.0,England,M,Left,1877472000.0,15700000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Everton,48,Dwight McNeil,935543,26.0,183.0,England,M,Left,1814313600.0,18800000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Everton,48,Hayden Hackney,1008471,24.0,178.0,England,M,Right,1940544000.0,35000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Everton,48,Merlin Röhl,1064082,24.0,191.0,Germany,M,Both,1877472000.0,14700000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Everton,48,Tim Iroegbunam,1085950,23.0,182.0,England,M,Right,1814313600.0,18500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Everton,48,Harrison Armstrong,1627560,19.0,185.0,England,M,Right,1845936000.0,12400000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Everton,48,Harvey Foster,1899746,19.0,,England,M,,1814313600.0,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Everton,48,Adam Aznou,1466124,20.0,178.0,Morocco,D,Left,1877472000.0,6200000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Everton,48,Vitaliy Mykolenko,876643,27.0,180.0,Ukraine,D,Left,1877472000.0,26000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Everton,48,Jarrad Branthwaite,979563,24.0,195.0,England,D,Left,1909008000.0,41000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Everton,48,James Tarkowski,145188,33.0,185.0,England,D,Right,1845936000.0,5200000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Everton,48,Jake O'Brien,998253,25.0,197.0,Ireland,D,Right,1845936000.0,16500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Everton,48,Michael Keane,110846,33.0,188.0,England,D,Right,1814313600.0,2800000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Everton,48,Nathan Patterson,1020141,24.0,189.0,Scotland,D,Right,1814313600.0,16300000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Everton,48,Elijah Campbell,1144949,22.0,182.0,England,D,Left,1814313600.0,260000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Everton,48,Jordan Pickford,138530,32.0,185.0,England,G,Left,1877472000.0,13900000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Everton,48,Mark Travers,856720,27.0,191.0,Ireland,G,Right,1877472000.0,2800000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Everton,48,Tom King,603922,31.0,186.0,Wales,G,Right,1814313600.0,96000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Everton,48,George Pickford,1651828,19.0,,England,G,,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Everton,48,Douglas Lukjanciks,1546221,18.0,,England,G,,1814313600.0,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brentford,50,Igor Thiago,1016907,25.0,191.0,Brazil,F,Right,1940544000.0,68000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brentford,50,Fabio Carvalho,991604,23.0,170.0,Portugal,F,Right,1877472000.0,7800000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brentford,50,Callum Wilson,113956,34.0,180.0,England,F,Right,1814313600.0,4300000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brentford,50,Gustavo Nunes,1514747,20.0,173.0,Brazil,F,Right,1909008000.0,8199999.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brentford,50,Kaye Furo,1403098,19.0,190.0,Belgium,F,Right,1940544000.0,7600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brentford,50,Dango Ouattara,1106451,24.0,177.0,Burkina Faso,M,Left,1909008000.0,36000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brentford,50,Mamadou Sangare,1064697,24.0,181.0,Mali,M,Left,1940544000.0,39000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brentford,50,Mikkel Damsgaard,907072,26.0,180.0,Denmark,M,Right,1909008000.0,29000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brentford,50,Kevin Schade,1006387,24.0,183.0,Germany,M,Both,1845936000.0,36000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brentford,50,Yehor Yarmoliuk,1031258,22.0,180.0,Ukraine,M,Right,1940544000.0,30000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brentford,50,Antoni Milambo,1126692,21.0,179.0,Netherlands,M,Right,1909008000.0,15500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brentford,50,Jaidon Anthony,1020680,26.0,177.0,England,M,Right,1909008000.0,19400000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brentford,50,Mathias Jensen,799251,30.0,180.0,Denmark,M,Both,1814313600.0,10400000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brentford,50,Vitaly Janelt,814873,28.0,184.0,Germany,M,Left,1909008000.0,16600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brentford,50,Yunus Konak,1518589,20.0,181.0,Türkiye,M,Right,1877472000.0,3300000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brentford,50,Josh Dasilva,856260,27.0,184.0,England,M,Left,1814313600.0,1500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brentford,50,Michael Kayode,1137431,22.0,179.0,Italy,D,Right,1972166400.0,39000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brentford,50,Kristoffer Ajer,576384,28.0,196.0,Norway,D,Right,1909008000.0,24000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brentford,50,Sepp van den Berg,924378,24.0,192.0,Netherlands,D,Right,1877472000.0,33000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brentford,50,Nathan Collins,958916,25.0,193.0,Ireland,D,Right,1877472000.0,29000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brentford,50,Kim Ji-Soo,1185061,21.0,192.0,South Korea,D,Both,1814313600.0,1900000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brentford,50,Ethan Pinnock,855864,33.0,194.0,Jamaica,D,Left,1814313600.0,2800000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brentford,50,Keane Lewis-Potter,972421,25.0,170.0,England,D,Right,1940544000.0,24000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brentford,50,Aaron Hickey,966869,24.0,185.0,Scotland,D,Both,1845936000.0,16500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brentford,50,Benjamin Fredrick,1470532,21.0,187.0,Nigeria,D,Right,1909008000.0,560000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brentford,50,Rico Henry,599128,29.0,175.0,Jamaica,D,Left,1814313600.0,13800000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brentford,50,Jannik Schuster,1474198,20.0,190.0,Austria,D,Right,1940544000.0,16500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brentford,50,Jayden Meghoma,1410201,20.0,176.0,England,D,Left,1845936000.0,1900000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brentford,50,Benjamin Arthur,1500529,20.0,193.0,England,D,Right,1940544000.0,97000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brentford,50,Caoimhin Kelleher,827362,27.0,188.0,Ireland,G,Right,1909008000.0,25000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brentford,50,Hákon Rafn Valdimarsson,1005959,24.0,195.0,Iceland,G,Right,1909008000.0,2600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brentford,50,Julian Eyestone,1411132,20.0,198.0,USA,G,Right,1940544000.0,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Brentford,50,Ellery Balcombe,860205,26.0,190.0,England,G,Right,1814313600.0,410000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Nottingham Forest,14,Igor Jesus,981619,25.0,179.0,Brazil,F,Right,1877472000.0,26000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Nottingham Forest,14,Chris Wood,50480,34.0,191.0,New Zealand,F,Right,1814313600.0,5200000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Nottingham Forest,14,Taiwo Awoniyi,359664,28.0,183.0,Nigeria,F,Right,1814313600.0,7600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Nottingham Forest,14,Arnaud Kalimuendo,954061,24.0,175.0,France,F,Right,1909008000.0,24000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Nottingham Forest,14,Ibrahim Sangaré,843754,28.0,191.0,Côte d'Ivoire,M,Right,1877472000.0,21000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Nottingham Forest,14,James McAtee,1003334,23.0,180.0,England,M,Left,1909008000.0,16200000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Nottingham Forest,14,Callum Hudson Odoi,867442,25.0,177.0,England,M,Right,1845936000.0,32000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Nottingham Forest,14,Morgan Gibbs-White,865912,26.0,171.0,England,M,Right,1845936000.0,67000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Nottingham Forest,14,Dan Ndoye,944327,25.0,184.0,Switzerland,M,Right,1909008000.0,31000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Nottingham Forest,14,Omari Hutchinson,1090963,22.0,174.0,England,M,Left,1909008000.0,28000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Nottingham Forest,14,Nicolás Domínguez,871765,28.0,179.0,Argentina,M,Right,1845936000.0,13800000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Nottingham Forest,14,Dilane Bakwa,963298,23.0,179.0,France,M,Left,1909008000.0,26000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Nottingham Forest,14,Xaver Schlager,791079,28.0,174.0,Austria,M,Left,1845936000.0,9500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Nottingham Forest,14,Ryan Yates,846252,28.0,190.0,England,M,Right,1845936000.0,7200000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Nottingham Forest,14,Murillo,1199282,24.0,180.0,Brazil,D,Left,1909008000.0,49000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Nottingham Forest,14,Nikola Milenković,836168,28.0,195.0,Serbia,D,Right,1877472000.0,26000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Nottingham Forest,14,Ola Aina,800417,29.0,182.0,Nigeria,D,Right,1845936000.0,16399999.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Nottingham Forest,14,Neco Williams,927356,25.0,183.0,Wales,D,Right,1877472000.0,26000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Nottingham Forest,14,Jair,1170722,21.0,198.0,Brazil,D,Both,1909008000.0,15500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Nottingham Forest,14,Nicolò Savona,1010220,23.0,192.0,Italy,D,Right,1909008000.0,14600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Nottingham Forest,14,Morato,985086,25.0,190.0,Brazil,D,Left,1877472000.0,13600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Nottingham Forest,14,Eric da Silva Moreira,1418646,20.0,185.0,Germany,D,Right,1845936000.0,830000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Nottingham Forest,14,Luca Netz,979144,23.0,180.0,Germany,D,Left,1909008000.0,7700000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Nottingham Forest,14,Omar Richards,892483,28.0,174.0,England,D,Left,1814313600.0,2100000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Nottingham Forest,14,Zach Abbott,1390490,20.0,180.0,England,D,Right,1877472000.0,3900000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Nottingham Forest,14,Tyler Bindon,1514870,21.0,188.0,New Zealand,D,Right,1845936000.0,3600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Nottingham Forest,14,John Victor,840103,30.0,197.0,Brazil,G,Right,1845936000.0,4900000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Nottingham Forest,14,Matz Sels,78152,34.0,188.0,Belgium,G,Right,1845936000.0,3700000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Nottingham Forest,14,Keehan Willows,1412863,20.0,,England,G,,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Luton Town,72,Callum Marshall,1394099,21.0,176.0,Northern Ireland,F,Left,,2100000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Luton Town,72,Lasse Selvåg Nordås,1028070,24.0,194.0,Norway,F,Left,,3200000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Luton Town,72,Jerry Yates,785799,29.0,175.0,England,F,Right,,1400000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Luton Town,72,Nahki Wells,145182,36.0,170.0,Bermuda,F,Right,,210000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Luton Town,72,Devante Cole,190865,31.0,185.0,Jamaica,F,Right,,325000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Luton Town,72,Shayden Morris,998025,24.0,183.0,England,F,Right,,1000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Luton Town,72,Kasey Palmer,788260,29.0,180.0,Jamaica,M,Right,,870000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Luton Town,72,Gideon Kodua,1417530,21.0,178.0,England,M,Right,,380000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Luton Town,72,Jordan Clark,150477,32.0,183.0,England,M,Right,,540000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Luton Town,72,Shandon Baptiste,892111,28.0,180.0,Grenada,M,Right,,1000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Luton Town,72,George Saville,287897,33.0,176.0,Northern Ireland,M,Left,,740000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Luton Town,72,Liam Walsh,803175,28.0,168.0,England,M,Both,,680000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Luton Town,72,Jake Richards,1519976,19.0,180.0,England,M,Right,,290000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Luton Town,72,Sverre Hakami Sandal,1471766,23.0,193.0,Norway,M,Right,,845000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Luton Town,72,Teden Mengi,979233,24.0,183.0,England,D,Right,,2900000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Luton Town,72,Harrison Ashby,1084284,24.0,179.0,Scotland,D,Right,1811721600.0,1300000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Luton Town,72,Reuell Walters,1138843,21.0,183.0,England,D,Right,,2600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Luton Town,72,Isaiah Jones,1007056,27.0,181.0,Guyana,D,Right,,2700000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Luton Town,72,Mads Andersen,841005,28.0,194.0,Denmark,D,Right,,1900000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Luton Town,72,Joe Johnson,825550,20.0,193.0,England,D,Left,,410000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Luton Town,72,George Johnston,920390,27.0,181.0,Scotland,D,Left,,840000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Luton Town,72,Kal Naismith,215032,34.0,185.0,Scotland,D,Right,,190000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Luton Town,72,Thomas Holmes,928586,26.0,185.0,England,D,Right,,765000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Luton Town,72,Hakeem Odofin,816761,28.0,191.0,England,D,Right,,500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Luton Town,72,Benedict Benagr,1977012,18.0,,England,D,Left,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Luton Town,72,Harry Fox,2193043,17.0,,England,D,Left,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Luton Town,72,Josh Keeley,1005705,23.0,191.0,Ireland,G,Right,,825000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Luton Town,72,James Shea,137789,35.0,180.0,England,G,Right,1814313600.0,92000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Burnley,6,Lyle Foster,901907,25.0,180.0,South Africa,F,Right,1845936000.0,8300000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Burnley,6,Armando Broja,996985,24.0,191.0,Albania,F,Right,1909008000.0,4500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Burnley,6,Andreas Hountondji,1112796,24.0,190.0,Benin,F,Right,1845936000.0,3300000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Burnley,6,Zeki Amdouni,990550,25.0,183.0,Switzerland,F,Both,1845936000.0,7600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Burnley,6,Marcus Edwards,795066,27.0,167.0,England,F,Left,1877472000.0,6600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Burnley,6,Zian Flemming,875137,28.0,183.0,Netherlands,F,Right,1877472000.0,12600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Burnley,6,Jacob Bruun Larsen,809276,27.0,183.0,Denmark,F,Right,1877472000.0,4400000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Burnley,6,Michael Obafemi,921216,26.0,172.0,Ireland,F,Right,1814313600.0,565000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Burnley,6,Lluc Castell,1466117,19.0,164.0,Spain,F,Right,1877472000.0,205000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Burnley,6,Hannibal Mejbri,1009386,23.0,182.0,Tunisia,M,Right,1845936000.0,15700000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Burnley,6,Mike Trésor,826183,27.0,175.0,Belgium,M,Right,1845936000.0,2100000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Burnley,6,Josh Cullen,792122,30.0,175.0,Ireland,M,Right,1814313600.0,4099999.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Burnley,6,Aaron Ramsey,1000142,23.0,180.0,England,M,Right,1845936000.0,6600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Burnley,6,Jaydon Banel,1142573,21.0,172.0,Netherlands,M,Right,1877472000.0,950000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Burnley,6,Ugo Raghouber,1170694,23.0,180.0,France,M,Left,,2800000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Burnley,6,Ashley Barnes,27028,36.0,186.0,England,M,Right,1814313600.0,145000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Burnley,6,Josh Laurent,552036,31.0,188.0,England,M,Right,1814313600.0,1500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Burnley,6,Kyle Walker,44614,36.0,183.0,England,D,Right,1814313600.0,1400000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Burnley,6,Oliver Sonne,1008456,25.0,184.0,Peru,D,Right,1877472000.0,4099999.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Burnley,6,Bashir Humphreys,996910,23.0,186.0,England,D,Left,1877472000.0,13100000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Burnley,6,Hjalmar Ekdal,875360,27.0,187.0,Sweden,D,Right,1814313600.0,4700000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Burnley,6,Lucas Pires,1136896,25.0,182.0,Brazil,D,Left,1845936000.0,4300000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Burnley,6,Connor Roberts,804613,30.0,175.0,Wales,D,Right,1814313600.0,1400000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Burnley,6,Jordan Beyer,927175,26.0,187.0,Germany,D,Right,1814313600.0,1400000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Burnley,6,Joe Worrall,838399,29.0,193.0,England,D,Right,1845936000.0,1900000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Burnley,6,Shurandy Sambo,916926,24.0,174.0,Curacao,D,Right,1845936000.0,1400000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Burnley,6,Max Weiss,1128801,22.0,190.0,Germany,G,Right,1877472000.0,4300000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Burnley,6,Ben Amos,42688,36.0,194.0,England,G,Right,1814313600.0,48000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Sheffield United,15,Patrick Bamford,204336,32.0,185.0,England,F,Left,1814313600.0,970000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Sheffield United,15,Thomas Cannon,1005766,23.0,182.0,Ireland,F,Right,1877472000.0,6700000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Sheffield United,15,Tyrese Campbell,826145,26.0,185.0,England,F,Left,1814313600.0,6300000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Sheffield United,15,Romelle Donovan,1586020,19.0,171.0,England,F,Left,1811721600.0,3700000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Sheffield United,15,Ryan One,1389768,20.0,188.0,Scotland,F,Right,1877472000.0,935000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Sheffield United,15,Louie Marsh,1426132,22.0,176.0,England,F,Right,1845936000.0,140000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Sheffield United,15,Tahith Chong,825845,26.0,185.0,Curacao,M,Left,1877472000.0,3400000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Sheffield United,15,Jaïro Riedewald,285989,29.0,186.0,Netherlands,M,Left,1814313600.0,2000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Sheffield United,15,Gustavo Hamer,837495,29.0,169.0,Netherlands,M,Right,1814313600.0,14700000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Sheffield United,15,Joe Rothwell,190853,31.0,185.0,England,M,Right,1814313600.0,580000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Sheffield United,15,Sydie Peck,1391824,21.0,173.0,England,M,Right,1845936000.0,14900000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Sheffield United,15,Callum O'Hare,875085,28.0,173.0,England,M,Right,1845936000.0,5400000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Sheffield United,15,Oliver Arblaster,1191153,22.0,180.0,England,M,Right,1845936000.0,1500000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Sheffield United,15,Ehije Ukaki,1653456,21.0,171.0,Nigeria,M,Right,1845936000.0,735000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Sheffield United,15,Matt Doherty,143047,34.0,182.0,Ireland,D,Right,1814313600.0,1000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Sheffield United,15,Japhet Tanganga,836693,27.0,186.0,England,D,Right,1845936000.0,5600000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Sheffield United,15,Ben Mee,137774,36.0,180.0,England,D,Left,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Sheffield United,15,Nils Zätterström,1435226,21.0,192.0,Sweden,D,Left,1877472000.0,3400000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Sheffield United,15,Harrison Burrows,897565,24.0,180.0,England,D,Left,1845936000.0,9200000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Sheffield United,15,Mark McGuinness,988343,25.0,193.0,Ireland,D,Right,1877472000.0,6700000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Sheffield United,15,Jamie Shackleton,943652,26.0,168.0,England,D,Right,1814313600.0,945000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Sheffield United,15,Sam Curtis,1133697,20.0,185.0,Ireland,D,Right,1814313600.0,195000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Sheffield United,15,Femi Seriki,966458,24.0,180.0,England,D,Right,1814313600.0,5400000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Sheffield United,15,Sam McCallum,952461,25.0,178.0,England,D,Left,1845936000.0,1900000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Sheffield United,15,Rhys Norrington-Davies,911708,27.0,181.0,Wales,D,Left,1814313600.0,2300000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Sheffield United,15,Ivo Grbić,283847,30.0,195.0,Croatia,G,Right,1814313600.0,1000000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Sheffield United,15,Michael Cooper,896209,26.0,186.0,England,G,Right,,10300000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Sheffield United,15,Adam Davies,288997,34.0,185.0,Wales,G,Right,1814313600.0,195000.0,EUR,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404
+England,Premier League,17,52186,Sheffield United,15,Thomas Betts,2639965,,,England,G,,,,,ENG,2023-2024,datafc_sofascore,2026-08-09T01:19:23.748404

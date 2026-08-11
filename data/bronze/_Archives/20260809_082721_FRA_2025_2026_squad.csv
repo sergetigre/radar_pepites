@@ -1,0 +1,541 @@
+﻿country,tournament,tournament_id,season_id,team_name,team_id,player_name,player_id,age,height,player_country,position,preferred_foot,contract_until,market_value,market_currency,_league_id,_season,_source,_scraped_at
+France,Ligue 1,34,77356,Paris Saint-Germain,1644,Ousmane Dembélé,818244,29.0,178.0,France,F,Both,1845936000.0,97000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris Saint-Germain,1644,Khvicha Kvaratskhelia,889259,25.0,183.0,Georgia,F,Both,1877472000.0,144000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris Saint-Germain,1644,Désiré Doué,1154605,21.0,181.0,France,F,Right,1877472000.0,124000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris Saint-Germain,1644,Bradley Barcola,996952,23.0,182.0,France,F,Right,1845936000.0,87000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris Saint-Germain,1644,Ibrahim Mbaye,1590918,18.0,175.0,Senegal,F,Right,1845936000.0,29000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris Saint-Germain,1644,Quentin Ndjantou,1861665,19.0,182.0,France,F,Right,1845936000.0,8400000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris Saint-Germain,1644,Adam Ayari,1937844,18.0,176.0,France,F,Left,1877472000.0,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris Saint-Germain,1644,Mamadou Meïté,2350463,17.0,,France,F,Right,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris Saint-Germain,1644,Noa Bezeme,2271270,19.0,185.0,France,F,Right,1814313600.0,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris Saint-Germain,1644,Vitinha,902029,26.0,172.0,Portugal,M,Right,1877472000.0,130000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris Saint-Germain,1644,Dro Fernández,1926085,18.0,182.0,Spain,M,Right,1909008000.0,9700000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris Saint-Germain,1644,João Neves,1190933,21.0,174.0,Portugal,M,Right,1877472000.0,148000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris Saint-Germain,1644,Fabián Ruiz,784655,30.0,189.0,Spain,M,Left,1814313600.0,29000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris Saint-Germain,1644,Senny Mayulu,1473491,20.0,183.0,France,M,Both,1814313600.0,38000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris Saint-Germain,1644,Warren Zaïre-Emery,1142672,20.0,178.0,France,M,Right,1877472000.0,78000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris Saint-Germain,1644,Maghnes Akliouche,1130939,24.0,183.0,France,M,Left,1940544000.0,49000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris Saint-Germain,1644,Renato Sanches,318967,28.0,176.0,Portugal,M,Right,1814313600.0,2100000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris Saint-Germain,1644,Rayan Abo El Nay,1937810,19.0,170.0,France,M,Right,1814313600.0,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris Saint-Germain,1644,Younes Idder,2046493,18.0,173.0,Morocco,M,Right,1845936000.0,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris Saint-Germain,1644,Edem Ghalleb,2267142,18.0,185.0,Tunisia,M,Right,1845936000.0,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris Saint-Germain,1644,Vainqueur Diyinu Nzinga,1937813,18.0,167.0,DR Congo,M,,1814313600.0,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris Saint-Germain,1644,Abdou Fanne Drame,1590916,19.0,174.0,France,M,Right,1814313600.0,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris Saint-Germain,1644,Paul Bourdin,2683066,17.0,,France,M,,1814313600.0,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris Saint-Germain,1644,Achraf Hakimi,814594,27.0,181.0,Morocco,D,Right,1877472000.0,82000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris Saint-Germain,1644,Nuno Mendes,989768,24.0,180.0,Portugal,D,Left,1877472000.0,77000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris Saint-Germain,1644,Marquinhos,155995,32.0,183.0,Brazil,D,Right,1845936000.0,27000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris Saint-Germain,1644,Willian Pacho,979480,24.0,187.0,Ecuador,D,Left,1877472000.0,76000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris Saint-Germain,1644,Lucas Beraldo,1108441,22.0,186.0,Brazil,D,Left,1845936000.0,20000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris Saint-Germain,1644,Ilya Zabarnyi,1023567,23.0,189.0,Ukraine,D,Right,1909008000.0,37000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris Saint-Germain,1644,Lucas Hernández,352370,30.0,183.0,France,D,Left,1845936000.0,18600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris Saint-Germain,1644,Yoram Zague,1403218,20.0,168.0,France,D,Right,1845936000.0,1700000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris Saint-Germain,1644,David Boly,1937846,17.0,181.0,France,D,Right,1814313600.0,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris Saint-Germain,1644,Dimitri Lucea,1936801,19.0,189.0,France,D,Left,1814313600.0,2400000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris Saint-Germain,1644,Axel Koukaba,2152905,16.0,192.0,France,D,Left,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris Saint-Germain,1644,Matvey Safonov,800749,27.0,191.0,Russia,G,Right,1877472000.0,32000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris Saint-Germain,1644,Lucas Chevalier,996953,24.0,188.0,France,G,Right,1909008000.0,26000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris Saint-Germain,1644,Alessandro Longoni,1823902,18.0,192.0,Italy,G,Left,1940544000.0,275000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Lens,1648,Odsonne Édouard,795228,28.0,187.0,France,F,Right,1845936000.0,11300000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Lens,1648,Florian Thauvin,148824,33.0,179.0,France,F,Left,1845936000.0,5200000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Lens,1648,Abdallah Sima,1029018,25.0,188.0,Senegal,F,Right,1877472000.0,4900000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Lens,1648,Florian Sotoca,788921,35.0,187.0,France,F,Right,1814313600.0,1300000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Lens,1648,Rayan Fofana,1545376,20.0,180.0,France,F,Right,1877472000.0,8300000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Lens,1648,Gabin Capuano,2026685,20.0,188.0,France,F,Both,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Lens,1648,Mohamed Seddik,2673662,19.0,,Algeria,F,Right,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Lens,1648,Saud Abdulhamid,966849,27.0,178.0,Saudi Arabia,M,Right,1877472000.0,8400000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Lens,1648,Amadou Haidara,822708,28.0,174.0,Mali,M,Right,1877472000.0,4900000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Lens,1648,Yassine Titraoui,1094538,23.0,170.0,Algeria,M,Both,1940544000.0,7200000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Lens,1648,Thorgan Hazard,94286,33.0,174.0,Belgium,M,Right,1845936000.0,1800000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Lens,1648,Michał Skóraś,942479,26.0,172.0,Poland,M,Right,1940544000.0,4200000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Lens,1648,Jhoanner Chávez,1002458,24.0,182.0,Ecuador,M,Left,1845936000.0,2300000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Lens,1648,Mezian Mesloub,2199216,16.0,174.0,Portugal,M,Left,,520000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Lens,1648,Michaël Cuisance,826208,26.0,181.0,France,M,Left,1909008000.0,3100000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Lens,1648,Andrija Bulatovic,1423504,19.0,180.0,Montenegro,M,Right,1909008000.0,7300000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Lens,1648,Matthieu Udol,787827,30.0,178.0,France,M,Left,1845936000.0,7700000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Lens,1648,Ruben Aguilar,579576,33.0,172.0,France,M,Right,1845936000.0,2700000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Lens,1648,Nathanaël Gane Bernardino,2661142,17.0,,France,M,,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Lens,1648,Ismaelo Ganiou,1408080,21.0,185.0,France,D,Right,1845936000.0,19400000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Lens,1648,Samson Baidoo,1099117,22.0,190.0,Austria,D,Right,1909008000.0,26000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Lens,1648,Nidal Čelik,1399503,20.0,192.0,Bosnia & Herzegovina,D,Right,1877472000.0,6400000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Lens,1648,Maik Nawrocki,984183,25.0,190.0,Poland,D,Both,1909008000.0,1400000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Lens,1648,Kyllian Antonio,1546405,18.0,183.0,France,D,Right,1845936000.0,2800000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Lens,1648,Jonathan Gradit,369650,33.0,180.0,France,D,Right,1845936000.0,2400000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Lens,1648,Souleymane Sagnan,1545381,21.0,187.0,Mali,D,Left,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Lens,1648,Noé Kemtchoum-Stasiowski,2661140,17.0,,France,D,Right,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Lens,1648,Robin Risser,1387161,21.0,193.0,France,G,Right,1909008000.0,31000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Lens,1648,Ilan Jourdren,1961639,18.0,185.0,France,G,,1877472000.0,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Lens,1648,Mathieu Gorgelin,123226,36.0,187.0,France,G,Left,1814313600.0,210000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Lens,1648,Régis Gurtner,14841,39.0,183.0,France,G,Right,1814313600.0,95000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lille,1643,Olivier Giroud,39070,39.0,192.0,France,F,Left,1814313600.0,930000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lille,1643,Hamza Igamane,1140859,23.0,181.0,Morocco,F,Right,1909008000.0,16600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lille,1643,Mohamed Bayo,909318,28.0,188.0,Guinea,F,Right,1814313600.0,4800000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lille,1643,Matías Fernández-Pardo,1149144,21.0,183.0,Belgium,F,Right,1877472000.0,38000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lille,1643,Matah Yondjio,2427238,19.0,177.0,Cameroon,F,Right,1909008000.0,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lille,1643,Noah Edjouma,1512354,20.0,182.0,France,F,Right,1909008000.0,4800000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lille,1643,Soriba Diaoune,1936816,18.0,174.0,Guinea,F,Right,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lille,1643,Tiago Morais,1067284,22.0,168.0,Portugal,F,Both,1845936000.0,1900000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lille,1643,Ayyoub Bouaddi,1564180,18.0,185.0,Morocco,M,Right,1877472000.0,87000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lille,1643,Ethan Mbappé,1402698,19.0,180.0,France,M,Left,1814313600.0,7800000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lille,1643,Ngal'ayel Mukau,1391541,21.0,188.0,DR Congo,M,Left,1845936000.0,14200000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lille,1643,Nabil Bentaleb,368120,31.0,187.0,Algeria,M,Left,1845936000.0,4900000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lille,1643,Osame Sahraoui,965357,25.0,170.0,Morocco,M,Right,1877472000.0,8700000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lille,1643,Hakon Arnar Haraldsson,1138804,23.0,180.0,Iceland,M,Right,1909008000.0,26000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lille,1643,Félix Correia,934498,25.0,178.0,Portugal,M,Right,1877472000.0,9700000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lille,1643,Başar Önal,1193676,22.0,173.0,Türkiye,M,Right,1909008000.0,7700000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lille,1643,Benjamin André,51665,36.0,180.0,France,M,Right,1845936000.0,3100000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lille,1643,Marius Broholm,1130111,21.0,172.0,Norway,M,Left,1909008000.0,4600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lille,1643,Gaëtan Perrin,827506,30.0,169.0,France,M,Right,1845936000.0,5200000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lille,1643,Calvin Verdonk,361780,29.0,174.0,Indonesia,D,Left,1845936000.0,2600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lille,1643,Alexsandro Ribeiro,1049775,27.0,192.0,Brazil,D,Right,1845936000.0,15500000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lille,1643,Nathan Ngoy,1119487,23.0,183.0,Belgium,D,Right,1877472000.0,24000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lille,1643,Tiago Santos,1087364,24.0,175.0,Portugal,D,Right,1877472000.0,10600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lille,1643,Tanguy Nianzou,1003007,24.0,192.0,France,D,Right,1845936000.0,1200000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lille,1643,Romain Perraud,827519,28.0,173.0,France,D,Left,1845936000.0,6800000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lille,1643,Ousmane Touré,1513466,21.0,187.0,France,D,Left,,520000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lille,1643,Isaac Cossier,1936804,19.0,186.0,France,D,Left,1909008000.0,2700000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lille,1643,Loun Srdanovic,1417059,20.0,180.0,Switzerland,D,Right,1909008000.0,1300000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lille,1643,Berke Özer,847494,26.0,191.0,Türkiye,G,Right,1877472000.0,10500000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lille,1643,Arnaud Bodart,878898,28.0,184.0,Belgium,G,Right,1814313600.0,1400000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique Lyonnais,1649,Loïs Openda,835480,26.0,177.0,Belgium,F,Right,1814313600.0,27000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique Lyonnais,1649,Ernest Nuamah,1202024,22.0,178.0,Ghana,F,Left,1845936000.0,9500000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique Lyonnais,1649,Julien Duranville,1171540,20.0,170.0,Belgium,F,Right,1940544000.0,6500000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique Lyonnais,1649,Pavel Šulc,957604,25.0,177.0,Czechia,F,Right,1877472000.0,21000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique Lyonnais,1649,Alejandro Gomes Rodriguez,1614474,18.0,176.0,England,F,Right,1845936000.0,745000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique Lyonnais,1649,Kaïl Boudache,1518669,20.0,175.0,Algeria,F,Left,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique Lyonnais,1649,Rémi Himbert,1961628,18.0,178.0,France,F,Right,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique Lyonnais,1649,Enzo Molebe,1861678,18.0,178.0,France,F,Right,1877472000.0,730000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique Lyonnais,1649,Tyler Morton,979118,23.0,185.0,England,M,Right,1909008000.0,31000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique Lyonnais,1649,Malick Fofana,1195784,21.0,169.0,Belgium,M,Right,1845936000.0,29000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique Lyonnais,1649,Corentin Tolisso,343067,32.0,181.0,France,M,Right,1877472000.0,11000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique Lyonnais,1649,Khalis Merah,2127096,19.0,178.0,France,M,Right,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique Lyonnais,1649,Noah Nartey,1195782,20.0,180.0,Denmark,M,Right,1909008000.0,14000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique Lyonnais,1649,Mohamed Ouédraogo,1506773,23.0,183.0,Burkina Faso,M,Left,1940544000.0,1200000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique Lyonnais,1649,Tanner Tessmann,1022084,24.0,187.0,USA,M,Right,1877472000.0,9500000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique Lyonnais,1649,Mads Bidstrup,918429,25.0,175.0,Denmark,M,Right,1940544000.0,12600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique Lyonnais,1649,Mathys de Carvalho,1545023,21.0,183.0,Portugal,M,Right,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique Lyonnais,1649,Mahamadou Diawara,1402751,21.0,187.0,France,M,Left,1845936000.0,1000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique Lyonnais,1649,Paul Akouokou,839309,28.0,190.0,Côte d'Ivoire,M,Right,1814313600.0,410000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique Lyonnais,1649,Nicolás Tagliafico,158243,33.0,172.0,Argentina,D,Left,1814313600.0,3800000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique Lyonnais,1649,Moussa Niakhaté,758168,30.0,190.0,Senegal,D,Left,1845936000.0,14600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique Lyonnais,1649,Noham Kamara,1937750,19.0,183.0,France,D,Right,1909008000.0,2900000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique Lyonnais,1649,Abner Vinícius,973838,26.0,181.0,Brazil,D,Left,1877472000.0,9200000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique Lyonnais,1649,Duje Ćaleta-Car,257091,29.0,192.0,Croatia,D,Right,1814313600.0,2900000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique Lyonnais,1649,Ruben Kluivert,1014540,25.0,187.0,Netherlands,D,Right,1909008000.0,7500000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique Lyonnais,1649,Ainsley Maitland-Niles,352768,28.0,178.0,England,D,Right,1814313600.0,10900000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique Lyonnais,1649,Clinton Mata,152813,33.0,180.0,Angola,D,Right,1845936000.0,2600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique Lyonnais,1649,Steeve Kango,1627804,19.0,,France,D,Right,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique Lyonnais,1649,Felix Bacher,943525,25.0,190.0,Austria,D,Right,1940544000.0,6500000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique Lyonnais,1649,Dominik Greif,791046,29.0,197.0,Slovakia,G,Right,1877472000.0,8600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique Lyonnais,1649,Lassine Diarra,1481174,23.0,195.0,Mali,G,,,23000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique Lyonnais,1649,Rémy Descamps,788180,30.0,194.0,France,G,Left,1877472000.0,1500000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique Lyonnais,1649,Yvann Konan,1563912,19.0,189.0,Côte d'Ivoire,G,Right,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique Lyonnais,1649,Justin Bengui,1049184,21.0,190.0,France,G,Right,1845936000.0,260000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique de Marseille,1641,Amine Gouiri,859026,26.0,180.0,Algeria,F,Right,1877472000.0,30000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique de Marseille,1641,Neal Maupay,268903,29.0,171.0,France,F,Right,1845936000.0,4099999.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique de Marseille,1641,Faris Moumbagna,1029456,26.0,185.0,Cameroon,F,Left,1845936000.0,3600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique de Marseille,1641,Ange Lago,1512333,22.0,179.0,Côte d'Ivoire,F,Both,1814313600.0,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique de Marseille,1641,Igor Paixão,981815,26.0,168.0,Brazil,M,Right,1909008000.0,33000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique de Marseille,1641,Timothy Weah,855810,26.0,185.0,USA,M,Right,1909008000.0,18200000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique de Marseille,1641,Amine Harit,827522,29.0,179.0,Morocco,M,Right,1814313600.0,5300000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique de Marseille,1641,Quinten Timber,959805,25.0,177.0,Netherlands,M,Right,1909008000.0,24000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique de Marseille,1641,Himad Abdelli,945830,26.0,185.0,Algeria,M,Right,1909008000.0,4600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique de Marseille,1641,Pierre-Emile Højbjerg,149593,31.0,185.0,Denmark,M,Right,1845936000.0,13600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique de Marseille,1641,Angel Gomes,867441,25.0,168.0,England,M,Right,1845936000.0,10800000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique de Marseille,1641,Geoffrey Kondogbia,96544,33.0,188.0,Central African Republic,M,Left,1814313600.0,2900000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique de Marseille,1641,Tochukwu Nnadi,1191892,23.0,176.0,Nigeria,M,Right,1909008000.0,4800000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique de Marseille,1641,Tadjidine Mmadi,2250107,19.0,180.0,France,M,Both,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique de Marseille,1641,Keyliane Abdallah,1844117,20.0,185.0,France,M,Left,1845936000.0,46000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique de Marseille,1641,Nayef Aguerd,877102,30.0,188.0,Morocco,D,Left,1909008000.0,15900000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique de Marseille,1641,Facundo Medina,860307,27.0,184.0,Argentina,D,Left,1909008000.0,16300000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique de Marseille,1641,Leonardo Balerdi,928236,27.0,188.0,Argentina,D,Right,1845936000.0,16399999.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique de Marseille,1641,Emerson,155997,32.0,176.0,Italy,D,Left,1814313600.0,8199999.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique de Marseille,1641,Derek Cornelius,801411,28.0,188.0,Canada,D,Left,1845936000.0,2300000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique de Marseille,1641,Conrad Jaden Egan-Riley,1131448,23.0,183.0,England,D,Right,1877472000.0,9400000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique de Marseille,1641,Ulisses Garcia,558320,30.0,185.0,Switzerland,D,Left,1845936000.0,2900000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique de Marseille,1641,Hilan Hamzaoui Slimani,1403196,20.0,187.0,Algeria,D,Right,1877472000.0,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique de Marseille,1641,Bamo Meïté,1131541,25.0,183.0,Côte d'Ivoire,D,Right,1845936000.0,6800000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique de Marseille,1641,Kelyann Bezahaf,1831803,20.0,176.0,Algeria,D,Right,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique de Marseille,1641,Alexi Koum,1913447,20.0,,Cameroon,D,Left,1814313600.0,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique de Marseille,1641,Gerónimo Rulli,128383,34.0,189.0,Argentina,G,Right,1814313600.0,5800000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique de Marseille,1641,Jeffrey De Lange,803034,28.0,188.0,Netherlands,G,Both,1814313600.0,2700000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Olympique de Marseille,1641,Jelle Van Neck,1142668,22.0,191.0,Belgium,G,Right,1814313600.0,155000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Rennais,1658,Breel Embolo,352296,29.0,185.0,Switzerland,F,Right,1877472000.0,13600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Rennais,1658,Mousa Tamari,876600,29.0,175.0,Jordan,F,Left,1845936000.0,10800000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Rennais,1658,Esteban Lepaul,966621,26.0,177.0,France,F,Right,1909008000.0,32000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Rennais,1658,Eliezer Mayenda,1168588,21.0,179.0,Spain,F,Left,1940544000.0,16600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Rennais,1658,Issa Soumaré,1001458,25.0,182.0,Senegal,F,Right,1909008000.0,8400000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Rennais,1658,Elias Legendre Quiñonez Zae,2111258,18.0,179.0,Ecuador,F,,1877472000.0,105000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Rennais,1658,Arnaud Nordin,848458,28.0,170.0,France,F,Left,1877472000.0,4099999.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Rennais,1658,Nordan Mukiele,1891021,20.0,184.0,France,F,Right,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Rennais,1658,Seko Fofana,191188,31.0,184.0,Côte d'Ivoire,M,Both,1877472000.0,8800000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Rennais,1658,Sebastian Szymański,847983,27.0,174.0,Poland,M,Left,1877472000.0,12600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Rennais,1658,Przemysław Frankowski,286909,31.0,176.0,Poland,M,Right,1814313600.0,6500000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Rennais,1658,Ludovic Blas,806076,28.0,180.0,France,M,Left,1814313600.0,9300000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Rennais,1658,Djaoui Cissé,1445628,22.0,188.0,France,M,Right,1909008000.0,9300000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Rennais,1658,Valentin Rongier,581314,31.0,172.0,France,M,Right,1845936000.0,7700000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Rennais,1658,Jordan James,1136409,22.0,190.0,Wales,M,Right,1845936000.0,11000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Rennais,1658,Mahdi Camara,916041,28.0,178.0,France,M,Right,1877472000.0,12900000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Rennais,1658,Adrien Thomasson,231946,32.0,177.0,France,M,Right,1877472000.0,4300000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Rennais,1658,Ayanda Sishuba,1514294,21.0,169.0,Belgium,M,Right,1877472000.0,740000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Rennais,1658,Abdelhamid Ait Boudlal,1597145,20.0,190.0,Morocco,D,Right,1845936000.0,12900000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Rennais,1658,Alidu Seidu,1049515,26.0,173.0,Ghana,D,Right,1877472000.0,6300000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Rennais,1658,Mahamadou Nagida,1545409,21.0,176.0,Cameroon,D,Left,1845936000.0,145000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Rennais,1658,Charlie Cresswell,1020744,23.0,190.0,England,D,Right,1814313600.0,24000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Rennais,1658,Quentin Merlin,1102502,24.0,173.0,France,D,Left,1877472000.0,14600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Rennais,1658,Gonçalo Oliveira,1432417,20.0,180.0,Portugal,D,Left,1940544000.0,3200000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Rennais,1658,Anthony Rouault,991479,25.0,186.0,France,D,Right,1877472000.0,13000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Rennais,1658,Lilian Brassier,988907,26.0,184.0,France,D,Left,1877472000.0,10800000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Rennais,1658,Bryan Reynolds,862075,25.0,185.0,USA,D,Right,1909008000.0,3700000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Rennais,1658,Jonathan Do Marcolino,1891059,20.0,186.0,Gabon,D,Right,1845936000.0,310000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Rennais,1658,Brice Samba,164055,32.0,186.0,France,G,Left,1877472000.0,6500000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Rennais,1658,Kilian Belazzoug,2334320,20.0,198.0,Algeria,G,Right,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Rennais,1658,Nicolas Lemaitre,792630,29.0,188.0,France,G,Right,1845936000.0,450000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,AS Monaco,1653,Ansu Fati,962883,23.0,178.0,Spain,F,Right,1909008000.0,15600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,AS Monaco,1653,Folarin Balogun,934237,25.0,179.0,USA,F,Right,1845936000.0,45000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,AS Monaco,1653,Mika Biereth,1083007,23.0,187.0,Denmark,F,Right,1909008000.0,15900000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,AS Monaco,1653,Paris Brunner,1403216,20.0,185.0,Germany,F,Right,1845936000.0,1600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,AS Monaco,1653,Matthis Abline,999070,23.0,182.0,France,F,Right,1940544000.0,21000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,AS Monaco,1653,Paul Pogba,111802,33.0,191.0,France,M,Both,1814313600.0,2600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,AS Monaco,1653,Lamine Camara,1389846,22.0,174.0,Senegal,M,Right,1877472000.0,41000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,AS Monaco,1653,Aleksandr Golovin,318963,30.0,180.0,Russia,M,Right,1877472000.0,17500000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,AS Monaco,1653,Takumi Minamino,155818,31.0,174.0,Japan,M,Right,1814313600.0,9700000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,AS Monaco,1653,Mathys Detourbet,1823956,19.0,178.0,France,M,Both,1814313600.0,14600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,AS Monaco,1653,Denis Zakaria,770677,29.0,191.0,Switzerland,M,Right,1845936000.0,26000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,AS Monaco,1653,Mamadou Coulibaly,1410148,22.0,179.0,France,M,Left,1845936000.0,14100000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,AS Monaco,1653,Pape Cabral,1606641,19.0,181.0,France,M,Right,,1200000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,AS Monaco,1653,Stanis Idumbo Muzambo,1149152,21.0,170.0,Belgium,M,Right,1909008000.0,3800000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,AS Monaco,1653,Edan Diop,1390575,21.0,173.0,France,M,Right,1845936000.0,2800000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,AS Monaco,1653,Vanderson,1090694,25.0,173.0,Brazil,D,Right,1845936000.0,17100000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,AS Monaco,1653,Mohammed Salisu,946158,27.0,188.0,Ghana,D,Left,1845936000.0,9200000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,AS Monaco,1653,Eric Dier,146101,32.0,191.0,England,D,Both,1845936000.0,3600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,AS Monaco,1653,Thilo Kehrer,281277,29.0,186.0,Germany,D,Right,1845936000.0,12400000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,AS Monaco,1653,Jordan Teze,825846,26.0,183.0,Netherlands,D,Right,1877472000.0,16399999.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,AS Monaco,1653,Christian Mawissa,1407848,21.0,184.0,France,D,Left,1877472000.0,13700000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,AS Monaco,1653,Sadibou Sané,1471683,22.0,185.0,Senegal,D,Right,1940544000.0,6800000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,AS Monaco,1653,Nazinho,1006113,23.0,180.0,Portugal,D,Left,1909008000.0,6600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,AS Monaco,1653,Lukáš Hrádecký,15219,36.0,190.0,Finland,G,Right,1814313600.0,1600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,AS Monaco,1653,Philipp Köhn,868964,28.0,191.0,Switzerland,G,Right,1845936000.0,3600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,AS Monaco,1653,Yann Lienard,1136884,23.0,192.0,France,G,Right,1814313600.0,105000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Strasbourg,1659,Joaquin Panichelli,1410925,23.0,190.0,Argentina,F,Right,1909008000.0,32000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Strasbourg,1659,Samuel Amo-Ameyaw,1407484,20.0,174.0,England,F,Left,1877472000.0,8500000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Strasbourg,1659,Rayane Messi,1606632,19.0,175.0,France,F,Right,1909008000.0,2600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Strasbourg,1659,Miloš Luković,1165974,20.0,184.0,Serbia,F,Right,1845936000.0,3400000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Strasbourg,1659,Yaya Diémé,1542818,18.0,180.0,Senegal,F,Left,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Strasbourg,1659,Sékou Mara,1047484,24.0,184.0,France,F,Right,1877472000.0,3600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Strasbourg,1659,Ghianny Kodia,1935902,18.0,,France,F,Right,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Strasbourg,1659,Julio Enciso,973556,22.0,173.0,Paraguay,M,Right,1877472000.0,24000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Strasbourg,1659,Gessime Yassine,1638338,20.0,172.0,Morocco,M,Left,1909008000.0,13100000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Strasbourg,1659,Samir El Mourabet,1605921,20.0,186.0,Morocco,M,Left,1909008000.0,21000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Strasbourg,1659,Diego Moreira,1142233,22.0,179.0,Belgium,M,Left,1877472000.0,24000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Strasbourg,1659,Giovanni Reyna,989056,23.0,185.0,USA,M,Right,1940544000.0,4300000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Strasbourg,1659,Maxi Oyedele,1153355,21.0,183.0,Poland,M,Right,1909008000.0,5200000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Strasbourg,1659,Martial Godo,1190938,23.0,177.0,Côte d'Ivoire,M,Right,1909008000.0,23000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Strasbourg,1659,Mathis Amougou,1426224,20.0,177.0,France,M,Right,1909008000.0,9500000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Strasbourg,1659,Sebastian Nanasi,962068,24.0,178.0,Sweden,M,Right,1877472000.0,15500000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Strasbourg,1659,Pape Diop,1410217,22.0,182.0,Senegal,M,Right,1909008000.0,8199999.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Strasbourg,1659,Abdoul Ouattara,1930811,20.0,180.0,Côte d'Ivoire,M,Right,1877472000.0,13800000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Strasbourg,1659,Pape Diong,1536782,20.0,193.0,Senegal,M,Right,1877472000.0,2600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Strasbourg,1659,Rabby Nzingoula,1492676,20.0,183.0,France,M,Right,1814313600.0,2100000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Strasbourg,1659,Diogo Sousa,1434543,20.0,176.0,Portugal,M,Right,1940544000.0,8500000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Strasbourg,1659,Benjamin Brantlind,1650623,17.0,183.0,Sweden,M,Right,1940544000.0,535000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Strasbourg,1659,Tyrese Noubissie,1861695,17.0,188.0,France,M,Left,1845936000.0,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Strasbourg,1659,Max Marechal,1944829,19.0,,France,M,Right,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Strasbourg,1659,Idrissa Sabaly,1944828,18.0,190.0,France,M,Left,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Strasbourg,1659,Guéla Doué,1002033,23.0,187.0,Côte d'Ivoire,D,Right,1877472000.0,21000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Strasbourg,1659,Ben Chilwell,802695,29.0,181.0,England,D,Left,1814313600.0,9200000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Strasbourg,1659,Genesis Antwi,1402709,19.0,189.0,Sweden,D,Right,1814313600.0,360000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Strasbourg,1659,Ismael Doukouré,1049517,23.0,183.0,France,D,Right,1845936000.0,19400000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Strasbourg,1659,Lucas Høgsberg,1426597,20.0,187.0,Denmark,D,Right,1909008000.0,17400000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Strasbourg,1659,Soumaila Coulibaly,1001858,22.0,190.0,France,D,Left,1877472000.0,6400000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Strasbourg,1659,Mateo Del Blanco,1183059,22.0,170.0,Argentina,D,Left,1940544000.0,4700000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Strasbourg,1659,Abakar Sylla,1170197,23.0,188.0,Côte d'Ivoire,D,Left,1845936000.0,2400000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Strasbourg,1659,Andrew Omobamidele,983066,24.0,188.0,Ireland,D,Right,1877472000.0,8800000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Strasbourg,1659,Yoann Becker,2200813,17.0,196.0,France,D,Right,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Strasbourg,1659,Miłosz Piekutowski,1390323,20.0,188.0,Poland,G,Both,1940544000.0,620000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Strasbourg,1659,Gabriel Kerckaert,1965113,18.0,197.0,France,G,Both,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,RC Strasbourg,1659,Kingsley Olufade,2681887,,,France,,,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lorient,1656,Aiyegun Tosin,875548,28.0,179.0,Benin,F,Right,1814313600.0,1700000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lorient,1656,Souleymane Faye,1002343,23.0,179.0,Senegal,F,Right,1814313600.0,3200000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lorient,1656,Mohamed Bamba,1405239,24.0,185.0,Côte d'Ivoire,F,Right,1845936000.0,1800000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lorient,1656,Jean Victor Makengo,802138,28.0,177.0,France,F,Left,1814313600.0,5600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lorient,1656,Arsène Kouassi,1855502,21.0,178.0,Burkina Faso,M,Left,1877472000.0,16399999.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lorient,1656,Arthur Avom Ebong,1465307,21.0,173.0,Cameroon,M,Right,1814313600.0,19400000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lorient,1656,Noah Mbamba,1100321,21.0,187.0,Belgium,M,Right,1814313600.0,1800000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lorient,1656,Dembo Sylla,1397569,23.0,175.0,Guinea,M,Right,1845936000.0,1600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lorient,1656,Bandiougou Fadiga,954059,25.0,178.0,France,M,Right,1845936000.0,145000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lorient,1656,Joel Mugisha Mvuka,1027091,23.0,173.0,Norway,M,Right,1814313600.0,1500000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lorient,1656,Panos Katseris,1402217,25.0,175.0,Greece,M,Right,1845936000.0,2200000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lorient,1656,Gabin Bernardeau,1893993,20.0,181.0,France,M,Left,1909008000.0,1300000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lorient,1656,Noah Cadiou,993952,27.0,191.0,Guadeloupe,M,Right,1877472000.0,3100000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lorient,1656,Théo Le Bris,1131540,23.0,170.0,France,M,Right,1814313600.0,5300000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lorient,1656,Enzo Genton,1634357,20.0,183.0,France,M,Right,1845936000.0,320000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lorient,1656,Jérémy Hatchi,1891023,21.0,178.0,Guadeloupe,M,Right,1845936000.0,650000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lorient,1656,Montassar Talbi,879618,28.0,190.0,Tunisia,D,Right,1814313600.0,7600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lorient,1656,Formose Mendy,982316,25.0,191.0,Senegal,D,Right,1845936000.0,1600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lorient,1656,Isaak Touré,1012650,23.0,206.0,France,D,Left,1845936000.0,1300000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lorient,1656,Nathaniel Adjei,1103079,23.0,191.0,Ghana,D,Right,1845936000.0,1600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lorient,1656,Alec Georgen,802134,27.0,172.0,France,D,Right,1877472000.0,1600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lorient,1656,Yvon Mvogo,149656,32.0,190.0,Switzerland,G,Right,1814313600.0,2600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lorient,1656,Bingourou Kamara,583312,29.0,193.0,Senegal,G,Right,1814313600.0,625000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Lorient,1656,Benjamin Leroy,80392,37.0,184.0,France,G,Right,1814313600.0,96000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Toulouse,1681,Yann Gboho,911851,25.0,173.0,France,F,Right,1814313600.0,16600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Toulouse,1681,Santiago Hidalgo,1199247,21.0,174.0,Argentina,F,Left,1877472000.0,5800000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Toulouse,1681,Jacen Russell Rowe,1002267,23.0,184.0,Canada,F,Both,1877472000.0,2900000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Toulouse,1681,Julian Vignolo,1657108,19.0,185.0,Argentina,F,Right,1877472000.0,1600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Toulouse,1681,Ilyas Azizi,1961638,18.0,173.0,France,F,Right,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Toulouse,1681,Wassim Dardake,1931591,18.0,172.0,Morocco,F,,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Toulouse,1681,Aymen Amaaouch,2302581,16.0,,France,F,Left,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Toulouse,1681,Enzo Faty,2203373,19.0,189.0,France,F,Right,1909008000.0,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Toulouse,1681,Léo Frechingues,2683252,18.0,186.0,France,F,,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Toulouse,1681,Cristian Cásseres Jr.,878938,26.0,174.0,Venezuela,M,Right,1814313600.0,8199999.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Toulouse,1681,Abu Francis,988801,25.0,182.0,Ghana,M,Right,1877472000.0,2100000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Toulouse,1681,Rafik Messali,1198264,23.0,177.0,Algeria,M,Right,1845936000.0,1500000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Toulouse,1681,Dayann Methalie,1894003,20.0,186.0,France,M,Left,1909008000.0,19700000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Toulouse,1681,Aron Dønnum,863133,28.0,179.0,Norway,M,Left,1814313600.0,5400000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Toulouse,1681,Mario Sauer,1386065,22.0,180.0,Slovakia,M,Right,1845936000.0,1400000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Toulouse,1681,Alexis Vossah,2193194,18.0,181.0,France,M,Both,1909008000.0,13900000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Toulouse,1681,Niklas Schmidt,795002,28.0,183.0,Germany,M,Left,1814313600.0,1600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Toulouse,1681,Mathis Saka,1884150,19.0,173.0,France,M,Right,1877472000.0,535000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Toulouse,1681,Sion Oppong,2039287,18.0,,Sweden,M,,1909008000.0,440000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Toulouse,1681,Mark McKenzie,922759,27.0,183.0,USA,D,Right,1814313600.0,7300000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Toulouse,1681,Christ Tapé,1869973,20.0,188.0,Côte d'Ivoire,D,Left,1909008000.0,880000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Toulouse,1681,Rasmus Nicolaisen,798124,29.0,190.0,Denmark,D,Left,1877472000.0,5200000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Toulouse,1681,Ylies Aradj,1444623,21.0,179.0,France,D,Left,,55000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Toulouse,1681,Seny Koumbassa,2077075,19.0,194.0,France,D,Right,1909008000.0,4700000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Toulouse,1681,Gaëtan Bakhouche,1894007,21.0,185.0,France,D,Left,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Toulouse,1681,Ismail Diallo,1912469,22.0,182.0,France,D,Right,1909008000.0,815000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Toulouse,1681,Guillaume Restes,1154630,21.0,188.0,France,G,Left,1845936000.0,16200000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Toulouse,1681,Mathys Niflore,1479500,19.0,188.0,France,G,Right,1877472000.0,2400000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Toulouse,1681,Naime Said Mchindra,1999171,21.0,185.0,Comoros,G,Right,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Toulouse,1681,Théo Collin,2639074,20.0,,France,G,,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Toulouse,1681,Darren Bique,2676602,,,,,,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris FC,6070,Ciro Immobile,45923,36.0,185.0,Italy,F,Right,1814313600.0,1700000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris FC,6070,Lassine Sinayoko,927005,26.0,186.0,Mali,F,Right,1877472000.0,10500000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris FC,6070,Moses Simon,330051,31.0,168.0,Nigeria,F,Both,1845936000.0,7700000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris FC,6070,Jean-Philippe Krasso,940328,29.0,189.0,Côte d'Ivoire,F,Left,1814313600.0,3300000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris FC,6070,Luca Koleosho,1216282,21.0,175.0,Italy,F,Right,1940544000.0,5800000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris FC,6070,Jonathan Ikoné,802142,28.0,180.0,France,F,Left,1814313600.0,3800000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris FC,6070,Pablo Pagis,1174462,23.0,181.0,France,F,Right,1940544000.0,13800000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris FC,6070,Omar Sissoko,1523625,19.0,175.0,France,F,Right,1814313600.0,1000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris FC,6070,Ilan Kebbal,1049442,28.0,169.0,Algeria,M,Left,1845936000.0,11200000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris FC,6070,El Hadary Ylan,1606470,19.0,175.0,Madagascar,M,Right,,765000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris FC,6070,Patrick Zabi,2041113,19.0,191.0,Côte d'Ivoire,M,Right,,21000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris FC,6070,Maxime López,352802,28.0,167.0,France,M,Right,1814313600.0,5200000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris FC,6070,Rudy Matondo,1961626,18.0,180.0,France,M,Left,1845936000.0,19100000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris FC,6070,Pierre Lees Melou,801306,33.0,185.0,France,M,Right,1814313600.0,4200000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris FC,6070,Adama Camara,1507384,29.0,180.0,France,M,Right,1814313600.0,3100000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris FC,6070,Vincent Marchetti,795508,29.0,181.0,France,M,Left,1814313600.0,1600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris FC,6070,Andria Kvirikadze,2407985,18.0,186.0,Georgia,M,Both,1909008000.0,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris FC,6070,Samir Chergui,981168,27.0,185.0,Algeria,D,Right,,2800000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris FC,6070,Hamari Traoré,362014,34.0,175.0,Mali,D,Right,1814313600.0,1500000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris FC,6070,Moustapha Mbow,982319,26.0,187.0,Senegal,D,Right,1845936000.0,9800000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris FC,6070,Diego Coppola,1050692,22.0,192.0,Italy,D,Right,1940544000.0,19700000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris FC,6070,Otávio,1069159,24.0,188.0,Brazil,D,Left,1909008000.0,9600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris FC,6070,Emmanuel Mbemba,1937848,18.0,179.0,France,D,Left,1909008000.0,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris FC,6070,Nhoa Sangui,1426221,20.0,178.0,France,D,Left,1909008000.0,10400000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris FC,6070,Thibault De Smet,844744,28.0,182.0,Belgium,D,Left,1814313600.0,1700000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris FC,6070,Tuomas Ollila,930813,26.0,173.0,Finland,D,Left,1814313600.0,420000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris FC,6070,Yoan Koré,1131803,21.0,187.0,France,D,Right,1814313600.0,580000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris FC,6070,Kevin Trapp,38440,36.0,189.0,Germany,G,Right,1845936000.0,1900000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Paris FC,6070,Obed Nkambadio,1015872,23.0,190.0,France,G,Right,1814313600.0,4700000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Brestois,1715,Ludovic Ajorque,343971,32.0,196.0,France,F,Left,1814313600.0,3200000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Brestois,1715,Mama Baldé,557166,30.0,183.0,Guinea-Bissau,F,Right,1814313600.0,2900000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Brestois,1715,Ibrahim Yayiya Kante,1606631,19.0,,France,F,Right,1845936000.0,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Brestois,1715,Kamory Doumbia,1156353,23.0,170.0,Mali,M,Right,1877472000.0,9800000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Brestois,1715,Pathé Mboup,1410231,22.0,175.0,Senegal,M,Right,1909008000.0,2600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Brestois,1715,Hamidou Makalou,1597197,20.0,164.0,Mali,M,Right,1877472000.0,1100000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Brestois,1715,Joseph Nonge,1149138,21.0,184.0,Belgium,M,Left,1877472000.0,2100000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Brestois,1715,Romain Del Castillo,825681,30.0,172.0,France,M,Left,1814313600.0,6400000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Brestois,1715,Joris Chotard,976396,24.0,179.0,France,M,Right,1877472000.0,6700000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Brestois,1715,Lucas Tousart,787889,29.0,185.0,France,M,Right,1814313600.0,2100000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Brestois,1715,Hugo Magnetti,861324,28.0,173.0,France,M,Left,1814313600.0,5500000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Brestois,1715,Axel Camblan,1135605,23.0,169.0,France,M,Right,1814313600.0,650000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Brestois,1715,Luc Zogbé,1499870,21.0,178.0,Côte d'Ivoire,D,Left,1877472000.0,1300000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Brestois,1715,Bradley Locko,1129382,24.0,180.0,France,D,Left,1814313600.0,6200000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Brestois,1715,Kenny Lala,141080,34.0,178.0,France,D,Right,1814313600.0,1400000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Brestois,1715,Brendan Chardonnet,328035,31.0,181.0,France,D,Right,1814313600.0,4099999.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Brestois,1715,Raphaël Le Guen,1894085,19.0,196.0,France,D,Right,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Brestois,1715,Justin Bourgault,1891025,20.0,185.0,France,D,Left,1877472000.0,1100000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Brestois,1715,Grégoire Coudert,891508,27.0,190.0,France,G,Left,1814313600.0,3600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Brestois,1715,Noah Jauny,1910904,21.0,194.0,Ireland,G,Right,1814313600.0,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Stade Brestois,1715,Noé Poillion,1945268,19.0,200.0,France,G,Right,1877472000.0,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Angers,1684,Amine El Ouazzani,1014048,25.0,188.0,Morocco,F,Left,1814313600.0,2400000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Angers,1684,Jim Allevinah,988632,31.0,172.0,Gabon,F,Right,1814313600.0,905000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Angers,1684,Prosper Peter,2137784,19.0,177.0,France,F,,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Angers,1684,Harouna Djibirin,2318284,19.0,175.0,Cameroon,F,Left,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Angers,1684,Mamadou Usman Simbakoli,1046671,25.0,190.0,France,F,Left,1877472000.0,740000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Angers,1684,Lanroy Machine,2142283,20.0,187.0,France,F,Right,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Angers,1684,Amine Sbai,1392829,25.0,175.0,Morocco,M,Right,1814313600.0,3700000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Angers,1684,Haris Belkebla,580642,32.0,177.0,Algeria,M,Right,1845936000.0,1900000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Angers,1684,Yassin Belkhdim,1195241,24.0,175.0,Morocco,M,Right,1845936000.0,6800000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Angers,1684,Branco Van den Boomen,190883,31.0,190.0,Netherlands,M,Right,1877472000.0,2400000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Angers,1684,Anthony Bermont,1545297,21.0,187.0,France,M,Right,1814313600.0,1100000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Angers,1684,Louis Mouton,1172936,24.0,180.0,France,M,Right,1845936000.0,4099999.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Angers,1684,Carlens Arcus,794373,30.0,180.0,Haiti,D,Right,1814313600.0,1900000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Angers,1684,Ousmane Camara,1049538,23.0,197.0,Mali,D,Right,1877472000.0,8199999.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Angers,1684,Jordan Lefort,363042,33.0,184.0,Mauritania,D,Left,1877472000.0,1000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Angers,1684,Jacques Ekomié,1170532,22.0,179.0,Gabon,D,Left,1814313600.0,8400000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Angers,1684,Lilian Raolisoa,1462778,26.0,178.0,France,D,Right,1845936000.0,4099999.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Angers,1684,Dan Sinaté,1493480,20.0,181.0,Mali,D,Left,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Angers,1684,Marius Courcoul,1506932,19.0,182.0,France,D,Right,,53000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Angers,1684,Emmanuel Biumla,1442036,21.0,185.0,France,D,Right,1845936000.0,2700000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Angers,1684,Marius Louër,1862843,19.0,181.0,France,D,,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Angers,1684,Nattio Sonnerat,2418790,17.0,,France,D,,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Angers,1684,Anthony Lopes,48535,35.0,184.0,Portugal,G,Left,1845936000.0,930000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Angers,1684,Oumar Pona,1651830,20.0,189.0,France,G,Right,1814313600.0,195000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Angers,1684,Melvin Zinga,963201,24.0,187.0,Congo Republic,G,Left,1814313600.0,290000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Angers,1684,Andy Gouandjia,2678207,,,,,,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Le Havre,1662,Ally Samatta,825088,33.0,183.0,Tanzania,F,Right,1814313600.0,770000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Le Havre,1662,Josh Maja,852145,27.0,180.0,Nigeria,F,Right,1814313600.0,4400000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Le Havre,1662,Sota Nakamura,2039286,23.0,168.0,Japan,F,Right,1814313600.0,945000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Le Havre,1662,Mokrane Bentoumi,1493476,21.0,169.0,Algeria,F,Left,,47000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Le Havre,1662,Felix Mambimbi,910076,25.0,170.0,Switzerland,F,Right,1814313600.0,470000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Le Havre,1662,Joan Tincres,1493489,20.0,188.0,France,F,Right,1909008000.0,105000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Le Havre,1662,Godson Kyeremeh,975300,26.0,175.0,France,F,Right,1814313600.0,515000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Le Havre,1662,Elysée Logbo,1494855,22.0,188.0,France,F,Left,1814313600.0,195000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Le Havre,1662,Noam Obougou,1895833,20.0,185.0,France,F,,,1100000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Le Havre,1662,Enzo Koffi,2277165,20.0,178.0,France,F,Left,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Le Havre,1662,Ebroni Gnoan,1551018,,,France,F,,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Le Havre,1662,Hakim Dongopandji,2683595,19.0,,France,F,,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Le Havre,1662,Amir Richardson,1121333,24.0,195.0,Morocco,M,Left,1814313600.0,3900000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Le Havre,1662,Rassoul Ndiaye,992026,24.0,179.0,Senegal,M,Right,1845936000.0,8700000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Le Havre,1662,Fodé Doucouré,1035695,25.0,172.0,Mali,M,Right,1814313600.0,1900000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Le Havre,1662,Junior Mwanga,1197153,23.0,184.0,France,M,Right,1909008000.0,6400000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Le Havre,1662,Ismail Bouneb,1426243,20.0,182.0,France,M,Right,1845936000.0,365000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Le Havre,1662,Kaito Mizuta,1066020,26.0,182.0,Japan,M,Right,1877472000.0,555000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Le Havre,1662,Simon Ebonog,1490783,21.0,180.0,France,M,Right,1877472000.0,4200000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Le Havre,1662,Daren Mosengo,1895829,19.0,188.0,France,M,Right,1814313600.0,310000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Le Havre,1662,Guy-Noël Zohouri,1895830,19.0,187.0,Côte d'Ivoire,M,Right,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Le Havre,1662,Mathéo Bodmer,1121330,22.0,179.0,France,M,Right,,285000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Le Havre,1662,Ayumu Seko,873221,26.0,186.0,Japan,D,Right,1845936000.0,4700000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Le Havre,1662,Timothee Pembele,1824137,23.0,182.0,France,D,Right,1877472000.0,1700000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Le Havre,1662,Yanis Zouaoui,1397882,28.0,183.0,France,D,Left,1814313600.0,2300000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Le Havre,1662,Stephan Zagadou,2073555,17.0,186.0,France,D,Right,,97000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Le Havre,1662,Vincent Sasso,74071,35.0,190.0,France,D,Right,,145000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Le Havre,1662,Georges Gomis,2198226,18.0,,Senegal,D,,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Le Havre,1662,Djibril Ouziad,2683592,17.0,,France,D,,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Le Havre,1662,Lionel Mpasi Nzau,599192,32.0,182.0,DR Congo,G,Right,1814313600.0,650000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Le Havre,1662,Mory Diaw,580226,33.0,197.0,Senegal,G,Both,1814313600.0,950000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Le Havre,1662,Paul Argney,1426218,20.0,190.0,France,G,Right,1814313600.0,220000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Auxerre,1646,Danny Namaso,867440,25.0,182.0,Cameroon,F,Right,1877472000.0,5700000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Auxerre,1646,Theo Bair,936848,26.0,191.0,Canada,F,Right,1845936000.0,1600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Auxerre,1646,Eros Maddy,951949,25.0,177.0,Netherlands,F,Right,1814313600.0,140000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Auxerre,1646,Remy Labeau Lascary,1401005,23.0,184.0,Guadeloupe,F,Right,1814313600.0,3900000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Auxerre,1646,Ryan Rodin,1927696,20.0,194.0,France,F,Right,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Auxerre,1646,Mamoudou Cissokho,2409356,18.0,,France,F,Right,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Auxerre,1646,Ibrahima Danfakha,2687232,17.0,,Senegal,F,,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Auxerre,1646,Josué Casimir,1035986,24.0,178.0,Haiti,M,Right,1845936000.0,2800000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Auxerre,1646,Elisha Owusu,904424,28.0,179.0,Ghana,M,Right,1814313600.0,4300000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Auxerre,1646,Romain Faivre,913942,28.0,180.0,France,M,Left,1814313600.0,4300000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Auxerre,1646,Kévin Danois,1151803,22.0,183.0,France,M,Right,1877472000.0,21000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Auxerre,1646,Naouirou Ahamada,997104,24.0,183.0,France,M,Right,1814313600.0,2900000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Auxerre,1646,Lasso Coulibaly,1126588,23.0,186.0,Côte d'Ivoire,M,Right,1845936000.0,825000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Auxerre,1646,Assane Dioussé,782240,28.0,175.0,Senegal,M,Left,1814313600.0,530000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Auxerre,1646,Arthur Piedfort,1149123,21.0,186.0,Belgium,M,Right,1909008000.0,3800000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Auxerre,1646,Aristide Zossou,1936455,21.0,178.0,Côte d'Ivoire,M,Right,1909008000.0,2700000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Auxerre,1646,Xiangxin Wei,2052700,18.0,188.0,China,M,Right,1940544000.0,325000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Auxerre,1646,Tidiane Devernois,1927719,18.0,187.0,France,M,Right,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Auxerre,1646,Rayan Mandengue,1634397,20.0,,Cameroon,M,,1814313600.0,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Auxerre,1646,Lamfia Dioubaté,1974223,19.0,,France,M,,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Auxerre,1646,Marvin Senaya,1087805,25.0,179.0,Ghana,D,Right,1877472000.0,3100000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Auxerre,1646,Francisco Sierralta,805096,29.0,192.0,Chile,D,Right,1877472000.0,1100000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Auxerre,1646,Clement Akpa,1387156,24.0,183.0,Côte d'Ivoire,D,Left,1845936000.0,8700000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Auxerre,1646,Lamine Sy,1177351,23.0,171.0,France,D,Right,1877472000.0,2700000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Auxerre,1646,Sinaly Diomandé,996951,25.0,184.0,Côte d'Ivoire,D,Right,1814313600.0,6600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Auxerre,1646,Bryan Okoh,987491,23.0,191.0,Switzerland,D,Left,1877472000.0,4099999.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Auxerre,1646,Christ Makosso,1492311,22.0,192.0,Congo Republic,D,Right,1909008000.0,825000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Auxerre,1646,Fredrik Oppegård,1005648,24.0,175.0,Norway,D,Left,1845936000.0,1600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Auxerre,1646,Sekou Fofana,1510503,23.0,178.0,Côte d'Ivoire,D,Left,1909008000.0,850000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Auxerre,1646,Telli Siwe,1897492,21.0,,France,D,Right,1814313600.0,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Auxerre,1646,Elikya Legros,1974210,18.0,,France,D,Right,1845936000.0,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Auxerre,1646,Alvin Petit Dol,1974202,19.0,175.0,France,D,Right,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Auxerre,1646,Ackah-Tidiane Thiongane-Zoukrou,2270624,17.0,,France,D,Right,1877472000.0,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Auxerre,1646,Mamadou Diop,1440545,26.0,204.0,Mauritania,G,Right,1909008000.0,1400000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Auxerre,1646,Paul Nardi,155717,32.0,187.0,France,G,Right,1845936000.0,1300000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Auxerre,1646,Louis Mezerette,2221903,19.0,,France,G,Right,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Auxerre,1646,Rayann Amedivlo,1927692,20.0,,France,G,Right,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nice,1661,Terem Moffi,894396,27.0,188.0,Nigeria,F,Left,1814313600.0,8199999.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nice,1661,Mohamed Ali Cho,1063235,22.0,182.0,France,F,Left,1845936000.0,14500000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nice,1661,Kevin Carlos Omoruyi,1035619,25.0,188.0,Spain,F,Right,1909008000.0,4200000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nice,1661,Victor Orakpo,1897296,20.0,194.0,Nigeria,F,Right,1845936000.0,390000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nice,1661,Isak Jansson,962064,24.0,176.0,Sweden,F,Right,,4300000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nice,1661,Zoumana Diallo,1214843,21.0,185.0,France,F,Right,,765000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nice,1661,Hicham Boudaoui,985923,26.0,176.0,Algeria,M,Right,1814313600.0,11300000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nice,1661,Sofiane Diop,944164,26.0,175.0,Morocco,M,Right,1814313600.0,13900000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nice,1661,Jonathan Clauss,821728,33.0,178.0,France,M,Right,1845936000.0,3600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nice,1661,Salis Abdul Samed,993455,26.0,180.0,Ghana,M,Right,1845936000.0,4300000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nice,1661,Gauthier Hein,842391,30.0,170.0,France,M,Left,1877472000.0,5200000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nice,1661,Morgan Sanson,250133,31.0,182.0,France,M,Right,1814313600.0,3700000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nice,1661,Djibril Coulibaly,2020789,17.0,189.0,France,M,Right,1845936000.0,970000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nice,1661,Issiaga Camara,1518668,21.0,178.0,Guinea,M,Right,1814313600.0,240000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nice,1661,Laurent Abergel,296434,33.0,170.0,France,M,Right,1877472000.0,1900000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nice,1661,Xavier Mandza,2456506,17.0,,France,M,,1877472000.0,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nice,1661,Everton Pereira,1551242,19.0,181.0,France,M,,1877472000.0,2100000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nice,1661,Mohamed Abdelmonem,926506,27.0,183.0,Egypt,D,Right,1845936000.0,2700000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nice,1661,Antoine Mendy,1120615,22.0,186.0,Senegal,D,Right,1845936000.0,9700000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nice,1661,Ali Abdi,919027,32.0,183.0,Tunisia,D,Left,1814313600.0,1900000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nice,1661,Kojo Peprah Oppong,1473092,22.0,185.0,Ghana,D,Right,1877472000.0,9700000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nice,1661,Youssouf Ndayishimiye,985934,27.0,183.0,Burundi,D,Right,1814313600.0,7300000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nice,1661,Moise Bombito,1469180,26.0,190.0,Canada,D,Right,1845936000.0,6800000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nice,1661,Hamza Koutoune,1597141,19.0,177.0,Morocco,D,Right,1845936000.0,155000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nice,1661,Melvin Bard,906075,25.0,173.0,France,D,Left,1845936000.0,10300000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nice,1661,Yehvann Diouf,845183,26.0,188.0,Senegal,G,Right,1909008000.0,6600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nice,1661,Teddy Boulhendi,1035770,25.0,185.0,Algeria,G,Right,1814313600.0,290000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nantes,1647,Mostafa Mohamed,873551,28.0,185.0,Egypt,F,Right,1814313600.0,3700000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nantes,1647,Bahereba Guirassy,1406007,19.0,177.0,France,F,Right,1845936000.0,7600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nantes,1647,Ignatius Ganago,890329,27.0,176.0,Cameroon,F,Right,1814313600.0,1900000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nantes,1647,Moustapha Dabo,2250100,18.0,182.0,France,F,Left,,315000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nantes,1647,Ibrahima Sissoko,829093,28.0,193.0,Mali,M,Right,1845936000.0,1900000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nantes,1647,Yassine Benhattab,1049528,23.0,170.0,France,M,Left,1845936000.0,1900000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nantes,1647,Johann Lepenant,963299,23.0,176.0,France,M,Right,1877472000.0,6600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nantes,1647,Louis Leroux,1405998,20.0,184.0,France,M,Left,1909008000.0,10300000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nantes,1647,Dehmaine Tabibou,1405912,21.0,181.0,France,M,Left,1909008000.0,5400000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nantes,1647,Killian Corredor,1127332,25.0,182.0,France,M,Right,1909008000.0,2900000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nantes,1647,Mathieu Cafaro,816810,29.0,175.0,France,M,Right,1845936000.0,1500000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nantes,1647,Wilitty Younoussa,1048100,24.0,174.0,Cameroon,M,Right,1845936000.0,820000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nantes,1647,Bahmed Deuff,1562126,20.0,178.0,Mauritania,M,Right,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nantes,1647,Lamine Diack,982317,25.0,186.0,Senegal,M,Right,1814313600.0,310000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nantes,1647,Fabien Centonze,802034,30.0,182.0,France,M,Right,1814313600.0,950000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nantes,1647,Malang Gomes,1499150,21.0,175.0,France,M,Right,1814313600.0,69000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nantes,1647,Sacha Ziani,1406000,23.0,168.0,France,M,Right,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nantes,1647,Jean-Kévin Duverne,845930,29.0,184.0,Haiti,D,Right,1814313600.0,2200000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nantes,1647,Ali Youssef,1107439,25.0,188.0,Libya,D,Right,1845936000.0,2600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nantes,1647,Saïdou Sow,1063237,24.0,185.0,Guinea,D,Right,1814313600.0,2400000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nantes,1647,Tylel Tati,2193204,18.0,190.0,France,D,Left,1909008000.0,26000000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nantes,1647,Frédéric Guilbert,372430,31.0,178.0,France,D,Right,1845936000.0,875000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nantes,1647,Lucas Perrin,941077,27.0,187.0,France,D,Right,1845936000.0,1900000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nantes,1647,Kelvin Amian,802143,28.0,179.0,France,D,Right,1845936000.0,2100000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nantes,1647,Sékou Doucouré,1415436,21.0,186.0,Mali,D,Right,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nantes,1647,Hugo Lamy,1153098,22.0,175.0,France,D,Right,,310000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nantes,1647,Louka Gautier,1562138,20.0,170.0,France,D,Left,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nantes,1647,Maxime Dupé,96542,33.0,186.0,France,G,Right,1845936000.0,765000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Nantes,1647,Alexis Mirbach,1196912,21.0,192.0,France,G,Right,1909008000.0,45000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Metz,1651,Habibou Diallo,802159,31.0,186.0,Senegal,F,Right,1845936000.0,4400000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Metz,1651,Pape Moussa Fall,1890424,22.0,203.0,Senegal,F,Right,1877472000.0,3700000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Metz,1651,Ibou Sane,1470032,21.0,180.0,Senegal,F,Right,1845936000.0,865000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Metz,1651,Nathan Mbala,2195736,18.0,179.0,DR Congo,F,Left,1877472000.0,4099999.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Metz,1651,Giorgi Abuashvili,985199,23.0,175.0,Georgia,F,Right,1814313600.0,960000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Metz,1651,Hamza Kadamani,2303882,16.0,187.0,Luxembourg,F,Right,1877472000.0,105000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Metz,1651,Joseph Mangondo,1928236,21.0,185.0,France,F,,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Metz,1651,Nampalys Mendy,123166,34.0,168.0,Senegal,M,Right,1814313600.0,740000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Metz,1651,Alpha Touré,1597191,20.0,180.0,Senegal,M,Left,1845936000.0,4600000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Metz,1651,Believe Munongo,2076689,16.0,188.0,France,M,Both,1877472000.0,9100000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Metz,1651,Morgan Bokele Mputu,1394735,22.0,175.0,Cameroon,M,Right,1845936000.0,930000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Metz,1651,Jessy Deminguet,902657,28.0,178.0,France,M,Left,1845936000.0,2200000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Metz,1651,Abdoulaye Ba,2229872,22.0,,Senegal,M,Right,,310000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Metz,1651,Edouard Soumah-Abbad,1444692,23.0,181.0,France,M,Right,,515000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Metz,1651,Jahyann Pandore,2509490,18.0,178.0,France,M,Right,,190000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Metz,1651,Bouna Sarr,158233,34.0,177.0,Senegal,D,Right,1845936000.0,360000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Metz,1651,Urie-Michel Mboula,1397934,23.0,183.0,Gabon,D,Left,1845936000.0,930000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Metz,1651,Cristian Castro,1067320,25.0,192.0,Colombia,D,Right,1877472000.0,860000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Metz,1651,Adam Marchal,2169639,18.0,188.0,Algeria,D,Right,1877472000.0,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Metz,1651,Florian Miguel,777067,29.0,179.0,France,D,Left,1845936000.0,1100000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Metz,1651,Maxime Colin,128285,34.0,179.0,France,D,Right,1814313600.0,260000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Metz,1651,Idris Mohamed,2168691,22.0,194.0,Comoros,D,Right,1909008000.0,320000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Metz,1651,Jean Ruiz,802139,28.0,188.0,France,D,Right,1877472000.0,1300000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Metz,1651,Cléo Mélières,1928235,21.0,175.0,France,D,Right,1845936000.0,220000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Metz,1651,Bryan Song,2683841,19.0,,France,D,,,,,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Metz,1651,Pape Sy,1463509,29.0,195.0,Senegal,G,Right,1814313600.0,635000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Metz,1651,Ousmane Ba,1002541,24.0,185.0,Senegal,G,Right,1814313600.0,110000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621
+France,Ligue 1,34,77356,Metz,1651,Jonathan Fischer,1004550,24.0,197.0,Denmark,G,Left,1877472000.0,2100000.0,EUR,FRA,2025-2026,datafc_sofascore,2026-08-09T08:27:21.086621

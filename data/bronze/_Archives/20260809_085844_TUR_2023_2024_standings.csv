@@ -1,0 +1,61 @@
+﻿country,tournament,tournament_id,season_id,team_name,team_id,position,matches,wins,draws,losses,scores_for,scores_against,points,category,_league_id,_season,_source,_scraped_at
+Turkey,Trendyol Süper Lig,52,53190,Galatasaray,3061,1,38,33,3,2,92,26,102,Total,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Fenerbahçe,3052,2,38,31,6,1,99,31,99,Total,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Trabzonspor,3051,3,38,21,4,13,69,50,67,Total,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Başakşehir FK,3086,4,38,18,7,13,57,43,61,Total,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Kasımpaşa,6063,5,38,16,8,14,62,65,56,Total,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Beşiktaş JK,3050,6,38,16,8,14,52,47,56,Total,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Sivasspor,3076,7,38,14,12,12,47,54,54,Total,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Alanyaspor,6362,8,38,12,16,10,53,50,52,Total,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Çaykur Rizespor,3064,9,38,14,8,16,48,58,50,Total,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Antalyaspor,3056,10,38,12,13,13,44,49,49,Total,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Gaziantep FK,5138,11,38,12,8,18,50,57,44,Total,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Adana Demirspor,3101,12,38,10,14,14,54,61,44,Total,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Samsunspor,3053,13,38,11,10,17,42,52,43,Total,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Kayserispor,3072,14,38,11,12,15,44,57,42,Total,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Hatayspor,3091,15,38,9,14,15,45,52,41,Total,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Konyaspor,3085,16,38,9,14,15,40,53,41,Total,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,MKE Ankaragücü,3103,17,38,8,16,14,46,52,40,Total,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Fatih Karagümrük,4954,18,38,10,10,18,49,52,40,Total,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Pendikspor,7032,19,38,9,10,19,42,73,37,Total,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,İstanbulspor,3066,20,38,4,7,27,27,80,16,Total,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Galatasaray,3061,1,19,18,0,1,51,15,54,Home,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Fenerbahçe,3052,2,19,15,3,1,59,20,48,Home,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Çaykur Rizespor,3064,3,19,11,5,3,28,15,38,Home,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Trabzonspor,3051,4,19,12,1,6,38,25,37,Home,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Samsunspor,3053,5,19,10,5,4,28,17,35,Home,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Beşiktaş JK,3050,6,19,10,4,5,29,19,34,Home,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Başakşehir FK,3086,7,19,10,3,6,30,19,33,Home,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Antalyaspor,3056,8,19,8,8,3,22,18,32,Home,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Kasımpaşa,6063,9,19,9,4,6,34,33,31,Home,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Adana Demirspor,3101,10,19,9,4,6,33,30,31,Home,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Fatih Karagümrük,4954,11,19,8,6,5,34,19,30,Home,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Alanyaspor,6362,12,19,7,8,4,32,26,29,Home,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Sivasspor,3076,13,19,7,8,4,24,20,29,Home,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Hatayspor,3091,14,19,7,7,5,30,26,28,Home,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,MKE Ankaragücü,3103,15,19,6,9,4,21,18,27,Home,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Kayserispor,3072,16,19,6,8,5,25,23,26,Home,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Gaziantep FK,5138,17,19,6,6,7,22,25,24,Home,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Konyaspor,3085,18,19,6,5,8,23,23,23,Home,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Pendikspor,7032,19,19,6,3,10,22,33,21,Home,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,İstanbulspor,3066,20,19,2,3,14,14,39,9,Home,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Fenerbahçe,3052,1,19,16,3,0,40,11,51,Away,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Galatasaray,3061,2,19,15,3,1,41,11,48,Away,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Trabzonspor,3051,3,19,9,3,7,31,25,30,Away,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Başakşehir FK,3086,4,19,8,4,7,27,24,28,Away,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Kasımpaşa,6063,5,19,7,4,8,28,32,25,Away,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Sivasspor,3076,6,19,7,4,8,23,34,25,Away,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Alanyaspor,6362,7,19,5,8,6,21,24,23,Away,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Beşiktaş JK,3050,8,19,6,4,9,23,28,22,Away,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Gaziantep FK,5138,9,19,6,2,11,28,32,20,Away,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Kayserispor,3072,10,19,5,4,10,19,34,19,Away,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Konyaspor,3085,11,19,3,9,7,17,30,18,Away,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Antalyaspor,3056,12,19,4,5,10,22,31,17,Away,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Pendikspor,7032,13,19,3,7,9,20,40,16,Away,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Hatayspor,3091,14,19,2,7,10,15,26,13,Away,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Adana Demirspor,3101,15,19,1,10,8,21,31,13,Away,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,MKE Ankaragücü,3103,16,19,2,7,10,25,34,13,Away,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Çaykur Rizespor,3064,17,19,3,3,13,20,43,12,Away,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Fatih Karagümrük,4954,18,19,2,4,13,15,33,10,Away,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,İstanbulspor,3066,19,19,2,4,13,13,41,10,Away,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313
+Turkey,Trendyol Süper Lig,52,53190,Samsunspor,3053,20,19,1,5,13,14,35,8,Away,TUR,2023-2024,datafc_sofascore,2026-08-09T08:58:44.983313

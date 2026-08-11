@@ -1,0 +1,47 @@
+﻿league,season,team,player,nation,pos,age,born,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_GA,Performance_GA90,Performance_SoTA,Performance_Saves,Performance_Save%,Performance_W,Performance_D,Performance_L,Performance_CS,Performance_CS%,Penalty Kicks_PKatt,Penalty Kicks_PKA,Penalty Kicks_PKsv,Penalty Kicks_PKm,Penalty Kicks_Save%,_league_id,_season,_stat_type,_source,_scraped_at
+ESP-La Liga,2324,Alavés,Antonio Sivera,ESP,GK,26,1996,34,34,3060,34.0,38,1.12,125,87,69.6,11,8,15,9,26.5,8,8,0,0,0.0,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Alavés,Jesús Owono,EQG,GK,22,2001,4,4,360,4.0,8,2.0,24,16,66.7,1,2,1,1,25.0,0,0,0,0,,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Almería,Diego Mariño,ESP,GK,33,1990,1,1,90,1.0,2,2.0,4,2,50.0,0,0,1,0,0.0,2,2,0,0,0.0,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Almería,Fernando,ESP,GK,33,1990,4,4,360,4.0,10,2.5,23,13,56.5,1,1,2,0,0.0,0,0,0,0,,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Almería,Luís Maximiano,POR,GK,24,1999,33,33,2970,33.0,63,1.91,171,112,63.2,2,11,20,3,9.1,7,4,1,2,20.0,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Athletic Club,Julen Agirrezabala,ESP,GK,22,2000,4,2,238,2.6,4,1.51,12,8,66.7,1,0,1,1,50.0,0,0,0,0,,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Athletic Club,Unai Simón,ESP,GK,26,1997,36,36,3182,35.4,33,0.93,121,91,72.7,18,11,7,15,41.7,5,1,3,1,75.0,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Atlético Madrid,Jan Oblak,SVN,GK,30,1993,38,38,3420,38.0,43,1.13,144,101,70.1,24,4,10,11,28.9,2,1,0,1,0.0,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Barcelona,Iñaki Peña,ESP,GK,24,1999,10,10,900,10.0,17,1.7,39,22,56.4,6,2,2,2,20.0,0,0,0,0,,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Barcelona,Marc-André ter Stegen,GER,GK,31,1992,28,28,2520,28.0,27,0.96,102,75,73.5,20,5,3,12,42.9,2,2,0,0,0.0,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Celta Vigo,Iván Villar,ESP,GK,26,1997,12,12,1014,11.3,18,1.6,45,27,60.0,2,4,6,0,0.0,3,2,1,0,33.3,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Celta Vigo,Vicente Guaita,ESP,GK,36,1987,27,26,2403,26.7,39,1.46,122,83,68.0,8,7,11,2,7.7,5,4,0,1,0.0,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Cádiz,David Gil,ESP,GK,29,1994,5,4,372,4.1,8,1.94,25,17,68.0,0,3,1,1,25.0,0,0,0,0,,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Cádiz,Jeremías Ledesma,ARG,GK,30,1993,34,34,3048,33.9,47,1.39,152,105,69.1,6,12,16,7,20.6,2,2,0,0,0.0,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Getafe,Daniel Fuzato,BRA,GK,26,1997,1,0,7,0.1,2,25.71,2,0,0.0,0,0,0,0,,0,0,0,0,,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Getafe,David Soria,ESP,GK,30,1993,38,38,3413,37.9,52,1.37,174,122,70.1,10,13,15,10,26.3,7,5,1,1,16.7,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Girona,Paulo Gazzaniga,ARG,GK,31,1992,38,38,3420,38.0,46,1.21,164,123,72.0,25,6,7,9,23.7,7,5,1,1,16.7,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Granada,André Ferreira,POR,GK,27,1996,15,14,1340,14.9,29,1.95,78,49,62.8,0,5,9,0,0.0,3,3,0,0,0.0,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Granada,Augusto Batalla,ARG,GK,27,1996,17,17,1530,17.0,28,1.65,87,59,67.8,3,4,10,3,17.6,0,0,0,0,,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Granada,Marc Martínez,ESP,GK,33,1990,3,3,270,3.0,11,3.67,23,12,52.2,0,0,3,0,0.0,2,2,0,0,0.0,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Granada,Raúl Fernández,ESP,GK,35,1988,4,4,280,3.1,11,3.54,19,8,42.1,1,0,3,0,0.0,1,0,0,1,,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Las Palmas,Aarón Escandell,ESP,GK,27,1995,2,1,153,1.7,3,1.76,4,1,25.0,0,0,1,0,0.0,0,0,0,0,,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Las Palmas,Álvaro Vallés,ESP,GK,26,1997,37,37,3263,36.3,44,1.21,147,109,70.1,10,10,17,8,21.6,8,4,3,1,42.9,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Mallorca,Dominik Greif,SVK,GK,26,1997,1,1,90,1.0,0,0.0,4,4,100.0,0,1,0,1,100.0,0,0,0,0,,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Mallorca,Iván Cuéllar,ESP,GK,39,1984,1,1,90,1.0,1,1.0,6,5,83.3,1,0,0,0,0.0,0,0,0,0,,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Mallorca,Predrag Rajković,SRB,GK,27,1995,36,36,3240,36.0,43,1.19,141,98,69.5,7,15,14,5,13.9,5,4,1,0,20.0,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Osasuna,Aitor Fernández,ESP,GK,32,1991,7,6,551,6.1,9,1.47,20,11,55.0,0,2,4,1,16.7,1,1,0,0,0.0,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Osasuna,Sergio Herrera,ESP,GK,30,1993,32,32,2869,31.9,47,1.47,132,85,64.4,12,7,13,9,28.1,1,0,1,0,100.0,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Rayo Vallecano,Dani Cárdenas,ESP,GK,26,1997,1,1,90,1.0,1,1.0,1,0,0.0,0,0,1,0,0.0,0,0,0,0,,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Rayo Vallecano,Stole Dimitrievski,MKD,GK,29,1993,37,37,3330,37.0,47,1.27,153,106,69.3,8,14,15,9,24.3,2,1,1,0,50.0,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Real Betis,Claudio Bravo,CHI,GK,40,1983,7,7,630,7.0,5,0.71,22,17,77.3,3,4,0,2,28.6,0,0,0,0,,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Real Betis,Fran Vieites,ESP,GK,24,1999,4,3,315,3.5,4,1.14,18,14,77.8,1,2,0,1,33.3,0,0,0,0,,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Real Betis,Rui Silva,POR,GK,29,1994,28,28,2475,27.5,36,1.31,122,86,70.5,10,9,9,7,25.0,8,7,1,0,12.5,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Real Madrid,Andriy Lunin,UKR,GK,24,1999,21,21,1890,21.0,17,0.81,65,48,73.8,16,5,0,4,19.0,1,1,0,0,0.0,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Real Madrid,Kepa Arrizabalaga,ESP,GK,28,1994,14,13,1198,13.3,9,0.68,39,30,76.9,10,2,1,4,30.8,0,0,0,0,,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Real Madrid,Thibaut Courtois,BEL,GK,31,1992,4,4,332,3.7,0,0.0,16,15,100.0,3,1,0,0,0.0,0,0,0,0,,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Real Sociedad,Unai Marrero,ESP,GK,21,2001,2,1,142,1.6,3,1.9,6,3,50.0,0,0,1,0,0.0,1,1,0,0,0.0,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Real Sociedad,Álex Remiro,ESP,GK,28,1995,37,37,3275,36.4,36,0.99,126,95,71.4,16,12,9,13,35.1,6,5,1,0,16.7,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Sevilla,Marko Dmitrović,SRB,GK,31,1992,13,13,1170,13.0,25,1.92,69,44,63.8,2,2,9,2,15.4,2,2,0,0,0.0,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Sevilla,Yassine Bounou,MAR,GK,32,1991,1,1,90,1.0,2,2.0,3,1,33.3,0,0,1,0,0.0,0,0,0,0,,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Sevilla,Ørjan Nyland,NOR,GK,32,1990,24,24,2160,24.0,27,1.13,106,79,74.5,8,9,7,5,20.8,3,3,0,0,0.0,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Valencia,Cristian,ESP,GK,25,1998,1,0,57,0.6,1,1.58,3,2,66.7,0,0,0,0,,0,0,0,0,,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Valencia,Giorgi Mamardashvili,GEO,GK,22,2000,37,37,3284,36.5,41,1.12,140,104,70.7,13,10,14,9,24.3,6,3,3,0,50.0,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Valencia,Jaume Doménech,ESP,GK,32,1990,2,1,79,0.9,3,3.42,12,9,75.0,0,0,1,0,0.0,0,0,0,0,,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Villarreal,Filip Jørgensen,DEN,GK,21,2002,36,36,3240,36.0,63,1.75,206,143,69.4,13,10,13,3,8.3,5,5,0,0,0.0,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03
+ESP-La Liga,2324,Villarreal,Pepe Reina,ESP,GK,40,1982,2,2,180,2.0,2,1.0,9,7,77.8,1,1,0,0,0.0,0,0,0,0,,ESP,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:46:03

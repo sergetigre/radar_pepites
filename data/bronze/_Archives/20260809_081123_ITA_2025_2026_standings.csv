@@ -1,0 +1,61 @@
+﻿country,tournament,tournament_id,season_id,team_name,team_id,position,matches,wins,draws,losses,scores_for,scores_against,points,category,_league_id,_season,_source,_scraped_at
+Italy,Serie A,23,76457,Inter,2697,1,38,27,6,5,89,35,87,Total,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,SSC Napoli,2714,2,38,23,7,8,58,36,76,Total,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,AS Roma,2702,3,38,23,4,11,59,31,73,Total,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Como,2704,4,38,20,11,7,65,29,71,Total,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,AC Milan,2692,5,38,20,10,8,53,35,70,Total,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Juventus,2687,6,38,19,12,7,61,34,69,Total,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Atalanta,2686,7,38,15,14,9,51,36,59,Total,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Bologna,2685,8,38,16,8,14,49,46,56,Total,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Lazio,2699,9,38,14,12,12,41,40,54,Total,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Udinese,2695,10,38,14,8,16,45,48,50,Total,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Sassuolo,2793,11,38,14,7,17,46,50,49,Total,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Torino,2696,12,38,12,9,17,44,63,45,Total,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Parma,2690,13,38,11,12,15,28,46,45,Total,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Cagliari,2719,14,38,11,10,17,40,53,43,Total,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Fiorentina,2693,15,38,9,15,14,41,50,42,Total,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Genoa,2713,16,38,10,11,17,41,51,41,Total,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Lecce,2689,17,38,10,8,20,28,50,38,Total,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Cremonese,2761,18,38,8,10,20,32,57,34,Total,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Hellas Verona,2701,19,38,3,12,23,25,61,21,Total,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Pisa,2737,20,38,2,12,24,26,71,18,Total,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Inter,2697,1,19,14,3,2,50,16,45,Home,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,SSC Napoli,2714,2,19,13,4,2,33,18,43,Home,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,AS Roma,2702,3,19,13,3,3,33,10,42,Home,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Juventus,2687,4,19,10,7,2,35,16,37,Home,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Como,2704,5,19,10,6,3,35,15,36,Home,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Atalanta,2686,6,19,9,6,4,25,15,33,Home,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,AC Milan,2692,7,19,9,5,5,25,21,32,Home,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Lazio,2699,8,19,8,6,5,27,25,30,Home,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Sassuolo,2793,9,19,9,2,8,25,26,29,Home,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Torino,2696,10,19,8,4,7,27,29,28,Home,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Cagliari,2719,11,19,7,4,8,22,23,25,Home,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Udinese,2695,12,19,6,5,8,18,21,23,Home,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Genoa,2713,13,19,6,4,9,22,26,22,Home,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Bologna,2685,14,19,6,4,9,19,23,22,Home,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Parma,2690,15,19,5,6,8,16,25,21,Home,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Fiorentina,2693,16,19,4,9,6,21,21,21,Home,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Lecce,2689,17,19,5,5,9,13,24,20,Home,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Cremonese,2761,18,19,3,7,9,18,29,16,Home,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Pisa,2737,19,19,2,4,13,9,26,10,Home,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Hellas Verona,2701,20,19,1,5,13,12,28,8,Home,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Inter,2697,1,19,13,3,3,39,19,42,Away,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,AC Milan,2692,2,19,11,5,3,28,14,38,Away,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Como,2704,3,19,10,5,4,30,14,35,Away,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Bologna,2685,4,19,10,4,5,30,23,34,Away,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,SSC Napoli,2714,5,19,10,3,6,25,18,33,Away,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Juventus,2687,6,19,9,5,5,26,18,32,Away,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,AS Roma,2702,7,19,10,1,8,26,21,31,Away,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Udinese,2695,8,19,8,3,8,27,27,27,Away,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Atalanta,2686,9,19,6,8,5,26,21,26,Away,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Lazio,2699,10,19,6,6,7,14,15,24,Away,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Parma,2690,11,19,6,6,7,12,21,24,Away,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Fiorentina,2693,12,19,5,6,8,20,29,21,Away,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Sassuolo,2793,13,19,5,5,9,21,24,20,Away,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Genoa,2713,14,19,4,7,8,19,25,19,Away,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Cagliari,2719,15,19,4,6,9,18,30,18,Away,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Lecce,2689,16,19,5,3,11,15,26,18,Away,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Cremonese,2761,17,19,5,3,11,14,28,18,Away,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Torino,2696,18,19,4,5,10,17,34,17,Away,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Hellas Verona,2701,19,19,2,7,10,13,33,13,Away,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930
+Italy,Serie A,23,76457,Pisa,2737,20,19,0,8,11,17,45,8,Away,ITA,2025-2026,datafc_sofascore,2026-08-09T08:11:23.362930

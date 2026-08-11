@@ -1,0 +1,34 @@
+﻿league,season,team,player,nation,pos,age,born,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_GA,Performance_GA90,Performance_SoTA,Performance_Saves,Performance_Save%,Performance_W,Performance_D,Performance_L,Performance_CS,Performance_CS%,Penalty Kicks_PKatt,Penalty Kicks_PKA,Penalty Kicks_PKsv,Penalty Kicks_PKm,Penalty Kicks_Save%,_league_id,_season,_stat_type,_source,_scraped_at
+GER-Bundesliga,2324,Augsburg,Finn Dahmen,GER,GK,25,1998,31,31,2790,31.0,52,1.68,160,108,67.5,10,9,12,3,9.7,10,7,2,1,22.2,GER,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:51:20
+GER-Bundesliga,2324,Augsburg,Tomáš Koubek,CZE,GK,30,1992,3,3,270,3.0,8,2.67,25,17,68.0,0,0,3,0,0.0,0,0,0,0,,GER,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:51:20
+GER-Bundesliga,2324,Bayern Munich,Daniel Peretz,ISR,GK,23,2000,1,0,17,0.2,0,0.0,0,0,,0,0,0,0,,0,0,0,0,,GER,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:51:20
+GER-Bundesliga,2324,Bayern Munich,Manuel Neuer,GER,GK,37,1986,23,23,2053,22.8,33,1.45,92,59,64.1,16,1,6,6,26.1,3,2,1,0,33.3,GER,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:51:20
+GER-Bundesliga,2324,Bayern Munich,Sven Ulreich,GER,GK,34,1988,11,11,990,11.0,12,1.09,31,19,61.3,7,2,2,4,36.4,1,1,0,0,0.0,GER,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:51:20
+GER-Bundesliga,2324,Bochum,Andreas Luthe,GER,GK,36,1987,1,1,90,1.0,4,4.0,5,1,20.0,0,0,1,0,0.0,0,0,0,0,,GER,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:51:20
+GER-Bundesliga,2324,Bochum,Manuel Riemann,GER,GK,34,1988,33,33,2970,33.0,70,2.12,185,115,62.2,7,12,14,4,12.1,11,9,2,0,18.2,GER,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:51:20
+GER-Bundesliga,2324,Darmstadt 98,Alexander Brunst,GER,GK,28,1995,3,3,270,3.0,10,3.33,17,7,41.2,0,1,2,0,0.0,0,0,0,0,,GER,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:51:20
+GER-Bundesliga,2324,Darmstadt 98,Marcel Schuhen,GER,GK,30,1993,31,31,2790,31.0,76,2.45,199,123,61.8,3,7,21,3,9.7,2,1,1,0,50.0,GER,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:51:20
+GER-Bundesliga,2324,Dortmund,Alexander Meyer,GER,GK,32,1991,8,7,695,7.7,9,1.17,28,19,67.9,4,1,2,3,42.9,0,0,0,0,,GER,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:51:20
+GER-Bundesliga,2324,Dortmund,Gregor Kobel,SUI,GK,25,1997,27,27,2365,26.3,34,1.29,118,84,71.2,14,8,5,7,25.9,6,5,1,0,16.7,GER,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:51:20
+GER-Bundesliga,2324,Frankfurt,Jens Grahl,GER,GK,34,1988,2,2,180,2.0,2,1.0,9,7,77.8,1,1,0,0,0.0,0,0,0,0,,GER,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:51:20
+GER-Bundesliga,2324,Frankfurt,Kevin Trapp,GER,GK,33,1990,32,32,2880,32.0,48,1.5,135,87,64.4,10,13,9,7,21.9,11,9,2,0,18.2,GER,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:51:20
+GER-Bundesliga,2324,Freiburg,Noah Atubolu,GER,GK,21,2002,34,34,3060,34.0,58,1.71,159,101,63.5,11,9,14,9,26.5,5,3,2,0,40.0,GER,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:51:20
+GER-Bundesliga,2324,Gladbach,Jonas Omlin,SUI,GK,29,1994,7,7,630,7.0,18,2.57,47,29,61.7,1,2,4,0,0.0,2,2,0,0,0.0,GER,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:51:20
+GER-Bundesliga,2324,Gladbach,Moritz Nicolas,GER,GK,25,1997,27,27,2430,27.0,49,1.81,159,113,69.2,6,11,10,4,14.8,4,4,0,0,0.0,GER,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:51:20
+GER-Bundesliga,2324,Heidenheim,Kevin Müller,GER,GK,32,1991,34,34,3060,34.0,55,1.62,178,123,69.1,10,12,12,5,14.7,10,7,1,2,12.5,GER,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:51:20
+GER-Bundesliga,2324,Hoffenheim,Oliver Baumann,GER,GK,33,1990,34,34,3060,34.0,66,1.94,209,143,68.4,13,7,14,1,2.9,5,2,3,0,60.0,GER,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:51:20
+GER-Bundesliga,2324,Köln,Marvin Schwäbe,GER,GK,28,1995,34,34,3060,34.0,60,1.76,169,109,64.5,5,12,17,3,8.8,3,3,0,0,0.0,GER,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:51:20
+GER-Bundesliga,2324,Leverkusen,Lukáš Hrádecký,FIN,GK,33,1989,33,33,2970,33.0,24,0.73,102,78,76.5,28,5,0,15,45.5,0,0,0,0,,GER,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:51:20
+GER-Bundesliga,2324,Leverkusen,Matej Kovar,CZE,GK,23,2000,1,1,90,1.0,0,0.0,3,3,100.0,0,1,0,1,100.0,0,0,0,0,,GER,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:51:20
+GER-Bundesliga,2324,Mainz 05,Daniel Batz,GER,GK,32,1991,4,4,360,4.0,3,0.75,17,14,82.4,0,2,2,1,25.0,0,0,0,0,,GER,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:51:20
+GER-Bundesliga,2324,Mainz 05,Robin Zentner,GER,GK,28,1994,30,30,2700,30.0,48,1.6,130,82,63.1,7,12,11,7,23.3,4,3,0,1,0.0,GER,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:51:20
+GER-Bundesliga,2324,RB Leipzig,Janis Blaswich,GER,GK,32,1991,21,21,1890,21.0,30,1.43,77,47,61.0,10,4,7,5,23.8,4,4,0,0,0.0,GER,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:51:20
+GER-Bundesliga,2324,RB Leipzig,Péter Gulácsi,HUN,GK,33,1990,13,13,1170,13.0,9,0.69,42,33,78.6,9,4,0,5,38.5,1,0,0,1,,GER,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:51:20
+GER-Bundesliga,2324,Stuttgart,Alexander Nübel,GER,GK,26,1996,30,30,2700,30.0,36,1.2,108,74,66.7,20,3,7,9,30.0,3,3,0,0,0.0,GER,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:51:20
+GER-Bundesliga,2324,Stuttgart,Fabian Bredlow,GER,GK,28,1995,4,4,360,4.0,3,0.75,22,19,86.4,3,1,0,1,25.0,0,0,0,0,,GER,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:51:20
+GER-Bundesliga,2324,Union Berlin,Alexander Schwolow,GER,GK,31,1992,1,1,90,1.0,2,2.0,6,4,66.7,0,0,1,0,0.0,0,0,0,0,,GER,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:51:20
+GER-Bundesliga,2324,Union Berlin,Frederik Rønnow,DEN,GK,30,1992,33,33,2970,33.0,56,1.7,162,106,65.4,9,6,18,7,21.2,7,5,2,0,28.6,GER,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:51:20
+GER-Bundesliga,2324,Werder Bremen,Jiří Pavlenka,CZE,GK,31,1992,7,7,630,7.0,17,2.43,39,22,56.4,2,0,5,1,14.3,2,2,0,0,0.0,GER,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:51:20
+GER-Bundesliga,2324,Werder Bremen,Michael Zetterer,GER,GK,28,1995,27,27,2430,27.0,37,1.37,130,93,71.5,9,9,9,5,18.5,4,4,0,0,0.0,GER,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:51:20
+GER-Bundesliga,2324,Wolfsburg,Koen Casteels,BEL,GK,31,1992,25,25,2250,25.0,39,1.56,117,78,66.7,8,6,11,3,12.0,3,2,0,1,0.0,GER,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:51:20
+GER-Bundesliga,2324,Wolfsburg,Pavao Pervan,AUT,GK,35,1987,9,9,810,9.0,17,1.89,37,20,54.1,2,1,6,2,22.2,0,0,0,0,,GER,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:51:20

@@ -1,0 +1,493 @@
+﻿league,season,team,player,nation,pos,age,born,90s,Standard_Gls,Standard_Sh,Standard_SoT,Standard_SoT%,Standard_Sh/90,Standard_SoT/90,Standard_G/Sh,Standard_G/SoT,Standard_PK,Standard_PKatt,_league_id,_season,_stat_type,_source,_scraped_at
+GER-Bundesliga,2425,Augsburg,Alexis Claude-Maurice,FRA,"MF,FW",26,1998,23.4,9,59,22,37.3,2.52,0.94,0.15,0.41,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Augsburg,Arne Engels,BEL,FW,20,2003,0.9,0,3,1,33.3,3.42,1.14,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Augsburg,Arne Maier,GER,MF,25,1999,10.4,0,18,6,33.3,1.73,0.58,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Augsburg,Cedric Zesiger,SUI,DF,26,1998,13.6,0,10,2,20.0,0.74,0.15,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Augsburg,Chrislain Matsima,FRA,DF,22,2002,28.3,1,14,2,14.3,0.49,0.07,0.07,0.5,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Augsburg,Dimitris Giannoulis,GRE,MF,28,1995,29.4,1,13,4,30.8,0.44,0.14,0.08,0.25,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Augsburg,Elvis Rexhbeçaj,KVX,MF,26,1997,19.8,1,29,5,17.2,1.46,0.25,0.03,0.2,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Augsburg,Finn Dahmen,GER,GK,26,1998,19.0,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Augsburg,Frank Onyeka,NGA,MF,26,1998,28.7,0,24,6,25.0,0.84,0.21,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Augsburg,Fredrik Jensen,FIN,"MF,FW",26,1997,8.5,0,11,0,0.0,1.3,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Augsburg,Henri Koudossou,GER,MF,24,1999,8.3,0,2,0,0.0,0.24,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Augsburg,Jeffrey Gouweleeuw,NED,DF,33,1991,32.7,1,18,5,27.8,0.55,0.15,0.06,0.2,0,1,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Augsburg,Keven Schlotterbeck,GER,DF,27,1997,14.4,3,12,5,41.7,0.83,0.35,0.25,0.6,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Augsburg,Kristijan Jakić,CRO,MF,27,1997,25.6,0,18,6,33.3,0.7,0.23,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Augsburg,Mads Pedersen,DEN,DF,27,1996,2.6,0,2,0,0.0,0.77,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Augsburg,Marius Wolf,GER,MF,29,1995,23.8,1,12,2,16.7,0.5,0.08,0.08,0.5,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Augsburg,Maximilian Bauer,GER,DF,24,2000,7.3,0,1,1,100.0,0.14,0.14,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Augsburg,Mergim Berisha,GER,FW,26,1998,0.4,0,3,1,33.3,6.75,2.25,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Augsburg,Mert Kömür,GER,MF,19,2005,7.3,2,13,7,53.8,1.79,0.96,0.15,0.29,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Augsburg,Nediljko Labrović,CRO,GK,24,1999,15.0,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Augsburg,Niklas Dorsch,GER,MF,26,1998,0.4,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Augsburg,Noahkai Banks,USA,DF,17,2006,3.1,0,1,0,0.0,0.32,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Augsburg,Phillip Tietz,GER,FW,27,1997,18.7,7,51,20,39.2,2.72,1.07,0.12,0.3,1,1,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Augsburg,Robert Gumny,POL,MF,26,1998,3.0,0,4,2,50.0,1.33,0.66,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Augsburg,Ruben Vargas,SUI,MF,25,1998,3.4,0,9,1,11.1,2.66,0.3,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Augsburg,Samuel Essende,COD,FW,26,1998,18.2,7,44,13,29.5,2.42,0.72,0.16,0.54,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Augsburg,Steve Mounié,BEN,MF,29,1994,3.9,1,22,8,36.4,5.71,2.07,0.05,0.13,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Augsburg,Tim Breithaupt,GER,MF,22,2002,1.3,0,1,0,0.0,0.75,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Augsburg,Yusuf Kabadayı,GER,FW,20,2004,0.8,1,4,1,25.0,5.07,1.27,0.25,1.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bayern Munich,Adam Aznou,MAR,DF,18,2006,0.2,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bayern Munich,Aleksandar Pavlovic,GER,MF,20,2004,16.1,1,9,4,44.4,0.56,0.25,0.11,0.25,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bayern Munich,Alphonso Davies,CAN,DF,23,2000,17.3,1,17,3,17.6,0.98,0.17,0.06,0.33,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bayern Munich,Arijon Ibrahimović,GER,MF,18,2005,0.0,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bayern Munich,Daniel Peretz,ISR,GK,24,2000,3.0,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bayern Munich,Dayot Upamecano,FRA,DF,25,1998,19.5,2,13,6,46.2,0.67,0.31,0.15,0.33,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bayern Munich,Eric Dier,ENG,DF,30,1994,16.3,2,9,6,66.7,0.55,0.37,0.22,0.33,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bayern Munich,Gabriel Vidovic,CRO,MF,20,2003,0.3,0,1,0,0.0,3.75,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bayern Munich,Harry Kane,ENG,FW,31,1993,26.5,26,114,54,47.4,4.31,2.04,0.15,0.31,9,9,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bayern Munich,Hiroki Ito,JPN,DF,25,1999,2.8,1,1,1,100.0,0.36,0.36,1.0,1.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bayern Munich,Jamal Musiala,GER,MF,21,2003,20.0,12,68,32,47.1,3.4,1.6,0.18,0.38,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bayern Munich,Jonah Kusi-Asare,SWE,FW,17,2007,0.0,0,1,0,0.0,30.0,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bayern Munich,Jonas Urbig,GER,GK,20,2003,8.0,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bayern Munich,Joshua Kimmich,GER,MF,29,1995,31.6,3,34,10,29.4,1.07,0.32,0.09,0.3,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bayern Munich,Josip Stanišić,CRO,DF,24,2000,9.7,0,2,0,0.0,0.21,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bayern Munich,João Palhinha,POR,MF,29,1995,7.5,0,10,3,30.0,1.34,0.4,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bayern Munich,Kim Min-jae,KOR,DF,27,1996,25.4,2,7,5,71.4,0.28,0.2,0.29,0.4,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bayern Munich,Kingsley Coman,FRA,MF,28,1996,14.2,5,44,17,38.6,3.09,1.19,0.11,0.29,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bayern Munich,Konrad Laimer,AUT,DF,27,1997,18.9,2,18,6,33.3,0.95,0.32,0.11,0.33,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bayern Munich,Leon Goretzka,GER,MF,29,1995,14.7,4,32,11,34.4,2.17,0.75,0.13,0.36,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bayern Munich,Leroy Sané,GER,MF,28,1996,18.2,11,67,30,44.8,3.68,1.65,0.16,0.37,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bayern Munich,Manuel Neuer,GER,GK,38,1986,22.0,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bayern Munich,Mathys Tel,FRA,MF,19,2005,2.8,0,10,3,30.0,3.52,1.05,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bayern Munich,Michael Olise,FRA,MF,22,2001,25.9,12,86,36,41.9,3.32,1.39,0.14,0.33,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bayern Munich,Raphaël Guerreiro,POR,"DF,MF",30,1993,17.5,4,21,11,52.4,1.2,0.63,0.19,0.36,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bayern Munich,Sacha Boey,FRA,DF,23,2000,6.6,0,3,1,33.3,0.46,0.15,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bayern Munich,Serge Gnabry,GER,"MF,FW",29,1995,13.8,7,49,18,36.7,3.55,1.3,0.14,0.39,0,1,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bayern Munich,Sven Ulreich,GER,GK,35,1988,1.0,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bayern Munich,Thomas Müller,GER,"MF,FW",34,1989,13.6,1,30,11,36.7,2.2,0.81,0.03,0.09,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bochum,Aliou Badara Baldé,GUI,FW,21,2002,1.0,0,4,1,25.0,3.96,0.99,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bochum,Anthony Losilla,FRA,MF,38,1986,12.6,0,5,0,0.0,0.4,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bochum,Bernardo,BRA,DF,29,1995,19.8,0,8,2,25.0,0.4,0.1,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bochum,Cristian Gamboa,CRC,MF,34,1989,2.5,1,4,1,25.0,1.59,0.4,0.25,1.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bochum,Dani de Wit,NED,"MF,FW",26,1998,12.8,2,20,7,35.0,1.56,0.55,0.1,0.29,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bochum,Erhan Mašović,SRB,"DF,MF",25,1998,10.1,1,7,4,57.1,0.69,0.4,0.14,0.25,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bochum,Felix Passlack,GER,"MF,DF",26,1998,25.9,1,26,6,23.1,1.0,0.23,0.04,0.17,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bochum,Gerrit Holtmann,PHI,"MF,DF",29,1995,12.6,2,31,8,25.8,2.46,0.63,0.06,0.25,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bochum,Giorgos Masouras,GRE,FW,30,1994,11.7,2,30,15,50.0,2.56,1.28,0.07,0.13,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bochum,Ibrahima Sissoko,MLI,MF,26,1997,29.0,2,25,8,32.0,0.86,0.28,0.08,0.25,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bochum,Ivan Ordets,UKR,DF,32,1992,20.7,0,11,0,0.0,0.53,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bochum,Jakov Medić,CRO,DF,25,1998,17.8,1,14,3,21.4,0.79,0.17,0.07,0.33,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bochum,Kacper Koscierski,GER,DF,17,2007,0.1,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bochum,Koji Miyoshi,JPN,"MF,FW",27,1997,5.2,1,12,5,41.7,2.33,0.97,0.08,0.2,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bochum,Lukas Daschner,GER,"FW,MF",25,1998,4.6,1,9,6,66.7,1.97,1.31,0.11,0.17,0,1,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bochum,Mats Pannewig,GER,MF,19,2004,3.0,0,9,3,33.3,3.03,1.01,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bochum,Matúš Bero,SVK,MF,28,1995,28.5,5,32,13,40.6,1.12,0.46,0.16,0.38,0,1,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bochum,Maximilian Wittek,GER,"DF,MF",28,1995,30.1,0,41,7,17.1,1.36,0.23,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bochum,Moritz Broschinski,GER,"FW,MF",23,2000,15.4,1,38,12,31.6,2.46,0.78,0.03,0.08,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bochum,Moritz-Broni Kwarteng,GHA,MF,26,1998,1.9,0,6,1,16.7,3.14,0.52,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bochum,Myron Boadu,NED,FW,23,2001,11.6,9,28,15,53.6,2.42,1.3,0.29,0.53,1,1,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bochum,Patrick Drewes,GER,GK,31,1993,21.0,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bochum,Philipp Hofmann,GER,FW,31,1993,25.3,3,54,19,35.2,2.13,0.75,0.06,0.16,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bochum,Samuel Bamba,GER,FW,20,2004,0.3,0,2,1,50.0,6.67,3.33,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bochum,Tim Oermann,GER,DF,20,2003,24.6,0,9,0,0.0,0.37,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bochum,Timo Horn,GER,GK,31,1993,13.0,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Bochum,Tom Krauß,GER,MF,23,2001,12.0,0,11,2,18.2,0.92,0.17,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Dortmund,Alexander Meyer,GER,GK,33,1991,2.0,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Dortmund,Almugera Kabar,GER,DF,18,2006,1.5,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Dortmund,Ayman Azhil,MAR,MF,23,2001,0.3,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Dortmund,Carney Chukwuemeka,AUT,MF,20,2003,2.8,1,8,2,25.0,2.85,0.71,0.13,0.5,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Dortmund,Cole Campbell,USA,FW,18,2006,0.2,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Dortmund,Daniel Svensson,SWE,"MF,DF",22,2002,8.7,1,6,2,33.3,0.69,0.23,0.17,0.5,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Dortmund,Donyell Malen,NED,MF,25,1999,6.8,3,19,6,31.6,2.79,0.88,0.16,0.5,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Dortmund,Emre Can,GER,"DF,MF",30,1994,23.4,3,9,3,33.3,0.38,0.13,0.11,0.33,2,2,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Dortmund,Felix Nmecha,GER,MF,23,2000,16.8,4,18,6,33.3,1.07,0.36,0.22,0.67,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Dortmund,Gio Reyna,USA,MF,21,2002,3.9,2,3,2,66.7,0.77,0.51,0.67,1.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Dortmund,Gregor Kobel,SUI,GK,26,1997,32.0,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Dortmund,Jamie Gittens,ENG,MF,19,2004,19.7,8,52,24,46.2,2.64,1.22,0.15,0.33,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Dortmund,Julian Brandt,GER,MF,28,1996,25.6,5,45,15,33.3,1.76,0.59,0.11,0.33,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Dortmund,Julian Ryerson,NOR,"DF,MF",26,1997,25.1,2,18,5,27.8,0.72,0.2,0.11,0.4,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Dortmund,Julien Duranville,BEL,MF,18,2006,3.1,0,5,2,40.0,1.59,0.64,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Dortmund,Karim Adeyemi,GER,"MF,FW",22,2002,15.9,7,46,18,39.1,2.89,1.13,0.15,0.39,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Dortmund,Kjell-Arik Wätjen,GER,MF,18,2006,0.2,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Dortmund,Marcel Sabitzer,AUT,MF,30,1994,18.0,1,21,8,38.1,1.17,0.45,0.05,0.13,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Dortmund,Maximilian Beier,GER,"MF,FW",21,2002,17.7,8,42,13,31.0,2.38,0.74,0.19,0.62,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Dortmund,Nico Schlotterbeck,GER,DF,24,1999,22.0,0,16,4,25.0,0.73,0.18,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Dortmund,Niklas Süle,GER,DF,28,1995,11.7,0,9,2,22.2,0.77,0.17,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Dortmund,Pascal Groß,GER,"MF,DF",33,1991,25.9,0,27,7,25.9,1.04,0.27,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Dortmund,Ramy Bensebaini,ALG,DF,29,1995,22.5,1,20,2,10.0,0.89,0.09,0.05,0.5,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Dortmund,Salih Özcan,TUR,MF,26,1998,4.3,0,4,0,0.0,0.92,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Dortmund,Serhou Guirassy,GUI,FW,28,1996,28.9,21,89,37,41.6,3.08,1.28,0.2,0.49,3,4,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Dortmund,Waldemar Anton,GER,DF,28,1996,21.7,2,19,3,15.8,0.88,0.14,0.11,0.67,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Dortmund,Yan Couto,BRA,"DF,MF",22,2002,9.9,0,6,2,33.3,0.6,0.2,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Dortmund,Yannik Lührs,GER,DF,20,2003,1.4,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Frankfurt,Ansgar Knauff,GER,MF,22,2002,17.7,4,30,12,40.0,1.69,0.68,0.13,0.33,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Frankfurt,Arthur Theate,BEL,DF,24,2000,30.0,0,36,9,25.0,1.2,0.3,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Frankfurt,Aurèle Amenda,SUI,DF,21,2003,1.1,0,1,0,0.0,0.94,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Frankfurt,Can Uzun,TUR,MF,18,2005,7.5,4,27,11,40.7,3.6,1.47,0.15,0.36,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Frankfurt,Ellyes Skhiri,TUN,MF,29,1995,24.8,1,13,2,15.4,0.52,0.08,0.08,0.5,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Frankfurt,Elye Wahi,CIV,FW,21,2003,2.2,0,9,2,22.2,4.13,0.92,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Frankfurt,Fares Chaïbi,ALG,MF,21,2002,11.3,1,25,6,24.0,2.22,0.53,0.04,0.17,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Frankfurt,Hugo Ekitike,FRA,FW,22,2002,28.5,15,117,48,41.0,4.11,1.69,0.12,0.29,1,3,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Frankfurt,Hugo Larsson,SWE,MF,20,2004,26.6,3,21,10,47.6,0.79,0.38,0.14,0.3,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Frankfurt,Igor Matanović,CRO,FW,21,2003,3.5,1,11,5,45.5,3.17,1.44,0.09,0.2,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Frankfurt,Jean Mattéo Bahoya,FRA,MF,19,2005,10.2,2,10,3,30.0,0.98,0.29,0.2,0.67,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Frankfurt,Junior Dina Ebimbe,CMR,MF,23,2000,3.3,0,8,0,0.0,2.46,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Frankfurt,Kauã Santos,BRA,GK,21,2003,8.5,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Frankfurt,Kevin Trapp,GER,GK,34,1990,25.5,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Frankfurt,Mahmoud Dahoud,GER,MF,28,1996,4.0,1,7,2,28.6,1.73,0.49,0.14,0.5,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Frankfurt,Mario Götze,GER,MF,32,1992,17.1,3,8,5,62.5,0.47,0.29,0.38,0.6,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Frankfurt,Michy Batshuayi,BEL,FW,30,1993,3.3,3,5,3,60.0,1.5,0.9,0.6,1.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Frankfurt,Nathaniel Brown,GER,"MF,DF",21,2003,21.6,3,13,5,38.5,0.6,0.23,0.23,0.6,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Frankfurt,Niels Nkounkou,FRA,"MF,DF",23,2000,4.2,0,4,0,0.0,0.94,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Frankfurt,Nnamdi Collins,GER,"DF,MF",20,2004,16.5,1,5,2,40.0,0.3,0.12,0.2,0.5,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Frankfurt,Omar Marmoush,EGY,"FW,MF",25,1999,16.1,15,77,36,46.8,4.79,2.24,0.17,0.36,2,2,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Frankfurt,Oscar Højlund,DEN,MF,19,2005,8.0,1,6,2,33.3,0.75,0.25,0.17,0.5,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Frankfurt,Rasmus Kristensen,DEN,"DF,MF",27,1997,27.9,5,24,8,33.3,0.86,0.29,0.21,0.63,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Frankfurt,Robin Koch,GER,DF,28,1996,28.7,3,17,6,35.3,0.59,0.21,0.18,0.5,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Frankfurt,Timothy Chandler,USA,"DF,MF",34,1990,0.3,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Frankfurt,Tuta,BRA,"DF,MF",25,1999,25.3,2,12,5,41.7,0.47,0.2,0.17,0.4,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Freiburg,Christian Günter,GER,DF,31,1993,25.7,2,20,6,30.0,0.78,0.23,0.1,0.33,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Freiburg,Eren Dinkçi,GER,MF,22,2001,13.3,0,14,3,21.4,1.05,0.23,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Freiburg,Florent Muslija,KVX,"FW,MF",26,1998,1.9,0,3,2,66.7,1.61,1.07,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Freiburg,Florian Müller,GER,GK,26,1997,8.4,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Freiburg,Ifechukwu Ogbus,SUI,DF,18,2005,0.2,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Freiburg,Jan-Niklas Beste,GER,"DF,MF",25,1999,2.4,0,6,2,33.3,2.55,0.85,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Freiburg,Johan Manzambi,SUI,MF,18,2005,3.7,2,11,3,27.3,2.96,0.81,0.18,0.67,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Freiburg,Jordy Makengo,FRA,DF,22,2001,8.3,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Freiburg,Junior Adamu,AUT,FW,23,2001,17.2,2,37,12,32.4,2.16,0.7,0.05,0.17,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Freiburg,Kiliann Sildillia,FRA,DF,22,2002,8.9,2,7,2,28.6,0.79,0.22,0.29,1.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Freiburg,Lucas Höler,GER,"FW,MF",30,1994,20.7,6,35,19,54.3,1.69,0.92,0.17,0.32,0,1,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Freiburg,Lukas Kübler,GER,DF,31,1992,20.5,5,18,11,61.1,0.88,0.54,0.28,0.45,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Freiburg,Matthias Ginter,GER,DF,30,1994,28.5,2,24,4,16.7,0.84,0.14,0.08,0.5,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Freiburg,Max Rosenfelder,GER,DF,21,2003,13.9,1,5,1,20.0,0.36,0.07,0.2,1.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Freiburg,Maximilian Eggestein,GER,MF,27,1996,31.6,2,36,12,33.3,1.14,0.38,0.06,0.17,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Freiburg,Maximilian Philipp,GER,"FW,MF",30,1994,0.2,0,1,0,0.0,5.29,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Freiburg,Merlin Röhl,GER,MF,22,2002,10.7,0,12,3,25.0,1.12,0.28,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Freiburg,Michael Gregoritsch,AUT,FW,30,1994,7.1,2,16,6,37.5,2.25,0.85,0.13,0.33,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Freiburg,Nicolas Höfler,GER,MF,34,1990,8.8,0,4,0,0.0,0.45,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Freiburg,Noah Atubolu,GER,GK,22,2002,25.6,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Freiburg,Noah Weißhaupt,GER,"FW,MF",22,2001,0.9,0,1,0,0.0,1.13,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Freiburg,Patrick Osterhage,GER,MF,24,2000,25.2,1,21,3,14.3,0.83,0.12,0.05,0.33,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Freiburg,Philipp Lienhart,AUT,DF,28,1996,30.8,1,8,1,12.5,0.26,0.03,0.13,1.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Freiburg,Ritsu Doan,JPN,MF,26,1998,31.8,10,61,23,37.7,1.92,0.72,0.16,0.43,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Freiburg,Roland Sallai,HUN,"DF,FW",27,1997,0.5,0,3,1,33.3,5.87,1.96,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Freiburg,Vincenzo Grifo,ITA,MF,31,1993,27.0,8,66,29,43.9,2.44,1.07,0.12,0.28,0,3,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Gladbach,Alassane Pléa,FRA,MF,31,1993,21.1,11,42,14,33.3,1.99,0.66,0.24,0.71,1,1,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Gladbach,Fabio Chiarodia,ITA,DF,19,2005,4.2,1,4,1,25.0,0.95,0.24,0.25,1.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Gladbach,Florian Neuhaus,GER,MF,27,1997,4.2,0,9,3,33.3,2.12,0.71,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Gladbach,Franck Honorat,FRA,MF,27,1996,16.0,4,31,9,29.0,1.94,0.56,0.13,0.44,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Gladbach,Grant Ranos,ARM,FW,21,2003,0.2,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Gladbach,Joe Scally,USA,DF,21,2002,28.6,0,6,1,16.7,0.21,0.03,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Gladbach,Jonas Omlin,SUI,GK,30,1994,10.9,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Gladbach,Julian Weigl,GER,MF,28,1995,32.0,0,19,6,31.6,0.59,0.19,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Gladbach,Kevin Stöger,AUT,MF,30,1993,17.2,3,26,12,46.2,1.51,0.7,0.04,0.08,2,2,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Gladbach,Ko Itakura,JPN,DF,27,1997,31.0,3,21,7,33.3,0.68,0.23,0.14,0.43,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Gladbach,Luca Netz,GER,DF,21,2003,10.8,0,3,0,0.0,0.28,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Gladbach,Lukas Ullrich,GER,DF,20,2004,21.1,1,8,2,25.0,0.38,0.09,0.13,0.5,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Gladbach,Marvin Friedrich,GER,DF,28,1995,11.0,0,7,2,28.6,0.64,0.18,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Gladbach,Moritz Nicolas,GER,GK,26,1997,18.2,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Gladbach,Nathan N'Goumou,CMR,MF,24,2000,9.2,2,24,13,54.2,2.61,1.41,0.08,0.15,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Gladbach,Nico Elvedi,SUI,DF,27,1996,23.7,1,12,4,33.3,0.51,0.17,0.08,0.25,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Gladbach,Noah Pesch,CRO,FW,19,2005,0.1,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Gladbach,Philipp Sander,GER,MF,26,1998,15.6,1,18,8,44.4,1.16,0.51,0.06,0.13,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Gladbach,Robin Hack,GER,MF,25,1998,24.1,4,58,24,41.4,2.4,0.99,0.07,0.17,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Gladbach,Rocco Reitz,GER,MF,22,2002,20.3,2,23,7,30.4,1.13,0.34,0.09,0.29,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Gladbach,Shiō Fukuda,JPN,FW,20,2004,0.7,1,3,1,33.3,4.5,1.5,0.33,1.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Gladbach,Stefan Lainer,AUT,DF,31,1992,8.4,1,4,1,25.0,0.48,0.12,0.25,1.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Gladbach,Tiago Cardoso,LUX,GK,18,2006,4.2,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Gladbach,Tim Kleindienst,GER,FW,28,1995,30.4,16,75,39,52.0,2.47,1.28,0.2,0.38,1,2,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Gladbach,Tobias Sippel,GER,GK,36,1988,0.7,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Gladbach,Tomáš Čvančara,CZE,"MF,FW",23,2000,9.2,2,24,9,37.5,2.6,0.97,0.08,0.22,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Heidenheim,Adrian Beck,GER,"MF,FW",27,1997,17.8,4,39,13,33.3,2.2,0.73,0.1,0.31,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Heidenheim,Benedikt Gimber,GER,DF,27,1997,29.7,0,13,1,7.7,0.44,0.03,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Heidenheim,Budu Zivzivadze,GEO,FW,30,1994,10.6,2,22,10,45.5,2.07,0.94,0.09,0.2,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Heidenheim,Denis Thomalla,GER,"FW,MF",31,1992,0.0,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Heidenheim,Frank Feller,GER,GK,20,2004,1.3,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Heidenheim,Frans Krätzig,GER,"MF,DF",21,2003,13.5,1,9,3,33.3,0.67,0.22,0.11,0.33,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Heidenheim,Jan Schöppner,GER,MF,25,1999,29.8,4,41,13,31.7,1.38,0.44,0.1,0.31,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Heidenheim,Jonas Föhrenbach,GER,"DF,MF",28,1996,20.4,0,8,1,12.5,0.39,0.05,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Heidenheim,Julian Niehues,GER,MF,23,2001,1.7,0,2,1,50.0,1.17,0.58,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Heidenheim,Kevin Müller,GER,GK,33,1991,32.7,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Heidenheim,Lennard Maloney,USA,"MF,DF",24,1999,8.4,0,3,0,0.0,0.36,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Heidenheim,Luca Kerber,GER,MF,22,2002,8.7,2,7,5,71.4,0.8,0.57,0.29,0.4,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Heidenheim,Léo Scienza,BRA,"MF,FW",25,1998,12.8,3,38,15,39.5,2.97,1.17,0.08,0.2,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Heidenheim,Marnon Busch,GER,"DF,MF",29,1994,15.5,0,13,3,23.1,0.84,0.19,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Heidenheim,Marvin Pieringer,GER,FW,24,1999,24.5,7,60,20,33.3,2.45,0.82,0.07,0.2,3,3,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Heidenheim,Mathias Honsak,AUT,"MF,FW",27,1996,13.1,5,29,10,34.5,2.21,0.76,0.17,0.5,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Heidenheim,Maximilian Breunig,GER,FW,23,2000,3.9,2,11,3,27.3,2.83,0.77,0.09,0.33,1,1,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Heidenheim,Mikkel Kaufmann,DEN,"FW,MF",23,2001,4.1,0,3,3,100.0,0.73,0.73,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Heidenheim,Niklas Dorsch,GER,MF,26,1998,14.8,2,9,3,33.3,0.61,0.2,0.22,0.67,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Heidenheim,Norman Theuerkauf,GER,"DF,MF",37,1987,0.2,0,1,0,0.0,4.09,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Heidenheim,Omar Traoré,GER,"DF,MF",26,1998,29.1,0,16,3,18.8,0.55,0.1,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Heidenheim,Patrick Mainka,GER,DF,29,1994,34.0,1,25,9,36.0,0.74,0.26,0.04,0.11,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Heidenheim,Paul Wanner,AUT,"MF,FW",18,2005,19.7,3,25,6,24.0,1.27,0.3,0.08,0.33,1,1,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Heidenheim,Sirlord Conteh,GER,"MF,FW",28,1996,9.9,1,13,5,38.5,1.31,0.5,0.08,0.2,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Heidenheim,Stefan Schimmer,GER,FW,30,1994,2.7,0,10,2,20.0,3.64,0.73,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Heidenheim,Thomas Keller,GER,"MF,DF",24,1999,1.6,0,1,0,0.0,0.61,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Heidenheim,Tim Siersleben,GER,DF,24,2000,13.1,0,4,2,50.0,0.3,0.15,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Hoffenheim,Adam Hložek,CZE,"FW,MF",22,2002,20.8,8,59,25,42.4,2.84,1.2,0.14,0.32,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Hoffenheim,Alexander Prass,AUT,"MF,DF",23,2001,17.4,0,12,1,8.3,0.69,0.06,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Hoffenheim,Andrej Kramarić,CRO,MF,33,1991,30.7,11,69,26,37.7,2.24,0.85,0.12,0.31,3,3,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Hoffenheim,Anton Stach,GER,"MF,DF",25,1998,28.7,1,35,10,28.6,1.22,0.35,0.03,0.1,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Hoffenheim,Arthur Chaves,BRA,DF,23,2001,24.3,1,11,2,18.2,0.45,0.08,0.09,0.5,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Hoffenheim,Bazoumana Touré,CIV,"MF,FW",18,2006,6.8,0,19,5,26.3,2.81,0.74,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Hoffenheim,David Jurásek,CZE,"DF,MF",23,2000,6.9,0,5,2,40.0,0.73,0.29,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Hoffenheim,David Mokwa,FRA,FW,20,2004,0.2,0,2,2,100.0,8.18,8.18,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Hoffenheim,Dennis Geiger,GER,MF,26,1998,8.2,0,5,1,20.0,0.61,0.12,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Hoffenheim,Diadie Samassékou,MLI,MF,28,1996,3.2,0,3,1,33.3,0.93,0.31,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Hoffenheim,Erencan Yardimci,TUR,FW,22,2002,3.5,0,5,1,20.0,1.44,0.29,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Hoffenheim,Finn Ole Becker,GER,MF,24,2000,7.4,0,4,2,50.0,0.54,0.27,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Hoffenheim,Florian Grillitsch,AUT,"MF,DF",28,1995,6.7,0,6,1,16.7,0.9,0.15,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Hoffenheim,Florian Micheler,AUT,MF,19,2005,0.4,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Hoffenheim,Gift Orban,NGA,FW,22,2002,7.6,4,11,4,36.4,1.44,0.52,0.36,1.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Hoffenheim,Grischa Prömel,GER,MF,29,1995,1.9,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Hoffenheim,Hannes Behrens,GER,DF,19,2005,0.3,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Hoffenheim,Haris Tabaković,BIH,FW,30,1994,9.1,3,30,10,33.3,3.29,1.1,0.1,0.3,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Hoffenheim,Ihlas Bebou,TOG,"FW,MF",30,1994,0.1,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Hoffenheim,Jacob Bruun Larsen,DEN,"MF,FW",25,1998,4.4,2,14,7,50.0,3.15,1.58,0.14,0.29,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Hoffenheim,Kevin Akpoguma,NGA,DF,29,1995,24.7,0,5,1,20.0,0.2,0.04,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Hoffenheim,Leo Østigård,NOR,DF,24,1999,10.3,0,5,0,0.0,0.49,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Hoffenheim,Luca Philipp,GER,GK,23,2000,6.0,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Hoffenheim,Marius Bülter,GER,"MF,FW",31,1993,19.2,7,38,16,42.1,1.98,0.83,0.18,0.44,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Hoffenheim,Max Moerstedt,GER,"FW,MF",18,2006,5.0,0,12,4,33.3,2.39,0.8,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Hoffenheim,Mergim Berisha,GER,FW,26,1998,3.7,1,11,3,27.3,2.97,0.81,0.09,0.33,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Hoffenheim,Oliver Baumann,GER,GK,34,1990,28.0,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Hoffenheim,Paul Hennrich,GER,MF,19,2005,0.1,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Hoffenheim,Pavel Kadeřábek,CZE,"MF,DF",32,1992,17.5,2,14,3,21.4,0.8,0.17,0.14,0.67,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Hoffenheim,Robin Hranáč,CZE,DF,24,2000,2.4,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Hoffenheim,Stanley N'Soki,FRA,DF,25,1999,14.5,0,3,1,33.3,0.21,0.07,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Hoffenheim,Tim Drexler,GER,DF,19,2005,4.0,0,2,2,100.0,0.5,0.5,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Hoffenheim,Tom Bischof,GER,MF,19,2005,28.4,5,51,18,35.3,1.79,0.63,0.1,0.28,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Hoffenheim,Umut Tohumcu,GER,MF,19,2004,4.2,0,3,1,33.3,0.72,0.24,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Hoffenheim,Valentin Gendrey,FRA,"DF,MF",24,2000,15.7,1,10,5,50.0,0.64,0.32,0.1,0.2,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Holstein Kiel,Alexander Bernhardsson,SWE,"FW,MF",25,1998,14.0,7,27,14,51.9,1.92,1.0,0.26,0.5,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Holstein Kiel,Andu Kelati,GER,MF,21,2002,3.2,1,6,3,50.0,1.87,0.94,0.17,0.33,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Holstein Kiel,Armin Gigovic,BIH,MF,22,2002,21.1,5,26,11,42.3,1.23,0.52,0.19,0.45,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Holstein Kiel,Benedikt Pichler,AUT,FW,27,1997,8.7,1,20,9,45.0,2.29,1.03,0.05,0.11,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Holstein Kiel,Carl Johansson,SWE,DF,30,1994,6.3,0,1,1,100.0,0.16,0.16,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Holstein Kiel,David Zec,SVN,DF,24,2000,17.1,2,11,5,45.5,0.64,0.29,0.18,0.4,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Holstein Kiel,Dominik Javorček,SVK,"MF,DF",21,2002,4.3,0,1,0,0.0,0.23,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Holstein Kiel,Finn Porath,GER,MF,27,1997,21.9,2,29,12,41.4,1.32,0.55,0.07,0.17,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Holstein Kiel,Ivan Nekić,CRO,DF,23,2000,0.8,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Holstein Kiel,Jann-Fiete Arp,GER,FW,24,2000,7.9,2,22,11,50.0,2.78,1.39,0.05,0.09,1,2,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Holstein Kiel,John Tolkin,USA,"MF,DF",22,2002,8.2,0,2,0,0.0,0.24,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Holstein Kiel,Lasse Rosenboom,GER,MF,22,2002,19.3,2,12,5,41.7,0.62,0.26,0.17,0.4,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Holstein Kiel,Lewis Holtby,GER,MF,33,1990,13.8,0,7,1,14.3,0.51,0.07,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Holstein Kiel,Magnus Knudsen,NOR,MF,23,2001,20.6,0,12,4,33.3,0.58,0.19,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Holstein Kiel,Marco Komenda,CRO,DF,27,1996,14.5,0,3,0,0.0,0.21,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Holstein Kiel,Marko Ivezić,SRB,DF,22,2001,18.4,0,7,0,0.0,0.38,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Holstein Kiel,Marvin Schulz,GER,"DF,MF",29,1995,3.4,0,3,1,33.3,0.88,0.29,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Holstein Kiel,Max Geschwill,GER,DF,23,2001,14.2,1,9,2,22.2,0.63,0.14,0.11,0.5,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Holstein Kiel,Nicolai Remberg,GER,MF,24,2000,26.9,0,24,3,12.5,0.89,0.11,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Holstein Kiel,Patrick Erras,GER,DF,29,1995,9.2,1,8,1,12.5,0.87,0.11,0.13,1.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Holstein Kiel,Phil Harres,GER,FW,22,2002,17.2,8,37,17,45.9,2.16,0.99,0.22,0.47,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Holstein Kiel,Shuto Machino,JPN,"FW,MF",24,1999,21.7,11,51,23,45.1,2.35,1.06,0.18,0.39,2,2,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Holstein Kiel,Steven Skrzybski,GER,"FW,MF",31,1992,14.7,6,33,13,39.4,2.24,0.88,0.15,0.38,1,1,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Holstein Kiel,Thomas Dähne,GER,GK,30,1994,9.0,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Holstein Kiel,Timo Becker,GER,"DF,MF",27,1997,27.2,0,17,4,23.5,0.63,0.15,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Holstein Kiel,Timon Weiner,GER,GK,25,1999,25.0,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Holstein Kiel,Tymoteusz Puchacz,POL,MF,25,1999,4.4,0,4,1,25.0,0.91,0.23,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Leverkusen,Aleix García,ESP,MF,27,1997,16.2,3,15,5,33.3,0.93,0.31,0.2,0.6,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Leverkusen,Amine Adli,MAR,"MF,FW",24,2000,8.5,2,20,7,35.0,2.35,0.82,0.1,0.29,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Leverkusen,Arthur,BRA,"MF,DF",21,2003,8.4,0,1,0,0.0,0.12,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Leverkusen,Edmond Tapsoba,BFA,DF,25,1999,27.9,0,21,2,9.5,0.75,0.07,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Leverkusen,Emi Buendía,ARG,MF,27,1996,2.9,2,7,4,57.1,2.45,1.4,0.29,0.5,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Leverkusen,Exequiel Palacios,ARG,MF,25,1998,12.8,1,13,9,69.2,1.01,0.7,0.08,0.11,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Leverkusen,Florian Wirtz,GER,MF,21,2003,26.1,10,78,39,50.0,2.99,1.49,0.1,0.21,2,4,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Leverkusen,Granit Xhaka,SUI,MF,31,1992,32.1,2,21,3,14.3,0.65,0.09,0.1,0.67,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Leverkusen,Jeanuël Belocian,FRA,DF,19,2005,0.8,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Leverkusen,Jeremie Frimpong,NED,MF,23,2000,25.7,5,34,16,47.1,1.32,0.62,0.15,0.31,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Leverkusen,Jonas Hofmann,GER,MF,32,1992,4.0,2,9,5,55.6,2.28,1.26,0.22,0.4,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Leverkusen,Jonathan Tah,GER,DF,28,1996,33.0,3,24,7,29.2,0.73,0.21,0.13,0.43,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Leverkusen,Lukáš Hrádecký,FIN,GK,34,1989,29.0,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Leverkusen,Mario Hermoso,ESP,DF,29,1995,3.3,0,4,0,0.0,1.23,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Leverkusen,Martin Terrier,FRA,"MF,FW",27,1997,6.5,2,16,6,37.5,2.47,0.92,0.13,0.33,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Leverkusen,Matej Kovar,CZE,GK,24,2000,5.0,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Leverkusen,Nathan Tella,NGA,"MF,FW",25,1999,15.1,2,28,11,39.3,1.85,0.73,0.07,0.18,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Leverkusen,Nordi Mukiele,FRA,"DF,MF",26,1997,10.0,1,7,3,42.9,0.7,0.3,0.14,0.33,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Leverkusen,Patrik Schick,CZE,FW,28,1996,18.7,21,68,34,50.0,3.63,1.82,0.29,0.59,1,1,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Leverkusen,Piero Hincapié,ECU,DF,22,2002,29.7,2,22,3,13.6,0.74,0.1,0.09,0.67,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Leverkusen,Robert Andrich,GER,"MF,DF",29,1994,17.8,2,21,5,23.8,1.18,0.28,0.1,0.4,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Leverkusen,Victor Boniface,NGA,FW,23,2000,11.2,8,51,18,35.3,4.55,1.61,0.16,0.44,0,1,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Leverkusen,Álex Grimaldo,ESP,MF,28,1995,29.3,2,44,14,31.8,1.5,0.48,0.05,0.14,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Mainz 05,Andreas Hanche-Olsen,NOR,DF,27,1997,14.3,1,12,2,16.7,0.84,0.14,0.08,0.5,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Mainz 05,Anthony Caci,FRA,MF,27,1997,29.8,1,32,12,37.5,1.07,0.4,0.03,0.08,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Mainz 05,Armindo Sieb,GER,"MF,FW",21,2003,8.5,2,29,7,24.1,3.43,0.83,0.07,0.29,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Mainz 05,Arnaud Nordin,FRA,"FW,MF",26,1998,0.9,0,1,0,0.0,1.13,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Mainz 05,Aymen Barkok,MAR,MF,26,1998,0.8,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Mainz 05,Danny da Costa,GER,DF,31,1993,22.3,0,5,1,20.0,0.22,0.04,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Mainz 05,Dominik Kohr,GER,"DF,MF",30,1994,25.5,2,13,5,38.5,0.51,0.2,0.15,0.4,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Mainz 05,Gabriel Vidovic,CRO,MF,20,2003,0.0,0,1,0,0.0,22.5,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Mainz 05,Hong Hyunseok,KOR,MF,25,1999,5.9,0,5,2,40.0,0.85,0.34,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Mainz 05,Jonathan Burkardt,GER,FW,24,2000,23.4,18,72,30,41.7,3.07,1.28,0.22,0.53,2,2,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Mainz 05,Kaishū Sano,JPN,MF,23,2000,33.8,0,20,2,10.0,0.59,0.06,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Mainz 05,Karim Onisiwo,AUT,MF,32,1992,1.2,0,3,0,0.0,2.45,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Mainz 05,Lasse Rieß,GER,GK,23,2001,2.0,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Mainz 05,Lee Jae-sung,KOR,MF,31,1992,29.4,7,39,16,41.0,1.32,0.54,0.18,0.44,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Mainz 05,Lennard Maloney,USA,"DF,MF",24,1999,0.3,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Mainz 05,Maxim Leitsch,GER,DF,26,1998,7.5,1,6,1,16.7,0.8,0.13,0.17,1.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Mainz 05,Moritz Jenz,GER,DF,25,1999,17.8,0,10,4,40.0,0.56,0.23,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Mainz 05,Nadiem Amiri,GER,MF,27,1996,27.5,7,62,26,41.9,2.26,0.95,0.08,0.19,2,2,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Mainz 05,Nelson Weiper,GER,FW,19,2005,7.8,3,23,13,56.5,2.94,1.66,0.13,0.23,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Mainz 05,Nikolas Veratschnig,AUT,MF,21,2003,4.0,0,7,1,14.3,1.73,0.25,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Mainz 05,Paul Nebel,GER,MF,21,2002,26.1,10,44,18,40.9,1.69,0.69,0.23,0.56,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Mainz 05,Phillipp Mwene,AUT,MF,30,1994,29.0,1,21,5,23.8,0.72,0.17,0.05,0.2,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Mainz 05,Robin Zentner,GER,GK,29,1994,32.0,0,1,0,0.0,0.03,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Mainz 05,Silvan Widmer,SUI,MF,31,1993,5.6,0,3,1,33.3,0.54,0.18,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Mainz 05,Stefan Bell,GER,DF,32,1991,16.0,0,12,4,33.3,0.75,0.25,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,RB Leipzig,Amadou Haidara,MLI,MF,26,1998,14.7,0,18,2,11.1,1.23,0.14,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,RB Leipzig,André Silva,POR,FW,28,1995,1.5,1,8,3,37.5,5.45,2.05,0.0,0.0,1,1,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,RB Leipzig,Antonio Nusa,NOR,"MF,DF",19,2005,17.3,3,24,7,29.2,1.39,0.4,0.13,0.43,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,RB Leipzig,Arthur Vermeeren,BEL,MF,19,2005,17.5,0,4,1,25.0,0.23,0.06,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,RB Leipzig,Assan Ouédraogo,GER,MF,18,2006,0.6,0,1,0,0.0,1.8,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,RB Leipzig,Benjamin Henrichs,GER,"DF,MF",27,1997,10.4,0,10,1,10.0,0.96,0.1,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,RB Leipzig,Benjamin Šeško,SVN,"FW,MF",21,2003,26.4,13,68,31,45.6,2.57,1.17,0.16,0.35,2,2,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,RB Leipzig,Castello Lukeba,FRA,DF,21,2002,17.5,0,4,1,25.0,0.23,0.06,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,RB Leipzig,Christoph Baumgartner,AUT,"MF,FW",24,1999,17.9,2,39,15,38.5,2.18,0.84,0.05,0.13,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,RB Leipzig,David Raum,GER,"MF,DF",26,1998,19.8,1,9,4,44.4,0.45,0.2,0.11,0.25,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,RB Leipzig,El Chadaille Bitshiabu,FRA,DF,19,2005,12.6,0,5,3,60.0,0.4,0.24,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,RB Leipzig,Elif Elmas,MKD,"FW,MF",24,1999,0.5,0,2,1,50.0,4.09,2.05,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,RB Leipzig,Faik Sakar,GER,MF,16,2008,0.0,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,RB Leipzig,Kevin Kampl,SVN,MF,33,1990,17.7,1,7,2,28.6,0.4,0.11,0.14,0.5,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,RB Leipzig,Kosta Nedeljković,SRB,"DF,MF",18,2005,5.3,0,4,0,0.0,0.75,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,RB Leipzig,Loïs Openda,BEL,FW,24,2000,27.3,9,78,33,42.3,2.86,1.21,0.12,0.27,0,1,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,RB Leipzig,Lukas Klostermann,GER,DF,28,1996,20.4,1,4,2,50.0,0.2,0.1,0.25,0.5,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,RB Leipzig,Lutsharel Geertruida,NED,DF,24,2000,17.3,1,8,2,25.0,0.46,0.12,0.13,0.5,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,RB Leipzig,Maarten Vandevoordt,BEL,GK,22,2002,4.8,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,RB Leipzig,Mohamed Simakan,FRA,DF,24,2000,0.6,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,RB Leipzig,Nicolas Seiwald,AUT,"MF,DF",23,2001,23.2,0,5,0,0.0,0.22,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,RB Leipzig,Péter Gulácsi,HUN,GK,34,1990,29.2,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,RB Leipzig,Ridle Baku,GER,MF,26,1998,14.2,2,17,5,29.4,1.2,0.35,0.12,0.4,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,RB Leipzig,Tidiam Gomis,FRA,FW,17,2006,1.7,0,5,1,20.0,2.96,0.59,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,RB Leipzig,Viggo Gebel,GER,MF,16,2007,0.2,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,RB Leipzig,Willi Orban,HUN,DF,31,1992,24.7,5,22,7,31.8,0.89,0.28,0.23,0.71,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,RB Leipzig,Xaver Schlager,AUT,MF,26,1997,2.0,0,1,0,0.0,0.5,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,RB Leipzig,Xavi Simons,NED,MF,21,2003,23.9,10,50,23,46.0,2.09,0.96,0.2,0.43,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,RB Leipzig,Yussuf Poulsen,DEN,"MF,FW",30,1994,4.2,2,14,7,50.0,3.33,1.67,0.14,0.29,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,St Pauli,Abdoulie Ceesay,GAM,FW,20,2004,0.7,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,St Pauli,Adam Dźwigała,POL,DF,28,1995,4.1,0,6,0,0.0,1.45,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,St Pauli,Andreas Albers,DEN,"FW,MF",34,1990,0.7,1,3,1,33.3,4.35,1.45,0.33,1.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,St Pauli,Ben Alexander Voll,GER,GK,23,2000,1.0,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,St Pauli,Carlo Boukhalfa,MAR,MF,25,1999,18.3,2,21,4,19.0,1.15,0.22,0.1,0.5,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,St Pauli,Connor Metcalfe,AUS,"MF,FW",24,1999,4.0,0,6,3,50.0,1.51,0.75,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,St Pauli,Danel Sinani,LUX,"FW,MF",27,1997,13.9,2,35,12,34.3,2.52,0.86,0.06,0.17,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,St Pauli,Dapo Afolayan,ENG,"FW,MF",26,1997,18.2,3,38,13,34.2,2.09,0.71,0.08,0.23,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,St Pauli,David Nemeth,AUT,DF,23,2001,23.7,0,5,1,20.0,0.21,0.04,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,St Pauli,Elias Saad,TUN,"FW,MF",24,1999,10.0,3,26,8,30.8,2.6,0.8,0.12,0.38,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,St Pauli,Eric Smith,SWE,"DF,MF",27,1997,31.4,1,24,9,37.5,0.76,0.29,0.04,0.11,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,St Pauli,Erik Ahlstrand,SWE,MF,22,2001,0.5,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,St Pauli,Finley Stevens,WAL,DF,21,2003,0.0,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,St Pauli,Hauke Wahl,GER,DF,30,1994,33.0,0,11,4,36.4,0.33,0.12,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,St Pauli,Jackson Irvine,AUS,MF,31,1993,29.0,0,41,13,31.7,1.41,0.45,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,St Pauli,James Sands,USA,MF,24,2000,5.0,0,1,0,0.0,0.2,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,St Pauli,Johannes Eggestein,GER,FW,26,1998,20.6,3,36,13,36.1,1.75,0.63,0.06,0.15,1,2,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,St Pauli,Karol Mets,EST,DF,31,1993,10.0,0,3,0,0.0,0.3,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,St Pauli,Lars Ritzka,GER,"MF,DF",26,1998,10.2,1,8,1,12.5,0.78,0.1,0.13,1.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,St Pauli,Manolis Saliakas,GRE,MF,27,1996,25.7,2,29,6,20.7,1.13,0.23,0.07,0.33,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,St Pauli,Maurides,BRA,FW,30,1994,0.0,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,St Pauli,Morgan Guilavogui,GUI,"FW,MF",26,1998,20.1,6,41,15,36.6,2.04,0.75,0.15,0.4,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,St Pauli,Nikola Vasilj,BIH,GK,28,1995,33.0,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,St Pauli,Noah Weißhaupt,GER,"FW,MF",22,2001,12.9,1,18,4,22.2,1.4,0.31,0.06,0.25,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,St Pauli,Philipp Treu,GER,MF,23,2000,32.0,0,18,4,22.2,0.56,0.12,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,St Pauli,Robert Wagner,GER,MF,21,2003,4.5,0,2,0,0.0,0.44,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,St Pauli,Scott Banks,SCO,MF,22,2001,1.3,0,3,0,0.0,2.33,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,St Pauli,Siebe Van Der Heyden,BEL,"DF,MF",26,1998,9.7,1,3,2,66.7,0.31,0.21,0.33,0.5,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Stuttgart,Alexander Nübel,GER,GK,27,1996,34.0,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Stuttgart,Ameen Al-Dakhil,BEL,DF,22,2002,4.8,0,1,0,0.0,0.21,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Stuttgart,Angelo Stiller,GER,MF,23,2001,30.5,1,21,4,19.0,0.69,0.13,0.05,0.25,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Stuttgart,Anrie Chase,JPN,DF,20,2004,8.2,0,5,0,0.0,0.61,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Stuttgart,Anthony Rouault,FRA,DF,23,2001,13.5,1,5,1,20.0,0.37,0.07,0.2,1.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Stuttgart,Atakan Karazor,TUR,MF,27,1996,29.1,2,14,7,50.0,0.48,0.24,0.14,0.29,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Stuttgart,Chris Führich,GER,MF,26,1998,22.0,2,36,12,33.3,1.64,0.55,0.06,0.17,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Stuttgart,Dan-Axel Zagadou,FRA,DF,25,1999,0.3,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Stuttgart,Deniz Undav,GER,"FW,MF",28,1996,19.2,9,75,31,41.3,3.91,1.62,0.12,0.29,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Stuttgart,El Bilal Touré,MLI,FW,22,2001,4.0,2,14,4,28.6,3.54,1.01,0.14,0.5,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Stuttgart,Enzo Millot,FRA,MF,22,2002,20.5,6,44,19,43.2,2.15,0.93,0.14,0.32,0,1,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Stuttgart,Ermedin Demirović,BIH,FW,26,1998,20.6,15,65,30,46.2,3.15,1.46,0.23,0.5,0,2,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Stuttgart,Fabian Rieder,SUI,MF,22,2002,9.6,1,20,7,35.0,2.08,0.73,0.05,0.14,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Stuttgart,Finn Jeltsch,GER,DF,18,2006,8.7,0,2,0,0.0,0.23,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Stuttgart,Frans Krätzig,GER,DF,21,2003,0.6,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Stuttgart,Jacob Bruun Larsen,DEN,MF,25,1998,4.6,1,6,3,50.0,1.3,0.65,0.17,0.33,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Stuttgart,Jamie Leweling,GER,MF,23,2001,18.5,2,29,16,55.2,1.57,0.87,0.07,0.13,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Stuttgart,Jarzinho Malanga,GER,MF,18,2006,0.0,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Stuttgart,Josha Vagnoman,GER,"DF,MF",23,2000,20.4,1,15,7,46.7,0.74,0.34,0.07,0.14,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Stuttgart,Julian Chabot,GER,DF,26,1998,25.2,3,19,4,21.1,0.75,0.16,0.16,0.75,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Stuttgart,Justin Diehl,GER,MF,19,2004,1.2,1,7,1,14.3,6.06,0.87,0.14,1.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Stuttgart,Leonidas Stergiou,SUI,DF,22,2002,9.5,1,3,1,33.3,0.32,0.11,0.33,1.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Stuttgart,Luca Jaquez,SUI,DF,21,2003,2.8,0,1,0,0.0,0.36,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Stuttgart,Maximilian Mittelstädt,GER,"DF,MF",27,1997,27.4,1,21,4,19.0,0.77,0.15,0.05,0.25,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Stuttgart,Nick Woltemade,GER,"FW,MF",22,2002,18.0,12,49,26,53.1,2.72,1.44,0.2,0.38,2,3,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Stuttgart,Nikolas Nartey,DEN,MF,24,2000,0.2,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Stuttgart,Pascal Stenzel,GER,DF,28,1996,3.2,0,8,2,25.0,2.48,0.62,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Stuttgart,Ramon Hendriks,NED,DF,23,2001,12.8,0,5,1,20.0,0.39,0.08,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Stuttgart,Yannik Keitel,GER,MF,24,2000,3.0,0,5,2,40.0,1.67,0.67,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Union Berlin,Alexander Schwolow,GER,GK,32,1992,6.0,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Union Berlin,Aljoscha Kemlein,GER,MF,19,2004,10.2,1,11,3,27.3,1.07,0.29,0.09,0.33,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Union Berlin,Andrej Ilic,SRB,FW,24,2000,10.4,7,27,11,40.7,2.59,1.06,0.22,0.55,1,1,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Union Berlin,András Schäfer,HUN,MF,25,1999,17.0,1,12,1,8.3,0.7,0.06,0.08,1.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Union Berlin,Benedict Hollerbach,GER,"FW,MF",23,2001,28.2,9,77,24,31.2,2.73,0.85,0.12,0.38,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Union Berlin,Christopher Trimmel,AUT,"MF,DF",37,1987,19.3,0,9,3,33.3,0.47,0.16,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Union Berlin,Danilho Doekhi,NED,DF,26,1998,34.0,1,32,4,12.5,0.94,0.12,0.03,0.25,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Union Berlin,David Preu,GER,MF,19,2004,1.3,0,2,0,0.0,1.49,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Union Berlin,Diogo Leite,POR,DF,25,1999,28.3,1,18,8,44.4,0.64,0.28,0.06,0.13,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Union Berlin,Frederik Rønnow,DEN,GK,31,1992,28.0,0,1,0,0.0,0.04,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Union Berlin,Ivan Prtajin,CRO,FW,28,1996,1.8,0,8,2,25.0,4.47,1.12,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Union Berlin,Janik Haberer,GER,MF,30,1994,18.8,0,15,3,20.0,0.8,0.16,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Union Berlin,Jeong Woo-yeong,KOR,"MF,FW",24,1999,14.0,3,25,6,24.0,1.78,0.43,0.12,0.5,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Union Berlin,Jordan Pefok,USA,FW,28,1996,10.1,0,23,8,34.8,2.28,0.79,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Union Berlin,Josip Juranović,CRO,"MF,DF",28,1995,12.9,0,6,2,33.3,0.47,0.16,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Union Berlin,Jérôme Roussillon,GLP,DF,31,1993,1.5,0,2,0,0.0,1.32,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Union Berlin,Kevin Vogt,GER,DF,32,1991,15.2,1,1,1,100.0,0.07,0.07,0.0,0.0,1,1,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Union Berlin,Kevin Volland,GER,"FW,MF",32,1992,0.7,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Union Berlin,Leopold Querfeld,AUT,DF,20,2003,19.4,2,16,4,25.0,0.82,0.21,0.13,0.5,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Union Berlin,Lucas Tousart,FRA,MF,27,1997,6.2,0,9,5,55.6,1.44,0.8,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Union Berlin,László Bénes,SVK,"MF,FW",26,1997,6.5,2,19,7,36.8,2.9,1.07,0.11,0.29,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Union Berlin,Marin Ljubicic,CRO,FW,22,2002,3.1,1,2,1,50.0,0.64,0.32,0.5,1.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Union Berlin,Rani Khedira,TUN,MF,30,1994,30.3,1,14,1,7.1,0.46,0.03,0.07,1.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Union Berlin,Robert Skov,DEN,"MF,DF",28,1996,9.5,2,17,6,35.3,1.8,0.63,0.06,0.17,1,1,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Union Berlin,Robin Gosens,GER,MF,30,1994,1.0,0,1,0,0.0,1.0,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Union Berlin,Tim Skarke,GER,"FW,MF",27,1996,12.9,0,20,9,45.0,1.55,0.7,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Union Berlin,Tom Rothe,GER,"MF,DF",19,2004,18.6,3,22,9,40.9,1.19,0.49,0.14,0.33,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Union Berlin,Yorbe Vertessen,BEL,"MF,FW",23,2001,8.0,1,27,5,18.5,3.38,0.63,0.04,0.2,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Werder Bremen,Amos Pieper,GER,DF,26,1998,16.6,0,7,1,14.3,0.42,0.06,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Werder Bremen,André Silva,POR,FW,28,1995,4.2,1,14,7,50.0,3.36,1.68,0.0,0.0,1,2,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Werder Bremen,Anthony Jung,GER,DF,32,1991,21.1,0,1,0,0.0,0.05,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Werder Bremen,Derrick Köhn,GHA,"MF,DF",25,1999,14.9,2,13,4,30.8,0.87,0.27,0.15,0.5,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Werder Bremen,Felix Agu,NGA,MF,24,1999,19.5,3,10,5,50.0,0.51,0.26,0.3,0.6,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Werder Bremen,Issa Kaboré,BFA,MF,23,2001,3.4,0,7,0,0.0,2.05,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Werder Bremen,Jens Stage,DEN,MF,27,1996,24.5,10,44,15,34.1,1.8,0.61,0.23,0.67,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Werder Bremen,Julián Malatini,ARG,DF,23,2001,5.0,1,3,1,33.3,0.59,0.2,0.33,1.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Werder Bremen,Justin Njinmah,GER,"FW,MF",23,2000,10.6,3,31,7,22.6,2.93,0.66,0.1,0.43,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Werder Bremen,Keke Topp,GER,FW,20,2004,2.8,2,7,4,57.1,2.5,1.43,0.29,0.5,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Werder Bremen,Leonardo Bittencourt,GER,MF,30,1993,10.9,2,27,9,33.3,2.47,0.82,0.07,0.22,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Werder Bremen,Marco Friedl,AUT,DF,26,1998,24.0,0,4,3,75.0,0.17,0.12,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Werder Bremen,Marco Grüll,AUT,"FW,MF",26,1998,13.1,6,25,10,40.0,1.91,0.76,0.24,0.6,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Werder Bremen,Marvin Ducksch,GER,FW,30,1994,26.9,8,71,29,40.8,2.64,1.08,0.1,0.24,1,2,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Werder Bremen,Michael Zetterer,GER,GK,29,1995,34.0,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Werder Bremen,Miloš Veljković,SRB,DF,28,1995,11.4,0,2,1,50.0,0.17,0.09,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Werder Bremen,Mitchell Weiser,GER,MF,30,1994,31.9,5,43,15,34.9,1.35,0.47,0.12,0.33,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Werder Bremen,Niklas Stark,GER,DF,29,1995,23.4,0,12,3,25.0,0.51,0.13,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Werder Bremen,Oliver Burke,SCO,FW,27,1997,10.1,5,35,13,37.1,3.47,1.29,0.14,0.38,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Werder Bremen,Olivier Deman,BEL,"DF,FW",24,2000,0.7,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Werder Bremen,Romano Schmid,AUT,MF,24,2000,31.5,5,48,15,31.3,1.52,0.48,0.08,0.27,1,1,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Werder Bremen,Senne Lynen,BEL,MF,25,1999,30.4,0,24,3,12.5,0.79,0.1,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Werder Bremen,Skelly Alvero,FRA,MF,22,2002,2.6,0,1,0,0.0,0.38,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Wolfsburg,Andreas Skov Olsen,DEN,"MF,FW",24,1999,5.9,1,7,1,14.3,1.18,0.17,0.14,1.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Wolfsburg,Aster Vranckx,BEL,MF,21,2002,6.2,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Wolfsburg,Bence Dárdai,HUN,MF,18,2006,14.5,1,11,1,9.1,0.76,0.07,0.09,1.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Wolfsburg,Cedric Zesiger,SUI,DF,26,1998,5.8,0,2,1,50.0,0.34,0.17,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Wolfsburg,David Odogu,GER,DF,18,2006,2.2,0,2,0,0.0,0.92,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Wolfsburg,Denis Vavro,SVK,DF,28,1996,27.3,2,25,7,28.0,0.91,0.26,0.08,0.29,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Wolfsburg,Jakub Kamiński,POL,"MF,DF",22,2002,12.6,0,15,3,20.0,1.19,0.24,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Wolfsburg,Joakim Mæhle,DEN,"DF,MF",27,1997,24.3,3,18,7,38.9,0.74,0.29,0.17,0.43,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Wolfsburg,Jonas Wind,DEN,"FW,MF",25,1999,21.8,9,40,13,32.5,1.83,0.6,0.2,0.62,1,2,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Wolfsburg,Kamil Grabara,POL,GK,25,1999,28.7,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Wolfsburg,Kevin Behrens,GER,FW,33,1991,1.9,1,9,3,33.3,4.76,1.59,0.11,0.33,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Wolfsburg,Kevin Paredes,USA,MF,21,2003,1.4,0,4,0,0.0,2.93,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Wolfsburg,Kilian Fischer,GER,DF,23,2000,25.5,1,6,1,16.7,0.24,0.04,0.17,1.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Wolfsburg,Konstantinos Koulierakis,GRE,DF,20,2003,27.4,0,22,3,13.6,0.8,0.11,0.0,0.0,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Wolfsburg,Lovro Majer,CRO,MF,26,1998,3.4,2,7,5,71.4,2.07,1.48,0.14,0.2,1,1,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Wolfsburg,Lukas Nmecha,GER,FW,25,1998,5.2,3,20,9,45.0,3.85,1.73,0.15,0.33,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Wolfsburg,Mads Roerslev,DEN,DF,25,1999,3.3,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Wolfsburg,Marius Müller,GER,GK,31,1993,5.3,0,0,0,,0.0,0.0,,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Wolfsburg,Mattias Svanberg,SWE,MF,25,1999,13.5,3,21,8,38.1,1.55,0.59,0.14,0.38,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Wolfsburg,Maximilian Arnold,GER,MF,30,1994,26.2,3,27,12,44.4,1.03,0.46,0.11,0.25,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Wolfsburg,Mohamed Amoura,ALG,"FW,MF",24,2000,27.4,10,76,28,36.8,2.77,1.02,0.11,0.29,2,2,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Wolfsburg,Patrick Wimmer,AUT,"MF,FW",23,2001,19.7,3,42,10,23.8,2.14,0.51,0.07,0.3,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Wolfsburg,Ridle Baku,GER,MF,26,1998,13.0,2,18,6,33.3,1.38,0.46,0.11,0.33,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Wolfsburg,Salih Özcan,TUR,MF,26,1998,3.9,0,2,0,0.0,0.51,0.0,0.0,,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Wolfsburg,Sebastiaan Bornauw,BEL,DF,25,1999,8.8,2,8,3,37.5,0.91,0.34,0.25,0.67,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Wolfsburg,Tiago Tomás,POR,"MF,FW",22,2002,20.9,6,42,20,47.6,2.01,0.96,0.14,0.3,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11
+GER-Bundesliga,2425,Wolfsburg,Yannick Gerhardt,GER,"MF,DF",30,1994,16.9,1,15,4,26.7,0.89,0.24,0.07,0.25,0,0,GER,2024-2025,shooting,fbref_soccerdata,2026-08-10 21:52:11

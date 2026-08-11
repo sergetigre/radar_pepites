@@ -1,0 +1,26 @@
+2026-08-08 21:52:09,484 [INFO] Récupération du buildId FotMob...
+2026-08-08 21:52:09,860 [INFO] buildId trouvé : Nk9gsZhhMk8nhbCyh5Zwa
+2026-08-08 21:52:13,864 [INFO] =================================================================
+2026-08-08 21:52:13,864 [INFO]   RadarPepites - Scraping FotMob -> Bronze
+2026-08-08 21:52:13,865 [INFO] =================================================================
+2026-08-08 21:52:13,865 [INFO]   BuildId : Nk9gsZhhMk8nhbCyh5Zwa
+2026-08-08 21:52:13,866 [INFO]   Ligues  : ['ENG', 'ESP', 'GER', 'ITA', 'FRA', 'POR', 'NED', 'BEL', 'TUR', 'AUT']
+2026-08-08 21:52:13,866 [INFO]   Saisons : ['2022-2023', '2023-2024', '2024-2025']
+2026-08-08 21:52:13,867 [INFO]   Total   : 30 combinaisons ligue x saison
+2026-08-08 21:52:13,869 [INFO] =================================================================
+2026-08-08 21:52:13,870 [INFO] [1/30] Premier League | 2022-2023
+2026-08-08 21:52:15,072 [INFO]     seasonId : 2022/2023
+2026-08-08 21:52:15,073 [ERROR]     Erreur get_season_id : invalid literal for int() with base 10: '2022/2023'
+2026-08-08 21:52:15,074 [WARNING]   -> seasonId introuvable, on passe
+2026-08-08 21:52:19,075 [INFO] [2/30] Premier League | 2023-2024
+2026-08-08 21:52:19,415 [INFO]     seasonId : 2023/2024
+2026-08-08 21:52:19,416 [ERROR]     Erreur get_season_id : invalid literal for int() with base 10: '2023/2024'
+2026-08-08 21:52:19,417 [WARNING]   -> seasonId introuvable, on passe
+2026-08-08 21:52:23,418 [INFO] [3/30] Premier League | 2024-2025
+2026-08-08 21:52:23,810 [INFO]     seasonId : 2024/2025
+2026-08-08 21:52:23,811 [ERROR]     Erreur get_season_id : invalid literal for int() with base 10: '2024/2025'
+2026-08-08 21:52:23,811 [WARNING]   -> seasonId introuvable, on passe
+2026-08-08 21:52:27,812 [INFO] [4/30] La Liga | 2022-2023
+2026-08-08 21:52:28,205 [INFO]     seasonId : 2022/2023
+2026-08-08 21:52:28,207 [ERROR]     Erreur get_season_id : invalid literal for int() with base 10: '2022/2023'
+2026-08-08 21:52:28,210 [WARNING]   -> seasonId introuvable, on passe

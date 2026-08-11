@@ -1,0 +1,93 @@
+{
+  "_commentaire": "RadarPépites — Configuration du scraping. Mets 'actif' à true ou false pour choisir quoi scraper.",
+
+  "saisons": [
+    "2022-2023",
+    "2023-2024",
+    "2024-2025"
+  ],
+
+  "stat_types": [
+    "standard",
+    "shooting",
+    "passing",
+    "passing_types",
+    "goal_shot_creation",
+    "defense",
+    "possession",
+    "misc"
+  ],
+
+  "ligues": [
+    {
+      "id": "ENG",
+      "nom": "Premier League",
+      "pays": "Angleterre",
+      "soccerdata_key": "ENG-Premier League",
+      "actif": true
+    },
+    {
+      "id": "ESP",
+      "nom": "La Liga",
+      "pays": "Espagne",
+      "soccerdata_key": "ESP-La Liga",
+      "actif": true
+    },
+    {
+      "id": "GER",
+      "nom": "Bundesliga",
+      "pays": "Allemagne",
+      "soccerdata_key": "GER-Bundesliga",
+      "actif": true
+    },
+    {
+      "id": "ITA",
+      "nom": "Serie A",
+      "pays": "Italie",
+      "soccerdata_key": "ITA-Serie A",
+      "actif": true
+    },
+    {
+      "id": "FRA",
+      "nom": "Ligue 1",
+      "pays": "France",
+      "soccerdata_key": "FRA-Ligue 1",
+      "actif": true
+    },
+    {
+      "id": "POR",
+      "nom": "Primeira Liga",
+      "pays": "Portugal",
+      "soccerdata_key": "POR-Primeira Liga",
+      "actif": true
+    },
+    {
+      "id": "NED",
+      "nom": "Eredivisie",
+      "pays": "Pays-Bas",
+      "soccerdata_key": "NED-Eredivisie",
+      "actif": true
+    },
+    {
+      "id": "BEL",
+      "nom": "First Division A",
+      "pays": "Belgique",
+      "soccerdata_key": "BEL-First Division A",
+      "actif": true
+    },
+    {
+      "id": "TUR",
+      "nom": "Süper Lig",
+      "pays": "Turquie",
+      "soccerdata_key": "TUR-Super Lig",
+      "actif": true
+    },
+    {
+      "id": "AUT",
+      "nom": "Bundesliga Autriche",
+      "pays": "Autriche",
+      "soccerdata_key": "AUT-Bundesliga",
+      "actif": true
+    }
+  ]
+}

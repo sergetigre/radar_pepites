@@ -1,0 +1,657 @@
+﻿country,tournament,tournament_id,season_id,team_name,team_id,player_name,player_id,age,height,player_country,position,preferred_foot,contract_until,market_value,market_currency,_league_id,_season,_source,_scraped_at
+Austria,"Austrian Bundesliga, Championship Round",45,77382,LASK,2058,Moses Usor,1215061,24.0,181.0,Nigeria,F,Left,1845936000.0,6500000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,LASK,2058,Samuel Adeniran,1068299,27.0,196.0,USA,F,Left,1843344000.0,2900000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,LASK,2058,Christoph Lang,1104216,24.0,178.0,Austria,F,Both,1811721600.0,725000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,LASK,2058,Ramiz Harakate,1397899,24.0,180.0,France,F,Left,1877472000.0,1600000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,LASK,2058,Robert Ljubičić,935308,27.0,178.0,Croatia,M,Left,1814313600.0,2900000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,LASK,2058,George Bello,931742,24.0,170.0,USA,M,Left,1814313600.0,3200000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,LASK,2058,Melayro Bogarde,961672,24.0,184.0,Suriname,M,Right,1843344000.0,3800000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,LASK,2058,Alessandro Schöpf,147776,32.0,178.0,Austria,M,Both,1845936000.0,775000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,LASK,2058,Krystof Daněk,1009833,23.0,182.0,Czechia,M,Left,1877472000.0,2100000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,LASK,2058,Sascha Horvath,282093,29.0,164.0,Austria,M,Right,1845936000.0,1900000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,LASK,2058,Art Smakaj,1148949,23.0,185.0,Kosovo,M,Right,1845936000.0,570000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,LASK,2058,Florian Flecker,787543,30.0,173.0,Austria,M,Right,1814313600.0,515000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,LASK,2058,Kasper Jørgensen,978952,26.0,185.0,Denmark,M,Right,1845936000.0,4300000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,LASK,2058,Andrés Andrade,841802,27.0,187.0,Panama,D,Left,1845936000.0,2400000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,LASK,2058,Xavier Mbuyamba,974020,24.0,195.0,Netherlands,D,Right,1845936000.0,1400000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,LASK,2058,Yvan Dibango,1103553,24.0,184.0,Cameroon,D,Left,1877472000.0,1200000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,LASK,2058,Alemão,1199402,23.0,194.0,Brazil,D,Right,1877472000.0,2300000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,LASK,2058,Manoël Verhaeghe,2214471,18.0,187.0,DR Congo,D,Right,1909008000.0,1200000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,LASK,2058,Miguel Freckleton,1435912,23.0,193.0,England,D,Left,1877472000.0,215000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,LASK,2058,Cheikne Kebe,2190878,20.0,,Mali,D,,,260000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,LASK,2058,Lukas Jungwirth,1031170,22.0,193.0,Austria,G,Right,1877472000.0,3100000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,LASK,2058,Tobias Schützenauer,355480,29.0,180.0,Austria,G,Both,1814313600.0,235000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,LASK,2058,Fabian Schillinger,1566223,19.0,191.0,Austria,G,Right,1845936000.0,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Sturm Graz,2051,Szymon Włodarczyk,1009285,23.0,189.0,Poland,F,Right,1814313600.0,815000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Sturm Graz,2051,Nelson Weiper,1152505,21.0,192.0,Germany,F,Right,1814313600.0,7400000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Sturm Graz,2051,Leon Grgić,1387712,20.0,189.0,Croatia,F,Both,,2700000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Sturm Graz,2051,Amady Camara,1516047,21.0,180.0,Mali,F,Left,,875000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Sturm Graz,2051,Axel Kayombo,1513332,20.0,186.0,DR Congo,F,Right,1877472000.0,1400000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Sturm Graz,2051,Seedy Jatta,1024876,23.0,180.0,Norway,F,Right,1814313600.0,1100000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Sturm Graz,2051,Maurice Malone,877845,25.0,184.0,Germany,F,Left,,960000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Sturm Graz,2051,Belmin Beganović,1212322,21.0,183.0,Austria,F,Left,1845936000.0,910000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Sturm Graz,2051,Simon Seidl,1131565,23.0,172.0,Austria,F,Right,,1100000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Sturm Graz,2051,Otar Kiteishvili,797994,30.0,170.0,Georgia,M,Both,1814313600.0,5000000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Sturm Graz,2051,Filip Rózga,1423454,20.0,176.0,Poland,M,Left,1877472000.0,3000000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Sturm Graz,2051,Ryan Fosso,1142147,24.0,183.0,Cameroon,M,Right,,1800000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Sturm Graz,2051,Luca Weinhandl,1831170,17.0,190.0,Austria,M,Right,,5200000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Sturm Graz,2051,Emran Soglo,1403124,21.0,178.0,England,M,Left,,760000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Sturm Graz,2051,Jon Gorenc Stanković,280565,30.0,190.0,Slovenia,M,Right,1814313600.0,2300000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Sturm Graz,2051,Gizo Mamageishvili,1006081,23.0,181.0,Georgia,M,Right,,1200000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Sturm Graz,2051,Jacob Hödl,1488043,19.0,175.0,Austria,M,Left,1845936000.0,5400000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Sturm Graz,2051,Julian Halwachs,1129553,23.0,188.0,Austria,M,Right,,165000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Sturm Graz,2051,Jurgen Heil,799651,29.0,176.0,Austria,M,,,720000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Sturm Graz,2051,Arjan Malić,1500291,20.0,186.0,Bosnia & Herzegovina,D,Right,,1900000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Sturm Graz,2051,Jeyland Mitchell,1099285,21.0,187.0,Costa Rica,D,Right,,2900000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Sturm Graz,2051,Luís Balbo,1499054,20.0,177.0,Venezuela,D,Left,,3100000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Sturm Graz,2051,Petar Petrović,1500275,21.0,190.0,Serbia,D,Both,,1600000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Sturm Graz,2051,Albert Vallci,557878,31.0,191.0,Austria,D,Both,1814313600.0,775000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Sturm Graz,2051,Paul Koller,962270,24.0,186.0,Austria,D,Left,,1400000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Sturm Graz,2051,Niklas Geyrhofer,1017135,26.0,188.0,Austria,D,Right,,680000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Sturm Graz,2051,Daniil Khudyakov,1101753,22.0,194.0,Russia,G,Right,1845936000.0,1700000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Sturm Graz,2051,Ammar Helac,886066,28.0,190.0,Austria,G,Right,,215000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Sturm Graz,2051,Christoph Wiener-Pucher,1632411,19.0,186.0,Austria,G,Right,,69000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,Red Bull Salzburg,2046,Karim Konaté,1139103,22.0,178.0,Côte d'Ivoire,F,Right,1845936000.0,10900000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,Red Bull Salzburg,2046,Haris Tabaković,259803,32.0,196.0,Bosnia & Herzegovina,F,Right,1877472000.0,3600000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,Red Bull Salzburg,2046,Gaoussou Diakite,1652719,20.0,182.0,Mali,F,Right,1845936000.0,3100000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,Red Bull Salzburg,2046,Edmund Baidoo,1805062,20.0,174.0,Ghana,F,Right,1877472000.0,7700000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,Red Bull Salzburg,2046,Yorbe Vertessen,909958,25.0,176.0,Belgium,F,Right,1877472000.0,4500000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,Red Bull Salzburg,2046,Aboubacar Camara,1542696,19.0,169.0,Burkina Faso,F,Both,1877472000.0,850000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,Red Bull Salzburg,2046,Enrique Aguilar,1566219,19.0,183.0,Switzerland,F,Right,1814313600.0,1600000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,Red Bull Salzburg,2046,Bartosz Mazurek,1548899,19.0,180.0,Poland,M,Right,1940544000.0,4300000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,Red Bull Salzburg,2046,Maurits Kjaergaard,987818,23.0,192.0,Denmark,M,Left,1845936000.0,7400000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,Red Bull Salzburg,2046,Sota Kitano,1185273,21.0,172.0,Japan,M,Right,1877472000.0,6200000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,Red Bull Salzburg,2046,Lucas Gourna-Douath,1012657,23.0,185.0,France,M,Right,1814313600.0,5600000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,Red Bull Salzburg,2046,Johannes Moser,1929671,18.0,179.0,Austria,M,Right,1909008000.0,1100000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,Red Bull Salzburg,2046,Soumaïla Diabaté,1468564,21.0,168.0,Mali,M,Right,1814313600.0,7500000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,Red Bull Salzburg,2046,Mamady Diambou,1135854,23.0,176.0,Mali,M,Right,1845936000.0,1400000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,Red Bull Salzburg,2046,Damir Redzic,1084933,23.0,179.0,Hungary,M,Left,1909008000.0,4099999.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,Red Bull Salzburg,2046,Abubakr Barry,862008,26.0,190.0,Gambia,M,Right,1877472000.0,2800000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,Red Bull Salzburg,2046,Zétény Jánó,1185565,21.0,167.0,Austria,M,Right,1814313600.0,380000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,Red Bull Salzburg,2046,Filip Matijašević,1981976,18.0,175.0,Serbia,M,Right,1940544000.0,4200000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,Red Bull Salzburg,2046,Justin Omoregie,998938,22.0,189.0,Austria,M,Left,1814313600.0,390000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,Red Bull Salzburg,2046,Frans Krätzig,1142249,23.0,177.0,Germany,D,Left,1877472000.0,2600000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,Red Bull Salzburg,2046,Anrie Chase,1154597,22.0,187.0,Japan,D,Right,1909008000.0,1900000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,Red Bull Salzburg,2046,Aleksa Terzić,876860,26.0,184.0,Serbia,D,Left,1845936000.0,2600000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,Red Bull Salzburg,2046,Kévin Boma,1049465,23.0,193.0,Togo,D,Right,1940544000.0,6400000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,Red Bull Salzburg,2046,John Mellberg,1424607,20.0,188.0,Sweden,D,Left,1877472000.0,1800000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,Red Bull Salzburg,2046,Stefan Lainer,113920,33.0,176.0,Austria,D,Right,1814313600.0,825000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,Red Bull Salzburg,2046,Hendry Blank,1140597,21.0,189.0,Germany,D,Left,1845936000.0,1300000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,Red Bull Salzburg,2046,Nikolas Veratschnig,1138150,23.0,178.0,Austria,D,Right,1909008000.0,2300000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,Red Bull Salzburg,2046,Leandro Morgalla,1135938,21.0,186.0,Germany,D,Right,1845936000.0,3200000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,Red Bull Salzburg,2046,Tim Drexler,1152499,21.0,185.0,Germany,D,Right,1845936000.0,3200000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,Red Bull Salzburg,2046,Dominik Schmid,883466,28.0,182.0,Switzerland,D,Right,1909008000.0,2900000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,Red Bull Salzburg,2046,Valentin Zabransky,1567317,19.0,194.0,Austria,D,Both,1877472000.0,545000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,Red Bull Salzburg,2046,Christian Früchtl,845024,26.0,193.0,Germany,G,Left,1877472000.0,1000000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,Red Bull Salzburg,2046,Christian Zawieschitzky,1474199,19.0,184.0,Austria,G,Left,1909008000.0,1000000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,FK Austria Wien,2203,Noah Botic,1002319,24.0,183.0,Australia,F,Right,1845936000.0,575000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,FK Austria Wien,2203,Johannes Eggestein,591588,28.0,183.0,Germany,F,Right,1845936000.0,2400000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,FK Austria Wien,2203,Manprit Sarkaria,869709,29.0,179.0,Austria,F,Left,1845936000.0,580000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,FK Austria Wien,2203,Julian Hettwer,1090054,23.0,184.0,Germany,F,Right,1909008000.0,875000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,FK Austria Wien,2203,Kelvin Boateng,1032039,26.0,184.0,Ghana,F,Right,1877472000.0,580000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,FK Austria Wien,2203,Sanel Saljic,1149208,20.0,177.0,Austria,F,Left,1909008000.0,1900000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,FK Austria Wien,2203,Moritz Wels,1127195,21.0,186.0,Austria,F,Left,1814313600.0,825000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,FK Austria Wien,2203,Abdoulaye Kante,1923335,21.0,170.0,Côte d'Ivoire,F,Right,1877472000.0,210000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,FK Austria Wien,2203,Lee Tae-seok,1002355,24.0,174.0,South Korea,M,Left,1877472000.0,2100000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,FK Austria Wien,2203,Hasan Deshishku,2325627,18.0,182.0,Austria,M,Left,1877472000.0,280000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,FK Austria Wien,2203,Lee Kang-hee,1019285,24.0,191.0,South Korea,M,Right,1877472000.0,475000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,FK Austria Wien,2203,Vasilije Markovic,1929639,18.0,182.0,Austria,M,Right,1845936000.0,2900000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,FK Austria Wien,2203,Philipp Maybach,1825903,18.0,182.0,Austria,M,Right,1845936000.0,2400000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,FK Austria Wien,2203,Manfred Fischer,799456,31.0,179.0,Austria,M,Right,1814313600.0,755000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,FK Austria Wien,2203,Reinhold Ranftl,126858,34.0,179.0,Austria,M,Right,1814313600.0,315000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,FK Austria Wien,2203,Florian Wustinger,1064210,23.0,176.0,Austria,M,Right,1814313600.0,360000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,FK Austria Wien,2203,Aleksandar Dragović,37313,35.0,184.0,Austria,D,Both,1814313600.0,635000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,FK Austria Wien,2203,Buhari Ibrahim,1217910,24.0,190.0,Nigeria,D,Right,1877472000.0,1500000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,FK Austria Wien,2203,Johannes Handl,874842,28.0,196.0,Austria,D,Both,1845936000.0,435000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,FK Austria Wien,2203,Philipp Wiesinger,336377,32.0,182.0,Austria,D,Both,1845936000.0,435000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,FK Austria Wien,2203,Matteo Schablas,1403010,21.0,180.0,Austria,D,Right,1845936000.0,435000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,FK Austria Wien,2203,Jonas Feddersen,1925482,19.0,191.0,Germany,D,Left,1877472000.0,215000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,FK Austria Wien,2203,Daniel Nnodim,1967263,18.0,187.0,Germany,D,Right,1814313600.0,290000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,FK Austria Wien,2203,Valentin Toifl,1967259,21.0,197.0,Austria,D,,1877472000.0,245000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,FK Austria Wien,2203,Samuel Sahin-Radlinger,66340,33.0,198.0,Austria,G,Right,1814313600.0,495000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,FK Austria Wien,2203,Mirko Kos,869699,29.0,183.0,Austria,G,Right,1845936000.0,270000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,FK Austria Wien,2203,Kenan Jusic,1149214,21.0,191.0,Austria,G,Left,,215000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,FK Austria Wien,2203,Lukas Wedl,575804,30.0,185.0,Austria,G,Right,,78000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Rapid Wien,2055,Yusuf Demir,962283,23.0,173.0,Austria,F,Left,1814313600.0,930000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Rapid Wien,2055,Tonni Adamsen,995069,31.0,180.0,Denmark,F,Left,1845936000.0,1400000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Rapid Wien,2055,Nikolaus Wurmbrand,1897251,20.0,173.0,Austria,F,Both,1845936000.0,5300000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Rapid Wien,2055,Marco Tilio,927279,24.0,170.0,Australia,F,Left,1877472000.0,485000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Rapid Wien,2055,Ercan Kara,843039,30.0,192.0,Austria,F,Right,1814313600.0,875000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Rapid Wien,2055,Claudy Mbuyi,895631,27.0,183.0,France,F,Right,1845936000.0,1300000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Rapid Wien,2055,Moulaye Haïdara,2223536,20.0,,Mali,F,,1814313600.0,290000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Rapid Wien,2055,Daniel Nunoo,1951674,19.0,175.0,Ghana,F,Right,1814313600.0,515000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Rapid Wien,2055,Tobias Fjeld Gulliksen,996734,23.0,177.0,Norway,M,Right,1877472000.0,2100000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Rapid Wien,2055,Romeo Amane,1173222,23.0,176.0,Côte d'Ivoire,M,Right,1877472000.0,4800000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Rapid Wien,2055,Martin Ndzie,1517711,23.0,188.0,Cameroon,M,Left,1877472000.0,935000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Rapid Wien,2055,Andrija Radulović,997198,24.0,177.0,Montenegro,M,Left,1877472000.0,825000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Rapid Wien,2055,Matthias Seidl,1006268,25.0,175.0,Austria,M,Right,1814313600.0,2400000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Rapid Wien,2055,Petter Nosakhare Dahl,1199192,22.0,180.0,Norway,M,Right,1877472000.0,2400000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Rapid Wien,2055,Louis Schaub,138146,31.0,177.0,Austria,M,Left,1845936000.0,380000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Rapid Wien,2055,Moritz Oswald,1064835,24.0,171.0,Austria,M,Right,1845936000.0,330000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Rapid Wien,2055,Nicolas Bajlicz,1146280,22.0,173.0,Austria,M,Right,1909008000.0,830000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Rapid Wien,2055,Lorenz Szladits,1423473,19.0,178.0,Austria,M,Right,1814313600.0,270000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Rapid Wien,2055,Bendegúz Bolla,921140,26.0,179.0,Hungary,D,Right,1814313600.0,2900000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Rapid Wien,2055,Kouadio Ange Ahoussou,1397914,22.0,194.0,Côte d'Ivoire,D,Left,1877472000.0,2400000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Rapid Wien,2055,Serge-Philippe Raux-Yao,989887,27.0,196.0,France,D,Left,1845936000.0,3700000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Rapid Wien,2055,Jonas Auer,978405,26.0,182.0,Austria,D,Left,1814313600.0,430000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Rapid Wien,2055,Nenad Cvetković,878471,30.0,194.0,Serbia,D,Right,1845936000.0,1300000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Rapid Wien,2055,Furkan Demir,1391308,21.0,165.0,Türkiye,D,Right,1845936000.0,735000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Rapid Wien,2055,Jakob Schöller,1149220,20.0,194.0,Austria,D,Right,1845936000.0,1900000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Rapid Wien,2055,Jannes Horn,827688,29.0,186.0,Germany,D,Left,1814313600.0,1200000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Rapid Wien,2055,Eaden Roka,1566213,18.0,175.0,Austria,D,Right,1845936000.0,290000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Rapid Wien,2055,Dominic Vincze,1141517,22.0,188.0,Austria,D,,1845936000.0,875000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Rapid Wien,2055,Niklas Hedl,918421,25.0,188.0,Austria,G,Right,1814313600.0,1300000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Rapid Wien,2055,Paul Gartler,355478,29.0,185.0,Austria,G,Right,1814313600.0,485000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Rapid Wien,2055,Benjamin Göschl,1120312,20.0,188.0,Austria,G,,1814313600.0,195000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,TSV Hartberg,2075,Jed Drew,1198430,22.0,176.0,Australia,F,Right,1845936000.0,420000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,TSV Hartberg,2075,Lukas Fridrikas,818049,28.0,180.0,Austria,F,Right,1814313600.0,360000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,TSV Hartberg,2075,Chilohem Onuoha,1402689,21.0,188.0,Germany,F,Both,1814313600.0,195000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,TSV Hartberg,2075,Marco Hoffmann,1896883,22.0,182.0,Austria,F,,1877472000.0,480000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,TSV Hartberg,2075,Angelo Gattermayer,1122374,24.0,182.0,Austria,F,Right,1845936000.0,565000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,TSV Hartberg,2075,Matthias Postl,1513174,20.0,185.0,Austria,F,Right,,23000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,TSV Hartberg,2075,Agustín Urrutia,1837247,22.0,180.0,Argentina,F,Right,,155000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,TSV Hartberg,2075,David Korherr,2039969,24.0,,Austria,F,,,140000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,TSV Hartberg,2075,Oliver Lukić,1423477,19.0,188.0,Croatia,M,Right,1814313600.0,1000000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,TSV Hartberg,2075,Youba Diarra,924369,28.0,178.0,Mali,M,Right,,320000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,TSV Hartberg,2075,Benjamin Markuš,1032333,25.0,185.0,Slovenia,M,Right,1814313600.0,1100000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,TSV Hartberg,2075,Luca Pazourek,1149346,21.0,178.0,Austria,M,Right,1814313600.0,460000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,TSV Hartberg,2075,Tobias Kainz,95691,33.0,174.0,Austria,M,Right,1845936000.0,205000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,TSV Hartberg,2075,Jonas Karner,1212231,21.0,,Austria,M,,1845936000.0,105000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,TSV Hartberg,2075,Paul Bratschko,1488061,20.0,,Austria,M,,1814313600.0,97000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,TSV Hartberg,2075,Florian Gerstl,1129709,23.0,183.0,Austria,M,Left,1845936000.0,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,TSV Hartberg,2075,Nikolaus Feldhofer,2202165,19.0,,Austria,M,Right,,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,TSV Hartberg,2075,Magnus Dalpiaz,1566275,19.0,184.0,Austria,D,Right,1814313600.0,245000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,TSV Hartberg,2075,Konstantin Schopp,1484314,20.0,186.0,Austria,D,Right,1814313600.0,620000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,TSV Hartberg,2075,Fabian Wilfinger,1384232,22.0,178.0,Austria,D,,1877472000.0,775000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,TSV Hartberg,2075,Habib Anas Coulibaly,2189273,22.0,186.0,Côte d'Ivoire,D,Left,1814313600.0,390000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,TSV Hartberg,2075,Lukas Spendlhofer,183685,33.0,187.0,Austria,D,Right,1845936000.0,215000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,TSV Hartberg,2075,Paul Komposch,1048206,25.0,187.0,Austria,D,Right,1845936000.0,580000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,TSV Hartberg,2075,Ármin Pécsi,1134236,21.0,190.0,Hungary,G,Right,1814313600.0,825000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,TSV Hartberg,2075,Luka Marić,1006952,24.0,184.0,Austria,G,Right,1845936000.0,105000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Championship Round",45,77382,TSV Hartberg,2075,Harald Postl,1513171,20.0,,Austria,G,,,26000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Sturm Graz,2051,Szymon Włodarczyk,1009285,23.0,189.0,Poland,F,Right,1814313600.0,815000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Sturm Graz,2051,Nelson Weiper,1152505,21.0,192.0,Germany,F,Right,1814313600.0,7400000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Sturm Graz,2051,Leon Grgić,1387712,20.0,189.0,Croatia,F,Both,,2700000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Sturm Graz,2051,Amady Camara,1516047,21.0,180.0,Mali,F,Left,,875000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Sturm Graz,2051,Axel Kayombo,1513332,20.0,186.0,DR Congo,F,Right,1877472000.0,1400000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Sturm Graz,2051,Seedy Jatta,1024876,23.0,180.0,Norway,F,Right,1814313600.0,1100000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Sturm Graz,2051,Maurice Malone,877845,25.0,184.0,Germany,F,Left,,960000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Sturm Graz,2051,Belmin Beganović,1212322,21.0,183.0,Austria,F,Left,1845936000.0,910000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Sturm Graz,2051,Simon Seidl,1131565,23.0,172.0,Austria,F,Right,,1100000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Sturm Graz,2051,Otar Kiteishvili,797994,30.0,170.0,Georgia,M,Both,1814313600.0,5000000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Sturm Graz,2051,Filip Rózga,1423454,20.0,176.0,Poland,M,Left,1877472000.0,3000000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Sturm Graz,2051,Ryan Fosso,1142147,24.0,183.0,Cameroon,M,Right,,1800000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Sturm Graz,2051,Luca Weinhandl,1831170,17.0,190.0,Austria,M,Right,,5200000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Sturm Graz,2051,Emran Soglo,1403124,21.0,178.0,England,M,Left,,760000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Sturm Graz,2051,Jon Gorenc Stanković,280565,30.0,190.0,Slovenia,M,Right,1814313600.0,2300000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Sturm Graz,2051,Gizo Mamageishvili,1006081,23.0,181.0,Georgia,M,Right,,1200000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Sturm Graz,2051,Jacob Hödl,1488043,19.0,175.0,Austria,M,Left,1845936000.0,5400000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Sturm Graz,2051,Julian Halwachs,1129553,23.0,188.0,Austria,M,Right,,165000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Sturm Graz,2051,Jurgen Heil,799651,29.0,176.0,Austria,M,,,720000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Sturm Graz,2051,Arjan Malić,1500291,20.0,186.0,Bosnia & Herzegovina,D,Right,,1900000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Sturm Graz,2051,Jeyland Mitchell,1099285,21.0,187.0,Costa Rica,D,Right,,2900000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Sturm Graz,2051,Luís Balbo,1499054,20.0,177.0,Venezuela,D,Left,,3100000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Sturm Graz,2051,Petar Petrović,1500275,21.0,190.0,Serbia,D,Both,,1600000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Sturm Graz,2051,Albert Vallci,557878,31.0,191.0,Austria,D,Both,1814313600.0,775000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Sturm Graz,2051,Paul Koller,962270,24.0,186.0,Austria,D,Left,,1400000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Sturm Graz,2051,Niklas Geyrhofer,1017135,26.0,188.0,Austria,D,Right,,680000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Sturm Graz,2051,Daniil Khudyakov,1101753,22.0,194.0,Russia,G,Right,1845936000.0,1700000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Sturm Graz,2051,Ammar Helac,886066,28.0,190.0,Austria,G,Right,,215000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Sturm Graz,2051,Christoph Wiener-Pucher,1632411,19.0,186.0,Austria,G,Right,,69000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Red Bull Salzburg,2046,Karim Konaté,1139103,22.0,178.0,Côte d'Ivoire,F,Right,1845936000.0,10900000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Red Bull Salzburg,2046,Haris Tabaković,259803,32.0,196.0,Bosnia & Herzegovina,F,Right,1877472000.0,3600000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Red Bull Salzburg,2046,Gaoussou Diakite,1652719,20.0,182.0,Mali,F,Right,1845936000.0,3100000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Red Bull Salzburg,2046,Edmund Baidoo,1805062,20.0,174.0,Ghana,F,Right,1877472000.0,7700000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Red Bull Salzburg,2046,Yorbe Vertessen,909958,25.0,176.0,Belgium,F,Right,1877472000.0,4500000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Red Bull Salzburg,2046,Aboubacar Camara,1542696,19.0,169.0,Burkina Faso,F,Both,1877472000.0,850000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Red Bull Salzburg,2046,Enrique Aguilar,1566219,19.0,183.0,Switzerland,F,Right,1814313600.0,1600000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Red Bull Salzburg,2046,Bartosz Mazurek,1548899,19.0,180.0,Poland,M,Right,1940544000.0,4300000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Red Bull Salzburg,2046,Maurits Kjaergaard,987818,23.0,192.0,Denmark,M,Left,1845936000.0,7400000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Red Bull Salzburg,2046,Sota Kitano,1185273,21.0,172.0,Japan,M,Right,1877472000.0,6200000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Red Bull Salzburg,2046,Lucas Gourna-Douath,1012657,23.0,185.0,France,M,Right,1814313600.0,5600000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Red Bull Salzburg,2046,Johannes Moser,1929671,18.0,179.0,Austria,M,Right,1909008000.0,1100000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Red Bull Salzburg,2046,Soumaïla Diabaté,1468564,21.0,168.0,Mali,M,Right,1814313600.0,7500000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Red Bull Salzburg,2046,Mamady Diambou,1135854,23.0,176.0,Mali,M,Right,1845936000.0,1400000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Red Bull Salzburg,2046,Damir Redzic,1084933,23.0,179.0,Hungary,M,Left,1909008000.0,4099999.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Red Bull Salzburg,2046,Abubakr Barry,862008,26.0,190.0,Gambia,M,Right,1877472000.0,2800000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Red Bull Salzburg,2046,Zétény Jánó,1185565,21.0,167.0,Austria,M,Right,1814313600.0,380000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Red Bull Salzburg,2046,Filip Matijašević,1981976,18.0,175.0,Serbia,M,Right,1940544000.0,4200000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Red Bull Salzburg,2046,Justin Omoregie,998938,22.0,189.0,Austria,M,Left,1814313600.0,390000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Red Bull Salzburg,2046,Frans Krätzig,1142249,23.0,177.0,Germany,D,Left,1877472000.0,2600000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Red Bull Salzburg,2046,Anrie Chase,1154597,22.0,187.0,Japan,D,Right,1909008000.0,1900000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Red Bull Salzburg,2046,Aleksa Terzić,876860,26.0,184.0,Serbia,D,Left,1845936000.0,2600000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Red Bull Salzburg,2046,Kévin Boma,1049465,23.0,193.0,Togo,D,Right,1940544000.0,6400000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Red Bull Salzburg,2046,John Mellberg,1424607,20.0,188.0,Sweden,D,Left,1877472000.0,1800000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Red Bull Salzburg,2046,Stefan Lainer,113920,33.0,176.0,Austria,D,Right,1814313600.0,825000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Red Bull Salzburg,2046,Hendry Blank,1140597,21.0,189.0,Germany,D,Left,1845936000.0,1300000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Red Bull Salzburg,2046,Nikolas Veratschnig,1138150,23.0,178.0,Austria,D,Right,1909008000.0,2300000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Red Bull Salzburg,2046,Leandro Morgalla,1135938,21.0,186.0,Germany,D,Right,1845936000.0,3200000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Red Bull Salzburg,2046,Tim Drexler,1152499,21.0,185.0,Germany,D,Right,1845936000.0,3200000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Red Bull Salzburg,2046,Dominik Schmid,883466,28.0,182.0,Switzerland,D,Right,1909008000.0,2900000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Red Bull Salzburg,2046,Valentin Zabransky,1567317,19.0,194.0,Austria,D,Both,1877472000.0,545000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Red Bull Salzburg,2046,Christian Früchtl,845024,26.0,193.0,Germany,G,Left,1877472000.0,1000000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Red Bull Salzburg,2046,Christian Zawieschitzky,1474199,19.0,184.0,Austria,G,Left,1909008000.0,1000000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,LASK,2058,Moses Usor,1215061,24.0,181.0,Nigeria,F,Left,1845936000.0,6500000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,LASK,2058,Samuel Adeniran,1068299,27.0,196.0,USA,F,Left,1843344000.0,2900000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,LASK,2058,Christoph Lang,1104216,24.0,178.0,Austria,F,Both,1811721600.0,725000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,LASK,2058,Ramiz Harakate,1397899,24.0,180.0,France,F,Left,1877472000.0,1600000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,LASK,2058,Robert Ljubičić,935308,27.0,178.0,Croatia,M,Left,1814313600.0,2900000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,LASK,2058,George Bello,931742,24.0,170.0,USA,M,Left,1814313600.0,3200000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,LASK,2058,Melayro Bogarde,961672,24.0,184.0,Suriname,M,Right,1843344000.0,3800000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,LASK,2058,Alessandro Schöpf,147776,32.0,178.0,Austria,M,Both,1845936000.0,775000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,LASK,2058,Krystof Daněk,1009833,23.0,182.0,Czechia,M,Left,1877472000.0,2100000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,LASK,2058,Sascha Horvath,282093,29.0,164.0,Austria,M,Right,1845936000.0,1900000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,LASK,2058,Art Smakaj,1148949,23.0,185.0,Kosovo,M,Right,1845936000.0,570000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,LASK,2058,Florian Flecker,787543,30.0,173.0,Austria,M,Right,1814313600.0,515000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,LASK,2058,Kasper Jørgensen,978952,26.0,185.0,Denmark,M,Right,1845936000.0,4300000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,LASK,2058,Andrés Andrade,841802,27.0,187.0,Panama,D,Left,1845936000.0,2400000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,LASK,2058,Xavier Mbuyamba,974020,24.0,195.0,Netherlands,D,Right,1845936000.0,1400000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,LASK,2058,Yvan Dibango,1103553,24.0,184.0,Cameroon,D,Left,1877472000.0,1200000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,LASK,2058,Alemão,1199402,23.0,194.0,Brazil,D,Right,1877472000.0,2300000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,LASK,2058,Manoël Verhaeghe,2214471,18.0,187.0,DR Congo,D,Right,1909008000.0,1200000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,LASK,2058,Miguel Freckleton,1435912,23.0,193.0,England,D,Left,1877472000.0,215000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,LASK,2058,Cheikne Kebe,2190878,20.0,,Mali,D,,,260000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,LASK,2058,Lukas Jungwirth,1031170,22.0,193.0,Austria,G,Right,1877472000.0,3100000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,LASK,2058,Tobias Schützenauer,355480,29.0,180.0,Austria,G,Both,1814313600.0,235000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,LASK,2058,Fabian Schillinger,1566223,19.0,191.0,Austria,G,Right,1845936000.0,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FK Austria Wien,2203,Noah Botic,1002319,24.0,183.0,Australia,F,Right,1845936000.0,575000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FK Austria Wien,2203,Johannes Eggestein,591588,28.0,183.0,Germany,F,Right,1845936000.0,2400000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FK Austria Wien,2203,Manprit Sarkaria,869709,29.0,179.0,Austria,F,Left,1845936000.0,580000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FK Austria Wien,2203,Julian Hettwer,1090054,23.0,184.0,Germany,F,Right,1909008000.0,875000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FK Austria Wien,2203,Kelvin Boateng,1032039,26.0,184.0,Ghana,F,Right,1877472000.0,580000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FK Austria Wien,2203,Sanel Saljic,1149208,20.0,177.0,Austria,F,Left,1909008000.0,1900000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FK Austria Wien,2203,Moritz Wels,1127195,21.0,186.0,Austria,F,Left,1814313600.0,825000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FK Austria Wien,2203,Abdoulaye Kante,1923335,21.0,170.0,Côte d'Ivoire,F,Right,1877472000.0,210000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FK Austria Wien,2203,Lee Tae-seok,1002355,24.0,174.0,South Korea,M,Left,1877472000.0,2100000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FK Austria Wien,2203,Hasan Deshishku,2325627,18.0,182.0,Austria,M,Left,1877472000.0,280000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FK Austria Wien,2203,Lee Kang-hee,1019285,24.0,191.0,South Korea,M,Right,1877472000.0,475000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FK Austria Wien,2203,Vasilije Markovic,1929639,18.0,182.0,Austria,M,Right,1845936000.0,2900000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FK Austria Wien,2203,Philipp Maybach,1825903,18.0,182.0,Austria,M,Right,1845936000.0,2400000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FK Austria Wien,2203,Manfred Fischer,799456,31.0,179.0,Austria,M,Right,1814313600.0,755000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FK Austria Wien,2203,Reinhold Ranftl,126858,34.0,179.0,Austria,M,Right,1814313600.0,315000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FK Austria Wien,2203,Florian Wustinger,1064210,23.0,176.0,Austria,M,Right,1814313600.0,360000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FK Austria Wien,2203,Aleksandar Dragović,37313,35.0,184.0,Austria,D,Both,1814313600.0,635000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FK Austria Wien,2203,Buhari Ibrahim,1217910,24.0,190.0,Nigeria,D,Right,1877472000.0,1500000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FK Austria Wien,2203,Johannes Handl,874842,28.0,196.0,Austria,D,Both,1845936000.0,435000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FK Austria Wien,2203,Philipp Wiesinger,336377,32.0,182.0,Austria,D,Both,1845936000.0,435000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FK Austria Wien,2203,Matteo Schablas,1403010,21.0,180.0,Austria,D,Right,1845936000.0,435000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FK Austria Wien,2203,Jonas Feddersen,1925482,19.0,191.0,Germany,D,Left,1877472000.0,215000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FK Austria Wien,2203,Daniel Nnodim,1967263,18.0,187.0,Germany,D,Right,1814313600.0,290000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FK Austria Wien,2203,Valentin Toifl,1967259,21.0,197.0,Austria,D,,1877472000.0,245000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FK Austria Wien,2203,Samuel Sahin-Radlinger,66340,33.0,198.0,Austria,G,Right,1814313600.0,495000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FK Austria Wien,2203,Mirko Kos,869699,29.0,183.0,Austria,G,Right,1845936000.0,270000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FK Austria Wien,2203,Kenan Jusic,1149214,21.0,191.0,Austria,G,Left,,215000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FK Austria Wien,2203,Lukas Wedl,575804,30.0,185.0,Austria,G,Right,,78000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Rapid Wien,2055,Yusuf Demir,962283,23.0,173.0,Austria,F,Left,1814313600.0,930000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Rapid Wien,2055,Tonni Adamsen,995069,31.0,180.0,Denmark,F,Left,1845936000.0,1400000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Rapid Wien,2055,Nikolaus Wurmbrand,1897251,20.0,173.0,Austria,F,Both,1845936000.0,5300000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Rapid Wien,2055,Marco Tilio,927279,24.0,170.0,Australia,F,Left,1877472000.0,485000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Rapid Wien,2055,Ercan Kara,843039,30.0,192.0,Austria,F,Right,1814313600.0,875000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Rapid Wien,2055,Claudy Mbuyi,895631,27.0,183.0,France,F,Right,1845936000.0,1300000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Rapid Wien,2055,Moulaye Haïdara,2223536,20.0,,Mali,F,,1814313600.0,290000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Rapid Wien,2055,Daniel Nunoo,1951674,19.0,175.0,Ghana,F,Right,1814313600.0,515000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Rapid Wien,2055,Tobias Fjeld Gulliksen,996734,23.0,177.0,Norway,M,Right,1877472000.0,2100000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Rapid Wien,2055,Romeo Amane,1173222,23.0,176.0,Côte d'Ivoire,M,Right,1877472000.0,4800000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Rapid Wien,2055,Martin Ndzie,1517711,23.0,188.0,Cameroon,M,Left,1877472000.0,935000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Rapid Wien,2055,Andrija Radulović,997198,24.0,177.0,Montenegro,M,Left,1877472000.0,825000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Rapid Wien,2055,Matthias Seidl,1006268,25.0,175.0,Austria,M,Right,1814313600.0,2400000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Rapid Wien,2055,Petter Nosakhare Dahl,1199192,22.0,180.0,Norway,M,Right,1877472000.0,2400000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Rapid Wien,2055,Louis Schaub,138146,31.0,177.0,Austria,M,Left,1845936000.0,380000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Rapid Wien,2055,Moritz Oswald,1064835,24.0,171.0,Austria,M,Right,1845936000.0,330000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Rapid Wien,2055,Nicolas Bajlicz,1146280,22.0,173.0,Austria,M,Right,1909008000.0,830000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Rapid Wien,2055,Lorenz Szladits,1423473,19.0,178.0,Austria,M,Right,1814313600.0,270000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Rapid Wien,2055,Bendegúz Bolla,921140,26.0,179.0,Hungary,D,Right,1814313600.0,2900000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Rapid Wien,2055,Kouadio Ange Ahoussou,1397914,22.0,194.0,Côte d'Ivoire,D,Left,1877472000.0,2400000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Rapid Wien,2055,Serge-Philippe Raux-Yao,989887,27.0,196.0,France,D,Left,1845936000.0,3700000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Rapid Wien,2055,Jonas Auer,978405,26.0,182.0,Austria,D,Left,1814313600.0,430000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Rapid Wien,2055,Nenad Cvetković,878471,30.0,194.0,Serbia,D,Right,1845936000.0,1300000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Rapid Wien,2055,Furkan Demir,1391308,21.0,165.0,Türkiye,D,Right,1845936000.0,735000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Rapid Wien,2055,Jakob Schöller,1149220,20.0,194.0,Austria,D,Right,1845936000.0,1900000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Rapid Wien,2055,Jannes Horn,827688,29.0,186.0,Germany,D,Left,1814313600.0,1200000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Rapid Wien,2055,Eaden Roka,1566213,18.0,175.0,Austria,D,Right,1845936000.0,290000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Rapid Wien,2055,Dominic Vincze,1141517,22.0,188.0,Austria,D,,1845936000.0,875000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Rapid Wien,2055,Niklas Hedl,918421,25.0,188.0,Austria,G,Right,1814313600.0,1300000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Rapid Wien,2055,Paul Gartler,355478,29.0,185.0,Austria,G,Right,1814313600.0,485000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SK Rapid Wien,2055,Benjamin Göschl,1120312,20.0,188.0,Austria,G,,1814313600.0,195000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,TSV Hartberg,2075,Jed Drew,1198430,22.0,176.0,Australia,F,Right,1845936000.0,420000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,TSV Hartberg,2075,Lukas Fridrikas,818049,28.0,180.0,Austria,F,Right,1814313600.0,360000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,TSV Hartberg,2075,Chilohem Onuoha,1402689,21.0,188.0,Germany,F,Both,1814313600.0,195000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,TSV Hartberg,2075,Marco Hoffmann,1896883,22.0,182.0,Austria,F,,1877472000.0,480000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,TSV Hartberg,2075,Angelo Gattermayer,1122374,24.0,182.0,Austria,F,Right,1845936000.0,565000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,TSV Hartberg,2075,Matthias Postl,1513174,20.0,185.0,Austria,F,Right,,23000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,TSV Hartberg,2075,Agustín Urrutia,1837247,22.0,180.0,Argentina,F,Right,,155000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,TSV Hartberg,2075,David Korherr,2039969,24.0,,Austria,F,,,140000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,TSV Hartberg,2075,Oliver Lukić,1423477,19.0,188.0,Croatia,M,Right,1814313600.0,1000000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,TSV Hartberg,2075,Youba Diarra,924369,28.0,178.0,Mali,M,Right,,320000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,TSV Hartberg,2075,Benjamin Markuš,1032333,25.0,185.0,Slovenia,M,Right,1814313600.0,1100000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,TSV Hartberg,2075,Luca Pazourek,1149346,21.0,178.0,Austria,M,Right,1814313600.0,460000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,TSV Hartberg,2075,Tobias Kainz,95691,33.0,174.0,Austria,M,Right,1845936000.0,205000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,TSV Hartberg,2075,Jonas Karner,1212231,21.0,,Austria,M,,1845936000.0,105000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,TSV Hartberg,2075,Paul Bratschko,1488061,20.0,,Austria,M,,1814313600.0,97000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,TSV Hartberg,2075,Florian Gerstl,1129709,23.0,183.0,Austria,M,Left,1845936000.0,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,TSV Hartberg,2075,Nikolaus Feldhofer,2202165,19.0,,Austria,M,Right,,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,TSV Hartberg,2075,Magnus Dalpiaz,1566275,19.0,184.0,Austria,D,Right,1814313600.0,245000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,TSV Hartberg,2075,Konstantin Schopp,1484314,20.0,186.0,Austria,D,Right,1814313600.0,620000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,TSV Hartberg,2075,Fabian Wilfinger,1384232,22.0,178.0,Austria,D,,1877472000.0,775000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,TSV Hartberg,2075,Habib Anas Coulibaly,2189273,22.0,186.0,Côte d'Ivoire,D,Left,1814313600.0,390000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,TSV Hartberg,2075,Lukas Spendlhofer,183685,33.0,187.0,Austria,D,Right,1845936000.0,215000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,TSV Hartberg,2075,Paul Komposch,1048206,25.0,187.0,Austria,D,Right,1845936000.0,580000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,TSV Hartberg,2075,Ármin Pécsi,1134236,21.0,190.0,Hungary,G,Right,1814313600.0,825000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,TSV Hartberg,2075,Luka Marić,1006952,24.0,184.0,Austria,G,Right,1845936000.0,105000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,TSV Hartberg,2075,Harald Postl,1513171,20.0,,Austria,G,,,26000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,WSG Tirol,5405,Nikolai Frederiksen,935076,26.0,180.0,Denmark,F,Left,,970000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,WSG Tirol,5405,Ademola Ola-Adebomi,1212153,22.0,195.0,England,F,Left,1814313600.0,405000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,WSG Tirol,5405,Thomas Sabitzer,862767,25.0,176.0,Austria,F,Right,,275000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,WSG Tirol,5405,Michael Olakigbe,1014556,22.0,180.0,England,F,Right,1814313600.0,485000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,WSG Tirol,5405,Lukas Hinterseer,66214,35.0,192.0,Austria,F,Right,,92000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,WSG Tirol,5405,Thomas Goiginger,164221,33.0,181.0,Austria,F,Right,,240000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,WSG Tirol,5405,Murat Satin,816237,29.0,177.0,Austria,M,,1843344000.0,310000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,WSG Tirol,5405,Mazou Bambara,1929395,21.0,,Burkina Faso,M,,,105000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,WSG Tirol,5405,Quincy Butler,901912,24.0,170.0,USA,M,Right,,380000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,WSG Tirol,5405,Husein Balić,355288,30.0,183.0,Austria,M,Right,,93000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,WSG Tirol,5405,Marc Striednig,1385793,20.0,186.0,Austria,M,Right,,220000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,WSG Tirol,5405,Raphael Gschösser,1980123,20.0,173.0,Austria,M,Right,,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,WSG Tirol,5405,David Falkner,1994391,19.0,,Austria,M,Right,,77000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,WSG Tirol,5405,Marco Boras,1065156,24.0,198.0,Croatia,D,Right,,860000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,WSG Tirol,5405,Drew Murray,1476460,20.0,191.0,USA,D,Right,,165000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,WSG Tirol,5405,David Kubatta,1168503,22.0,195.0,Germany,D,Left,1814313600.0,410000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,WSG Tirol,5405,David Gugganig,791091,29.0,190.0,Austria,D,Left,,290000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,WSG Tirol,5405,Nemanja Čelić,910518,27.0,185.0,Austria,D,Left,,205000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,WSG Tirol,5405,David Jaunegg,1129536,23.0,189.0,Austria,D,Right,,185000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,WSG Tirol,5405,Michael Neuner,1216256,19.0,179.0,Austria,D,Left,1811721600.0,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,WSG Tirol,5405,Salko Hamzić,1493202,19.0,190.0,Austria,G,Left,1845936000.0,435000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,WSG Tirol,5405,Julian Margreiter,2297224,16.0,,Austria,G,,,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,WSG Tirol,5405,Alexander Eckmayr,870127,27.0,186.0,Austria,G,Right,,160000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,WSG Tirol,5405,Felix Libiseller,2668000,19.0,,Austria,G,,,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SCR Altach,4856,Srđan Hrstić,1116507,23.0,192.0,Serbia,F,Right,1877472000.0,525000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SCR Altach,4856,Ousmane Diawara,1009557,27.0,187.0,Mali,F,Right,1814313600.0,455000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SCR Altach,4856,Marko Raguž,843668,28.0,192.0,Austria,F,Both,1845936000.0,190000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SCR Altach,4856,Shingo Nakano,1875495,21.0,180.0,Japan,F,Right,1845936000.0,230000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SCR Altach,4856,Erkin Yalcin,1994381,22.0,182.0,Austria,F,Left,1814313600.0,245000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SCR Altach,4856,Vesel Demaku,865653,26.0,179.0,Kosovo,M,Right,1814313600.0,485000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SCR Altach,4856,Salif Tietietta,1830848,21.0,173.0,Burkina Faso,M,Right,,94000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SCR Altach,4856,Patrick Greil,878510,29.0,179.0,Austria,M,Right,1845936000.0,855000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SCR Altach,4856,Benjamin Böckle,962272,24.0,182.0,Austria,M,Left,1877472000.0,680000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SCR Altach,4856,Yann Massombo,1462089,26.0,186.0,France,M,Left,1814313600.0,880000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SCR Altach,4856,Niklas Niehoff,1198077,21.0,187.0,Germany,M,Right,1814313600.0,620000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SCR Altach,4856,Denizcan Cosgun,1064761,24.0,177.0,Austria,M,Right,1845936000.0,320000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SCR Altach,4856,Mike-Steven Bähre,254015,30.0,177.0,Germany,M,Right,1845936000.0,415000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SCR Altach,4856,Yanis Eisschill,1513828,20.0,186.0,Austria,M,Right,1877472000.0,270000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SCR Altach,4856,Adrian Vonbrul,2237454,18.0,,Austria,M,,,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SCR Altach,4856,Henrique Bell,1922595,19.0,191.0,Brazil,D,Left,,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SCR Altach,4856,Benedikt Zech,66285,35.0,186.0,Austria,D,Right,1814313600.0,120000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SCR Altach,4856,Filip Milojevic,1402975,21.0,191.0,Austria,D,Right,1814313600.0,1000000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SCR Altach,4856,Rassa Rahmani,1104233,26.0,186.0,Sweden,D,Left,1845936000.0,265000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SCR Altach,4856,Lukas Jäger,138124,32.0,183.0,Austria,D,Right,1814313600.0,185000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SCR Altach,4856,Jakob Brandtner,1423468,20.0,177.0,Austria,D,Left,1845936000.0,330000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SCR Altach,4856,Dejan Stojanović,109453,33.0,196.0,Austria,G,Left,1877472000.0,470000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SCR Altach,4856,Daniel Antosch,865546,26.0,190.0,Austria,G,Right,1814313600.0,205000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SCR Altach,4856,Paul Piffer,1423478,20.0,182.0,Austria,G,Right,1845936000.0,81000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SCR Altach,4856,Elias Scherf,1083176,23.0,186.0,Austria,G,Right,1814313600.0,91000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SV Ried,2049,Tino Kusanović,1960026,18.0,187.0,Croatia,F,Right,1814313600.0,270000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SV Ried,2049,Niama Pape Sissoko,1901842,20.0,187.0,Mali,F,Right,1814313600.0,96000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SV Ried,2049,Evan Eghosa,1520806,21.0,172.0,Austria,F,,1845936000.0,290000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SV Ried,2049,Joris Boguo,2064292,18.0,,Austria,F,,1814313600.0,380000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SV Ried,2049,Sefiwu Abubakar,1967336,21.0,,Austria,F,,,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SV Ried,2049,Raphael Pesu,2415513,17.0,192.0,Austria,F,Both,,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SV Ried,2049,Jussef Nasrawe,1922533,19.0,171.0,Iraq,M,Left,1814313600.0,390000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SV Ried,2049,Yusuf Maart,1127748,31.0,170.0,South Africa,M,Right,1814313600.0,460000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SV Ried,2049,Stefan Schwab,48912,35.0,183.0,Austria,M,Left,,320000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SV Ried,2049,Tobias Lund Jensen,1403086,20.0,182.0,Denmark,M,Left,1814313600.0,390000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SV Ried,2049,Jaedin Rhodes,1184405,23.0,176.0,South Africa,M,Right,1845936000.0,770000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SV Ried,2049,Ante Bajić,799710,30.0,183.0,Austria,M,Right,1909008000.0,380000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SV Ried,2049,Nermin Mesic,1515954,20.0,,Germany,M,,1814313600.0,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SV Ried,2049,Jonas Mayer,1150764,22.0,173.0,Austria,M,Right,1845936000.0,770000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SV Ried,2049,Philipp Pomer,843501,28.0,180.0,Austria,M,Right,1877472000.0,375000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SV Ried,2049,Lukas Malicsek,825958,27.0,180.0,Austria,M,Right,1845936000.0,290000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SV Ried,2049,Fabian Rossdorfer,1510442,20.0,180.0,Austria,M,Right,1845936000.0,535000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SV Ried,2049,Conrad Scholl,1952412,19.0,190.0,Germany,M,Right,,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SV Ried,2049,Nevio Zotz,2188151,19.0,175.0,Austria,M,Left,1845936000.0,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SV Ried,2049,Martin Rasner,336387,31.0,177.0,Austria,M,Right,1814313600.0,230000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SV Ried,2049,Fabian Lechner,2064290,20.0,178.0,Austria,M,Left,,120000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SV Ried,2049,Leonit Zeqiri,2563612,17.0,,Kosovo,M,,,110000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SV Ried,2049,Samuel Johansen Chukwudi,1434592,23.0,195.0,Faroe Islands,D,Right,1877472000.0,275000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SV Ried,2049,Oliver Sorg,1504873,19.0,176.0,Austria,D,Left,1877472000.0,410000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SV Ried,2049,Dejan Radonjic,1415861,20.0,190.0,Austria,D,Right,1877472000.0,560000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SV Ried,2049,Michael Sollbauer,42950,36.0,186.0,Austria,D,Right,1814313600.0,105000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SV Ried,2049,Oliver Steurer,801605,31.0,190.0,Germany,D,Left,1814313600.0,410000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SV Ried,2049,Dominik Kirnbauer,1034271,23.0,190.0,Austria,D,Right,1814313600.0,145000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SV Ried,2049,Alessandro Goiginger,2534929,17.0,191.0,Austria,D,Left,,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SV Ried,2049,Andreas Leitner,138119,32.0,183.0,Austria,G,Both,1845936000.0,260000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SV Ried,2049,Dominik Stöger,1500750,19.0,200.0,Austria,G,,1845936000.0,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,SV Ried,2049,Felix Wimmer,919521,27.0,180.0,Austria,G,Left,1845936000.0,155000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Wolfsberger AC,2076,Giacomo Vrioni,862484,27.0,188.0,Albania,F,Left,1845936000.0,625000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Wolfsberger AC,2076,Phillip Verhounig,1423479,20.0,185.0,Austria,F,Both,1877472000.0,330000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Wolfsberger AC,2076,Sankara Karamoko,1444568,22.0,178.0,Côte d'Ivoire,F,Right,1814313600.0,935000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Wolfsberger AC,2076,Markus Pink,50126,35.0,188.0,Austria,F,Right,1814313600.0,165000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Wolfsberger AC,2076,Mickael Dosso,1548130,21.0,176.0,Denmark,F,Right,,165000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Wolfsberger AC,2076,Marco Schabauer,1514236,20.0,,Austria,F,,1845936000.0,190000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Wolfsberger AC,2076,Donis Avdijaj,281271,29.0,173.0,Kosovo,M,Right,1814313600.0,530000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Wolfsberger AC,2076,Otar Mamageishvili,1006067,23.0,180.0,Georgia,M,Right,1814313600.0,735000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Wolfsberger AC,2076,Boris Matić,1146072,21.0,180.0,Serbia,M,Right,1877472000.0,1300000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Wolfsberger AC,2076,Emmanuel Agyemang,1894380,22.0,180.0,Ghana,M,Left,1877472000.0,730000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Wolfsberger AC,2076,Veljko Vukojević,1406143,19.0,178.0,Serbia,M,Right,1845936000.0,265000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Wolfsberger AC,2076,Marco Sulzner,1031171,23.0,189.0,Austria,M,Right,1814313600.0,645000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Wolfsberger AC,2076,René Renner,244141,32.0,181.0,Austria,M,Left,1814313600.0,315000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Wolfsberger AC,2076,Simon Piesinger,141205,34.0,194.0,Austria,M,Right,1814313600.0,210000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Wolfsberger AC,2076,Aaron Sky Schwarz,1391307,22.0,180.0,Austria,M,Right,1845936000.0,210000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Wolfsberger AC,2076,Thorsten Schriebl,941055,27.0,175.0,Austria,M,Right,1845936000.0,435000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Wolfsberger AC,2076,Luca Hassler,1126745,22.0,176.0,Austria,M,Left,1845936000.0,270000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Wolfsberger AC,2076,Michael Schweiger,1973767,20.0,184.0,Austria,M,Right,,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Wolfsberger AC,2076,Adama Drame,1655334,21.0,189.0,Côte d'Ivoire,D,Right,1845936000.0,155000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Wolfsberger AC,2076,David Đurić,1406116,20.0,174.0,Serbia,D,Left,,205000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Wolfsberger AC,2076,Cheick Mamadou Diabate,1801585,22.0,188.0,Côte d'Ivoire,D,Right,1814313600.0,1100000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Wolfsberger AC,2076,Raffael Behounek,799723,29.0,187.0,Austria,D,Right,1877472000.0,570000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Wolfsberger AC,2076,Austin Harrison Uzondu,1928493,,,Nigeria,D,Left,,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Wolfsberger AC,2076,Nicolas Wimmer,843630,31.0,190.0,Austria,D,Left,1845936000.0,725000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Wolfsberger AC,2076,Fabian Wohlmuth,989751,24.0,188.0,Austria,D,Right,1845936000.0,720000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Wolfsberger AC,2076,Matteo Kitz,1988994,19.0,190.0,Austria,D,Right,1845936000.0,260000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Wolfsberger AC,2076,Nikolas Polster,962268,24.0,188.0,Austria,G,Right,1814313600.0,2100000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Wolfsberger AC,2076,Lukas Gütlbauer,942888,25.0,191.0,Austria,G,Right,1814313600.0,465000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Wolfsberger AC,2076,David Skubl,1049106,24.0,184.0,Austria,G,Right,1877472000.0,105000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Grazer AK 1902,2052,Mark Große,842680,27.0,183.0,Austria,F,Both,1814313600.0,440000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Grazer AK 1902,2052,Daniel Maderner,336257,30.0,190.0,Austria,F,Right,1814313600.0,310000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Grazer AK 1902,2052,Anthony Smits,1384369,21.0,182.0,Netherlands,F,Right,1845936000.0,230000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Grazer AK 1902,2052,Alexander Hofleitner,1510108,26.0,196.0,Austria,F,Right,1845936000.0,340000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Grazer AK 1902,2052,Nicky Fatayi Brown Ugo,1896862,20.0,,Nigeria,F,Both,,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Grazer AK 1902,2052,Jacob Italiano,907217,25.0,177.0,Australia,M,Both,1814313600.0,650000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Grazer AK 1902,2052,Ismaël Guerti,1928232,22.0,178.0,Morocco,M,,,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Grazer AK 1902,2052,Leon Klassen,879504,26.0,174.0,Russia,M,Left,1877472000.0,620000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Grazer AK 1902,2052,Peter Michorl,186691,31.0,178.0,Austria,M,Left,1845936000.0,515000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Grazer AK 1902,2052,Anderson,980464,28.0,184.0,Brazil,M,Right,1845936000.0,520000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Grazer AK 1902,2052,Liam Hermesh,1167390,22.0,178.0,Israel,M,Right,1877472000.0,190000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Grazer AK 1902,2052,Souleyman Mandey,1489151,20.0,189.0,Austria,M,Right,1877472000.0,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Grazer AK 1902,2052,Christian Lichtenberger,887904,30.0,172.0,Austria,M,,1845936000.0,310000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Grazer AK 1902,2052,Matthias Gragger,1112757,24.0,188.0,Austria,M,Right,1845936000.0,230000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Grazer AK 1902,2052,Tobias Koch,936477,25.0,180.0,Austria,M,Right,1814313600.0,370000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Grazer AK 1902,2052,Tim Trummer,1385795,20.0,189.0,Austria,D,Right,1814313600.0,1400000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Grazer AK 1902,2052,Beres Owusu,1507454,22.0,185.0,France,D,Right,1877472000.0,750000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Grazer AK 1902,2052,Donovan Pines,974359,28.0,194.0,USA,D,,1814313600.0,480000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Grazer AK 1902,2052,Ludwig Vraa-Jensen,1149085,21.0,187.0,Denmark,D,Both,1845936000.0,440000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Grazer AK 1902,2052,Petar Markovic,1910439,20.0,184.0,Austria,D,Right,1877472000.0,77000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Grazer AK 1902,2052,Yannick Oberleitner,1213470,24.0,190.0,Germany,D,Both,1814313600.0,180000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Grazer AK 1902,2052,Cican Stanković,125488,33.0,186.0,Austria,G,Both,1814313600.0,240000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Grazer AK 1902,2052,Jakob Meierhofer,817938,28.0,186.0,Austria,G,Both,,220000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Grazer AK 1902,2052,Christoph Nicht,165093,32.0,184.0,Austria,G,Right,1814313600.0,105000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,Grazer AK 1902,2052,Christoph Hasenhuttl,2677391,,,Austria,,,,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FC Blau Weiss Linz,2113,Ronivaldo,314304,37.0,173.0,Austria,F,Right,1814313600.0,185000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FC Blau Weiss Linz,2113,Romeo Vučić,1064215,23.0,186.0,Austria,F,Right,1845936000.0,270000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FC Blau Weiss Linz,2113,Filip Ristanić,1064296,22.0,181.0,Austria,F,Right,1845936000.0,155000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FC Blau Weiss Linz,2113,Mauro Hämmerle,1567342,18.0,,Austria,F,Left,1845936000.0,195000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FC Blau Weiss Linz,2113,Jacob Collmann,1902136,25.0,191.0,Germany,F,,1814313600.0,48000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FC Blau Weiss Linz,2113,Anton Tsarenko,1142207,22.0,162.0,Ukraine,M,Right,1814313600.0,290000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FC Blau Weiss Linz,2113,Erik Weinhauer,1394185,25.0,171.0,Germany,M,Both,1845936000.0,160000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FC Blau Weiss Linz,2113,Dominik Frieser,336675,32.0,176.0,Austria,M,Right,1845936000.0,265000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FC Blau Weiss Linz,2113,Karim Conte,822493,26.0,171.0,Guinea,M,Left,1845936000.0,275000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FC Blau Weiss Linz,2113,Felix Ruschke,1387925,23.0,185.0,Germany,M,Right,1845936000.0,215000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FC Blau Weiss Linz,2113,Thomas Schiestl,1010027,23.0,179.0,Austria,M,Left,1845936000.0,160000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FC Blau Weiss Linz,2113,Nico Grimbs,1393043,22.0,184.0,Germany,M,Right,,110000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FC Blau Weiss Linz,2113,Felix Gerstmayer,2190974,22.0,178.0,Austria,M,Right,1814313600.0,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FC Blau Weiss Linz,2113,Dario Kreiker,1103904,23.0,185.0,Austria,M,Right,1845936000.0,280000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FC Blau Weiss Linz,2113,Lukas Fabian,1929653,18.0,,Austria,M,,1814313600.0,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FC Blau Weiss Linz,2113,Alem Pašić,940276,28.0,194.0,Slovenia,D,Right,1814313600.0,530000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FC Blau Weiss Linz,2113,Manuel Maranda,827461,29.0,188.0,Austria,D,Right,1877472000.0,460000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FC Blau Weiss Linz,2113,Fabio Strauss,335863,32.0,195.0,Austria,D,Right,1814313600.0,220000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FC Blau Weiss Linz,2113,David Riegler,1129639,23.0,185.0,Austria,D,Right,1845936000.0,290000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FC Blau Weiss Linz,2113,Matthias Wetschka,1411829,21.0,195.0,Austria,D,Right,1814313600.0,94000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FC Blau Weiss Linz,2113,Marcel Kostenbauer,917003,24.0,186.0,Austria,G,Right,1814313600.0,77000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FC Blau Weiss Linz,2113,Valentin Oelz,1149202,21.0,192.0,Austria,G,,1845936000.0,105000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,Austrian Bundesliga,45,77382,FC Blau Weiss Linz,2113,Christopher Giuliani,825965,27.0,187.0,Austria,G,Left,1845936000.0,110000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SV Ried,2049,Tino Kusanović,1960026,18.0,187.0,Croatia,F,Right,1814313600.0,270000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SV Ried,2049,Niama Pape Sissoko,1901842,20.0,187.0,Mali,F,Right,1814313600.0,96000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SV Ried,2049,Evan Eghosa,1520806,21.0,172.0,Austria,F,,1845936000.0,290000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SV Ried,2049,Joris Boguo,2064292,18.0,,Austria,F,,1814313600.0,380000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SV Ried,2049,Sefiwu Abubakar,1967336,21.0,,Austria,F,,,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SV Ried,2049,Raphael Pesu,2415513,17.0,192.0,Austria,F,Both,,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SV Ried,2049,Jussef Nasrawe,1922533,19.0,171.0,Iraq,M,Left,1814313600.0,390000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SV Ried,2049,Yusuf Maart,1127748,31.0,170.0,South Africa,M,Right,1814313600.0,460000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SV Ried,2049,Stefan Schwab,48912,35.0,183.0,Austria,M,Left,,320000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SV Ried,2049,Tobias Lund Jensen,1403086,20.0,182.0,Denmark,M,Left,1814313600.0,390000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SV Ried,2049,Jaedin Rhodes,1184405,23.0,176.0,South Africa,M,Right,1845936000.0,770000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SV Ried,2049,Ante Bajić,799710,30.0,183.0,Austria,M,Right,1909008000.0,380000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SV Ried,2049,Nermin Mesic,1515954,20.0,,Germany,M,,1814313600.0,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SV Ried,2049,Jonas Mayer,1150764,22.0,173.0,Austria,M,Right,1845936000.0,770000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SV Ried,2049,Philipp Pomer,843501,28.0,180.0,Austria,M,Right,1877472000.0,375000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SV Ried,2049,Lukas Malicsek,825958,27.0,180.0,Austria,M,Right,1845936000.0,290000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SV Ried,2049,Fabian Rossdorfer,1510442,20.0,180.0,Austria,M,Right,1845936000.0,535000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SV Ried,2049,Conrad Scholl,1952412,19.0,190.0,Germany,M,Right,,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SV Ried,2049,Nevio Zotz,2188151,19.0,175.0,Austria,M,Left,1845936000.0,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SV Ried,2049,Martin Rasner,336387,31.0,177.0,Austria,M,Right,1814313600.0,230000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SV Ried,2049,Fabian Lechner,2064290,20.0,178.0,Austria,M,Left,,120000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SV Ried,2049,Leonit Zeqiri,2563612,17.0,,Kosovo,M,,,110000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SV Ried,2049,Samuel Johansen Chukwudi,1434592,23.0,195.0,Faroe Islands,D,Right,1877472000.0,275000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SV Ried,2049,Oliver Sorg,1504873,19.0,176.0,Austria,D,Left,1877472000.0,410000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SV Ried,2049,Dejan Radonjic,1415861,20.0,190.0,Austria,D,Right,1877472000.0,560000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SV Ried,2049,Michael Sollbauer,42950,36.0,186.0,Austria,D,Right,1814313600.0,105000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SV Ried,2049,Oliver Steurer,801605,31.0,190.0,Germany,D,Left,1814313600.0,410000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SV Ried,2049,Dominik Kirnbauer,1034271,23.0,190.0,Austria,D,Right,1814313600.0,145000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SV Ried,2049,Alessandro Goiginger,2534929,17.0,191.0,Austria,D,Left,,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SV Ried,2049,Andreas Leitner,138119,32.0,183.0,Austria,G,Both,1845936000.0,260000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SV Ried,2049,Dominik Stöger,1500750,19.0,200.0,Austria,G,,1845936000.0,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SV Ried,2049,Felix Wimmer,919521,27.0,180.0,Austria,G,Left,1845936000.0,155000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Wolfsberger AC,2076,Giacomo Vrioni,862484,27.0,188.0,Albania,F,Left,1845936000.0,625000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Wolfsberger AC,2076,Phillip Verhounig,1423479,20.0,185.0,Austria,F,Both,1877472000.0,330000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Wolfsberger AC,2076,Sankara Karamoko,1444568,22.0,178.0,Côte d'Ivoire,F,Right,1814313600.0,935000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Wolfsberger AC,2076,Markus Pink,50126,35.0,188.0,Austria,F,Right,1814313600.0,165000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Wolfsberger AC,2076,Mickael Dosso,1548130,21.0,176.0,Denmark,F,Right,,165000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Wolfsberger AC,2076,Marco Schabauer,1514236,20.0,,Austria,F,,1845936000.0,190000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Wolfsberger AC,2076,Donis Avdijaj,281271,29.0,173.0,Kosovo,M,Right,1814313600.0,530000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Wolfsberger AC,2076,Otar Mamageishvili,1006067,23.0,180.0,Georgia,M,Right,1814313600.0,735000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Wolfsberger AC,2076,Boris Matić,1146072,21.0,180.0,Serbia,M,Right,1877472000.0,1300000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Wolfsberger AC,2076,Emmanuel Agyemang,1894380,22.0,180.0,Ghana,M,Left,1877472000.0,730000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Wolfsberger AC,2076,Veljko Vukojević,1406143,19.0,178.0,Serbia,M,Right,1845936000.0,265000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Wolfsberger AC,2076,Marco Sulzner,1031171,23.0,189.0,Austria,M,Right,1814313600.0,645000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Wolfsberger AC,2076,René Renner,244141,32.0,181.0,Austria,M,Left,1814313600.0,315000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Wolfsberger AC,2076,Simon Piesinger,141205,34.0,194.0,Austria,M,Right,1814313600.0,210000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Wolfsberger AC,2076,Aaron Sky Schwarz,1391307,22.0,180.0,Austria,M,Right,1845936000.0,210000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Wolfsberger AC,2076,Thorsten Schriebl,941055,27.0,175.0,Austria,M,Right,1845936000.0,435000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Wolfsberger AC,2076,Luca Hassler,1126745,22.0,176.0,Austria,M,Left,1845936000.0,270000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Wolfsberger AC,2076,Michael Schweiger,1973767,20.0,184.0,Austria,M,Right,,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Wolfsberger AC,2076,Adama Drame,1655334,21.0,189.0,Côte d'Ivoire,D,Right,1845936000.0,155000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Wolfsberger AC,2076,David Đurić,1406116,20.0,174.0,Serbia,D,Left,,205000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Wolfsberger AC,2076,Cheick Mamadou Diabate,1801585,22.0,188.0,Côte d'Ivoire,D,Right,1814313600.0,1100000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Wolfsberger AC,2076,Raffael Behounek,799723,29.0,187.0,Austria,D,Right,1877472000.0,570000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Wolfsberger AC,2076,Austin Harrison Uzondu,1928493,,,Nigeria,D,Left,,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Wolfsberger AC,2076,Nicolas Wimmer,843630,31.0,190.0,Austria,D,Left,1845936000.0,725000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Wolfsberger AC,2076,Fabian Wohlmuth,989751,24.0,188.0,Austria,D,Right,1845936000.0,720000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Wolfsberger AC,2076,Matteo Kitz,1988994,19.0,190.0,Austria,D,Right,1845936000.0,260000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Wolfsberger AC,2076,Nikolas Polster,962268,24.0,188.0,Austria,G,Right,1814313600.0,2100000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Wolfsberger AC,2076,Lukas Gütlbauer,942888,25.0,191.0,Austria,G,Right,1814313600.0,465000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Wolfsberger AC,2076,David Skubl,1049106,24.0,184.0,Austria,G,Right,1877472000.0,105000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SCR Altach,4856,Srđan Hrstić,1116507,23.0,192.0,Serbia,F,Right,1877472000.0,525000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SCR Altach,4856,Ousmane Diawara,1009557,27.0,187.0,Mali,F,Right,1814313600.0,455000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SCR Altach,4856,Marko Raguž,843668,28.0,192.0,Austria,F,Both,1845936000.0,190000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SCR Altach,4856,Shingo Nakano,1875495,21.0,180.0,Japan,F,Right,1845936000.0,230000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SCR Altach,4856,Erkin Yalcin,1994381,22.0,182.0,Austria,F,Left,1814313600.0,245000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SCR Altach,4856,Vesel Demaku,865653,26.0,179.0,Kosovo,M,Right,1814313600.0,485000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SCR Altach,4856,Salif Tietietta,1830848,21.0,173.0,Burkina Faso,M,Right,,94000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SCR Altach,4856,Patrick Greil,878510,29.0,179.0,Austria,M,Right,1845936000.0,855000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SCR Altach,4856,Benjamin Böckle,962272,24.0,182.0,Austria,M,Left,1877472000.0,680000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SCR Altach,4856,Yann Massombo,1462089,26.0,186.0,France,M,Left,1814313600.0,880000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SCR Altach,4856,Niklas Niehoff,1198077,21.0,187.0,Germany,M,Right,1814313600.0,620000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SCR Altach,4856,Denizcan Cosgun,1064761,24.0,177.0,Austria,M,Right,1845936000.0,320000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SCR Altach,4856,Mike-Steven Bähre,254015,30.0,177.0,Germany,M,Right,1845936000.0,415000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SCR Altach,4856,Yanis Eisschill,1513828,20.0,186.0,Austria,M,Right,1877472000.0,270000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SCR Altach,4856,Adrian Vonbrul,2237454,18.0,,Austria,M,,,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SCR Altach,4856,Henrique Bell,1922595,19.0,191.0,Brazil,D,Left,,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SCR Altach,4856,Benedikt Zech,66285,35.0,186.0,Austria,D,Right,1814313600.0,120000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SCR Altach,4856,Filip Milojevic,1402975,21.0,191.0,Austria,D,Right,1814313600.0,1000000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SCR Altach,4856,Rassa Rahmani,1104233,26.0,186.0,Sweden,D,Left,1845936000.0,265000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SCR Altach,4856,Lukas Jäger,138124,32.0,183.0,Austria,D,Right,1814313600.0,185000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SCR Altach,4856,Jakob Brandtner,1423468,20.0,177.0,Austria,D,Left,1845936000.0,330000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SCR Altach,4856,Dejan Stojanović,109453,33.0,196.0,Austria,G,Left,1877472000.0,470000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SCR Altach,4856,Daniel Antosch,865546,26.0,190.0,Austria,G,Right,1814313600.0,205000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SCR Altach,4856,Paul Piffer,1423478,20.0,182.0,Austria,G,Right,1845936000.0,81000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SCR Altach,4856,Elias Scherf,1083176,23.0,186.0,Austria,G,Right,1814313600.0,91000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Grazer AK 1902,2052,Mark Große,842680,27.0,183.0,Austria,F,Both,1814313600.0,440000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Grazer AK 1902,2052,Daniel Maderner,336257,30.0,190.0,Austria,F,Right,1814313600.0,310000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Grazer AK 1902,2052,Anthony Smits,1384369,21.0,182.0,Netherlands,F,Right,1845936000.0,230000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Grazer AK 1902,2052,Alexander Hofleitner,1510108,26.0,196.0,Austria,F,Right,1845936000.0,340000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Grazer AK 1902,2052,Nicky Fatayi Brown Ugo,1896862,20.0,,Nigeria,F,Both,,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Grazer AK 1902,2052,Jacob Italiano,907217,25.0,177.0,Australia,M,Both,1814313600.0,650000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Grazer AK 1902,2052,Ismaël Guerti,1928232,22.0,178.0,Morocco,M,,,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Grazer AK 1902,2052,Leon Klassen,879504,26.0,174.0,Russia,M,Left,1877472000.0,620000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Grazer AK 1902,2052,Peter Michorl,186691,31.0,178.0,Austria,M,Left,1845936000.0,515000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Grazer AK 1902,2052,Anderson,980464,28.0,184.0,Brazil,M,Right,1845936000.0,520000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Grazer AK 1902,2052,Liam Hermesh,1167390,22.0,178.0,Israel,M,Right,1877472000.0,190000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Grazer AK 1902,2052,Souleyman Mandey,1489151,20.0,189.0,Austria,M,Right,1877472000.0,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Grazer AK 1902,2052,Christian Lichtenberger,887904,30.0,172.0,Austria,M,,1845936000.0,310000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Grazer AK 1902,2052,Matthias Gragger,1112757,24.0,188.0,Austria,M,Right,1845936000.0,230000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Grazer AK 1902,2052,Tobias Koch,936477,25.0,180.0,Austria,M,Right,1814313600.0,370000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Grazer AK 1902,2052,Tim Trummer,1385795,20.0,189.0,Austria,D,Right,1814313600.0,1400000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Grazer AK 1902,2052,Beres Owusu,1507454,22.0,185.0,France,D,Right,1877472000.0,750000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Grazer AK 1902,2052,Donovan Pines,974359,28.0,194.0,USA,D,,1814313600.0,480000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Grazer AK 1902,2052,Ludwig Vraa-Jensen,1149085,21.0,187.0,Denmark,D,Both,1845936000.0,440000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Grazer AK 1902,2052,Petar Markovic,1910439,20.0,184.0,Austria,D,Right,1877472000.0,77000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Grazer AK 1902,2052,Yannick Oberleitner,1213470,24.0,190.0,Germany,D,Both,1814313600.0,180000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Grazer AK 1902,2052,Cican Stanković,125488,33.0,186.0,Austria,G,Both,1814313600.0,240000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Grazer AK 1902,2052,Jakob Meierhofer,817938,28.0,186.0,Austria,G,Both,,220000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Grazer AK 1902,2052,Christoph Nicht,165093,32.0,184.0,Austria,G,Right,1814313600.0,105000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Grazer AK 1902,2052,Christoph Hasenhuttl,2677391,,,Austria,,,,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,WSG Tirol,5405,Nikolai Frederiksen,935076,26.0,180.0,Denmark,F,Left,,970000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,WSG Tirol,5405,Ademola Ola-Adebomi,1212153,22.0,195.0,England,F,Left,1814313600.0,405000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,WSG Tirol,5405,Thomas Sabitzer,862767,25.0,176.0,Austria,F,Right,,275000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,WSG Tirol,5405,Michael Olakigbe,1014556,22.0,180.0,England,F,Right,1814313600.0,485000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,WSG Tirol,5405,Lukas Hinterseer,66214,35.0,192.0,Austria,F,Right,,92000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,WSG Tirol,5405,Thomas Goiginger,164221,33.0,181.0,Austria,F,Right,,240000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,WSG Tirol,5405,Murat Satin,816237,29.0,177.0,Austria,M,,1843344000.0,310000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,WSG Tirol,5405,Mazou Bambara,1929395,21.0,,Burkina Faso,M,,,105000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,WSG Tirol,5405,Quincy Butler,901912,24.0,170.0,USA,M,Right,,380000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,WSG Tirol,5405,Husein Balić,355288,30.0,183.0,Austria,M,Right,,93000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,WSG Tirol,5405,Marc Striednig,1385793,20.0,186.0,Austria,M,Right,,220000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,WSG Tirol,5405,Raphael Gschösser,1980123,20.0,173.0,Austria,M,Right,,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,WSG Tirol,5405,David Falkner,1994391,19.0,,Austria,M,Right,,77000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,WSG Tirol,5405,Marco Boras,1065156,24.0,198.0,Croatia,D,Right,,860000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,WSG Tirol,5405,Drew Murray,1476460,20.0,191.0,USA,D,Right,,165000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,WSG Tirol,5405,David Kubatta,1168503,22.0,195.0,Germany,D,Left,1814313600.0,410000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,WSG Tirol,5405,David Gugganig,791091,29.0,190.0,Austria,D,Left,,290000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,WSG Tirol,5405,Nemanja Čelić,910518,27.0,185.0,Austria,D,Left,,205000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,WSG Tirol,5405,David Jaunegg,1129536,23.0,189.0,Austria,D,Right,,185000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,WSG Tirol,5405,Michael Neuner,1216256,19.0,179.0,Austria,D,Left,1811721600.0,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,WSG Tirol,5405,Salko Hamzić,1493202,19.0,190.0,Austria,G,Left,1845936000.0,435000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,WSG Tirol,5405,Julian Margreiter,2297224,16.0,,Austria,G,,,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,WSG Tirol,5405,Alexander Eckmayr,870127,27.0,186.0,Austria,G,Right,,160000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,WSG Tirol,5405,Felix Libiseller,2668000,19.0,,Austria,G,,,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,FC Blau Weiss Linz,2113,Ronivaldo,314304,37.0,173.0,Austria,F,Right,1814313600.0,185000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,FC Blau Weiss Linz,2113,Romeo Vučić,1064215,23.0,186.0,Austria,F,Right,1845936000.0,270000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,FC Blau Weiss Linz,2113,Filip Ristanić,1064296,22.0,181.0,Austria,F,Right,1845936000.0,155000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,FC Blau Weiss Linz,2113,Mauro Hämmerle,1567342,18.0,,Austria,F,Left,1845936000.0,195000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,FC Blau Weiss Linz,2113,Jacob Collmann,1902136,25.0,191.0,Germany,F,,1814313600.0,48000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,FC Blau Weiss Linz,2113,Anton Tsarenko,1142207,22.0,162.0,Ukraine,M,Right,1814313600.0,290000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,FC Blau Weiss Linz,2113,Erik Weinhauer,1394185,25.0,171.0,Germany,M,Both,1845936000.0,160000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,FC Blau Weiss Linz,2113,Dominik Frieser,336675,32.0,176.0,Austria,M,Right,1845936000.0,265000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,FC Blau Weiss Linz,2113,Karim Conte,822493,26.0,171.0,Guinea,M,Left,1845936000.0,275000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,FC Blau Weiss Linz,2113,Felix Ruschke,1387925,23.0,185.0,Germany,M,Right,1845936000.0,215000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,FC Blau Weiss Linz,2113,Thomas Schiestl,1010027,23.0,179.0,Austria,M,Left,1845936000.0,160000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,FC Blau Weiss Linz,2113,Nico Grimbs,1393043,22.0,184.0,Germany,M,Right,,110000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,FC Blau Weiss Linz,2113,Felix Gerstmayer,2190974,22.0,178.0,Austria,M,Right,1814313600.0,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,FC Blau Weiss Linz,2113,Dario Kreiker,1103904,23.0,185.0,Austria,M,Right,1845936000.0,280000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,FC Blau Weiss Linz,2113,Lukas Fabian,1929653,18.0,,Austria,M,,1814313600.0,,,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,FC Blau Weiss Linz,2113,Alem Pašić,940276,28.0,194.0,Slovenia,D,Right,1814313600.0,530000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,FC Blau Weiss Linz,2113,Manuel Maranda,827461,29.0,188.0,Austria,D,Right,1877472000.0,460000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,FC Blau Weiss Linz,2113,Fabio Strauss,335863,32.0,195.0,Austria,D,Right,1814313600.0,220000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,FC Blau Weiss Linz,2113,David Riegler,1129639,23.0,185.0,Austria,D,Right,1845936000.0,290000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,FC Blau Weiss Linz,2113,Matthias Wetschka,1411829,21.0,195.0,Austria,D,Right,1814313600.0,94000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,FC Blau Weiss Linz,2113,Marcel Kostenbauer,917003,24.0,186.0,Austria,G,Right,1814313600.0,77000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,FC Blau Weiss Linz,2113,Valentin Oelz,1149202,21.0,192.0,Austria,G,,1845936000.0,105000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,FC Blau Weiss Linz,2113,Christopher Giuliani,825965,27.0,187.0,Austria,G,Left,1845936000.0,110000.0,EUR,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:44.161615

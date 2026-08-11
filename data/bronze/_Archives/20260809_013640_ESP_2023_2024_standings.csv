@@ -1,0 +1,61 @@
+﻿country,tournament,tournament_id,season_id,team_name,team_id,position,matches,wins,draws,losses,scores_for,scores_against,points,category,_league_id,_season,_source,_scraped_at
+Spain,LaLiga,8,52376,Real Madrid,2829,1,38,29,8,1,87,26,95,Total,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,FC Barcelona,2817,2,38,26,7,5,79,44,85,Total,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Girona FC,24264,3,38,25,6,7,85,46,81,Total,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Atlético Madrid,2836,4,38,24,4,10,70,43,76,Total,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Athletic Club,2825,5,38,19,11,8,61,37,68,Total,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Real Sociedad,2824,6,38,16,12,10,51,39,60,Total,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Real Betis,2816,7,38,14,15,9,48,45,57,Total,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Villarreal,2819,8,38,14,11,13,65,65,53,Total,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Valencia,2828,9,38,13,10,15,40,45,49,Total,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Deportivo Alavés,2885,10,38,12,10,16,36,46,46,Total,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Osasuna,2820,11,38,12,9,17,45,56,45,Total,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Getafe,2859,12,38,10,13,15,42,54,43,Total,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Celta Vigo,2821,13,38,10,11,17,46,57,41,Total,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Sevilla,2833,14,38,10,11,17,48,54,41,Total,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Mallorca,2826,15,38,8,16,14,33,44,40,Total,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,UD Las Palmas,6577,16,38,10,10,18,33,47,40,Total,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Rayo Vallecano,2818,17,38,8,14,16,29,48,38,Total,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Cádiz,4488,18,38,6,15,17,26,55,33,Total,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Almería,2858,19,38,3,12,23,43,75,21,Total,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Granada,33779,20,38,4,9,25,38,79,21,Total,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Real Madrid,2829,1,19,16,3,0,48,9,51,Home,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Atlético Madrid,2836,2,19,16,1,2,42,22,49,Home,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Girona FC,24264,3,19,15,2,2,53,20,47,Home,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,FC Barcelona,2817,4,19,15,1,3,43,21,46,Home,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Athletic Club,2825,5,19,12,6,1,42,18,42,Home,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Real Betis,2816,6,19,9,7,3,27,19,34,Home,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Deportivo Alavés,2885,7,19,9,4,6,23,19,31,Home,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Real Sociedad,2824,8,19,8,6,5,26,20,30,Home,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Valencia,2828,9,19,8,6,5,20,14,30,Home,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Getafe,2859,10,19,8,5,6,20,22,29,Home,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Villarreal,2819,11,19,7,5,7,36,32,26,Home,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Mallorca,2826,12,19,6,8,5,17,16,26,Home,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Celta Vigo,2821,13,19,6,6,7,21,23,24,Home,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,UD Las Palmas,6577,14,19,6,6,7,20,20,24,Home,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Cádiz,4488,15,19,5,9,5,16,19,24,Home,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Sevilla,2833,16,19,6,5,8,27,27,23,Home,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Osasuna,2820,17,19,6,5,8,19,26,23,Home,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Rayo Vallecano,2818,18,19,4,8,7,18,26,20,Home,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Granada,33779,19,19,4,6,9,24,32,18,Home,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Almería,2858,20,19,1,8,10,22,36,11,Home,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Real Madrid,2829,1,19,13,5,1,39,17,44,Away,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,FC Barcelona,2817,2,19,11,6,2,36,23,39,Away,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Girona FC,24264,3,19,10,4,5,32,26,34,Away,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Real Sociedad,2824,4,19,8,6,5,25,19,30,Away,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Atlético Madrid,2836,5,19,8,3,8,28,21,27,Away,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Villarreal,2819,6,19,7,6,6,29,33,27,Away,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Athletic Club,2825,7,19,7,5,7,19,19,26,Away,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Real Betis,2816,8,19,5,8,6,21,26,23,Away,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Osasuna,2820,9,19,6,4,9,26,30,22,Away,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Valencia,2828,10,19,5,4,10,20,31,19,Away,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Sevilla,2833,11,19,4,6,9,21,27,18,Away,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Rayo Vallecano,2818,12,19,4,6,9,11,22,18,Away,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Celta Vigo,2821,13,19,4,5,10,25,34,17,Away,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,UD Las Palmas,6577,14,19,4,4,11,13,27,16,Away,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Deportivo Alavés,2885,15,19,3,6,10,13,27,15,Away,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Mallorca,2826,16,19,2,8,9,16,28,14,Away,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Getafe,2859,17,19,2,8,9,22,32,14,Away,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Almería,2858,18,19,2,4,13,21,39,10,Away,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Cádiz,4488,19,19,1,6,12,10,36,9,Away,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360
+Spain,LaLiga,8,52376,Granada,33779,20,19,0,3,16,14,47,3,Away,ESP,2023-2024,datafc_sofascore,2026-08-09T01:36:40.714360

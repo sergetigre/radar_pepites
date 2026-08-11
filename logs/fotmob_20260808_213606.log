@@ -1,0 +1,102 @@
+2026-08-08 21:36:06,725 [INFO] =================================================================
+2026-08-08 21:36:06,725 [INFO]   RadarPepites - Scraping FotMob -> Bronze
+2026-08-08 21:36:06,725 [INFO] =================================================================
+2026-08-08 21:36:06,727 [INFO]   Ligues  : ['ENG', 'ESP', 'GER', 'ITA', 'FRA', 'POR', 'NED', 'BEL', 'TUR', 'AUT']
+2026-08-08 21:36:06,729 [INFO]   Saisons : ['2022-2023', '2023-2024', '2024-2025']
+2026-08-08 21:36:06,731 [INFO]   Total   : 30 combinaisons ligue x saison
+2026-08-08 21:36:06,731 [INFO] =================================================================
+2026-08-08 21:36:06,733 [INFO] [1/30] Premier League | 2022-2023
+2026-08-08 21:36:07,465 [ERROR]     leagues API → HTTP 404
+2026-08-08 21:36:07,466 [WARNING]   -> seasonId introuvable pour ENG 2022-2023
+2026-08-08 21:36:07,468 [INFO] [2/30] Premier League | 2023-2024
+2026-08-08 21:36:08,373 [ERROR]     leagues API → HTTP 404
+2026-08-08 21:36:08,374 [WARNING]   -> seasonId introuvable pour ENG 2023-2024
+2026-08-08 21:36:08,376 [INFO] [3/30] Premier League | 2024-2025
+2026-08-08 21:36:08,999 [ERROR]     leagues API → HTTP 404
+2026-08-08 21:36:08,999 [WARNING]   -> seasonId introuvable pour ENG 2024-2025
+2026-08-08 21:36:09,001 [INFO] [4/30] La Liga | 2022-2023
+2026-08-08 21:36:09,608 [ERROR]     leagues API → HTTP 404
+2026-08-08 21:36:09,609 [WARNING]   -> seasonId introuvable pour ESP 2022-2023
+2026-08-08 21:36:09,611 [INFO] [5/30] La Liga | 2023-2024
+2026-08-08 21:36:10,356 [ERROR]     leagues API → HTTP 404
+2026-08-08 21:36:10,357 [WARNING]   -> seasonId introuvable pour ESP 2023-2024
+2026-08-08 21:36:10,357 [INFO] [6/30] La Liga | 2024-2025
+2026-08-08 21:36:11,022 [ERROR]     leagues API → HTTP 404
+2026-08-08 21:36:11,023 [WARNING]   -> seasonId introuvable pour ESP 2024-2025
+2026-08-08 21:36:11,023 [INFO] [7/30] Bundesliga | 2022-2023
+2026-08-08 21:36:11,346 [ERROR]     leagues API → HTTP 404
+2026-08-08 21:36:11,347 [WARNING]   -> seasonId introuvable pour GER 2022-2023
+2026-08-08 21:36:11,347 [INFO] [8/30] Bundesliga | 2023-2024
+2026-08-08 21:36:12,087 [ERROR]     leagues API → HTTP 404
+2026-08-08 21:36:12,088 [WARNING]   -> seasonId introuvable pour GER 2023-2024
+2026-08-08 21:36:12,088 [INFO] [9/30] Bundesliga | 2024-2025
+2026-08-08 21:36:12,692 [ERROR]     leagues API → HTTP 404
+2026-08-08 21:36:12,693 [WARNING]   -> seasonId introuvable pour GER 2024-2025
+2026-08-08 21:36:12,694 [INFO] [10/30] Serie A | 2022-2023
+2026-08-08 21:36:12,968 [ERROR]     leagues API → HTTP 404
+2026-08-08 21:36:12,971 [WARNING]   -> seasonId introuvable pour ITA 2022-2023
+2026-08-08 21:36:12,971 [INFO] [11/30] Serie A | 2023-2024
+2026-08-08 21:36:13,917 [ERROR]     leagues API → HTTP 404
+2026-08-08 21:36:13,918 [WARNING]   -> seasonId introuvable pour ITA 2023-2024
+2026-08-08 21:36:13,919 [INFO] [12/30] Serie A | 2024-2025
+2026-08-08 21:36:14,513 [ERROR]     leagues API → HTTP 404
+2026-08-08 21:36:14,513 [WARNING]   -> seasonId introuvable pour ITA 2024-2025
+2026-08-08 21:36:14,514 [INFO] [13/30] Ligue 1 | 2022-2023
+2026-08-08 21:36:14,890 [ERROR]     leagues API → HTTP 404
+2026-08-08 21:36:14,891 [WARNING]   -> seasonId introuvable pour FRA 2022-2023
+2026-08-08 21:36:14,891 [INFO] [14/30] Ligue 1 | 2023-2024
+2026-08-08 21:36:15,701 [ERROR]     leagues API → HTTP 404
+2026-08-08 21:36:15,702 [WARNING]   -> seasonId introuvable pour FRA 2023-2024
+2026-08-08 21:36:15,705 [INFO] [15/30] Ligue 1 | 2024-2025
+2026-08-08 21:36:16,312 [ERROR]     leagues API → HTTP 404
+2026-08-08 21:36:16,312 [WARNING]   -> seasonId introuvable pour FRA 2024-2025
+2026-08-08 21:36:16,314 [INFO] [16/30] Primeira Liga | 2022-2023
+2026-08-08 21:36:16,669 [ERROR]     leagues API → HTTP 404
+2026-08-08 21:36:16,672 [WARNING]   -> seasonId introuvable pour POR 2022-2023
+2026-08-08 21:36:16,673 [INFO] [17/30] Primeira Liga | 2023-2024
+2026-08-08 21:36:17,311 [ERROR]     leagues API → HTTP 404
+2026-08-08 21:36:17,312 [WARNING]   -> seasonId introuvable pour POR 2023-2024
+2026-08-08 21:36:17,314 [INFO] [18/30] Primeira Liga | 2024-2025
+2026-08-08 21:36:17,922 [ERROR]     leagues API → HTTP 404
+2026-08-08 21:36:17,923 [WARNING]   -> seasonId introuvable pour POR 2024-2025
+2026-08-08 21:36:17,926 [INFO] [19/30] Eredivisie | 2022-2023
+2026-08-08 21:36:18,528 [ERROR]     leagues API → HTTP 404
+2026-08-08 21:36:18,531 [WARNING]   -> seasonId introuvable pour NED 2022-2023
+2026-08-08 21:36:18,532 [INFO] [20/30] Eredivisie | 2023-2024
+2026-08-08 21:36:19,295 [ERROR]     leagues API → HTTP 404
+2026-08-08 21:36:19,295 [WARNING]   -> seasonId introuvable pour NED 2023-2024
+2026-08-08 21:36:19,296 [INFO] [21/30] Eredivisie | 2024-2025
+2026-08-08 21:36:19,606 [ERROR]     leagues API → HTTP 404
+2026-08-08 21:36:19,609 [WARNING]   -> seasonId introuvable pour NED 2024-2025
+2026-08-08 21:36:19,610 [INFO] [22/30] First Division A | 2022-2023
+2026-08-08 21:36:20,231 [ERROR]     leagues API → HTTP 404
+2026-08-08 21:36:20,232 [WARNING]   -> seasonId introuvable pour BEL 2022-2023
+2026-08-08 21:36:20,232 [INFO] [23/30] First Division A | 2023-2024
+2026-08-08 21:36:20,980 [ERROR]     leagues API → HTTP 404
+2026-08-08 21:36:20,982 [WARNING]   -> seasonId introuvable pour BEL 2023-2024
+2026-08-08 21:36:20,984 [INFO] [24/30] First Division A | 2024-2025
+2026-08-08 21:36:21,766 [ERROR]     leagues API → HTTP 404
+2026-08-08 21:36:21,766 [WARNING]   -> seasonId introuvable pour BEL 2024-2025
+2026-08-08 21:36:21,767 [INFO] [25/30] Super Lig | 2022-2023
+2026-08-08 21:36:22,376 [ERROR]     leagues API → HTTP 404
+2026-08-08 21:36:22,377 [WARNING]   -> seasonId introuvable pour TUR 2022-2023
+2026-08-08 21:36:22,378 [INFO] [26/30] Super Lig | 2023-2024
+2026-08-08 21:36:23,009 [ERROR]     leagues API → HTTP 404
+2026-08-08 21:36:23,010 [WARNING]   -> seasonId introuvable pour TUR 2023-2024
+2026-08-08 21:36:23,011 [INFO] [27/30] Super Lig | 2024-2025
+2026-08-08 21:36:23,757 [ERROR]     leagues API → HTTP 404
+2026-08-08 21:36:23,758 [WARNING]   -> seasonId introuvable pour TUR 2024-2025
+2026-08-08 21:36:23,758 [INFO] [28/30] Bundesliga Autriche | 2022-2023
+2026-08-08 21:36:24,014 [ERROR]     leagues API → HTTP 404
+2026-08-08 21:36:24,014 [WARNING]   -> seasonId introuvable pour AUT 2022-2023
+2026-08-08 21:36:24,014 [INFO] [29/30] Bundesliga Autriche | 2023-2024
+2026-08-08 21:36:24,818 [ERROR]     leagues API → HTTP 404
+2026-08-08 21:36:24,820 [WARNING]   -> seasonId introuvable pour AUT 2023-2024
+2026-08-08 21:36:24,822 [INFO] [30/30] Bundesliga Autriche | 2024-2025
+2026-08-08 21:36:25,658 [ERROR]     leagues API → HTTP 404
+2026-08-08 21:36:25,659 [WARNING]   -> seasonId introuvable pour AUT 2024-2025
+2026-08-08 21:36:25,659 [INFO] =================================================================
+2026-08-08 21:36:25,660 [INFO]   Termine : 0/30 fichiers generes
+2026-08-08 21:36:25,663 [WARNING]   Echecs  : ['ENG_2022-2023', 'ENG_2023-2024', 'ENG_2024-2025', 'ESP_2022-2023', 'ESP_2023-2024', 'ESP_2024-2025', 'GER_2022-2023', 'GER_2023-2024', 'GER_2024-2025', 'ITA_2022-2023', 'ITA_2023-2024', 'ITA_2024-2025', 'FRA_2022-2023', 'FRA_2023-2024', 'FRA_2024-2025', 'POR_2022-2023', 'POR_2023-2024', 'POR_2024-2025', 'NED_2022-2023', 'NED_2023-2024', 'NED_2024-2025', 'BEL_2022-2023', 'BEL_2023-2024', 'BEL_2024-2025', 'TUR_2022-2023', 'TUR_2023-2024', 'TUR_2024-2025', 'AUT_2022-2023', 'AUT_2023-2024', 'AUT_2024-2025']
+2026-08-08 21:36:25,665 [INFO]   Bronze  : C:\Users\serge\Documents\02_DEV_PROJETS\radar_pepites\data\bronze
+2026-08-08 21:36:25,667 [INFO] =================================================================

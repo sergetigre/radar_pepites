@@ -1,0 +1,40 @@
+﻿tournament_id,season_id,player_name,player_id,team_name,team_id,saves,goalsPrevented,rating,minutesPlayed,appearances,accuratePasses,accurateLongBalls,accurateLongBallsPercentage,yellowCards,redCards,_league_id,_season,_source,_scraped_at
+8,77559,Aarón Escandell,368922,Real Oviedo,2851,148,5.96,7.24,3240,36,821,299,42.23,3,0,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25
+8,77559,Marko Dmitrović,94527,Espanyol,2814,133,2.09,7.13,3330,37,534,214,32.13,0,0,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25
+8,77559,Mathew Ryan,134029,Levante UD,2849,126,0.71,7.24,3240,36,809,277,46.17,4,0,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25
+8,77559,David Soria,604258,Getafe,2859,118,7.09,7.21,3420,38,504,389,38.75,2,0,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25
+8,77559,Paulo Gazzaniga,164343,Girona FC,24264,116,2.76,7.05,3103,35,767,180,33.33,4,1,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25
+8,77559,Sergio Herrera,294377,Osasuna,2820,113,1.44,6.99,3285,37,723,225,41.82,3,1,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25
+8,77559,Ionuț Radu,815202,Celta Vigo,2821,113,-3.02,6.99,3420,38,664,130,30.3,2,0,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25
+8,77559,Leo Román,1131909,Mallorca,2826,100,2.97,7.02,2970,33,833,229,42.64,4,0,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25
+8,77559,Unai Simón,797291,Athletic Club,2825,100,-3.04,6.88,3330,37,652,259,35.87,1,0,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25
+8,77559,Álex Remiro,791773,Real Sociedad,2824,99,-7.17,6.94,3330,37,982,310,44.67,1,0,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25
+8,77559,Antonio Sivera,369004,Deportivo Alavés,2885,97,-1.12,6.95,3420,38,520,339,39.88,3,0,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25
+8,77559,Augusto Batalla,358910,Rayo Vallecano,2818,92,1.18,6.98,3060,34,804,302,40.43,6,0,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25
+8,77559,Odysseas Vlachodimos,138149,Sevilla,2833,89,2.66,6.97,2970,33,617,206,37.25,2,0,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25
+8,77559,Álvaro Valles,964983,Real Betis,2816,88,-1.79,6.97,2520,28,617,146,38.42,1,0,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25
+8,77559,Jan Oblak,69768,Atlético Madrid,2836,75,0.86,7.1,2700,30,650,206,46.82,0,0,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25
+8,77559,Joan García,930267,FC Barcelona,2817,74,10.24,7.34,2700,30,768,88,51.16,1,0,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25
+8,77559,Luiz Júnior,1066603,Villarreal,2819,73,0.4,6.99,2520,28,431,111,37.5,3,0,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25
+8,77559,Thibaut Courtois,70988,Real Madrid,2829,70,-0.27,6.95,2880,32,809,115,37.1,1,0,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25
+8,77559,Matías Dituro,556884,Elche,2846,64,-0.89,7.36,1980,22,890,274,49.91,1,0,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25
+8,77559,Iñaki Peña,794949,Elche,2846,55,3.0,7.19,1440,16,658,118,34.81,0,0,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25
+8,77559,Julen Agirrezabala,1014412,Valencia,2828,54,-4.03,6.91,1620,18,344,81,35.22,1,0,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25
+8,77559,Stole Dimitrievski,97951,Valencia,2828,52,-1.12,7.07,1800,20,398,135,34.88,1,0,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25
+8,77559,Pau López,548848,Real Betis,2816,30,-0.11,7.08,810,9,187,45,44.12,1,0,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25
+8,77559,Arnau Tenas,908714,Villarreal,2819,30,-1.27,6.87,900,10,179,53,34.19,0,0,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25
+8,77559,Wojciech Szczęsny,50490,FC Barcelona,2817,23,0.53,6.96,720,8,197,20,35.71,0,0,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25
+8,77559,Juan Musso,263651,Atlético Madrid,2836,22,-1.88,6.86,720,8,168,37,43.02,2,0,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25
+8,77559,Dani Cárdenas,965832,Rayo Vallecano,2818,20,3.25,7.75,360,4,85,30,44.12,0,0,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25
+8,77559,Andriy Lunin,857574,Real Madrid,2829,16,0.12,7.08,540,6,183,34,57.63,0,1,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25
+8,77559,Lucas Bergström,996903,Mallorca,2826,15,-0.66,7.06,450,5,78,47,41.59,1,0,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25
+8,77559,Pablo Cunat Campos,2660173,Levante UD,2849,11,-0.26,7.75,180,2,29,15,35.71,0,0,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25
+8,77559,Ørjan Nyland,22209,Sevilla,2833,11,-1.52,6.56,450,5,98,24,36.92,1,0,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25
+8,77559,Aitor Fernández,99516,Osasuna,2820,9,1.05,7.6,136,2,31,16,44.44,3,0,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25
+8,77559,Unai Marrero,1094782,Real Sociedad,2824,7,0.76,7.7,90,1,21,11,39.29,1,0,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25
+8,77559,Adrián,50539,Real Betis,2816,6,2.22,8.1,90,1,26,5,45.45,1,0,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25
+8,77559,Vladyslav Krapyvtsov,1521733,Girona FC,24264,4,-2.59,7.1,136,2,25,8,36.36,0,0,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25
+8,77559,Marc-André Ter Stegen,88625,Girona FC,24264,4,0.54,6.7,180,2,69,7,53.85,0,0,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25
+8,77559,Horațiu Moldovan,857065,Real Oviedo,2851,4,-0.22,6.65,180,2,54,15,37.5,0,0,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25
+8,77559,Alex Padilla,1155116,Athletic Club,2825,4,-1.82,5.1,90,1,11,8,29.63,0,1,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25
+8,77559,Angel Fortuno,1082734,Espanyol,2814,2,0.26,7.9,90,1,21,8,80.0,0,0,ESP,2025-2026,datafc_sofascore,2026-08-10 21:30:25

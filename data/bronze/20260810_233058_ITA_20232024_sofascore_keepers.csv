@@ -1,0 +1,52 @@
+﻿tournament_id,season_id,player_name,player_id,team_name,team_id,saves,goalsPrevented,rating,minutesPlayed,appearances,accuratePasses,accurateLongBalls,accurateLongBallsPercentage,yellowCards,redCards,_league_id,_season,_source,_scraped_at
+23,52760,Michele Di Gregorio,844609,Monza,2729,127,12.29,7.45,2874,33,854,243,45.94,0,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Wladimiro Falcone,256667,Lecce,2689,125,-0.25,7.08,3420,38,619,183,33.95,0,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Lorenzo Montipò,253391,Hellas Verona,2701,106,-7.07,7.06,3330,37,674,363,43.16,0,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Vanja Milinković-Savić,356160,Torino,2696,103,2.93,7.16,3240,36,815,292,35.22,2,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Stefano Turati,893752,Frosinone,2801,98,-9.01,6.79,2745,31,631,103,27.39,0,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Andrea Consigli,38618,Sassuolo,2793,95,-15.87,6.8,3150,35,697,218,36.03,1,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Pietro Terracciano,136856,Fiorentina,2693,92,5.93,7.15,2970,33,860,234,49.16,3,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Josep Martínez,845291,Genoa,2713,88,-2.53,7.07,3240,36,912,297,43.55,2,1,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Mike Maignan,191210,AC Milan,2692,87,-4.07,7.19,2610,29,846,164,48.09,1,1,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Ivan Provedel,308182,Lazio,2699,86,-1.38,7.12,2699,30,732,198,53.51,0,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Wojciech Szczęsny,50490,Juventus,2687,81,-0.26,7.06,3150,35,648,202,48.91,1,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Elia Caprile,947954,Empoli,2705,80,0.96,7.23,2070,23,424,137,35.4,0,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Yann Sommer,16206,Inter,2697,80,6.62,7.15,3060,34,961,159,53.0,1,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Łukasz Skorupski,44906,Bologna,2685,80,-1.13,6.97,2880,32,665,149,41.85,2,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Marco Carnesecchi,865646,Atalanta,2686,79,-0.38,7.14,2426,27,479,170,40.96,0,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Simone Scuffet,284349,Cagliari,2719,79,-9.28,6.79,2789,31,509,197,38.86,3,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Guillermo Ochoa,15497,Us Salernitana 1919,2710,75,-6.51,6.86,1890,21,320,106,29.36,0,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Maduka Okoye,891656,Udinese,2695,65,-0.3,7.07,1890,21,230,103,37.45,2,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Alex Meret,592794,SSC Napoli,2714,64,-1.77,6.84,2774,31,651,114,45.6,0,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Mile Svilar,793986,AS Roma,2702,61,1.16,7.51,1350,15,449,59,43.38,1,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Etrit Berisha,35656,Empoli,2705,50,-4.17,7.09,1260,14,266,56,27.45,0,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Rui Patrício,17737,AS Roma,2702,49,-3.52,6.87,2070,23,407,116,46.59,1,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Marco Silvestri,43970,Udinese,2695,40,-2.31,6.69,1530,17,257,69,36.9,0,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Benoît Costil,26965,Us Salernitana 1919,2710,39,-5.08,6.7,1170,13,213,77,31.82,0,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Marco Sportiello,176301,AC Milan,2692,23,-1.8,7.13,630,7,175,30,49.18,0,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Christos Mandas,913762,Lazio,2699,23,1.26,7.08,721,9,153,53,38.97,0,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Juan Musso,263651,Atalanta,2686,23,-2.08,6.93,990,11,209,49,35.51,0,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Vincenzo Fiorillo,28378,Us Salernitana 1919,2710,18,-0.6,6.98,360,4,44,29,28.43,1,1,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Michele Cerofolini,869273,Frosinone,2801,18,-4.87,6.55,675,8,97,29,26.36,1,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Pierluigi Gollini,329175,SSC Napoli,2714,16,0.19,6.89,630,7,191,49,52.13,0,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Boris Radunović,795926,Cagliari,2719,16,-1.71,6.83,630,7,139,56,52.83,0,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Alessandro Sorrentino,991416,Monza,2729,16,-1.4,6.63,546,7,119,25,36.76,0,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Federico Ravaglia,850952,Bologna,2685,15,2.54,7.13,536,6,144,18,31.58,0,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Oliver Christensen,860306,Fiorentina,2693,10,-4.27,6.6,360,4,131,34,45.33,0,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Simone Perilli,253369,Hellas Verona,2701,8,0.92,8.1,90,1,15,8,28.57,0,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Emil Audero,318603,Inter,2697,8,0.08,7.0,337,4,138,15,36.59,0,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Alessio Cragno,148740,Sassuolo,2793,8,-1.85,6.53,270,3,58,16,34.04,0,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Nicola Leali,98059,Genoa,2713,7,0.78,7.25,177,3,37,21,40.38,1,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Antonio Mirante,27955,AC Milan,2692,5,0.3,6.65,178,2,36,6,31.58,0,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Raffaele Di Gennaro,301162,Inter,2697,4,0.53,7.6,23,1,12,1,50.0,0,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Mattia Perin,79645,Juventus,2687,4,0.24,6.87,225,3,45,7,38.89,0,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Luca Gemello,876235,Torino,2696,4,-1.21,6.35,180,2,87,18,46.15,0,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Carlo Pinsoglio,46420,Juventus,2687,3,0.53,7.1,45,1,13,3,33.33,0,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Samuele Perisan,794784,Empoli,2705,3,-1.32,6.4,90,1,19,3,30.0,0,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Nicola Bagnolini,1085555,Bologna,2685,1,0.02,7.0,8,1,2,1,50.0,0,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Francesco Rossi,80074,Atalanta,2686,1,0.75,6.8,8,1,0,0,0.0,0,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Tommaso Martinelli,1397756,Fiorentina,2693,1,-0.65,6.5,90,1,34,10,45.45,0,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Lapo Nava,1141168,AC Milan,2692,1,0.0,0.0,2,1,1,1,100.0,0,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Nikita Contini,352728,SSC Napoli,2714,0,,6.6,16,1,3,0,0.0,0,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Simone Aresti,17756,Cagliari,2719,0,-0.01,6.6,8,1,0,0,0.0,0,1,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58
+23,52760,Daniele Sommariva,595572,Genoa,2713,0,,6.5,8,1,0,0,0.0,0,0,ITA,2023-2024,datafc_sofascore,2026-08-10 21:30:58

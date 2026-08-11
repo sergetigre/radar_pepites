@@ -1,0 +1,453 @@
+2026-08-08 22:06:20,732 [INFO] =================================================================
+2026-08-08 22:06:20,732 [INFO]   RadarPepites - Scraping Sofascore -> Bronze
+2026-08-08 22:06:20,733 [INFO] =================================================================
+2026-08-08 22:06:20,733 [INFO]   Ligues  : ['ENG', 'ESP', 'GER', 'ITA', 'FRA', 'POR', 'NED', 'BEL', 'TUR', 'AUT']
+2026-08-08 22:06:20,733 [INFO]   Saisons : ['2025-2026']
+2026-08-08 22:06:20,733 [INFO]   Stats   : 20 filtres
+2026-08-08 22:06:20,733 [INFO]   Total   : 10 combinaisons ligue x saison
+2026-08-08 22:06:20,733 [INFO] =================================================================
+2026-08-08 22:06:20,733 [INFO] [1/10] Premier League | 2025-2026
+2026-08-08 22:06:20,829 [INFO]   -> seasonId : 63814
+2026-08-08 22:06:24,898 [WARNING]       HTTP 403 : rating p0
+2026-08-08 22:06:24,898 [INFO]     rating -> 0 joueurs
+2026-08-08 22:06:28,973 [WARNING]       HTTP 403 : goals p0
+2026-08-08 22:06:28,974 [INFO]     goals -> 0 joueurs
+2026-08-08 22:06:33,032 [WARNING]       HTTP 403 : assists p0
+2026-08-08 22:06:33,034 [INFO]     assists -> 0 joueurs
+2026-08-08 22:06:37,105 [WARNING]       HTTP 403 : accuratePasses p0
+2026-08-08 22:06:37,106 [INFO]     accuratePasses -> 0 joueurs
+2026-08-08 22:06:41,161 [WARNING]       HTTP 403 : keyPasses p0
+2026-08-08 22:06:41,162 [INFO]     keyPasses -> 0 joueurs
+2026-08-08 22:06:45,224 [WARNING]       HTTP 403 : tackles p0
+2026-08-08 22:06:45,225 [INFO]     tackles -> 0 joueurs
+2026-08-08 22:06:49,299 [WARNING]       HTTP 403 : interceptions p0
+2026-08-08 22:06:49,300 [INFO]     interceptions -> 0 joueurs
+2026-08-08 22:06:53,374 [WARNING]       HTTP 403 : dribbleSuccess p0
+2026-08-08 22:06:53,376 [INFO]     dribbleSuccess -> 0 joueurs
+2026-08-08 22:06:57,429 [WARNING]       HTTP 403 : minutesPlayed p0
+2026-08-08 22:06:57,430 [INFO]     minutesPlayed -> 0 joueurs
+2026-08-08 22:07:01,498 [WARNING]       HTTP 403 : yellowCards p0
+2026-08-08 22:07:01,498 [INFO]     yellowCards -> 0 joueurs
+2026-08-08 22:07:05,559 [WARNING]       HTTP 403 : redCards p0
+2026-08-08 22:07:05,560 [INFO]     redCards -> 0 joueurs
+2026-08-08 22:07:09,633 [WARNING]       HTTP 403 : expectedGoals p0
+2026-08-08 22:07:09,634 [INFO]     expectedGoals -> 0 joueurs
+2026-08-08 22:07:13,724 [WARNING]       HTTP 403 : successfulLongBalls p0
+2026-08-08 22:07:13,725 [INFO]     successfulLongBalls -> 0 joueurs
+2026-08-08 22:07:17,816 [WARNING]       HTTP 403 : accurateCrosses p0
+2026-08-08 22:07:17,816 [INFO]     accurateCrosses -> 0 joueurs
+2026-08-08 22:07:21,877 [WARNING]       HTTP 403 : shotsOnTarget p0
+2026-08-08 22:07:21,878 [INFO]     shotsOnTarget -> 0 joueurs
+2026-08-08 22:07:25,951 [WARNING]       HTTP 403 : bigChancesCreated p0
+2026-08-08 22:07:25,951 [INFO]     bigChancesCreated -> 0 joueurs
+2026-08-08 22:07:30,027 [WARNING]       HTTP 403 : clearances p0
+2026-08-08 22:07:30,028 [INFO]     clearances -> 0 joueurs
+2026-08-08 22:07:34,094 [WARNING]       HTTP 403 : blockedShots p0
+2026-08-08 22:07:34,095 [INFO]     blockedShots -> 0 joueurs
+2026-08-08 22:07:38,162 [WARNING]       HTTP 403 : aerialDuelsWon p0
+2026-08-08 22:07:38,163 [INFO]     aerialDuelsWon -> 0 joueurs
+2026-08-08 22:07:42,215 [WARNING]       HTTP 403 : totalDuelsWon p0
+2026-08-08 22:07:42,216 [INFO]     totalDuelsWon -> 0 joueurs
+2026-08-08 22:07:46,216 [WARNING]   -> Aucune donnee : ENG_2025-2026
+2026-08-08 22:07:46,217 [INFO]   -> Pause 4s...
+2026-08-08 22:07:50,217 [INFO] [2/10] La Liga | 2025-2026
+2026-08-08 22:07:50,297 [INFO]   -> seasonId : 63916
+2026-08-08 22:07:54,367 [WARNING]       HTTP 403 : rating p0
+2026-08-08 22:07:54,368 [INFO]     rating -> 0 joueurs
+2026-08-08 22:07:58,429 [WARNING]       HTTP 403 : goals p0
+2026-08-08 22:07:58,430 [INFO]     goals -> 0 joueurs
+2026-08-08 22:08:02,506 [WARNING]       HTTP 403 : assists p0
+2026-08-08 22:08:02,507 [INFO]     assists -> 0 joueurs
+2026-08-08 22:08:06,570 [WARNING]       HTTP 403 : accuratePasses p0
+2026-08-08 22:08:06,571 [INFO]     accuratePasses -> 0 joueurs
+2026-08-08 22:08:10,644 [WARNING]       HTTP 403 : keyPasses p0
+2026-08-08 22:08:10,645 [INFO]     keyPasses -> 0 joueurs
+2026-08-08 22:08:14,747 [WARNING]       HTTP 403 : tackles p0
+2026-08-08 22:08:14,748 [INFO]     tackles -> 0 joueurs
+2026-08-08 22:08:18,815 [WARNING]       HTTP 403 : interceptions p0
+2026-08-08 22:08:18,816 [INFO]     interceptions -> 0 joueurs
+2026-08-08 22:08:22,877 [WARNING]       HTTP 403 : dribbleSuccess p0
+2026-08-08 22:08:22,878 [INFO]     dribbleSuccess -> 0 joueurs
+2026-08-08 22:08:26,970 [WARNING]       HTTP 403 : minutesPlayed p0
+2026-08-08 22:08:26,972 [INFO]     minutesPlayed -> 0 joueurs
+2026-08-08 22:08:31,038 [WARNING]       HTTP 403 : yellowCards p0
+2026-08-08 22:08:31,039 [INFO]     yellowCards -> 0 joueurs
+2026-08-08 22:08:35,100 [WARNING]       HTTP 403 : redCards p0
+2026-08-08 22:08:35,101 [INFO]     redCards -> 0 joueurs
+2026-08-08 22:08:39,165 [WARNING]       HTTP 403 : expectedGoals p0
+2026-08-08 22:08:39,166 [INFO]     expectedGoals -> 0 joueurs
+2026-08-08 22:08:43,222 [WARNING]       HTTP 403 : successfulLongBalls p0
+2026-08-08 22:08:43,223 [INFO]     successfulLongBalls -> 0 joueurs
+2026-08-08 22:08:47,288 [WARNING]       HTTP 403 : accurateCrosses p0
+2026-08-08 22:08:47,290 [INFO]     accurateCrosses -> 0 joueurs
+2026-08-08 22:08:51,355 [WARNING]       HTTP 403 : shotsOnTarget p0
+2026-08-08 22:08:51,356 [INFO]     shotsOnTarget -> 0 joueurs
+2026-08-08 22:08:55,421 [WARNING]       HTTP 403 : bigChancesCreated p0
+2026-08-08 22:08:55,422 [INFO]     bigChancesCreated -> 0 joueurs
+2026-08-08 22:08:59,487 [WARNING]       HTTP 403 : clearances p0
+2026-08-08 22:08:59,488 [INFO]     clearances -> 0 joueurs
+2026-08-08 22:09:03,565 [WARNING]       HTTP 403 : blockedShots p0
+2026-08-08 22:09:03,566 [INFO]     blockedShots -> 0 joueurs
+2026-08-08 22:09:07,632 [WARNING]       HTTP 403 : aerialDuelsWon p0
+2026-08-08 22:09:07,633 [INFO]     aerialDuelsWon -> 0 joueurs
+2026-08-08 22:09:11,719 [WARNING]       HTTP 403 : totalDuelsWon p0
+2026-08-08 22:09:11,720 [INFO]     totalDuelsWon -> 0 joueurs
+2026-08-08 22:09:15,721 [WARNING]   -> Aucune donnee : ESP_2025-2026
+2026-08-08 22:09:15,722 [INFO]   -> Pause 4s...
+2026-08-08 22:09:19,722 [INFO] [3/10] Bundesliga | 2025-2026
+2026-08-08 22:09:19,824 [INFO]   -> seasonId : 64828
+2026-08-08 22:09:23,907 [WARNING]       HTTP 403 : rating p0
+2026-08-08 22:09:23,908 [INFO]     rating -> 0 joueurs
+2026-08-08 22:09:27,979 [WARNING]       HTTP 403 : goals p0
+2026-08-08 22:09:27,980 [INFO]     goals -> 0 joueurs
+2026-08-08 22:09:32,048 [WARNING]       HTTP 403 : assists p0
+2026-08-08 22:09:32,049 [INFO]     assists -> 0 joueurs
+2026-08-08 22:09:36,123 [WARNING]       HTTP 403 : accuratePasses p0
+2026-08-08 22:09:36,124 [INFO]     accuratePasses -> 0 joueurs
+2026-08-08 22:09:40,200 [WARNING]       HTTP 403 : keyPasses p0
+2026-08-08 22:09:40,201 [INFO]     keyPasses -> 0 joueurs
+2026-08-08 22:09:44,260 [WARNING]       HTTP 403 : tackles p0
+2026-08-08 22:09:44,261 [INFO]     tackles -> 0 joueurs
+2026-08-08 22:09:48,335 [WARNING]       HTTP 403 : interceptions p0
+2026-08-08 22:09:48,336 [INFO]     interceptions -> 0 joueurs
+2026-08-08 22:09:52,394 [WARNING]       HTTP 403 : dribbleSuccess p0
+2026-08-08 22:09:52,395 [INFO]     dribbleSuccess -> 0 joueurs
+2026-08-08 22:09:56,464 [WARNING]       HTTP 403 : minutesPlayed p0
+2026-08-08 22:09:56,465 [INFO]     minutesPlayed -> 0 joueurs
+2026-08-08 22:10:00,535 [WARNING]       HTTP 403 : yellowCards p0
+2026-08-08 22:10:00,536 [INFO]     yellowCards -> 0 joueurs
+2026-08-08 22:10:04,614 [WARNING]       HTTP 403 : redCards p0
+2026-08-08 22:10:04,615 [INFO]     redCards -> 0 joueurs
+2026-08-08 22:10:08,678 [WARNING]       HTTP 403 : expectedGoals p0
+2026-08-08 22:10:08,679 [INFO]     expectedGoals -> 0 joueurs
+2026-08-08 22:10:12,736 [WARNING]       HTTP 403 : successfulLongBalls p0
+2026-08-08 22:10:12,737 [INFO]     successfulLongBalls -> 0 joueurs
+2026-08-08 22:10:16,834 [WARNING]       HTTP 403 : accurateCrosses p0
+2026-08-08 22:10:16,835 [INFO]     accurateCrosses -> 0 joueurs
+2026-08-08 22:10:20,909 [WARNING]       HTTP 403 : shotsOnTarget p0
+2026-08-08 22:10:20,911 [INFO]     shotsOnTarget -> 0 joueurs
+2026-08-08 22:10:24,980 [WARNING]       HTTP 403 : bigChancesCreated p0
+2026-08-08 22:10:24,981 [INFO]     bigChancesCreated -> 0 joueurs
+2026-08-08 22:10:29,048 [WARNING]       HTTP 403 : clearances p0
+2026-08-08 22:10:29,049 [INFO]     clearances -> 0 joueurs
+2026-08-08 22:10:33,112 [WARNING]       HTTP 403 : blockedShots p0
+2026-08-08 22:10:33,112 [INFO]     blockedShots -> 0 joueurs
+2026-08-08 22:10:37,200 [WARNING]       HTTP 403 : aerialDuelsWon p0
+2026-08-08 22:10:37,201 [INFO]     aerialDuelsWon -> 0 joueurs
+2026-08-08 22:10:41,302 [WARNING]       HTTP 403 : totalDuelsWon p0
+2026-08-08 22:10:41,303 [INFO]     totalDuelsWon -> 0 joueurs
+2026-08-08 22:10:45,304 [WARNING]   -> Aucune donnee : GER_2025-2026
+2026-08-08 22:10:45,304 [INFO]   -> Pause 4s...
+2026-08-08 22:10:49,305 [INFO] [4/10] Serie A | 2025-2026
+2026-08-08 22:10:49,365 [INFO]   -> seasonId : 64827
+2026-08-08 22:10:53,436 [WARNING]       HTTP 403 : rating p0
+2026-08-08 22:10:53,437 [INFO]     rating -> 0 joueurs
+2026-08-08 22:10:57,496 [WARNING]       HTTP 403 : goals p0
+2026-08-08 22:10:57,496 [INFO]     goals -> 0 joueurs
+2026-08-08 22:11:01,576 [WARNING]       HTTP 403 : assists p0
+2026-08-08 22:11:01,577 [INFO]     assists -> 0 joueurs
+2026-08-08 22:11:05,640 [WARNING]       HTTP 403 : accuratePasses p0
+2026-08-08 22:11:05,641 [INFO]     accuratePasses -> 0 joueurs
+2026-08-08 22:11:09,716 [WARNING]       HTTP 403 : keyPasses p0
+2026-08-08 22:11:09,718 [INFO]     keyPasses -> 0 joueurs
+2026-08-08 22:11:13,781 [WARNING]       HTTP 403 : tackles p0
+2026-08-08 22:11:13,782 [INFO]     tackles -> 0 joueurs
+2026-08-08 22:11:17,882 [WARNING]       HTTP 403 : interceptions p0
+2026-08-08 22:11:17,882 [INFO]     interceptions -> 0 joueurs
+2026-08-08 22:11:21,965 [WARNING]       HTTP 403 : dribbleSuccess p0
+2026-08-08 22:11:21,966 [INFO]     dribbleSuccess -> 0 joueurs
+2026-08-08 22:11:26,030 [WARNING]       HTTP 403 : minutesPlayed p0
+2026-08-08 22:11:26,031 [INFO]     minutesPlayed -> 0 joueurs
+2026-08-08 22:11:30,118 [WARNING]       HTTP 403 : yellowCards p0
+2026-08-08 22:11:30,119 [INFO]     yellowCards -> 0 joueurs
+2026-08-08 22:11:34,182 [WARNING]       HTTP 403 : redCards p0
+2026-08-08 22:11:34,183 [INFO]     redCards -> 0 joueurs
+2026-08-08 22:11:38,241 [WARNING]       HTTP 403 : expectedGoals p0
+2026-08-08 22:11:38,242 [INFO]     expectedGoals -> 0 joueurs
+2026-08-08 22:11:42,305 [WARNING]       HTTP 403 : successfulLongBalls p0
+2026-08-08 22:11:42,306 [INFO]     successfulLongBalls -> 0 joueurs
+2026-08-08 22:11:46,375 [WARNING]       HTTP 403 : accurateCrosses p0
+2026-08-08 22:11:46,376 [INFO]     accurateCrosses -> 0 joueurs
+2026-08-08 22:11:50,443 [WARNING]       HTTP 403 : shotsOnTarget p0
+2026-08-08 22:11:50,444 [INFO]     shotsOnTarget -> 0 joueurs
+2026-08-08 22:11:54,518 [WARNING]       HTTP 403 : bigChancesCreated p0
+2026-08-08 22:11:54,519 [INFO]     bigChancesCreated -> 0 joueurs
+2026-08-08 22:11:58,588 [WARNING]       HTTP 403 : clearances p0
+2026-08-08 22:11:58,590 [INFO]     clearances -> 0 joueurs
+2026-08-08 22:12:02,656 [WARNING]       HTTP 403 : blockedShots p0
+2026-08-08 22:12:02,658 [INFO]     blockedShots -> 0 joueurs
+2026-08-08 22:12:06,737 [WARNING]       HTTP 403 : aerialDuelsWon p0
+2026-08-08 22:12:06,738 [INFO]     aerialDuelsWon -> 0 joueurs
+2026-08-08 22:12:10,802 [WARNING]       HTTP 403 : totalDuelsWon p0
+2026-08-08 22:12:10,803 [INFO]     totalDuelsWon -> 0 joueurs
+2026-08-08 22:12:14,804 [WARNING]   -> Aucune donnee : ITA_2025-2026
+2026-08-08 22:12:14,804 [INFO]   -> Pause 4s...
+2026-08-08 22:12:18,805 [INFO] [5/10] Ligue 1 | 2025-2026
+2026-08-08 22:12:18,903 [INFO]   -> seasonId : 64829
+2026-08-08 22:12:22,988 [WARNING]       HTTP 403 : rating p0
+2026-08-08 22:12:22,989 [INFO]     rating -> 0 joueurs
+2026-08-08 22:12:27,058 [WARNING]       HTTP 403 : goals p0
+2026-08-08 22:12:27,059 [INFO]     goals -> 0 joueurs
+2026-08-08 22:12:31,177 [WARNING]       HTTP 403 : assists p0
+2026-08-08 22:12:31,178 [INFO]     assists -> 0 joueurs
+2026-08-08 22:12:35,291 [WARNING]       HTTP 403 : accuratePasses p0
+2026-08-08 22:12:35,292 [INFO]     accuratePasses -> 0 joueurs
+2026-08-08 22:12:39,359 [WARNING]       HTTP 403 : keyPasses p0
+2026-08-08 22:12:39,362 [INFO]     keyPasses -> 0 joueurs
+2026-08-08 22:12:43,432 [WARNING]       HTTP 403 : tackles p0
+2026-08-08 22:12:43,435 [INFO]     tackles -> 0 joueurs
+2026-08-08 22:12:47,583 [WARNING]       HTTP 403 : interceptions p0
+2026-08-08 22:12:47,586 [INFO]     interceptions -> 0 joueurs
+2026-08-08 22:12:51,665 [WARNING]       HTTP 403 : dribbleSuccess p0
+2026-08-08 22:12:51,668 [INFO]     dribbleSuccess -> 0 joueurs
+2026-08-08 22:12:55,782 [WARNING]       HTTP 403 : minutesPlayed p0
+2026-08-08 22:12:55,785 [INFO]     minutesPlayed -> 0 joueurs
+2026-08-08 22:12:59,859 [WARNING]       HTTP 403 : yellowCards p0
+2026-08-08 22:12:59,860 [INFO]     yellowCards -> 0 joueurs
+2026-08-08 22:13:03,933 [WARNING]       HTTP 403 : redCards p0
+2026-08-08 22:13:03,936 [INFO]     redCards -> 0 joueurs
+2026-08-08 22:13:08,015 [WARNING]       HTTP 403 : expectedGoals p0
+2026-08-08 22:13:08,017 [INFO]     expectedGoals -> 0 joueurs
+2026-08-08 22:13:12,095 [WARNING]       HTTP 403 : successfulLongBalls p0
+2026-08-08 22:13:12,097 [INFO]     successfulLongBalls -> 0 joueurs
+2026-08-08 22:13:16,188 [WARNING]       HTTP 403 : accurateCrosses p0
+2026-08-08 22:13:16,190 [INFO]     accurateCrosses -> 0 joueurs
+2026-08-08 22:13:20,293 [WARNING]       HTTP 403 : shotsOnTarget p0
+2026-08-08 22:13:20,295 [INFO]     shotsOnTarget -> 0 joueurs
+2026-08-08 22:13:24,375 [WARNING]       HTTP 403 : bigChancesCreated p0
+2026-08-08 22:13:24,377 [INFO]     bigChancesCreated -> 0 joueurs
+2026-08-08 22:13:28,469 [WARNING]       HTTP 403 : clearances p0
+2026-08-08 22:13:28,471 [INFO]     clearances -> 0 joueurs
+2026-08-08 22:13:32,577 [WARNING]       HTTP 403 : blockedShots p0
+2026-08-08 22:13:32,578 [INFO]     blockedShots -> 0 joueurs
+2026-08-08 22:13:36,759 [WARNING]       HTTP 403 : aerialDuelsWon p0
+2026-08-08 22:13:36,761 [INFO]     aerialDuelsWon -> 0 joueurs
+2026-08-08 22:13:40,832 [WARNING]       HTTP 403 : totalDuelsWon p0
+2026-08-08 22:13:40,834 [INFO]     totalDuelsWon -> 0 joueurs
+2026-08-08 22:13:44,835 [WARNING]   -> Aucune donnee : FRA_2025-2026
+2026-08-08 22:13:44,836 [INFO]   -> Pause 4s...
+2026-08-08 22:13:48,838 [INFO] [6/10] Primeira Liga | 2025-2026
+2026-08-08 22:13:48,929 [INFO]   -> seasonId : 64830
+2026-08-08 22:13:53,021 [WARNING]       HTTP 403 : rating p0
+2026-08-08 22:13:53,022 [INFO]     rating -> 0 joueurs
+2026-08-08 22:13:57,091 [WARNING]       HTTP 403 : goals p0
+2026-08-08 22:13:57,092 [INFO]     goals -> 0 joueurs
+2026-08-08 22:14:01,160 [WARNING]       HTTP 403 : assists p0
+2026-08-08 22:14:01,161 [INFO]     assists -> 0 joueurs
+2026-08-08 22:14:05,236 [WARNING]       HTTP 403 : accuratePasses p0
+2026-08-08 22:14:05,237 [INFO]     accuratePasses -> 0 joueurs
+2026-08-08 22:14:09,290 [WARNING]       HTTP 403 : keyPasses p0
+2026-08-08 22:14:09,292 [INFO]     keyPasses -> 0 joueurs
+2026-08-08 22:14:13,345 [WARNING]       HTTP 403 : tackles p0
+2026-08-08 22:14:13,346 [INFO]     tackles -> 0 joueurs
+2026-08-08 22:14:17,422 [WARNING]       HTTP 403 : interceptions p0
+2026-08-08 22:14:17,423 [INFO]     interceptions -> 0 joueurs
+2026-08-08 22:14:21,522 [WARNING]       HTTP 403 : dribbleSuccess p0
+2026-08-08 22:14:21,523 [INFO]     dribbleSuccess -> 0 joueurs
+2026-08-08 22:14:25,633 [WARNING]       HTTP 403 : minutesPlayed p0
+2026-08-08 22:14:25,634 [INFO]     minutesPlayed -> 0 joueurs
+2026-08-08 22:14:29,699 [WARNING]       HTTP 403 : yellowCards p0
+2026-08-08 22:14:29,700 [INFO]     yellowCards -> 0 joueurs
+2026-08-08 22:14:33,794 [WARNING]       HTTP 403 : redCards p0
+2026-08-08 22:14:33,795 [INFO]     redCards -> 0 joueurs
+2026-08-08 22:14:37,867 [WARNING]       HTTP 403 : expectedGoals p0
+2026-08-08 22:14:37,869 [INFO]     expectedGoals -> 0 joueurs
+2026-08-08 22:14:41,937 [WARNING]       HTTP 403 : successfulLongBalls p0
+2026-08-08 22:14:41,938 [INFO]     successfulLongBalls -> 0 joueurs
+2026-08-08 22:14:46,003 [WARNING]       HTTP 403 : accurateCrosses p0
+2026-08-08 22:14:46,005 [INFO]     accurateCrosses -> 0 joueurs
+2026-08-08 22:14:50,077 [WARNING]       HTTP 403 : shotsOnTarget p0
+2026-08-08 22:14:50,078 [INFO]     shotsOnTarget -> 0 joueurs
+2026-08-08 22:14:54,143 [WARNING]       HTTP 403 : bigChancesCreated p0
+2026-08-08 22:14:54,144 [INFO]     bigChancesCreated -> 0 joueurs
+2026-08-08 22:14:58,213 [WARNING]       HTTP 403 : clearances p0
+2026-08-08 22:14:58,214 [INFO]     clearances -> 0 joueurs
+2026-08-08 22:15:02,270 [WARNING]       HTTP 403 : blockedShots p0
+2026-08-08 22:15:02,271 [INFO]     blockedShots -> 0 joueurs
+2026-08-08 22:15:06,334 [WARNING]       HTTP 403 : aerialDuelsWon p0
+2026-08-08 22:15:06,336 [INFO]     aerialDuelsWon -> 0 joueurs
+2026-08-08 22:15:10,413 [WARNING]       HTTP 403 : totalDuelsWon p0
+2026-08-08 22:15:10,414 [INFO]     totalDuelsWon -> 0 joueurs
+2026-08-08 22:15:14,414 [WARNING]   -> Aucune donnee : POR_2025-2026
+2026-08-08 22:15:14,415 [INFO]   -> Pause 4s...
+2026-08-08 22:15:18,415 [INFO] [7/10] Eredivisie | 2025-2026
+2026-08-08 22:15:18,498 [INFO]   -> seasonId : 64831
+2026-08-08 22:15:22,591 [WARNING]       HTTP 403 : rating p0
+2026-08-08 22:15:22,593 [INFO]     rating -> 0 joueurs
+2026-08-08 22:15:26,670 [WARNING]       HTTP 403 : goals p0
+2026-08-08 22:15:26,671 [INFO]     goals -> 0 joueurs
+2026-08-08 22:15:30,734 [WARNING]       HTTP 403 : assists p0
+2026-08-08 22:15:30,735 [INFO]     assists -> 0 joueurs
+2026-08-08 22:15:34,794 [WARNING]       HTTP 403 : accuratePasses p0
+2026-08-08 22:15:34,795 [INFO]     accuratePasses -> 0 joueurs
+2026-08-08 22:15:38,883 [WARNING]       HTTP 403 : keyPasses p0
+2026-08-08 22:15:38,884 [INFO]     keyPasses -> 0 joueurs
+2026-08-08 22:15:42,959 [WARNING]       HTTP 403 : tackles p0
+2026-08-08 22:15:42,961 [INFO]     tackles -> 0 joueurs
+2026-08-08 22:15:47,021 [WARNING]       HTTP 403 : interceptions p0
+2026-08-08 22:15:47,022 [INFO]     interceptions -> 0 joueurs
+2026-08-08 22:15:51,088 [WARNING]       HTTP 403 : dribbleSuccess p0
+2026-08-08 22:15:51,089 [INFO]     dribbleSuccess -> 0 joueurs
+2026-08-08 22:15:55,154 [WARNING]       HTTP 403 : minutesPlayed p0
+2026-08-08 22:15:55,155 [INFO]     minutesPlayed -> 0 joueurs
+2026-08-08 22:15:59,238 [WARNING]       HTTP 403 : yellowCards p0
+2026-08-08 22:15:59,239 [INFO]     yellowCards -> 0 joueurs
+2026-08-08 22:16:03,322 [WARNING]       HTTP 403 : redCards p0
+2026-08-08 22:16:03,323 [INFO]     redCards -> 0 joueurs
+2026-08-08 22:16:07,378 [WARNING]       HTTP 403 : expectedGoals p0
+2026-08-08 22:16:07,378 [INFO]     expectedGoals -> 0 joueurs
+2026-08-08 22:16:11,453 [WARNING]       HTTP 403 : successfulLongBalls p0
+2026-08-08 22:16:11,455 [INFO]     successfulLongBalls -> 0 joueurs
+2026-08-08 22:16:15,513 [WARNING]       HTTP 403 : accurateCrosses p0
+2026-08-08 22:16:15,514 [INFO]     accurateCrosses -> 0 joueurs
+2026-08-08 22:16:19,581 [WARNING]       HTTP 403 : shotsOnTarget p0
+2026-08-08 22:16:19,582 [INFO]     shotsOnTarget -> 0 joueurs
+2026-08-08 22:16:23,661 [WARNING]       HTTP 403 : bigChancesCreated p0
+2026-08-08 22:16:23,662 [INFO]     bigChancesCreated -> 0 joueurs
+2026-08-08 22:16:27,731 [WARNING]       HTTP 403 : clearances p0
+2026-08-08 22:16:27,732 [INFO]     clearances -> 0 joueurs
+2026-08-08 22:16:31,795 [WARNING]       HTTP 403 : blockedShots p0
+2026-08-08 22:16:31,795 [INFO]     blockedShots -> 0 joueurs
+2026-08-08 22:16:35,870 [WARNING]       HTTP 403 : aerialDuelsWon p0
+2026-08-08 22:16:35,871 [INFO]     aerialDuelsWon -> 0 joueurs
+2026-08-08 22:16:39,938 [WARNING]       HTTP 403 : totalDuelsWon p0
+2026-08-08 22:16:39,939 [INFO]     totalDuelsWon -> 0 joueurs
+2026-08-08 22:16:43,939 [WARNING]   -> Aucune donnee : NED_2025-2026
+2026-08-08 22:16:43,940 [INFO]   -> Pause 4s...
+2026-08-08 22:16:47,941 [INFO] [8/10] First Division A | 2025-2026
+2026-08-08 22:16:48,016 [INFO]   -> seasonId : 64832
+2026-08-08 22:16:52,091 [WARNING]       HTTP 403 : rating p0
+2026-08-08 22:16:52,092 [INFO]     rating -> 0 joueurs
+2026-08-08 22:16:56,166 [WARNING]       HTTP 403 : goals p0
+2026-08-08 22:16:56,166 [INFO]     goals -> 0 joueurs
+2026-08-08 22:17:00,238 [WARNING]       HTTP 403 : assists p0
+2026-08-08 22:17:00,240 [INFO]     assists -> 0 joueurs
+2026-08-08 22:17:04,303 [WARNING]       HTTP 403 : accuratePasses p0
+2026-08-08 22:17:04,305 [INFO]     accuratePasses -> 0 joueurs
+2026-08-08 22:17:08,361 [WARNING]       HTTP 403 : keyPasses p0
+2026-08-08 22:17:08,362 [INFO]     keyPasses -> 0 joueurs
+2026-08-08 22:17:12,426 [WARNING]       HTTP 403 : tackles p0
+2026-08-08 22:17:12,427 [INFO]     tackles -> 0 joueurs
+2026-08-08 22:17:16,484 [WARNING]       HTTP 403 : interceptions p0
+2026-08-08 22:17:16,486 [INFO]     interceptions -> 0 joueurs
+2026-08-08 22:17:20,549 [WARNING]       HTTP 403 : dribbleSuccess p0
+2026-08-08 22:17:20,550 [INFO]     dribbleSuccess -> 0 joueurs
+2026-08-08 22:17:24,627 [WARNING]       HTTP 403 : minutesPlayed p0
+2026-08-08 22:17:24,628 [INFO]     minutesPlayed -> 0 joueurs
+2026-08-08 22:17:28,714 [WARNING]       HTTP 403 : yellowCards p0
+2026-08-08 22:17:28,715 [INFO]     yellowCards -> 0 joueurs
+2026-08-08 22:17:32,776 [WARNING]       HTTP 403 : redCards p0
+2026-08-08 22:17:32,777 [INFO]     redCards -> 0 joueurs
+2026-08-08 22:17:36,847 [WARNING]       HTTP 403 : expectedGoals p0
+2026-08-08 22:17:36,848 [INFO]     expectedGoals -> 0 joueurs
+2026-08-08 22:17:40,948 [WARNING]       HTTP 403 : successfulLongBalls p0
+2026-08-08 22:17:40,950 [INFO]     successfulLongBalls -> 0 joueurs
+2026-08-08 22:17:45,016 [WARNING]       HTTP 403 : accurateCrosses p0
+2026-08-08 22:17:45,016 [INFO]     accurateCrosses -> 0 joueurs
+2026-08-08 22:17:49,108 [WARNING]       HTTP 403 : shotsOnTarget p0
+2026-08-08 22:17:49,110 [INFO]     shotsOnTarget -> 0 joueurs
+2026-08-08 22:17:53,182 [WARNING]       HTTP 403 : bigChancesCreated p0
+2026-08-08 22:17:53,183 [INFO]     bigChancesCreated -> 0 joueurs
+2026-08-08 22:17:57,246 [WARNING]       HTTP 403 : clearances p0
+2026-08-08 22:17:57,247 [INFO]     clearances -> 0 joueurs
+2026-08-08 22:18:01,323 [WARNING]       HTTP 403 : blockedShots p0
+2026-08-08 22:18:01,324 [INFO]     blockedShots -> 0 joueurs
+2026-08-08 22:18:05,392 [WARNING]       HTTP 403 : aerialDuelsWon p0
+2026-08-08 22:18:05,393 [INFO]     aerialDuelsWon -> 0 joueurs
+2026-08-08 22:18:09,497 [WARNING]       HTTP 403 : totalDuelsWon p0
+2026-08-08 22:18:09,498 [INFO]     totalDuelsWon -> 0 joueurs
+2026-08-08 22:18:13,499 [WARNING]   -> Aucune donnee : BEL_2025-2026
+2026-08-08 22:18:13,499 [INFO]   -> Pause 4s...
+2026-08-08 22:18:17,500 [INFO] [9/10] Super Lig | 2025-2026
+2026-08-08 22:18:17,593 [INFO]   -> seasonId : 64833
+2026-08-08 22:18:21,678 [WARNING]       HTTP 403 : rating p0
+2026-08-08 22:18:21,679 [INFO]     rating -> 0 joueurs
+2026-08-08 22:18:25,733 [WARNING]       HTTP 403 : goals p0
+2026-08-08 22:18:25,733 [INFO]     goals -> 0 joueurs
+2026-08-08 22:18:29,807 [WARNING]       HTTP 403 : assists p0
+2026-08-08 22:18:29,808 [INFO]     assists -> 0 joueurs
+2026-08-08 22:18:33,882 [WARNING]       HTTP 403 : accuratePasses p0
+2026-08-08 22:18:33,883 [INFO]     accuratePasses -> 0 joueurs
+2026-08-08 22:18:37,989 [WARNING]       HTTP 403 : keyPasses p0
+2026-08-08 22:18:37,989 [INFO]     keyPasses -> 0 joueurs
+2026-08-08 22:18:42,052 [WARNING]       HTTP 403 : tackles p0
+2026-08-08 22:18:42,053 [INFO]     tackles -> 0 joueurs
+2026-08-08 22:18:46,135 [WARNING]       HTTP 403 : interceptions p0
+2026-08-08 22:18:46,135 [INFO]     interceptions -> 0 joueurs
+2026-08-08 22:18:50,216 [WARNING]       HTTP 403 : dribbleSuccess p0
+2026-08-08 22:18:50,217 [INFO]     dribbleSuccess -> 0 joueurs
+2026-08-08 22:18:54,288 [WARNING]       HTTP 403 : minutesPlayed p0
+2026-08-08 22:18:54,289 [INFO]     minutesPlayed -> 0 joueurs
+2026-08-08 22:18:58,355 [WARNING]       HTTP 403 : yellowCards p0
+2026-08-08 22:18:58,355 [INFO]     yellowCards -> 0 joueurs
+2026-08-08 22:19:02,418 [WARNING]       HTTP 403 : redCards p0
+2026-08-08 22:19:02,419 [INFO]     redCards -> 0 joueurs
+2026-08-08 22:19:06,482 [WARNING]       HTTP 403 : expectedGoals p0
+2026-08-08 22:19:06,482 [INFO]     expectedGoals -> 0 joueurs
+2026-08-08 22:19:10,555 [WARNING]       HTTP 403 : successfulLongBalls p0
+2026-08-08 22:19:10,556 [INFO]     successfulLongBalls -> 0 joueurs
+2026-08-08 22:19:14,625 [WARNING]       HTTP 403 : accurateCrosses p0
+2026-08-08 22:19:14,625 [INFO]     accurateCrosses -> 0 joueurs
+2026-08-08 22:19:18,705 [WARNING]       HTTP 403 : shotsOnTarget p0
+2026-08-08 22:19:18,706 [INFO]     shotsOnTarget -> 0 joueurs
+2026-08-08 22:19:22,759 [WARNING]       HTTP 403 : bigChancesCreated p0
+2026-08-08 22:19:22,759 [INFO]     bigChancesCreated -> 0 joueurs
+2026-08-08 22:19:26,828 [WARNING]       HTTP 403 : clearances p0
+2026-08-08 22:19:26,830 [INFO]     clearances -> 0 joueurs
+2026-08-08 22:19:30,904 [WARNING]       HTTP 403 : blockedShots p0
+2026-08-08 22:19:30,905 [INFO]     blockedShots -> 0 joueurs
+2026-08-08 22:19:35,004 [WARNING]       HTTP 403 : aerialDuelsWon p0
+2026-08-08 22:19:35,005 [INFO]     aerialDuelsWon -> 0 joueurs
+2026-08-08 22:19:39,069 [WARNING]       HTTP 403 : totalDuelsWon p0
+2026-08-08 22:19:39,070 [INFO]     totalDuelsWon -> 0 joueurs
+2026-08-08 22:19:43,071 [WARNING]   -> Aucune donnee : TUR_2025-2026
+2026-08-08 22:19:43,071 [INFO]   -> Pause 4s...
+2026-08-08 22:19:47,071 [INFO] [10/10] Bundesliga Autriche | 2025-2026
+2026-08-08 22:19:47,174 [INFO]   -> seasonId : 64834
+2026-08-08 22:19:51,250 [WARNING]       HTTP 403 : rating p0
+2026-08-08 22:19:51,251 [INFO]     rating -> 0 joueurs
+2026-08-08 22:19:55,327 [WARNING]       HTTP 403 : goals p0
+2026-08-08 22:19:55,328 [INFO]     goals -> 0 joueurs
+2026-08-08 22:19:59,382 [WARNING]       HTTP 403 : assists p0
+2026-08-08 22:19:59,384 [INFO]     assists -> 0 joueurs
+2026-08-08 22:20:03,453 [WARNING]       HTTP 403 : accuratePasses p0
+2026-08-08 22:20:03,453 [INFO]     accuratePasses -> 0 joueurs
+2026-08-08 22:20:07,519 [WARNING]       HTTP 403 : keyPasses p0
+2026-08-08 22:20:07,520 [INFO]     keyPasses -> 0 joueurs
+2026-08-08 22:20:11,588 [WARNING]       HTTP 403 : tackles p0
+2026-08-08 22:20:11,588 [INFO]     tackles -> 0 joueurs
+2026-08-08 22:20:15,675 [WARNING]       HTTP 403 : interceptions p0
+2026-08-08 22:20:15,676 [INFO]     interceptions -> 0 joueurs
+2026-08-08 22:20:19,748 [WARNING]       HTTP 403 : dribbleSuccess p0
+2026-08-08 22:20:19,749 [INFO]     dribbleSuccess -> 0 joueurs
+2026-08-08 22:20:23,813 [WARNING]       HTTP 403 : minutesPlayed p0
+2026-08-08 22:20:23,815 [INFO]     minutesPlayed -> 0 joueurs
+2026-08-08 22:20:27,881 [WARNING]       HTTP 403 : yellowCards p0
+2026-08-08 22:20:27,882 [INFO]     yellowCards -> 0 joueurs
+2026-08-08 22:20:31,947 [WARNING]       HTTP 403 : redCards p0
+2026-08-08 22:20:31,948 [INFO]     redCards -> 0 joueurs
+2026-08-08 22:20:36,073 [WARNING]       HTTP 403 : expectedGoals p0
+2026-08-08 22:20:36,074 [INFO]     expectedGoals -> 0 joueurs
+2026-08-08 22:20:40,141 [WARNING]       HTTP 403 : successfulLongBalls p0
+2026-08-08 22:20:40,142 [INFO]     successfulLongBalls -> 0 joueurs
+2026-08-08 22:20:44,234 [WARNING]       HTTP 403 : accurateCrosses p0
+2026-08-08 22:20:44,235 [INFO]     accurateCrosses -> 0 joueurs
+2026-08-08 22:20:48,302 [WARNING]       HTTP 403 : shotsOnTarget p0
+2026-08-08 22:20:48,304 [INFO]     shotsOnTarget -> 0 joueurs
+2026-08-08 22:20:52,403 [WARNING]       HTTP 403 : bigChancesCreated p0
+2026-08-08 22:20:52,405 [INFO]     bigChancesCreated -> 0 joueurs
+2026-08-08 22:20:56,459 [WARNING]       HTTP 403 : clearances p0
+2026-08-08 22:20:56,460 [INFO]     clearances -> 0 joueurs
+2026-08-08 22:21:00,513 [WARNING]       HTTP 403 : blockedShots p0
+2026-08-08 22:21:00,514 [INFO]     blockedShots -> 0 joueurs
+2026-08-08 22:21:04,577 [WARNING]       HTTP 403 : aerialDuelsWon p0
+2026-08-08 22:21:04,578 [INFO]     aerialDuelsWon -> 0 joueurs
+2026-08-08 22:21:08,671 [WARNING]       HTTP 403 : totalDuelsWon p0
+2026-08-08 22:21:08,672 [INFO]     totalDuelsWon -> 0 joueurs
+2026-08-08 22:21:12,672 [WARNING]   -> Aucune donnee : AUT_2025-2026
+2026-08-08 22:21:12,673 [INFO]   -> Pause 4s...
+2026-08-08 22:21:16,674 [INFO] =================================================================
+2026-08-08 22:21:16,674 [INFO]   Termine  : 0/10 fichiers generes
+2026-08-08 22:21:16,674 [WARNING]   Echecs   : ['ENG_2025-2026', 'ESP_2025-2026', 'GER_2025-2026', 'ITA_2025-2026', 'FRA_2025-2026', 'POR_2025-2026', 'NED_2025-2026', 'BEL_2025-2026', 'TUR_2025-2026', 'AUT_2025-2026']
+2026-08-08 22:21:16,674 [INFO]   Bronze   : C:\Users\serge\Documents\02_DEV_PROJETS\radar_pepites\data\bronze
+2026-08-08 22:21:16,674 [INFO] =================================================================

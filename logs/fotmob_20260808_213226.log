@@ -1,0 +1,64 @@
+2026-08-08 21:32:26,202 [INFO] =================================================================
+2026-08-08 21:32:26,203 [INFO]   RadarPepites - Scraping FotMob → Bronze
+2026-08-08 21:32:26,203 [INFO] =================================================================
+2026-08-08 21:32:26,205 [INFO]   Ligues  : ['ENG', 'ESP', 'GER', 'ITA', 'FRA', 'POR', 'NED', 'BEL', 'TUR', 'AUT']
+2026-08-08 21:32:26,207 [INFO]   Saisons : ['2022-2023', '2023-2024', '2024-2025']
+2026-08-08 21:32:26,207 [INFO]   Total   : 30 combinaisons ligue×saison
+2026-08-08 21:32:26,209 [INFO] =================================================================
+2026-08-08 21:32:26,211 [INFO] [1/30] Premier League | 2022-2023
+2026-08-08 21:32:26,934 [WARNING]       goals → HTTP 404
+2026-08-08 21:32:30,553 [WARNING]       assists → HTTP 404
+2026-08-08 21:32:34,383 [WARNING]       yellowCards → HTTP 404
+2026-08-08 21:32:38,006 [WARNING]       redCards → HTTP 404
+2026-08-08 21:32:41,336 [WARNING]       rating → HTTP 404
+2026-08-08 21:32:44,615 [WARNING]       minutesPlayed → HTTP 404
+2026-08-08 21:32:48,238 [WARNING]       shotsOnTarget → HTTP 404
+2026-08-08 21:32:51,853 [WARNING]       keyPasses → HTTP 404
+2026-08-08 21:32:55,474 [WARNING]       tackles → HTTP 404
+2026-08-08 21:32:59,187 [WARNING]       interceptions → HTTP 404
+2026-08-08 21:33:02,460 [WARNING]       accuratePasses → HTTP 404
+2026-08-08 21:33:06,082 [WARNING]       dribbleSuccess → HTTP 404
+2026-08-08 21:33:09,084 [WARNING]   -> Echec : ENG_2022-2023
+2026-08-08 21:33:09,086 [INFO]   -> Pause 3s...
+2026-08-08 21:33:12,087 [INFO] [2/30] Premier League | 2023-2024
+2026-08-08 21:33:13,149 [WARNING]       goals → HTTP 404
+2026-08-08 21:33:16,851 [WARNING]       assists → HTTP 404
+2026-08-08 21:33:20,532 [WARNING]       yellowCards → HTTP 404
+2026-08-08 21:33:23,871 [WARNING]       redCards → HTTP 404
+2026-08-08 21:33:27,552 [WARNING]       rating → HTTP 404
+2026-08-08 21:33:31,385 [WARNING]       minutesPlayed → HTTP 404
+2026-08-08 21:33:35,158 [WARNING]       shotsOnTarget → HTTP 404
+2026-08-08 21:33:38,772 [WARNING]       keyPasses → HTTP 404
+2026-08-08 21:33:42,451 [WARNING]       tackles → HTTP 404
+2026-08-08 21:33:46,228 [WARNING]       interceptions → HTTP 404
+2026-08-08 21:33:50,084 [WARNING]       accuratePasses → HTTP 404
+2026-08-08 21:33:54,010 [WARNING]       dribbleSuccess → HTTP 404
+2026-08-08 21:33:57,011 [WARNING]   -> Echec : ENG_2023-2024
+2026-08-08 21:33:57,012 [INFO]   -> Pause 3s...
+2026-08-08 21:34:00,014 [INFO] [3/30] Premier League | 2024-2025
+2026-08-08 21:34:00,285 [WARNING]       goals → HTTP 404
+2026-08-08 21:34:03,982 [WARNING]       assists → HTTP 404
+2026-08-08 21:34:07,601 [WARNING]       yellowCards → HTTP 404
+2026-08-08 21:34:11,231 [WARNING]       redCards → HTTP 404
+2026-08-08 21:34:14,902 [WARNING]       rating → HTTP 404
+2026-08-08 21:34:18,679 [WARNING]       minutesPlayed → HTTP 404
+2026-08-08 21:34:22,359 [WARNING]       shotsOnTarget → HTTP 404
+2026-08-08 21:34:25,983 [WARNING]       keyPasses → HTTP 404
+2026-08-08 21:34:29,599 [WARNING]       tackles → HTTP 404
+2026-08-08 21:34:33,513 [WARNING]       interceptions → HTTP 404
+2026-08-08 21:34:37,124 [WARNING]       accuratePasses → HTTP 404
+2026-08-08 21:34:40,907 [WARNING]       dribbleSuccess → HTTP 404
+2026-08-08 21:34:43,909 [WARNING]   -> Echec : ENG_2024-2025
+2026-08-08 21:34:43,911 [INFO]   -> Pause 3s...
+2026-08-08 21:34:46,911 [INFO] [4/30] La Liga | 2022-2023
+2026-08-08 21:34:47,529 [WARNING]       goals → HTTP 404
+2026-08-08 21:34:51,170 [WARNING]       assists → HTTP 404
+2026-08-08 21:34:55,010 [WARNING]       yellowCards → HTTP 404
+2026-08-08 21:34:58,645 [WARNING]       redCards → HTTP 404
+2026-08-08 21:35:02,443 [WARNING]       rating → HTTP 404
+2026-08-08 21:35:06,124 [WARNING]       minutesPlayed → HTTP 404
+2026-08-08 21:35:09,733 [WARNING]       shotsOnTarget → HTTP 404
+2026-08-08 21:35:13,344 [WARNING]       keyPasses → HTTP 404
+2026-08-08 21:35:17,085 [WARNING]       tackles → HTTP 404
+2026-08-08 21:35:20,901 [WARNING]       interceptions → HTTP 404
+2026-08-08 21:35:24,674 [WARNING]       accuratePasses → HTTP 404

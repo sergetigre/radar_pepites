@@ -1,0 +1,552 @@
+﻿player_id,player_name,date_of_birth,age,nationality,nationality_id,height,weight,preferred_foot,jersey_number,position,position_detailed,market_value,market_currency,team_id,team_name,_league_id,_season,_source,_scraped_at
+818244,Ousmane Dembélé,1997-05-15,29.0,France,,178.0,,Both,10,F,"['ST', 'RW']",97000000.0,EUR,1644,Paris Saint-Germain,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+889259,Khvicha Kvaratskhelia,2001-02-12,25.0,Georgia,,183.0,70.0,Both,7,F,['LW'],144000000.0,EUR,1644,Paris Saint-Germain,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1154605,Désiré Doué,2005-06-03,21.0,France,,181.0,,Right,14,F,['RW'],124000000.0,EUR,1644,Paris Saint-Germain,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+996952,Bradley Barcola,2002-09-02,23.0,France,,182.0,,Right,29,F,['LW'],87000000.0,EUR,1644,Paris Saint-Germain,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1590918,Ibrahim Mbaye,2008-01-24,18.0,Senegal,,175.0,,Right,49,F,['RW'],29000000.0,EUR,1644,Paris Saint-Germain,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1861665,Quentin Ndjantou,2007-07-22,19.0,France,,182.0,,Right,47,F,['MC'],8400000.0,EUR,1644,Paris Saint-Germain,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1937844,Adam Ayari,2008-03-30,18.0,France,,176.0,,Left,57,F,['RW'],,,1644,Paris Saint-Germain,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2350463,Mamadou Meïté,2009-06-28,17.0,France,,,,Right,55,F,,,,1127138,Paris Saint-Germain U16,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2271270,Noa Bezeme,2007-06-28,19.0,France,,185.0,,Right,65,F,,,,1644,Paris Saint-Germain,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+902029,Vitinha,2000-02-13,26.0,Portugal,,172.0,,Right,17,M,['MC'],130000000.0,EUR,1644,Paris Saint-Germain,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1926085,Dro Fernández,2008-01-12,18.0,Spain,,182.0,,Right,27,M,['AM'],9700000.0,EUR,1644,Paris Saint-Germain,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1190933,João Neves,2004-09-27,21.0,Portugal,,174.0,,Right,87,M,['MC'],148000000.0,EUR,1644,Paris Saint-Germain,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+784655,Fabián Ruiz,1996-04-03,30.0,Spain,,189.0,70.0,Left,8,M,['MC'],29000000.0,EUR,1644,Paris Saint-Germain,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1473491,Senny Mayulu,2006-05-17,20.0,France,,183.0,,Both,24,M,['MC'],38000000.0,EUR,1644,Paris Saint-Germain,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1142672,Warren Zaïre-Emery,2006-03-08,20.0,France,,178.0,,Right,33,M,"['MC', 'DR']",78000000.0,EUR,1644,Paris Saint-Germain,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1130939,Maghnes Akliouche,2002-02-25,24.0,France,,183.0,,Left,11,M,"['RW', 'AM']",49000000.0,EUR,1644,Paris Saint-Germain,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+318967,Renato Sanches,1997-08-18,28.0,Portugal,,176.0,,Right,18,M,['MC'],2100000.0,EUR,1644,Paris Saint-Germain,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1937810,Rayan Abo El Nay,2007-05-13,19.0,France,,170.0,,Right,58,M,['MC'],,,1644,Paris Saint-Germain,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2046493,Younes Idder,2008-01-18,18.0,Morocco,,173.0,,Right,46,M,,,,1644,Paris Saint-Germain,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2267142,Edem Ghalleb,2008-07-23,18.0,Tunisia,,185.0,,Right,63,M,,,,1644,Paris Saint-Germain,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1937813,Vainqueur Diyinu Nzinga,2007-11-26,18.0,DR Congo,,167.0,,,56,M,['MC'],,,1644,Paris Saint-Germain,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1590916,Abdou Fanne Drame,2007-04-01,19.0,France,,174.0,,Right,48,M,,,,1644,Paris Saint-Germain,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2683066,Paul Bourdin,2009-01-14,17.0,France,,,,,53,M,,,,1644,Paris Saint-Germain,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+814594,Achraf Hakimi,1998-11-04,27.0,Morocco,,181.0,68.0,Right,2,D,['DR'],82000000.0,EUR,1644,Paris Saint-Germain,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+989768,Nuno Mendes,2002-06-19,24.0,Portugal,,180.0,62.0,Left,25,D,['DL'],77000000.0,EUR,1644,Paris Saint-Germain,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+155995,Marquinhos,1994-05-14,32.0,Brazil,,183.0,,Right,5,D,['DC'],27000000.0,EUR,1644,Paris Saint-Germain,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+979480,Willian Pacho,2001-10-16,24.0,Ecuador,,187.0,,Left,51,D,['DC'],76000000.0,EUR,1644,Paris Saint-Germain,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1108441,Lucas Beraldo,2003-11-24,22.0,Brazil,,186.0,,Left,4,D,['DC'],20000000.0,EUR,1644,Paris Saint-Germain,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1023567,Ilya Zabarnyi,2002-09-01,23.0,Ukraine,,189.0,,Right,6,D,['DC'],37000000.0,EUR,1644,Paris Saint-Germain,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+352370,Lucas Hernández,1996-02-14,30.0,France,,183.0,76.0,Left,21,D,"['DL', 'DC']",18600000.0,EUR,1644,Paris Saint-Germain,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1403218,Yoram Zague,2006-05-15,20.0,France,,168.0,,Right,42,D,['DR'],1700000.0,EUR,1644,Paris Saint-Germain,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1937846,David Boly,2009-01-22,17.0,France,,181.0,,Right,42,D,['DR'],,,1127138,Paris Saint-Germain U16,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1936801,Dimitri Lucea,2007-01-17,19.0,France,,189.0,,Left,54,D,['DC'],2400000.0,EUR,1644,Paris Saint-Germain,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2152905,Axel Koukaba,2010-01-05,16.0,France,,192.0,,Left,52,D,['DC'],,,1127138,Paris Saint-Germain U16,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+800749,Matvey Safonov,1999-02-25,27.0,Russia,,191.0,80.0,Right,39,G,['GK'],32000000.0,EUR,1644,Paris Saint-Germain,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+996953,Lucas Chevalier,2001-11-06,24.0,France,,188.0,,Right,30,G,['GK'],26000000.0,EUR,1644,Paris Saint-Germain,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1823902,Alessandro Longoni,2008-01-31,18.0,Italy,,192.0,,Left,16,G,['GK'],275000.0,EUR,1644,Paris Saint-Germain,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+859026,Amine Gouiri,2000-02-16,26.0,Algeria,,180.0,72.0,Right,9,F,['ST'],30000000.0,EUR,1641,Olympique de Marseille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+268903,Neal Maupay,1996-08-14,29.0,France,,171.0,69.0,Right,7,F,['ST'],4099999.0,EUR,1641,Olympique de Marseille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1029456,Faris Moumbagna,2000-07-01,26.0,Cameroon,,185.0,78.0,Left,14,F,['ST'],3600000.0,EUR,1641,Olympique de Marseille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1512333,Ange Lago,2004-03-22,22.0,Côte d'Ivoire,,179.0,,Both,78,F,,,,362117,Olympique de Marseille 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+981815,Igor Paixão,2000-06-28,26.0,Brazil,,168.0,,Right,14,M,['LW'],33000000.0,EUR,1641,Olympique de Marseille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+855810,Timothy Weah,2000-02-22,26.0,USA,,185.0,66.0,Right,22,M,"['MR', 'DR', 'RW']",18200000.0,EUR,1641,Olympique de Marseille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+827522,Amine Harit,1997-06-18,29.0,Morocco,,179.0,,Right,11,M,"['AM', 'LW', 'MC']",5300000.0,EUR,1641,Olympique de Marseille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+959805,Quinten Timber,2001-06-17,25.0,Netherlands,,177.0,,Right,27,M,"['MC', 'DM']",24000000.0,EUR,1641,Olympique de Marseille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+945830,Himad Abdelli,1999-11-17,26.0,Algeria,,185.0,,Right,8,M,"['AM', 'MC', 'DM']",4600000.0,EUR,1641,Olympique de Marseille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+149593,Pierre-Emile Højbjerg,1995-08-05,31.0,Denmark,,185.0,84.0,Right,23,M,"['MC', 'DM']",13600000.0,EUR,1641,Olympique de Marseille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+867441,Angel Gomes,2000-08-31,25.0,England,,168.0,52.0,Right,8,M,"['MC', 'DM', 'AM']",10800000.0,EUR,1641,Olympique de Marseille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+96544,Geoffrey Kondogbia,1993-02-15,33.0,Central African Republic,,188.0,76.0,Left,19,M,"['MC', 'DM']",2900000.0,EUR,1641,Olympique de Marseille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1191892,Tochukwu Nnadi,2003-06-30,23.0,Nigeria,,176.0,,Right,6,M,"['MC', 'DM']",4800000.0,EUR,1641,Olympique de Marseille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2250107,Tadjidine Mmadi,2007-03-03,19.0,France,,180.0,,Both,11,M,['LW'],,,362117,Olympique de Marseille 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1844117,Keyliane Abdallah,2006-04-05,20.0,France,,185.0,,Left,7,M,['RW'],46000.0,EUR,362117,Olympique de Marseille 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+877102,Nayef Aguerd,1996-03-30,30.0,Morocco,,188.0,,Left,21,D,['DC'],15900000.0,EUR,1641,Olympique de Marseille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+860307,Facundo Medina,1999-05-28,27.0,Argentina,,184.0,76.0,Left,32,D,"['DC', 'DL']",16300000.0,EUR,1641,Olympique de Marseille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+928236,Leonardo Balerdi,1999-01-26,27.0,Argentina,,188.0,,Right,5,D,['DC'],16399999.0,EUR,1641,Olympique de Marseille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+155997,Emerson,1994-08-03,32.0,Italy,,176.0,63.0,Left,33,D,['DL'],8199999.0,EUR,1641,Olympique de Marseille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+801411,Derek Cornelius,1997-11-25,28.0,Canada,,188.0,82.0,Left,13,D,['DC'],2300000.0,EUR,1641,Olympique de Marseille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1131448,Conrad Jaden Egan-Riley,2003-01-02,23.0,England,,183.0,,Right,4,D,['DC'],9400000.0,EUR,1641,Olympique de Marseille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+558320,Ulisses Garcia,1996-01-11,30.0,Switzerland,,185.0,78.0,Left,6,D,['DL'],2900000.0,EUR,1641,Olympique de Marseille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1403196,Hilan Hamzaoui Slimani,2006-02-15,20.0,Algeria,,187.0,,Right,72,D,,,,362117,Olympique de Marseille 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1131541,Bamo Meïté,2001-06-20,25.0,Côte d'Ivoire,,183.0,,Right,18,D,"['DC', 'DR']",6800000.0,EUR,1641,Olympique de Marseille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1831803,Kelyann Bezahaf,2006-05-15,20.0,Algeria,,176.0,,Right,2,D,['DR'],,,362117,Olympique de Marseille 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1913447,Alexi Koum,2006-02-03,20.0,Cameroon,,,,Left,20,D,['DL'],,,362117,Olympique de Marseille 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+128383,Gerónimo Rulli,1992-05-20,34.0,Argentina,,189.0,80.0,Right,1,G,['GK'],5800000.0,EUR,1641,Olympique de Marseille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+803034,Jeffrey De Lange,1998-04-01,28.0,Netherlands,,188.0,,Both,12,G,['GK'],2700000.0,EUR,1641,Olympique de Marseille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1142668,Jelle Van Neck,2004-03-07,22.0,Belgium,,191.0,,Right,40,G,['GK'],155000.0,EUR,362117,Olympique de Marseille 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+962883,Ansu Fati,2002-10-31,23.0,Spain,,178.0,,Right,31,F,['LW'],15600000.0,EUR,1653,AS Monaco,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+934237,Folarin Balogun,2001-07-03,25.0,USA,,179.0,,Right,9,F,['ST'],45000000.0,EUR,1653,AS Monaco,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1083007,Mika Biereth,2003-02-08,23.0,Denmark,,187.0,,Right,14,F,['ST'],15900000.0,EUR,1653,AS Monaco,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1403216,Paris Brunner,2006-02-15,20.0,Germany,,185.0,,Right,29,F,['LW'],1600000.0,EUR,1653,AS Monaco,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+999070,Matthis Abline,2003-03-28,23.0,France,,182.0,,Right,10,F,"['ST', 'LW']",21000000.0,EUR,1653,AS Monaco,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+111802,Paul Pogba,1993-03-15,33.0,France,,191.0,,Both,8,M,"['MC', 'DM']",2600000.0,EUR,1653,AS Monaco,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1389846,Lamine Camara,2004-01-01,22.0,Senegal,,174.0,,Right,15,M,"['MC', 'DM']",41000000.0,EUR,1653,AS Monaco,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+318963,Aleksandr Golovin,1996-05-30,30.0,Russia,,180.0,70.0,Right,10,M,"['AM', 'LW']",17500000.0,EUR,1653,AS Monaco,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+155818,Takumi Minamino,1995-01-16,31.0,Japan,,174.0,68.0,Right,18,M,['AM'],9700000.0,EUR,1653,AS Monaco,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1823956,Mathys Detourbet,2007-04-29,19.0,France,,178.0,,Both,11,M,['LW'],14600000.0,EUR,1653,AS Monaco,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+770677,Denis Zakaria,1996-11-20,29.0,Switzerland,,191.0,80.0,Right,6,M,"['MC', 'DM', 'DC']",26000000.0,EUR,1653,AS Monaco,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1410148,Mamadou Coulibaly,2004-04-21,22.0,France,,179.0,,Left,28,M,['MC'],14100000.0,EUR,1653,AS Monaco,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1606641,Pape Cabral,2007-01-20,19.0,France,,181.0,,Right,43,M,['MC'],1200000.0,EUR,1653,AS Monaco,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1149152,Stanis Idumbo Muzambo,2005-06-29,21.0,Belgium,,170.0,,Right,17,M,['MC'],3800000.0,EUR,1653,AS Monaco,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1390575,Edan Diop,2004-08-28,21.0,France,,173.0,,Right,37,M,['ML'],2800000.0,EUR,1653,AS Monaco,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1090694,Vanderson,2001-06-21,25.0,Brazil,,173.0,,Right,2,D,"['DR', 'MR']",17100000.0,EUR,1653,AS Monaco,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+946158,Mohammed Salisu,1999-04-17,27.0,Ghana,,188.0,,Left,22,D,"['DC', 'DL']",9200000.0,EUR,1653,AS Monaco,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+146101,Eric Dier,1994-01-15,32.0,England,,191.0,90.0,Both,3,D,['DC'],3600000.0,EUR,1653,AS Monaco,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+281277,Thilo Kehrer,1996-09-21,29.0,Germany,,186.0,76.0,Right,5,D,"['DC', 'DR']",12400000.0,EUR,1653,AS Monaco,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+825846,Jordan Teze,1999-09-30,26.0,Netherlands,,183.0,,Right,4,D,['DR'],16399999.0,EUR,1653,AS Monaco,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1407848,Christian Mawissa,2005-04-18,21.0,France,,184.0,,Left,13,D,"['DC', 'DL']",13700000.0,EUR,1653,AS Monaco,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1471683,Sadibou Sané,2004-06-10,22.0,Senegal,,185.0,,Right,38,D,['DC'],6800000.0,EUR,1653,AS Monaco,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1006113,Nazinho,2003-07-20,23.0,Portugal,,180.0,,Left,20,D,"['DL', 'ML']",6600000.0,EUR,1653,AS Monaco,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+15219,Lukáš Hrádecký,1989-11-24,36.0,Finland,,190.0,80.0,Right,1,G,['GK'],1600000.0,EUR,1653,AS Monaco,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+868964,Philipp Köhn,1998-04-02,28.0,Switzerland,,191.0,75.0,Right,16,G,['GK'],3600000.0,EUR,1653,AS Monaco,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1136884,Yann Lienard,2003-03-16,23.0,France,,192.0,,Right,50,G,['GK'],105000.0,EUR,1653,AS Monaco,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+894396,Terem Moffi,1999-05-25,27.0,Nigeria,,188.0,,Left,9,F,['ST'],8199999.0,EUR,1661,Nice,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1063235,Mohamed Ali Cho,2004-01-19,22.0,France,,182.0,,Left,25,F,"['RW', 'ST']",14500000.0,EUR,1661,Nice,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1035619,Kevin Carlos Omoruyi,2001-04-10,25.0,Spain,,188.0,,Right,90,F,['ST'],4200000.0,EUR,1661,Nice,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1897296,Victor Orakpo,2006-01-14,20.0,Nigeria,,194.0,,Right,45,F,['LW'],390000.0,EUR,1661,Nice,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+962064,Isak Jansson,2002-01-31,24.0,Sweden,,176.0,,Right,21,F,"['LW', 'ST']",4300000.0,EUR,1661,Nice,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1214843,Zoumana Diallo,2005-02-02,21.0,France,,185.0,,Right,44,F,['ST'],765000.0,EUR,293448,OGC Nice U21,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+985923,Hicham Boudaoui,1999-09-23,26.0,Algeria,,176.0,,Right,6,M,"['MC', 'DM']",11300000.0,EUR,1661,Nice,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+944164,Sofiane Diop,2000-06-09,26.0,Morocco,,175.0,55.0,Right,10,M,"['LW', 'AM']",13900000.0,EUR,1661,Nice,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+821728,Jonathan Clauss,1992-09-25,33.0,France,,178.0,70.0,Right,92,M,"['MR', 'DR']",3600000.0,EUR,1661,Nice,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+993455,Salis Abdul Samed,2000-03-26,26.0,Ghana,,180.0,,Right,99,M,"['MC', 'DM']",4300000.0,EUR,1661,Nice,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+842391,Gauthier Hein,1996-08-07,30.0,France,,170.0,62.0,Left,10,M,['AM'],5200000.0,EUR,1661,Nice,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+250133,Morgan Sanson,1994-08-18,31.0,France,,182.0,73.0,Right,8,M,"['MC', 'DM']",3700000.0,EUR,1661,Nice,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2020789,Djibril Coulibaly,2008-11-18,17.0,France,,189.0,,Right,39,M,['MC'],970000.0,EUR,1661,Nice,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1518668,Issiaga Camara,2005-02-02,21.0,Guinea,,178.0,,Right,36,M,['MC'],240000.0,EUR,1661,Nice,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+296434,Laurent Abergel,1993-02-01,33.0,France,,170.0,65.0,Right,19,M,"['MC', 'DM']",1900000.0,EUR,1661,Nice,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2456506,Xavier Mandza,2009-04-06,17.0,France,,,,,,M,,,,241802,No team,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1551242,Everton Pereira,2007-04-11,19.0,France,,181.0,,,41,M,,2100000.0,EUR,1661,Nice,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+926506,Mohamed Abdelmonem,1999-02-01,27.0,Egypt,,183.0,83.0,Right,5,D,['DC'],2700000.0,EUR,1661,Nice,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1120615,Antoine Mendy,2004-05-26,22.0,Senegal,,186.0,,Right,33,D,"['DR', 'DC']",9700000.0,EUR,1661,Nice,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+919027,Ali Abdi,1993-12-20,32.0,Tunisia,,183.0,,Left,2,D,"['DL', 'ML']",1900000.0,EUR,1661,Nice,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1473092,Kojo Peprah Oppong,2004-06-04,22.0,Ghana,,185.0,,Right,37,D,['DC'],9700000.0,EUR,1661,Nice,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+985934,Youssouf Ndayishimiye,1998-10-27,27.0,Burundi,,183.0,,Right,55,D,"['DC', 'MC']",7300000.0,EUR,1661,Nice,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1469180,Moise Bombito,2000-03-30,26.0,Canada,,190.0,,Right,64,D,['DC'],6800000.0,EUR,1661,Nice,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1597141,Hamza Koutoune,2006-09-17,19.0,Morocco,,177.0,,Right,36,D,['DR'],155000.0,EUR,1661,Nice,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+906075,Melvin Bard,2000-11-06,25.0,France,,173.0,65.0,Left,26,D,"['DL', 'ML', 'DC']",10300000.0,EUR,1661,Nice,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+845183,Yehvann Diouf,1999-11-16,26.0,Senegal,,188.0,74.0,Right,80,G,['GK'],6600000.0,EUR,1661,Nice,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1035770,Teddy Boulhendi,2001-04-08,25.0,Algeria,,185.0,,Right,77,G,['GK'],290000.0,EUR,1661,Nice,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+39070,Olivier Giroud,1986-09-30,39.0,France,,192.0,88.0,Left,9,F,['ST'],930000.0,EUR,1643,Lille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1140859,Hamza Igamane,2002-11-02,23.0,Morocco,,181.0,,Right,29,F,['ST'],16600000.0,EUR,1643,Lille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+909318,Mohamed Bayo,1998-06-04,28.0,Guinea,,188.0,75.0,Right,9,F,['ST'],4800000.0,EUR,1643,Lille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1149144,Matías Fernández-Pardo,2005-02-03,21.0,Belgium,,183.0,,Right,7,F,['ST'],38000000.0,EUR,1643,Lille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2427238,Matah Yondjio,2007-02-10,19.0,Cameroon,,177.0,,Right,41,F,,,,305164,Lille 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1512354,Noah Edjouma,2005-10-04,20.0,France,,182.0,,Right,20,F,['RW'],4800000.0,EUR,1643,Lille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1936816,Soriba Diaoune,2007-08-13,18.0,Guinea,,174.0,,Right,35,F,['ST'],,,305164,Lille 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1067284,Tiago Morais,2003-09-03,22.0,Portugal,,168.0,,Both,19,F,['LW'],1900000.0,EUR,1643,Lille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1564180,Ayyoub Bouaddi,2007-10-02,18.0,Morocco,,185.0,,Right,32,M,"['MC', 'DM']",87000000.0,EUR,1643,Lille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1402698,Ethan Mbappé,2006-12-29,19.0,France,,180.0,,Left,8,M,['MC'],7800000.0,EUR,1643,Lille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1391541,Ngal'ayel Mukau,2004-11-03,21.0,DR Congo,,188.0,,Left,17,M,"['MC', 'DM']",14200000.0,EUR,1643,Lille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+368120,Nabil Bentaleb,1994-11-24,31.0,Algeria,,187.0,78.0,Left,6,M,"['MC', 'DM']",4900000.0,EUR,1643,Lille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+965357,Osame Sahraoui,2001-06-11,25.0,Morocco,,170.0,,Right,11,M,['LW'],8700000.0,EUR,1643,Lille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1138804,Hakon Arnar Haraldsson,2003-04-10,23.0,Iceland,,180.0,,Right,10,M,['AM'],26000000.0,EUR,1643,Lille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+934498,Félix Correia,2001-01-22,25.0,Portugal,,178.0,,Right,27,M,"['LW', 'RW']",9700000.0,EUR,1643,Lille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1193676,Başar Önal,2004-07-06,22.0,Türkiye,,173.0,,Right,11,M,"['LW', 'ML']",7700000.0,EUR,1643,Lille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+51665,Benjamin André,1990-08-03,36.0,France,,180.0,76.0,Right,21,M,"['MC', 'DM']",3100000.0,EUR,1643,Lille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1130111,Marius Broholm,2004-12-26,21.0,Norway,,172.0,,Left,14,M,['RW'],4600000.0,EUR,1643,Lille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+827506,Gaëtan Perrin,1996-06-07,30.0,France,,169.0,63.0,Right,28,M,"['RW', 'LW', 'AM']",5200000.0,EUR,1643,Lille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+361780,Calvin Verdonk,1997-04-26,29.0,Indonesia,,174.0,70.0,Left,24,D,"['DL', 'DC']",2600000.0,EUR,1643,Lille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1049775,Alexsandro Ribeiro,1999-08-09,27.0,Brazil,,192.0,,Right,4,D,['DC'],15500000.0,EUR,1643,Lille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1119487,Nathan Ngoy,2003-06-10,23.0,Belgium,,183.0,,Right,3,D,"['DC', 'DR']",24000000.0,EUR,1643,Lille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1087364,Tiago Santos,2002-07-23,24.0,Portugal,,175.0,,Right,22,D,['DR'],10600000.0,EUR,1643,Lille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1003007,Tanguy Nianzou,2002-06-07,24.0,France,,192.0,83.0,Right,5,D,['DC'],1200000.0,EUR,1643,Lille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+827519,Romain Perraud,1997-09-22,28.0,France,,173.0,68.0,Left,15,D,['DL'],6800000.0,EUR,1643,Lille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1513466,Ousmane Touré,2005-02-18,21.0,France,,187.0,,Left,36,D,['DC'],520000.0,EUR,305164,Lille 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1936804,Isaac Cossier,2006-11-30,19.0,France,,186.0,,Left,3,D,['DC'],2700000.0,EUR,1643,Lille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1417059,Loun Srdanovic,2006-08-04,20.0,Switzerland,,180.0,,Right,2,D,['DR'],1300000.0,EUR,1643,Lille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+847494,Berke Özer,2000-05-25,26.0,Türkiye,,191.0,,Right,1,G,['GK'],10500000.0,EUR,1643,Lille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+878898,Arnaud Bodart,1998-03-11,28.0,Belgium,,184.0,,Right,16,G,['GK'],1400000.0,EUR,1643,Lille,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+835480,Loïs Openda,2000-02-16,26.0,Belgium,,177.0,,Right,17,F,['ST'],27000000.0,EUR,1649,Olympique Lyonnais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1202024,Ernest Nuamah,2003-11-01,22.0,Ghana,,178.0,,Left,7,F,"['RW', 'LW']",9500000.0,EUR,1649,Olympique Lyonnais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1171540,Julien Duranville,2006-05-05,20.0,Belgium,,170.0,,Right,24,F,['RW'],6500000.0,EUR,1649,Olympique Lyonnais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+957604,Pavel Šulc,2000-12-29,25.0,Czechia,,177.0,70.0,Right,10,F,['AM'],21000000.0,EUR,1649,Olympique Lyonnais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1614474,Alejandro Gomes Rodriguez,2008-03-11,18.0,England,,176.0,,Right,32,F,['ST'],745000.0,EUR,1649,Olympique Lyonnais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1518669,Kaïl Boudache,2006-06-15,20.0,Algeria,,175.0,,Left,26,F,['RW'],,,1649,Olympique Lyonnais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1961628,Rémi Himbert,2008-02-29,18.0,France,,178.0,,Right,45,F,['RW'],,,305409,Olympique Lyonnais 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1861678,Enzo Molebe,2007-09-18,18.0,France,,178.0,62.0,Right,29,F,['RW'],730000.0,EUR,1649,Olympique Lyonnais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+979118,Tyler Morton,2002-10-31,23.0,England,,185.0,,Right,23,M,"['MC', 'DM']",31000000.0,EUR,1649,Olympique Lyonnais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1195784,Malick Fofana,2005-03-31,21.0,Belgium,,169.0,60.0,Right,11,M,"['LW', 'ML']",29000000.0,EUR,1649,Olympique Lyonnais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+343067,Corentin Tolisso,1994-08-03,32.0,France,,181.0,78.0,Right,8,M,"['MC', 'AM']",11000000.0,EUR,1649,Olympique Lyonnais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2127096,Khalis Merah,2007-02-21,19.0,France,,178.0,,Right,44,M,['MC'],,,305409,Olympique Lyonnais 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1195782,Noah Nartey,2005-10-05,20.0,Denmark,,180.0,,Right,99,M,"['MC', 'DM']",14000000.0,EUR,1649,Olympique Lyonnais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1506773,Mohamed Ouédraogo,2003-01-02,23.0,Burkina Faso,,183.0,,Left,76,M,"['ML', 'DL']",1200000.0,EUR,1649,Olympique Lyonnais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1022084,Tanner Tessmann,2001-09-24,24.0,USA,,187.0,,Right,6,M,"['MC', 'DM']",9500000.0,EUR,1649,Olympique Lyonnais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+918429,Mads Bidstrup,2001-02-25,25.0,Denmark,,175.0,,Right,18,M,"['MC', 'DM']",12600000.0,EUR,1649,Olympique Lyonnais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1545023,Mathys de Carvalho,2005-05-01,21.0,Portugal,,183.0,,Right,39,M,['MC'],,,305409,Olympique Lyonnais 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1402751,Mahamadou Diawara,2005-02-16,21.0,France,,187.0,,Left,34,M,['MC'],1000000.0,EUR,1649,Olympique Lyonnais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+839309,Paul Akouokou,1997-12-20,28.0,Côte d'Ivoire,,190.0,,Right,4,M,"['MC', 'DM']",410000.0,EUR,1649,Olympique Lyonnais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+158243,Nicolás Tagliafico,1992-08-31,33.0,Argentina,,172.0,63.0,Left,3,D,['DL'],3800000.0,EUR,1649,Olympique Lyonnais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+758168,Moussa Niakhaté,1996-03-08,30.0,Senegal,,190.0,70.0,Left,19,D,['DC'],14600000.0,EUR,1649,Olympique Lyonnais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1937750,Noham Kamara,2007-01-22,19.0,France,,183.0,,Right,85,D,['DC'],2900000.0,EUR,1649,Olympique Lyonnais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+973838,Abner Vinícius,2000-05-27,26.0,Brazil,,181.0,,Left,16,D,['DL'],9200000.0,EUR,1649,Olympique Lyonnais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+257091,Duje Ćaleta-Car,1996-09-17,29.0,Croatia,,192.0,,Right,55,D,['DC'],2900000.0,EUR,1649,Olympique Lyonnais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1014540,Ruben Kluivert,2001-05-21,25.0,Netherlands,,187.0,,Right,21,D,['DC'],7500000.0,EUR,1649,Olympique Lyonnais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+352768,Ainsley Maitland-Niles,1997-08-29,28.0,England,,178.0,71.0,Right,98,D,['DR'],10900000.0,EUR,1649,Olympique Lyonnais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+152813,Clinton Mata,1992-11-07,33.0,Angola,,180.0,72.0,Right,22,D,"['DC', 'DR']",2600000.0,EUR,1649,Olympique Lyonnais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1627804,Steeve Kango,2006-12-07,19.0,France,,,,Right,37,D,['DR'],,,305409,Olympique Lyonnais 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+943525,Felix Bacher,2000-10-25,25.0,Austria,,190.0,,Right,25,D,['DC'],6500000.0,EUR,1649,Olympique Lyonnais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+791046,Dominik Greif,1997-04-06,29.0,Slovakia,,197.0,82.0,Right,1,G,['GK'],8600000.0,EUR,1649,Olympique Lyonnais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1481174,Lassine Diarra,2002-11-11,23.0,Mali,,195.0,,,50,G,['GK'],23000.0,EUR,305409,Olympique Lyonnais 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+788180,Rémy Descamps,1996-06-25,30.0,France,,194.0,74.0,Left,40,G,['GK'],1500000.0,EUR,1649,Olympique Lyonnais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1563912,Yvann Konan,2007-01-16,19.0,Côte d'Ivoire,,189.0,,Right,30,G,['GK'],,,305409,Olympique Lyonnais 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1049184,Justin Bengui,2005-07-09,21.0,France,,190.0,87.0,Right,30,G,['GK'],260000.0,EUR,1649,Olympique Lyonnais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1410925,Joaquin Panichelli,2002-10-07,23.0,Argentina,,190.0,82.0,Right,9,F,['ST'],32000000.0,EUR,1659,RC Strasbourg,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1407484,Samuel Amo-Ameyaw,2006-07-18,20.0,England,,174.0,,Left,27,F,['RW'],8500000.0,EUR,1659,RC Strasbourg,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1606632,Rayane Messi,2007-05-23,19.0,France,,175.0,,Right,47,F,['LW'],2600000.0,EUR,1659,RC Strasbourg,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1165974,Miloš Luković,2005-11-18,20.0,Serbia,,184.0,,Right,24,F,['ST'],3400000.0,EUR,1659,RC Strasbourg,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1542818,Yaya Diémé,2007-10-16,18.0,Senegal,,180.0,,Left,34,F,,,,87304,ASC Diambars,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1047484,Sékou Mara,2002-07-30,24.0,France,,184.0,,Right,14,F,['ST'],3600000.0,EUR,1659,RC Strasbourg,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1935902,Ghianny Kodia,2007-09-03,18.0,France,,,,Right,37,F,,,,468868,RC Strasbourg 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+973556,Julio Enciso,2004-01-23,22.0,Paraguay,,173.0,,Right,19,M,"['AM', 'ST']",24000000.0,EUR,1659,RC Strasbourg,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1638338,Gessime Yassine,2005-11-22,20.0,Morocco,,172.0,,Left,80,M,['RW'],13100000.0,EUR,1659,RC Strasbourg,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1605921,Samir El Mourabet,2005-10-06,20.0,Morocco,,186.0,,Left,29,M,"['MC', 'DM']",21000000.0,EUR,1659,RC Strasbourg,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1142233,Diego Moreira,2004-08-06,22.0,Belgium,,179.0,,Left,7,M,"['ML', 'RW', 'LW']",24000000.0,EUR,1659,RC Strasbourg,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+989056,Giovanni Reyna,2002-11-13,23.0,USA,,185.0,,Right,13,M,"['AM', 'RW']",4300000.0,EUR,1659,RC Strasbourg,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1153355,Maxi Oyedele,2004-11-07,21.0,Poland,,183.0,,Right,8,M,"['MC', 'DM']",5200000.0,EUR,1659,RC Strasbourg,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1190938,Martial Godo,2003-03-14,23.0,Côte d'Ivoire,,177.0,,Right,20,M,"['LW', 'RW']",23000000.0,EUR,1659,RC Strasbourg,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1426224,Mathis Amougou,2006-01-18,20.0,France,,177.0,,Right,17,M,['MC'],9500000.0,EUR,1659,RC Strasbourg,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+962068,Sebastian Nanasi,2002-05-16,24.0,Sweden,,178.0,,Right,11,M,"['AM', 'LW', 'ML']",15500000.0,EUR,1659,RC Strasbourg,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1410217,Pape Diop,2003-09-04,22.0,Senegal,,182.0,,Right,21,M,"['MC', 'DM']",8199999.0,EUR,1659,RC Strasbourg,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1930811,Abdoul Ouattara,2005-10-22,20.0,Côte d'Ivoire,,180.0,,Right,42,M,['MC'],13800000.0,EUR,1659,RC Strasbourg,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1536782,Pape Diong,2006-06-15,20.0,Senegal,,193.0,75.0,Right,17,M,['DM'],2600000.0,EUR,1659,RC Strasbourg,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1492676,Rabby Nzingoula,2005-11-25,20.0,France,,183.0,,Right,41,M,['MC'],2100000.0,EUR,1659,RC Strasbourg,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1434543,Diogo Sousa,2006-01-20,20.0,Portugal,,176.0,,Right,23,M,['MC'],8500000.0,EUR,1659,RC Strasbourg,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1650623,Benjamin Brantlind,2008-08-15,17.0,Sweden,,183.0,70.0,Right,26,M,['ML'],535000.0,EUR,1659,RC Strasbourg,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1861695,Tyrese Noubissie,2009-05-13,17.0,France,,188.0,,Left,28,M,,,,468868,RC Strasbourg 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1944829,Max Marechal,2007-05-09,19.0,France,,,,Right,46,M,,,,468868,RC Strasbourg 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1944828,Idrissa Sabaly,2007-11-20,18.0,France,,190.0,,Left,35,M,,,,468868,RC Strasbourg 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1002033,Guéla Doué,2002-10-17,23.0,Côte d'Ivoire,,187.0,,Right,22,D,"['DR', 'DC']",21000000.0,EUR,1659,RC Strasbourg,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+802695,Ben Chilwell,1996-12-21,29.0,England,,181.0,71.0,Left,3,D,"['DL', 'ML']",9200000.0,EUR,1659,RC Strasbourg,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1402709,Genesis Antwi,2007-05-11,19.0,Sweden,,189.0,,Right,64,D,['DR'],360000.0,EUR,1659,RC Strasbourg,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1049517,Ismael Doukouré,2003-07-24,23.0,France,,183.0,,Right,6,D,"['DC', 'MC']",19400000.0,EUR,1659,RC Strasbourg,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1426597,Lucas Høgsberg,2006-06-23,20.0,Denmark,,187.0,,Right,24,D,"['DC', 'DR']",17400000.0,EUR,1659,RC Strasbourg,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1001858,Soumaila Coulibaly,2003-10-14,22.0,France,,190.0,,Left,44,D,['DC'],6400000.0,EUR,1659,RC Strasbourg,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1183059,Mateo Del Blanco,2003-10-31,22.0,Argentina,,170.0,,Left,11,D,['DL'],4700000.0,EUR,1659,RC Strasbourg,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1170197,Abakar Sylla,2002-12-25,23.0,Côte d'Ivoire,,188.0,,Left,5,D,['DC'],2400000.0,EUR,1659,RC Strasbourg,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+983066,Andrew Omobamidele,2002-06-23,24.0,Ireland,,188.0,,Right,2,D,['DC'],8800000.0,EUR,1659,RC Strasbourg,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2200813,Yoann Becker,2009-01-12,17.0,France,,196.0,,Right,43,D,['DC'],,,296227,Strasbourg U19,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1390323,Miłosz Piekutowski,2006-05-08,20.0,Poland,,188.0,,Both,12,G,['GK'],620000.0,EUR,1659,RC Strasbourg,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1965113,Gabriel Kerckaert,2007-10-21,18.0,France,,197.0,,Both,60,G,,,,468868,RC Strasbourg 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2681887,Kingsley Olufade,,,France,,,,,,,,,,1659,RC Strasbourg,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+795228,Odsonne Édouard,1998-01-16,28.0,France,,187.0,,Right,11,F,['ST'],11300000.0,EUR,1648,RC Lens,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+148824,Florian Thauvin,1993-01-26,33.0,France,,179.0,70.0,Left,10,F,"['AM', 'ST']",5200000.0,EUR,1648,RC Lens,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1029018,Abdallah Sima,2001-06-17,25.0,Senegal,,188.0,,Right,19,F,"['LW', 'ST']",4900000.0,EUR,1648,RC Lens,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+788921,Florian Sotoca,1990-10-25,35.0,France,,187.0,79.0,Right,7,F,"['AM', 'ST']",1300000.0,EUR,1648,RC Lens,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1545376,Rayan Fofana,2006-02-12,20.0,France,,180.0,,Right,38,F,['ST'],8300000.0,EUR,1648,RC Lens,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2026685,Gabin Capuano,2006-04-25,20.0,France,,188.0,,Both,26,F,['ST'],,,315641,RC Lens B,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2673662,Mohamed Seddik,2007-03-04,19.0,Algeria,,,,Right,35,F,,,,1170092,Lens U21,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+966849,Saud Abdulhamid,1999-07-18,27.0,Saudi Arabia,,178.0,,Right,23,M,"['DR', 'MR']",8400000.0,EUR,1648,RC Lens,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+822708,Amadou Haidara,1998-01-31,28.0,Mali,,174.0,67.0,Right,21,M,"['MC', 'DM']",4900000.0,EUR,1648,RC Lens,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1094538,Yassine Titraoui,2003-07-26,23.0,Algeria,,170.0,,Both,22,M,"['MC', 'DM']",7200000.0,EUR,1648,RC Lens,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+94286,Thorgan Hazard,1993-03-29,33.0,Belgium,,174.0,69.0,Right,9,M,"['AM', 'LW']",1800000.0,EUR,1648,RC Lens,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+942479,Michał Skóraś,2000-02-15,26.0,Poland,,172.0,64.0,Right,22,M,"['RW', 'LW']",4200000.0,EUR,1648,RC Lens,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1002458,Jhoanner Chávez,2002-04-24,24.0,Ecuador,,182.0,,Left,13,M,"['ML', 'DL']",2300000.0,EUR,1648,RC Lens,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2199216,Mezian Mesloub,2009-11-08,16.0,Portugal,,174.0,,Left,38,M,,520000.0,EUR,1648,RC Lens,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+826208,Michaël Cuisance,1999-08-16,26.0,France,,181.0,73.0,Left,27,M,"['MC', 'AM', 'DM']",3100000.0,EUR,1648,RC Lens,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1423504,Andrija Bulatovic,2006-12-27,19.0,Montenegro,,180.0,,Right,5,M,"['MC', 'DM']",7300000.0,EUR,1648,RC Lens,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+787827,Matthieu Udol,1996-03-20,30.0,France,,178.0,74.0,Left,14,M,"['DL', 'ML']",7700000.0,EUR,1648,RC Lens,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+579576,Ruben Aguilar,1993-04-26,33.0,France,,172.0,70.0,Right,2,M,"['MR', 'DR']",2700000.0,EUR,1648,RC Lens,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2661142,Nathanaël Gane Bernardino,2009-01-16,17.0,France,,,,,36,M,,,,1170092,Lens U21,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1408080,Ismaelo Ganiou,2005-03-14,21.0,France,,185.0,,Right,25,D,"['DC', 'DR']",19400000.0,EUR,1648,RC Lens,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1099117,Samson Baidoo,2004-03-31,22.0,Austria,,190.0,,Right,6,D,['DC'],26000000.0,EUR,1648,RC Lens,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1399503,Nidal Čelik,2006-07-17,20.0,Bosnia & Herzegovina,,192.0,,Right,4,D,"['DC', 'DR']",6400000.0,EUR,1648,RC Lens,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+984183,Maik Nawrocki,2001-02-07,25.0,Poland,,190.0,,Both,3,D,"['DC', 'DR', 'DL']",1400000.0,EUR,1648,RC Lens,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1546405,Kyllian Antonio,2008-01-04,18.0,France,,183.0,,Right,32,D,['DR'],2800000.0,EUR,1648,RC Lens,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+369650,Jonathan Gradit,1992-11-24,33.0,France,,180.0,77.0,Right,24,D,"['DC', 'DR']",2400000.0,EUR,1648,RC Lens,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1545381,Souleymane Sagnan,2005-05-05,21.0,Mali,,187.0,,Left,41,D,['DC'],,,315641,RC Lens B,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2661140,Noé Kemtchoum-Stasiowski,2009-04-06,17.0,France,,,,Right,,D,,,,241802,No team,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1387161,Robin Risser,2004-12-02,21.0,France,,193.0,,Right,40,G,['GK'],31000000.0,EUR,1648,RC Lens,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1961639,Ilan Jourdren,2008-07-17,18.0,France,,185.0,,,60,G,['GK'],,,315641,RC Lens B,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+123226,Mathieu Gorgelin,1990-08-05,36.0,France,,187.0,83.0,Left,,G,['GK'],210000.0,EUR,1648,RC Lens,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+14841,Régis Gurtner,1986-12-08,39.0,France,,183.0,80.0,Right,,G,['GK'],95000.0,EUR,1648,RC Lens,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+343971,Ludovic Ajorque,1994-02-25,32.0,France,,196.0,,Left,19,F,['ST'],3200000.0,EUR,1715,Stade Brestois,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+557166,Mama Baldé,1995-11-06,30.0,Guinea-Bissau,,183.0,69.0,Right,17,F,['ST'],2900000.0,EUR,1715,Stade Brestois,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1606631,Ibrahim Yayiya Kante,2007-03-18,19.0,France,,,,Right,21,F,['RW'],,,397894,Stade Brestois 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1156353,Kamory Doumbia,2003-02-18,23.0,Mali,,170.0,,Right,23,M,"['AM', 'MC']",9800000.0,EUR,1715,Stade Brestois,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1410231,Pathé Mboup,2003-10-19,22.0,Senegal,,175.0,,Right,99,M,['LW'],2600000.0,EUR,1715,Stade Brestois,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1597197,Hamidou Makalou,2006-07-15,20.0,Mali,,164.0,,Right,33,M,['MC'],1100000.0,EUR,1715,Stade Brestois,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1149138,Joseph Nonge,2005-05-15,21.0,Belgium,,184.0,,Left,98,M,['MC'],2100000.0,EUR,1715,Stade Brestois,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+825681,Romain Del Castillo,1996-03-29,30.0,France,,172.0,56.0,Left,10,M,['RW'],6400000.0,EUR,1715,Stade Brestois,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+976396,Joris Chotard,2001-09-24,24.0,France,,179.0,,Right,13,M,"['MC', 'DM']",6700000.0,EUR,1715,Stade Brestois,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+787889,Lucas Tousart,1997-04-29,29.0,France,,185.0,83.0,Right,29,M,"['MC', 'DM']",2100000.0,EUR,1715,Stade Brestois,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+861324,Hugo Magnetti,1998-05-30,28.0,France,,173.0,,Left,8,M,"['MC', 'DM']",5500000.0,EUR,1715,Stade Brestois,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1135605,Axel Camblan,2003-06-18,23.0,France,,169.0,,Right,7,M,['LW'],650000.0,EUR,1715,Stade Brestois,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1499870,Luc Zogbé,2005-03-24,21.0,Côte d'Ivoire,,178.0,,Left,12,D,['DR'],1300000.0,EUR,1715,Stade Brestois,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1129382,Bradley Locko,2002-05-06,24.0,France,,180.0,,Left,2,D,"['DL', 'ML']",6200000.0,EUR,1715,Stade Brestois,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+141080,Kenny Lala,1991-10-03,34.0,France,,178.0,79.0,Right,77,D,['DR'],1400000.0,EUR,1715,Stade Brestois,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+328035,Brendan Chardonnet,1994-12-22,31.0,France,,181.0,74.0,Right,5,D,['DC'],4099999.0,EUR,1715,Stade Brestois,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1894085,Raphaël Le Guen,2006-09-01,19.0,France,,196.0,,Right,71,D,['DC'],,,397894,Stade Brestois 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1891025,Justin Bourgault,2005-09-14,20.0,France,,185.0,79.0,Left,18,D,['DL'],1100000.0,EUR,1715,Stade Brestois,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+891508,Grégoire Coudert,1999-04-03,27.0,France,,190.0,,Left,30,G,['GK'],3600000.0,EUR,1715,Stade Brestois,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1910904,Noah Jauny,2004-08-26,21.0,Ireland,,194.0,,Right,50,G,['GK'],,,1715,Stade Brestois,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1945268,Noé Poillion,2007-07-20,19.0,France,,200.0,,Right,,G,,,,1715,Stade Brestois,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+911851,Yann Gboho,2001-01-14,25.0,France,,173.0,,Right,10,F,"['AM', 'LW']",16600000.0,EUR,1681,Toulouse,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1199247,Santiago Hidalgo,2005-02-17,21.0,Argentina,,174.0,71.0,Left,11,F,['RW'],5800000.0,EUR,1681,Toulouse,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1002267,Jacen Russell Rowe,2002-09-13,23.0,Canada,,184.0,,Both,13,F,['ST'],2900000.0,EUR,1681,Toulouse,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1657108,Julian Vignolo,2006-12-07,19.0,Argentina,,185.0,,Right,7,F,['ST'],1600000.0,EUR,1681,Toulouse,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1961638,Ilyas Azizi,2008-04-13,18.0,France,,173.0,,Right,37,F,['ST'],,,286568,Toulouse U19,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1931591,Wassim Dardake,2008-02-12,18.0,Morocco,,172.0,,,,F,,,,398298,Toulouse 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2302581,Aymen Amaaouch,2009-09-30,16.0,France,,,,Left,,F,['MC'],,,241802,No team,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2203373,Enzo Faty,2007-03-09,19.0,France,,189.0,,Right,20,F,,,,1681,Toulouse,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2683252,Léo Frechingues,2008-08-07,18.0,France,,186.0,,,,F,,,,1681,Toulouse,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+878938,Cristian Cásseres Jr.,2000-01-20,26.0,Venezuela,,174.0,,Right,23,M,"['MC', 'DM']",8199999.0,EUR,1681,Toulouse,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+988801,Abu Francis,2001-04-27,25.0,Ghana,,182.0,,Right,17,M,"['MC', 'DM']",2100000.0,EUR,1681,Toulouse,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1198264,Rafik Messali,2003-04-28,23.0,Algeria,,177.0,,Right,22,M,['MR'],1500000.0,EUR,1681,Toulouse,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1894003,Dayann Methalie,2006-02-15,20.0,France,,186.0,,Left,24,M,['ML'],19700000.0,EUR,1681,Toulouse,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+863133,Aron Dønnum,1998-04-20,28.0,Norway,,179.0,73.0,Left,15,M,['MR'],5400000.0,EUR,1681,Toulouse,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1386065,Mario Sauer,2004-05-15,22.0,Slovakia,,180.0,,Right,77,M,"['MC', 'DM']",1400000.0,EUR,1681,Toulouse,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2193194,Alexis Vossah,2008-03-11,18.0,France,,181.0,,Both,45,M,['DM'],13900000.0,EUR,1681,Toulouse,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+795002,Niklas Schmidt,1998-03-01,28.0,Germany,,183.0,82.0,Left,8,M,"['MC', 'AM']",1600000.0,EUR,1681,Toulouse,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1884150,Mathis Saka,2006-09-20,19.0,France,,173.0,63.0,Right,39,M,['MC'],535000.0,EUR,1681,Toulouse,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2039287,Sion Oppong,2007-09-25,18.0,Sweden,,,,,33,M,['LW'],440000.0,EUR,1681,Toulouse,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+922759,Mark McKenzie,1999-02-25,27.0,USA,,183.0,,Right,3,D,"['DC', 'DL', 'DR']",7300000.0,EUR,1681,Toulouse,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1869973,Christ Tapé,2006-03-02,20.0,Côte d'Ivoire,,188.0,,Left,12,D,"['DL', 'DC']",880000.0,EUR,1681,Toulouse,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+798124,Rasmus Nicolaisen,1997-03-16,29.0,Denmark,,190.0,,Left,2,D,"['DC', 'DL']",5200000.0,EUR,1681,Toulouse,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1444623,Ylies Aradj,2005-06-05,21.0,France,,179.0,,Left,21,D,['DL'],55000.0,EUR,398298,Toulouse 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2077075,Seny Koumbassa,2007-06-20,19.0,France,,194.0,,Right,35,D,['DC'],4700000.0,EUR,1681,Toulouse,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1894007,Gaëtan Bakhouche,2005-02-13,21.0,France,,185.0,77.0,Left,44,D,,,,398298,Toulouse 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1912469,Ismail Diallo,2003-08-23,22.0,France,,182.0,,Right,2,D,['DR'],815000.0,EUR,1681,Toulouse,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1154630,Guillaume Restes,2005-03-11,21.0,France,,188.0,82.0,Left,1,G,['GK'],16200000.0,EUR,1681,Toulouse,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1479500,Mathys Niflore,2007-03-02,19.0,France,,188.0,,Right,60,G,['GK'],2400000.0,EUR,1681,Toulouse,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1999171,Naime Said Mchindra,2005-05-28,21.0,Comoros,,185.0,,Right,40,G,,,,398298,Toulouse 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2639074,Théo Collin,2006-06-16,20.0,France,,,,,,G,,,,398298,Toulouse 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2676602,Darren Bique,,,,,,,,53,,,,,1681,Toulouse,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+867440,Danny Namaso,2000-08-28,25.0,Cameroon,,182.0,,Right,19,F,"['ST', 'AM']",5700000.0,EUR,1646,Auxerre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+936848,Theo Bair,1999-08-27,26.0,Canada,,191.0,,Right,9,F,['ST'],1600000.0,EUR,1646,Auxerre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+951949,Eros Maddy,2001-02-05,25.0,Netherlands,,177.0,,Right,11,F,['RW'],140000.0,EUR,1646,Auxerre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1401005,Remy Labeau Lascary,2003-03-03,23.0,Guadeloupe,,184.0,,Right,3,F,['ST'],3900000.0,EUR,1646,Auxerre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1927696,Ryan Rodin,2006-03-02,20.0,France,,194.0,,Right,31,F,,,,361741,Auxerre 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2409356,Mamoudou Cissokho,2007-12-20,18.0,France,,,,Right,44,F,,,,1646,Auxerre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2687232,Ibrahima Danfakha,2008-12-11,17.0,Senegal,,,,,31,F,,,,1646,Auxerre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1035986,Josué Casimir,2001-09-24,24.0,Haiti,,178.0,,Right,7,M,"['RW', 'MR']",2800000.0,EUR,1646,Auxerre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+904424,Elisha Owusu,1997-11-07,28.0,Ghana,,179.0,62.0,Right,42,M,"['MC', 'DM']",4300000.0,EUR,1646,Auxerre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+913942,Romain Faivre,1998-07-14,28.0,France,,180.0,,Left,28,M,"['AM', 'RW']",4300000.0,EUR,1646,Auxerre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1151803,Kévin Danois,2004-06-28,22.0,France,,183.0,,Right,5,M,['MC'],21000000.0,EUR,1646,Auxerre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+997104,Naouirou Ahamada,2002-03-29,24.0,France,,183.0,,Right,8,M,"['MC', 'DM']",2900000.0,EUR,1646,Auxerre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1126588,Lasso Coulibaly,2002-10-19,23.0,Côte d'Ivoire,,186.0,,Right,21,M,['MR'],825000.0,EUR,1646,Auxerre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+782240,Assane Dioussé,1997-09-20,28.0,Senegal,,175.0,68.0,Left,18,M,"['MC', 'DM']",530000.0,EUR,1646,Auxerre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1149123,Arthur Piedfort,2005-02-01,21.0,Belgium,,186.0,,Right,46,M,"['MC', 'DM']",3800000.0,EUR,1646,Auxerre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1936455,Aristide Zossou,2005-06-14,21.0,Côte d'Ivoire,,178.0,,Right,77,M,['LW'],2700000.0,EUR,1646,Auxerre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2052700,Xiangxin Wei,2008-03-05,18.0,China,,188.0,,Right,11,M,['LW'],325000.0,EUR,1646,Auxerre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1927719,Tidiane Devernois,2007-10-18,18.0,France,,187.0,,Right,36,M,,,,1646,Auxerre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1634397,Rayan Mandengue,2006-01-06,20.0,Cameroon,,,,,24,M,['LW'],,,1646,Auxerre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1974223,Lamfia Dioubaté,2007-07-20,19.0,France,,,,,46,M,,,,1646,Auxerre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1087805,Marvin Senaya,2001-01-28,25.0,Ghana,,179.0,,Right,29,D,"['DR', 'MR']",3100000.0,EUR,1646,Auxerre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+805096,Francisco Sierralta,1997-05-06,29.0,Chile,,192.0,70.0,Right,4,D,['DC'],1100000.0,EUR,1646,Auxerre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1387156,Clement Akpa,2001-11-24,24.0,Côte d'Ivoire,,183.0,,Left,92,D,"['DC', 'DL']",8700000.0,EUR,1646,Auxerre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1177351,Lamine Sy,2002-08-10,23.0,France,,171.0,,Right,27,D,['DR'],2700000.0,EUR,1646,Auxerre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+996951,Sinaly Diomandé,2001-04-09,25.0,Côte d'Ivoire,,184.0,,Right,20,D,"['DC', 'DR']",6600000.0,EUR,1646,Auxerre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+987491,Bryan Okoh,2003-05-16,23.0,Switzerland,,191.0,,Left,24,D,['DC'],4099999.0,EUR,1646,Auxerre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1492311,Christ Makosso,2004-05-09,22.0,Congo Republic,,192.0,,Right,15,D,"['DC', 'DR']",825000.0,EUR,1646,Auxerre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1005648,Fredrik Oppegård,2002-08-07,24.0,Norway,,175.0,,Left,22,D,['DL'],1600000.0,EUR,1646,Auxerre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1510503,Sekou Fofana,2003-03-25,23.0,Côte d'Ivoire,,178.0,,Left,93,D,['DL'],850000.0,EUR,1646,Auxerre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1897492,Telli Siwe,2004-12-14,21.0,France,,,,Right,13,D,['DC'],,,361741,Auxerre 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1974210,Elikya Legros,2008-06-06,18.0,France,,,,Right,35,D,['DC'],,,1646,Auxerre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1974202,Alvin Petit Dol,2006-11-06,19.0,France,,175.0,,Right,38,D,,,,361741,Auxerre 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2270624,Ackah-Tidiane Thiongane-Zoukrou,2008-09-13,17.0,France,,,,Right,15,D,,,,1646,Auxerre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1440545,Mamadou Diop,2000-01-03,26.0,Mauritania,,204.0,95.0,Right,13,G,['GK'],1400000.0,EUR,1646,Auxerre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+155717,Paul Nardi,1994-05-18,32.0,France,,187.0,77.0,Right,1,G,['GK'],1300000.0,EUR,1646,Auxerre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2221903,Louis Mezerette,2006-08-30,19.0,France,,,,Right,37,G,,,,361741,Auxerre 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1927692,Rayann Amedivlo,2006-04-21,20.0,France,,,,Right,16,G,,,,1646,Auxerre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+352296,Breel Embolo,1997-02-14,29.0,Switzerland,,185.0,86.0,Right,7,F,['ST'],13600000.0,EUR,1658,Stade Rennais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+876600,Mousa Tamari,1997-06-10,29.0,Jordan,,175.0,70.0,Left,11,F,"['RW', 'ST']",10800000.0,EUR,1658,Stade Rennais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+966621,Esteban Lepaul,2000-04-18,26.0,France,,177.0,67.0,Right,9,F,['ST'],32000000.0,EUR,1658,Stade Rennais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1168588,Eliezer Mayenda,2005-05-08,21.0,Spain,,179.0,,Left,12,F,['ST'],16600000.0,EUR,1658,Stade Rennais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1001458,Issa Soumaré,2000-10-10,25.0,Senegal,,182.0,,Right,90,F,"['LW', 'ST']",8400000.0,EUR,1658,Stade Rennais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2111258,Elias Legendre Quiñonez Zae,2008-04-22,18.0,Ecuador,,179.0,,,36,F,,105000.0,EUR,397891,Stade Rennais 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+848458,Arnaud Nordin,1998-07-17,28.0,France,,170.0,69.0,Left,70,F,['RW'],4099999.0,EUR,1658,Stade Rennais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1891021,Nordan Mukiele,2006-02-12,20.0,France,,184.0,,Right,19,F,,,,397891,Stade Rennais 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+191188,Seko Fofana,1995-05-07,31.0,Côte d'Ivoire,,184.0,74.0,Both,8,M,"['MC', 'DM']",8800000.0,EUR,1658,Stade Rennais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+847983,Sebastian Szymański,1999-05-10,27.0,Poland,,174.0,58.0,Left,17,M,"['MC', 'AM']",12600000.0,EUR,1658,Stade Rennais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+286909,Przemysław Frankowski,1995-04-12,31.0,Poland,,176.0,68.0,Right,95,M,"['MR', 'DR']",6500000.0,EUR,1658,Stade Rennais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+806076,Ludovic Blas,1997-12-31,28.0,France,,180.0,70.0,Left,10,M,"['RW', 'AM']",9300000.0,EUR,1658,Stade Rennais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1445628,Djaoui Cissé,2004-01-31,22.0,France,,188.0,,Right,6,M,['MC'],9300000.0,EUR,1658,Stade Rennais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+581314,Valentin Rongier,1994-12-07,31.0,France,,172.0,70.0,Right,21,M,"['MC', 'DM']",7700000.0,EUR,1658,Stade Rennais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1136409,Jordan James,2004-07-02,22.0,Wales,,190.0,,Right,17,M,"['MC', 'DM', 'AM']",11000000.0,EUR,1658,Stade Rennais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+916041,Mahdi Camara,1998-06-30,28.0,France,,178.0,,Right,45,M,"['MC', 'AM']",12900000.0,EUR,1658,Stade Rennais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+231946,Adrien Thomasson,1993-12-10,32.0,France,,177.0,72.0,Right,28,M,"['MC', 'DM', 'AM']",4300000.0,EUR,1658,Stade Rennais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1514294,Ayanda Sishuba,2005-02-02,21.0,Belgium,,169.0,59.0,Right,28,M,['AM'],740000.0,EUR,1658,Stade Rennais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1597145,Abdelhamid Ait Boudlal,2006-04-16,20.0,Morocco,,190.0,,Right,48,D,['DC'],12900000.0,EUR,1658,Stade Rennais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1049515,Alidu Seidu,2000-06-04,26.0,Ghana,,173.0,,Right,36,D,"['DR', 'DC']",6300000.0,EUR,1658,Stade Rennais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1545409,Mahamadou Nagida,2005-06-28,21.0,Cameroon,,176.0,,Left,18,D,['ML'],145000.0,EUR,397891,Stade Rennais 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1020744,Charlie Cresswell,2002-08-16,23.0,England,,190.0,,Right,4,D,['DC'],24000000.0,EUR,1658,Stade Rennais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1102502,Quentin Merlin,2002-05-16,24.0,France,,173.0,,Left,26,D,"['DL', 'ML']",14600000.0,EUR,1658,Stade Rennais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1432417,Gonçalo Oliveira,2006-07-04,20.0,Portugal,,180.0,,Left,5,D,['DC'],3200000.0,EUR,1658,Stade Rennais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+991479,Anthony Rouault,2001-05-29,25.0,France,,186.0,,Right,24,D,['DC'],13000000.0,EUR,1658,Stade Rennais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+988907,Lilian Brassier,1999-11-02,26.0,France,,184.0,,Left,3,D,['DC'],10800000.0,EUR,1658,Stade Rennais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+862075,Bryan Reynolds,2001-06-28,25.0,USA,,185.0,77.0,Right,14,D,['DR'],3700000.0,EUR,1658,Stade Rennais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1891059,Jonathan Do Marcolino,2006-05-10,20.0,Gabon,,186.0,,Right,4,D,['DC'],310000.0,EUR,1658,Stade Rennais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+164055,Brice Samba,1994-04-25,32.0,France,,186.0,79.0,Left,30,G,['GK'],6500000.0,EUR,1658,Stade Rennais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2334320,Kilian Belazzoug,2006-07-18,20.0,Algeria,,198.0,,Right,60,G,,,,397891,Stade Rennais 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+792630,Nicolas Lemaitre,1997-01-12,29.0,France,,188.0,82.0,Right,16,G,['GK'],450000.0,EUR,1658,Stade Rennais,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+873551,Mostafa Mohamed,1997-11-28,28.0,Egypt,,185.0,,Right,31,F,['ST'],3700000.0,EUR,1647,Nantes,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1406007,Bahereba Guirassy,2006-08-29,19.0,France,,177.0,,Right,11,F,['LW'],7600000.0,EUR,1647,Nantes,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+890329,Ignatius Ganago,1999-02-16,27.0,Cameroon,,176.0,,Right,37,F,['ST'],1900000.0,EUR,1647,Nantes,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2250100,Moustapha Dabo,2007-08-20,18.0,France,,182.0,,Left,47,F,,315000.0,EUR,292587,Nantes 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+829093,Ibrahima Sissoko,1997-10-27,28.0,Mali,,193.0,88.0,Right,28,M,"['MC', 'DM']",1900000.0,EUR,1647,Nantes,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1049528,Yassine Benhattab,2002-11-18,23.0,France,,170.0,,Left,90,M,['RW'],1900000.0,EUR,1647,Nantes,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+963299,Johann Lepenant,2002-10-22,23.0,France,,176.0,,Right,8,M,"['MC', 'AM', 'DM']",6600000.0,EUR,1647,Nantes,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1405998,Louis Leroux,2006-01-23,20.0,France,,184.0,,Left,19,M,['DM'],10300000.0,EUR,1647,Nantes,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1405912,Dehmaine Tabibou,2005-04-17,21.0,France,,181.0,,Left,17,M,['MC'],5400000.0,EUR,1647,Nantes,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1127332,Killian Corredor,2000-12-04,25.0,France,,182.0,,Right,12,M,"['ST', 'AM']",2900000.0,EUR,1647,Nantes,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+816810,Mathieu Cafaro,1997-03-25,29.0,France,,175.0,60.0,Right,20,M,"['LW', 'MR']",1500000.0,EUR,1647,Nantes,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1048100,Wilitty Younoussa,2001-09-09,24.0,Cameroon,,174.0,,Right,8,M,['MC'],820000.0,EUR,1647,Nantes,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1562126,Bahmed Deuff,2006-03-09,20.0,Mauritania,,178.0,,Right,52,M,['MC'],,,292587,Nantes 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+982317,Lamine Diack,2000-11-15,25.0,Senegal,,186.0,,Right,25,M,"['DM', 'MC']",310000.0,EUR,1647,Nantes,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+802034,Fabien Centonze,1996-01-16,30.0,France,,182.0,82.0,Right,18,M,"['DR', 'MR']",950000.0,EUR,1647,Nantes,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1499150,Malang Gomes,2005-05-28,21.0,France,,175.0,,Right,67,M,['DM'],69000.0,EUR,1647,Nantes,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1406000,Sacha Ziani,2003-08-07,23.0,France,,168.0,,Right,69,M,,,,292587,Nantes 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+845930,Jean-Kévin Duverne,1997-07-12,29.0,Haiti,,184.0,71.0,Right,93,D,"['DL', 'DC', 'DR']",2200000.0,EUR,1647,Nantes,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1107439,Ali Youssef,2001-07-09,25.0,Libya,,188.0,82.0,Right,2,D,['DC'],2600000.0,EUR,1647,Nantes,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1063237,Saïdou Sow,2002-07-04,24.0,Guinea,,185.0,,Right,4,D,['DC'],2400000.0,EUR,1647,Nantes,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2193204,Tylel Tati,2008-01-19,18.0,France,,190.0,,Left,78,D,['DC'],26000000.0,EUR,1647,Nantes,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+372430,Frédéric Guilbert,1994-12-24,31.0,France,,178.0,70.0,Right,24,D,"['DR', 'MR', 'DL']",875000.0,EUR,1647,Nantes,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+941077,Lucas Perrin,1998-11-19,27.0,France,,187.0,,Right,5,D,['DC'],1900000.0,EUR,1647,Nantes,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+802143,Kelvin Amian,1998-02-08,28.0,France,,179.0,74.0,Right,98,D,"['DR', 'DC']",2100000.0,EUR,1647,Nantes,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1415436,Sékou Doucouré,2005-04-26,21.0,Mali,,186.0,79.0,Right,72,D,['DC'],,,292587,Nantes 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1153098,Hugo Lamy,2004-01-16,22.0,France,,175.0,,Right,65,D,['DR'],310000.0,EUR,292587,Nantes 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1562138,Louka Gautier,2006-04-20,20.0,France,,170.0,,Left,11,D,,,,292587,Nantes 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+96542,Maxime Dupé,1993-03-04,33.0,France,,186.0,87.0,Right,1,G,['GK'],765000.0,EUR,1647,Nantes,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1196912,Alexis Mirbach,2005-03-04,21.0,France,,192.0,,Right,16,G,['GK'],45000.0,EUR,1647,Nantes,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1014048,Amine El Ouazzani,2001-07-15,25.0,Morocco,,188.0,,Left,9,F,['ST'],2400000.0,EUR,1684,Angers,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+988632,Jim Allevinah,1995-02-27,31.0,Gabon,,172.0,,Right,18,F,['RW'],905000.0,EUR,1684,Angers,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2137784,Prosper Peter,2007-08-09,19.0,France,,177.0,,,35,F,['ST'],,,1684,Angers,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2318284,Harouna Djibirin,2006-11-05,19.0,Cameroon,,175.0,,Left,31,F,,,,325663,Angers II,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1046671,Mamadou Usman Simbakoli,2001-04-19,25.0,France,,190.0,,Left,9,F,['ST'],740000.0,EUR,1684,Angers,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2142283,Lanroy Machine,2005-10-13,20.0,France,,187.0,,Right,36,F,,,,2964,SC Heerenveen,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1392829,Amine Sbai,2000-11-05,25.0,Morocco,,175.0,,Right,7,M,['LW'],3700000.0,EUR,1684,Angers,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+580642,Haris Belkebla,1994-01-28,32.0,Algeria,,177.0,68.0,Right,93,M,"['MC', 'DM']",1900000.0,EUR,1684,Angers,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1195241,Yassin Belkhdim,2002-02-14,24.0,Morocco,,175.0,,Right,14,M,['MC'],6800000.0,EUR,1684,Angers,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+190883,Branco Van den Boomen,1995-07-21,31.0,Netherlands,,190.0,75.0,Right,,M,"['MC', 'DM']",2400000.0,EUR,1684,Angers,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1545297,Anthony Bermont,2005-02-10,21.0,France,,187.0,,Right,26,M,['AM'],1100000.0,EUR,1684,Angers,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1172936,Louis Mouton,2002-06-03,24.0,France,,180.0,,Right,6,M,"['MC', 'AM']",4099999.0,EUR,1684,Angers,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+794373,Carlens Arcus,1996-06-28,30.0,Haiti,,180.0,75.0,Right,2,D,['DR'],1900000.0,EUR,1684,Angers,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1049538,Ousmane Camara,2003-03-06,23.0,Mali,,197.0,,Right,4,D,['DC'],8199999.0,EUR,1684,Angers,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+363042,Jordan Lefort,1993-06-28,33.0,Mauritania,,184.0,,Left,21,D,['DC'],1000000.0,EUR,1684,Angers,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1170532,Jacques Ekomié,2003-08-19,22.0,Gabon,,179.0,,Left,3,D,['DL'],8400000.0,EUR,1684,Angers,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1462778,Lilian Raolisoa,2000-06-16,26.0,France,,178.0,,Right,27,D,['DR'],4099999.0,EUR,1684,Angers,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1493480,Dan Sinaté,2006-06-09,20.0,Mali,,181.0,,Left,23,D,,,,325663,Angers II,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1506932,Marius Courcoul,2007-01-01,19.0,France,,182.0,,Right,5,D,['DM'],53000.0,EUR,325663,Angers II,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1442036,Emmanuel Biumla,2005-05-08,21.0,France,,185.0,,Right,24,D,['DC'],2700000.0,EUR,1684,Angers,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1862843,Marius Louër,2007-03-11,19.0,France,,181.0,,,20,D,['DR'],,,1684,Angers,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2418790,Nattio Sonnerat,2008-08-31,17.0,France,,,,,15,D,,,,325663,Angers II,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+48535,Anthony Lopes,1990-10-01,35.0,Portugal,,184.0,81.0,Left,1,G,['GK'],930000.0,EUR,1684,Angers,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1651830,Oumar Pona,2006-06-21,20.0,France,,189.0,,Right,40,G,['GK'],195000.0,EUR,1684,Angers,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+963201,Melvin Zinga,2002-03-16,24.0,Congo Republic,,187.0,,Left,16,G,['GK'],290000.0,EUR,1684,Angers,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2678207,Andy Gouandjia,,,,,,,,,,,,,1684,Angers,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+825088,Ally Samatta,1992-12-23,33.0,Tanzania,,183.0,75.0,Right,25,F,['ST'],770000.0,EUR,1662,Le Havre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+852145,Josh Maja,1998-12-27,27.0,Nigeria,,180.0,,Right,9,F,['ST'],4400000.0,EUR,1662,Le Havre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2039286,Sota Nakamura,2002-10-15,23.0,Japan,,168.0,64.0,Right,39,F,['AM'],945000.0,EUR,1662,Le Havre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1493476,Mokrane Bentoumi,2005-06-14,21.0,Algeria,,169.0,,Left,28,F,['MR'],47000.0,EUR,933487,FC Villefranche Beaujolais 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+910076,Felix Mambimbi,2001-01-18,25.0,Switzerland,,170.0,,Right,10,F,['ST'],470000.0,EUR,1662,Le Havre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1493489,Joan Tincres,2006-06-17,20.0,France,,188.0,,Right,19,F,['ST'],105000.0,EUR,1662,Le Havre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+975300,Godson Kyeremeh,2000-06-14,26.0,France,,175.0,,Right,11,F,['RW'],515000.0,EUR,1662,Le Havre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1494855,Elysée Logbo,2004-05-06,22.0,France,,188.0,,Left,20,F,['ST'],195000.0,EUR,1662,Le Havre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1895833,Noam Obougou,2006-03-15,20.0,France,,185.0,,,20,F,,1100000.0,EUR,1662,Le Havre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2277165,Enzo Koffi,2006-03-04,20.0,France,,178.0,,Left,27,F,,,,225180,Le Havre 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1551018,Ebroni Gnoan,,,France,,,,,,F,,,,1662,Le Havre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2683595,Hakim Dongopandji,2007-02-21,19.0,France,,,,,,F,,,,1662,Le Havre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1121333,Amir Richardson,2002-01-24,24.0,Morocco,,195.0,,Left,24,M,"['MC', 'DM']",3900000.0,EUR,1662,Le Havre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+992026,Rassoul Ndiaye,2001-12-11,24.0,Senegal,,179.0,,Right,14,M,"['MC', 'DM', 'AM']",8700000.0,EUR,1662,Le Havre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1035695,Fodé Doucouré,2001-02-03,25.0,Mali,,172.0,60.0,Right,13,M,"['MR', 'DR']",1900000.0,EUR,1662,Le Havre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1197153,Junior Mwanga,2003-05-11,23.0,France,,184.0,,Right,18,M,"['MC', 'DM', 'DC']",6400000.0,EUR,1662,Le Havre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1426243,Ismail Bouneb,2006-06-07,20.0,France,,182.0,,Right,44,M,['MC'],365000.0,EUR,1662,Le Havre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1066020,Kaito Mizuta,2000-04-08,26.0,Japan,,182.0,,Right,17,M,"['LW', 'AM']",555000.0,EUR,1662,Le Havre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1490783,Simon Ebonog,2004-08-16,21.0,France,,180.0,,Right,26,M,['MC'],4200000.0,EUR,1662,Le Havre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1895829,Daren Mosengo,2006-08-11,19.0,France,,188.0,,Right,78,M,,310000.0,EUR,1662,Le Havre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1895830,Guy-Noël Zohouri,2007-02-01,19.0,Côte d'Ivoire,,187.0,81.0,Right,24,M,,,,225180,Le Havre 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1121330,Mathéo Bodmer,2004-05-06,22.0,France,,179.0,,Right,,M,['MC'],285000.0,EUR,225180,Le Havre 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+873221,Ayumu Seko,2000-06-07,26.0,Japan,,186.0,72.0,Right,15,D,"['DC', 'DM', 'MC']",4700000.0,EUR,1662,Le Havre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1824137,Timothee Pembele,2002-09-09,23.0,France,,182.0,,Right,40,D,['DR'],1700000.0,EUR,1662,Le Havre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1397882,Yanis Zouaoui,1998-04-28,28.0,France,,183.0,,Left,18,D,['DL'],2300000.0,EUR,1662,Le Havre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2073555,Stephan Zagadou,2008-10-24,17.0,France,,186.0,,Right,29,D,['DC'],97000.0,EUR,225180,Le Havre 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+74071,Vincent Sasso,1991-02-16,35.0,France,,190.0,82.0,Right,23,D,['DC'],145000.0,EUR,1662,Le Havre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2198226,Georges Gomis,2008-01-01,18.0,Senegal,,,,,33,D,,,,1662,Le Havre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2683592,Djibril Ouziad,2009-04-27,17.0,France,,,,,38,D,,,,1662,Le Havre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+599192,Lionel Mpasi Nzau,1994-08-01,32.0,DR Congo,,182.0,,Right,77,G,['GK'],650000.0,EUR,1662,Le Havre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+580226,Mory Diaw,1993-06-22,33.0,Senegal,,197.0,95.0,Both,99,G,['GK'],950000.0,EUR,1662,Le Havre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1426218,Paul Argney,2006-05-23,20.0,France,,190.0,,Right,50,G,['GK'],220000.0,EUR,1662,Le Havre,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1188191,Oumar Diakité,2003-12-20,22.0,Côte d'Ivoire,,181.0,,Right,22,F,['ST'],4900000.0,EUR,1682,Stade de Reims,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+957279,Mohamed Daramy,2002-01-07,24.0,Denmark,,180.0,,Right,9,F,['LW'],2600000.0,EUR,1682,Stade de Reims,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1103141,Sambou Soumano,2001-01-13,25.0,Senegal,,182.0,,Right,99,F,['ST'],3700000.0,EUR,1682,Stade de Reims,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1175856,Amine Salama,2000-07-18,26.0,Morocco,,192.0,,Right,11,F,['ST'],1100000.0,EUR,1682,Stade de Reims,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+788786,Jordan Siebatcheu,1996-04-26,30.0,USA,,190.0,84.0,Right,19,F,['ST'],1400000.0,EUR,1682,Stade de Reims,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+958317,Youssef el Kachati,1999-11-30,26.0,Morocco,,185.0,,Right,10,F,['ST'],600000.0,EUR,1682,Stade de Reims,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1984921,Hafiz Umar Ibrahim,2005-12-20,20.0,Nigeria,,190.0,,Both,85,F,['ST'],2800000.0,EUR,1682,Stade de Reims,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1405845,Ikechukwu Orazi,2007-06-10,19.0,Ireland,,176.0,71.0,Right,73,F,,,,305165,Stade Reims II,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+352926,Yohan Demoncy,1996-04-07,30.0,France,,180.0,68.0,Right,23,F,"['MC', 'AM']",385000.0,EUR,1682,Stade de Reims,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2029688,Tidiane Diarrasouba,2008-08-26,17.0,France,,179.0,,,46,F,,,,907231,Stade de Reims 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2477672,Lenny Sylla,2006-11-25,19.0,France,,181.0,,Right,76,F,,,,305165,Stade Reims II,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+905352,Keito Nakamura,2000-07-28,26.0,Japan,,180.0,75.0,Right,17,M,"['LW', 'ML']",12900000.0,EUR,1682,Stade de Reims,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1542709,Ange Tia,2006-11-18,19.0,Mali,,178.0,,,87,M,['AM'],,,305165,Stade Reims II,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+867251,Theo Leoni,2000-04-21,26.0,Belgium,,174.0,,Left,6,M,"['MC', 'DM']",3900000.0,EUR,1682,Stade de Reims,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1003400,Mory Gbane,2000-12-25,25.0,Côte d'Ivoire,,188.0,,Right,24,M,"['MC', 'DM']",3600000.0,EUR,1682,Stade de Reims,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1401006,Yaya Fofana,2004-06-12,22.0,Côte d'Ivoire,,180.0,,Right,8,M,['MC'],160000.0,EUR,305165,Stade Reims II,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1100831,John Patrick,2003-09-24,22.0,Ireland,,192.0,,Right,30,M,['MC'],825000.0,EUR,1682,Stade de Reims,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+995671,Reda Khadra,2001-07-04,25.0,Germany,,175.0,,Right,14,M,['ST'],1200000.0,EUR,1682,Stade de Reims,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2410071,John Otomewo,2007-04-25,19.0,Nigeria,,186.0,,,5,M,['MC'],,,1682,Stade de Reims,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2656531,Théo Deflorenne,2008-11-21,17.0,France,,,,Right,53,M,,,,1682,Stade de Reims,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1103229,Samuel Kotto,2003-09-03,22.0,Cameroon,,190.0,,Left,22,D,['DC'],3900000.0,EUR,1682,Stade de Reims,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1135887,Daouda Guindo,2002-10-14,23.0,Mali,,183.0,,Left,27,D,['DL'],4700000.0,EUR,1682,Stade de Reims,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+985933,Joseph Okumu,1997-05-26,29.0,Kenya,,193.0,,Right,2,D,['DC'],2800000.0,EUR,1682,Stade de Reims,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1091971,Armel Zohouri,2001-04-05,25.0,Côte d'Ivoire,,176.0,,Right,63,D,['DR'],475000.0,EUR,1682,Stade de Reims,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+827942,Sergio Akieme,1997-12-16,28.0,Spain,,175.0,65.0,Left,18,D,['DL'],4300000.0,EUR,1682,Stade de Reims,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1495554,N'Tamon Elie Ahouonon,2004-04-22,22.0,Côte d'Ivoire,,188.0,,Right,28,D,['DC'],1900000.0,EUR,1682,Stade de Reims,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1469755,Yuri Aleksandr Guboglo,2007-03-20,19.0,Canada,,183.0,,Right,39,D,['DR'],340000.0,EUR,305165,Stade Reims II,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1490919,Soumaïla Sylla,2004-03-14,22.0,Guinea,,,,Left,60,G,['GK'],,,907231,Stade de Reims 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1142245,Tom Hülsmann,2004-04-11,22.0,Germany,,205.0,,Right,1,G,['GK'],1600000.0,EUR,1682,Stade de Reims,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1063907,Edin Omeragić,2002-03-20,24.0,Switzerland,,192.0,,Right,12,G,['GK'],370000.0,EUR,1682,Stade de Reims,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+207666,Alexis Sauvage,1991-10-30,34.0,France,,186.0,83.0,Right,16,G,['GK'],105000.0,EUR,1682,Stade de Reims,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+921369,Zuriko Davitashvili,2001-02-15,25.0,Georgia,,175.0,,Right,22,F,['LW'],12400000.0,EUR,1678,Saint-Étienne,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1126521,Lucas Stassin,2004-11-29,21.0,Belgium,,184.0,,Right,9,F,['ST'],15700000.0,EUR,1678,Saint-Étienne,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1138352,Augustine Boakye,2000-11-03,25.0,Ghana,,178.0,,Left,20,F,['RW'],5400000.0,EUR,1678,Saint-Étienne,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1802480,Marten-Chris Paalberg,2008-10-07,17.0,Estonia,,188.0,,Both,49,F,['ST'],720000.0,EUR,1678,Saint-Étienne,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1958607,Djylian N'Guessan,2008-08-29,17.0,France,,,,Left,25,F,['ST'],,,327772,AS Saint-Étienne 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+605552,Irvin Cardona,1997-08-08,29.0,Malta,,185.0,,Right,7,F,"['RW', 'ST']",2600000.0,EUR,1678,Saint-Étienne,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1142323,Joshua Duffus,2005-05-31,21.0,Jamaica,,181.0,,Right,17,F,['ST'],2600000.0,EUR,1678,Saint-Étienne,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1029724,Jakob Breum,2003-11-17,22.0,Denmark,,178.0,,Right,10,M,"['AM', 'LW']",5500000.0,EUR,1678,Saint-Étienne,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+990227,Aimen Moueffek,2001-04-09,25.0,Morocco,,179.0,,Right,29,M,['MC'],2200000.0,EUR,1678,Saint-Étienne,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+996908,Pierre Ekwah,2002-01-15,24.0,France,,187.0,,Right,17,M,"['MC', 'DM']",1900000.0,EUR,1678,Saint-Étienne,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+865550,Thierno Ballo,2002-01-02,24.0,Austria,,172.0,,Right,8,M,"['LW', 'ST']",5400000.0,EUR,1678,Saint-Étienne,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1003323,Áron Csongvai,2000-10-31,25.0,Hungary,,186.0,,Right,14,M,"['MC', 'DM', 'DC']",1800000.0,EUR,1678,Saint-Étienne,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1124025,Igor Miladinović,2003-06-08,23.0,Serbia,,166.0,,Both,28,M,['AM'],2400000.0,EUR,1678,Saint-Étienne,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1122425,Benjamin Old,2002-08-13,23.0,New Zealand,,172.0,,Left,11,M,['LW'],1900000.0,EUR,1678,Saint-Étienne,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+905041,Mahmoud Jaber,1999-10-05,26.0,Israel,,175.0,,Right,5,M,"['MC', 'DM']",1600000.0,EUR,1678,Saint-Étienne,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1920271,Adam Baallal,2007-02-26,19.0,Morocco,,,,,32,M,,52000.0,EUR,327772,AS Saint-Étienne 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1961630,Paul Eymard,2008-01-03,18.0,France,,,,,36,M,['MC'],,,327772,AS Saint-Étienne 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1958609,Nadir El Jamali,2007-04-16,19.0,France,,,,,31,M,['RW'],,,327772,AS Saint-Étienne 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1958611,Luan Gadegbeku,2007-03-09,19.0,France,,186.0,,,27,M,['MC'],,,327772,AS Saint-Étienne 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1515601,Sohaib Nair,2002-04-23,24.0,Algeria,,186.0,,Right,18,D,['DC'],1900000.0,EUR,1678,Saint-Étienne,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1105074,Ebenezer Annan,2002-08-21,23.0,Ghana,,178.0,,Left,19,D,['DL'],1700000.0,EUR,1678,Saint-Étienne,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+802137,Maxime Bernauer,1998-07-01,28.0,France,,184.0,,Right,6,D,['DC'],1100000.0,EUR,1678,Saint-Étienne,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1939193,Strahinja Stojković,2007-03-08,19.0,Serbia,,188.0,,Right,2,D,['DR'],675000.0,EUR,1678,Saint-Étienne,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1153110,Chico Lamba,2003-03-10,23.0,Portugal,,190.0,80.0,Right,15,D,['DC'],3300000.0,EUR,1678,Saint-Étienne,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+976401,João Ferreira,2001-03-22,25.0,Portugal,,185.0,,Right,13,D,"['DR', 'DC']",2100000.0,EUR,1678,Saint-Étienne,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1894105,Kevin Pedro,2006-02-21,20.0,France,,183.0,,Right,23,D,['DR'],,,327772,AS Saint-Étienne 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1129751,Julien Le Cardinal,1997-08-03,29.0,France,,182.0,,Right,26,D,"['DC', 'DR']",1700000.0,EUR,1678,Saint-Étienne,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+865847,Mickaël Nadé,1999-03-04,27.0,France,,193.0,,Left,3,D,['DC'],2800000.0,EUR,1678,Saint-Étienne,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1542774,Lassana Traoré,2007-05-06,19.0,Senegal,,180.0,,Left,34,D,['DL'],105000.0,EUR,1678,Saint-Étienne,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2609148,Nathan Kasia Nkondo,2009-02-05,17.0,France,,,,,37,D,,,,1678,Saint-Étienne,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1019581,Lucas Lavallée,2003-02-18,23.0,France,,195.0,,Right,16,G,['GK'],310000.0,EUR,1678,Saint-Étienne,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1470023,Mamour Ndiaye,2005-10-22,20.0,Senegal,,192.0,,Right,1,G,['GK'],1300000.0,EUR,1678,Saint-Étienne,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+810526,Gautier Larsonneur,1997-02-23,29.0,France,,181.0,70.0,Right,30,G,['GK'],3100000.0,EUR,1678,Saint-Étienne,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1862436,Issiaka Touré,2004-11-07,21.0,France,,194.0,82.0,Right,50,G,,,,327772,AS Saint-Étienne 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1035698,Mamadou Camara,2001-02-07,25.0,Mali,,184.0,,Right,11,F,['ST'],1300000.0,EUR,1642,Montpellier,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2066852,Daryll Benlahlou,2006-05-23,20.0,Algeria,,,,,23,F,,,,305409,Olympique Lyonnais 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1195700,Junior Ndiaye,2005-03-29,21.0,United Arab Emirates,,180.0,,Left,15,F,['ST'],390000.0,EUR,1642,Montpellier,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2152914,Laciné Megnan-Pave,2010-03-07,16.0,France,,187.0,,,9,F,,,,508433,France U16,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1195635,Axel Gueguin,2005-03-24,21.0,France,,170.0,,Left,22,F,,245000.0,EUR,1642,Montpellier,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1387157,Khalil Fayad,2004-06-09,22.0,France,,172.0,61.0,Right,10,M,['MC'],1500000.0,EUR,1642,Montpellier,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1426229,Yanis Issoufou,2006-10-28,19.0,France,,182.0,,Left,7,M,['LW'],1100000.0,EUR,1642,Montpellier,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+234142,Florian Tardieu,1992-04-22,34.0,France,,184.0,70.0,Right,,M,"['MC', 'DM']",415000.0,EUR,1642,Montpellier,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2456607,Nabil Homssa,2002-04-24,24.0,France,,181.0,,Right,20,M,,110000.0,EUR,1642,Montpellier,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1634349,Théo Chennahi,2005-02-06,21.0,France,,182.0,,Right,44,M,"['DM', 'MC']",2400000.0,EUR,1642,Montpellier,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1622129,Nicolas Pays,2003-07-07,23.0,France,,180.0,,Left,18,M,['RW'],2100000.0,EUR,1642,Montpellier,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1133559,Everson Junior,2003-11-07,22.0,France,,178.0,,Right,77,M,"['DM', 'MC']",1100000.0,EUR,1642,Montpellier,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2580207,Gregory Ayem,2006-12-01,19.0,France,,188.0,,Right,90,M,,,,1642,Montpellier,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2650799,Hichem Abderrebi,2008-05-06,18.0,France,,,,,32,M,,,,1642,Montpellier,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2416226,Noah Vidal,2008-03-26,18.0,France,,173.0,,Right,40,M,,54000.0,EUR,1642,Montpellier,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1489209,Naoufel El Hannach,2006-12-07,19.0,Morocco,,183.0,,Right,3,D,['DR'],1400000.0,EUR,1642,Montpellier,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1103548,Enzo Tchato Mbiayi,2002-11-23,23.0,Cameroon,,180.0,,Right,29,D,['DR'],2600000.0,EUR,1642,Montpellier,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+989831,Daylam Meddah,2002-10-06,23.0,France,,187.0,80.0,Right,27,D,['DC'],1500000.0,EUR,1642,Montpellier,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1170536,Yael Mouanga,2005-07-22,21.0,France,,183.0,,,6,D,['DC'],475000.0,EUR,335923,Montpellier HSC 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+791048,Julien Laporte,1993-11-04,32.0,France,,185.0,82.0,Right,15,D,['DC'],770000.0,EUR,1642,Montpellier,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2063925,Wilfried Ndollo Bille,2005-07-12,21.0,Cameroon,,172.0,70.0,Right,49,D,,105000.0,EUR,335923,Montpellier HSC 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+901152,Théo Sainte-Luce,1998-10-20,27.0,France,,181.0,,Left,17,D,['DL'],970000.0,EUR,1642,Montpellier,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2302508,Mathis Chambon,2009-01-17,17.0,France,,169.0,,,35,D,['DR'],,,1642,Montpellier,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+988841,Simon Ngapandouetnbu,2003-04-11,23.0,Cameroon,,187.0,,Right,31,G,['GK'],2400000.0,EUR,1642,Montpellier,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+1427153,Viktor Dzodic,2006-11-15,19.0,Serbia,,186.0,,Right,50,G,['GK'],91000.0,EUR,335923,Montpellier HSC 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+2440811,Kevin Kamdem,2006-01-30,20.0,Cameroon,,,,Right,16,G,,,,335923,Montpellier HSC 2,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818
+157701,Mathieu Michel,1991-09-04,34.0,France,,188.0,82.0,Right,1,G,['GK'],95000.0,EUR,1642,Montpellier,FRA,2024-2025,datafc_sofascore,2026-08-09T08:27:07.499818

@@ -1,0 +1,40 @@
+﻿league,season,team,player,nation,pos,age,born,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_GA,Performance_GA90,Performance_SoTA,Performance_Saves,Performance_Save%,Performance_W,Performance_D,Performance_L,Performance_CS,Performance_CS%,Penalty Kicks_PKatt,Penalty Kicks_PKA,Penalty Kicks_PKsv,Penalty Kicks_PKm,Penalty Kicks_Save%,_league_id,_season,_stat_type,_source,_scraped_at
+FRA-Ligue 1,2526,Angers,Hervé Koffi,BFA,GK,28,1996,30,30,2658,29.5,36,1.22,157,120,77.1,9,9,12,10,33.3,6,3,2,1,40.0,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47
+FRA-Ligue 1,2526,Angers,Melvin Zinga,FRA,GK,23,2002,3,2,222,2.5,5,2.03,13,8,61.5,0,0,2,0,0.0,0,0,0,0,,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47
+FRA-Ligue 1,2526,Angers,Oumar Pona,FRA,GK,19,2006,2,2,180,2.0,7,3.5,13,6,46.2,0,0,2,0,0.0,0,0,0,0,,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47
+FRA-Ligue 1,2526,Auxerre,Donovan Léon,GUF,GK,32,1992,29,29,2460,27.3,35,1.28,130,95,73.1,7,9,13,9,31.0,3,2,1,0,33.3,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47
+FRA-Ligue 1,2526,Auxerre,Théo De Percin,MTQ,GK,24,2001,8,5,598,6.6,9,1.35,24,15,62.5,1,1,3,1,20.0,2,1,1,0,50.0,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47
+FRA-Ligue 1,2526,Brest,Grégoire Coudert,FRA,GK,26,1999,25,24,2192,24.4,40,1.64,116,76,65.5,9,5,10,6,25.0,4,3,1,0,25.0,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47
+FRA-Ligue 1,2526,Brest,Radosław Majecki,POL,GK,25,1999,10,10,864,9.6,18,1.87,44,26,59.1,1,4,5,3,30.0,1,1,0,0,0.0,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47
+FRA-Ligue 1,2526,Le Havre,Lionel Mpasi,COD,GK,30,1994,4,3,315,3.5,2,0.57,17,15,88.2,0,2,1,1,33.3,0,0,0,0,,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47
+FRA-Ligue 1,2526,Le Havre,Mory Diaw,SEN,GK,32,1993,30,30,2655,29.5,41,1.39,121,80,66.1,6,12,12,7,23.3,8,6,2,0,25.0,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47
+FRA-Ligue 1,2526,Le Havre,Paul Argney,FRA,GK,19,2006,1,1,90,1.0,1,1.0,3,2,66.7,1,0,0,0,0.0,0,0,0,0,,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47
+FRA-Ligue 1,2526,Lens,Mathieu Gorgelin,FRA,GK,34,1990,1,1,90,1.0,0,0.0,4,4,100.0,1,0,0,1,100.0,0,0,0,0,,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47
+FRA-Ligue 1,2526,Lens,Robin Risser,FRA,GK,20,2004,33,33,2970,33.0,35,1.06,111,76,68.5,21,4,8,11,33.3,6,3,2,1,40.0,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47
+FRA-Ligue 1,2526,Lille,Arnaud Bodart,BEL,GK,27,1998,3,2,226,2.5,3,1.19,7,4,57.1,0,0,2,0,0.0,1,1,0,0,0.0,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47
+FRA-Ligue 1,2526,Lille,Berke Özer,TUR,GK,25,2000,32,32,2834,31.5,34,1.08,105,70,67.6,18,7,7,13,40.6,3,1,1,1,50.0,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47
+FRA-Ligue 1,2526,Lorient,Bingourou Kamara,SEN,GK,28,1996,3,3,270,3.0,8,2.67,16,8,50.0,1,0,2,1,33.3,1,0,0,1,,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47
+FRA-Ligue 1,2526,Lorient,Yvon Mvogo,SUI,GK,31,1994,31,31,2790,31.0,43,1.39,119,76,63.9,10,12,9,6,19.4,5,4,0,1,0.0,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47
+FRA-Ligue 1,2526,Lyon,Dominik Greif,SVK,GK,28,1997,29,29,2610,29.0,37,1.28,115,77,67.8,15,5,9,11,37.9,5,2,3,0,60.0,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47
+FRA-Ligue 1,2526,Lyon,Rémy Descamps,FRA,GK,29,1996,5,5,450,5.0,3,0.6,17,14,82.4,3,1,1,4,80.0,0,0,0,0,,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47
+FRA-Ligue 1,2526,Marseille,Gerónimo Rulli,ARG,GK,33,1992,29,29,2610,29.0,34,1.17,110,76,69.1,15,5,9,8,27.6,6,5,0,1,0.0,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47
+FRA-Ligue 1,2526,Marseille,Jeffrey De Lange,NED,GK,27,1998,5,5,450,5.0,11,2.2,24,13,54.2,3,0,2,1,20.0,0,0,0,0,,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47
+FRA-Ligue 1,2526,Metz,Jonathan Fischer,DEN,GK,23,2001,27,26,2354,26.2,56,2.14,148,92,62.2,3,5,18,5,19.2,7,6,1,0,14.3,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47
+FRA-Ligue 1,2526,Metz,Pape Mamadou Sy,SEN,GK,28,1997,8,8,706,7.8,20,2.55,49,29,59.2,0,3,5,2,25.0,1,1,0,0,0.0,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47
+FRA-Ligue 1,2526,Monaco,Lukáš Hrádecký,FIN,GK,35,1989,17,17,1439,16.0,27,1.69,72,45,62.5,7,2,8,2,11.8,3,2,0,1,0.0,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47
+FRA-Ligue 1,2526,Monaco,Philipp Köhn,SUI,GK,27,1998,19,17,1621,18.0,27,1.5,75,48,64.0,9,4,4,5,29.4,2,2,0,0,0.0,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47
+FRA-Ligue 1,2526,Nantes,Anthony Lopes,POR,GK,34,1990,31,31,2788,31.0,50,1.61,147,97,66.0,4,7,20,6,19.4,5,5,0,0,0.0,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47
+FRA-Ligue 1,2526,Nantes,Patrik Carlgren,SWE,GK,33,1992,3,2,182,2.0,2,0.99,13,11,84.6,1,1,0,1,50.0,0,0,0,0,,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47
+FRA-Ligue 1,2526,Nice,Maxime Dupé,FRA,GK,32,1993,8,8,720,8.0,15,1.87,35,20,57.1,1,4,3,1,12.5,3,3,0,0,0.0,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47
+FRA-Ligue 1,2526,Nice,Yehvann Diouf,SEN,GK,25,1999,26,26,2340,26.0,45,1.73,136,91,66.9,6,7,13,5,19.2,7,5,1,1,16.7,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47
+FRA-Ligue 1,2526,PSG,Lucas Chevalier,FRA,GK,23,2001,17,17,1530,17.0,13,0.76,45,32,71.1,12,3,2,9,52.9,3,1,1,1,50.0,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47
+FRA-Ligue 1,2526,PSG,Matvei Safonov,RUS,GK,26,1999,15,15,1350,15.0,14,0.93,54,40,74.1,11,0,4,8,53.3,1,0,1,0,100.0,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47
+FRA-Ligue 1,2526,PSG,Renato Marin,ITA,GK,19,2006,2,2,180,2.0,2,1.0,5,3,60.0,1,1,0,1,50.0,0,0,0,0,,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47
+FRA-Ligue 1,2526,Paris FC,Kevin Trapp,GER,GK,35,1990,22,22,1980,22.0,29,1.32,87,56,66.7,8,8,6,7,31.8,8,6,1,1,14.3,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47
+FRA-Ligue 1,2526,Paris FC,Obed Nkambadio,FRA,GK,22,2003,12,12,1080,12.0,21,1.75,47,26,55.3,3,3,6,1,8.3,4,2,1,1,33.3,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47
+FRA-Ligue 1,2526,Rennes,Brice Samba,FRA,GK,31,1994,32,32,2880,32.0,44,1.37,129,84,65.9,17,8,7,10,31.3,6,4,2,0,33.3,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47
+FRA-Ligue 1,2526,Rennes,Mathys Silestrie,FRA,GK,19,2005,2,2,180,2.0,6,3.0,14,8,57.1,0,0,2,0,0.0,0,0,0,0,,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47
+FRA-Ligue 1,2526,Strasbourg,Karl-Johan Johnsson,SWE,GK,35,1990,1,1,90,1.0,0,0.0,2,2,100.0,1,0,0,1,100.0,0,0,0,0,,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47
+FRA-Ligue 1,2526,Strasbourg,Mike Penders,BEL,GK,20,2005,33,33,2970,33.0,47,1.42,154,107,69.5,14,8,11,8,24.2,5,4,1,0,20.0,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47
+FRA-Ligue 1,2526,Toulouse,Guillaume Restes,FRA,GK,20,2005,33,33,2939,32.7,45,1.38,129,84,65.1,12,8,13,9,27.3,5,5,0,0,0.0,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47
+FRA-Ligue 1,2526,Toulouse,Kjetil Haug,NOR,GK,27,1998,1,0,31,0.3,1,2.9,2,1,50.0,0,0,0,0,,0,0,0,0,,FRA,2025-2026,keeper,fbref_soccerdata,2026-08-10 22:05:47

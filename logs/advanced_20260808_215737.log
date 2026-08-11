@@ -1,0 +1,14 @@
+2026-08-08 21:57:37,772 [INFO] =================================================================
+2026-08-08 21:57:37,773 [INFO]   RadarPepites - Scraping Avance Bronze (cloudscraper)
+2026-08-08 21:57:37,773 [INFO] =================================================================
+2026-08-08 21:57:37,773 [INFO]   Ligues  : ['ENG', 'ESP', 'GER', 'ITA', 'FRA', 'POR', 'NED', 'BEL', 'TUR', 'AUT']
+2026-08-08 21:57:37,774 [INFO]   Saisons : ['2025-2026']
+2026-08-08 21:57:37,774 [INFO]   Stats   : ['passing', 'passing_types', 'goal_shot_creation', 'defense', 'possession']
+2026-08-08 21:57:37,774 [INFO]   Total   : 50 fichiers
+2026-08-08 21:57:37,774 [INFO]   Duree   : ~5 minutes
+2026-08-08 21:57:37,775 [INFO] =================================================================
+2026-08-08 21:57:37,775 [INFO] [1/50] Premier League | 2025-2026 | passing
+2026-08-08 21:57:37,775 [INFO]     URL : https://fbref.com/en/comps/9/2025-2026/passing/2025-2026-Premier-League-Stats
+2026-08-08 21:57:37,842 [ERROR]     HTTP 403 — Cloudflare non contourné sur cette URL
+2026-08-08 21:57:37,843 [WARNING]   -> Echec : ENG_2025-2026_passing
+2026-08-08 21:57:37,843 [INFO]   -> Pause 6s...

@@ -1,0 +1,596 @@
+﻿league,season,team,player,nation,pos,age,born,Playing Time_MP,Playing Time_Min,Playing Time_Mn/MP,Playing Time_Min%,Playing Time_90s,Starts_Starts,Starts_Mn/Start,Starts_Compl,Subs_Subs,Subs_Mn/Sub,Subs_unSub,Team Success_PPM,Team Success_onG,Team Success_onGA,Team Success_+/-,Team Success_+/-90,Team Success_On-Off,_league_id,_season,_stat_type,_scraped_at
+GER-Bundesliga,2526,Augsburg,Aiman Dardari,LUX,MF,20,2005,3,34,11,1.1,0.4,0,,0,3,11,2,0.33,0,0,0,0.0,0.48,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Augsburg,Alexis Claude-Maurice,FRA,"MF,FW",27,1998,29,2097,72,68.5,23.3,25,80,11,4,22,1,1.28,29,43,-14,-0.6,-0.41,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Augsburg,Anton Kade,GER,"MF,FW",21,2004,28,1743,62,57.0,19.4,18,81,6,10,29,1,1.29,22,35,-13,-0.67,-0.47,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Augsburg,Arne Maier,GER,MF,26,1999,1,4,4,0.1,0.0,0,,0,1,4,10,3.0,0,0,0,0.0,0.47,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Augsburg,Arthur Chaves,BRA,DF,24,2001,11,829,75,27.1,9.2,9,84,7,2,35,3,1.36,13,15,-2,-0.22,0.35,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Augsburg,Cedric Zesiger,SUI,DF,27,1998,27,1816,67,59.3,20.2,20,85,17,7,16,4,1.38,26,40,-14,-0.69,-0.55,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Augsburg,Chrislain Matsima,FRA,DF,23,2002,18,1489,83,48.7,16.5,17,87,15,1,5,0,1.11,23,33,-10,-0.6,-0.26,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Augsburg,Daniel Klein,GER,GK,24,2001,0,,,,,0,,0,0,,3,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Augsburg,Dimitris Giannoulis,GRE,MF,29,1995,27,1888,70,61.7,21.0,25,74,9,2,25,0,1.37,32,39,-7,-0.33,0.36,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Augsburg,Elias Saad,TUN,"MF,FW",25,1999,10,497,50,16.2,5.5,7,62,0,3,22,4,1.0,9,14,-5,-0.91,-0.52,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Augsburg,Elvis Rexhbeçaj,KVX,MF,27,1997,26,1118,43,36.5,12.4,10,71,3,16,26,2,1.31,20,21,-1,-0.08,0.61,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Augsburg,Fabian Rieder,SUI,MF,23,2002,32,2343,73,76.6,26.0,28,82,16,4,13,0,1.25,36,53,-17,-0.65,-0.78,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Augsburg,Finn Dahmen,GER,GK,27,1998,34,3060,90,100.0,34.0,34,90,34,0,,0,1.26,45,61,-16,-0.47,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Augsburg,Han-Noah Massengo,FRA,MF,24,2001,33,2427,74,79.3,27.0,29,80,14,4,26,0,1.27,31,52,-21,-0.78,-1.49,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Augsburg,Ismaël Gharbi,TUN,MF,21,2004,6,94,16,3.1,1.0,0,,0,6,16,15,0.17,0,0,0,0.0,0.49,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Augsburg,Jeffrey Gouweleeuw,NED,DF,34,1991,11,848,77,27.7,9.4,10,82,6,1,29,1,1.27,16,20,-4,-0.42,0.06,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Augsburg,Keven Schlotterbeck,GER,DF,28,1997,24,2031,85,66.4,22.6,22,90,21,2,31,7,1.29,29,36,-7,-0.31,0.48,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Augsburg,Kristijan Jakić,CRO,"MF,DF",28,1997,26,1653,64,54.0,18.4,18,77,10,8,34,2,1.15,24,27,-3,-0.16,0.67,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Augsburg,Kyliane Dong,FRA,MF,20,2004,0,,,,,0,,0,0,,1,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Augsburg,Mads Pedersen,DEN,MF,28,1996,7,210,30,6.9,2.3,1,61,0,6,25,11,1.14,0,5,-5,-2.14,-1.8,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Augsburg,Marius Wolf,GER,MF,30,1995,29,1019,35,33.3,11.3,12,64,1,17,15,4,1.17,17,19,-2,-0.18,0.44,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Augsburg,Mert Kömür,GER,"MF,FW",20,2005,28,1464,52,47.8,16.3,17,74,6,11,19,5,1.25,21,28,-7,-0.43,0.08,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Augsburg,Michael Gregoritsch,AUT,FW,31,1994,17,913,54,29.8,10.1,11,73,2,6,19,1,1.35,19,14,5,0.49,1.37,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Augsburg,Nediljko Labrović,CRO,GK,25,1999,0,,,,,0,,0,0,,33,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Augsburg,Noahkai Banks,USA,DF,18,2006,23,1725,75,56.4,19.2,20,83,14,3,21,9,1.09,22,31,-9,-0.47,0.0,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Augsburg,Oliver Sorg,AUT,DF,18,2007,0,,,,,0,,0,0,,1,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Augsburg,Phillip Tietz,GER,FW,28,1997,10,198,20,6.5,2.2,0,,0,10,20,4,0.5,3,2,1,0.45,0.99,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Augsburg,Robin Fellhauer,GER,MF,27,1998,34,2799,82,91.5,31.1,31,85,19,3,56,0,1.26,38,56,-18,-0.58,-1.27,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Augsburg,Rodrigo Ribeiro,POR,FW,20,2005,14,636,45,20.8,7.1,6,71,0,8,26,3,1.5,6,13,-7,-0.99,-0.66,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Augsburg,Samuel Essende,COD,"MF,FW",27,1998,14,414,30,13.5,4.6,2,90,2,12,20,3,1.21,5,10,-5,-1.09,-0.71,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Augsburg,Steve Mounié,BEN,FW,30,1994,0,,,,,0,,0,0,,1,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Augsburg,Tim Schnitzer,GER,MF,17,2008,1,6,6,0.2,0.1,0,,0,1,6,1,0.0,0,1,-1,-15.0,-14.56,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Augsburg,Uchenna Ogundu,NGA,FW,19,2006,5,47,9,1.5,0.5,0,,0,5,9,5,1.4,3,1,2,3.83,4.37,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Augsburg,Yannik Keitel,GER,"MF,DF",25,2000,6,248,41,8.1,2.8,2,58,0,4,33,4,2.17,8,6,2,0.73,1.3,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,Aleksandar Pavlovic,GER,MF,21,2004,24,1462,61,47.8,16.2,16,79,8,8,26,8,2.46,56,26,30,1.85,-1.31,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,Alphonso Davies,CAN,DF,24,2000,13,525,40,17.2,5.8,6,66,1,7,19,0,2.31,26,8,18,3.09,0.67,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,Bara Sapoko Ndiaye,SEN,MF,17,2007,4,143,36,4.7,1.6,2,61,0,2,11,2,2.5,4,6,-2,-1.26,-3.97,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,Bastian Assomo,GER,DF,15,2010,0,,,,,0,,0,0,,1,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,Cassiano Kiala,GER,DF,16,2009,1,1,1,0.0,0.0,0,,0,1,1,8,3.0,1,0,1,90.0,87.5,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,David Daiber,POR,FW,18,2007,2,29,15,0.9,0.3,0,,0,2,15,6,3.0,2,1,1,3.1,0.58,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,Dayot Upamecano,FRA,DF,26,1998,24,1794,75,58.6,19.9,21,81,13,3,30,7,2.75,77,19,58,2.91,0.92,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,Deniz Ofli,TUR,DF,18,2007,1,6,6,0.2,0.1,0,,0,1,6,4,3.0,0,1,-1,-15.0,-17.56,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,Erblin Osmani,GER,MF,16,2009,1,4,4,0.1,0.0,0,,0,1,4,0,3.0,0,0,0,0.0,-2.53,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,Felipe Chávez,PER,MF,18,2007,2,14,7,0.5,0.2,0,,0,2,7,3,1.5,1,0,1,6.43,3.92,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,Filip Pavić,CRO,MF,15,2010,0,,,,,0,,0,0,,3,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,Guido Rovere,ITA,MF,18,2007,0,,,,,0,,0,0,,1,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,Harry Kane,ENG,"FW,MF",32,1993,31,2377,77,77.7,26.4,25,86,17,6,38,1,2.58,98,26,72,2.73,0.88,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,Hiroki Ito,JPN,DF,26,1999,16,920,58,30.1,10.2,10,80,3,6,20,5,2.56,32,14,18,1.76,-1.1,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,Jamal Musiala,GER,"MF,FW",22,2003,15,683,46,22.3,7.6,7,69,1,8,25,0,2.53,31,10,21,2.77,0.31,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,Jannis Bärtl,GER,GK,19,2006,0,,,,,0,,0,0,,2,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,Javier Fernández,ESP,MF,18,2006,0,,,,,0,,0,0,,1,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,Jonah Kusi-Asare,SWE,FW,18,2007,1,5,5,0.2,0.1,0,,0,1,5,1,3.0,0,0,0,0.0,-2.53,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,Jonas Urbig,GER,GK,21,2003,14,1111,79,36.3,12.3,11,90,11,3,40,17,2.64,40,15,25,2.03,-0.79,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,Jonathan Tah,GER,DF,29,1996,28,2018,72,65.9,22.4,23,85,18,5,14,5,2.61,79,23,56,2.5,-0.09,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,Joshua Kimmich,GER,MF,30,1995,29,2280,79,74.5,25.3,24,88,19,5,36,1,2.55,89,25,64,2.53,-0.01,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,Josip Stanišić,CRO,DF,25,2000,26,1857,71,60.7,20.6,19,86,15,7,32,1,2.62,78,23,55,2.67,0.35,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,Kim Min-jae,KOR,DF,28,1996,25,1602,64,52.4,17.8,19,82,11,6,8,5,2.56,57,21,36,2.02,-1.06,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,Konrad Laimer,AUT,DF,28,1997,29,1994,69,65.2,22.2,22,80,12,7,34,0,2.72,86,20,66,2.98,1.29,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,Lennart Karl,GER,MF,17,2008,26,1281,49,41.9,14.2,16,67,4,10,21,4,2.58,50,14,36,2.53,0.0,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,Leon Goretzka,GER,MF,30,1995,31,1947,63,63.6,21.6,25,74,10,6,18,3,2.65,72,20,52,2.4,-0.35,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,Leon Klanac,GER,GK,18,2007,0,,,,,0,,0,0,,1,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,Leonard Prescott,GER,GK,15,2009,0,,,,,0,,0,0,,2,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,Luis Díaz,COL,MF,28,1997,32,2447,76,80.0,27.2,27,84,19,5,37,0,2.66,98,29,69,2.54,0.04,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,Manuel Neuer,GER,GK,39,1986,22,1859,85,60.8,20.7,22,85,19,0,,7,2.73,81,20,61,2.95,1.08,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,Maycon Cardozo,BRA,MF,16,2008,2,34,17,1.1,0.4,0,,0,2,17,2,3.0,1,1,0,0.0,-2.56,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,Michael Olise,FRA,MF,23,2001,32,2316,72,75.7,25.7,23,86,14,9,38,1,2.59,94,25,69,2.68,0.62,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,Nicolas Jackson,SEN,FW,24,2001,23,1007,44,32.9,11.2,12,71,5,11,15,3,2.52,37,11,26,2.32,-0.31,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,Raphaël Guerreiro,POR,MF,31,1993,18,784,44,25.6,8.7,8,69,1,10,24,11,3.0,31,7,24,2.76,0.3,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,Sacha Boey,FRA,DF,24,2000,9,463,51,15.1,5.1,5,78,1,4,18,4,3.0,14,3,11,2.14,-0.46,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,Serge Gnabry,GER,MF,30,1995,21,1219,58,39.8,13.5,16,68,1,5,26,4,2.71,48,14,34,2.51,-0.03,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,Sven Ulreich,GER,GK,36,1988,1,90,90,2.9,1.0,1,90,1,0,,11,1.0,1,1,0,0.0,-2.61,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,Tom Bischof,GER,"DF,MF",20,2005,26,1302,50,42.5,14.5,14,83,10,12,11,3,2.65,53,13,40,2.76,0.41,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Bayern Munich,Wisdom Mike,GER,FW,16,2008,4,30,8,1.0,0.3,0,,0,4,8,9,3.0,4,0,4,12.0,9.56,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Dortmund,Aaron Anselmino,ARG,DF,20,2005,6,368,61,12.0,4.1,4,86,3,2,12,2,2.67,8,2,6,1.47,0.46,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Dortmund,Alexander Meyer,GER,GK,34,1991,0,,,,,0,,0,0,,34,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Dortmund,Almugera Kabar,GER,DF,19,2006,1,16,16,0.5,0.2,0,,0,1,16,3,0.0,0,0,0,0.0,-1.06,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Dortmund,Carney Chukwuemeka,AUT,"MF,FW",21,2003,28,919,33,30.0,10.2,8,73,1,20,17,3,2.32,21,7,14,1.37,0.45,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Dortmund,Cole Campbell,USA,FW,19,2006,1,17,17,0.6,0.2,0,,0,1,17,4,3.0,0,0,0,0.0,-1.06,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Dortmund,Daniel Svensson,SWE,MF,23,2002,33,2454,74,80.2,27.3,27,86,22,6,22,1,2.12,54,28,26,0.95,-0.53,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Dortmund,Elias Benkara,ALG,DF,18,2007,0,,,,,0,,0,0,,1,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Dortmund,Emre Can,GER,DF,31,1994,9,621,69,20.3,6.9,7,80,4,2,30,3,1.78,16,8,8,1.16,0.13,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Dortmund,Felix Nmecha,GER,MF,24,2000,29,2176,75,71.1,24.2,25,83,8,4,23,0,2.31,51,28,23,0.95,-0.37,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Dortmund,Filippo Mane,ITA,DF,20,2005,4,131,33,4.3,1.5,2,65,0,2,1,8,2.5,4,2,2,1.37,0.33,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Dortmund,Fábio Silva,POR,"FW,MF",23,2002,28,817,29,26.7,9.1,7,68,0,21,16,2,2.11,24,10,14,1.54,0.66,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Dortmund,Gregor Kobel,SUI,GK,27,1997,34,3060,90,100.0,34.0,34,90,34,0,,0,2.15,70,34,36,1.06,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Dortmund,Jobe Bellingham,ENG,MF,19,2005,32,1786,56,58.4,19.8,20,80,11,12,15,0,2.16,44,20,24,1.21,0.36,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Dortmund,Julian Brandt,GER,"MF,FW",29,1996,29,1606,55,52.5,17.8,17,83,5,12,17,3,2.14,42,18,24,1.34,0.6,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Dortmund,Julian Ryerson,NOR,MF,27,1997,31,2266,73,74.1,25.2,26,84,15,5,17,2,2.23,48,21,27,1.07,0.05,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Dortmund,Julien Duranville,BEL,FW,19,2006,0,,,,,0,,0,0,,2,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Dortmund,Karim Adeyemi,GER,"MF,FW",23,2002,28,1195,43,39.1,13.3,15,69,0,13,12,1,2.29,27,14,13,0.98,-0.13,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Dortmund,Luca Reggiani,ITA,DF,17,2008,8,511,64,16.7,5.7,6,78,3,2,23,5,2.38,9,7,2,0.35,-0.85,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Dortmund,Marcel Sabitzer,AUT,MF,31,1994,26,1817,70,59.4,20.2,21,83,11,5,16,3,2.04,39,22,17,0.84,-0.53,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Dortmund,Mathis Albert,USA,FW,16,2009,1,2,2,0.1,0.0,0,,0,1,2,4,3.0,0,0,0,0.0,-1.06,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Dortmund,Maximilian Beier,GER,"MF,FW",22,2002,32,2026,63,66.2,22.5,24,77,4,8,23,1,2.16,48,18,30,1.33,0.81,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Dortmund,Mussa Kaba,GER,MF,16,2008,0,,,,,0,,0,0,,1,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Dortmund,Nico Schlotterbeck,GER,DF,25,1999,28,2520,90,82.4,28.0,28,90,28,0,,0,2.11,55,29,26,0.93,-0.74,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Dortmund,Niklas Süle,GER,DF,29,1995,11,486,44,15.9,5.4,7,61,1,4,15,9,2.09,12,7,5,0.93,-0.16,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Dortmund,Pascal Groß,GER,MF,34,1991,11,613,56,20.0,6.8,7,78,1,4,16,4,2.0,9,5,4,0.59,-0.59,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Dortmund,Patrick Drewes,GER,GK,32,1993,0,,,,,0,,0,0,,2,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Dortmund,Ramy Bensebaini,ALG,DF,30,1995,21,1530,73,50.0,17.0,15,89,14,6,32,4,2.05,35,13,22,1.29,0.47,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Dortmund,Salih Özcan,TUR,MF,27,1998,11,81,7,2.6,0.9,0,,0,11,7,18,2.27,1,3,-2,-2.22,-3.37,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Dortmund,Samuele Inácio,ITA,MF,17,2008,7,384,55,12.5,4.3,4,80,2,3,21,6,1.29,9,5,4,0.94,-0.14,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Dortmund,Serhou Guirassy,GUI,FW,29,1996,33,2337,71,76.4,26.0,27,81,9,6,24,1,2.12,52,22,30,1.16,0.41,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Dortmund,Waldemar Anton,GER,DF,29,1996,32,2880,90,94.1,32.0,32,90,32,0,,0,2.16,67,33,34,1.06,0.06,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Dortmund,Yan Couto,BRA,MF,23,2002,19,997,52,32.6,11.1,11,80,5,8,14,13,2.26,25,14,11,0.99,-0.1,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Dortmund,Yannik Lührs,GER,DF,21,2003,0,,,,,0,,0,0,,1,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Frankfurt,Alexander Staff,GER,DF,17,2008,0,,,,,0,,0,0,,2,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Frankfurt,Amil Siljević,GER,GK,18,2007,0,,,,,0,,0,0,,1,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Frankfurt,Ansgar Knauff,GER,"MF,FW",23,2002,28,1326,47,43.3,14.7,12,75,1,16,27,0,1.29,29,26,3,0.2,0.57,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Frankfurt,Arnaud Kalimuendo,FRA,"FW,MF",23,2002,19,1417,75,46.3,15.7,17,80,10,2,30,0,1.0,24,31,-7,-0.44,-0.61,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Frankfurt,Arthur Theate,BEL,DF,25,2000,24,2141,89,70.0,23.8,24,89,21,0,,4,1.29,46,52,-6,-0.25,-0.45,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Frankfurt,Aurèle Amenda,SUI,DF,22,2003,24,1678,70,54.8,18.6,18,90,17,6,11,7,1.17,28,34,-6,-0.32,-0.45,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Frankfurt,Aurélio Buta,POR,DF,28,1997,4,144,36,4.7,1.6,1,90,1,3,18,8,1.75,0,8,-8,-5.0,-5.12,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Frankfurt,Ayoube Amaimouni,MAR,"MF,FW",20,2004,17,586,34,19.2,6.5,6,67,0,11,17,2,1.0,14,11,3,0.46,0.72,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Frankfurt,Can Uzun,TUR,MF,19,2005,21,1156,55,37.8,12.8,15,68,2,6,23,2,1.19,28,27,1,0.08,0.31,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Frankfurt,Elias Baum,GER,DF,19,2005,5,75,15,2.5,0.8,0,,0,5,15,9,0.8,1,1,0,0.0,0.12,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Frankfurt,Ellyes Skhiri,TUN,"MF,DF",30,1995,25,1444,58,47.2,16.0,16,81,9,9,17,5,1.36,24,36,-12,-0.75,-1.19,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Frankfurt,Elye Wahi,CIV,FW,22,2003,10,324,32,10.6,3.6,3,75,0,7,14,2,1.9,7,13,-6,-1.67,-1.73,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Frankfurt,Fares Chaïbi,ALG,MF,22,2002,28,1792,64,58.6,19.9,21,77,8,7,26,2,1.36,40,38,2,0.1,0.53,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Frankfurt,Fousseny Doumbia,GER,DF,20,2005,0,,,,,0,,0,0,,7,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Frankfurt,Hugo Larsson,SWE,MF,21,2004,25,1812,72,59.2,20.1,21,81,10,4,29,3,1.28,33,32,1,0.05,0.41,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Frankfurt,Jean Mattéo Bahoya,FRA,"MF,FW",20,2005,27,1331,49,43.5,14.8,15,69,4,12,25,2,1.26,22,28,-6,-0.41,-0.51,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Frankfurt,Jens Grahl,GER,GK,36,1988,0,,,,,0,,0,0,,10,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Frankfurt,Jessic Ngankam,GER,FW,25,2000,3,62,21,2.0,0.7,0,,0,3,21,2,0.67,1,4,-3,-4.35,-4.32,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Frankfurt,Jonathan Burkardt,GER,FW,25,2000,22,1336,61,43.7,14.8,15,80,4,7,20,0,1.36,34,16,18,1.21,2.36,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Frankfurt,Kauã Santos,BRA,GK,22,2003,13,1084,83,35.4,12.0,13,83,12,0,,12,1.0,27,32,-5,-0.42,-0.46,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Frankfurt,Keita Kosugi,JPN,DF,19,2006,0,,,,,0,,0,0,,7,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Frankfurt,Love Arrhov,SWE,MF,17,2008,5,65,13,2.1,0.7,1,45,0,4,5,7,2.2,0,2,-2,-2.77,-2.71,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Frankfurt,Mahmoud Dahoud,GER,"MF,FW",29,1996,15,716,48,23.4,8.0,8,68,1,7,25,7,1.2,17,15,2,0.25,0.48,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Frankfurt,Mario Götze,GER,MF,33,1992,21,886,42,29.0,9.8,8,67,1,13,27,8,1.48,15,20,-5,-0.51,-0.55,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Frankfurt,Marvin Dills,USA,MF,18,2007,0,,,,,0,,0,0,,1,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Frankfurt,Michael Zetterer,GER,GK,30,1995,22,1976,90,64.6,22.0,21,90,21,1,86,12,1.55,34,33,1,0.05,0.46,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Frankfurt,Michy Batshuayi,BEL,FW,31,1993,6,139,23,4.5,1.5,1,45,0,5,19,5,0.83,3,5,-2,-1.29,-1.23,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Frankfurt,Nathaniel Brown,GER,"MF,DF",22,2003,33,2656,80,86.8,29.5,29,86,23,4,41,0,1.33,52,55,-3,-0.1,0.12,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Frankfurt,Niels Nkounkou,FRA,"DF,MF",24,2000,0,,,,,0,,0,0,,2,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Frankfurt,Nnamdi Collins,GER,DF,21,2004,23,1500,65,49.0,16.7,16,85,12,7,20,3,1.57,38,32,6,0.36,0.94,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Frankfurt,Oscar Højlund,DEN,MF,20,2005,24,1089,45,35.6,12.1,12,71,0,12,20,4,1.21,15,23,-8,-0.66,-0.84,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Frankfurt,Rasmus Kristensen,DEN,"DF,MF",28,1997,22,1538,70,50.3,17.1,19,79,12,3,15,0,1.36,27,30,-3,-0.18,-0.12,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Frankfurt,Ritsu Doan,JPN,MF,27,1998,31,2364,76,77.3,26.3,28,81,11,3,33,1,1.32,50,44,6,0.23,1.52,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Frankfurt,Robin Koch,GER,DF,29,1996,32,2833,89,92.6,31.5,32,89,30,0,,0,1.38,57,60,-3,-0.1,0.3,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Frankfurt,Timothy Chandler,USA,"DF,MF",35,1990,1,11,11,0.4,0.1,0,,0,1,11,5,1.0,1,0,1,8.18,8.33,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Frankfurt,Younes Ebnoutalib,GER,FW,21,2003,5,133,27,4.3,1.5,2,55,1,3,8,3,1.0,4,5,-1,-0.68,-0.58,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Freiburg,Anthony Jung,GER,DF,33,1991,12,526,44,17.2,5.8,4,86,3,8,23,14,1.17,10,12,-2,-0.34,-0.2,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Freiburg,Christian Günter,GER,DF,32,1993,24,1547,64,50.6,17.2,18,80,9,6,17,10,1.33,21,31,-10,-0.58,-0.82,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Freiburg,Cyriaque Irié,BFA,MF,20,2005,10,347,35,11.3,3.9,3,61,0,7,23,9,0.7,4,7,-3,-0.78,-0.68,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Freiburg,Derry Scherhant,GER,MF,22,2002,31,1301,42,42.5,14.5,12,75,2,19,21,3,1.39,26,24,2,0.14,0.55,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Freiburg,Eren Dinkçi,GER,MF,23,2001,8,248,31,8.1,2.8,3,62,0,5,12,0,1.13,4,7,-3,-1.09,-0.99,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Freiburg,Florian Müller,GER,GK,27,1997,0,,,,,0,,0,0,,33,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Freiburg,Ifechukwu Ogbus,SUI,DF,19,2005,18,1177,65,38.5,13.1,14,80,10,4,16,4,1.33,12,27,-15,-1.15,-1.58,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Freiburg,Igor Matanović,CRO,FW,22,2003,31,1571,51,51.3,17.5,14,84,8,17,23,1,1.52,27,27,0,0.0,0.36,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Freiburg,Jan-Niklas Beste,GER,MF,26,1999,28,1704,61,55.7,18.9,20,77,6,8,21,1,1.54,33,25,8,0.42,1.35,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Freiburg,Jannik Huth,GER,GK,31,1994,0,,,,,0,,0,0,,1,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Freiburg,Johan Manzambi,SUI,MF,19,2005,27,2077,77,67.9,23.1,26,78,8,1,45,1,1.37,36,36,0,0.0,0.55,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Freiburg,Jordy Makengo,FRA,DF,23,2001,20,1178,59,38.5,13.1,12,85,9,8,19,9,1.45,19,20,-1,-0.08,0.16,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Freiburg,Junior Adamu,AUT,FW,24,2001,9,446,50,14.6,5.0,7,61,0,2,9,10,1.44,7,4,3,0.61,0.92,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Freiburg,Karl Steinmann,GER,DF,19,2005,0,,,,,0,,0,0,,6,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Freiburg,Lucas Höler,GER,"FW,MF",31,1994,33,2037,62,66.6,22.6,25,78,10,8,12,1,1.33,28,43,-15,-0.66,-1.45,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Freiburg,Lukas Kübler,GER,DF,32,1992,23,1587,69,51.9,17.6,19,79,9,4,23,4,1.43,33,35,-2,-0.11,0.13,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Freiburg,Matthias Ginter,GER,DF,31,1994,32,2833,89,92.6,31.5,32,89,29,0,,0,1.47,49,51,-2,-0.06,1.52,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Freiburg,Max Rosenfelder,GER,DF,22,2003,12,492,41,16.1,5.5,5,81,3,7,12,2,1.25,6,8,-2,-0.37,-0.23,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Freiburg,Maximilian Eggestein,GER,MF,28,1996,34,3060,90,100.0,34.0,34,90,34,0,,0,1.38,51,57,-6,-0.18,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Freiburg,Maximilian Philipp,GER,"FW,MF",31,1994,2,29,15,0.9,0.3,0,,0,2,15,7,1.5,0,1,-1,-3.1,-2.95,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Freiburg,Merlin Röhl,GER,MF,23,2002,2,66,33,2.2,0.7,0,,0,2,33,0,0.0,1,3,-2,-2.73,-2.61,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Freiburg,Nicolas Höfler,GER,MF,35,1990,13,291,22,9.5,3.2,2,71,0,11,14,17,1.54,8,10,-2,-0.62,-0.49,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Freiburg,Noah Atubolu,GER,GK,23,2002,34,3060,90,100.0,34.0,34,90,34,0,,0,1.38,51,57,-6,-0.18,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Freiburg,Patrick Osterhage,GER,MF,25,2000,20,1189,59,38.9,13.2,13,82,6,7,18,2,1.7,15,17,-2,-0.15,0.04,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Freiburg,Philipp Lienhart,AUT,DF,29,1996,20,1302,65,42.5,14.5,14,81,9,6,28,2,1.5,28,22,6,0.41,1.03,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Freiburg,Philipp Treu,GER,"DF,MF",24,2000,28,2186,78,71.4,24.3,24,87,18,4,27,4,1.32,33,38,-5,-0.21,-0.1,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Freiburg,Rouven Tarnutzer,SUI,FW,18,2007,1,7,7,0.2,0.1,0,,0,1,7,2,0.0,0,1,-1,-12.86,-12.71,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Freiburg,Vincenzo Grifo,ITA,MF,32,1993,33,1710,52,55.9,19.0,21,70,4,12,20,1,1.42,27,33,-6,-0.32,-0.32,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Freiburg,Yuito Suzuki,JPN,MF,23,2001,25,1632,65,53.3,18.1,18,79,6,7,31,4,1.28,31,31,0,0.0,0.38,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Gladbach,Alejo Sarco,ARG,FW,19,2006,3,53,18,1.7,0.6,0,,0,3,18,4,0.33,1,2,-1,-1.7,-1.4,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Gladbach,Charles Herrmann,GER,FW,19,2006,1,5,5,0.2,0.1,0,,0,1,5,5,1.0,1,0,1,18.0,18.35,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Gladbach,Fabio Chiarodia,ITA,DF,20,2005,15,674,45,22.0,7.5,8,72,1,7,14,6,0.8,2,13,-11,-1.47,-1.47,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Gladbach,Fitz Fleck,GER,MF,18,2007,0,,,,,0,,0,0,,2,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Gladbach,Florian Neuhaus,GER,"MF,FW",28,1997,17,930,55,30.4,10.3,11,71,0,6,25,13,1.29,19,9,10,0.97,1.86,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Gladbach,Franck Honorat,FRA,"MF,FW",28,1996,28,1977,71,64.6,22.0,24,78,8,4,29,0,1.18,24,32,-8,-0.36,-0.11,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Gladbach,Gio Reyna,USA,MF,22,2002,19,520,27,17.0,5.8,4,65,0,15,17,6,1.42,9,11,-2,-0.35,-0.03,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Gladbach,Grant Ranos,ARM,FW,22,2003,8,119,15,3.9,1.3,0,,0,8,15,5,0.63,3,2,1,0.76,1.12,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Gladbach,Haris Tabaković,BIH,FW,31,1994,32,2382,74,77.8,26.5,28,81,10,4,29,0,1.19,36,34,2,0.08,1.8,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Gladbach,Hugo Bolin,SWE,"MF,FW",22,2003,13,550,42,18.0,6.1,5,70,0,8,25,1,1.23,9,8,1,0.16,0.59,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Gladbach,Jan Olschowsky,GER,GK,23,2001,0,,,,,0,,0,0,,14,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Gladbach,Jan Urbich,GER,DF,21,2004,3,39,13,1.3,0.4,0,,0,3,13,4,1.33,0,1,-1,-2.31,-2.01,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Gladbach,Jens Castrop,KOR,MF,22,2003,26,1584,61,51.8,17.6,20,74,4,6,17,1,1.0,21,31,-10,-0.57,-0.51,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Gladbach,Joe Scally,USA,"DF,MF",22,2002,32,2608,82,85.2,29.0,29,88,23,3,18,1,1.19,38,40,-2,-0.07,1.72,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Gladbach,Jonas Omlin,SUI,GK,31,1994,0,,,,,0,,0,0,,14,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Gladbach,Kevin Diks,IDN,DF,28,1996,30,2464,82,80.5,27.4,28,87,23,2,18,0,1.2,40,43,-3,-0.11,1.1,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Gladbach,Kevin Stöger,AUT,MF,31,1993,29,1324,46,43.3,14.7,15,73,2,14,17,5,1.0,13,25,-12,-0.82,-0.87,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Gladbach,Kōta Takai,JPN,DF,20,2004,8,342,43,11.2,3.8,3,90,3,5,14,5,0.75,2,10,-8,-2.11,-2.01,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Gladbach,Luca Netz,GER,"MF,DF",22,2003,15,940,63,30.7,10.4,10,86,7,5,17,5,0.93,14,10,4,0.38,1.02,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Gladbach,Lukas Ullrich,GER,"DF,MF",21,2004,23,1305,57,42.6,14.5,14,79,5,9,22,11,0.78,19,29,-10,-0.69,-0.64,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Gladbach,Marvin Friedrich,GER,DF,29,1995,6,152,25,5.0,1.7,1,90,1,5,12,14,1.5,2,5,-3,-1.78,-1.53,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Gladbach,Moritz Nicolas,GER,GK,27,1997,34,3060,90,100.0,34.0,34,90,34,0,,0,1.12,42,53,-11,-0.32,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Gladbach,Nico Elvedi,SUI,DF,28,1996,33,2966,90,96.9,33.0,33,90,32,0,,0,1.15,41,50,-9,-0.27,1.64,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Gladbach,Niklas Swider,GER,MF,18,2007,0,,,,,0,,0,0,,3,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Gladbach,Oscar Fraulo,DEN,MF,21,2003,4,43,11,1.4,0.5,0,,0,4,11,9,1.75,1,0,1,2.09,2.45,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Gladbach,Philipp Sander,GER,"DF,MF",27,1998,30,2445,82,79.9,27.2,29,83,18,1,30,1,1.0,35,39,-4,-0.15,0.88,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Gladbach,Robin Hack,GER,MF,26,1998,8,320,40,10.5,3.6,3,80,2,5,16,2,1.38,3,4,-1,-0.28,0.05,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Gladbach,Rocco Reitz,GER,MF,23,2002,31,2627,85,85.8,29.2,31,85,19,0,,0,1.03,27,46,-19,-0.65,-2.31,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Gladbach,Shuto Machino,JPN,"FW,MF",25,1999,32,1076,34,35.2,12.0,9,79,2,23,16,1,1.16,13,32,-19,-1.59,-1.95,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Gladbach,Tiago Cardoso,LUX,GK,19,2006,0,,,,,0,,0,0,,6,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Gladbach,Tim Kleindienst,GER,FW,29,1995,3,7,2,0.2,0.1,0,,0,3,2,0,2.33,1,0,1,12.86,13.21,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Gladbach,Tobias Sippel,GER,GK,37,1988,0,,,,,0,,0,0,,3,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Gladbach,Wael Mohya,GER,"MF,FW",16,2008,15,552,37,18.0,6.1,6,63,0,9,20,10,1.07,6,9,-3,-0.49,-0.2,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Gladbach,Yannik Engelhardt,GER,MF,24,2001,31,2487,80,81.3,27.6,29,85,22,2,18,0,1.19,38,39,-1,-0.04,1.53,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hamburger SV,Aboubaka Soumahoro,FRA,"MF,DF",20,2005,4,136,34,4.4,1.5,2,52,0,2,17,7,1.0,0,5,-5,-3.31,-3.03,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hamburger SV,Albert Grønbaek,DEN,MF,24,2001,7,492,70,16.1,5.5,6,78,2,1,24,1,1.14,8,11,-3,-0.55,-0.16,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hamburger SV,Albert Sambi Lokonga,BEL,MF,25,1999,26,1710,66,55.9,19.0,20,81,9,6,14,1,1.23,29,29,0,0.0,0.93,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hamburger SV,Alexander Røssing-Lelesiit,NOR,"FW,MF",18,2007,11,321,29,10.5,3.6,5,53,0,6,9,4,1.09,1,10,-9,-2.52,-2.36,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hamburger SV,Bakery Jatta,GAM,MF,27,1998,15,911,61,29.8,10.1,12,71,2,3,20,1,1.33,16,12,4,0.4,1.15,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hamburger SV,Damion Downs,USA,FW,21,2004,12,536,45,17.5,6.0,6,70,0,6,20,3,1.0,4,8,-4,-0.67,-0.32,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hamburger SV,Daniel Elfadli,LBY,DF,28,1997,21,1253,60,40.9,13.9,15,77,8,6,17,8,1.14,15,21,-6,-0.43,-0.03,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hamburger SV,Daniel Heuer Fernandes,POR,GK,32,1992,33,2970,90,97.1,33.0,33,90,33,0,,1,1.12,39,53,-14,-0.42,-0.42,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hamburger SV,Daniel Peretz,ISR,GK,25,2000,0,,,,,0,,0,0,,15,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hamburger SV,Emir Sahiti,KVX,FW,26,1998,2,120,60,3.9,1.3,2,60,0,0,,3,0.5,0,1,-1,-0.75,-0.35,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hamburger SV,Fabio Baldé,POR,"FW,MF",20,2005,16,448,28,14.6,5.0,3,72,0,13,18,4,1.35,6,15,-9,-1.81,-1.64,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hamburger SV,Fabio Vieira,POR,"MF,FW",25,2000,29,2206,76,72.1,24.5,25,84,10,4,24,0,1.14,29,36,-7,-0.29,0.45,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hamburger SV,Giorgi Gocholeishvili,GEO,MF,24,2001,24,940,39,30.7,10.4,9,78,1,15,16,6,1.33,9,12,-3,-0.29,0.18,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hamburger SV,Guilherme Ramos,POR,DF,27,1997,8,48,6,1.6,0.5,0,,0,8,6,5,0.75,2,1,1,1.87,2.32,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hamburger SV,Hannes Hermann,GER,GK,20,2005,0,,,,,0,,0,0,,3,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hamburger SV,Immanuel Pherai,SUR,"FW,MF",24,2001,6,35,6,1.1,0.4,0,,0,6,6,4,0.33,0,0,0,0.0,0.42,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hamburger SV,Jean-Luc Dompé,FRA,"FW,MF",29,1995,20,1138,57,37.2,12.6,12,81,5,8,21,3,1.05,16,14,2,0.16,0.91,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hamburger SV,Jonas Meffert,GER,MF,30,1994,4,145,36,4.7,1.6,1,66,0,3,26,9,1.0,0,4,-4,-2.48,-2.17,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hamburger SV,Jordan Torunarigha,GER,DF,27,1997,24,1962,82,64.1,21.8,21,88,16,3,35,5,1.08,23,35,-12,-0.55,-0.39,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hamburger SV,Louis Lemke,GER,DF,15,2009,1,1,1,0.0,0.0,0,,0,1,1,1,3.0,0,0,0,0.0,0.41,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hamburger SV,Luka Vušković,CRO,DF,18,2007,28,2442,87,79.8,27.1,27,90,26,1,13,1,1.29,35,41,-6,-0.22,0.94,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hamburger SV,Miro Muheim,SUI,"MF,DF",27,1998,29,2435,84,79.6,27.1,27,88,23,2,30,0,1.1,33,42,-9,-0.33,0.39,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hamburger SV,Nicolai Remberg,GER,MF,25,2000,32,2880,90,94.1,32.0,32,90,32,0,,0,1.16,38,49,-11,-0.34,1.16,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hamburger SV,Nicolás Capaldo,ARG,"DF,MF",26,1998,26,2001,77,65.4,22.2,24,82,12,2,14,1,1.04,27,34,-7,-0.31,0.28,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hamburger SV,Noah Katterbach,GER,"DF,MF",24,2001,0,,,,,0,,0,0,,4,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hamburger SV,Omar Megeed,GER,MF,19,2005,0,,,,,0,,0,0,,5,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hamburger SV,Otto Stange,GER,FW,18,2007,10,293,29,9.6,3.3,2,70,0,8,19,6,0.6,3,5,-2,-0.61,-0.22,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hamburger SV,Philip Otele,NGA,"MF,FW",26,1999,9,471,52,15.4,5.2,7,65,0,2,7,2,1.33,9,6,3,0.57,1.16,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hamburger SV,Ransford Königsdörffer,GHA,"FW,MF",23,2001,33,2329,71,76.1,25.9,29,76,5,4,29,0,1.12,33,44,-11,-0.43,-0.06,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hamburger SV,Rayan Philippe,FRA,"FW,MF",24,2000,28,1285,46,42.0,14.3,13,73,1,15,22,4,1.0,15,17,-2,-0.14,0.47,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hamburger SV,Robert Glatzel,GER,FW,31,1994,19,612,32,20.0,6.8,7,65,1,12,13,5,1.16,10,13,-3,-0.44,-0.04,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hamburger SV,Sander Tangvik,NOR,GK,22,2002,1,90,90,2.9,1.0,1,90,1,0,,15,1.0,1,1,0,0.0,0.42,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hamburger SV,Shafiq Nandja,GER,DF,18,2007,2,15,8,0.5,0.2,0,,0,2,8,4,2.0,0,1,-1,-6.0,-5.62,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hamburger SV,Warmed Omari,COM,DF,25,2000,20,1605,80,52.5,17.8,17,87,12,3,45,0,1.1,19,28,-9,-0.5,-0.2,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hamburger SV,William Mikelbrencis,FRA,"MF,DF",21,2004,26,1372,53,44.8,15.2,15,81,5,11,15,6,1.04,17,34,-17,-1.12,-1.28,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hamburger SV,Yussuf Poulsen,DEN,FW,31,1994,15,334,22,10.9,3.7,1,61,0,14,20,1,1.27,4,6,-2,-0.54,-0.14,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Heidenheim,Adam Kölle,GER,DF,19,2006,6,93,16,3.0,1.0,0,,0,6,16,9,0.83,2,3,-1,-0.97,-0.06,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Heidenheim,Adrian Beck,GER,MF,28,1997,24,868,36,28.4,9.6,9,66,1,15,18,7,0.71,7,21,-14,-1.45,-0.75,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Heidenheim,Arijon Ibrahimović,GER,"MF,FW",19,2005,32,2169,68,70.9,24.1,25,78,10,7,30,0,0.78,29,49,-20,-0.83,0.28,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Heidenheim,Benedikt Gimber,GER,DF,28,1997,21,1436,68,46.9,16.0,18,75,10,3,28,6,0.62,8,40,-32,-2.01,-2.06,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Heidenheim,Budu Zivzivadze,GEO,FW,31,1994,20,1142,57,37.3,12.7,14,70,3,6,28,0,0.7,19,30,-11,-0.87,0.07,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Heidenheim,Christian Conteh,GER,"MF,FW",25,1999,9,404,45,13.2,4.5,4,70,1,5,25,1,0.89,5,9,-4,-0.89,0.02,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Heidenheim,Diant Ramaj,GER,GK,23,2001,31,2790,90,91.2,31.0,31,90,31,0,,2,0.74,38,67,-29,-0.94,-0.27,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Heidenheim,Eren Dinkçi,GER,"MF,FW",23,2001,14,1131,81,37.0,12.6,13,85,7,1,28,0,0.93,22,24,-2,-0.16,1.19,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Heidenheim,Frank Feller,GER,GK,21,2004,3,270,90,8.8,3.0,3,90,3,0,,16,1.0,3,5,-2,-0.67,0.27,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Heidenheim,Hannes Behrens,GER,"DF,MF",20,2005,16,1318,82,43.1,14.6,15,87,13,1,14,0,0.81,23,29,-6,-0.41,0.88,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Heidenheim,Jan Schöppner,GER,MF,26,1999,31,2252,73,73.6,25.0,29,76,15,2,28,2,0.81,26,51,-25,-1.0,-0.33,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Heidenheim,Jonas Föhrenbach,GER,"DF,MF",29,1996,27,2325,86,76.0,25.8,25,88,22,2,65,4,0.93,34,51,-17,-0.66,1.06,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Heidenheim,Julian Niehues,GER,MF,24,2001,24,1383,58,45.2,15.4,17,71,4,7,25,10,0.88,24,30,-6,-0.39,0.95,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Heidenheim,Kevin Müller,GER,GK,34,1991,0,,,,,0,,0,0,,15,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Heidenheim,Leart Paqarada,KVX,DF,30,1994,1,6,6,0.2,0.1,1,6,0,0,,1,0.0,0,0,0,0.0,0.91,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Heidenheim,Leonidas Stergiou,SUI,DF,23,2002,5,206,41,6.7,2.3,1,90,1,4,29,4,1.0,1,7,-6,-2.62,-1.83,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Heidenheim,Luca Kerber,GER,MF,23,2002,18,682,38,22.3,7.6,8,71,2,10,12,14,1.0,5,18,-13,-1.72,-1.03,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Heidenheim,Léo Scienza,BRA,MF,26,1998,2,180,90,5.9,2.0,2,90,2,0,,0,0.0,1,5,-4,-2.0,-1.16,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Heidenheim,Marnon Busch,GER,"DF,MF",30,1994,29,1915,66,62.6,21.3,20,85,13,9,25,2,0.76,26,43,-17,-0.8,0.3,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Heidenheim,Marvin Pieringer,GER,"FW,MF",25,1999,27,1650,61,53.9,18.3,20,75,5,7,21,0,0.85,28,38,-10,-0.55,0.79,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Heidenheim,Mathias Honsak,AUT,"MF,FW",28,1996,27,1249,46,40.8,13.9,15,67,1,12,20,2,0.63,11,30,-19,-1.37,-0.77,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Heidenheim,Mikkel Kaufmann,DEN,FW,24,2001,16,537,34,17.5,6.0,6,63,0,10,16,1,0.5,3,10,-7,-1.17,-0.32,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Heidenheim,Nick Rothweiler,GER,DF,19,2006,0,,,,,0,,0,0,,3,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Heidenheim,Niklas Dorsch,GER,MF,27,1998,32,2258,71,73.8,25.1,27,79,10,5,24,1,0.81,28,51,-23,-0.92,-0.02,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Heidenheim,Omar Traoré,GER,"DF,MF",27,1998,26,1501,58,49.1,16.7,16,78,8,10,26,7,0.65,21,41,-20,-1.2,-0.56,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Heidenheim,Patrick Mainka,GER,DF,30,1994,34,3060,90,100.0,34.0,34,90,34,0,,0,0.76,41,72,-31,-0.91,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Heidenheim,Paul Tschernuth,AUT,GK,23,2002,0,,,,,0,,0,0,,1,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Heidenheim,Sirlord Conteh,GER,"MF,FW",29,1996,15,625,42,20.4,6.9,3,80,1,12,32,1,0.4,11,16,-5,-0.72,0.24,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Heidenheim,Stefan Schimmer,GER,FW,31,1994,27,820,30,26.8,9.1,3,67,0,24,26,4,0.78,14,18,-4,-0.44,0.65,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Heidenheim,Thomas Keller,GER,DF,25,1999,4,188,47,6.1,2.1,3,60,1,1,8,4,1.5,2,3,-1,-0.48,0.46,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Heidenheim,Tim Siersleben,GER,DF,25,2000,15,1081,72,35.3,12.0,12,85,9,3,19,16,0.73,16,29,-13,-1.08,-0.26,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Heidenheim,Tobias Weigel,GER,FW,18,2007,1,2,2,0.1,0.0,0,,0,1,2,1,0.0,0,0,0,0.0,0.91,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Heidenheim,Yannik Wagner,GER,FW,18,2007,4,49,12,1.6,0.5,0,,0,4,12,5,0.75,3,0,3,5.51,6.53,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hoffenheim,Adam Hložek,CZE,"FW,MF",23,2002,5,41,8,1.3,0.5,0,,0,5,8,1,1.4,0,3,-3,-6.59,-7.06,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hoffenheim,Albian Hajdari,KVX,DF,22,2003,30,2434,81,79.5,27.0,28,85,20,2,32,1,1.77,52,37,15,0.55,0.84,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hoffenheim,Alexander Prass,AUT,MF,24,2001,32,1308,41,42.7,14.5,12,80,4,20,18,2,1.88,25,25,0,0.0,-0.67,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hoffenheim,Andrej Kramarić,CRO,"MF,FW",34,1991,34,2207,65,72.1,24.5,26,75,4,8,32,0,1.79,53,33,20,0.82,1.55,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hoffenheim,Arthur Chaves,BRA,DF,24,2001,4,240,60,7.8,2.7,2,90,2,2,30,7,1.75,4,4,0,0.0,-0.41,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hoffenheim,Bazoumana Touré,CIV,"MF,FW",19,2006,30,2308,77,75.4,25.6,29,79,10,1,27,3,1.7,49,44,5,0.19,-0.76,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hoffenheim,Bernardo,BRA,DF,30,1995,29,2312,80,75.6,25.7,26,86,17,3,28,1,1.76,45,35,10,0.39,0.03,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hoffenheim,Cole Campbell,USA,FW,19,2006,5,79,16,2.6,0.9,0,,0,5,16,6,1.2,0,3,-3,-3.42,-3.9,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hoffenheim,David Mokwa,FRA,FW,21,2004,0,,,,,0,,0,0,,3,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hoffenheim,Fisnik Asllani,KVX,"FW,MF",22,2002,33,2335,71,76.3,25.9,31,74,4,2,24,1,1.76,50,41,9,0.35,-0.15,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hoffenheim,Grischa Prömel,GER,MF,30,1995,33,1758,53,57.5,19.5,16,86,11,17,22,0,1.82,36,33,3,0.15,-0.54,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hoffenheim,Ihlas Bebou,TOG,"FW,MF",31,1994,16,190,12,6.2,2.1,0,,0,16,12,10,1.69,4,3,1,0.47,0.1,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hoffenheim,Kelven Frees,GER,DF,20,2005,0,,,,,0,,0,0,,2,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hoffenheim,Kevin Akpoguma,NGA,DF,30,1995,8,61,8,2.0,0.7,1,16,0,7,6,19,1.38,0,4,-4,-5.9,-6.41,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hoffenheim,Koki Machida,JPN,DF,27,1997,1,44,44,1.4,0.5,1,44,0,0,,0,3.0,1,1,0,0.0,-0.39,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hoffenheim,Leon Avdullahu,KVX,MF,21,2004,33,2834,86,92.6,31.5,32,88,27,1,30,0,1.85,63,44,19,0.6,2.99,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hoffenheim,Luca Philipp,GER,GK,24,2000,0,,,,,0,,0,0,,34,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hoffenheim,Luka Đurić,SRB,MF,22,2003,1,10,10,0.3,0.1,0,,0,1,10,5,0.0,0,1,-1,-9.0,-9.41,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hoffenheim,Max Moerstedt,GER,FW,19,2006,22,420,19,13.7,4.7,1,75,0,21,16,9,1.91,9,7,2,0.43,0.05,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hoffenheim,Muhammed Damar,GER,"MF,FW",21,2004,15,277,18,9.1,3.1,2,67,0,13,11,17,1.6,1,6,-5,-1.62,-2.21,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hoffenheim,Oliver Baumann,GER,GK,35,1990,34,3060,90,100.0,34.0,34,90,34,0,,0,1.79,65,52,13,0.38,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hoffenheim,Ozan Kabak,TUR,DF,25,2000,25,1751,70,57.2,19.5,18,90,18,7,19,3,2.0,39,34,5,0.26,-0.29,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hoffenheim,Precious Benjamin,NGA,FW,18,2006,0,,,,,0,,0,0,,1,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hoffenheim,Robin Hranáč,CZE,DF,25,2000,29,2251,78,73.6,25.0,26,85,21,3,18,3,1.97,51,35,16,0.64,0.97,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hoffenheim,Tim Lemperle,GER,FW,23,2002,29,1944,67,63.5,21.6,24,76,1,5,22,0,1.86,47,30,17,0.79,1.11,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hoffenheim,Umut Tohumcu,GER,MF,20,2004,5,136,27,4.4,1.5,1,58,0,4,20,10,0.8,1,4,-3,-1.99,-2.48,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hoffenheim,Valentin Gendrey,FRA,DF,25,2000,8,59,7,1.9,0.7,0,,0,8,7,6,2.13,2,1,1,1.53,1.17,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hoffenheim,Valentin Lässig,GER,DF,22,2003,0,,,,,0,,0,0,,5,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hoffenheim,Vladimír Coufal,CZE,"DF,MF",32,1992,34,3012,89,98.4,33.5,34,89,28,0,,0,1.79,64,50,14,0.42,2.29,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hoffenheim,Wouter Burger,NED,MF,24,2001,30,2430,81,79.4,27.0,30,81,18,0,,0,1.9,52,35,17,0.63,1.2,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Hoffenheim,Yannick Eduardo,CZE,FW,19,2006,1,1,1,0.0,0.0,0,,0,1,1,1,1.0,0,0,0,0.0,-0.38,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Köln,Alessio Castro-Montes,BEL,"MF,DF",28,1997,14,672,48,22.0,7.5,7,74,2,7,22,9,1.0,15,15,0,0.0,0.53,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Köln,Cenk Özkacar,TUR,DF,24,2000,25,1791,72,58.5,19.9,20,83,14,5,28,9,1.0,26,40,-14,-0.7,-0.7,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Köln,Cenny Neumann,GER,DF,18,2007,2,74,37,2.4,0.8,1,69,0,1,5,3,0.5,3,3,0,0.0,0.42,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Köln,David Fürst,GER,DF,18,2007,0,,,,,0,,0,0,,1,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Köln,Denis Huseinbasic,BIH,MF,24,2001,15,726,48,23.7,8.1,9,68,2,6,19,11,0.87,12,14,-2,-0.25,0.21,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Köln,Dominique Heintz,GER,DF,31,1993,9,382,42,12.5,4.2,5,63,1,4,17,8,0.89,7,6,1,0.24,0.74,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Köln,Eric Martel,GER,"MF,DF",23,2002,31,2559,83,83.6,28.4,30,85,22,1,14,0,1.0,41,50,-9,-0.32,0.58,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Köln,Felipe Chávez,PER,MF,18,2007,7,102,15,3.3,1.1,0,,0,7,15,6,0.57,3,3,0,0.0,0.43,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Köln,Florian Kainz,AUT,MF,32,1992,15,279,19,9.1,3.1,2,56,0,13,13,9,0.8,10,7,3,0.97,1.52,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Köln,Fynn Schenten,GER,FW,17,2007,7,100,14,3.3,1.1,1,61,0,6,7,3,0.29,2,6,-4,-3.6,-3.3,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Köln,Jahmai Simpson-Pusey,ENG,DF,19,2005,11,863,78,28.2,9.6,10,84,8,1,22,0,0.91,13,19,-6,-0.63,-0.3,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Köln,Jakub Kamiński,POL,"MF,FW",23,2002,34,3016,89,98.6,33.5,34,89,28,0,,0,0.94,49,60,-11,-0.33,5.81,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Köln,Jan Thielmann,GER,"MF,FW",23,2002,26,1540,59,50.3,17.1,20,72,4,6,18,1,1.04,22,31,-9,-0.53,-0.23,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Köln,Joël Schmied,SUI,DF,26,1998,16,1078,67,35.2,12.0,13,77,7,3,25,3,1.0,18,27,-9,-0.75,-0.52,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Köln,Jusuf Gazibegović,BIH,DF,25,2000,1,23,23,0.8,0.3,0,,0,1,23,5,3.0,1,1,0,0.0,0.41,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Köln,Kristoffer Lund,USA,"DF,MF",23,2002,33,2276,69,74.4,25.3,26,81,12,7,24,1,0.97,35,47,-12,-0.47,-0.24,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Köln,Linton Maina,GER,"MF,FW",26,1999,24,1023,43,33.4,11.4,9,70,0,15,26,4,0.92,15,24,-9,-0.79,-0.57,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Köln,Luca Waldschmidt,GER,"FW,MF",29,1996,24,677,28,22.1,7.5,7,60,0,17,15,8,0.75,17,10,7,0.93,1.72,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Köln,Marius Bülter,GER,"FW,MF",32,1993,32,1597,50,52.2,17.7,18,74,7,14,19,0,0.91,30,29,1,0.06,0.98,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Köln,Marvin Schwäbe,GER,GK,30,1995,34,3060,90,100.0,34.0,34,90,34,0,,0,0.94,49,63,-14,-0.41,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Köln,Matthias Köbbing,GER,GK,28,1997,0,,,,,0,,0,0,,3,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Köln,Ragnar Ache,GER,FW,27,1998,29,1718,59,56.1,19.1,18,78,3,11,29,0,1.03,27,38,-11,-0.58,-0.38,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Köln,Rav van den Berg,NED,DF,21,2004,14,1131,81,37.0,12.6,12,87,9,2,42,9,0.93,17,21,-4,-0.32,0.15,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Köln,Ron-Robert Zieler,GER,GK,36,1989,0,,,0.0,0.0,0,,0,0,,33,1.0,3,3,0,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Köln,Said El Mala,GER,"FW,MF",18,2006,34,1956,58,63.9,21.7,20,79,6,14,28,0,0.94,32,37,-5,-0.23,0.5,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Köln,Sebastian Sebulonsen,NOR,"DF,MF",25,2000,31,2498,81,81.6,27.8,28,85,20,3,36,0,1.0,35,52,-17,-0.61,-1.09,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Köln,Timo Hübers,GER,DF,29,1996,8,675,84,22.1,7.5,8,84,7,0,,0,1.38,9,10,-1,-0.13,0.36,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Köln,Tom Krauß,GER,"MF,DF",24,2001,26,1780,68,58.2,19.8,19,83,8,7,29,6,1.08,24,32,-8,-0.4,0.02,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Köln,Youssoupha Niang,GER,MF,19,2006,10,194,19,6.3,2.2,2,60,0,8,9,3,0.6,1,7,-6,-2.78,-2.53,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Köln,Ísak Jóhannesson,ISL,MF,22,2003,31,1809,58,59.1,20.1,21,76,8,10,22,1,0.97,25,39,-14,-0.7,-0.7,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Leverkusen,Aleix García,ESP,MF,28,1997,33,2667,81,87.2,29.6,31,83,19,2,43,0,1.7,59,39,20,0.67,0.45,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Leverkusen,Alejo Sarco,ARG,FW,19,2006,3,74,25,2.4,0.8,0,,0,3,25,8,2.0,0,0,0,0.0,-0.63,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Leverkusen,Andrea Natali,ITA,DF,17,2008,0,,,,,0,,0,0,,1,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Leverkusen,Arthur,BRA,MF,22,2003,20,1136,57,37.1,12.6,13,73,7,7,26,3,1.8,25,18,7,0.55,-0.1,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Leverkusen,Axel Tapé,FRA,"MF,DF",17,2007,6,222,37,7.3,2.5,2,63,0,4,24,10,2.0,8,4,4,1.62,1.08,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Leverkusen,Christian Kofane,CMR,FW,19,2006,29,1239,43,40.5,13.8,12,76,2,17,19,2,1.69,30,18,12,0.87,0.43,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Leverkusen,Claudio Echeverri,ARG,MF,19,2006,6,134,22,4.4,1.5,1,55,0,5,16,7,0.33,2,6,-4,-2.69,-3.46,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Leverkusen,Edmond Tapsoba,BFA,DF,26,1999,29,2575,89,84.2,28.6,29,89,28,0,,0,1.79,60,38,22,0.77,0.95,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Leverkusen,Eliesse Ben Seghir,MAR,MF,20,2005,10,252,25,8.2,2.8,2,65,0,8,15,9,1.7,4,3,1,0.36,-0.28,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Leverkusen,Emmanuel Owen,GER,FW,18,2007,0,,,,,0,,0,0,,1,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Leverkusen,Ernest Poku,NED,MF,21,2004,29,1482,51,48.4,16.5,16,73,2,13,25,4,1.69,33,19,14,0.85,0.45,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Leverkusen,Exequiel Palacios,ARG,MF,26,1998,18,1099,61,35.9,12.2,12,81,8,6,21,1,1.89,27,17,10,0.82,0.31,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Leverkusen,Ezequiél Fernández,ARG,MF,23,2002,20,984,49,32.2,10.9,12,67,2,8,22,5,2.05,21,20,1,0.09,-0.78,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Leverkusen,Ibrahim Maza,ALG,MF,19,2005,28,1849,66,60.4,20.5,20,79,9,8,33,2,1.64,42,27,15,0.73,0.28,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Leverkusen,Janis Blaswich,GER,GK,34,1991,11,931,85,30.4,10.3,10,90,10,1,31,21,1.73,17,9,8,0.77,0.22,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Leverkusen,Jarell Quansah,ENG,DF,22,2003,28,2299,82,75.1,25.5,25,88,21,3,31,2,1.57,44,34,10,0.39,-0.91,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Leverkusen,Jeanuël Belocian,FRA,DF,20,2005,8,292,37,9.5,3.2,3,73,1,5,14,8,2.25,3,8,-5,-1.54,-2.39,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Leverkusen,Jeremiah Mensah,GER,MF,17,2008,0,,,,,0,,0,0,,5,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Leverkusen,Jonas Hofmann,GER,MF,33,1992,23,1013,44,33.1,11.3,11,72,3,12,19,8,1.65,21,10,11,0.98,0.54,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Leverkusen,Jonas Omlin,SUI,GK,31,1994,0,,,,,0,,0,0,,11,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Leverkusen,Ken Izekor,GER,FW,18,2007,0,,,,,0,,0,0,,1,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Leverkusen,Loïc Bade,FRA,DF,25,2000,23,1653,72,54.0,18.4,19,83,15,4,21,4,1.83,37,24,13,0.71,0.2,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Leverkusen,Lucas Vázquez,ESP,MF,34,1991,12,481,40,15.7,5.3,6,63,1,6,18,4,1.92,11,2,9,1.68,1.27,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Leverkusen,Malik Tillman,USA,MF,23,2002,29,1674,58,54.7,18.6,18,79,7,11,22,0,1.79,31,25,6,0.32,-0.65,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Leverkusen,Mark Flekken,NED,GK,32,1993,24,2129,89,69.6,23.7,24,89,23,0,,0,1.67,51,38,13,0.55,-0.22,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Leverkusen,Martin Terrier,FRA,"MF,FW",28,1997,18,675,38,22.1,7.5,7,63,0,11,22,3,1.61,15,12,3,0.4,-0.28,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Leverkusen,Montrell Culbreath,GER,"MF,DF",17,2007,12,736,61,24.1,8.2,9,76,2,3,19,4,1.83,19,13,6,0.73,0.15,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Leverkusen,Nathan Tella,NGA,MF,26,1999,17,868,51,28.4,9.6,10,75,0,7,17,0,1.59,23,17,6,0.62,0.01,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Leverkusen,Niklas Lomb,GER,GK,32,1993,0,,,,,0,,0,0,,13,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Leverkusen,Patrik Schick,CZE,FW,29,1996,28,1988,71,65.0,22.1,23,80,11,5,29,0,1.64,44,29,15,0.68,0.18,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Leverkusen,Piero Hincapié,ECU,DF,23,2002,1,90,90,2.9,1.0,1,90,1,0,,1,0.0,1,2,-1,-1.0,-1.67,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Leverkusen,Robert Andrich,GER,"DF,MF",30,1994,32,2546,80,83.2,28.3,29,86,24,3,16,1,1.81,58,43,15,0.53,-0.52,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Leverkusen,Tim Oermann,GER,DF,21,2003,2,18,9,0.6,0.2,0,,0,2,9,10,1.0,0,2,-2,-10.0,-10.68,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Leverkusen,Álex Grimaldo,ESP,MF,29,1995,29,2521,87,82.4,28.0,29,87,25,0,,1,1.79,60,40,20,0.71,0.55,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Mainz 05,Andreas Hanche-Olsen,NOR,DF,28,1997,13,851,65,27.8,9.5,8,83,5,5,38,2,0.54,9,13,-4,-0.42,-0.22,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Mainz 05,Anthony Caci,FRA,MF,28,1997,10,519,52,17.0,5.8,6,76,1,4,16,0,1.1,6,7,-1,-0.17,0.11,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Mainz 05,Armindo Sieb,GER,FW,22,2003,22,548,25,17.9,6.1,3,72,0,19,17,7,0.82,10,15,-5,-0.82,-0.68,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Mainz 05,Arnaud Nordin,FRA,"MF,FW",27,1998,13,469,36,15.3,5.2,5,71,1,8,15,5,0.69,5,11,-6,-1.15,-1.05,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Mainz 05,Ben Bobzien,GER,"FW,MF",22,2003,1,9,9,0.3,0.1,0,,0,1,9,12,1.0,1,0,1,10.0,10.29,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Mainz 05,Benedict Hollerbach,GER,"FW,MF",24,2001,14,872,62,28.5,9.7,13,66,0,1,14,0,0.79,12,15,-3,-0.31,-0.06,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Mainz 05,Daniel Batz,GER,GK,34,1991,21,1890,90,61.8,21.0,21,90,21,0,,4,1.62,32,27,5,0.24,1.32,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Mainz 05,Daniel Gleiber,GER,MF,20,2005,0,,,,,0,,0,0,,5,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Mainz 05,Danny da Costa,GER,"DF,MF",32,1993,34,2695,79,88.1,29.9,30,86,25,4,29,0,1.18,34,49,-15,-0.5,-1.98,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Mainz 05,Dominik Kohr,GER,DF,31,1994,29,2338,81,76.4,26.0,28,83,19,1,15,0,1.24,35,40,-5,-0.19,0.31,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Mainz 05,Fabio Moreno Fell,GER,FW,25,2000,2,77,39,2.5,0.9,1,76,0,1,1,6,0.0,0,1,-1,-1.17,-0.93,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Mainz 05,Kacper Potulski,POL,DF,17,2007,15,1065,71,34.8,11.8,9,88,8,6,45,9,1.67,14,17,-3,-0.25,0.02,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Mainz 05,Kaishū Sano,JPN,MF,24,2000,34,3059,90,100.0,34.0,34,90,33,0,,0,1.18,44,53,-9,-0.26,-0.26,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Mainz 05,Konstantin Schopp,AUT,DF,19,2005,0,,,,,0,,0,0,,1,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Mainz 05,Lasse Rieß,GER,GK,24,2001,4,292,73,9.5,3.2,3,90,3,1,22,26,0.0,3,12,-9,-2.77,-2.77,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Mainz 05,Lee Jae-sung,KOR,"MF,FW",32,1992,28,2185,78,71.4,24.3,26,82,8,2,22,0,1.18,26,39,-13,-0.54,-0.95,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Mainz 05,Lennard Maloney,USA,"DF,MF",25,1999,21,485,23,15.8,5.4,4,78,2,17,10,11,1.52,3,12,-9,-1.67,-1.67,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Mainz 05,Maxim Leitsch,GER,DF,27,1998,3,162,54,5.3,1.8,2,76,1,1,10,10,1.0,0,4,-4,-2.22,-2.07,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Mainz 05,Nadiem Amiri,GER,MF,28,1996,26,2083,80,68.1,23.1,24,85,13,2,28,0,1.08,32,33,-1,-0.04,0.69,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Mainz 05,Nelson Weiper,GER,FW,20,2005,24,558,23,18.2,6.2,3,83,2,21,15,4,1.04,4,12,-8,-1.29,-1.25,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Mainz 05,Nikolas Veratschnig,AUT,"MF,DF",22,2003,21,660,31,21.6,7.3,6,67,2,15,17,8,1.1,9,13,-4,-0.55,-0.36,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Mainz 05,Paul Nebel,GER,MF,22,2002,30,2073,69,67.7,23.0,24,82,13,6,17,0,1.27,27,37,-10,-0.43,-0.53,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Mainz 05,Phillip Tietz,GER,FW,28,1997,19,1610,85,52.6,17.9,19,85,9,0,,0,1.68,30,22,8,0.45,1.5,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Mainz 05,Phillipp Mwene,AUT,MF,31,1994,29,2069,71,67.6,23.0,24,82,14,5,20,0,1.17,31,36,-5,-0.22,0.15,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Mainz 05,Robin Zentner,GER,GK,30,1994,10,876,88,28.6,9.7,10,88,9,0,,3,0.6,9,14,-5,-0.51,-0.35,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Mainz 05,Sheraldo Becker,SUR,FW,30,1995,14,946,68,30.9,10.5,11,77,1,3,35,0,1.57,16,8,8,0.76,1.48,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Mainz 05,Silas Katompa,COD,FW,26,1998,8,334,42,10.9,3.7,4,57,0,4,27,0,1.5,6,8,-2,-0.54,-0.31,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Mainz 05,Silvan Widmer,SUI,MF,32,1993,27,1810,67,59.2,20.1,22,78,6,5,19,5,1.37,29,26,3,0.15,1.01,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Mainz 05,Sota Kawasaki,JPN,"MF,DF",24,2001,10,309,31,10.1,3.4,3,71,1,7,14,14,1.1,4,6,-2,-0.58,-0.35,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Mainz 05,Stefan Bell,GER,DF,33,1991,18,1039,58,34.0,11.5,13,71,6,5,24,5,1.06,18,21,-3,-0.26,0.01,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Mainz 05,Stefan Posch,AUT,DF,28,1997,16,1395,87,45.6,15.5,16,87,15,0,,0,1.75,26,22,4,0.26,0.96,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Mainz 05,William Bøving,DEN,MF,22,2003,9,223,25,7.3,2.5,2,77,1,7,10,18,0.67,4,6,-2,-0.81,-0.59,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,RB Leipzig,Amadou Haidara,MLI,MF,27,1998,0,,,,,0,,0,0,,5,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,RB Leipzig,Andrija Maksimović,SRB,FW,18,2007,8,93,12,3.0,1.0,0,,0,8,12,14,1.63,0,2,-2,-1.94,-2.57,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,RB Leipzig,Antonio Nusa,NOR,"FW,MF",20,2005,31,2027,65,66.2,22.5,24,77,4,7,26,0,2.0,42,29,13,0.58,0.05,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,RB Leipzig,Assan Ouédraogo,GER,MF,19,2006,19,948,50,31.0,10.5,13,68,1,6,11,0,2.26,29,14,15,1.42,1.25,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,RB Leipzig,Benjamin Henrichs,GER,DF,28,1997,17,305,18,10.0,3.4,3,62,0,14,8,1,1.94,7,8,-1,-0.3,-0.95,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,RB Leipzig,Benno Kaltefleiter,GER,MF,17,2008,0,,,,,0,,0,0,,1,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,RB Leipzig,Brajan Gruda,GER,"MF,FW",21,2004,13,753,58,24.6,8.4,8,77,2,5,28,0,2.0,20,12,8,0.96,0.53,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,RB Leipzig,Castello Lukeba,FRA,DF,22,2002,26,2176,84,71.1,24.2,24,88,22,2,27,2,1.88,50,33,17,0.7,0.5,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,RB Leipzig,Christoph Baumgartner,AUT,MF,25,1999,33,2780,84,90.8,30.9,32,86,18,1,22,0,1.97,63,37,26,0.84,3.09,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,RB Leipzig,Conrad Harder,DEN,FW,20,2005,29,932,32,30.5,10.4,8,77,3,21,15,2,1.83,18,22,-4,-0.39,-1.36,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,RB Leipzig,David Raum,GER,DF,27,1998,30,2553,85,83.4,28.4,29,88,25,1,12,1,2.03,57,34,23,0.81,1.52,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,RB Leipzig,El Chadaille Bitshiabu,FRA,DF,20,2005,11,655,60,21.4,7.3,8,79,5,3,9,19,1.73,13,11,2,0.27,-0.36,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,RB Leipzig,Ezechiel Banzuzi,NED,MF,20,2005,24,597,25,19.5,6.6,2,65,0,22,21,4,2.04,6,10,-4,-0.6,-1.44,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,RB Leipzig,Johan Bakayoko,BEL,"FW,MF",22,2003,20,777,39,25.4,8.6,8,72,0,12,17,9,1.8,15,9,6,0.69,0.18,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,RB Leipzig,Joyeux Masanka Bungi,BEL,DF,18,2007,0,,,,,0,,0,0,,1,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,RB Leipzig,Kevin Kampl,SVN,MF,34,1990,3,3,1,0.1,0.0,0,,0,3,1,0,3.0,0,0,0,0.0,-0.56,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,RB Leipzig,Kosta Nedeljković,SRB,DF,19,2005,5,251,50,8.2,2.8,3,80,1,2,6,10,1.8,8,4,4,1.43,0.95,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,RB Leipzig,Leopold Zingerle,GER,GK,31,1994,0,,,,,0,,0,0,,5,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,RB Leipzig,Loïs Openda,BEL,FW,25,2000,2,51,26,1.7,0.6,1,45,0,1,6,0,1.5,0,3,-3,-5.29,-5.95,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,RB Leipzig,Lukas Klostermann,GER,DF,29,1996,5,95,19,3.1,1.1,1,89,0,4,2,16,2.0,3,1,2,1.89,1.38,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,RB Leipzig,Lutsharel Geertruida,NED,DF,25,2000,0,,,,,0,,0,0,,1,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,RB Leipzig,Maarten Vandevoordt,BEL,GK,23,2002,12,1052,88,34.4,11.7,11,90,11,1,62,22,2.17,25,15,10,0.86,0.45,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,RB Leipzig,Max Finkgräfe,GER,DF,21,2004,13,504,39,16.5,5.6,5,86,3,8,9,13,2.23,9,13,-4,-0.71,-1.52,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,RB Leipzig,Nicolas Seiwald,AUT,MF,24,2001,33,2694,82,88.0,29.9,31,85,19,2,23,0,1.88,57,37,20,0.67,0.91,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,RB Leipzig,Péter Gulácsi,HUN,GK,35,1990,23,2008,87,65.6,22.3,23,87,22,0,,6,1.74,41,32,9,0.4,-0.45,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,RB Leipzig,Ridle Baku,GER,DF,27,1998,32,2504,78,81.8,27.8,28,86,14,4,26,0,1.94,50,36,14,0.5,-0.31,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,RB Leipzig,Rômulo,BRA,FW,23,2002,30,2188,73,71.5,24.3,27,78,4,3,30,0,1.93,47,27,20,0.82,0.93,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,RB Leipzig,Samba Konaté,FRA,FW,16,2009,1,4,4,0.1,0.0,0,,0,1,4,2,3.0,0,0,0,0.0,-0.56,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,RB Leipzig,Tidiam Gomis,FRA,FW,18,2006,18,348,19,11.4,3.9,2,69,0,16,13,10,1.78,5,9,-4,-1.03,-1.8,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,RB Leipzig,Timo Werner,GER,"FW,MF",29,1996,3,14,5,0.5,0.2,0,,0,3,5,1,1.0,0,2,-2,-12.86,-13.48,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,RB Leipzig,Willi Orban,HUN,DF,32,1992,33,2949,89,96.4,32.8,33,89,32,0,,0,1.88,63,46,17,0.52,-1.1,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,RB Leipzig,Xaver Schlager,AUT,MF,27,1997,26,1837,71,60.0,20.4,21,83,16,5,21,1,1.88,40,29,11,0.54,-0.05,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,RB Leipzig,Xavi Simons,NED,MF,22,2003,1,90,90,2.9,1.0,1,90,1,0,,0,0.0,0,6,-6,-6.0,-6.76,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,RB Leipzig,Yan Diomandé,CIV,"FW,MF",18,2006,33,2472,75,80.8,27.5,28,84,11,5,27,0,1.97,55,35,20,0.73,0.88,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,St Pauli,Abdoulie Ceesay,GAM,FW,21,2004,20,336,17,11.0,3.7,0,,0,20,17,11,0.35,7,9,-2,-0.54,0.42,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,St Pauli,Adam Dźwigała,POL,DF,29,1995,19,1288,68,42.1,14.3,14,79,5,5,37,9,0.95,13,24,-11,-0.77,0.25,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,St Pauli,Andreas Hountondji,BEN,FW,23,2002,21,1067,51,34.9,11.9,15,60,0,6,28,0,0.48,8,23,-15,-1.27,-0.54,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,St Pauli,Arkadiusz Pyrka,POL,MF,22,2002,31,2576,83,84.2,28.6,30,86,23,1,9,2,0.84,24,50,-26,-0.91,0.02,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,St Pauli,Ben Alexander Voll,GER,GK,24,2000,0,,,,,0,,0,0,,33,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,St Pauli,Connor Metcalfe,AUS,"MF,FW",25,1999,25,592,24,19.3,6.6,3,86,0,22,15,1,0.68,7,13,-6,-0.91,0.0,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,St Pauli,Danel Sinani,LUX,"MF,FW",28,1997,30,2069,69,67.6,23.0,23,83,15,7,22,2,0.77,18,43,-25,-1.09,-0.54,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,St Pauli,Dapo Afolayan,ENG,MF,27,1997,7,150,21,4.9,1.7,1,45,0,6,18,5,0.57,1,3,-2,-1.2,-0.3,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,St Pauli,David Nemeth,AUT,DF,24,2001,0,,,,,0,,0,0,,6,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,St Pauli,Emil Gazdov,CAN,GK,21,2003,0,,,,,0,,0,0,,1,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,St Pauli,Eric Smith,SWE,"DF,MF",28,1997,27,2311,86,75.5,25.7,26,87,23,1,45,0,0.74,22,43,-21,-0.82,0.38,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,St Pauli,Erik Ahlstrand,SWE,MF,23,2001,0,,,,,0,,0,0,,11,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,St Pauli,Finley Stevens,WAL,DF,22,2003,1,27,27,0.9,0.3,0,,0,1,27,10,0.0,1,0,1,3.33,4.28,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,St Pauli,Hauke Wahl,GER,DF,31,1994,30,2592,86,84.7,28.8,29,88,28,1,27,0,0.77,25,47,-22,-0.76,0.97,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,St Pauli,Jackson Irvine,AUS,MF,32,1993,24,1624,68,53.1,18.0,18,85,11,6,16,2,0.79,16,24,-8,-0.44,1.0,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,St Pauli,James Sands,USA,MF,25,2000,24,1934,81,63.2,21.5,23,84,15,1,11,0,1.0,17,34,-17,-0.79,0.33,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,St Pauli,Jannik Robatsch,AUT,DF,20,2004,0,,,,,0,,0,0,,19,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,St Pauli,Joel Fujita,JPN,MF,23,2002,32,2665,83,87.1,29.6,31,85,23,1,22,0,0.69,25,53,-28,-0.95,-0.26,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,St Pauli,Karol Mets,EST,DF,32,1993,23,1932,84,63.1,21.5,22,87,18,1,16,3,0.78,17,40,-23,-1.07,-0.43,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,St Pauli,Lars Ritzka,GER,"MF,DF",27,1998,21,966,46,31.6,10.7,12,66,0,9,20,13,0.71,6,21,-15,-1.4,-0.71,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,St Pauli,Louis Oppie,GER,MF,23,2002,23,1620,70,52.9,18.0,17,87,15,6,22,11,0.57,14,34,-20,-1.11,-0.42,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,St Pauli,Manolis Saliakas,GRE,MF,28,1996,17,1106,65,36.1,12.3,12,81,4,5,27,8,1.12,12,21,-9,-0.73,0.28,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,St Pauli,Martijn Kaars,NED,FW,26,1999,29,1348,46,44.1,15.0,14,71,3,15,24,3,0.69,11,27,-16,-1.07,-0.28,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,St Pauli,Mathias Pereira Lage,POR,"MF,FW",28,1996,28,2018,72,65.9,22.4,25,77,6,3,27,0,0.82,21,37,-16,-0.71,0.58,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,St Pauli,Mathias Rasmussen,NOR,MF,27,1997,13,694,53,22.7,7.7,8,83,5,5,6,1,0.69,8,17,-9,-1.17,-0.33,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,St Pauli,Nick Schmidt,JPN,MF,17,2007,0,,,,,0,,0,0,,3,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,St Pauli,Nikola Vasilj,BIH,GK,29,1995,34,3060,90,100.0,34.0,34,90,34,0,,0,0.76,29,60,-31,-0.91,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,St Pauli,Ricky-Jade Jones,ENG,FW,24,2001,9,351,39,11.5,3.9,3,65,0,6,26,2,0.78,4,6,-2,-0.51,0.45,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,St Pauli,Romeo Aigbekaen,GER,MF,21,2004,0,,,,,0,,0,0,,2,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,St Pauli,Scott Banks,SCO,MF,23,2001,0,,,,,0,,0,0,,1,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,St Pauli,Taichi Hara,JPN,FW,26,1999,4,27,7,0.9,0.3,0,,0,4,7,10,0.75,0,1,-1,-3.33,-2.44,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,St Pauli,Tomoya Ando,JPN,DF,26,1999,15,1260,84,41.2,14.0,14,88,12,1,27,2,0.6,12,29,-17,-1.21,-0.51,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Stuttgart,Alexander Nübel,GER,GK,28,1996,34,3060,90,100.0,34.0,34,90,34,0,,0,1.82,71,49,22,0.65,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Stuttgart,Ameen Al-Dakhil,BEL,DF,23,2002,8,380,48,12.4,4.2,3,90,3,5,22,13,2.0,6,8,-2,-0.47,-1.28,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Stuttgart,Angelo Stiller,GER,MF,24,2001,34,2743,81,89.6,30.5,30,88,23,4,26,0,1.82,65,43,22,0.72,0.72,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Stuttgart,Atakan Karazor,TUR,MF,28,1996,28,1884,67,61.6,20.9,22,84,12,6,7,3,1.82,37,29,8,0.38,-0.69,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Stuttgart,Badredine Bouanani,ALG,MF,20,2004,14,463,33,15.1,5.1,5,72,1,9,11,15,1.79,13,5,8,1.56,1.07,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Stuttgart,Bilal El Khannouss,MAR,"MF,FW",21,2004,25,1630,65,53.3,18.1,19,80,7,6,18,2,1.84,33,30,3,0.17,-1.03,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Stuttgart,Chema,ESP,MF,20,2005,25,1310,52,42.8,14.6,14,85,8,11,10,9,1.88,32,24,8,0.55,-0.17,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Stuttgart,Chris Führich,GER,MF,27,1998,33,1698,51,55.5,18.9,20,70,1,13,23,1,1.79,41,28,13,0.69,0.09,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Stuttgart,Dan-Axel Zagadou,FRA,DF,26,1999,3,209,70,6.8,2.3,3,70,1,0,,8,2.33,4,4,0,0.0,-0.69,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Stuttgart,Deniz Undav,GER,"FW,MF",29,1996,29,2241,77,73.2,24.9,25,84,13,4,36,0,1.83,55,36,19,0.76,0.43,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Stuttgart,Ermedin Demirović,BIH,FW,27,1998,25,1497,60,48.9,16.6,17,80,8,8,16,0,1.92,37,17,20,1.2,1.09,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Stuttgart,Fabian Bredlow,GER,GK,30,1995,0,,,,,0,,0,0,,31,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Stuttgart,Finn Jeltsch,GER,DF,19,2006,23,1511,66,49.4,16.8,17,85,14,6,12,6,1.91,37,23,14,0.83,0.37,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Stuttgart,Jamie Leweling,GER,MF,24,2001,32,2367,74,77.4,26.3,26,84,10,6,29,0,1.75,50,40,10,0.38,-1.18,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Stuttgart,Jeremy Arévalo,ECU,FW,20,2005,7,38,5,1.2,0.4,0,,0,7,5,2,2.0,2,1,1,2.37,1.74,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Stuttgart,Josha Vagnoman,GER,"DF,MF",24,2000,27,1587,59,51.9,17.6,18,84,11,9,9,4,1.78,32,29,3,0.17,-0.99,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Stuttgart,Julian Chabot,GER,DF,27,1998,27,2294,85,75.0,25.5,26,88,23,1,16,5,1.81,55,37,18,0.71,0.24,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Stuttgart,Lazar Jovanović,SRB,FW,18,2006,3,40,13,1.3,0.4,0,,0,3,13,4,1.0,2,1,1,2.25,1.62,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Stuttgart,Leonidas Stergiou,SUI,DF,23,2002,1,1,1,0.0,0.0,0,,0,1,1,3,3.0,0,0,0,0.0,-0.65,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Stuttgart,Lorenz Assignon,TOG,"DF,MF",25,2000,24,1094,46,35.8,12.2,12,80,4,12,11,6,2.0,28,13,15,1.23,0.91,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Stuttgart,Luca Jaquez,SUI,DF,22,2003,14,898,64,29.3,10.0,10,82,6,4,19,4,1.79,16,13,3,0.3,-0.49,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Stuttgart,Maximilian Mittelstädt,GER,"DF,MF",28,1997,32,2186,68,71.4,24.3,24,84,12,8,22,1,1.75,49,29,20,0.82,0.62,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Stuttgart,Nick Woltemade,GER,MF,23,2002,1,90,90,2.9,1.0,1,90,1,0,,0,0.0,1,2,-1,-1.0,-1.7,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Stuttgart,Nikolas Nartey,DEN,MF,25,2000,28,1256,45,41.0,14.0,14,74,2,14,16,4,2.07,34,13,21,1.5,1.45,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Stuttgart,Noah Darvich,GER,MF,18,2006,0,,,,,0,,0,0,,1,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Stuttgart,Pascal Stenzel,GER,MF,29,1996,2,106,53,3.5,1.2,2,53,0,0,,16,1.5,1,2,-1,-0.85,-1.55,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Stuttgart,Ramon Hendriks,NED,DF,24,2001,31,2025,65,66.2,22.5,22,86,17,9,14,2,1.77,50,38,12,0.53,-0.34,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Stuttgart,Stefan Drljača,GER,GK,26,1999,0,,,,,0,,0,0,,3,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Stuttgart,Tiago Tomás,POR,"MF,FW",23,2002,27,1020,38,33.3,11.3,10,70,0,17,19,0,1.81,27,23,4,0.35,-0.44,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Union Berlin,Alex Král,CZE,MF,27,1998,20,459,23,15.0,5.1,2,73,0,18,17,10,1.05,8,13,-5,-0.98,-0.67,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Union Berlin,Aljoscha Kemlein,GER,MF,20,2004,30,1959,65,64.0,21.8,23,79,8,7,20,4,1.13,28,31,-3,-0.14,0.76,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Union Berlin,Andrej Ilic,SRB,FW,25,2000,32,2257,71,73.8,25.1,24,84,17,8,29,0,1.19,37,46,-9,-0.36,0.2,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Union Berlin,Andrik Markgraf,GER,DF,18,2006,0,,,,,0,,0,0,,6,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Union Berlin,András Schäfer,HUN,MF,26,1999,28,1421,51,46.4,15.8,16,74,6,12,20,1,1.07,21,22,-1,-0.06,0.65,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Union Berlin,Carl Klaus,GER,GK,31,1994,4,330,83,10.8,3.7,3,90,3,1,60,6,1.75,10,4,6,1.64,2.3,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Union Berlin,Christopher Trimmel,AUT,"MF,DF",38,1987,29,1861,64,60.8,20.7,22,75,6,7,30,4,1.24,29,31,-2,-0.1,0.8,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Union Berlin,Danilho Doekhi,NED,DF,27,1998,34,3060,90,100.0,34.0,34,90,34,0,,0,1.15,44,58,-14,-0.41,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Union Berlin,David Preu,GER,MF,20,2004,0,,,,,0,,0,0,,14,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Union Berlin,Derrick Köhn,GHA,"MF,DF",26,1999,29,1899,65,62.1,21.1,21,82,10,8,21,2,1.17,25,32,-7,-0.33,0.21,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Union Berlin,Diogo Leite,POR,DF,26,1999,23,1963,85,64.2,21.8,23,85,16,0,,2,1.26,30,32,-2,-0.09,0.89,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Union Berlin,Dmytro Bohdanov,UKR,MF,18,2007,2,6,3,0.2,0.1,0,,0,2,3,6,1.5,1,0,1,15.0,15.44,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Union Berlin,Frederik Rønnow,DEN,GK,32,1992,30,2640,88,86.3,29.3,30,88,29,0,,0,0.97,33,54,-21,-0.72,-2.22,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Union Berlin,Ilyas Ansah,GER,"MF,FW",20,2004,33,1892,57,61.8,21.0,23,73,3,10,22,1,1.18,28,31,-3,-0.14,0.7,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Union Berlin,Janik Haberer,GER,MF,31,1994,28,1646,59,53.8,18.3,20,74,7,8,22,4,1.0,17,39,-22,-1.2,-1.71,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Union Berlin,Jeong Woo-yeong,KOR,"MF,FW",25,1999,28,1197,43,39.1,13.3,13,69,2,15,20,2,1.21,16,22,-6,-0.45,-0.06,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Union Berlin,Josip Juranović,CRO,MF,29,1995,11,330,30,10.8,3.7,3,63,0,8,18,8,1.64,7,7,0,0.0,0.46,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Union Berlin,Leopold Querfeld,AUT,DF,21,2003,31,2705,87,88.4,30.1,30,90,30,1,5,2,1.03,35,55,-20,-0.67,-2.19,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Union Berlin,Linus Güther,GER,MF,15,2010,1,7,7,0.2,0.1,0,,0,1,7,0,0.0,0,0,0,0.0,0.41,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Union Berlin,Livan Burcu,TUR,"MF,FW",20,2004,18,651,36,21.3,7.2,6,68,0,12,20,7,0.94,11,12,-1,-0.14,0.35,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Union Berlin,Marin Ljubicic,CRO,FW,23,2002,2,22,11,0.7,0.2,0,,0,2,11,9,1.0,2,0,2,8.18,8.66,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Union Berlin,Matheo Raab,GER,GK,26,1998,1,90,90,2.9,1.0,1,90,1,0,,24,3.0,1,0,1,1.0,1.45,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Union Berlin,Oliver Burke,SCO,"FW,MF",28,1997,29,1664,57,54.4,18.5,21,74,4,8,14,4,1.0,23,32,-9,-0.49,-0.16,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Union Berlin,Oluwaseun Ogbemudia,GER,DF,19,2006,0,,,,,0,,0,0,,4,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Union Berlin,Rani Khedira,TUN,MF,31,1994,32,2830,88,92.5,31.4,32,88,27,0,,0,1.13,36,53,-17,-0.54,-1.71,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Union Berlin,Robert Skov,DEN,"DF,MF",29,1996,3,220,73,7.2,2.4,3,73,0,0,,1,1.0,4,6,-2,-0.82,-0.44,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Union Berlin,Stanley N'Soki,FRA,"DF,MF",26,1999,13,816,63,26.7,9.1,10,76,3,3,18,13,0.92,8,18,-10,-1.1,-0.94,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Union Berlin,Tim Skarke,GER,"MF,FW",28,1996,22,623,28,20.4,6.9,4,59,0,18,22,8,1.41,12,12,0,0.0,0.52,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Union Berlin,Tom Rothe,GER,"MF,DF",20,2004,21,1029,49,33.6,11.4,10,81,5,11,20,1,1.1,17,22,-5,-0.44,-0.04,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Union Berlin,Tom Wisbereit,GER,GK,17,2007,0,,,,,0,,0,0,,3,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Werder Bremen,Abdoul Coulibaly,GER,DF,18,2007,27,2120,79,69.3,23.6,24,85,19,3,29,2,0.93,24,43,-19,-0.81,-0.42,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Werder Bremen,Amos Pieper,GER,DF,27,1998,19,1502,79,49.1,16.7,19,79,15,0,,3,0.79,18,29,-11,-0.66,0.03,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Werder Bremen,Cameron Puertas,SUI,MF,26,1998,28,1846,66,60.3,20.5,22,80,10,6,15,3,1.04,24,30,-6,-0.29,0.97,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Werder Bremen,Felix Agu,NGA,"DF,MF",25,1999,11,744,68,24.3,8.3,9,76,4,2,30,3,0.91,11,19,-8,-0.97,-0.38,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Werder Bremen,Isaac Schmidt,SUI,"MF,DF",25,1999,19,682,36,22.3,7.6,6,64,0,13,23,11,0.74,8,13,-5,-0.66,0.02,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Werder Bremen,Isak Hansen-Aarøen,NOR,MF,20,2004,1,2,2,0.1,0.0,0,,0,1,2,6,0.0,0,0,0,0.0,0.68,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Werder Bremen,Jens Stage,DEN,MF,28,1996,29,2460,85,80.4,27.3,29,85,21,0,,0,0.97,26,45,-19,-0.7,-0.1,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Werder Bremen,Jovan Milošević,SRB,FW,20,2005,13,488,38,15.9,5.4,5,65,1,8,20,3,0.69,9,11,-2,-0.37,0.37,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Werder Bremen,Julián Malatini,ARG,DF,24,2001,11,516,47,16.9,5.7,5,71,1,6,27,7,1.0,4,12,-8,-1.4,-0.86,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Werder Bremen,Justin Njinmah,GER,"FW,MF",24,2000,33,1947,59,63.6,21.6,22,77,6,11,23,1,0.94,18,45,-27,-1.25,-1.57,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Werder Bremen,Karl Jakob Hein,EST,GK,23,2002,2,180,90,5.9,2.0,2,90,2,0,,23,1.5,1,4,-3,-1.5,-0.87,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Werder Bremen,Keke Topp,GER,FW,21,2004,20,638,32,20.8,7.1,7,65,1,13,14,7,0.9,9,10,-1,-0.14,0.68,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Werder Bremen,Leon Opitz,GER,MF,20,2005,0,,,,,0,,0,0,,2,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Werder Bremen,Leonardo Bittencourt,GER,MF,31,1993,17,615,36,20.1,6.8,5,78,0,12,19,7,1.18,14,16,-2,-0.29,0.48,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Werder Bremen,Marco Friedl,AUT,DF,27,1998,30,2546,85,83.2,28.3,29,86,26,1,45,0,0.9,29,49,-20,-0.71,-0.18,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Werder Bremen,Marco Grüll,AUT,"MF,FW",27,1998,33,2006,61,65.6,22.3,23,77,6,10,24,0,0.94,21,38,-17,-0.76,-0.25,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Werder Bremen,Markus Kolke,GER,GK,34,1990,0,,,,,0,,0,0,,11,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Werder Bremen,Mats Heitmann,GER,DF,19,2006,0,,,,,0,,0,0,,1,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Werder Bremen,Maximilian Wöber,AUT,DF,27,1998,2,37,19,1.2,0.4,0,,0,2,19,3,0.5,0,0,0,0.0,0.68,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Werder Bremen,Mick Schmetgens,GER,MF,17,2007,2,37,19,1.2,0.4,0,,0,2,19,13,1.5,0,0,0,0.0,0.68,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Werder Bremen,Mio Backhaus,GER,GK,21,2004,32,2880,90,94.1,32.0,32,90,32,0,,0,0.91,36,56,-20,-0.62,0.87,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Werder Bremen,Niklas Stark,GER,DF,30,1995,14,697,50,22.8,7.7,9,68,2,5,16,5,1.43,9,14,-5,-0.65,0.04,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Werder Bremen,Olivier Deman,BEL,"DF,MF",25,2000,16,1254,78,41.0,13.9,14,86,12,2,28,4,0.88,15,21,-6,-0.43,0.42,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Werder Bremen,Patrice Čović,CRO,MF,18,2007,15,351,23,11.5,3.9,2,66,0,13,17,19,0.8,4,10,-6,-1.54,-0.97,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Werder Bremen,Romano Schmid,AUT,"MF,FW",25,2000,34,2982,88,97.5,33.1,34,88,23,0,,0,0.94,34,57,-23,-0.69,-0.69,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Werder Bremen,Salim Musah,GER,FW,19,2006,8,198,25,6.5,2.2,2,40,0,6,20,3,0.5,3,4,-1,-0.45,0.24,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Werder Bremen,Samuel Mbangula,BEL,"MF,FW",21,2004,26,1171,45,38.3,13.0,12,72,1,14,22,3,0.85,15,22,-7,-0.54,0.22,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Werder Bremen,Senne Lynen,BEL,MF,26,1999,31,2752,89,89.9,30.6,31,89,26,0,,0,0.9,33,54,-21,-0.69,-0.1,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Werder Bremen,Skelly Alvero,FRA,MF,23,2002,2,34,17,1.1,0.4,0,,0,2,17,15,2.0,2,0,2,5.29,6.04,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Werder Bremen,Victor Boniface,NGA,FW,24,2000,11,333,30,10.9,3.7,2,74,0,9,21,1,1.36,5,8,-3,-0.81,-0.15,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Werder Bremen,Wesley Adeh,GER,MF,18,2007,0,,,,,0,,0,0,,3,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Werder Bremen,Yukinari Sugawara,JPN,"DF,MF",25,2000,31,2428,78,79.3,27.0,29,82,20,2,21,1,1.03,32,43,-11,-0.41,1.3,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Wolfsburg,Aaron Zehnter,GER,"DF,MF",20,2004,20,1456,73,47.6,16.2,17,85,10,3,3,8,1.1,23,29,-6,-0.37,0.64,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Wolfsburg,Adam Daghim,DEN,"MF,FW",19,2005,27,1364,51,44.6,15.2,12,83,5,15,24,1,0.67,18,33,-15,-0.99,-0.51,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Wolfsburg,Andreas Skov Olsen,DEN,MF,25,1999,8,362,45,11.8,4.0,4,67,0,4,24,4,1.0,7,7,0,0.0,0.8,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Wolfsburg,Bence Dárdai,HUN,MF,19,2006,1,35,35,1.1,0.4,0,,0,1,35,8,3.0,0,0,0,0.0,0.71,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Wolfsburg,Bruno Katz,FIN,MF,17,2008,0,,,,,0,,0,0,,2,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Wolfsburg,Christian Eriksen,DEN,MF,33,1992,31,2410,78,78.8,26.8,27,85,10,4,32,1,0.77,36,53,-17,-0.63,0.33,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Wolfsburg,David Odogu,GER,DF,19,2006,0,,,,,0,,0,0,,2,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Wolfsburg,Denis Vavro,SVK,DF,29,1996,17,1176,69,38.4,13.1,13,89,11,4,5,8,0.94,16,27,-11,-0.84,-0.22,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Wolfsburg,Dženan Pejčinović,GER,FW,20,2005,30,1460,49,47.7,16.2,16,79,7,14,14,3,0.83,19,37,-18,-1.11,-0.77,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Wolfsburg,Jan Bürger,GER,"MF,DF",18,2007,7,247,35,8.1,2.7,2,59,0,5,26,8,0.57,3,6,-3,-1.09,-0.42,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Wolfsburg,Jeanuël Belocian,FRA,DF,20,2005,14,1254,90,41.0,13.9,14,90,13,0,,0,0.71,17,26,-9,-0.65,0.1,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Wolfsburg,Jenson Seelt,NED,DF,22,2003,9,681,76,22.3,7.6,8,84,7,1,6,2,1.22,15,17,-2,-0.26,0.57,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Wolfsburg,Jesper Lindstrøm,DEN,MF,25,2000,13,379,29,12.4,4.2,4,58,0,9,17,1,0.23,4,12,-8,-1.9,-1.36,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Wolfsburg,Joakim Mæhle,DEN,"MF,DF",28,1997,16,1222,76,39.9,13.6,14,87,11,2,4,0,0.88,15,24,-9,-0.66,0.07,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Wolfsburg,Jonas Adjetey,GHA,DF,21,2003,4,137,34,4.5,1.5,1,90,1,3,16,5,0.25,1,3,-2,-1.31,-0.64,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Wolfsburg,Jonas Wind,DEN,FW,26,1999,11,481,44,15.7,5.3,5,75,1,6,17,2,0.45,5,13,-8,-1.5,-0.94,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Wolfsburg,Kamil Grabara,POL,GK,26,1999,34,3060,90,100.0,34.0,34,90,34,0,,0,0.85,45,69,-24,-0.71,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Wolfsburg,Kento Shiogai,JPN,MF,20,2005,12,318,27,10.4,3.5,2,61,0,10,20,4,0.58,4,4,0,0.0,0.79,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Wolfsburg,Kevin Paredes,USA,MF,22,2003,6,164,27,5.4,1.8,1,63,0,5,20,2,0.83,4,4,0,0.0,0.75,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Wolfsburg,Kilian Fischer,GER,DF,24,2000,11,800,73,26.1,8.9,10,78,5,1,18,4,0.73,10,21,-11,-1.24,-0.72,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Wolfsburg,Konstantinos Koulierakis,GRE,DF,21,2003,29,2482,86,81.1,27.6,27,90,26,2,27,3,1.0,38,54,-16,-0.58,0.67,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Wolfsburg,Lovro Majer,CRO,MF,27,1998,28,1371,49,44.8,15.2,16,70,1,12,21,4,0.75,20,30,-10,-0.66,0.09,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Wolfsburg,Marius Müller,GER,GK,32,1993,0,,,0.0,0.0,0,,0,0,,18,0.5,3,4,-1,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Wolfsburg,Mathys Angély,FRA,DF,18,2007,0,,,,,0,,0,0,,2,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Wolfsburg,Mattias Svanberg,SWE,MF,26,1999,24,861,36,28.1,9.6,8,67,0,16,21,1,0.92,13,24,-11,-1.15,-0.62,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Wolfsburg,Maximilian Arnold,GER,MF,31,1994,25,1859,74,60.8,20.7,20,90,20,5,12,2,0.92,31,41,-10,-0.48,0.56,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Wolfsburg,Mohamed Amoura,ALG,"FW,MF",25,2000,30,1919,64,62.7,21.3,23,78,8,7,18,0,0.97,32,32,0,0.0,1.89,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Wolfsburg,Moritz Jenz,GER,DF,26,1999,22,1787,81,58.4,19.9,20,89,18,2,1,5,0.68,21,44,-23,-1.16,-1.09,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Wolfsburg,Patrick Wimmer,AUT,MF,24,2001,25,1621,65,53.0,18.0,21,73,3,4,24,0,1.0,27,32,-5,-0.28,0.91,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Wolfsburg,Pavao Pervan,AUT,GK,37,1987,0,,,,,0,,0,0,,14,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Wolfsburg,Pharell Hensel,GER,MF,18,2007,5,69,14,2.3,0.8,1,61,0,4,2,10,1.4,0,4,-4,-5.22,-4.62,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Wolfsburg,Sael Kumbedi,FRA,"DF,MF",20,2005,24,1804,75,59.0,20.0,20,86,12,4,24,5,0.88,30,45,-15,-0.75,-0.1,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Wolfsburg,Till Neininger,GER,DF,18,2007,0,,,,,0,,0,0,,1,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Wolfsburg,Trevor Benedict,GER,FW,18,2007,0,,,,,0,,0,0,,1,,,,,,,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Wolfsburg,Vinicius Souza,BRA,MF,26,1999,24,1764,74,57.6,19.6,22,80,12,2,3,8,0.88,24,35,-11,-0.56,0.34,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Wolfsburg,Václav Černý,CZE,"FW,MF",27,1997,2,47,24,1.5,0.5,0,,0,2,24,0,2.0,0,1,-1,-1.91,-1.23,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313
+GER-Bundesliga,2526,Wolfsburg,Yannick Gerhardt,GER,MF,31,1994,19,1068,56,34.9,11.9,12,81,4,7,13,11,1.16,17,29,-12,-1.01,-0.47,GER,2025-2026,playing_time,2026-08-08T22:18:38.480313

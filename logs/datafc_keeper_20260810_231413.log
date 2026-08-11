@@ -1,0 +1,162 @@
+2026-08-10 23:14:13,307 [INFO] =================================================================
+2026-08-10 23:14:13,308 [INFO]   RadarPepites - Scraping Sofascore Gardiens -> Bronze
+2026-08-10 23:14:13,308 [INFO] =================================================================
+2026-08-10 23:14:13,308 [INFO]   Ligues  : ['ENG', 'ESP', 'GER', 'ITA', 'FRA', 'POR', 'NED', 'BEL', 'TUR', 'AUT']
+2026-08-10 23:14:13,309 [INFO]   Saisons : ['2023-2024', '2024-2025', '2025-2026']
+2026-08-10 23:14:13,309 [INFO]   Stats   : ['saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-10 23:14:13,310 [INFO]   Filtre  : position=G (gardiens uniquement)
+2026-08-10 23:14:13,310 [INFO]   Total   : 30 combinaisons ligue x saison
+2026-08-10 23:14:13,311 [INFO] =================================================================
+2026-08-10 23:14:13,311 [INFO] [1/30] Premier League | 2023-2024
+2026-08-10 23:14:13,311 [INFO]     season_id=52186 (23/24)
+2026-08-10 23:14:13,462 [INFO]     → 40 gardiens récupérés
+2026-08-10 23:14:13,463 [INFO]     → Colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-10 23:14:13,474 [INFO]   -> 40 lignes -> 20260810_231413_ENG_2023_2024_keeper_sofascore.csv
+2026-08-10 23:14:16,475 [INFO] [2/30] Premier League | 2024-2025
+2026-08-10 23:14:16,477 [INFO]     season_id=61627 (24/25)
+2026-08-10 23:14:16,605 [INFO]     → 44 gardiens récupérés
+2026-08-10 23:14:16,605 [INFO]     → Colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-10 23:14:16,611 [INFO]   -> 44 lignes -> 20260810_231416_ENG_2024_2025_keeper_sofascore.csv
+2026-08-10 23:14:19,613 [INFO] [3/30] Premier League | 2025-2026
+2026-08-10 23:14:19,614 [INFO]     season_id=76986 (25/26)
+2026-08-10 23:14:19,754 [INFO]     → 40 gardiens récupérés
+2026-08-10 23:14:19,755 [INFO]     → Colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-10 23:14:19,761 [INFO]   -> 40 lignes -> 20260810_231419_ENG_2025_2026_keeper_sofascore.csv
+2026-08-10 23:14:22,762 [INFO] [4/30] La Liga | 2023-2024
+2026-08-10 23:14:22,764 [INFO]     season_id=52376 (23/24)
+2026-08-10 23:14:22,957 [INFO]     → 46 gardiens récupérés
+2026-08-10 23:14:22,957 [INFO]     → Colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-10 23:14:22,967 [INFO]   -> 46 lignes -> 20260810_231422_ESP_2023_2024_keeper_sofascore.csv
+2026-08-10 23:14:25,968 [INFO] [5/30] La Liga | 2024-2025
+2026-08-10 23:14:25,969 [INFO]     season_id=61643 (24/25)
+2026-08-10 23:14:26,140 [INFO]     → 45 gardiens récupérés
+2026-08-10 23:14:26,143 [INFO]     → Colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-10 23:14:26,160 [INFO]   -> 45 lignes -> 20260810_231426_ESP_2024_2025_keeper_sofascore.csv
+2026-08-10 23:14:29,161 [INFO] [6/30] La Liga | 2025-2026
+2026-08-10 23:14:29,162 [INFO]     season_id=77559 (25/26)
+2026-08-10 23:14:29,320 [INFO]     → 39 gardiens récupérés
+2026-08-10 23:14:29,321 [INFO]     → Colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-10 23:14:29,331 [INFO]   -> 39 lignes -> 20260810_231429_ESP_2025_2026_keeper_sofascore.csv
+2026-08-10 23:14:32,335 [INFO] [7/30] Bundesliga | 2023-2024
+2026-08-10 23:14:32,337 [INFO]     season_id=52608 (23/24)
+2026-08-10 23:14:32,472 [INFO]     → 33 gardiens récupérés
+2026-08-10 23:14:32,473 [INFO]     → Colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-10 23:14:32,483 [INFO]   -> 33 lignes -> 20260810_231432_GER_2023_2024_keeper_sofascore.csv
+2026-08-10 23:14:35,485 [INFO] [8/30] Bundesliga | 2024-2025
+2026-08-10 23:14:35,485 [INFO]     season_id=63516 (24/25)
+2026-08-10 23:14:35,645 [INFO]     → 38 gardiens récupérés
+2026-08-10 23:14:35,646 [INFO]     → Colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-10 23:14:35,657 [INFO]   -> 38 lignes -> 20260810_231435_GER_2024_2025_keeper_sofascore.csv
+2026-08-10 23:14:38,659 [INFO] [9/30] Bundesliga | 2025-2026
+2026-08-10 23:14:38,661 [INFO]     season_id=77333 (25/26)
+2026-08-10 23:14:38,818 [INFO]     → 30 gardiens récupérés
+2026-08-10 23:14:38,819 [INFO]     → Colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-10 23:14:38,828 [INFO]   -> 30 lignes -> 20260810_231438_GER_2025_2026_keeper_sofascore.csv
+2026-08-10 23:14:41,830 [INFO] [10/30] Serie A | 2023-2024
+2026-08-10 23:14:41,831 [INFO]     season_id=52760 (23/24)
+2026-08-10 23:14:42,008 [INFO]     → 51 gardiens récupérés
+2026-08-10 23:14:42,009 [INFO]     → Colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-10 23:14:42,020 [INFO]   -> 51 lignes -> 20260810_231442_ITA_2023_2024_keeper_sofascore.csv
+2026-08-10 23:14:45,023 [INFO] [11/30] Serie A | 2024-2025
+2026-08-10 23:14:45,023 [INFO]     season_id=63515 (24/25)
+2026-08-10 23:14:45,182 [INFO]     → 48 gardiens récupérés
+2026-08-10 23:14:45,184 [INFO]     → Colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-10 23:14:45,194 [INFO]   -> 48 lignes -> 20260810_231445_ITA_2024_2025_keeper_sofascore.csv
+2026-08-10 23:14:48,196 [INFO] [12/30] Serie A | 2025-2026
+2026-08-10 23:14:48,197 [INFO]     season_id=76457 (25/26)
+2026-08-10 23:14:48,333 [INFO]     → 46 gardiens récupérés
+2026-08-10 23:14:48,333 [INFO]     → Colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-10 23:14:48,344 [INFO]   -> 46 lignes -> 20260810_231448_ITA_2025_2026_keeper_sofascore.csv
+2026-08-10 23:14:51,347 [INFO] [13/30] Ligue 1 | 2023-2024
+2026-08-10 23:14:51,347 [INFO]     season_id=52571 (23/24)
+2026-08-10 23:14:51,507 [INFO]     → 33 gardiens récupérés
+2026-08-10 23:14:51,508 [INFO]     → Colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-10 23:14:51,517 [INFO]   -> 33 lignes -> 20260810_231451_FRA_2023_2024_keeper_sofascore.csv
+2026-08-10 23:14:54,518 [INFO] [14/30] Ligue 1 | 2024-2025
+2026-08-10 23:14:54,520 [INFO]     season_id=61736 (24/25)
+2026-08-10 23:14:54,645 [INFO]     → 35 gardiens récupérés
+2026-08-10 23:14:54,647 [INFO]     → Colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-10 23:14:54,658 [INFO]   -> 35 lignes -> 20260810_231454_FRA_2024_2025_keeper_sofascore.csv
+2026-08-10 23:14:57,663 [INFO] [15/30] Ligue 1 | 2025-2026
+2026-08-10 23:14:57,665 [INFO]     season_id=77356 (25/26)
+2026-08-10 23:14:57,789 [INFO]     → 39 gardiens récupérés
+2026-08-10 23:14:57,792 [INFO]     → Colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-10 23:14:57,805 [INFO]   -> 39 lignes -> 20260810_231457_FRA_2025_2026_keeper_sofascore.csv
+2026-08-10 23:15:00,808 [INFO] [16/30] Primeira Liga | 2023-2024
+2026-08-10 23:15:00,808 [INFO]     season_id=52769 (23/24)
+2026-08-10 23:15:01,060 [INFO]     → 43 gardiens récupérés
+2026-08-10 23:15:01,062 [INFO]     → Colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-10 23:15:01,071 [INFO]   -> 43 lignes -> 20260810_231501_POR_2023_2024_keeper_sofascore.csv
+2026-08-10 23:15:04,074 [INFO] [17/30] Primeira Liga | 2024-2025
+2026-08-10 23:15:04,075 [INFO]     season_id=63670 (24/25)
+2026-08-10 23:15:04,214 [INFO]     → 45 gardiens récupérés
+2026-08-10 23:15:04,215 [INFO]     → Colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-10 23:15:04,225 [INFO]   -> 45 lignes -> 20260810_231504_POR_2024_2025_keeper_sofascore.csv
+2026-08-10 23:15:07,226 [INFO] [18/30] Primeira Liga | 2025-2026
+2026-08-10 23:15:07,227 [INFO]     season_id=77806 (25/26)
+2026-08-10 23:15:07,400 [INFO]     → 44 gardiens récupérés
+2026-08-10 23:15:07,401 [INFO]     → Colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-10 23:15:07,411 [INFO]   -> 44 lignes -> 20260810_231507_POR_2025_2026_keeper_sofascore.csv
+2026-08-10 23:15:10,414 [INFO] [19/30] Eredivisie | 2023-2024
+2026-08-10 23:15:10,415 [INFO]     season_id=52554 (23/24)
+2026-08-10 23:15:10,590 [INFO]     → 38 gardiens récupérés
+2026-08-10 23:15:10,591 [INFO]     → Colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-10 23:15:10,601 [INFO]   -> 38 lignes -> 20260810_231510_NED_2023_2024_keeper_sofascore.csv
+2026-08-10 23:15:13,604 [INFO] [20/30] Eredivisie | 2024-2025
+2026-08-10 23:15:13,606 [INFO]     season_id=61666 (24/25)
+2026-08-10 23:15:13,751 [INFO]     → 38 gardiens récupérés
+2026-08-10 23:15:13,751 [INFO]     → Colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-10 23:15:13,761 [INFO]   -> 38 lignes -> 20260810_231513_NED_2024_2025_keeper_sofascore.csv
+2026-08-10 23:15:16,765 [INFO] [21/30] Eredivisie | 2025-2026
+2026-08-10 23:15:16,766 [INFO]     season_id=77012 (25/26)
+2026-08-10 23:15:16,924 [INFO]     → 41 gardiens récupérés
+2026-08-10 23:15:16,924 [INFO]     → Colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-10 23:15:16,935 [INFO]   -> 41 lignes -> 20260810_231516_NED_2025_2026_keeper_sofascore.csv
+2026-08-10 23:15:19,939 [INFO] [22/30] Pro League | 2023-2024
+2026-08-10 23:15:19,940 [INFO]     season_id=52383 (23/24)
+2026-08-10 23:15:20,082 [INFO]     → 42 gardiens récupérés
+2026-08-10 23:15:20,085 [INFO]     → Colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-10 23:15:20,095 [INFO]   -> 42 lignes -> 20260810_231520_BEL_2023_2024_keeper_sofascore.csv
+2026-08-10 23:15:23,101 [INFO] [23/30] Pro League | 2024-2025
+2026-08-10 23:15:23,102 [INFO]     season_id=61459 (24/25)
+2026-08-10 23:15:23,271 [INFO]     → 45 gardiens récupérés
+2026-08-10 23:15:23,272 [INFO]     → Colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-10 23:15:23,284 [INFO]   -> 45 lignes -> 20260810_231523_BEL_2024_2025_keeper_sofascore.csv
+2026-08-10 23:15:26,287 [INFO] [24/30] Pro League | 2025-2026
+2026-08-10 23:15:26,289 [INFO]     season_id=77040 (25/26)
+2026-08-10 23:15:26,436 [INFO]     → 41 gardiens récupérés
+2026-08-10 23:15:26,438 [INFO]     → Colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-10 23:15:26,447 [INFO]   -> 41 lignes -> 20260810_231526_BEL_2025_2026_keeper_sofascore.csv
+2026-08-10 23:15:29,450 [INFO] [25/30] Super Lig | 2023-2024
+2026-08-10 23:15:29,451 [INFO]     season_id=53190 (23/24)
+2026-08-10 23:15:29,612 [INFO]     → 51 gardiens récupérés
+2026-08-10 23:15:29,613 [INFO]     → Colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-10 23:15:29,624 [INFO]   -> 51 lignes -> 20260810_231529_TUR_2023_2024_keeper_sofascore.csv
+2026-08-10 23:15:32,627 [INFO] [26/30] Super Lig | 2024-2025
+2026-08-10 23:15:32,628 [INFO]     season_id=63814 (24/25)
+2026-08-10 23:15:32,780 [INFO]     → 45 gardiens récupérés
+2026-08-10 23:15:32,781 [INFO]     → Colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-10 23:15:32,792 [INFO]   -> 45 lignes -> 20260810_231532_TUR_2024_2025_keeper_sofascore.csv
+2026-08-10 23:15:35,793 [INFO] [27/30] Super Lig | 2025-2026
+2026-08-10 23:15:35,795 [INFO]     season_id=77805 (25/26)
+2026-08-10 23:15:36,164 [INFO]     → 45 gardiens récupérés
+2026-08-10 23:15:36,165 [INFO]     → Colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-10 23:15:36,171 [INFO]   -> 45 lignes -> 20260810_231536_TUR_2025_2026_keeper_sofascore.csv
+2026-08-10 23:15:39,173 [INFO] [28/30] Bundesliga Autriche | 2023-2024
+2026-08-10 23:15:39,175 [INFO]     season_id=52524 (23/24)
+2026-08-10 23:15:39,333 [INFO]     → 25 gardiens récupérés
+2026-08-10 23:15:39,334 [INFO]     → Colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-10 23:15:39,340 [INFO]   -> 25 lignes -> 20260810_231539_AUT_2023_2024_keeper_sofascore.csv
+2026-08-10 23:15:42,342 [INFO] [29/30] Bundesliga Autriche | 2024-2025
+2026-08-10 23:15:42,343 [INFO]     season_id=62629 (24/25)
+2026-08-10 23:15:42,469 [INFO]     → 25 gardiens récupérés
+2026-08-10 23:15:42,471 [INFO]     → Colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-10 23:15:42,477 [INFO]   -> 25 lignes -> 20260810_231542_AUT_2024_2025_keeper_sofascore.csv
+2026-08-10 23:15:45,479 [INFO] [30/30] Bundesliga Autriche | 2025-2026
+2026-08-10 23:15:45,480 [INFO]     season_id=77382 (25/26)
+2026-08-10 23:15:45,599 [INFO]     → 22 gardiens récupérés
+2026-08-10 23:15:45,599 [INFO]     → Colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-10 23:15:45,606 [INFO]   -> 22 lignes -> 20260810_231545_AUT_2025_2026_keeper_sofascore.csv
+2026-08-10 23:15:48,608 [INFO] =================================================================
+2026-08-10 23:15:48,609 [INFO]   Termine  : 30/30
+2026-08-10 23:15:48,611 [INFO] =================================================================

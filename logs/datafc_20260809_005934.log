@@ -1,0 +1,20 @@
+2026-08-09 00:59:34,475 [INFO] =================================================================
+2026-08-09 00:59:34,477 [INFO]   RadarPepites - Scraping datafc -> Bronze
+2026-08-09 00:59:34,478 [INFO] =================================================================
+2026-08-09 00:59:34,478 [INFO]   Ligues  : ['ENG', 'ESP', 'GER', 'ITA', 'FRA', 'POR', 'NED', 'BEL', 'TUR', 'AUT']
+2026-08-09 00:59:34,478 [INFO]   Saisons : ['2023-2024', '2024-2025', '2025-2026']
+2026-08-09 00:59:34,480 [INFO]   Metrics : 26
+2026-08-09 00:59:34,481 [INFO]   Total   : 30 combinaisons
+2026-08-09 00:59:34,481 [INFO] =================================================================
+2026-08-09 00:59:34,482 [INFO] [1/30] Premier League | 2023-2024
+2026-08-09 00:59:34,489 [INFO]     2023-2024 → 23/24 → season_id=52186 (hardcoded)
+2026-08-09 00:59:35,110 [INFO]     rating → 200 joueurs
+2026-08-09 00:59:38,807 [INFO]     goals → 200 joueurs
+2026-08-09 00:59:42,429 [INFO]     assists → 200 joueurs
+2026-08-09 00:59:46,072 [INFO]     expectedGoals → 200 joueurs
+2026-08-09 00:59:49,710 [INFO]     expectedAssists → 200 joueurs
+2026-08-09 00:59:53,334 [INFO]     shotsOnTarget → 200 joueurs
+2026-08-09 00:59:57,011 [INFO]     totalShots → 200 joueurs
+2026-08-09 01:00:00,625 [INFO]     bigChancesCreated → 200 joueurs
+2026-08-09 01:00:04,251 [INFO]     bigChancesMissed → 200 joueurs
+2026-08-09 01:00:07,993 [INFO]     accuratePasses → 200 joueurs

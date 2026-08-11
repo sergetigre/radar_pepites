@@ -1,0 +1,917 @@
+﻿country,tournament,tournament_id,season_id,team_name,team_id,player_name,player_id,age,height,player_country,position,preferred_foot,contract_until,market_value,market_currency,_league_id,_season,_source,_scraped_at
+Belgium,"Pro League, Championship Round",38,61459,Royale Union Saint-Gilloise,4860,Promise David,1119328,25,196.0,Canada,F,Both,1877472000.0,18100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royale Union Saint-Gilloise,4860,Kevin Rodriguez,1431770,26,190.0,Ecuador,F,Right,1814313600.0,5800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royale Union Saint-Gilloise,4860,Anouar Ait El Hadj,964764,24,167.0,Belgium,F,Right,1845936000.0,4500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royale Union Saint-Gilloise,4860,Mohammed Fuseini,1212237,24,169.0,Ghana,F,Left,1845936000.0,2400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royale Union Saint-Gilloise,4860,Raul Florucz,1022491,25,182.0,Austria,F,Left,1877472000.0,3800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royale Union Saint-Gilloise,4860,Mateo Biondic,1387937,23,190.0,Germany,F,Right,1909008000.0,1900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royale Union Saint-Gilloise,4860,Marc Giger,1406947,22,186.0,Switzerland,F,Right,1877472000.0,775000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royale Union Saint-Gilloise,4860,Cristian Makate,1825873,23,178.0,Equatorial Guinea,F,Right,1877472000.0,195000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royale Union Saint-Gilloise,4860,Ilan Hurtevent,2191010,21,180.0,Belgium,F,Right,1909008000.0,485000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royale Union Saint-Gilloise,4860,Relebohile Mofokeng,1564998,21,166.0,South Africa,M,Right,1909008000.0,2900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royale Union Saint-Gilloise,4860,Adem Zorgane,1000472,26,184.0,Algeria,M,Right,1877472000.0,12500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royale Union Saint-Gilloise,4860,Ousseynou Niang,880780,24,168.0,Senegal,M,Right,1845936000.0,5800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royale Union Saint-Gilloise,4860,Darius Olaru,812808,28,177.0,Romania,M,Right,1909008000.0,4600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royale Union Saint-Gilloise,4860,Anan Khalaili,1403362,21,183.0,Israel,M,Right,1845936000.0,24000000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royale Union Saint-Gilloise,4860,Guilherme Smith,1820381,23,183.0,Brazil,M,Right,1909008000.0,4200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royale Union Saint-Gilloise,4860,Besfort Zeneli,1173223,23,187.0,Sweden,M,Right,1909008000.0,6200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royale Union Saint-Gilloise,4860,Kamiel Van de Perre,1146316,22,181.0,Belgium,M,Right,1877472000.0,7500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royale Union Saint-Gilloise,4860,Ondrej Kricfalusi,1133093,22,195.0,Czechia,M,Right,1909008000.0,3700000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royale Union Saint-Gilloise,4860,Rob Schoofs,133164,32,179.0,Belgium,M,Both,1845936000.0,1900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royale Union Saint-Gilloise,4860,Guillaume François,45897,36,174.0,Belgium,M,Right,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royale Union Saint-Gilloise,4860,Ivan Pavlić,1103764,24,185.0,Netherlands,M,Right,1877472000.0,380000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royale Union Saint-Gilloise,4860,Kevin Mac Allister,895327,28,175.0,Argentina,D,Right,1814313600.0,12400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royale Union Saint-Gilloise,4860,Fedde Leysen,1088899,23,191.0,Belgium,D,Left,1877472000.0,3800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royale Union Saint-Gilloise,4860,Nohim Chibani,1922370,22,189.0,France,D,Right,1909008000.0,390000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royale Union Saint-Gilloise,4860,Massire Sylla,1897832,21,196.0,Senegal,D,Right,1909008000.0,880000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royale Union Saint-Gilloise,4860,Louis Patris,923972,25,187.0,Belgium,D,Right,1877472000.0,2400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royale Union Saint-Gilloise,4860,Ross Sykes,845558,27,196.0,England,D,Right,1814313600.0,4900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royale Union Saint-Gilloise,4860,Nikki Havenaar,309460,31,197.0,Japan,D,Right,1877472000.0,550000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royale Union Saint-Gilloise,4860,Hervé Koffi,867299,29,187.0,Burkina Faso,G,Right,1814313600.0,5600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royale Union Saint-Gilloise,4860,Vic Chambaere,1108599,23,190.0,Belgium,G,Right,1814313600.0,655000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royale Union Saint-Gilloise,4860,Giorgi Kavlashvili,1567319,19,192.0,Georgia,G,Left,1845936000.0,105000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royale Union Saint-Gilloise,4860,Keo Boets,1150090,22,189.0,Belgium,G,Right,,49000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Club Brugge KV,2888,Nicolò Tresoldi,1177167,21,183.0,Germany,F,Right,1877472000.0,27000000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Club Brugge KV,2888,Mamadou Diakhon,1495876,20,180.0,Senegal,F,Right,1877472000.0,7600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Club Brugge KV,2888,Romeo Vermant,1069336,22,184.0,Belgium,F,Right,1845936000.0,9300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Club Brugge KV,2888,Gustaf Nilsson,572286,29,197.0,Sweden,F,Right,1845936000.0,2000000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Club Brugge KV,2888,Andrej Vasovic,1542032,18,181.0,Switzerland,F,Right,1909008000.0,1600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Club Brugge KV,2888,Carlos Forbs,1069486,22,169.0,Portugal,M,Left,1877472000.0,21000000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Club Brugge KV,2888,Jan Virgili,1939173,20,168.0,Spain,M,Right,1940544000.0,13800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Club Brugge KV,2888,Hans Vanaken,118085,33,194.0,Belgium,M,Both,1845936000.0,4800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Club Brugge KV,2888,Ludovit Reis,893586,26,178.0,Netherlands,M,Right,1877472000.0,3100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Club Brugge KV,2888,Hugo Vetlesen,877236,26,174.0,Norway,M,Right,1877472000.0,5400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Club Brugge KV,2888,Félix Lemaréchal,1130942,23,181.0,France,M,Right,1877472000.0,6500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Club Brugge KV,2888,Tian Nai Koren,1939849,17,169.0,Slovenia,M,Right,1877472000.0,1300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Club Brugge KV,2888,Freddie Potts,1089582,22,183.0,England,M,Right,1909008000.0,10400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Club Brugge KV,2888,Cheveyo Tsawa,1417029,19,183.0,Switzerland,M,Right,1909008000.0,5800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Club Brugge KV,2888,Lynnt Audoor,1067539,22,184.0,Belgium,M,Right,1877472000.0,1500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Club Brugge KV,2888,Gianluca Okon-Engstler,1974982,17,,Italy,M,Right,1877472000.0,390000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Club Brugge KV,2888,Joel Ordóñez,1187275,22,188.0,Ecuador,D,Right,1877472000.0,36000000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Club Brugge KV,2888,Joaquin Seys,1395881,21,178.0,Belgium,D,Left,1877472000.0,18200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Club Brugge KV,2888,Brandon Mechele,248331,33,188.0,Belgium,D,Both,1845936000.0,2700000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Club Brugge KV,2888,Han-Beom Lee,1002448,24,188.0,South Korea,D,Right,1877472000.0,2800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Club Brugge KV,2888,Kyriani Sabbe,1101258,21,176.0,Belgium,D,Right,1845936000.0,7700000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Club Brugge KV,2888,Jorne Spileers,1104897,21,188.0,Belgium,D,Right,1845936000.0,3100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Club Brugge KV,2888,Bjorn Meijer,1047509,23,190.0,Netherlands,D,Left,1814313600.0,2800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Club Brugge KV,2888,Hugo Siquet,983041,24,180.0,Belgium,D,Right,1845936000.0,4099999.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Club Brugge KV,2888,Vince Osuji,1656128,20,188.0,Nigeria,D,Right,1877472000.0,770000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Club Brugge KV,2888,Yann Sommer,16206,37,183.0,Switzerland,G,Right,1877472000.0,1800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Club Brugge KV,2888,Nordin Jackers,361722,28,185.0,Belgium,G,Right,1877472000.0,1200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Club Brugge KV,2888,Argus Vanden Driessche,1403045,19,194.0,Belgium,G,,1877472000.0,475000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Club Brugge KV,2888,Axl De Corte,1403043,20,193.0,Belgium,G,Left,1845936000.0,385000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KRC Genk,2890,Rafiu Durosinmi,1152386,23,192.0,Nigeria,F,Right,1909008000.0,6700000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KRC Genk,2890,Aaron Bibout,1502620,21,193.0,Cameroon,F,,1877472000.0,3600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KRC Genk,2890,Robin Mirisola,1405446,19,182.0,Belgium,F,Right,1909008000.0,3600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KRC Genk,2890,Junya Ito,783278,33,176.0,Japan,M,Right,1845936000.0,3100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KRC Genk,2890,Jarne Steuckers,1099462,24,179.0,Belgium,M,Left,1845936000.0,5500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KRC Genk,2890,Yira Collins Sor,985162,26,174.0,Nigeria,M,Right,1814313600.0,2400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KRC Genk,2890,Noah Adedeji-Sternberg,1512197,21,182.0,Belgium,M,Right,1845936000.0,3900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KRC Genk,2890,Ibrahima Sory Bangoura,1396027,22,190.0,Guinea,M,Right,1845936000.0,5800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KRC Genk,2890,Daan Heymans,845344,27,191.0,Belgium,M,Right,1877472000.0,6500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KRC Genk,2890,Bryan Heynen,801025,29,181.0,Belgium,M,Both,1877472000.0,8700000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KRC Genk,2890,Ayumu Yokoyama,1105106,23,170.0,Japan,M,Right,1877472000.0,1500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KRC Genk,2890,Jeppe Erenbjerg,1035095,26,184.0,Denmark,M,Left,1877472000.0,4200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KRC Genk,2890,August De Wannemacker,1931420,17,181.0,Belgium,M,Right,1845936000.0,2100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KRC Genk,2890,Nikolas Sattlberger,1086072,22,191.0,Austria,M,Both,1877472000.0,2100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KRC Genk,2890,Ibrahima Bangoura,5851,43,172.0,Guinea,M,Right,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KRC Genk,2890,Zakaria El Ouahdi,1134470,24,172.0,Morocco,D,Right,1845936000.0,18500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KRC Genk,2890,Joris Kayembe,354046,32,180.0,DR Congo,D,Left,1814313600.0,1900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KRC Genk,2890,Yaimar Medina,1106546,21,178.0,Ecuador,D,Left,1877472000.0,4300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KRC Genk,2890,Matte Smets,1392905,22,184.0,Belgium,D,Right,1909008000.0,11000000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KRC Genk,2890,Josue Ndenge Kongolo,1396029,20,184.0,Belgium,D,Right,1845936000.0,3300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KRC Genk,2890,Christian Akpan,1472969,21,174.0,Nigeria,D,Right,1909008000.0,210000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KRC Genk,2890,Adrian Palacios,1393681,22,186.0,Venezuela,D,Left,1845936000.0,825000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KRC Genk,2890,Mujaid Sadick,935309,26,185.0,Spain,D,Right,1845936000.0,4700000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KRC Genk,2890,Brad Manguelle,1405443,18,184.0,Belgium,D,Right,1814313600.0,620000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KRC Genk,2890,Ken Nkuba,961902,24,180.0,Belgium,D,Right,1845936000.0,1500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KRC Genk,2890,Kayden Pierre,1063222,23,175.0,USA,D,Right,1845936000.0,285000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KRC Genk,2890,Lucca Brughmans,1529975,18,197.0,Belgium,G,Right,1909008000.0,3900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KRC Genk,2890,Tobias Lawal,990025,26,195.0,Austria,G,Right,1877472000.0,1900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KRC Genk,2890,Emile Doucouré,1566217,18,189.0,Belgium,G,Right,1909008000.0,485000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KRC Genk,2890,Hendrik Van Crombrugge,110777,33,188.0,Belgium,G,Left,1814313600.0,955000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,RSC Anderlecht,2900,Mihajlo Cvetković,1427166,19,175.0,Serbia,F,Right,1877472000.0,10500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,RSC Anderlecht,2900,Danylo Sikan,945479,25,185.0,Ukraine,F,Right,1909008000.0,4300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,RSC Anderlecht,2900,Adriano Bertaccini,867250,25,173.0,Belgium,F,Right,1877472000.0,4099999.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,RSC Anderlecht,2900,Noa Thomas Ojea Cobiella,2613189,16,,Belgium,F,Left,1877472000.0,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,RSC Anderlecht,2900,César Huerta,905257,25,173.0,Mexico,M,Right,1877472000.0,3700000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,RSC Anderlecht,2900,Mario Stroeykens,1101702,21,177.0,DR Congo,M,Right,1845936000.0,4300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,RSC Anderlecht,2900,Nathan-Dylan Saliba,1093229,22,173.0,Canada,M,Both,1877472000.0,9200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,RSC Anderlecht,2900,Majeed Ashimeru,901149,28,182.0,Ghana,M,Right,1814313600.0,530000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,RSC Anderlecht,2900,Oliver Antman,975743,24,185.0,Finland,M,Right,1909008000.0,3900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,RSC Anderlecht,2900,Tristan Degreef,1436187,21,177.0,Belgium,M,Right,1845936000.0,3100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,RSC Anderlecht,2900,Elyess Dao,1891116,19,183.0,Morocco,M,Right,1877472000.0,265000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,RSC Anderlecht,2900,Jayden Onia Seke,1862185,17,,Belgium,M,Right,,910000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,RSC Anderlecht,2900,Joshua Nga Kana,2425195,17,178.0,Belgium,M,Right,1877472000.0,1200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,RSC Anderlecht,2900,Enric Llansana,916951,25,183.0,Netherlands,M,Right,1877472000.0,2100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,RSC Anderlecht,2900,Lukáš Ambros,1142171,22,182.0,Czechia,M,Left,1909008000.0,5200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,RSC Anderlecht,2900,Cedric Hatenboer,1638564,21,184.0,Netherlands,M,Right,1877472000.0,2100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,RSC Anderlecht,2900,Alexis Flips,879672,26,173.0,France,M,Right,1845936000.0,290000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,RSC Anderlecht,2900,Noah Kalonji,2524711,17,185.0,Belgium,M,Right,1845936000.0,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,RSC Anderlecht,2900,Ilay Camara,1397747,23,174.0,Senegal,D,Right,1909008000.0,3600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,RSC Anderlecht,2900,Ali Maamar,1440668,21,182.0,Morocco,D,Right,1845936000.0,2600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,RSC Anderlecht,2900,Moussa Ndiaye,982315,24,181.0,Senegal,D,Left,1845936000.0,3900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,RSC Anderlecht,2900,Giulian Biancone,965331,26,187.0,France,D,Right,1877472000.0,2300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,RSC Anderlecht,2900,Killian Sardella,909964,24,177.0,Belgium,D,Right,1845936000.0,2300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,RSC Anderlecht,2900,Ludwig Augustinsson,138546,32,181.0,Sweden,D,Left,1814313600.0,1500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,RSC Anderlecht,2900,Marco Kana,964759,24,183.0,Belgium,D,Right,1845936000.0,3300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,RSC Anderlecht,2900,Léo Pétrot,827504,29,188.0,France,D,Left,1845936000.0,1400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,RSC Anderlecht,2900,Lucas Hey,1122698,23,189.0,Denmark,D,Right,1877472000.0,2300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,RSC Anderlecht,2900,Thomas Foket,245615,31,177.0,Belgium,D,Right,1814313600.0,310000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,RSC Anderlecht,2900,Basile Vroninks,1929417,19,175.0,Belgium,D,Right,1814313600.0,420000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,RSC Anderlecht,2900,Kaïs Barry,1426633,20,186.0,Belgium,D,Right,1814313600.0,315000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,RSC Anderlecht,2900,Zoumana Keita,1603768,20,189.0,Germany,D,Both,1877472000.0,410000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,RSC Anderlecht,2900,Colin Coosemans,122399,34,185.0,Belgium,G,Right,1845936000.0,1200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,RSC Anderlecht,2900,Justin Heekeren,932070,25,194.0,Germany,G,Both,1877472000.0,485000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royal Antwerp FC,2889,Ibrahim Salah,1386639,24,185.0,Morocco,F,Right,1814313600.0,1700000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royal Antwerp FC,2889,Anthony Valencia,1020197,23,175.0,Ecuador,F,Left,,1700000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royal Antwerp FC,2889,Michael Frey,134248,32,189.0,Switzerland,F,Right,1845936000.0,415000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royal Antwerp FC,2889,Koki Ando,2441546,18,170.0,Japan,F,Right,1909008000.0,325000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royal Antwerp FC,2889,Geoffry Hairemans,58917,34,184.0,Belgium,F,Left,1814313600.0,240000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royal Antwerp FC,2889,Carlos Mejia,2631627,19,,Ecuador,F,Left,1909008000.0,2100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royal Antwerp FC,2889,Gabriel Jesus David,2058686,19,,Nigeria,F,,1877472000.0,220000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royal Antwerp FC,2889,Gerard Vandeplas,1426634,20,189.0,Belgium,F,,,375000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royal Antwerp FC,2889,Luis Narh,2631629,18,186.0,Ghana,F,Right,1909008000.0,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royal Antwerp FC,2889,Jeff Godelaine,1546047,19,,Belgium,F,Left,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royal Antwerp FC,2889,Toon Franssen,1656725,20,,Belgium,F,,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royal Antwerp FC,2889,Abdel-Malik Aziz,1396221,23,178.0,Togo,F,Right,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royal Antwerp FC,2889,Mukhammadali Urinboev,1154566,21,170.0,Uzbekistan,M,Left,1877472000.0,430000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royal Antwerp FC,2889,Youssef Hamdaoui,1590946,18,,Morocco,M,Right,1814313600.0,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royal Antwerp FC,2889,Jules Ahoka,2137673,20,,DR Congo,M,Right,1877472000.0,290000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royal Antwerp FC,2889,Xander Dierckx,2405369,17,,Belgium,M,Left,1814313600.0,2900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royal Antwerp FC,2889,Farouck Adekami,1920581,20,,Côte d'Ivoire,M,,1814313600.0,74000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royal Antwerp FC,2889,Thibo Somers,1002804,27,183.0,Belgium,M,Right,1845936000.0,2900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royal Antwerp FC,2889,Daam Foulon,826170,27,180.0,Belgium,M,Left,1845936000.0,1900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royal Antwerp FC,2889,Christopher Scott,997118,24,174.0,Germany,M,Right,1845936000.0,2100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royal Antwerp FC,2889,Snayder Porozo,1892676,19,189.0,Ecuador,M,Right,1909008000.0,1000000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royal Antwerp FC,2889,Louie Van Gelder,2297227,17,175.0,Belgium,M,,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royal Antwerp FC,2889,Modibo Fofana,2602250,18,178.0,Côte d'Ivoire,M,Right,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royal Antwerp FC,2889,Yuto Tsunashima,1470622,25,188.0,Japan,D,Right,1845936000.0,1600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royal Antwerp FC,2889,Semm Renders,1546054,18,180.0,Belgium,D,Right,,410000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royal Antwerp FC,2889,Rein Van Helden,1047163,24,187.0,Belgium,D,Right,1909008000.0,3100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royal Antwerp FC,2889,Maxime Busi,943926,26,182.0,Belgium,D,Right,1877472000.0,1400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royal Antwerp FC,2889,Andreas Verstraeten,1465835,20,178.0,Belgium,D,Left,,105000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royal Antwerp FC,2889,Eran Tuypens,1546044,20,181.0,Belgium,D,Left,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royal Antwerp FC,2889,Luca Schelfhout,2487802,18,,Belgium,D,Right,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royal Antwerp FC,2889,Taishi Brandon Nozawa,1002358,23,191.0,Japan,G,Right,1877472000.0,3400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royal Antwerp FC,2889,Yannick Thoelen,794571,36,188.0,Belgium,G,Right,1814313600.0,205000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,Royal Antwerp FC,2889,Niels Devalckeneer,1391493,22,193.0,Belgium,G,Right,1845936000.0,93000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KAA Gent,2903,Wilfried Kanga,838640,28,189.0,Côte d'Ivoire,F,Right,1845936000.0,2800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KAA Gent,2903,Josué Vergara,1916618,19,196.0,Panama,F,Right,1940544000.0,1500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KAA Gent,2903,Momodou Sonko,1135616,21,176.0,Sweden,F,Right,1845936000.0,1800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KAA Gent,2903,Max Dean,1065233,22,178.0,England,F,Right,1845936000.0,2400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KAA Gent,2903,Hyllarion Goore,2048955,20,183.0,Côte d'Ivoire,F,Right,1877472000.0,3800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KAA Gent,2903,Moctar Diop,1485493,21,193.0,Senegal,F,Left,1877472000.0,640000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KAA Gent,2903,Ibrahima Cisse,2445106,18,196.0,Senegal,F,Right,1845936000.0,825000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KAA Gent,2903,Abdelkahar Kadri,1007528,26,170.0,Algeria,M,Right,1877472000.0,2600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KAA Gent,2903,László Bénes,354558,28,181.0,Slovakia,M,Left,1909008000.0,2300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KAA Gent,2903,Atsuki Ito,1034816,27,185.0,Japan,M,Right,1845936000.0,2400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KAA Gent,2903,Mathias Delorge,1124749,22,189.0,Belgium,M,Left,1845936000.0,6800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KAA Gent,2903,Tibe De Vlieger,1396529,20,182.0,Belgium,M,Right,1909008000.0,2700000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KAA Gent,2903,Mohammed El Âdfaoui,1591025,18,182.0,Belgium,M,Left,1845936000.0,1900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KAA Gent,2903,Matisse Samoise,1046245,24,180.0,Belgium,M,Right,1845936000.0,2400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KAA Gent,2903,Aimé Omgba,1459382,23,183.0,Netherlands,M,Right,1877472000.0,920000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KAA Gent,2903,Leonardo Lopes,783478,27,168.0,Portugal,M,Right,1845936000.0,2600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KAA Gent,2903,Pieter Gerkens,190401,30,180.0,Belgium,M,Right,1814313600.0,740000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KAA Gent,2903,Kyrell Wilson,1400426,21,173.0,England,M,Right,1909008000.0,265000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KAA Gent,2903,Wout Asselman,1410226,21,,Belgium,M,Left,1877472000.0,370000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KAA Gent,2903,Abdul Ayinde,2399613,21,183.0,Burkina Faso,D,Left,1814313600.0,570000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KAA Gent,2903,Maksim Paskotsi,954621,23,183.0,Estonia,D,Right,1877472000.0,3400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KAA Gent,2903,Christian Burgess,303634,34,196.0,England,D,Right,1845936000.0,1900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KAA Gent,2903,Tiago Araújo,997024,25,184.0,Portugal,D,Left,1845936000.0,2400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KAA Gent,2903,Siebe Van Der Heyden,842164,28,185.0,Belgium,D,Left,1845936000.0,2900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KAA Gent,2903,Hugo Gambor,1082541,23,186.0,Central African Republic,D,Right,1814313600.0,1200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KAA Gent,2903,Mouhamed El Ngom,1214223,26,181.0,Senegal,D,Right,1940544000.0,775000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KAA Gent,2903,Gilles De Meyer,1425339,19,179.0,Belgium,D,Right,1845936000.0,485000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KAA Gent,2903,Matties Volckaert,2213526,23,189.0,Belgium,D,Right,1877472000.0,1900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KAA Gent,2903,Lars Cooman,2259079,23,180.0,Belgium,D,Left,1814313600.0,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KAA Gent,2903,Davy Roef,156663,32,187.0,Belgium,G,Right,1877472000.0,2300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KAA Gent,2903,Kjell Peersman,1119871,22,194.0,Belgium,G,Right,1845936000.0,430000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KAA Gent,2903,Tom Vandenberghe,1046454,33,190.0,Belgium,G,Right,1814313600.0,240000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KAA Gent,2903,Bas Evers,1873014,17,193.0,Belgium,G,Right,1845936000.0,95000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Championship Round",38,61459,KAA Gent,2903,Victor De Coninck,1563452,20,186.0,Belgium,G,,1814313600.0,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Sint-Truidense VV,2895,Samed Baždar,1100965,22,188.0,Bosnia & Herzegovina,F,Right,,1600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Sint-Truidense VV,2895,Kaito Matsuzawa,1514300,25,176.0,Japan,F,Right,1814313600.0,825000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Sint-Truidense VV,2895,Shion Shinkawa,2049801,19,171.0,Japan,F,Right,1877472000.0,840000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Sint-Truidense VV,2895,Oumar Diouf,1493499,23,180.0,Senegal,F,Right,1877472000.0,1100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Sint-Truidense VV,2895,Frederic Soelle Soelle,1195742,20,190.0,Belgium,F,Right,1845936000.0,260000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Sint-Truidense VV,2895,Jay David Mbalanda,1888650,19,,Belgium,F,Right,,165000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Sint-Truidense VV,2895,Ilias Sebaoui,1154586,24,180.0,Morocco,M,Right,1845936000.0,3300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Sint-Truidense VV,2895,Ryotaro Araki,1016965,24,170.0,Japan,M,Right,,915000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Sint-Truidense VV,2895,Nelson Ishiwatari,1186113,21,185.0,Japan,M,Right,,730000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Sint-Truidense VV,2895,Ben Achour Ilyes,1546218,19,,Morocco,M,Left,1877472000.0,105000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Sint-Truidense VV,2895,Abdoulaye Sissako,846330,28,186.0,France,M,Right,1845936000.0,2200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Sint-Truidense VV,2895,Ryan Merlen,1402293,24,188.0,France,M,Right,1877472000.0,1000000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Sint-Truidense VV,2895,Alouis Diriken,1481773,22,187.0,Belgium,M,Right,1877472000.0,320000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Sint-Truidense VV,2895,Shogo Taniguchi,386958,35,182.0,Japan,D,Right,,775000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Sint-Truidense VV,2895,Taiga Hata,1002356,24,175.0,Japan,D,Right,1845936000.0,2400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Sint-Truidense VV,2895,Loïc Mbe Soh,904992,25,186.0,France,D,Right,,1900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Sint-Truidense VV,2895,Visar Musliu,134231,31,186.0,North Macedonia,D,Right,1814313600.0,1000000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Sint-Truidense VV,2895,Robert-Jan Vanwesemael,1047164,24,175.0,Belgium,D,Right,1909008000.0,3200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Sint-Truidense VV,2895,Joedrick Pupe,891609,29,189.0,Belgium,D,Left,1877472000.0,1300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Sint-Truidense VV,2895,Wolke Janssens,794418,31,185.0,Belgium,D,Right,1845936000.0,270000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Sint-Truidense VV,2895,Hugo Lambotte,1888649,20,180.0,Belgium,D,Right,1845936000.0,140000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Sint-Truidense VV,2895,Rune Verheyden,2683818,19,,Belgium,D,,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Sint-Truidense VV,2895,Léo Kokubo,997020,25,193.0,Japan,G,Right,1814313600.0,4600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Sint-Truidense VV,2895,Matt Lendfers,1393695,20,190.0,Belgium,G,Right,1877472000.0,185000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Cercle Brugge,2929,Lucas Michal,1154647,21,167.0,France,F,Right,1814313600.0,3700000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Cercle Brugge,2929,Dante Vanzeir,822673,28,175.0,Belgium,F,Right,1814313600.0,1600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Cercle Brugge,2929,Abdoul Kader Ouattara,1652684,21,171.0,Burkina Faso,F,Right,1845936000.0,365000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Cercle Brugge,2929,Steve Ngoura,1394411,21,193.0,France,F,Right,1845936000.0,4700000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Cercle Brugge,2929,Charles Herrmann,1470008,20,180.0,Germany,F,Left,1877472000.0,830000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Cercle Brugge,2929,Krys Kouassi,2001165,19,175.0,France,F,Left,1909008000.0,190000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Cercle Brugge,2929,Lazare Amani,845136,28,172.0,Côte d'Ivoire,M,Right,1845936000.0,1000000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Cercle Brugge,2929,Joel Ndala,1152187,20,178.0,England,M,Right,1909008000.0,2900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Cercle Brugge,2929,Heriberto Jurado,1153538,21,172.0,Mexico,M,Left,1845936000.0,720000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Cercle Brugge,2929,Lawrence Agyekum,1185568,22,174.0,Ghana,M,Right,1877472000.0,1400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Cercle Brugge,2929,Makaya Ibrahima Diaby,1473492,19,189.0,Guinea,M,Left,1877472000.0,1500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Cercle Brugge,2929,Erick Nunes,1894087,22,180.0,Brazil,M,Right,1877472000.0,580000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Cercle Brugge,2929,Alama Bayo,1520808,20,181.0,Belgium,M,Right,1845936000.0,165000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Cercle Brugge,2929,Lukas Mondele,1100320,22,181.0,Belgium,M,Left,1877472000.0,380000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Cercle Brugge,2929,Hannes Van Der Bruggen,94290,33,180.0,Belgium,M,Right,1814313600.0,415000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Cercle Brugge,2929,Ibrahim Diakité,1168646,22,178.0,Guinea,D,Right,1845936000.0,970000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Cercle Brugge,2929,Emmanuel Kakou,1847412,21,,Côte d'Ivoire,D,Right,1814313600.0,2200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Cercle Brugge,2929,Valy Konaté,1499156,19,174.0,Côte d'Ivoire,D,Left,1814313600.0,1300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Cercle Brugge,2929,Royer Caicedo,1994822,20,193.0,Colombia,D,Left,1877472000.0,1400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Cercle Brugge,2929,Christiaan Ravych,1191212,24,187.0,Belgium,D,Right,1814313600.0,2600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Cercle Brugge,2929,Gary Magnee,990265,26,173.0,Belgium,D,Right,1845936000.0,2000000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Cercle Brugge,2929,Geoffrey Kondo,1397885,24,180.0,France,D,Left,1877472000.0,3100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Cercle Brugge,2929,Ben Sadik,2069993,19,,Morocco,D,,1845936000.0,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Cercle Brugge,2929,Jonas Lietaert,1469335,22,190.0,Belgium,D,Right,1814313600.0,155000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Cercle Brugge,2929,Sebbe Gheerardyns,1977305,21,,Belgium,D,Left,1814313600.0,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Cercle Brugge,2929,Gaëtan Coucke,794989,27,187.0,Belgium,G,Right,1877472000.0,775000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Cercle Brugge,2929,Maxime Delanghe,909953,25,189.0,Belgium,G,Right,1845936000.0,1600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,Cercle Brugge,2929,Bas Langenbick,1191211,23,189.0,Belgium,G,Right,1845936000.0,49000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,KV Kortrijk,4858,Goduine Koyalipou,891505,26,183.0,Central African Republic,F,Right,1814313600.0,2400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,KV Kortrijk,4858,Thierry Ambrose,356024,29,178.0,Guadeloupe,F,Right,1814313600.0,1900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,KV Kortrijk,4858,Bryan Adinany,976002,26,190.0,Madagascar,F,Right,1877472000.0,620000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,KV Kortrijk,4858,Lennard Hens,1502941,30,183.0,Belgium,F,Right,1845936000.0,410000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,KV Kortrijk,4858,Jellert Van Landschoot,823047,28,176.0,Belgium,F,Left,1845936000.0,740000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,KV Kortrijk,4858,Sixtus Ogbuehi,1851556,23,192.0,Nigeria,F,Right,1845936000.0,195000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,KV Kortrijk,4858,Abdoul Diop,2632096,21,,Senegal,F,,1845936000.0,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,KV Kortrijk,4858,Ilian Temperman,2677624,19,,Belgium,F,,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,KV Kortrijk,4858,Shandre Campbell,1518101,21,178.0,South Africa,M,Left,1909008000.0,960000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,KV Kortrijk,4858,Nayel Mehssatou,1064174,24,172.0,Chile,M,Right,1877472000.0,1500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,KV Kortrijk,4858,Ken Masui,1125634,25,172.0,Japan,M,Right,1814313600.0,850000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,KV Kortrijk,4858,Suf Podgoreanu,1010062,24,193.0,Israel,M,Right,1909008000.0,670000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,KV Kortrijk,4858,Brecht Dejaegere,122859,35,174.0,Belgium,M,Right,1814313600.0,290000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,KV Kortrijk,4858,Lenn De Smet,1093875,22,174.0,Belgium,M,Right,1845936000.0,740000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,KV Kortrijk,4858,Boris Lambert,936240,26,187.0,Belgium,M,Right,1877472000.0,775000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,KV Kortrijk,4858,Liam De Smet,1091040,22,174.0,Belgium,M,Right,1845936000.0,410000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,KV Kortrijk,4858,Matthew Anderson,1387921,22,176.0,Scotland,M,Left,1845936000.0,825000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,KV Kortrijk,4858,Guust Lamerand,2642509,18,,Belgium,M,,1877472000.0,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,KV Kortrijk,4858,Harrison Murray-Campbell,1403049,20,186.0,England,D,Right,1814313600.0,520000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,KV Kortrijk,4858,James Ndjeungoue,1394357,23,186.0,Cameroon,D,Left,1845936000.0,830000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,KV Kortrijk,4858,Mohamed Fofana,2088572,20,180.0,Côte d'Ivoire,D,Right,1845936000.0,245000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,KV Kortrijk,4858,Rudy Kohon,1133521,22,187.0,France,D,Right,1877472000.0,670000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,KV Kortrijk,4858,Gilles Dewaele,285943,30,180.0,Belgium,D,Right,1814313600.0,190000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,KV Kortrijk,4858,Gilles Ruyssen,329415,32,186.0,Belgium,D,Right,1845936000.0,580000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,KV Kortrijk,4858,Fuhna Nsolo,2022306,21,175.0,Belgium,D,,1814313600.0,97000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,KV Kortrijk,4858,Marko Ilić,843151,28,190.0,Serbia,G,Right,1877472000.0,825000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,KV Kortrijk,4858,Patrik Sigurdur Gunnarsson,879496,25,188.0,Iceland,G,Right,1845936000.0,425000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,KV Kortrijk,4858,Ebbe De Vlaeminck,1187184,20,184.0,Belgium,G,Right,1845936000.0,210000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,K. Beerschot V.A.,169260,Anas Haj Mohamed,1155432,21,174.0,Tunisia,F,Right,1877472000.0,460000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,K. Beerschot V.A.,169260,Jelle Vossen,45946,37,180.0,Belgium,F,Right,1814313600.0,93000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,K. Beerschot V.A.,169260,Siviwe Magidigidi,1822941,21,182.0,South Africa,F,Right,1877472000.0,285000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,K. Beerschot V.A.,169260,Arnold Vula,1803258,27,187.0,DR Congo,F,Right,1814313600.0,620000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,K. Beerschot V.A.,169260,D'Margio Wright-Phillips,1018367,24,170.0,Grenada,F,Right,1814313600.0,370000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,K. Beerschot V.A.,169260,Ensar Brahić,1481739,22,193.0,Serbia,F,Right,1814313600.0,135000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,K. Beerschot V.A.,169260,Kindo Suma,2666333,18,,Belgium,F,Right,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,K. Beerschot V.A.,169260,Genki Haraguchi,48243,35,177.0,Japan,M,Right,1814313600.0,280000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,K. Beerschot V.A.,169260,Emre Uzun,1212159,21,177.0,Türkiye,M,Left,1814313600.0,290000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,K. Beerschot V.A.,169260,Keryane Mansouri,1606007,20,172.0,Algeria,M,Right,1814313600.0,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,K. Beerschot V.A.,169260,Nilton Varela,998414,25,182.0,Portugal,M,Left,1845936000.0,775000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,K. Beerschot V.A.,169260,Axl Van Himbeeck,1400309,21,185.0,Belgium,M,Right,1845936000.0,310000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,K. Beerschot V.A.,169260,Oscar Vargas,1897378,20,,Spain,M,Right,1814313600.0,270000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,K. Beerschot V.A.,169260,Lukas Van Eenoo,45880,35,175.0,Belgium,M,Left,1814313600.0,210000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,K. Beerschot V.A.,169260,Glenn Claes,144168,32,179.0,Belgium,M,Left,1814313600.0,210000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,K. Beerschot V.A.,169260,Xander Joosen,1913352,20,185.0,Belgium,M,Right,1814313600.0,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,K. Beerschot V.A.,169260,Abian Arslan,1512259,21,,Belgium,M,Left,1845936000.0,145000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,K. Beerschot V.A.,169260,Thiago Lugano,1870415,19,182.0,Uruguay,M,Left,1814313600.0,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,K. Beerschot V.A.,169260,Rayhan El Grafel,1655490,19,,Belgium,M,,,94000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,K. Beerschot V.A.,169260,Lenny Danino,2666049,16,,Belgium,M,,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,K. Beerschot V.A.,169260,Bas Van den Eynden,1048359,24,190.0,Belgium,D,Right,1845936000.0,870000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,K. Beerschot V.A.,169260,Dennis Gyamfi,991607,24,183.0,Ghana,D,Right,,180000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,K. Beerschot V.A.,169260,Brian Plat,980673,26,191.0,Netherlands,D,Right,1814313600.0,725000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,K. Beerschot V.A.,169260,Sem Audoor,1142676,22,177.0,Belgium,D,Left,1877472000.0,320000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,K. Beerschot V.A.,169260,Edisson Jordanov,129922,33,172.0,Bulgaria,D,Right,1814313600.0,275000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,K. Beerschot V.A.,169260,Milan Govaers,1427490,22,187.0,Belgium,D,Right,1814313600.0,27000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,K. Beerschot V.A.,169260,Jordan Bustin,1101657,27,185.0,Belgium,D,Right,1845936000.0,360000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,K. Beerschot V.A.,169260,Nick Shinton,909962,25,196.0,Belgium,G,Left,1814313600.0,825000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,K. Beerschot V.A.,169260,Brent Stevens,1138934,22,187.0,Belgium,G,Right,1877472000.0,97000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,K. Beerschot V.A.,169260,William Popp,798293,31,192.0,Japan,G,Right,1814313600.0,240000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Relegation Round",38,61459,K. Beerschot V.A.,169260,Xavier Gies,788168,29,182.0,Belgium,G,Right,1814313600.0,215000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KRC Genk,2890,Rafiu Durosinmi,1152386,23,192.0,Nigeria,F,Right,1909008000.0,6700000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KRC Genk,2890,Aaron Bibout,1502620,21,193.0,Cameroon,F,,1877472000.0,3600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KRC Genk,2890,Robin Mirisola,1405446,19,182.0,Belgium,F,Right,1909008000.0,3600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KRC Genk,2890,Junya Ito,783278,33,176.0,Japan,M,Right,1845936000.0,3100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KRC Genk,2890,Jarne Steuckers,1099462,24,179.0,Belgium,M,Left,1845936000.0,5500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KRC Genk,2890,Yira Collins Sor,985162,26,174.0,Nigeria,M,Right,1814313600.0,2400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KRC Genk,2890,Noah Adedeji-Sternberg,1512197,21,182.0,Belgium,M,Right,1845936000.0,3900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KRC Genk,2890,Ibrahima Sory Bangoura,1396027,22,190.0,Guinea,M,Right,1845936000.0,5800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KRC Genk,2890,Daan Heymans,845344,27,191.0,Belgium,M,Right,1877472000.0,6500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KRC Genk,2890,Bryan Heynen,801025,29,181.0,Belgium,M,Both,1877472000.0,8700000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KRC Genk,2890,Ayumu Yokoyama,1105106,23,170.0,Japan,M,Right,1877472000.0,1500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KRC Genk,2890,Jeppe Erenbjerg,1035095,26,184.0,Denmark,M,Left,1877472000.0,4200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KRC Genk,2890,August De Wannemacker,1931420,17,181.0,Belgium,M,Right,1845936000.0,2100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KRC Genk,2890,Nikolas Sattlberger,1086072,22,191.0,Austria,M,Both,1877472000.0,2100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KRC Genk,2890,Ibrahima Bangoura,5851,43,172.0,Guinea,M,Right,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KRC Genk,2890,Zakaria El Ouahdi,1134470,24,172.0,Morocco,D,Right,1845936000.0,18500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KRC Genk,2890,Joris Kayembe,354046,32,180.0,DR Congo,D,Left,1814313600.0,1900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KRC Genk,2890,Yaimar Medina,1106546,21,178.0,Ecuador,D,Left,1877472000.0,4300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KRC Genk,2890,Matte Smets,1392905,22,184.0,Belgium,D,Right,1909008000.0,11000000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KRC Genk,2890,Josue Ndenge Kongolo,1396029,20,184.0,Belgium,D,Right,1845936000.0,3300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KRC Genk,2890,Christian Akpan,1472969,21,174.0,Nigeria,D,Right,1909008000.0,210000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KRC Genk,2890,Adrian Palacios,1393681,22,186.0,Venezuela,D,Left,1845936000.0,825000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KRC Genk,2890,Mujaid Sadick,935309,26,185.0,Spain,D,Right,1845936000.0,4700000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KRC Genk,2890,Brad Manguelle,1405443,18,184.0,Belgium,D,Right,1814313600.0,620000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KRC Genk,2890,Ken Nkuba,961902,24,180.0,Belgium,D,Right,1845936000.0,1500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KRC Genk,2890,Kayden Pierre,1063222,23,175.0,USA,D,Right,1845936000.0,285000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KRC Genk,2890,Lucca Brughmans,1529975,18,197.0,Belgium,G,Right,1909008000.0,3900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KRC Genk,2890,Tobias Lawal,990025,26,195.0,Austria,G,Right,1877472000.0,1900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KRC Genk,2890,Emile Doucouré,1566217,18,189.0,Belgium,G,Right,1909008000.0,485000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KRC Genk,2890,Hendrik Van Crombrugge,110777,33,188.0,Belgium,G,Left,1814313600.0,955000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Club Brugge KV,2888,Nicolò Tresoldi,1177167,21,183.0,Germany,F,Right,1877472000.0,27000000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Club Brugge KV,2888,Mamadou Diakhon,1495876,20,180.0,Senegal,F,Right,1877472000.0,7600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Club Brugge KV,2888,Romeo Vermant,1069336,22,184.0,Belgium,F,Right,1845936000.0,9300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Club Brugge KV,2888,Gustaf Nilsson,572286,29,197.0,Sweden,F,Right,1845936000.0,2000000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Club Brugge KV,2888,Andrej Vasovic,1542032,18,181.0,Switzerland,F,Right,1909008000.0,1600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Club Brugge KV,2888,Carlos Forbs,1069486,22,169.0,Portugal,M,Left,1877472000.0,21000000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Club Brugge KV,2888,Jan Virgili,1939173,20,168.0,Spain,M,Right,1940544000.0,13800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Club Brugge KV,2888,Hans Vanaken,118085,33,194.0,Belgium,M,Both,1845936000.0,4800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Club Brugge KV,2888,Ludovit Reis,893586,26,178.0,Netherlands,M,Right,1877472000.0,3100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Club Brugge KV,2888,Hugo Vetlesen,877236,26,174.0,Norway,M,Right,1877472000.0,5400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Club Brugge KV,2888,Félix Lemaréchal,1130942,23,181.0,France,M,Right,1877472000.0,6500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Club Brugge KV,2888,Tian Nai Koren,1939849,17,169.0,Slovenia,M,Right,1877472000.0,1300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Club Brugge KV,2888,Freddie Potts,1089582,22,183.0,England,M,Right,1909008000.0,10400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Club Brugge KV,2888,Cheveyo Tsawa,1417029,19,183.0,Switzerland,M,Right,1909008000.0,5800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Club Brugge KV,2888,Lynnt Audoor,1067539,22,184.0,Belgium,M,Right,1877472000.0,1500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Club Brugge KV,2888,Gianluca Okon-Engstler,1974982,17,,Italy,M,Right,1877472000.0,390000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Club Brugge KV,2888,Joel Ordóñez,1187275,22,188.0,Ecuador,D,Right,1877472000.0,36000000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Club Brugge KV,2888,Joaquin Seys,1395881,21,178.0,Belgium,D,Left,1877472000.0,18200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Club Brugge KV,2888,Brandon Mechele,248331,33,188.0,Belgium,D,Both,1845936000.0,2700000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Club Brugge KV,2888,Han-Beom Lee,1002448,24,188.0,South Korea,D,Right,1877472000.0,2800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Club Brugge KV,2888,Kyriani Sabbe,1101258,21,176.0,Belgium,D,Right,1845936000.0,7700000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Club Brugge KV,2888,Jorne Spileers,1104897,21,188.0,Belgium,D,Right,1845936000.0,3100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Club Brugge KV,2888,Bjorn Meijer,1047509,23,190.0,Netherlands,D,Left,1814313600.0,2800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Club Brugge KV,2888,Hugo Siquet,983041,24,180.0,Belgium,D,Right,1845936000.0,4099999.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Club Brugge KV,2888,Vince Osuji,1656128,20,188.0,Nigeria,D,Right,1877472000.0,770000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Club Brugge KV,2888,Yann Sommer,16206,37,183.0,Switzerland,G,Right,1877472000.0,1800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Club Brugge KV,2888,Nordin Jackers,361722,28,185.0,Belgium,G,Right,1877472000.0,1200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Club Brugge KV,2888,Argus Vanden Driessche,1403045,19,194.0,Belgium,G,,1877472000.0,475000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Club Brugge KV,2888,Axl De Corte,1403043,20,193.0,Belgium,G,Left,1845936000.0,385000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royale Union Saint-Gilloise,4860,Promise David,1119328,25,196.0,Canada,F,Both,1877472000.0,18100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royale Union Saint-Gilloise,4860,Kevin Rodriguez,1431770,26,190.0,Ecuador,F,Right,1814313600.0,5800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royale Union Saint-Gilloise,4860,Anouar Ait El Hadj,964764,24,167.0,Belgium,F,Right,1845936000.0,4500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royale Union Saint-Gilloise,4860,Mohammed Fuseini,1212237,24,169.0,Ghana,F,Left,1845936000.0,2400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royale Union Saint-Gilloise,4860,Raul Florucz,1022491,25,182.0,Austria,F,Left,1877472000.0,3800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royale Union Saint-Gilloise,4860,Mateo Biondic,1387937,23,190.0,Germany,F,Right,1909008000.0,1900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royale Union Saint-Gilloise,4860,Marc Giger,1406947,22,186.0,Switzerland,F,Right,1877472000.0,775000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royale Union Saint-Gilloise,4860,Cristian Makate,1825873,23,178.0,Equatorial Guinea,F,Right,1877472000.0,195000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royale Union Saint-Gilloise,4860,Ilan Hurtevent,2191010,21,180.0,Belgium,F,Right,1909008000.0,485000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royale Union Saint-Gilloise,4860,Relebohile Mofokeng,1564998,21,166.0,South Africa,M,Right,1909008000.0,2900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royale Union Saint-Gilloise,4860,Adem Zorgane,1000472,26,184.0,Algeria,M,Right,1877472000.0,12500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royale Union Saint-Gilloise,4860,Ousseynou Niang,880780,24,168.0,Senegal,M,Right,1845936000.0,5800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royale Union Saint-Gilloise,4860,Darius Olaru,812808,28,177.0,Romania,M,Right,1909008000.0,4600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royale Union Saint-Gilloise,4860,Anan Khalaili,1403362,21,183.0,Israel,M,Right,1845936000.0,24000000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royale Union Saint-Gilloise,4860,Guilherme Smith,1820381,23,183.0,Brazil,M,Right,1909008000.0,4200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royale Union Saint-Gilloise,4860,Besfort Zeneli,1173223,23,187.0,Sweden,M,Right,1909008000.0,6200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royale Union Saint-Gilloise,4860,Kamiel Van de Perre,1146316,22,181.0,Belgium,M,Right,1877472000.0,7500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royale Union Saint-Gilloise,4860,Ondrej Kricfalusi,1133093,22,195.0,Czechia,M,Right,1909008000.0,3700000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royale Union Saint-Gilloise,4860,Rob Schoofs,133164,32,179.0,Belgium,M,Both,1845936000.0,1900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royale Union Saint-Gilloise,4860,Guillaume François,45897,36,174.0,Belgium,M,Right,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royale Union Saint-Gilloise,4860,Ivan Pavlić,1103764,24,185.0,Netherlands,M,Right,1877472000.0,380000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royale Union Saint-Gilloise,4860,Kevin Mac Allister,895327,28,175.0,Argentina,D,Right,1814313600.0,12400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royale Union Saint-Gilloise,4860,Fedde Leysen,1088899,23,191.0,Belgium,D,Left,1877472000.0,3800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royale Union Saint-Gilloise,4860,Nohim Chibani,1922370,22,189.0,France,D,Right,1909008000.0,390000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royale Union Saint-Gilloise,4860,Massire Sylla,1897832,21,196.0,Senegal,D,Right,1909008000.0,880000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royale Union Saint-Gilloise,4860,Louis Patris,923972,25,187.0,Belgium,D,Right,1877472000.0,2400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royale Union Saint-Gilloise,4860,Ross Sykes,845558,27,196.0,England,D,Right,1814313600.0,4900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royale Union Saint-Gilloise,4860,Nikki Havenaar,309460,31,197.0,Japan,D,Right,1877472000.0,550000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royale Union Saint-Gilloise,4860,Hervé Koffi,867299,29,187.0,Burkina Faso,G,Right,1814313600.0,5600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royale Union Saint-Gilloise,4860,Vic Chambaere,1108599,23,190.0,Belgium,G,Right,1814313600.0,655000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royale Union Saint-Gilloise,4860,Giorgi Kavlashvili,1567319,19,192.0,Georgia,G,Left,1845936000.0,105000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royale Union Saint-Gilloise,4860,Keo Boets,1150090,22,189.0,Belgium,G,Right,,49000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RSC Anderlecht,2900,Mihajlo Cvetković,1427166,19,175.0,Serbia,F,Right,1877472000.0,10500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RSC Anderlecht,2900,Danylo Sikan,945479,25,185.0,Ukraine,F,Right,1909008000.0,4300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RSC Anderlecht,2900,Adriano Bertaccini,867250,25,173.0,Belgium,F,Right,1877472000.0,4099999.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RSC Anderlecht,2900,Noa Thomas Ojea Cobiella,2613189,16,,Belgium,F,Left,1877472000.0,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RSC Anderlecht,2900,César Huerta,905257,25,173.0,Mexico,M,Right,1877472000.0,3700000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RSC Anderlecht,2900,Mario Stroeykens,1101702,21,177.0,DR Congo,M,Right,1845936000.0,4300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RSC Anderlecht,2900,Nathan-Dylan Saliba,1093229,22,173.0,Canada,M,Both,1877472000.0,9200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RSC Anderlecht,2900,Majeed Ashimeru,901149,28,182.0,Ghana,M,Right,1814313600.0,530000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RSC Anderlecht,2900,Oliver Antman,975743,24,185.0,Finland,M,Right,1909008000.0,3900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RSC Anderlecht,2900,Tristan Degreef,1436187,21,177.0,Belgium,M,Right,1845936000.0,3100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RSC Anderlecht,2900,Elyess Dao,1891116,19,183.0,Morocco,M,Right,1877472000.0,265000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RSC Anderlecht,2900,Jayden Onia Seke,1862185,17,,Belgium,M,Right,,910000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RSC Anderlecht,2900,Joshua Nga Kana,2425195,17,178.0,Belgium,M,Right,1877472000.0,1200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RSC Anderlecht,2900,Enric Llansana,916951,25,183.0,Netherlands,M,Right,1877472000.0,2100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RSC Anderlecht,2900,Lukáš Ambros,1142171,22,182.0,Czechia,M,Left,1909008000.0,5200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RSC Anderlecht,2900,Cedric Hatenboer,1638564,21,184.0,Netherlands,M,Right,1877472000.0,2100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RSC Anderlecht,2900,Alexis Flips,879672,26,173.0,France,M,Right,1845936000.0,290000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RSC Anderlecht,2900,Noah Kalonji,2524711,17,185.0,Belgium,M,Right,1845936000.0,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RSC Anderlecht,2900,Ilay Camara,1397747,23,174.0,Senegal,D,Right,1909008000.0,3600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RSC Anderlecht,2900,Ali Maamar,1440668,21,182.0,Morocco,D,Right,1845936000.0,2600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RSC Anderlecht,2900,Moussa Ndiaye,982315,24,181.0,Senegal,D,Left,1845936000.0,3900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RSC Anderlecht,2900,Giulian Biancone,965331,26,187.0,France,D,Right,1877472000.0,2300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RSC Anderlecht,2900,Killian Sardella,909964,24,177.0,Belgium,D,Right,1845936000.0,2300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RSC Anderlecht,2900,Ludwig Augustinsson,138546,32,181.0,Sweden,D,Left,1814313600.0,1500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RSC Anderlecht,2900,Marco Kana,964759,24,183.0,Belgium,D,Right,1845936000.0,3300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RSC Anderlecht,2900,Léo Pétrot,827504,29,188.0,France,D,Left,1845936000.0,1400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RSC Anderlecht,2900,Lucas Hey,1122698,23,189.0,Denmark,D,Right,1877472000.0,2300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RSC Anderlecht,2900,Thomas Foket,245615,31,177.0,Belgium,D,Right,1814313600.0,310000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RSC Anderlecht,2900,Basile Vroninks,1929417,19,175.0,Belgium,D,Right,1814313600.0,420000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RSC Anderlecht,2900,Kaïs Barry,1426633,20,186.0,Belgium,D,Right,1814313600.0,315000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RSC Anderlecht,2900,Zoumana Keita,1603768,20,189.0,Germany,D,Both,1877472000.0,410000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RSC Anderlecht,2900,Colin Coosemans,122399,34,185.0,Belgium,G,Right,1845936000.0,1200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RSC Anderlecht,2900,Justin Heekeren,932070,25,194.0,Germany,G,Both,1877472000.0,485000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royal Antwerp FC,2889,Ibrahim Salah,1386639,24,185.0,Morocco,F,Right,1814313600.0,1700000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royal Antwerp FC,2889,Anthony Valencia,1020197,23,175.0,Ecuador,F,Left,,1700000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royal Antwerp FC,2889,Michael Frey,134248,32,189.0,Switzerland,F,Right,1845936000.0,415000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royal Antwerp FC,2889,Koki Ando,2441546,18,170.0,Japan,F,Right,1909008000.0,325000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royal Antwerp FC,2889,Geoffry Hairemans,58917,34,184.0,Belgium,F,Left,1814313600.0,240000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royal Antwerp FC,2889,Carlos Mejia,2631627,19,,Ecuador,F,Left,1909008000.0,2100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royal Antwerp FC,2889,Gabriel Jesus David,2058686,19,,Nigeria,F,,1877472000.0,220000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royal Antwerp FC,2889,Gerard Vandeplas,1426634,20,189.0,Belgium,F,,,375000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royal Antwerp FC,2889,Luis Narh,2631629,18,186.0,Ghana,F,Right,1909008000.0,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royal Antwerp FC,2889,Jeff Godelaine,1546047,19,,Belgium,F,Left,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royal Antwerp FC,2889,Toon Franssen,1656725,20,,Belgium,F,,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royal Antwerp FC,2889,Abdel-Malik Aziz,1396221,23,178.0,Togo,F,Right,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royal Antwerp FC,2889,Mukhammadali Urinboev,1154566,21,170.0,Uzbekistan,M,Left,1877472000.0,430000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royal Antwerp FC,2889,Youssef Hamdaoui,1590946,18,,Morocco,M,Right,1814313600.0,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royal Antwerp FC,2889,Jules Ahoka,2137673,20,,DR Congo,M,Right,1877472000.0,290000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royal Antwerp FC,2889,Xander Dierckx,2405369,17,,Belgium,M,Left,1814313600.0,2900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royal Antwerp FC,2889,Farouck Adekami,1920581,20,,Côte d'Ivoire,M,,1814313600.0,74000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royal Antwerp FC,2889,Thibo Somers,1002804,27,183.0,Belgium,M,Right,1845936000.0,2900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royal Antwerp FC,2889,Daam Foulon,826170,27,180.0,Belgium,M,Left,1845936000.0,1900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royal Antwerp FC,2889,Christopher Scott,997118,24,174.0,Germany,M,Right,1845936000.0,2100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royal Antwerp FC,2889,Snayder Porozo,1892676,19,189.0,Ecuador,M,Right,1909008000.0,1000000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royal Antwerp FC,2889,Louie Van Gelder,2297227,17,175.0,Belgium,M,,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royal Antwerp FC,2889,Modibo Fofana,2602250,18,178.0,Côte d'Ivoire,M,Right,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royal Antwerp FC,2889,Yuto Tsunashima,1470622,25,188.0,Japan,D,Right,1845936000.0,1600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royal Antwerp FC,2889,Semm Renders,1546054,18,180.0,Belgium,D,Right,,410000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royal Antwerp FC,2889,Rein Van Helden,1047163,24,187.0,Belgium,D,Right,1909008000.0,3100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royal Antwerp FC,2889,Maxime Busi,943926,26,182.0,Belgium,D,Right,1877472000.0,1400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royal Antwerp FC,2889,Andreas Verstraeten,1465835,20,178.0,Belgium,D,Left,,105000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royal Antwerp FC,2889,Eran Tuypens,1546044,20,181.0,Belgium,D,Left,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royal Antwerp FC,2889,Luca Schelfhout,2487802,18,,Belgium,D,Right,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royal Antwerp FC,2889,Taishi Brandon Nozawa,1002358,23,191.0,Japan,G,Right,1877472000.0,3400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royal Antwerp FC,2889,Yannick Thoelen,794571,36,188.0,Belgium,G,Right,1814313600.0,205000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Royal Antwerp FC,2889,Niels Devalckeneer,1391493,22,193.0,Belgium,G,Right,1845936000.0,93000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KAA Gent,2903,Wilfried Kanga,838640,28,189.0,Côte d'Ivoire,F,Right,1845936000.0,2800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KAA Gent,2903,Josué Vergara,1916618,19,196.0,Panama,F,Right,1940544000.0,1500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KAA Gent,2903,Momodou Sonko,1135616,21,176.0,Sweden,F,Right,1845936000.0,1800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KAA Gent,2903,Max Dean,1065233,22,178.0,England,F,Right,1845936000.0,2400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KAA Gent,2903,Hyllarion Goore,2048955,20,183.0,Côte d'Ivoire,F,Right,1877472000.0,3800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KAA Gent,2903,Moctar Diop,1485493,21,193.0,Senegal,F,Left,1877472000.0,640000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KAA Gent,2903,Ibrahima Cisse,2445106,18,196.0,Senegal,F,Right,1845936000.0,825000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KAA Gent,2903,Abdelkahar Kadri,1007528,26,170.0,Algeria,M,Right,1877472000.0,2600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KAA Gent,2903,László Bénes,354558,28,181.0,Slovakia,M,Left,1909008000.0,2300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KAA Gent,2903,Atsuki Ito,1034816,27,185.0,Japan,M,Right,1845936000.0,2400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KAA Gent,2903,Mathias Delorge,1124749,22,189.0,Belgium,M,Left,1845936000.0,6800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KAA Gent,2903,Tibe De Vlieger,1396529,20,182.0,Belgium,M,Right,1909008000.0,2700000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KAA Gent,2903,Mohammed El Âdfaoui,1591025,18,182.0,Belgium,M,Left,1845936000.0,1900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KAA Gent,2903,Matisse Samoise,1046245,24,180.0,Belgium,M,Right,1845936000.0,2400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KAA Gent,2903,Aimé Omgba,1459382,23,183.0,Netherlands,M,Right,1877472000.0,920000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KAA Gent,2903,Leonardo Lopes,783478,27,168.0,Portugal,M,Right,1845936000.0,2600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KAA Gent,2903,Pieter Gerkens,190401,30,180.0,Belgium,M,Right,1814313600.0,740000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KAA Gent,2903,Kyrell Wilson,1400426,21,173.0,England,M,Right,1909008000.0,265000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KAA Gent,2903,Wout Asselman,1410226,21,,Belgium,M,Left,1877472000.0,370000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KAA Gent,2903,Abdul Ayinde,2399613,21,183.0,Burkina Faso,D,Left,1814313600.0,570000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KAA Gent,2903,Maksim Paskotsi,954621,23,183.0,Estonia,D,Right,1877472000.0,3400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KAA Gent,2903,Christian Burgess,303634,34,196.0,England,D,Right,1845936000.0,1900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KAA Gent,2903,Tiago Araújo,997024,25,184.0,Portugal,D,Left,1845936000.0,2400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KAA Gent,2903,Siebe Van Der Heyden,842164,28,185.0,Belgium,D,Left,1845936000.0,2900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KAA Gent,2903,Hugo Gambor,1082541,23,186.0,Central African Republic,D,Right,1814313600.0,1200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KAA Gent,2903,Mouhamed El Ngom,1214223,26,181.0,Senegal,D,Right,1940544000.0,775000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KAA Gent,2903,Gilles De Meyer,1425339,19,179.0,Belgium,D,Right,1845936000.0,485000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KAA Gent,2903,Matties Volckaert,2213526,23,189.0,Belgium,D,Right,1877472000.0,1900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KAA Gent,2903,Lars Cooman,2259079,23,180.0,Belgium,D,Left,1814313600.0,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KAA Gent,2903,Davy Roef,156663,32,187.0,Belgium,G,Right,1877472000.0,2300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KAA Gent,2903,Kjell Peersman,1119871,22,194.0,Belgium,G,Right,1845936000.0,430000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KAA Gent,2903,Tom Vandenberghe,1046454,33,190.0,Belgium,G,Right,1814313600.0,240000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KAA Gent,2903,Bas Evers,1873014,17,193.0,Belgium,G,Right,1845936000.0,95000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KAA Gent,2903,Victor De Coninck,1563452,20,186.0,Belgium,G,,1814313600.0,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Standard Liège,2901,Dennis Eckert Ayensa,812797,29,181.0,Iran,F,Right,1845936000.0,1900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Standard Liège,2901,Thomas Henry,795541,31,191.0,France,F,Right,1814313600.0,545000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Standard Liège,2901,Timothé Nkada,981053,27,177.0,France,F,Right,1845936000.0,1800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Standard Liège,2901,Bruny Nsimba,1047536,26,181.0,Belgium,F,Right,1877472000.0,2400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Standard Liège,2901,Bernard Nguene,2017474,20,180.0,Cameroon,F,Right,1845936000.0,905000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Standard Liège,2901,Grejohn Kyei,581146,30,187.0,France,F,Right,1814313600.0,290000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Standard Liège,2901,Marco Ilaimaharitra,358198,31,178.0,Madagascar,M,Right,1814313600.0,760000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Standard Liège,2901,Mo El Hankouri,845199,29,176.0,Morocco,M,Right,1814313600.0,1100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Standard Liège,2901,Casper Nielsen,247471,32,182.0,Denmark,M,Right,1845936000.0,1400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Standard Liège,2901,Rayan Touzghar,1444639,22,180.0,Morocco,M,Left,1877472000.0,1900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Standard Liège,2901,Salieu Drammeh,1398154,23,175.0,Gambia,M,Right,1877472000.0,1100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Standard Liège,2901,Adnane Abid,1127801,22,161.0,Belgium,M,Right,1877472000.0,2300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Standard Liège,2901,Laurens Goemaere,1474721,20,179.0,Belgium,M,Right,1909008000.0,620000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Standard Liège,2901,Ibrahim Karamoko,966263,25,187.0,France,M,Right,1909008000.0,2900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Standard Liège,2901,Tobias Mohr,237048,30,183.0,Germany,M,Left,1845936000.0,825000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Standard Liège,2901,Alexis Trouillet,988732,25,175.0,France,M,Left,1845936000.0,875000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Standard Liège,2901,Charli Spoden,2419385,18,184.0,Belgium,M,Right,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Standard Liège,2901,Boško Šutalo,942992,26,188.0,Croatia,D,Right,1877472000.0,2100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Standard Liège,2901,Marlon Fossey,880762,27,180.0,USA,D,Right,1814313600.0,3400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Standard Liège,2901,Josué Homawoo,976070,28,191.0,Togo,D,Left,1814313600.0,1900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Standard Liège,2901,Daan Dierckx,1099368,23,192.0,Belgium,D,Right,1845936000.0,1500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Standard Liège,2901,Ibe Hautekiet,964757,24,188.0,Belgium,D,Right,1877472000.0,3700000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Standard Liège,2901,Dimitri Lavalėe,857458,29,187.0,Belgium,D,Left,1845936000.0,1500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Standard Liège,2901,Henry Lawrence,976265,24,171.0,England,D,Right,1877472000.0,3900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Standard Liège,2901,Gustav Mortensen,1083365,22,175.0,Denmark,D,Left,1909008000.0,3200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Standard Liège,2901,Matthieu Epolo,1121943,21,189.0,DR Congo,G,Right,1877472000.0,7200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Standard Liège,2901,Belmin Dizdarević,983676,25,189.0,Bosnia & Herzegovina,G,Right,1814313600.0,110000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Standard Liège,2901,Lucas Pirard,190379,31,191.0,Belgium,G,Right,1845936000.0,340000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Mechelen,5044,Myron Van Brederode,1012925,23,172.0,Netherlands,F,Right,1877472000.0,4900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Mechelen,5044,Benito Raman,94300,31,172.0,Belgium,F,Right,1814313600.0,755000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Mechelen,5044,Keano Vanrafelghem,1010237,23,171.0,Belgium,F,Right,1877472000.0,1500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Mechelen,5044,Bill Antonio,1158921,23,177.0,Zimbabwe,F,Right,1814313600.0,1100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Mechelen,5044,Bilal Bafdili,1445119,22,180.0,Belgium,F,Right,1814313600.0,935000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Mechelen,5044,Maxim Kireev,1409866,22,182.0,Belarus,F,Right,1877472000.0,730000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Mechelen,5044,Bouke Boersma,2041882,21,,Netherlands,F,Right,1877472000.0,2400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Mechelen,5044,Halil Özdemir,1195764,20,177.0,Türkiye,F,Right,1814313600.0,410000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Mechelen,5044,Moncef Zekri,1931586,17,171.0,Morocco,M,Left,1845936000.0,3900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Mechelen,5044,Dennis Praet,135647,32,181.0,Belgium,M,Right,1845936000.0,1600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Mechelen,5044,Amine Ouahabi,2084603,18,185.0,Morocco,M,Right,1845936000.0,97000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Mechelen,5044,Noah Makanza,1972918,21,175.0,DR Congo,M,Right,1814313600.0,485000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Mechelen,5044,Thérence Koudou,1392080,21,178.0,France,M,Right,1877472000.0,4300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Mechelen,5044,Fredrik Hammar,946959,25,181.0,Sweden,M,Right,1845936000.0,3100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Mechelen,5044,Dikeni Salifou,1166767,23,191.0,Togo,M,Right,1845936000.0,1100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Mechelen,5044,Ryan Teague,1002317,24,182.0,Australia,M,Left,1845936000.0,570000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Mechelen,5044,Cedric Jan Van Meirvenne,1563509,21,,Belgium,M,Right,1909008000.0,410000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Mechelen,5044,José Marsà,962625,24,181.0,Spain,D,Left,1814313600.0,3400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Mechelen,5044,Kobe Corbanie,1463869,21,187.0,Belgium,D,Right,,930000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Mechelen,5044,Tommy St Jago,876232,26,186.0,Curacao,D,Right,1845936000.0,1900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Mechelen,5044,Lovro Golič,1215063,20,195.0,Slovenia,D,Right,1877472000.0,310000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Mechelen,5044,Gora Diouf,1407164,22,185.0,Senegal,D,Left,1845936000.0,1400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Mechelen,5044,Ian Struyf,2192147,18,191.0,Belgium,D,Left,1845936000.0,375000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Mechelen,5044,Massimo Decoene,1391861,22,183.0,Belgium,D,Right,1814313600.0,415000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Mechelen,5044,Ortwin De Wolf,877292,30,190.0,Belgium,G,Left,1814313600.0,470000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Mechelen,5044,Nacho Miras,1010556,29,187.0,Spain,G,Right,1877472000.0,3600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Mechelen,5044,Tijn Van Ingelgom,1547695,19,194.0,Belgium,G,Right,1814313600.0,97000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Mechelen,5044,Axel Willockx,2127057,19,189.0,Belgium,G,Right,1814313600.0,52000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KVC Westerlo,2893,Norman Bassette,1137328,21,186.0,Belgium,F,Left,1814313600.0,1500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KVC Westerlo,2893,Afonso Patrao,1586655,19,182.0,Portugal,F,Right,1909008000.0,1600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KVC Westerlo,2893,Naoufal Bohamdi-Kamoni,2124293,18,,Morocco,F,Right,1877472000.0,470000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KVC Westerlo,2893,David Amegnaglo,1864715,21,186.0,Germany,F,Right,1909008000.0,185000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KVC Westerlo,2893,Karol Borys,1149852,19,174.0,Poland,M,Left,1814313600.0,645000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KVC Westerlo,2893,Cisse Sandra,1004449,22,183.0,Belgium,M,Left,1909008000.0,2100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KVC Westerlo,2893,Reda Laalaoui,1465411,21,190.0,Morocco,M,Right,1877472000.0,485000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KVC Westerlo,2893,Isa Sakamoto,1126245,22,174.0,Japan,M,Right,1845936000.0,3800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KVC Westerlo,2893,Doğucan Haspolat,846087,26,177.0,Türkiye,M,Right,1814313600.0,5200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KVC Westerlo,2893,Shunsuke Saito,1869028,21,174.0,Japan,M,Right,1877472000.0,1300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KVC Westerlo,2893,Serhiy Sydorchuk,81202,35,189.0,Ukraine,M,Right,1814313600.0,240000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KVC Westerlo,2893,Ibrahim Fofana,1392802,22,178.0,Côte d'Ivoire,M,Right,1909008000.0,3200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KVC Westerlo,2893,Thomas Van den Keybus,997164,25,179.0,Belgium,M,Left,1814313600.0,680000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KVC Westerlo,2893,Cameron Congreve,1189294,22,180.0,Wales,M,Left,1909008000.0,470000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KVC Westerlo,2893,Philippe Bibout,2683223,20,,Cameroon,M,,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KVC Westerlo,2893,Seiji Kimura,939399,24,186.0,Japan,D,Right,1877472000.0,1600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KVC Westerlo,2893,Reno Münz,1403004,20,189.0,Germany,D,Left,1909008000.0,1700000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KVC Westerlo,2893,Amando Lapage,1396102,21,187.0,Belgium,D,Right,1877472000.0,840000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KVC Westerlo,2893,Lucas Mbamba,1474426,19,,Belgium,D,,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KVC Westerlo,2893,Michée Ndembi,1831385,19,187.0,Belgium,D,Right,1877472000.0,270000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KVC Westerlo,2893,Fabio Ferraro,1145225,23,180.0,Belgium,D,Right,1877472000.0,1200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KVC Westerlo,2893,Lasse Flø,1496001,20,186.0,Denmark,D,Right,1909008000.0,825000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KVC Westerlo,2893,Dylan Ourega,1970815,21,183.0,France,D,Left,1909008000.0,1100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KVC Westerlo,2893,Andreas Jungdal,963038,24,195.0,Denmark,G,Right,1845936000.0,3800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KVC Westerlo,2893,Jahnilo Wiegel,1801304,21,195.0,Suriname,G,Right,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KVC Westerlo,2893,Bill Lathouwers,943249,26,191.0,Belgium,G,Left,1909008000.0,670000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RC Sporting Charleroi,2898,Adama Bojang,1471504,22,191.0,Gambia,F,Right,1814313600.0,1200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RC Sporting Charleroi,2898,Antoine Colassin,909965,25,188.0,Belgium,F,Right,1845936000.0,545000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RC Sporting Charleroi,2898,Aurélien Scheidler,915567,28,192.0,France,F,Right,1845936000.0,1900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RC Sporting Charleroi,2898,Severin Nioule,1518093,21,175.0,Côte d'Ivoire,F,,1877472000.0,465000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RC Sporting Charleroi,2898,Freddy Mbemba,1397883,23,175.0,France,F,Right,1845936000.0,580000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RC Sporting Charleroi,2898,Yassine Khalifi,1126852,21,175.0,Morocco,M,Right,1814313600.0,1300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RC Sporting Charleroi,2898,Parfait Guiagon,1030459,25,169.0,Côte d'Ivoire,M,Right,1845936000.0,4500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RC Sporting Charleroi,2898,Amine Boukamir,1469056,19,172.0,Morocco,M,Right,1814313600.0,535000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RC Sporting Charleroi,2898,Jakob Napoleon Romsaas,1198306,22,187.0,Norway,M,Right,1814313600.0,1100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RC Sporting Charleroi,2898,Patrick Pflücke,281283,29,170.0,Germany,M,Left,1814313600.0,2000000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RC Sporting Charleroi,2898,Antoine Bernier,834261,28,170.0,Belgium,M,Right,1845936000.0,1600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RC Sporting Charleroi,2898,Isaac Ismaël Cissé,1499869,19,175.0,Côte d'Ivoire,M,,,230000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RC Sporting Charleroi,2898,Boubakar Dembaga,1919319,20,191.0,Mali,M,Right,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RC Sporting Charleroi,2898,Mory Kera,1995006,18,,Belgium,M,,1814313600.0,145000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RC Sporting Charleroi,2898,Yoann Cissé,1897486,21,,France,M,,,210000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RC Sporting Charleroi,2898,Kevin Van Den Kerkhof,1130602,30,190.0,Algeria,D,Right,1845936000.0,1600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RC Sporting Charleroi,2898,Aiham Ousou,965265,26,186.0,Syria,D,Right,1845936000.0,2800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RC Sporting Charleroi,2898,Cheick Keita,1407973,23,185.0,Mali,D,Right,1814313600.0,3800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RC Sporting Charleroi,2898,Mardochee Nzita,990726,26,178.0,Belgium,D,Left,1845936000.0,1400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RC Sporting Charleroi,2898,Massamba Sow,1898323,22,180.0,France,D,Right,1814313600.0,365000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RC Sporting Charleroi,2898,Noah Solheid,1388247,23,191.0,Belgium,D,Right,1877472000.0,370000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RC Sporting Charleroi,2898,Naël Piron,2636509,17,,Belgium,D,,1845936000.0,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RC Sporting Charleroi,2898,Mohamed Koné,1131009,24,186.0,Côte d'Ivoire,G,Right,1814313600.0,2100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RC Sporting Charleroi,2898,Martin Delavallée,1141106,22,185.0,Belgium,G,Right,1814313600.0,1500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,RC Sporting Charleroi,2898,Arthur Cremer,1396237,25,190.0,Belgium,G,,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Oud-Heverlee Leuven,2918,Abdoul Karim Traoré,2033824,19,178.0,Guinea,F,Right,1845936000.0,1000000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Oud-Heverlee Leuven,2918,Shin Yamada,1382299,26,175.0,Japan,F,Right,1814313600.0,775000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Oud-Heverlee Leuven,2918,Chukwubuikem Ikwuemesi,1143547,25,195.0,Nigeria,F,Right,1814313600.0,1100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Oud-Heverlee Leuven,2918,Kyan Vaesen,997827,25,190.0,Belgium,F,Right,1877472000.0,720000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Oud-Heverlee Leuven,2918,Emmanuel Addai,1398529,25,173.0,Ghana,M,Both,1877472000.0,1200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Oud-Heverlee Leuven,2918,Łukasz Łakomy,1001201,25,181.0,Poland,M,Left,1877472000.0,1800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Oud-Heverlee Leuven,2918,William Balikwisha,943881,27,174.0,DR Congo,M,Right,1845936000.0,310000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Oud-Heverlee Leuven,2918,Siebe Schrijvers,190413,30,178.0,Belgium,M,Right,1814313600.0,1400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Oud-Heverlee Leuven,2918,Henok Teklab,940558,27,174.0,Eritrea,M,Right,1814313600.0,880000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Oud-Heverlee Leuven,2918,Thibaud Verlinden,826172,27,173.0,Belgium,M,Right,1845936000.0,1300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Oud-Heverlee Leuven,2918,Birger Verstraete,192268,32,171.0,Belgium,M,Right,1814313600.0,860000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Oud-Heverlee Leuven,2918,Óscar Gil,959820,28,175.0,Spain,M,Both,,775000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Oud-Heverlee Leuven,2918,Bryang Kayo,1002383,24,185.0,USA,M,Right,1845936000.0,330000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Oud-Heverlee Leuven,2918,Manuel Osifo,1122524,23,182.0,Belgium,M,Right,1814313600.0,380000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Oud-Heverlee Leuven,2918,Wouter George,983027,24,172.0,Belgium,M,Right,1845936000.0,665000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Oud-Heverlee Leuven,2918,Takuya Ogiwara,925904,26,175.0,Japan,D,Left,1814313600.0,640000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Oud-Heverlee Leuven,2918,Roggerio Nyakossi,1129502,22,194.0,Switzerland,D,Right,1814313600.0,5200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Oud-Heverlee Leuven,2918,Jamie Lawrence,997206,23,200.0,Germany,D,Right,1877472000.0,640000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Oud-Heverlee Leuven,2918,Ewoud Pletinckx,949101,25,190.0,Belgium,D,Right,1877472000.0,1700000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Oud-Heverlee Leuven,2918,Davis Opoku,1860321,18,180.0,Belgium,D,Right,1845936000.0,775000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Oud-Heverlee Leuven,2918,Viktor Damjanić,1157903,20,197.0,Croatia,D,Left,1845936000.0,315000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Oud-Heverlee Leuven,2918,Noë Dussenne,115569,34,191.0,Belgium,D,Right,1845936000.0,310000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Oud-Heverlee Leuven,2918,Thibault Vlietinck,823046,28,178.0,Belgium,D,Right,1845936000.0,435000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Oud-Heverlee Leuven,2918,Christ Souanga,1835475,19,186.0,Belgium,D,Left,1814313600.0,290000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Oud-Heverlee Leuven,2918,Dani van den Heuvel,1049432,23,184.0,Netherlands,G,Right,1877472000.0,775000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Oud-Heverlee Leuven,2918,Tobe Leysen,996979,24,187.0,Belgium,G,Left,1814313600.0,4600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Oud-Heverlee Leuven,2918,Owen Jochmans,1085907,23,185.0,Belgium,G,Right,1814313600.0,160000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Oud-Heverlee Leuven,2918,Marcel Van Dijck,2562418,17,,Belgium,G,Right,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,FCV Dender,389232,David Toshevski,1021398,25,185.0,North Macedonia,F,Right,1814313600.0,570000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,FCV Dender,389232,Mohamed Berte,1122525,24,175.0,Belgium,F,Right,1814313600.0,605000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,FCV Dender,389232,Kembo Diliwidi,1545389,20,180.0,France,F,Right,,245000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,FCV Dender,389232,Emmanuel Mballa,1465068,27,202.0,France,F,Right,1845936000.0,52000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,FCV Dender,389232,Nail Moutha-Sebtaoui,1502944,20,177.0,Morocco,M,Left,1845936000.0,320000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,FCV Dender,389232,David Hrnčár,924664,28,186.0,Slovakia,M,Right,1814313600.0,515000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,FCV Dender,389232,Adam Nhaili,1510029,21,174.0,Belgium,M,Right,1814313600.0,140000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,FCV Dender,389232,Krzysztof Koton,1512869,23,172.0,Poland,M,Right,1845936000.0,270000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,FCV Dender,389232,Malcolm Viltard,1092285,23,176.0,France,M,Right,1814313600.0,1500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,FCV Dender,389232,Oskar Szulc,2257605,19,186.0,Poland,M,Right,1877472000.0,340000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,FCV Dender,389232,Pjotr Kestens,1046959,24,187.0,Belgium,M,Left,,310000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,FCV Dender,389232,Nathan Rodes,882003,28,191.0,Belgium,M,Right,1814313600.0,645000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,FCV Dender,389232,Amine Daali,2236318,22,178.0,Belgium,M,Both,1814313600.0,195000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,FCV Dender,389232,Luc Marijnissen,1086107,23,190.0,Netherlands,D,Right,1845936000.0,1500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,FCV Dender,389232,Pedro Gomes,1393993,23,185.0,Portugal,D,Right,1845936000.0,140000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,FCV Dender,389232,Junior Marsoni Sambu Mansoni​,874855,30,185.0,Belgium,D,Right,1814313600.0,720000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,FCV Dender,389232,Kobe Cools,793987,29,192.0,Belgium,D,Right,1814313600.0,580000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,FCV Dender,389232,Bo De Kerf,2034332,22,190.0,Belgium,D,Right,1877472000.0,655000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,FCV Dender,389232,Elnora Lembi,2307624,20,,Belgium,D,,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,FCV Dender,389232,Louis Fortin,1082353,24,188.0,Belgium,G,,1814313600.0,110000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,FCV Dender,389232,Julien Devriendt,857141,27,189.0,Belgium,G,Right,1845936000.0,385000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Cercle Brugge,2929,Lucas Michal,1154647,21,167.0,France,F,Right,1814313600.0,3700000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Cercle Brugge,2929,Dante Vanzeir,822673,28,175.0,Belgium,F,Right,1814313600.0,1600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Cercle Brugge,2929,Abdoul Kader Ouattara,1652684,21,171.0,Burkina Faso,F,Right,1845936000.0,365000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Cercle Brugge,2929,Steve Ngoura,1394411,21,193.0,France,F,Right,1845936000.0,4700000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Cercle Brugge,2929,Charles Herrmann,1470008,20,180.0,Germany,F,Left,1877472000.0,830000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Cercle Brugge,2929,Krys Kouassi,2001165,19,175.0,France,F,Left,1909008000.0,190000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Cercle Brugge,2929,Lazare Amani,845136,28,172.0,Côte d'Ivoire,M,Right,1845936000.0,1000000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Cercle Brugge,2929,Joel Ndala,1152187,20,178.0,England,M,Right,1909008000.0,2900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Cercle Brugge,2929,Heriberto Jurado,1153538,21,172.0,Mexico,M,Left,1845936000.0,720000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Cercle Brugge,2929,Lawrence Agyekum,1185568,22,174.0,Ghana,M,Right,1877472000.0,1400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Cercle Brugge,2929,Makaya Ibrahima Diaby,1473492,19,189.0,Guinea,M,Left,1877472000.0,1500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Cercle Brugge,2929,Erick Nunes,1894087,22,180.0,Brazil,M,Right,1877472000.0,580000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Cercle Brugge,2929,Alama Bayo,1520808,20,181.0,Belgium,M,Right,1845936000.0,165000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Cercle Brugge,2929,Lukas Mondele,1100320,22,181.0,Belgium,M,Left,1877472000.0,380000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Cercle Brugge,2929,Hannes Van Der Bruggen,94290,33,180.0,Belgium,M,Right,1814313600.0,415000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Cercle Brugge,2929,Ibrahim Diakité,1168646,22,178.0,Guinea,D,Right,1845936000.0,970000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Cercle Brugge,2929,Emmanuel Kakou,1847412,21,,Côte d'Ivoire,D,Right,1814313600.0,2200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Cercle Brugge,2929,Valy Konaté,1499156,19,174.0,Côte d'Ivoire,D,Left,1814313600.0,1300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Cercle Brugge,2929,Royer Caicedo,1994822,20,193.0,Colombia,D,Left,1877472000.0,1400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Cercle Brugge,2929,Christiaan Ravych,1191212,24,187.0,Belgium,D,Right,1814313600.0,2600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Cercle Brugge,2929,Gary Magnee,990265,26,173.0,Belgium,D,Right,1845936000.0,2000000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Cercle Brugge,2929,Geoffrey Kondo,1397885,24,180.0,France,D,Left,1877472000.0,3100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Cercle Brugge,2929,Ben Sadik,2069993,19,,Morocco,D,,1845936000.0,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Cercle Brugge,2929,Jonas Lietaert,1469335,22,190.0,Belgium,D,Right,1814313600.0,155000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Cercle Brugge,2929,Sebbe Gheerardyns,1977305,21,,Belgium,D,Left,1814313600.0,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Cercle Brugge,2929,Gaëtan Coucke,794989,27,187.0,Belgium,G,Right,1877472000.0,775000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Cercle Brugge,2929,Maxime Delanghe,909953,25,189.0,Belgium,G,Right,1845936000.0,1600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Cercle Brugge,2929,Bas Langenbick,1191211,23,189.0,Belgium,G,Right,1845936000.0,49000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Sint-Truidense VV,2895,Samed Baždar,1100965,22,188.0,Bosnia & Herzegovina,F,Right,,1600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Sint-Truidense VV,2895,Kaito Matsuzawa,1514300,25,176.0,Japan,F,Right,1814313600.0,825000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Sint-Truidense VV,2895,Shion Shinkawa,2049801,19,171.0,Japan,F,Right,1877472000.0,840000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Sint-Truidense VV,2895,Oumar Diouf,1493499,23,180.0,Senegal,F,Right,1877472000.0,1100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Sint-Truidense VV,2895,Frederic Soelle Soelle,1195742,20,190.0,Belgium,F,Right,1845936000.0,260000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Sint-Truidense VV,2895,Jay David Mbalanda,1888650,19,,Belgium,F,Right,,165000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Sint-Truidense VV,2895,Ilias Sebaoui,1154586,24,180.0,Morocco,M,Right,1845936000.0,3300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Sint-Truidense VV,2895,Ryotaro Araki,1016965,24,170.0,Japan,M,Right,,915000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Sint-Truidense VV,2895,Nelson Ishiwatari,1186113,21,185.0,Japan,M,Right,,730000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Sint-Truidense VV,2895,Ben Achour Ilyes,1546218,19,,Morocco,M,Left,1877472000.0,105000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Sint-Truidense VV,2895,Abdoulaye Sissako,846330,28,186.0,France,M,Right,1845936000.0,2200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Sint-Truidense VV,2895,Ryan Merlen,1402293,24,188.0,France,M,Right,1877472000.0,1000000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Sint-Truidense VV,2895,Alouis Diriken,1481773,22,187.0,Belgium,M,Right,1877472000.0,320000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Sint-Truidense VV,2895,Shogo Taniguchi,386958,35,182.0,Japan,D,Right,,775000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Sint-Truidense VV,2895,Taiga Hata,1002356,24,175.0,Japan,D,Right,1845936000.0,2400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Sint-Truidense VV,2895,Loïc Mbe Soh,904992,25,186.0,France,D,Right,,1900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Sint-Truidense VV,2895,Visar Musliu,134231,31,186.0,North Macedonia,D,Right,1814313600.0,1000000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Sint-Truidense VV,2895,Robert-Jan Vanwesemael,1047164,24,175.0,Belgium,D,Right,1909008000.0,3200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Sint-Truidense VV,2895,Joedrick Pupe,891609,29,189.0,Belgium,D,Left,1877472000.0,1300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Sint-Truidense VV,2895,Wolke Janssens,794418,31,185.0,Belgium,D,Right,1845936000.0,270000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Sint-Truidense VV,2895,Hugo Lambotte,1888649,20,180.0,Belgium,D,Right,1845936000.0,140000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Sint-Truidense VV,2895,Rune Verheyden,2683818,19,,Belgium,D,,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Sint-Truidense VV,2895,Léo Kokubo,997020,25,193.0,Japan,G,Right,1814313600.0,4600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,Sint-Truidense VV,2895,Matt Lendfers,1393695,20,190.0,Belgium,G,Right,1877472000.0,185000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Kortrijk,4858,Goduine Koyalipou,891505,26,183.0,Central African Republic,F,Right,1814313600.0,2400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Kortrijk,4858,Thierry Ambrose,356024,29,178.0,Guadeloupe,F,Right,1814313600.0,1900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Kortrijk,4858,Bryan Adinany,976002,26,190.0,Madagascar,F,Right,1877472000.0,620000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Kortrijk,4858,Lennard Hens,1502941,30,183.0,Belgium,F,Right,1845936000.0,410000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Kortrijk,4858,Jellert Van Landschoot,823047,28,176.0,Belgium,F,Left,1845936000.0,740000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Kortrijk,4858,Sixtus Ogbuehi,1851556,23,192.0,Nigeria,F,Right,1845936000.0,195000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Kortrijk,4858,Abdoul Diop,2632096,21,,Senegal,F,,1845936000.0,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Kortrijk,4858,Ilian Temperman,2677624,19,,Belgium,F,,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Kortrijk,4858,Shandre Campbell,1518101,21,178.0,South Africa,M,Left,1909008000.0,960000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Kortrijk,4858,Nayel Mehssatou,1064174,24,172.0,Chile,M,Right,1877472000.0,1500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Kortrijk,4858,Ken Masui,1125634,25,172.0,Japan,M,Right,1814313600.0,850000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Kortrijk,4858,Suf Podgoreanu,1010062,24,193.0,Israel,M,Right,1909008000.0,670000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Kortrijk,4858,Brecht Dejaegere,122859,35,174.0,Belgium,M,Right,1814313600.0,290000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Kortrijk,4858,Lenn De Smet,1093875,22,174.0,Belgium,M,Right,1845936000.0,740000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Kortrijk,4858,Boris Lambert,936240,26,187.0,Belgium,M,Right,1877472000.0,775000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Kortrijk,4858,Liam De Smet,1091040,22,174.0,Belgium,M,Right,1845936000.0,410000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Kortrijk,4858,Matthew Anderson,1387921,22,176.0,Scotland,M,Left,1845936000.0,825000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Kortrijk,4858,Guust Lamerand,2642509,18,,Belgium,M,,1877472000.0,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Kortrijk,4858,Harrison Murray-Campbell,1403049,20,186.0,England,D,Right,1814313600.0,520000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Kortrijk,4858,James Ndjeungoue,1394357,23,186.0,Cameroon,D,Left,1845936000.0,830000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Kortrijk,4858,Mohamed Fofana,2088572,20,180.0,Côte d'Ivoire,D,Right,1845936000.0,245000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Kortrijk,4858,Rudy Kohon,1133521,22,187.0,France,D,Right,1877472000.0,670000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Kortrijk,4858,Gilles Dewaele,285943,30,180.0,Belgium,D,Right,1814313600.0,190000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Kortrijk,4858,Gilles Ruyssen,329415,32,186.0,Belgium,D,Right,1845936000.0,580000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Kortrijk,4858,Fuhna Nsolo,2022306,21,175.0,Belgium,D,,1814313600.0,97000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Kortrijk,4858,Marko Ilić,843151,28,190.0,Serbia,G,Right,1877472000.0,825000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Kortrijk,4858,Patrik Sigurdur Gunnarsson,879496,25,188.0,Iceland,G,Right,1845936000.0,425000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,KV Kortrijk,4858,Ebbe De Vlaeminck,1187184,20,184.0,Belgium,G,Right,1845936000.0,210000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,K. Beerschot V.A.,169260,Anas Haj Mohamed,1155432,21,174.0,Tunisia,F,Right,1877472000.0,460000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,K. Beerschot V.A.,169260,Jelle Vossen,45946,37,180.0,Belgium,F,Right,1814313600.0,93000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,K. Beerschot V.A.,169260,Siviwe Magidigidi,1822941,21,182.0,South Africa,F,Right,1877472000.0,285000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,K. Beerschot V.A.,169260,Arnold Vula,1803258,27,187.0,DR Congo,F,Right,1814313600.0,620000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,K. Beerschot V.A.,169260,D'Margio Wright-Phillips,1018367,24,170.0,Grenada,F,Right,1814313600.0,370000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,K. Beerschot V.A.,169260,Ensar Brahić,1481739,22,193.0,Serbia,F,Right,1814313600.0,135000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,K. Beerschot V.A.,169260,Kindo Suma,2666333,18,,Belgium,F,Right,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,K. Beerschot V.A.,169260,Genki Haraguchi,48243,35,177.0,Japan,M,Right,1814313600.0,280000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,K. Beerschot V.A.,169260,Emre Uzun,1212159,21,177.0,Türkiye,M,Left,1814313600.0,290000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,K. Beerschot V.A.,169260,Keryane Mansouri,1606007,20,172.0,Algeria,M,Right,1814313600.0,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,K. Beerschot V.A.,169260,Nilton Varela,998414,25,182.0,Portugal,M,Left,1845936000.0,775000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,K. Beerschot V.A.,169260,Axl Van Himbeeck,1400309,21,185.0,Belgium,M,Right,1845936000.0,310000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,K. Beerschot V.A.,169260,Oscar Vargas,1897378,20,,Spain,M,Right,1814313600.0,270000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,K. Beerschot V.A.,169260,Lukas Van Eenoo,45880,35,175.0,Belgium,M,Left,1814313600.0,210000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,K. Beerschot V.A.,169260,Glenn Claes,144168,32,179.0,Belgium,M,Left,1814313600.0,210000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,K. Beerschot V.A.,169260,Xander Joosen,1913352,20,185.0,Belgium,M,Right,1814313600.0,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,K. Beerschot V.A.,169260,Abian Arslan,1512259,21,,Belgium,M,Left,1845936000.0,145000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,K. Beerschot V.A.,169260,Thiago Lugano,1870415,19,182.0,Uruguay,M,Left,1814313600.0,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,K. Beerschot V.A.,169260,Rayhan El Grafel,1655490,19,,Belgium,M,,,94000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,K. Beerschot V.A.,169260,Lenny Danino,2666049,16,,Belgium,M,,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,K. Beerschot V.A.,169260,Bas Van den Eynden,1048359,24,190.0,Belgium,D,Right,1845936000.0,870000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,K. Beerschot V.A.,169260,Dennis Gyamfi,991607,24,183.0,Ghana,D,Right,,180000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,K. Beerschot V.A.,169260,Brian Plat,980673,26,191.0,Netherlands,D,Right,1814313600.0,725000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,K. Beerschot V.A.,169260,Sem Audoor,1142676,22,177.0,Belgium,D,Left,1877472000.0,320000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,K. Beerschot V.A.,169260,Edisson Jordanov,129922,33,172.0,Bulgaria,D,Right,1814313600.0,275000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,K. Beerschot V.A.,169260,Milan Govaers,1427490,22,187.0,Belgium,D,Right,1814313600.0,27000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,K. Beerschot V.A.,169260,Jordan Bustin,1101657,27,185.0,Belgium,D,Right,1845936000.0,360000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,K. Beerschot V.A.,169260,Nick Shinton,909962,25,196.0,Belgium,G,Left,1814313600.0,825000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,K. Beerschot V.A.,169260,Brent Stevens,1138934,22,187.0,Belgium,G,Right,1877472000.0,97000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,K. Beerschot V.A.,169260,William Popp,798293,31,192.0,Japan,G,Right,1814313600.0,240000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,Pro League,38,61459,K. Beerschot V.A.,169260,Xavier Gies,788168,29,182.0,Belgium,G,Right,1814313600.0,215000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,RC Sporting Charleroi,2898,Adama Bojang,1471504,22,191.0,Gambia,F,Right,1814313600.0,1200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,RC Sporting Charleroi,2898,Antoine Colassin,909965,25,188.0,Belgium,F,Right,1845936000.0,545000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,RC Sporting Charleroi,2898,Aurélien Scheidler,915567,28,192.0,France,F,Right,1845936000.0,1900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,RC Sporting Charleroi,2898,Severin Nioule,1518093,21,175.0,Côte d'Ivoire,F,,1877472000.0,465000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,RC Sporting Charleroi,2898,Freddy Mbemba,1397883,23,175.0,France,F,Right,1845936000.0,580000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,RC Sporting Charleroi,2898,Yassine Khalifi,1126852,21,175.0,Morocco,M,Right,1814313600.0,1300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,RC Sporting Charleroi,2898,Parfait Guiagon,1030459,25,169.0,Côte d'Ivoire,M,Right,1845936000.0,4500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,RC Sporting Charleroi,2898,Amine Boukamir,1469056,19,172.0,Morocco,M,Right,1814313600.0,535000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,RC Sporting Charleroi,2898,Jakob Napoleon Romsaas,1198306,22,187.0,Norway,M,Right,1814313600.0,1100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,RC Sporting Charleroi,2898,Patrick Pflücke,281283,29,170.0,Germany,M,Left,1814313600.0,2000000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,RC Sporting Charleroi,2898,Antoine Bernier,834261,28,170.0,Belgium,M,Right,1845936000.0,1600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,RC Sporting Charleroi,2898,Isaac Ismaël Cissé,1499869,19,175.0,Côte d'Ivoire,M,,,230000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,RC Sporting Charleroi,2898,Boubakar Dembaga,1919319,20,191.0,Mali,M,Right,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,RC Sporting Charleroi,2898,Mory Kera,1995006,18,,Belgium,M,,1814313600.0,145000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,RC Sporting Charleroi,2898,Yoann Cissé,1897486,21,,France,M,,,210000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,RC Sporting Charleroi,2898,Kevin Van Den Kerkhof,1130602,30,190.0,Algeria,D,Right,1845936000.0,1600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,RC Sporting Charleroi,2898,Aiham Ousou,965265,26,186.0,Syria,D,Right,1845936000.0,2800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,RC Sporting Charleroi,2898,Cheick Keita,1407973,23,185.0,Mali,D,Right,1814313600.0,3800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,RC Sporting Charleroi,2898,Mardochee Nzita,990726,26,178.0,Belgium,D,Left,1845936000.0,1400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,RC Sporting Charleroi,2898,Massamba Sow,1898323,22,180.0,France,D,Right,1814313600.0,365000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,RC Sporting Charleroi,2898,Noah Solheid,1388247,23,191.0,Belgium,D,Right,1877472000.0,370000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,RC Sporting Charleroi,2898,Naël Piron,2636509,17,,Belgium,D,,1845936000.0,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,RC Sporting Charleroi,2898,Mohamed Koné,1131009,24,186.0,Côte d'Ivoire,G,Right,1814313600.0,2100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,RC Sporting Charleroi,2898,Martin Delavallée,1141106,22,185.0,Belgium,G,Right,1814313600.0,1500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,RC Sporting Charleroi,2898,Arthur Cremer,1396237,25,190.0,Belgium,G,,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KVC Westerlo,2893,Norman Bassette,1137328,21,186.0,Belgium,F,Left,1814313600.0,1500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KVC Westerlo,2893,Afonso Patrao,1586655,19,182.0,Portugal,F,Right,1909008000.0,1600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KVC Westerlo,2893,Naoufal Bohamdi-Kamoni,2124293,18,,Morocco,F,Right,1877472000.0,470000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KVC Westerlo,2893,David Amegnaglo,1864715,21,186.0,Germany,F,Right,1909008000.0,185000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KVC Westerlo,2893,Karol Borys,1149852,19,174.0,Poland,M,Left,1814313600.0,645000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KVC Westerlo,2893,Cisse Sandra,1004449,22,183.0,Belgium,M,Left,1909008000.0,2100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KVC Westerlo,2893,Reda Laalaoui,1465411,21,190.0,Morocco,M,Right,1877472000.0,485000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KVC Westerlo,2893,Isa Sakamoto,1126245,22,174.0,Japan,M,Right,1845936000.0,3800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KVC Westerlo,2893,Doğucan Haspolat,846087,26,177.0,Türkiye,M,Right,1814313600.0,5200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KVC Westerlo,2893,Shunsuke Saito,1869028,21,174.0,Japan,M,Right,1877472000.0,1300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KVC Westerlo,2893,Serhiy Sydorchuk,81202,35,189.0,Ukraine,M,Right,1814313600.0,240000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KVC Westerlo,2893,Ibrahim Fofana,1392802,22,178.0,Côte d'Ivoire,M,Right,1909008000.0,3200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KVC Westerlo,2893,Thomas Van den Keybus,997164,25,179.0,Belgium,M,Left,1814313600.0,680000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KVC Westerlo,2893,Cameron Congreve,1189294,22,180.0,Wales,M,Left,1909008000.0,470000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KVC Westerlo,2893,Philippe Bibout,2683223,20,,Cameroon,M,,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KVC Westerlo,2893,Seiji Kimura,939399,24,186.0,Japan,D,Right,1877472000.0,1600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KVC Westerlo,2893,Reno Münz,1403004,20,189.0,Germany,D,Left,1909008000.0,1700000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KVC Westerlo,2893,Amando Lapage,1396102,21,187.0,Belgium,D,Right,1877472000.0,840000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KVC Westerlo,2893,Lucas Mbamba,1474426,19,,Belgium,D,,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KVC Westerlo,2893,Michée Ndembi,1831385,19,187.0,Belgium,D,Right,1877472000.0,270000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KVC Westerlo,2893,Fabio Ferraro,1145225,23,180.0,Belgium,D,Right,1877472000.0,1200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KVC Westerlo,2893,Lasse Flø,1496001,20,186.0,Denmark,D,Right,1909008000.0,825000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KVC Westerlo,2893,Dylan Ourega,1970815,21,183.0,France,D,Left,1909008000.0,1100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KVC Westerlo,2893,Andreas Jungdal,963038,24,195.0,Denmark,G,Right,1845936000.0,3800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KVC Westerlo,2893,Jahnilo Wiegel,1801304,21,195.0,Suriname,G,Right,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KVC Westerlo,2893,Bill Lathouwers,943249,26,191.0,Belgium,G,Left,1909008000.0,670000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KV Mechelen,5044,Myron Van Brederode,1012925,23,172.0,Netherlands,F,Right,1877472000.0,4900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KV Mechelen,5044,Benito Raman,94300,31,172.0,Belgium,F,Right,1814313600.0,755000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KV Mechelen,5044,Keano Vanrafelghem,1010237,23,171.0,Belgium,F,Right,1877472000.0,1500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KV Mechelen,5044,Bill Antonio,1158921,23,177.0,Zimbabwe,F,Right,1814313600.0,1100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KV Mechelen,5044,Bilal Bafdili,1445119,22,180.0,Belgium,F,Right,1814313600.0,935000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KV Mechelen,5044,Maxim Kireev,1409866,22,182.0,Belarus,F,Right,1877472000.0,730000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KV Mechelen,5044,Bouke Boersma,2041882,21,,Netherlands,F,Right,1877472000.0,2400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KV Mechelen,5044,Halil Özdemir,1195764,20,177.0,Türkiye,F,Right,1814313600.0,410000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KV Mechelen,5044,Moncef Zekri,1931586,17,171.0,Morocco,M,Left,1845936000.0,3900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KV Mechelen,5044,Dennis Praet,135647,32,181.0,Belgium,M,Right,1845936000.0,1600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KV Mechelen,5044,Amine Ouahabi,2084603,18,185.0,Morocco,M,Right,1845936000.0,97000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KV Mechelen,5044,Noah Makanza,1972918,21,175.0,DR Congo,M,Right,1814313600.0,485000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KV Mechelen,5044,Thérence Koudou,1392080,21,178.0,France,M,Right,1877472000.0,4300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KV Mechelen,5044,Fredrik Hammar,946959,25,181.0,Sweden,M,Right,1845936000.0,3100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KV Mechelen,5044,Dikeni Salifou,1166767,23,191.0,Togo,M,Right,1845936000.0,1100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KV Mechelen,5044,Ryan Teague,1002317,24,182.0,Australia,M,Left,1845936000.0,570000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KV Mechelen,5044,Cedric Jan Van Meirvenne,1563509,21,,Belgium,M,Right,1909008000.0,410000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KV Mechelen,5044,José Marsà,962625,24,181.0,Spain,D,Left,1814313600.0,3400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KV Mechelen,5044,Kobe Corbanie,1463869,21,187.0,Belgium,D,Right,,930000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KV Mechelen,5044,Tommy St Jago,876232,26,186.0,Curacao,D,Right,1845936000.0,1900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KV Mechelen,5044,Lovro Golič,1215063,20,195.0,Slovenia,D,Right,1877472000.0,310000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KV Mechelen,5044,Gora Diouf,1407164,22,185.0,Senegal,D,Left,1845936000.0,1400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KV Mechelen,5044,Ian Struyf,2192147,18,191.0,Belgium,D,Left,1845936000.0,375000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KV Mechelen,5044,Massimo Decoene,1391861,22,183.0,Belgium,D,Right,1814313600.0,415000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KV Mechelen,5044,Ortwin De Wolf,877292,30,190.0,Belgium,G,Left,1814313600.0,470000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KV Mechelen,5044,Nacho Miras,1010556,29,187.0,Spain,G,Right,1877472000.0,3600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KV Mechelen,5044,Tijn Van Ingelgom,1547695,19,194.0,Belgium,G,Right,1814313600.0,97000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,KV Mechelen,5044,Axel Willockx,2127057,19,189.0,Belgium,G,Right,1814313600.0,52000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,FCV Dender,389232,David Toshevski,1021398,25,185.0,North Macedonia,F,Right,1814313600.0,570000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,FCV Dender,389232,Mohamed Berte,1122525,24,175.0,Belgium,F,Right,1814313600.0,605000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,FCV Dender,389232,Kembo Diliwidi,1545389,20,180.0,France,F,Right,,245000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,FCV Dender,389232,Emmanuel Mballa,1465068,27,202.0,France,F,Right,1845936000.0,52000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,FCV Dender,389232,Nail Moutha-Sebtaoui,1502944,20,177.0,Morocco,M,Left,1845936000.0,320000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,FCV Dender,389232,David Hrnčár,924664,28,186.0,Slovakia,M,Right,1814313600.0,515000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,FCV Dender,389232,Adam Nhaili,1510029,21,174.0,Belgium,M,Right,1814313600.0,140000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,FCV Dender,389232,Krzysztof Koton,1512869,23,172.0,Poland,M,Right,1845936000.0,270000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,FCV Dender,389232,Malcolm Viltard,1092285,23,176.0,France,M,Right,1814313600.0,1500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,FCV Dender,389232,Oskar Szulc,2257605,19,186.0,Poland,M,Right,1877472000.0,340000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,FCV Dender,389232,Pjotr Kestens,1046959,24,187.0,Belgium,M,Left,,310000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,FCV Dender,389232,Nathan Rodes,882003,28,191.0,Belgium,M,Right,1814313600.0,645000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,FCV Dender,389232,Amine Daali,2236318,22,178.0,Belgium,M,Both,1814313600.0,195000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,FCV Dender,389232,Luc Marijnissen,1086107,23,190.0,Netherlands,D,Right,1845936000.0,1500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,FCV Dender,389232,Pedro Gomes,1393993,23,185.0,Portugal,D,Right,1845936000.0,140000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,FCV Dender,389232,Junior Marsoni Sambu Mansoni​,874855,30,185.0,Belgium,D,Right,1814313600.0,720000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,FCV Dender,389232,Kobe Cools,793987,29,192.0,Belgium,D,Right,1814313600.0,580000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,FCV Dender,389232,Bo De Kerf,2034332,22,190.0,Belgium,D,Right,1877472000.0,655000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,FCV Dender,389232,Elnora Lembi,2307624,20,,Belgium,D,,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,FCV Dender,389232,Louis Fortin,1082353,24,188.0,Belgium,G,,1814313600.0,110000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,FCV Dender,389232,Julien Devriendt,857141,27,189.0,Belgium,G,Right,1845936000.0,385000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Standard Liège,2901,Dennis Eckert Ayensa,812797,29,181.0,Iran,F,Right,1845936000.0,1900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Standard Liège,2901,Thomas Henry,795541,31,191.0,France,F,Right,1814313600.0,545000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Standard Liège,2901,Timothé Nkada,981053,27,177.0,France,F,Right,1845936000.0,1800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Standard Liège,2901,Bruny Nsimba,1047536,26,181.0,Belgium,F,Right,1877472000.0,2400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Standard Liège,2901,Bernard Nguene,2017474,20,180.0,Cameroon,F,Right,1845936000.0,905000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Standard Liège,2901,Grejohn Kyei,581146,30,187.0,France,F,Right,1814313600.0,290000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Standard Liège,2901,Marco Ilaimaharitra,358198,31,178.0,Madagascar,M,Right,1814313600.0,760000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Standard Liège,2901,Mo El Hankouri,845199,29,176.0,Morocco,M,Right,1814313600.0,1100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Standard Liège,2901,Casper Nielsen,247471,32,182.0,Denmark,M,Right,1845936000.0,1400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Standard Liège,2901,Rayan Touzghar,1444639,22,180.0,Morocco,M,Left,1877472000.0,1900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Standard Liège,2901,Salieu Drammeh,1398154,23,175.0,Gambia,M,Right,1877472000.0,1100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Standard Liège,2901,Adnane Abid,1127801,22,161.0,Belgium,M,Right,1877472000.0,2300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Standard Liège,2901,Laurens Goemaere,1474721,20,179.0,Belgium,M,Right,1909008000.0,620000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Standard Liège,2901,Ibrahim Karamoko,966263,25,187.0,France,M,Right,1909008000.0,2900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Standard Liège,2901,Tobias Mohr,237048,30,183.0,Germany,M,Left,1845936000.0,825000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Standard Liège,2901,Alexis Trouillet,988732,25,175.0,France,M,Left,1845936000.0,875000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Standard Liège,2901,Charli Spoden,2419385,18,184.0,Belgium,M,Right,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Standard Liège,2901,Boško Šutalo,942992,26,188.0,Croatia,D,Right,1877472000.0,2100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Standard Liège,2901,Marlon Fossey,880762,27,180.0,USA,D,Right,1814313600.0,3400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Standard Liège,2901,Josué Homawoo,976070,28,191.0,Togo,D,Left,1814313600.0,1900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Standard Liège,2901,Daan Dierckx,1099368,23,192.0,Belgium,D,Right,1845936000.0,1500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Standard Liège,2901,Ibe Hautekiet,964757,24,188.0,Belgium,D,Right,1877472000.0,3700000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Standard Liège,2901,Dimitri Lavalėe,857458,29,187.0,Belgium,D,Left,1845936000.0,1500000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Standard Liège,2901,Henry Lawrence,976265,24,171.0,England,D,Right,1877472000.0,3900000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Standard Liège,2901,Gustav Mortensen,1083365,22,175.0,Denmark,D,Left,1909008000.0,3200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Standard Liège,2901,Matthieu Epolo,1121943,21,189.0,DR Congo,G,Right,1877472000.0,7200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Standard Liège,2901,Belmin Dizdarević,983676,25,189.0,Bosnia & Herzegovina,G,Right,1814313600.0,110000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Standard Liège,2901,Lucas Pirard,190379,31,191.0,Belgium,G,Right,1845936000.0,340000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Oud-Heverlee Leuven,2918,Abdoul Karim Traoré,2033824,19,178.0,Guinea,F,Right,1845936000.0,1000000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Oud-Heverlee Leuven,2918,Shin Yamada,1382299,26,175.0,Japan,F,Right,1814313600.0,775000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Oud-Heverlee Leuven,2918,Chukwubuikem Ikwuemesi,1143547,25,195.0,Nigeria,F,Right,1814313600.0,1100000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Oud-Heverlee Leuven,2918,Kyan Vaesen,997827,25,190.0,Belgium,F,Right,1877472000.0,720000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Oud-Heverlee Leuven,2918,Emmanuel Addai,1398529,25,173.0,Ghana,M,Both,1877472000.0,1200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Oud-Heverlee Leuven,2918,Łukasz Łakomy,1001201,25,181.0,Poland,M,Left,1877472000.0,1800000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Oud-Heverlee Leuven,2918,William Balikwisha,943881,27,174.0,DR Congo,M,Right,1845936000.0,310000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Oud-Heverlee Leuven,2918,Siebe Schrijvers,190413,30,178.0,Belgium,M,Right,1814313600.0,1400000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Oud-Heverlee Leuven,2918,Henok Teklab,940558,27,174.0,Eritrea,M,Right,1814313600.0,880000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Oud-Heverlee Leuven,2918,Thibaud Verlinden,826172,27,173.0,Belgium,M,Right,1845936000.0,1300000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Oud-Heverlee Leuven,2918,Birger Verstraete,192268,32,171.0,Belgium,M,Right,1814313600.0,860000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Oud-Heverlee Leuven,2918,Óscar Gil,959820,28,175.0,Spain,M,Both,,775000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Oud-Heverlee Leuven,2918,Bryang Kayo,1002383,24,185.0,USA,M,Right,1845936000.0,330000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Oud-Heverlee Leuven,2918,Manuel Osifo,1122524,23,182.0,Belgium,M,Right,1814313600.0,380000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Oud-Heverlee Leuven,2918,Wouter George,983027,24,172.0,Belgium,M,Right,1845936000.0,665000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Oud-Heverlee Leuven,2918,Takuya Ogiwara,925904,26,175.0,Japan,D,Left,1814313600.0,640000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Oud-Heverlee Leuven,2918,Roggerio Nyakossi,1129502,22,194.0,Switzerland,D,Right,1814313600.0,5200000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Oud-Heverlee Leuven,2918,Jamie Lawrence,997206,23,200.0,Germany,D,Right,1877472000.0,640000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Oud-Heverlee Leuven,2918,Ewoud Pletinckx,949101,25,190.0,Belgium,D,Right,1877472000.0,1700000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Oud-Heverlee Leuven,2918,Davis Opoku,1860321,18,180.0,Belgium,D,Right,1845936000.0,775000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Oud-Heverlee Leuven,2918,Viktor Damjanić,1157903,20,197.0,Croatia,D,Left,1845936000.0,315000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Oud-Heverlee Leuven,2918,Noë Dussenne,115569,34,191.0,Belgium,D,Right,1845936000.0,310000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Oud-Heverlee Leuven,2918,Thibault Vlietinck,823046,28,178.0,Belgium,D,Right,1845936000.0,435000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Oud-Heverlee Leuven,2918,Christ Souanga,1835475,19,186.0,Belgium,D,Left,1814313600.0,290000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Oud-Heverlee Leuven,2918,Dani van den Heuvel,1049432,23,184.0,Netherlands,G,Right,1877472000.0,775000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Oud-Heverlee Leuven,2918,Tobe Leysen,996979,24,187.0,Belgium,G,Left,1814313600.0,4600000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Oud-Heverlee Leuven,2918,Owen Jochmans,1085907,23,185.0,Belgium,G,Right,1814313600.0,160000.0,EUR,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756
+Belgium,"Pro League, Conference League Playoffs",38,61459,Oud-Heverlee Leuven,2918,Marcel Van Dijck,2562418,17,,Belgium,G,Right,,,,BEL,2024-2025,datafc_sofascore,2026-08-09T07:54:22.177756

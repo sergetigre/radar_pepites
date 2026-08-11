@@ -1,0 +1,49 @@
+2026-08-09 09:27:26,876 [INFO] =================================================================
+2026-08-09 09:27:26,876 [INFO]   RadarPepites - Scraping fbref Playwright -> Bronze
+2026-08-09 09:27:26,877 [INFO] =================================================================
+2026-08-09 09:27:26,877 [INFO]   Ligues  : ['POR', 'NED', 'BEL', 'TUR', 'AUT']
+2026-08-09 09:27:26,877 [INFO]   Saisons : ['2023-2024', '2024-2025', '2025-2026']
+2026-08-09 09:27:26,878 [INFO]   Stats   : ['passing', 'passing_types', 'goal_shot_creation', 'defense', 'possession']
+2026-08-09 09:27:26,878 [INFO]   Total   : 75 pages à scraper
+2026-08-09 09:27:26,878 [INFO]   Durée   : ~12 minutes
+2026-08-09 09:27:26,885 [INFO] =================================================================
+2026-08-09 09:28:00,750 [INFO] Initialisation de la session fbref...
+2026-08-09 09:28:03,953 [INFO] Session fbref établie
+2026-08-09 09:28:03,954 [INFO] [1/75] Primeira Liga | 2023-2024 | passing
+2026-08-09 09:28:03,954 [INFO]     URL : https://fbref.com/en/comps/32/2023-2024/passing/2023-2024-Primeira-Liga-Stats
+2026-08-09 09:28:12,702 [WARNING]     Cloudflare détecté — attente 20s...
+2026-08-09 09:28:32,724 [WARNING]     Table 'stats_passing' introuvable dans la page
+2026-08-09 09:28:32,724 [WARNING]   -> Echec : POR_2023-2024_passing
+2026-08-09 09:28:32,725 [INFO]   -> Pause 5s...
+2026-08-09 09:28:37,726 [INFO] [2/75] Primeira Liga | 2023-2024 | passing_types
+2026-08-09 09:28:37,726 [INFO]     URL : https://fbref.com/en/comps/32/2023-2024/passing_types/2023-2024-Primeira-Liga-Stats
+2026-08-09 09:28:40,895 [WARNING]     Cloudflare détecté — attente 20s...
+2026-08-09 09:29:00,914 [WARNING]     Table 'stats_passing_types' introuvable dans la page
+2026-08-09 09:29:00,916 [WARNING]   -> Echec : POR_2023-2024_passing_types
+2026-08-09 09:29:00,916 [INFO]   -> Pause 5s...
+2026-08-09 09:29:05,917 [INFO] [3/75] Primeira Liga | 2023-2024 | goal_shot_creation
+2026-08-09 09:29:05,919 [INFO]     URL : https://fbref.com/en/comps/32/2023-2024/goal_shot_creation/2023-2024-Primeira-Liga-Stats
+2026-08-09 09:29:09,069 [WARNING]     Cloudflare détecté — attente 20s...
+2026-08-09 09:29:29,087 [WARNING]     Table 'stats_gca' introuvable dans la page
+2026-08-09 09:29:29,088 [WARNING]   -> Echec : POR_2023-2024_goal_shot_creation
+2026-08-09 09:29:29,090 [INFO]   -> Pause 5s...
+2026-08-09 09:29:34,093 [INFO] [4/75] Primeira Liga | 2023-2024 | defense
+2026-08-09 09:29:34,093 [INFO]     URL : https://fbref.com/en/comps/32/2023-2024/defense/2023-2024-Primeira-Liga-Stats
+2026-08-09 09:29:37,230 [WARNING]     Cloudflare détecté — attente 20s...
+2026-08-09 09:29:57,252 [WARNING]     Table 'stats_defense' introuvable dans la page
+2026-08-09 09:29:57,252 [WARNING]   -> Echec : POR_2023-2024_defense
+2026-08-09 09:29:57,253 [INFO]   -> Pause 5s...
+2026-08-09 09:30:02,254 [INFO] [5/75] Primeira Liga | 2023-2024 | possession
+2026-08-09 09:30:02,255 [INFO]     URL : https://fbref.com/en/comps/32/2023-2024/possession/2023-2024-Primeira-Liga-Stats
+2026-08-09 09:30:05,509 [WARNING]     Cloudflare détecté — attente 20s...
+2026-08-09 09:30:25,530 [WARNING]     Table 'stats_possession' introuvable dans la page
+2026-08-09 09:30:25,531 [WARNING]   -> Echec : POR_2023-2024_possession
+2026-08-09 09:30:25,534 [INFO]   -> Pause 5s...
+2026-08-09 09:30:30,536 [INFO] [6/75] Primeira Liga | 2024-2025 | passing
+2026-08-09 09:30:30,538 [INFO]     URL : https://fbref.com/en/comps/32/2024-2025/passing/2024-2025-Primeira-Liga-Stats
+2026-08-09 09:30:33,826 [WARNING]     Cloudflare détecté — attente 20s...
+2026-08-09 09:30:41,891 [ERROR] Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2026-08-09 09:30:41,892 [ERROR] Task was destroyed but it is pending!
+task: <Task cancelling name='Task-37' coro=<Page.wait_for_timeout() done, defined at C:\Users\serge\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\_impl\_page.py:1141> wait_for=<Future finished result=None> cb=[SyncBase._sync.<locals>.<lambda>() at C:\Users\serge\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\_impl\_sync_base.py:111]>

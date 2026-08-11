@@ -1,0 +1,40 @@
+2026-08-10 23:01:43,492 [INFO] =================================================================
+2026-08-10 23:01:43,493 [INFO]   RadarPepites - Scraping Sofascore Gardiens -> Bronze
+2026-08-10 23:01:43,495 [INFO] =================================================================
+2026-08-10 23:01:43,496 [INFO]   Ligues  : ['ENG', 'ESP', 'GER', 'ITA', 'FRA', 'POR', 'NED', 'BEL', 'TUR', 'AUT']
+2026-08-10 23:01:43,497 [INFO]   Saisons : ['2023-2024', '2024-2025', '2025-2026']
+2026-08-10 23:01:43,499 [INFO]   Stats   : ['saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-10 23:01:43,509 [INFO]   Filtre  : position=G (gardiens uniquement)
+2026-08-10 23:01:43,511 [INFO]   Total   : 30 combinaisons ligue x saison
+2026-08-10 23:01:43,512 [INFO] =================================================================
+2026-08-10 23:01:43,515 [INFO] [1/30] Premier League | 2023-2024
+2026-08-10 23:01:43,516 [INFO]     season_id=52186 (23/24)
+2026-08-10 23:01:43,658 [INFO]     saves → 40 gardiens
+2026-08-10 23:01:46,831 [INFO]     goalsPrevented → 40 gardiens
+2026-08-10 23:01:49,993 [INFO]     rating → 40 gardiens
+2026-08-10 23:01:53,140 [INFO]     minutesPlayed → 40 gardiens
+2026-08-10 23:01:56,269 [INFO]     appearances → 40 gardiens
+2026-08-10 23:01:59,389 [INFO]     accuratePasses → 40 gardiens
+2026-08-10 23:02:02,572 [INFO]     accurateLongBalls → 40 gardiens
+2026-08-10 23:02:05,715 [INFO]     accurateLongBallsPercentage → 40 gardiens
+2026-08-10 23:02:08,863 [INFO]     yellowCards → 40 gardiens
+2026-08-10 23:02:12,007 [INFO]     redCards → 40 gardiens
+2026-08-10 23:02:15,051 [INFO]   -> 400 lignes -> 20260810_230215_ENG_2023_2024_keeper_sofascore.csv
+2026-08-10 23:02:18,055 [INFO] [2/30] Premier League | 2024-2025
+2026-08-10 23:02:18,057 [INFO]     season_id=61627 (24/25)
+2026-08-10 23:02:18,223 [INFO]     saves → 44 gardiens
+2026-08-10 23:02:21,387 [INFO]     goalsPrevented → 44 gardiens
+2026-08-10 23:02:24,524 [INFO]     rating → 44 gardiens
+2026-08-10 23:02:27,677 [INFO]     minutesPlayed → 44 gardiens
+2026-08-10 23:02:30,872 [INFO]     appearances → 44 gardiens
+2026-08-10 23:02:34,017 [INFO]     accuratePasses → 44 gardiens
+2026-08-10 23:02:37,185 [INFO]     accurateLongBalls → 44 gardiens
+2026-08-10 23:02:40,347 [INFO]     accurateLongBallsPercentage → 44 gardiens
+2026-08-10 23:02:43,487 [INFO]     yellowCards → 44 gardiens
+2026-08-10 23:02:46,610 [INFO]     redCards → 44 gardiens
+2026-08-10 23:02:49,645 [INFO]   -> 440 lignes -> 20260810_230249_ENG_2024_2025_keeper_sofascore.csv
+2026-08-10 23:02:52,648 [INFO] [3/30] Premier League | 2025-2026
+2026-08-10 23:02:52,649 [INFO]     season_id=76986 (25/26)
+2026-08-10 23:02:52,800 [INFO]     saves → 40 gardiens
+2026-08-10 23:02:55,940 [INFO]     goalsPrevented → 40 gardiens
+2026-08-10 23:02:59,079 [INFO]     rating → 40 gardiens

@@ -1,0 +1,55 @@
+﻿country,tournament,tournament_id,season_id,team_name,team_id,position,matches,wins,draws,losses,scores_for,scores_against,points,category,_league_id,_season,_source,_scraped_at
+Netherlands,VriendenLoterij Eredivisie,37,61666,PSV Eindhoven,2952,1,34,25,4,5,103,39,79,Total,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,AFC Ajax,2953,2,34,24,6,4,67,32,78,Total,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,Feyenoord,2959,3,34,20,8,6,76,38,68,Total,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,FC Utrecht,2948,4,34,18,10,6,62,45,64,Total,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,AZ Alkmaar,2950,5,34,16,9,9,58,37,57,Total,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,FC Twente,2955,6,34,15,9,10,62,49,54,Total,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,Go Ahead Eagles,2979,7,34,14,9,11,57,55,51,Total,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,NEC Nijmegen,2962,8,34,12,7,15,51,46,43,Total,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,SC Heerenveen,2964,9,34,12,7,15,42,57,43,Total,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,PEC Zwolle,2971,10,34,10,11,13,43,51,41,Total,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,Fortuna Sittard,2957,11,34,11,8,15,37,54,41,Total,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,Sparta Rotterdam,2960,12,34,9,12,13,39,43,39,Total,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,FC Groningen,2951,13,34,10,9,15,40,53,39,Total,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,Heracles Almelo,2977,14,34,9,11,14,42,63,38,Total,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,NAC Breda,2947,15,34,8,9,17,34,58,33,Total,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,Willem II Tilburg,2961,16,34,6,8,20,34,56,26,Total,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,RKC Waalwijk,2956,17,34,6,7,21,44,74,25,Total,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,Almere City FC,2990,18,34,4,10,20,23,64,22,Total,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,PSV Eindhoven,2952,1,17,13,3,1,55,15,42,Home,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,AFC Ajax,2953,2,17,13,3,1,38,14,42,Home,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,Feyenoord,2959,3,17,11,3,3,38,18,36,Home,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,SC Heerenveen,2964,4,17,10,6,1,30,15,36,Home,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,FC Twente,2955,5,17,10,4,3,36,21,34,Home,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,Go Ahead Eagles,2979,6,17,10,4,3,32,22,34,Home,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,FC Groningen,2951,7,17,8,6,3,27,14,30,Home,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,FC Utrecht,2948,8,17,9,3,5,28,24,30,Home,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,AZ Alkmaar,2950,9,17,8,4,5,30,17,28,Home,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,PEC Zwolle,2971,10,17,7,4,6,24,20,25,Home,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,Heracles Almelo,2977,11,17,6,7,4,29,27,25,Home,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,Fortuna Sittard,2957,12,17,8,1,8,17,24,25,Home,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,NEC Nijmegen,2962,13,17,6,6,5,36,24,24,Home,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,NAC Breda,2947,14,17,6,6,5,21,22,24,Home,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,Sparta Rotterdam,2960,15,17,4,6,7,20,24,18,Home,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,RKC Waalwijk,2956,16,17,5,3,9,25,31,18,Home,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,Willem II Tilburg,2961,17,17,3,3,11,20,27,12,Home,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,Almere City FC,2990,18,17,2,5,10,13,36,11,Home,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,PSV Eindhoven,2952,1,17,12,1,4,48,24,37,Away,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,AFC Ajax,2953,2,17,11,3,3,29,18,36,Away,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,FC Utrecht,2948,3,17,9,7,1,34,21,34,Away,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,Feyenoord,2959,4,17,9,5,3,38,20,32,Away,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,AZ Alkmaar,2950,5,17,8,5,4,28,20,29,Away,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,Sparta Rotterdam,2960,6,17,5,6,6,19,19,21,Away,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,FC Twente,2955,7,17,5,5,7,26,28,20,Away,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,NEC Nijmegen,2962,8,17,6,1,10,15,22,19,Away,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,Go Ahead Eagles,2979,9,17,4,5,8,25,33,17,Away,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,Fortuna Sittard,2957,10,17,3,7,7,20,30,16,Away,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,PEC Zwolle,2971,11,17,3,7,7,19,31,16,Away,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,Willem II Tilburg,2961,12,17,3,5,9,14,29,14,Away,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,Heracles Almelo,2977,13,17,3,4,10,13,36,13,Away,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,Almere City FC,2990,14,17,2,5,10,10,28,11,Away,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,NAC Breda,2947,15,17,2,3,12,13,36,9,Away,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,FC Groningen,2951,16,17,2,3,12,13,39,9,Away,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,RKC Waalwijk,2956,17,17,1,4,12,19,43,7,Away,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214
+Netherlands,VriendenLoterij Eredivisie,37,61666,SC Heerenveen,2964,18,17,2,1,14,12,42,7,Away,NED,2024-2025,datafc_sofascore,2026-08-09T08:49:55.203214

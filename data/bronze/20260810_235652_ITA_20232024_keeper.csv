@@ -1,0 +1,52 @@
+﻿league,season,team,player,nation,pos,age,born,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_GA,Performance_GA90,Performance_SoTA,Performance_Saves,Performance_Save%,Performance_W,Performance_D,Performance_L,Performance_CS,Performance_CS%,Penalty Kicks_PKatt,Penalty Kicks_PKA,Penalty Kicks_PKsv,Penalty Kicks_PKm,Penalty Kicks_Save%,_league_id,_season,_stat_type,_source,_scraped_at
+ITA-Serie A,2324,Atalanta,Francesco Rossi,ITA,GK,32,1991,1,0,5,0.1,0,0.0,1,1,100.0,0,0,0,1,,0,0,0,0,,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Atalanta,Juan Musso,ARG,GK,29,1994,11,11,990,11.0,12,1.09,35,23,65.7,6,1,4,6,54.5,2,2,0,0,0.0,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Atalanta,Marco Carnesecchi,ITA,GK,23,2000,27,27,2425,26.9,30,1.11,101,76,70.3,15,5,7,8,29.6,7,4,2,1,33.3,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Bologna,Federico Ravaglia,ITA,GK,23,1999,6,6,535,5.9,3,0.5,16,13,81.3,4,1,1,4,66.7,1,0,1,0,100.0,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Bologna,Nicola Bagnolini,ITA,GK,19,2004,1,0,5,0.1,0,0.0,1,1,100.0,0,0,0,0,,0,0,0,0,,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Bologna,Łukasz Skorupski,POL,GK,32,1991,32,32,2880,32.0,29,0.91,105,79,72.4,14,13,5,12,37.5,6,3,1,2,25.0,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Cagliari,Boris Radunović,SRB,GK,27,1996,7,7,630,7.0,12,1.71,28,16,57.1,0,2,5,2,28.6,1,0,0,1,,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Cagliari,Simone Aresti,ITA,GK,37,1986,1,0,1,0.0,1,90.0,1,0,0.0,0,0,0,0,,1,1,0,0,0.0,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Cagliari,Simone Scuffet,ITA,GK,27,1996,31,31,2789,31.0,55,1.77,134,79,59.0,8,10,13,3,9.7,3,3,0,0,0.0,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Empoli,Elia Caprile,ITA,GK,21,2001,23,23,2070,23.0,27,1.17,106,79,74.5,6,6,11,4,17.4,5,4,1,0,20.0,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Empoli,Etrit Berisha,ALB,GK,34,1989,14,14,1260,14.0,25,1.79,74,49,66.2,3,3,8,4,28.6,3,2,1,0,33.3,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Empoli,Samuele Perisan,ITA,GK,25,1997,1,1,90,1.0,2,2.0,5,3,60.0,0,0,1,0,0.0,0,0,0,0,,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Fiorentina,Oliver Christensen,DEN,GK,24,1999,4,4,360,4.0,9,2.25,19,10,52.6,1,1,2,0,0.0,2,2,0,0,0.0,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Fiorentina,Pietro Terracciano,ITA,GK,33,1990,33,33,2970,33.0,35,1.06,126,91,72.2,15,8,10,8,24.2,7,6,1,0,14.3,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Fiorentina,Tommaso Martinelli,ITA,GK,17,2006,1,1,90,1.0,2,2.0,3,1,33.3,1,0,0,0,0.0,0,0,0,0,,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Frosinone,Michele Cerofolini,ITA,GK,24,1999,8,7,675,7.5,11,1.47,29,18,62.1,2,2,3,0,0.0,1,0,0,1,,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Frosinone,Stefano Turati,ITA,GK,21,2001,31,31,2745,30.5,58,1.9,155,97,62.6,6,9,16,4,12.9,7,5,1,1,16.7,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Genoa,Daniele Sommariva,ITA,GK,26,1997,1,0,5,0.1,0,0.0,0,0,,0,0,0,1,,0,0,0,0,,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Genoa,Josep Martinez,ESP,GK,25,1998,36,36,3239,36.0,43,1.19,130,87,66.9,11,13,12,8,22.2,4,3,1,0,25.0,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Genoa,Nicola Leali,ITA,GK,30,1993,3,2,176,2.0,2,1.02,9,7,77.8,1,0,1,1,50.0,0,0,0,0,,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Hellas Verona,Lorenzo Montipò,ITA,GK,27,1996,37,37,3330,37.0,49,1.32,153,105,68.0,9,10,18,8,21.6,2,2,0,0,0.0,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Hellas Verona,Simone Perilli,ITA,GK,28,1995,1,1,90,1.0,2,2.0,10,8,80.0,0,1,0,0,0.0,0,0,0,0,,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Inter,Emil Audero,IDN,GK,26,1997,4,4,337,3.7,3,0.8,11,8,72.7,2,1,1,2,50.0,0,0,0,0,,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Inter,Raffaele Di Gennaro,ITA,GK,29,1993,1,0,23,0.3,0,0.0,4,4,100.0,0,0,0,0,,0,0,0,0,,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Inter,Yann Sommer,SUI,GK,34,1988,34,34,3060,34.0,19,0.56,98,79,80.6,27,6,1,17,50.0,4,2,1,1,33.3,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Juventus,Carlo Pinsoglio,ITA,GK,33,1990,1,0,45,0.5,0,0.0,3,3,100.0,0,0,0,1,,0,0,0,0,,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Juventus,Mattia Perin,ITA,GK,30,1992,3,3,225,2.5,1,0.4,5,4,80.0,2,1,0,2,66.7,0,0,0,0,,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Juventus,Wojciech Szczęsny,POL,GK,33,1990,35,35,3150,35.0,30,0.86,111,81,73.0,17,13,5,14,40.0,3,2,1,0,33.3,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Lazio,Christos Mandas,GRE,GK,21,2001,9,8,721,8.0,6,0.75,29,23,79.3,6,1,1,2,25.0,0,0,0,0,,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Lazio,Ivan Provedel,ITA,GK,29,1994,30,30,2699,30.0,33,1.1,119,86,72.3,12,6,12,9,30.0,3,2,0,1,0.0,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Lecce,Wladimiro Falcone,ITA,GK,28,1995,38,38,3420,38.0,54,1.42,172,121,68.6,8,14,16,5,13.2,6,5,1,0,16.7,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Milan,Antonio Mirante,ITA,GK,40,1983,2,2,177,2.0,3,1.53,8,5,62.5,0,1,1,0,0.0,0,0,0,0,,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Milan,Lapo Nava,ITA,GK,19,2004,1,0,3,0.0,1,30.0,2,1,50.0,0,0,0,0,,0,0,0,0,,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Milan,Marco Sportiello,ITA,GK,31,1992,7,7,630,7.0,11,1.57,34,23,67.6,3,3,1,1,14.3,1,1,0,0,0.0,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Milan,Mike Maignan,FRA,GK,28,1995,29,29,2609,29.0,34,1.17,121,87,71.9,19,5,5,11,37.9,7,7,0,0,0.0,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Monza,Alessandro Sorrentino,ITA,GK,21,2002,7,5,548,6.1,16,2.63,32,16,50.0,0,1,4,0,0.0,4,4,0,0,0.0,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Monza,Michele Di Gregorio,ITA,GK,26,1997,33,33,2872,31.9,35,1.1,155,124,77.4,11,11,11,12,36.4,5,3,2,0,40.0,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Napoli,Alex Meret,ITA,GK,26,1997,31,31,2773,30.8,40,1.3,102,62,60.8,10,13,8,5,16.1,4,2,2,0,50.0,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Napoli,Nikita Contini,ITA,GK,27,1996,1,0,17,0.2,0,0.0,0,0,,0,0,0,1,,0,0,0,0,,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Napoli,Pierluigi Gollini,ITA,GK,28,1995,7,7,630,7.0,8,1.14,24,16,66.7,3,1,3,1,14.3,0,0,0,0,,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Roma,Mile Svilar,SRB,GK,23,1999,15,15,1350,15.0,19,1.27,77,59,75.3,7,4,4,5,33.3,2,1,1,0,50.0,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Roma,Rui Patrício,POR,GK,35,1988,23,23,2070,23.0,27,1.17,76,49,64.5,11,5,7,6,26.1,3,2,0,1,0.0,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Salernitana,Benoît Costil,FRA,GK,36,1987,13,13,1170,13.0,29,2.23,68,39,57.4,2,3,8,1,7.7,3,3,0,0,0.0,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Salernitana,Guillermo Ochoa,MEX,GK,38,1985,21,21,1890,21.0,44,2.1,112,74,60.7,0,6,15,1,4.8,7,7,0,0,0.0,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Salernitana,Vincenzo Fiorillo,ITA,GK,33,1990,4,4,360,4.0,8,2.0,26,18,69.2,0,2,2,0,0.0,0,0,0,0,,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Sassuolo,Alessio Cragno,ITA,GK,29,1994,3,3,270,3.0,7,2.33,15,8,53.3,1,1,1,0,0.0,1,1,0,0,0.0,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Sassuolo,Andrea Consigli,ITA,GK,36,1987,35,35,3150,35.0,68,1.94,163,95,58.3,6,8,21,2,5.7,10,7,1,2,12.5,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Torino,Luca Gemello,ITA,GK,23,2000,2,2,180,2.0,5,2.5,9,4,44.4,0,0,2,0,0.0,1,1,0,0,0.0,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Torino,Vanja Milinković-Savić,SRB,GK,26,1997,36,36,3240,36.0,31,0.86,134,103,76.9,13,14,9,17,47.2,6,6,0,0,0.0,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Udinese,Maduka Okoye,NGA,GK,23,1999,21,21,1890,21.0,25,1.19,90,65,72.2,5,8,8,4,19.0,3,3,0,0,0.0,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52
+ITA-Serie A,2324,Udinese,Marco Silvestri,ITA,GK,32,1991,17,17,1530,17.0,28,1.65,69,41,59.4,1,11,5,4,23.5,6,6,0,0,0.0,ITA,2023-2024,keeper,fbref_soccerdata,2026-08-10 21:56:52

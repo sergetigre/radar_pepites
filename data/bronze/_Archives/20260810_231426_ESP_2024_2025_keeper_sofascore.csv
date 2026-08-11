@@ -1,0 +1,46 @@
+﻿tournament_id,season_id,player_name,player_id,team_name,team_id,saves,goalsPrevented,rating,minutesPlayed,appearances,accuratePasses,accurateLongBalls,accurateLongBallsPercentage,yellowCards,redCards,_league_id,_season,_source,_scraped_at
+8,61643,Joan García,930267,Espanyol,2814,145,7.49,7.39,3420,38,709,232,40.35,2,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Sergio Herrera,294377,Osasuna,2820,132,5.68,7.24,3330,37,733,313,46.17,5,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Marko Dmitrović,94527,Leganés,2845,104,2.75,7.01,2880,32,358,207,26.47,0,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Augusto Batalla,358910,Rayo Vallecano,2818,96,1.43,7.09,2880,32,659,212,35.81,6,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Karl Hein,991591,Real Valladolid,2831,96,-8.2,6.89,2790,31,722,190,38.62,0,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Paulo Gazzaniga,164343,Girona FC,24264,93,-5.39,6.92,3195,36,836,134,37.12,4,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Giorgi Mamardashvili,930997,Valencia,2828,93,-1.48,6.89,3060,34,603,171,33.73,2,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Jasper Cillessen,123865,UD Las Palmas,6577,91,2.58,7.02,2337,27,543,149,32.32,1,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,David Soria,604258,Getafe,2859,90,3.56,7.01,3420,38,447,318,38.5,2,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Álex Remiro,791773,Real Sociedad,2824,88,-5.01,6.97,3240,36,847,227,41.65,0,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Jan Oblak,69768,Atlético Madrid,2836,86,-3.98,7.04,3240,36,583,142,44.24,0,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Dominik Greif,791046,Mallorca,2826,85,1.14,7.09,2790,31,612,221,42.34,1,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Vicente Guaita,32023,Celta Vigo,2821,81,-6.91,6.9,3060,34,604,96,36.64,0,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Thibaut Courtois,70988,Real Madrid,2829,77,1.8,7.11,2700,30,679,83,34.16,1,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Antonio Sivera,369004,Deportivo Alavés,2885,76,0.45,7.02,2812,32,457,310,41.5,6,1,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Ørjan Nyland,22209,Sevilla,2833,74,-0.86,6.78,2674,30,524,142,28.34,2,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Diego Conde,951008,Villarreal,2819,63,-5.55,6.91,1963,22,409,88,44.22,2,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Luiz Júnior,1066603,Villarreal,2819,51,-0.16,7.19,1457,17,263,77,37.38,2,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Adrián,50539,Real Betis,2816,50,-1.2,6.88,1710,19,385,98,41.88,3,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Unai Simón,797291,Athletic Club,2825,48,2.68,7.07,1890,21,368,126,40.0,0,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Leo Román,1131909,Mallorca,2826,40,3.61,7.83,630,7,119,63,38.41,0,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Rui Silva,253809,Real Betis,2816,37,0.34,7.04,1350,15,342,57,34.76,1,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Dinko Horkaš,855922,UD Las Palmas,6577,37,0.27,6.96,1083,13,345,87,41.63,1,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Iñaki Peña,794949,FC Barcelona,2817,36,-1.2,7.0,1395,16,482,44,39.64,1,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Julen Agirrezabala,1014412,Athletic Club,2825,25,1.12,6.94,1207,14,231,69,35.57,1,1,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Wojciech Szczęsny,50490,FC Barcelona,2817,21,0.05,6.91,1350,15,342,34,41.98,0,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Álvaro Fernández,852412,Sevilla,2833,20,-4.95,6.59,746,9,180,52,32.1,2,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,André Ferreira,788197,Real Valladolid,2831,20,-4.18,6.48,540,6,112,37,39.78,0,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Juan Soriano,547246,Leganés,2845,19,1.94,7.03,540,6,78,36,29.27,1,1,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Marc-André Ter Stegen,88625,FC Barcelona,2817,14,-2.16,6.81,675,8,193,27,62.79,0,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Dani Cárdenas,965832,Rayo Vallecano,2818,14,-0.12,6.78,540,6,73,27,24.55,0,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Andriy Lunin,857574,Real Madrid,2829,13,-0.76,7.07,630,7,145,27,51.92,0,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Vladyslav Krapyvtsov,1521733,Girona FC,24264,12,-0.61,6.9,180,2,40,13,46.43,0,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Alex Padilla,1155116,Athletic Club,2825,12,-0.74,6.76,328,5,52,29,35.37,0,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Iván Villar,848980,Celta Vigo,2821,11,-0.13,6.8,360,4,80,5,20.0,0,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Unai Marrero,1094782,Real Sociedad,2824,9,0.89,7.6,180,2,35,9,50.0,0,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Francisco Vieites,929975,Real Betis,2816,7,-0.29,6.83,360,4,60,18,29.51,0,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Jesús Owono,990659,Deportivo Alavés,2885,7,-0.98,6.62,486,6,87,49,43.75,0,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Stole Dimitrievski,97951,Valencia,2828,6,-1.52,6.45,360,4,43,16,20.0,1,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Aitor Fernández,99516,Osasuna,2820,5,1.17,8.4,90,1,25,19,54.29,0,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Adrián Rodríguez,965822,Deportivo Alavés,2885,4,-0.49,6.65,121,2,19,18,36.73,1,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Juan Musso,263651,Atlético Madrid,2836,2,0.1,7.1,180,2,40,3,27.27,0,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Pau López,548848,Girona FC,24264,1,-0.65,6.8,45,1,16,4,40.0,0,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Fran González,1493226,Real Madrid,2829,0,-1.41,6.3,90,1,16,3,75.0,0,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965
+8,61643,Arnau Rafús,1142235,Real Valladolid,2831,0,-1.42,6.0,90,1,28,8,47.06,0,0,ESP,2024-2025,datafc_sofascore_keeper,2026-08-10T23:14:26.152965

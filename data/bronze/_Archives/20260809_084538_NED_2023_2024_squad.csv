@@ -1,0 +1,504 @@
+﻿country,tournament,tournament_id,season_id,team_name,team_id,player_name,player_id,age,height,player_country,position,preferred_foot,contract_until,market_value,market_currency,_league_id,_season,_source,_scraped_at
+Netherlands,VriendenLoterij Eredivisie,37,52554,PSV Eindhoven,2952,Esmir Bajraktarević,1136110,21,175.0,Bosnia & Herzegovina,F,Left,1877472000.0,8199999.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PSV Eindhoven,2952,Ricardo Pepi,986395,23,185.0,USA,F,Right,1909008000.0,31000000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PSV Eindhoven,2952,Couhaib Driouech,1047395,24,175.0,Morocco,F,Left,1877472000.0,7100000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PSV Eindhoven,2952,Ruben van Bommel,1212550,22,191.0,Netherlands,F,Right,1909008000.0,10500000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PSV Eindhoven,2952,Ivan Perišić,38710,37,187.0,Croatia,M,Both,1814313600.0,1200000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PSV Eindhoven,2952,Dennis Man,812145,27,182.0,Romania,M,Left,1877472000.0,15700000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PSV Eindhoven,2952,Filip Kostić,126588,33,184.0,Serbia,M,Left,1845936000.0,1800000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PSV Eindhoven,2952,Paul Wanner,1146018,20,186.0,Austria,M,Left,1909008000.0,23000000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PSV Eindhoven,2952,Joey Veerman,850816,27,185.0,Netherlands,M,Right,1845936000.0,26000000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PSV Eindhoven,2952,Guus Til,845798,28,183.0,Netherlands,M,Right,1845936000.0,15500000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PSV Eindhoven,2952,Kodai Sano,1184054,22,176.0,Japan,M,Right,1940544000.0,12900000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PSV Eindhoven,2952,Alassane Pléa,192308,33,180.0,France,M,Right,1845936000.0,2600000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PSV Eindhoven,2952,Sven Mijnans,980671,26,190.0,Netherlands,M,Left,1940544000.0,16399999.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PSV Eindhoven,2952,Noah Fernandez,1886213,18,170.0,Belgium,M,Left,1909008000.0,3900000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PSV Eindhoven,2952,Isaac Babadi,1120701,21,179.0,Netherlands,M,Right,1845936000.0,1400000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PSV Eindhoven,2952,Amir Bouhamdi,2266990,18,,Morocco,M,,1845936000.0,155000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PSV Eindhoven,2952,Joel Van Den Berg,1540010,19,187.0,Netherlands,M,Right,1845936000.0,1600000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PSV Eindhoven,2952,Sergiño Dest,906021,25,173.0,USA,D,Right,1845936000.0,17200000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PSV Eindhoven,2952,Adamo Nagalo,1108094,23,185.0,Burkina Faso,D,Right,1877472000.0,2900000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PSV Eindhoven,2952,Yarek Gasiorowski,1184317,21,190.0,Spain,D,Left,1909008000.0,16500000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PSV Eindhoven,2952,Ryan Flamingo,1046960,23,186.0,Netherlands,D,Right,1877472000.0,14800000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PSV Eindhoven,2952,Mauro Júnior,893499,27,171.0,Brazil,D,Left,1877472000.0,18600000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PSV Eindhoven,2952,Jerdy Schouten,844234,29,185.0,Netherlands,D,Right,1909008000.0,18400000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PSV Eindhoven,2952,Kiliann Sildillia,1014222,24,186.0,France,D,Right,1909008000.0,6800000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PSV Eindhoven,2952,Armando Obispo,825838,27,184.0,Curacao,D,Left,1814313600.0,3700000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PSV Eindhoven,2952,Fabian Merién,1886210,17,189.0,Netherlands,D,Right,1845936000.0,685000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PSV Eindhoven,2952,Essien Bassey,1511727,19,,Netherlands,D,Right,1814313600.0,340000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PSV Eindhoven,2952,Matěj Kovář,927366,26,196.0,Czechia,G,Right,1909008000.0,8300000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PSV Eindhoven,2952,Nick Olij,227192,31,185.0,Netherlands,G,Right,1877472000.0,1800000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PSV Eindhoven,2952,Tijn Smolenaars,1445965,21,197.0,Netherlands,G,Right,1845936000.0,205000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Feyenoord,2959,Ayase Ueda,985823,27,182.0,Japan,F,Right,1845936000.0,19400000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Feyenoord,2959,Casper Tengstedt,957937,26,184.0,Denmark,F,Right,1877472000.0,3400000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Feyenoord,2959,Nacho Ferri,1196903,21,192.0,Spain,F,Right,1909008000.0,6600000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Feyenoord,2959,Anis Hadj Moussa,1218066,24,176.0,Algeria,M,Left,1909008000.0,24000000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Feyenoord,2959,Oussama Targhalline,1095731,24,186.0,Morocco,M,Right,1845936000.0,14400000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Feyenoord,2959,Jakub Moder,886242,27,191.0,Poland,M,Right,1845936000.0,10900000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Feyenoord,2959,Sem Steijn,944467,24,173.0,Netherlands,M,Right,1877472000.0,11900000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Feyenoord,2959,Luka Ivanušec,822462,27,175.0,Croatia,M,Right,1845936000.0,3300000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Feyenoord,2959,Gaoussou Diarra,1918931,23,183.0,Mali,M,Right,1877472000.0,1800000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Feyenoord,2959,Luciano Valente,1121400,22,189.0,Netherlands,M,Right,1909008000.0,19200000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Feyenoord,2959,Gonçalo Borges,979221,25,184.0,Portugal,M,Right,1877472000.0,3100000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Feyenoord,2959,Gjivai Zechiël,1433802,22,179.0,Netherlands,M,Right,1845936000.0,10500000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Feyenoord,2959,Charles Vanhoutte,928033,27,182.0,Belgium,M,Right,1909008000.0,6800000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Feyenoord,2959,Thijs Kraaijeveld,1384486,19,188.0,Netherlands,M,Right,1845936000.0,5200000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Feyenoord,2959,Givairo Read,1388535,20,175.0,Netherlands,D,Right,1877472000.0,24000000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Feyenoord,2959,Jordan Bos,1144138,23,180.0,Australia,D,Left,1877472000.0,11200000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Feyenoord,2959,Tsuyoshi Watanabe,942213,29,187.0,Japan,D,Right,1877472000.0,9300000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Feyenoord,2959,Anel Ahmedhodžić,825899,27,190.0,Bosnia & Herzegovina,D,Right,1877472000.0,9700000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Feyenoord,2959,Jeremiah St Juste,787640,29,185.0,Netherlands,D,Right,1814313600.0,2900000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Feyenoord,2959,Mika Mármol,979146,25,181.0,Spain,D,Left,1909008000.0,9100000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Feyenoord,2959,Jordan Lotomba,796279,27,177.0,Switzerland,D,Right,1814313600.0,3600000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Feyenoord,2959,Thomas Beelen,1127916,25,190.0,Netherlands,D,Right,1845936000.0,5200000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Feyenoord,2959,Neraysho Kasanwirjo,961678,24,185.0,Netherlands,D,Right,1814313600.0,1400000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Feyenoord,2959,Mats Deijl,794013,29,180.0,Netherlands,D,Right,1845936000.0,1900000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Feyenoord,2959,Gijs Smal,860160,28,183.0,Netherlands,D,Left,1845936000.0,5800000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Feyenoord,2959,Bart Nieuwkoop,797279,30,180.0,Netherlands,D,Right,1814313600.0,1400000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Feyenoord,2959,Tjark Ernst,1019319,23,193.0,Germany,G,Right,1909008000.0,3900000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Feyenoord,2959,Liam Bossin,307364,30,190.0,Ireland,G,Right,1814313600.0,380000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Feyenoord,2959,Mannou Berger,1390118,21,193.0,Netherlands,G,Right,1814313600.0,77000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Twente,2955,Wout Weghorst,252215,34,197.0,Netherlands,F,Right,1845936000.0,2100000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Twente,2955,Marko Pjaca,190435,31,186.0,Croatia,F,Right,1814313600.0,1600000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Twente,2955,Sayfallah Ltaief,1032926,26,180.0,Tunisia,F,Right,1814313600.0,1300000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Twente,2955,Naci Ünüvar,954317,23,168.0,Türkiye,F,Right,1845936000.0,910000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Twente,2955,Sam Lammers,804901,29,191.0,Netherlands,F,Both,1814313600.0,4300000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Twente,2955,Lucas Vennegoor of Hesselink,1634542,20,188.0,Netherlands,F,Left,1845936000.0,270000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Twente,2955,Ramiz Zerrouki,989882,28,183.0,Algeria,M,Right,1909008000.0,6000000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Twente,2955,Younes Taha,1146623,23,176.0,Morocco,M,Left,1814313600.0,4200000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Twente,2955,Kristian Hlynsson,1160026,22,176.0,Iceland,M,Right,1877472000.0,5700000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Twente,2955,Sondre Ørjasæter,1200962,22,180.0,Norway,M,Right,1877472000.0,6800000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Twente,2955,Daan Rots,1048430,25,179.0,Netherlands,M,Left,1814313600.0,4700000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Twente,2955,Taylor Booth,906024,25,173.0,USA,M,Both,1845936000.0,1100000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Twente,2955,Thomas Van den Belt,945233,25,181.0,Netherlands,M,Right,1877472000.0,4400000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Twente,2955,Arno Verschueren,578344,29,182.0,Belgium,M,Right,1845936000.0,675000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Twente,2955,Mathias Kjølø,966546,25,174.0,Norway,M,Right,1814313600.0,925000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Twente,2955,Daouda Weidmann,1142678,23,180.0,France,M,Right,1909008000.0,795000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Twente,2955,Gijs Besselink,1440801,22,180.0,Netherlands,M,Right,1845936000.0,620000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Twente,2955,Mees Hilgers,1014288,25,185.0,Indonesia,D,Right,1814313600.0,3200000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Twente,2955,Ruud Nijstad,1890313,18,192.0,Netherlands,D,Left,1877472000.0,10500000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Twente,2955,Julien Mesbahi,1470014,20,181.0,Morocco,D,Right,1814313600.0,160000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Twente,2955,Bart van Rooij,946506,25,174.0,Netherlands,D,Right,1845936000.0,9700000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Twente,2955,Stav Lemkin,1091923,23,190.0,Israel,D,Right,1845936000.0,5700000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Twente,2955,Robin Pröpper,196082,32,190.0,Netherlands,D,Both,1877472000.0,1200000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Twente,2955,Krzysztof Kurowski,1479494,19,180.0,Poland,D,Left,1909008000.0,495000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Twente,2955,Guilherme Peixoto,1470065,20,181.0,Portugal,D,Right,1845936000.0,195000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Twente,2955,Aske Adelgaard,1133233,22,175.0,Denmark,D,Left,1909008000.0,940000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Twente,2955,Max Bruns,1091627,23,186.0,Netherlands,D,Right,1877472000.0,1400000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Twente,2955,Remko Pasveer,2622,42,186.0,Netherlands,G,Right,1814313600.0,97000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Twente,2955,Issam El Maach,904775,26,187.0,Morocco,G,Right,1814313600.0,110000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Twente,2955,Joël Drommel,610396,29,189.0,Netherlands,G,Right,1909008000.0,3700000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Twente,2955,Lars Unnerstall,94835,36,198.0,Germany,G,Right,1814313600.0,1000000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Twente,2955,Yannick Gerritsen,1928510,20,,Netherlands,G,,1845936000.0,49000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AZ Alkmaar,2950,Troy Parrott,966555,24,185.0,Ireland,F,Right,1877472000.0,23000000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AZ Alkmaar,2950,Ibrahim Sadiq,905174,26,166.0,Ghana,F,Right,1845936000.0,2100000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AZ Alkmaar,2950,Weslley Patati,1148468,22,167.0,Brazil,F,Left,1909008000.0,4700000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AZ Alkmaar,2950,Bendegúz Kovács,2055327,19,199.0,Hungary,F,Left,1877472000.0,1600000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AZ Alkmaar,2950,Mexx Meerdink,1153117,23,182.0,Netherlands,F,Left,1909008000.0,8300000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AZ Alkmaar,2950,Jizz Hornkamp,914392,28,180.0,Netherlands,F,Right,1909008000.0,2600000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AZ Alkmaar,2950,Mayckel Lahdo,1046028,23,171.0,Sweden,F,Right,1814313600.0,2600000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AZ Alkmaar,2950,Isak Steiner Jensen,1087931,22,185.0,Denmark,F,Right,1909008000.0,4900000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AZ Alkmaar,2950,Sem van Duijn,1548834,22,181.0,Netherlands,F,Right,1940544000.0,720000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AZ Alkmaar,2950,Kees Smit,1405756,20,182.0,Netherlands,M,Right,1845936000.0,24000000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AZ Alkmaar,2950,Calvin Stengs,857480,27,187.0,Netherlands,M,Left,1814313600.0,4800000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AZ Alkmaar,2950,Ro-Zangelo Daal,1145989,21,173.0,Netherlands,M,Right,1909008000.0,3100000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AZ Alkmaar,2950,Ayoub Oufkir,1648756,20,170.0,Netherlands,M,Left,1909008000.0,2800000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AZ Alkmaar,2950,Peer Koopmeiners,922018,26,186.0,Netherlands,M,Right,1845936000.0,12500000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AZ Alkmaar,2950,Matěj Šín,1170900,22,180.0,Czechia,M,Left,1909008000.0,2700000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AZ Alkmaar,2950,Wassim Bouziane,1562510,19,181.0,Netherlands,M,Right,1909008000.0,440000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AZ Alkmaar,2950,Dave Kwakman,1146002,22,186.0,Netherlands,M,Right,1877472000.0,1400000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AZ Alkmaar,2950,Julian Oerip,1394876,19,179.0,Netherlands,M,Right,1877472000.0,320000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AZ Alkmaar,2950,Jordy Clasie,116946,35,169.0,Netherlands,M,Both,1845936000.0,775000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AZ Alkmaar,2950,Hessel de Wit,1974439,19,185.0,Netherlands,M,Right,1909008000.0,165000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AZ Alkmaar,2950,Mateo Chávez,1638685,22,177.0,Mexico,D,Left,1909008000.0,4099999.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AZ Alkmaar,2950,Andrea Natali,1823904,18,186.0,Italy,D,Right,1940544000.0,375000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AZ Alkmaar,2950,Rion Ichihara,1499691,21,187.0,Japan,D,Right,1940544000.0,1600000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AZ Alkmaar,2950,Seiya Maikuma,1028330,28,179.0,Japan,D,Right,1845936000.0,2100000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AZ Alkmaar,2950,Wouter Goes,1145982,22,187.0,Netherlands,D,Right,1845936000.0,16500000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AZ Alkmaar,2950,Elijah Dijkstra,1386461,20,172.0,Netherlands,D,Right,1877472000.0,5600000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AZ Alkmaar,2950,Denso Kasius,1008111,23,186.0,Netherlands,D,Right,1877472000.0,5800000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AZ Alkmaar,2950,Maxim Dekker,1119294,22,192.0,Netherlands,D,Left,1877472000.0,670000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AZ Alkmaar,2950,Mees De Wit,893559,28,178.0,Netherlands,D,Left,1877472000.0,5800000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AZ Alkmaar,2950,Sam De Grand,1146313,21,178.0,Netherlands,D,Left,1909008000.0,940000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AZ Alkmaar,2950,Lewis Schouten,1145987,22,191.0,Netherlands,D,Right,1845936000.0,655000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AZ Alkmaar,2950,Billy van Duijl,1213381,20,184.0,Netherlands,D,Left,1940544000.0,1500000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AZ Alkmaar,2950,Rome Jayden Owusu-Oduro,1145999,22,189.0,Netherlands,G,Right,1909008000.0,5700000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AZ Alkmaar,2950,Jari De Busser,837072,26,190.0,Belgium,G,Both,1940544000.0,4300000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AZ Alkmaar,2950,Jeroen Zoet,40963,35,186.0,Netherlands,G,Right,1814313600.0,230000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AZ Alkmaar,2950,Hobie Verhulst,97401,33,189.0,Netherlands,G,Left,1845936000.0,160000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AFC Ajax,2953,Marcos Leonardo,1047227,23,177.0,Brazil,F,Right,1940544000.0,21000000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AFC Ajax,2953,Julian Brandt,226978,30,186.0,Germany,F,Right,1877472000.0,15500000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AFC Ajax,2953,Mika Godts,1149146,21,176.0,Belgium,F,Right,1877472000.0,32000000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AFC Ajax,2953,Tolu Arokodare,987734,25,196.0,Nigeria,F,Right,1814313600.0,18200000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AFC Ajax,2953,Kasper Dolberg,795761,28,187.0,Denmark,F,Right,1877472000.0,7600000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AFC Ajax,2953,Steven Berghuis,100386,34,182.0,Netherlands,F,Left,1814313600.0,2100000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AFC Ajax,2953,Don-Angelo Konadu,1403073,20,184.0,Netherlands,F,Right,1845936000.0,860000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AFC Ajax,2953,Oliver Valaker Edvardsen,878599,27,175.0,Norway,F,Right,1845936000.0,3100000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AFC Ajax,2953,Amourricho van Axel-Dongen,1022376,21,175.0,Netherlands,F,Right,1814313600.0,370000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AFC Ajax,2953,Rayane Bounida,1403090,20,179.0,Morocco,M,Right,1845936000.0,4900000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AFC Ajax,2953,Abdellah Ouazane,1931396,17,184.0,Morocco,M,Right,1845936000.0,1500000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AFC Ajax,2953,Oscar Gloukh,1155158,22,170.0,Israel,M,Both,1909008000.0,13400000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AFC Ajax,2953,Jorthy Mokio,1563462,18,182.0,DR Congo,M,Left,1940544000.0,7800000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AFC Ajax,2953,Maher Carrizo,1597274,20,180.0,Argentina,M,Left,1909008000.0,7600000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AFC Ajax,2953,Davy Klaassen,97410,33,179.0,Netherlands,M,Right,1814313600.0,2100000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AFC Ajax,2953,Youri Regeer,996940,22,177.0,Netherlands,M,Right,1877472000.0,4700000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AFC Ajax,2953,Josip Šutalo,954836,26,190.0,Croatia,D,Right,1845936000.0,13100000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AFC Ajax,2953,Caio Henrique,845170,29,178.0,Brazil,D,Left,1909008000.0,11500000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AFC Ajax,2953,Ko Itakura,790989,29,189.0,Japan,D,Right,1877472000.0,8400000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AFC Ajax,2953,Daley Blind,44864,36,180.0,Netherlands,D,Left,1814313600.0,1200000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AFC Ajax,2953,Ahmetcan Kaplan,1064177,23,189.0,Türkiye,D,Left,1814313600.0,6500000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AFC Ajax,2953,Youri Baas,1000228,23,188.0,Netherlands,D,Left,1845936000.0,19400000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AFC Ajax,2953,Anton Gaaei,1120315,23,183.0,Denmark,D,Right,1845936000.0,4800000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AFC Ajax,2953,Aaron Bouwman,1586649,18,188.0,Netherlands,D,Right,1909008000.0,3700000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AFC Ajax,2953,Dies Janse,1470010,20,196.0,Netherlands,D,Left,1877472000.0,6200000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AFC Ajax,2953,Lucas Rosa,970860,26,177.0,Brazil,D,Right,1877472000.0,5300000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AFC Ajax,2953,Owen Wijndal,836673,26,174.0,Netherlands,D,Left,1814313600.0,3200000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AFC Ajax,2953,Marc-André Ter Stegen,88625,34,187.0,Germany,G,Right,1814313600.0,3100000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AFC Ajax,2953,Maarten Paes,843250,28,191.0,Indonesia,G,Right,1877472000.0,1900000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,AFC Ajax,2953,Paul Reverson,1403089,21,194.0,Ghana,G,Right,1814313600.0,340000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,NEC Nijmegen,2962,Dušan Tadić,38560,37,181.0,Serbia,F,Left,1845936000.0,1400000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,NEC Nijmegen,2962,Koki Ogawa,831860,29,186.0,Japan,F,Right,1814313600.0,2100000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,NEC Nijmegen,2962,Tjaronn Chery,35208,38,170.0,Suriname,F,Left,1845936000.0,440000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,NEC Nijmegen,2962,Clement Bischoff,1481672,20,180.0,Denmark,F,Right,1814313600.0,2900000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,NEC Nijmegen,2962,Kaj Sierhuis,855847,28,180.0,Netherlands,F,Both,1877472000.0,1900000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,NEC Nijmegen,2962,Bryan Linssen,47753,35,170.0,Netherlands,F,Right,1845936000.0,290000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,NEC Nijmegen,2962,Noe Lebreton,1214957,22,178.0,France,F,Right,1877472000.0,4099999.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,NEC Nijmegen,2962,Kevin Kers,1500993,20,190.0,Netherlands,F,Right,1814313600.0,,,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,NEC Nijmegen,2962,Emre Mor,826258,29,169.0,Türkiye,M,Left,1845936000.0,475000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,NEC Nijmegen,2962,Isak Hansen Aarøen,1019011,21,173.0,Norway,M,Right,1814313600.0,575000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,NEC Nijmegen,2962,Jamiro Monteiro,815080,32,175.0,Cape Verde,M,Right,1845936000.0,590000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,NEC Nijmegen,2962,Sami Ouaissa,1394147,21,180.0,Netherlands,M,Left,1845936000.0,8199999.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,NEC Nijmegen,2962,Darko Nejašmić,897603,27,184.0,Croatia,M,Right,1814313600.0,4099999.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,NEC Nijmegen,2962,Adam Tahaui,1891090,21,185.0,Morocco,M,Left,1909008000.0,540000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,NEC Nijmegen,2962,Willum Thor Willumsson,978823,27,193.0,Iceland,M,Left,1845936000.0,1500000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,NEC Nijmegen,2962,Vito van Crooij,385708,30,172.0,Netherlands,M,Right,1814313600.0,955000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,NEC Nijmegen,2962,Sam de Laat,2193004,20,180.0,Netherlands,M,,1814313600.0,68000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,NEC Nijmegen,2962,Perr Schuurs,831677,26,191.0,Netherlands,D,Right,1877472000.0,825000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,NEC Nijmegen,2962,Deveron Fonville,1177177,23,178.0,Curacao,D,Left,1877472000.0,1500000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,NEC Nijmegen,2962,Philippe Sandler,842275,29,188.0,Netherlands,D,Right,1877472000.0,1900000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,NEC Nijmegen,2962,Thomas Ouwejan,798180,29,184.0,Netherlands,D,Left,1814313600.0,660000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,NEC Nijmegen,2962,Brayann Pereira,1012639,23,172.0,France,D,Right,1814313600.0,1100000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,NEC Nijmegen,2962,Bram Nuytinck,70930,36,190.0,Netherlands,D,Left,1814313600.0,190000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,NEC Nijmegen,2962,Tobias Storm,1390122,22,176.0,Denmark,D,Right,1909008000.0,1200000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,NEC Nijmegen,2962,Yousri Sbai,2026504,22,178.0,Netherlands,D,Right,1845936000.0,245000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,NEC Nijmegen,2962,Yassin Moslih,2230527,19,,Netherlands,D,,1814313600.0,,,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,NEC Nijmegen,2962,Merijn van de Wiel,2276919,20,180.0,Netherlands,D,,1845936000.0,105000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,NEC Nijmegen,2962,Gonzalo Crettaz,990798,26,181.0,Argentina,G,Right,1845936000.0,3800000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,NEC Nijmegen,2962,Freek Entius,1403074,20,196.0,Netherlands,G,Right,1814313600.0,,,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,NEC Nijmegen,2962,Joep Geneste,1942346,19,192.0,Netherlands,G,,,,,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Utrecht,2948,Miliano Jonathans,1211982,22,178.0,Indonesia,F,Left,1845936000.0,775000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Utrecht,2948,Artem Stepanov,1489193,18,192.0,Ukraine,F,Right,1814313600.0,4800000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Utrecht,2948,Noah Ohio,1100456,23,185.0,Netherlands,F,Left,1814313600.0,620000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Utrecht,2948,David Min,966429,27,194.0,Netherlands,F,Right,1845936000.0,1600000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Utrecht,2948,Adrian Blake,1214695,21,170.0,England,F,Right,1814313600.0,2200000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Utrecht,2948,Emmanuel Owen,1896946,19,171.0,Germany,F,Left,1909008000.0,,,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Utrecht,2948,Zidane Iqbal,1014225,23,180.0,Iraq,M,Right,1814313600.0,1000000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Utrecht,2948,Ángel Alarcón,1153261,22,175.0,Spain,M,Right,1877472000.0,5800000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Utrecht,2948,Kevin Paredes,1016810,23,175.0,USA,M,Left,1814313600.0,1900000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Utrecht,2948,Dani De Wit,855854,28,183.0,Netherlands,M,Right,1845936000.0,3800000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Utrecht,2948,Yoann Cathline,1105700,24,176.0,France,M,Right,1877472000.0,5800000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Utrecht,2948,Alonzo Engwanda,1000548,23,173.0,Belgium,M,Right,1845936000.0,7300000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Utrecht,2948,Victor Jensen,856648,26,175.0,Denmark,M,Right,1814313600.0,2300000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Utrecht,2948,Davy van den Berg,1001468,26,185.0,Netherlands,M,Left,1845936000.0,1300000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Utrecht,2948,Oualid Agougil,1142574,21,180.0,Netherlands,M,Left,1877472000.0,535000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Utrecht,2948,Joris van Overeem,138842,32,181.0,Netherlands,M,Right,1845936000.0,940000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Utrecht,2948,Arthur Zagre,910053,24,168.0,Burkina Faso,D,Left,1877472000.0,1800000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Utrecht,2948,Siebe Horemans,794990,28,186.0,Belgium,D,Right,1845936000.0,2900000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Utrecht,2948,Mike Eerdhuijzen,947842,26,194.0,Netherlands,D,Left,1877472000.0,1400000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Utrecht,2948,Matisse Didden,996992,24,198.0,Belgium,D,Right,1845936000.0,2800000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Utrecht,2948,Emeka Adeile,1467980,19,,England,D,,1909008000.0,680000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Utrecht,2948,Niklas Vesterlund,837010,27,185.0,Denmark,D,Right,1814313600.0,1500000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Utrecht,2948,Neville Nwankwo,1418395,23,189.0,Netherlands,D,Right,1814313600.0,850000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Utrecht,2948,Guus Offerhaus,1047396,25,185.0,Netherlands,D,Right,1877472000.0,735000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Utrecht,2948,Jamie Schuldes,1568510,19,191.0,Germany,D,Right,1909008000.0,,,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Utrecht,2948,Vasilis Barkas,347726,32,196.0,Greece,G,Left,1845936000.0,3100000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Utrecht,2948,Kevin Gadellaa,1169107,23,210.0,Netherlands,G,Right,1814313600.0,245000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Utrecht,2948,Michael Brouwer,252027,33,187.0,Netherlands,G,Left,1845936000.0,270000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Utrecht,2948,Mees Eppink,1472799,20,192.0,Netherlands,G,Right,1877472000.0,185000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Sparta Rotterdam,2960,Casper Terho,1050672,23,184.0,Finland,F,Left,1909008000.0,1100000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Sparta Rotterdam,2960,Milan Zonneveld,1137227,22,199.0,Netherlands,F,Right,1877472000.0,410000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Sparta Rotterdam,2960,Nökkvi Þórisson,987077,26,188.0,Iceland,F,Right,1845936000.0,410000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Sparta Rotterdam,2960,Shunsuke Mito,1002479,23,164.0,Japan,M,Right,1845936000.0,2100000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Sparta Rotterdam,2960,Joel Ideho,1049063,23,176.0,Netherlands,M,Right,1845936000.0,290000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Sparta Rotterdam,2960,Mitchell Van Bergen,827662,26,170.0,Netherlands,M,Right,1877472000.0,1600000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Sparta Rotterdam,2960,Jens Toornstra,99960,37,178.0,Netherlands,M,Right,1814313600.0,195000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Sparta Rotterdam,2960,Alwande Roaldsoy,1101593,22,191.0,Norway,M,Right,1909008000.0,830000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Sparta Rotterdam,2960,Ayoni Santos,1648751,21,165.0,Cape Verde,M,Right,1877472000.0,2100000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Sparta Rotterdam,2960,Julian Baas,1046143,24,184.0,Netherlands,M,Right,1814313600.0,765000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Sparta Rotterdam,2960,Robin van Cruijsen,2216656,20,170.0,Netherlands,M,Left,1909008000.0,1100000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Sparta Rotterdam,2960,Younes Jaber el Maftahi,1648749,18,,Netherlands,M,Right,1909008000.0,,,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Sparta Rotterdam,2960,Teo Quintero,966299,27,188.0,Venezuela,D,Both,1814313600.0,1200000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Sparta Rotterdam,2960,Marvin Young,1648759,20,182.0,Netherlands,D,Right,1877472000.0,5200000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Sparta Rotterdam,2960,Nick Verschuren,1523582,21,180.0,Netherlands,D,Right,1909008000.0,1100000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Sparta Rotterdam,2960,Lushendry Edward Martes,1960315,18,180.0,Netherlands,D,Right,1909008000.0,3200000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Sparta Rotterdam,2960,Bruno Martins Indi,116947,34,185.0,Netherlands,D,Left,1814313600.0,320000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Sparta Rotterdam,2960,Bas Kuipers,339879,31,180.0,Netherlands,D,Left,1845936000.0,775000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Sparta Rotterdam,2960,Boyd Reith,825836,27,175.0,Netherlands,D,Right,1814313600.0,330000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Sparta Rotterdam,2960,Max De Ligt,1517610,22,189.0,Netherlands,D,Right,1814313600.0,68000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Sparta Rotterdam,2960,Giannino Vianello,1652148,19,,Netherlands,D,Left,1877472000.0,280000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Sparta Rotterdam,2960,Filip Bednarek,139149,33,187.0,Poland,G,Right,1814313600.0,190000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Sparta Rotterdam,2960,Pascal Kuiper,1067956,22,194.0,Netherlands,G,Right,1814313600.0,79000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Go Ahead Eagles,2979,Victor Edvardsen,841420,30,185.0,Sweden,F,Right,1845936000.0,880000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Go Ahead Eagles,2979,Richonell Margaret,973716,25,191.0,Suriname,F,Right,1877472000.0,620000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Go Ahead Eagles,2979,Stefán Ingi Sigurðarson,907517,25,191.0,Iceland,F,Right,1909008000.0,1900000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Go Ahead Eagles,2979,Oskar Siira Sivertsen,1022552,22,177.0,Norway,F,Right,1845936000.0,490000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Go Ahead Eagles,2979,Erik Flataker,1121303,21,182.0,Norway,F,Right,1909008000.0,560000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Go Ahead Eagles,2979,Thibo Baeten,964766,24,183.0,Belgium,F,Left,1877472000.0,515000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Go Ahead Eagles,2979,Ofosu Boakye,2056009,19,181.0,Netherlands,F,,1877472000.0,81000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Go Ahead Eagles,2979,Mathis Suray,909960,25,173.0,Belgium,M,Right,1814313600.0,3200000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Go Ahead Eagles,2979,Melle Meulensteen,891795,27,185.0,Netherlands,M,Right,1877472000.0,2400000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Go Ahead Eagles,2979,Yassir Rahmouni,2180363,20,185.0,Netherlands,M,Right,1877472000.0,440000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Go Ahead Eagles,2979,Søren Tengstedt,987647,26,187.0,Denmark,M,Left,1814313600.0,770000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Go Ahead Eagles,2979,Evert Linthorst,932555,26,187.0,Netherlands,M,Right,1845936000.0,1100000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Go Ahead Eagles,2979,Calvin Twigt,1084944,23,183.0,Netherlands,M,Right,1845936000.0,690000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Go Ahead Eagles,2979,Robbin Weijenberg,1386182,21,180.0,Netherlands,M,Right,1814313600.0,210000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Go Ahead Eagles,2979,Dean James,1046722,26,177.0,Indonesia,D,Left,1845936000.0,1600000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Go Ahead Eagles,2979,Tomas Galvez,1149168,21,173.0,Finland,D,Left,1909008000.0,780000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Go Ahead Eagles,2979,Alfons Sampsted,842536,28,180.0,Iceland,D,Right,1845936000.0,1600000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Go Ahead Eagles,2979,Joris Kramer,793742,30,190.0,Netherlands,D,Left,1845936000.0,1900000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Go Ahead Eagles,2979,Eus Waayers,1479476,20,181.0,Netherlands,D,Right,1877472000.0,360000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Go Ahead Eagles,2979,Julius Dirksen,1001943,23,185.0,Netherlands,D,Left,1877472000.0,745000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Go Ahead Eagles,2979,Gerrit Nauber,133168,34,185.0,Germany,D,Right,1814313600.0,325000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Go Ahead Eagles,2979,Giovanni van Zwam,1119473,22,185.0,Netherlands,D,Right,1814313600.0,280000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Go Ahead Eagles,2979,Pim Saathof,1171238,22,186.0,Netherlands,D,Right,1814313600.0,69000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Go Ahead Eagles,2979,Dani Tijman,2399094,20,183.0,Netherlands,D,Right,1845936000.0,,,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Go Ahead Eagles,2979,Kjetil Haug,792318,28,187.0,Norway,G,Right,1877472000.0,385000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Go Ahead Eagles,2979,Nick Marsman,70927,35,188.0,Netherlands,G,Right,1814313600.0,135000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Go Ahead Eagles,2979,Nando Verdoni,1130708,21,189.0,Netherlands,G,Right,1877472000.0,27000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Fortuna Sittard,2957,Ole Romeny,921948,26,185.0,Indonesia,F,Right,1814313600.0,775000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Fortuna Sittard,2957,Lequincio Zeefuik,1118181,21,197.0,Netherlands,F,Right,1814313600.0,825000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Fortuna Sittard,2957,Anthony Descotte,1008697,23,179.0,Belgium,F,Right,1814313600.0,660000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Fortuna Sittard,2957,Mohamed Ihattaren,929633,24,182.0,Morocco,M,Left,1814313600.0,3200000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Fortuna Sittard,2957,Édouard Michut,1048011,23,178.0,France,M,Right,1814313600.0,1200000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Fortuna Sittard,2957,Yassin Oukili,1010846,25,195.0,Morocco,M,Right,1845936000.0,655000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Fortuna Sittard,2957,Shiloh 't Zand,1196520,23,177.0,Suriname,M,Right,1814313600.0,290000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Fortuna Sittard,2957,Kristoffer Peterson,366942,31,180.0,Sweden,M,Right,1845936000.0,430000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Fortuna Sittard,2957,Philip Brittijn,1132766,22,182.0,Netherlands,M,Right,1845936000.0,1500000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Fortuna Sittard,2957,Sven Simons,1186861,22,168.0,Netherlands,M,Left,1877472000.0,485000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Fortuna Sittard,2957,Moussa Gbemou,2207814,18,,Belgium,M,,1845936000.0,,,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Fortuna Sittard,2957,Ganni Buyukhan,2589410,16,,Netherlands,M,,,,,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Fortuna Sittard,2957,Kevin van Burgsteden,2687263,19,,Netherlands,M,,,,,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Fortuna Sittard,2957,Justin Hubner,1112604,22,187.0,Indonesia,D,Left,1845936000.0,1000000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Fortuna Sittard,2957,Ivo Pinto,78730,36,184.0,Portugal,D,Right,1814313600.0,260000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Fortuna Sittard,2957,Syb Van Ottele,961686,24,185.0,Netherlands,D,Both,1814313600.0,620000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Fortuna Sittard,2957,Iván Márquez,862479,32,191.0,Spain,D,Right,1845936000.0,465000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Fortuna Sittard,2957,Siebe Wylin,1146792,23,180.0,Belgium,D,Right,1845936000.0,325000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Fortuna Sittard,2957,Jasper Dahlhaus,1048758,24,176.0,Netherlands,D,Right,1845936000.0,1500000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Fortuna Sittard,2957,Nick de Groot,1133405,24,181.0,Netherlands,D,Left,1877472000.0,390000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Fortuna Sittard,2957,Mattijs Branderhorst,146871,32,192.0,Netherlands,G,Right,1877472000.0,840000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Fortuna Sittard,2957,Luuk Koopmans,128992,32,191.0,Netherlands,G,Right,1814313600.0,215000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Fortuna Sittard,2957,Kaylen Reitmaier,1508529,22,197.0,Germany,G,Right,,49000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,SC Heerenveen,2964,Dylan Vente,825843,27,181.0,Suriname,F,Right,1877472000.0,2300000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,SC Heerenveen,2964,Lanroy Machine,2142283,20,187.0,France,F,Right,,,,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,SC Heerenveen,2964,Jermaine Rijssel,1801311,21,,Suriname,F,Right,,,,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,SC Heerenveen,2964,Jacob Trenskow,1015627,25,178.0,Denmark,M,Left,1845936000.0,7700000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,SC Heerenveen,2964,Ringo Meerveld,992018,23,177.0,Netherlands,M,Right,1877472000.0,4800000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,SC Heerenveen,2964,Luca Oyen,996986,23,172.0,Belgium,M,Right,1877472000.0,975000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,SC Heerenveen,2964,Marcus Linday,1627623,23,186.0,Sweden,M,Right,1877472000.0,5200000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,SC Heerenveen,2964,Dirk Wanner Proper,961685,24,167.0,Netherlands,M,Right,1909008000.0,1400000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,SC Heerenveen,2964,Maxence Rivera,1014408,24,168.0,France,M,Right,1845936000.0,2900000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,SC Heerenveen,2964,Luuk Brouwers,794014,28,180.0,Netherlands,M,Right,1814313600.0,1400000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,SC Heerenveen,2964,Levi Smans,1133678,23,175.0,Netherlands,M,Right,1845936000.0,1400000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,SC Heerenveen,2964,Nolhan Courtens,1425327,19,174.0,Belgium,M,Right,1814313600.0,145000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,SC Heerenveen,2964,Hristiyan Petrov,1129996,24,184.0,Bulgaria,D,Left,1877472000.0,530000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,SC Heerenveen,2964,Vasilios Zagaritis,1064426,25,178.0,Greece,D,Left,1845936000.0,3200000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,SC Heerenveen,2964,Oliver Braude,1150061,22,174.0,Norway,D,Right,1814313600.0,4900000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,SC Heerenveen,2964,Nikolai Soyset Hopland,1121247,22,186.0,Norway,D,Right,1845936000.0,1600000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,SC Heerenveen,2964,Mats Egbring,1514878,19,183.0,Netherlands,D,Right,1845936000.0,320000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,SC Heerenveen,2964,Sam Kersten,847072,28,191.0,Netherlands,D,Right,1814313600.0,1800000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,SC Heerenveen,2964,Maas Willemsen,1132765,23,190.0,Netherlands,D,Left,1877472000.0,4600000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,SC Heerenveen,2964,Darling Bladi,1621035,22,164.0,France,D,Left,1877472000.0,315000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,SC Heerenveen,2964,Andries Noppert,339339,32,203.0,Netherlands,G,Left,1814313600.0,330000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,SC Heerenveen,2964,Bernt Klaverboer,1195719,20,190.0,Netherlands,G,Right,1814313600.0,2800000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PEC Zwolle,2971,Koen Kostons,847073,26,185.0,Netherlands,F,Right,1877472000.0,1400000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PEC Zwolle,2971,Younes Namli,235538,32,180.0,Denmark,F,Left,1845936000.0,1000000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PEC Zwolle,2971,Ibrahim Cissoko,1128902,23,188.0,Guinea,M,Right,1909008000.0,1100000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PEC Zwolle,2971,Elias Sørensen,863632,26,189.0,Denmark,M,Right,1877472000.0,1200000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PEC Zwolle,2971,Dylan Mbayo,923968,24,175.0,Belgium,M,Left,1814313600.0,835000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PEC Zwolle,2971,Jadiel Pereira da Gama,2195123,16,182.0,Netherlands,M,Right,1877472000.0,1500000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PEC Zwolle,2971,Ryan Thomas,333571,31,174.0,New Zealand,M,Right,1845936000.0,670000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PEC Zwolle,2971,Thijs Oosting,876233,26,176.0,Netherlands,M,Left,1877472000.0,935000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PEC Zwolle,2971,Odysseus Velanas,846003,28,180.0,Netherlands,M,Right,1814313600.0,575000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PEC Zwolle,2971,Tobias Sommer,1017654,24,181.0,Denmark,M,Right,1877472000.0,1400000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PEC Zwolle,2971,Nick Fichtinger,1509752,22,178.0,Netherlands,M,Right,1845936000.0,360000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PEC Zwolle,2971,Gabriel Reiziger,1885838,20,177.0,Netherlands,M,Right,1845936000.0,260000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PEC Zwolle,2971,Givaro Rahajaän,1957718,18,170.0,Netherlands,M,Left,1877472000.0,92000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PEC Zwolle,2971,Sherel Constancio Floranus,803021,27,181.0,Curacao,D,Right,1814313600.0,855000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PEC Zwolle,2971,Olivier Aertssen,1049446,22,185.0,Netherlands,D,Both,1814313600.0,610000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PEC Zwolle,2971,Nick Viergever,46900,37,182.0,Netherlands,D,Left,1814313600.0,325000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PEC Zwolle,2971,Simon Graves,927155,27,191.0,Denmark,D,Right,1845936000.0,1400000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PEC Zwolle,2971,Tijs Velthuis,961674,24,190.0,Netherlands,D,Left,1877472000.0,515000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PEC Zwolle,2971,Damian van der Haar,1172732,22,183.0,Netherlands,D,Left,1845936000.0,365000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PEC Zwolle,2971,Tom de Graaff,1145525,21,193.0,Netherlands,G,Left,1909008000.0,970000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PEC Zwolle,2971,Jasper Schendelaar,856636,25,182.0,Netherlands,G,Right,1814313600.0,1500000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,PEC Zwolle,2971,Duke Verduin,1394059,22,195.0,Netherlands,G,Right,1845936000.0,24000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Almere City FC,2990,Ferdy Druijf,893741,28,190.0,Netherlands,F,Right,1814313600.0,315000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Almere City FC,2990,Jochem Ritmeester van de Kamp,1157777,22,177.0,Netherlands,F,Right,1814313600.0,1600000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Almere City FC,2990,Marley  Dors,1648769,21,,Suriname,F,,1814313600.0,390000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Almere City FC,2990,Bas Huisman,1955663,21,191.0,Netherlands,F,Right,1814313600.0,260000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Almere City FC,2990,Immanuel Goghli,2318178,20,,Netherlands,F,Right,1814313600.0,91000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Almere City FC,2990,Ruben Providence,954066,25,172.0,Haiti,M,Right,1814313600.0,270000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Almere City FC,2990,Emanuel Poku,1887071,21,,Netherlands,M,Right,1814313600.0,775000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Almere City FC,2990,Hamza El Dahri,1539611,21,177.0,Netherlands,M,Right,1845936000.0,260000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Almere City FC,2990,Byron Burgering,991680,26,174.0,Netherlands,M,Left,1845936000.0,515000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Almere City FC,2990,Mees Hoedemakers,893748,28,181.0,Netherlands,M,Both,1814313600.0,560000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Almere City FC,2990,Jamie Jacobs,893744,28,182.0,Netherlands,M,Left,1814313600.0,270000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Almere City FC,2990,Milan de Haan,1120949,22,,Netherlands,M,,1845936000.0,510000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Almere City FC,2990,Enzo Cornelisse,1046725,24,178.0,Netherlands,M,Left,1845936000.0,270000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Almere City FC,2990,Job Kalisvaart,1402600,22,181.0,Netherlands,M,Right,1845936000.0,315000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Almere City FC,2990,Lev Lenssen,1562509,21,167.0,Netherlands,M,Right,,82000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Almere City FC,2990,Olivier De Nijs,1648767,21,181.0,Netherlands,M,Right,1845936000.0,220000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Almere City FC,2990,Bas Pennock,1892605,22,,Netherlands,M,Left,,,,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Almere City FC,2990,Emmanuel van de Blaak,1119291,21,184.0,Netherlands,D,Right,1814313600.0,515000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Almere City FC,2990,James Lawrence,193462,33,188.0,Wales,D,Left,1814313600.0,220000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Almere City FC,2990,Damian van Bruggen,285991,30,184.0,Netherlands,D,Right,,550000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Almere City FC,2990,Teun Bijleveld,803027,28,176.0,Netherlands,D,Left,1845936000.0,210000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Almere City FC,2990,Joey Jacobs,930838,26,183.0,Netherlands,D,Right,,285000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Almere City FC,2990,Misha Engel,1119490,23,186.0,Netherlands,D,Left,1845936000.0,240000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Almere City FC,2990,Twan Van Der Zeeuw,961675,23,178.0,Netherlands,D,Left,1814313600.0,130000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Almere City FC,2990,Tiziano Vianello,2223578,21,,Netherlands,D,Right,1814313600.0,155000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Almere City FC,2990,Donte Apinsa,1801290,21,,Suriname,D,Right,,,,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Almere City FC,2990,Jereno van Gom,1405750,21,,Suriname,D,Right,,,,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Almere City FC,2990,Wessel Speel,1014536,24,198.0,Netherlands,G,Right,1814313600.0,170000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Almere City FC,2990,Tristan Kuijsten,1177180,21,191.0,Netherlands,G,Right,1845936000.0,180000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Almere City FC,2990,Joel Van der Wilt,1521867,22,198.0,Netherlands,G,Right,1814313600.0,24000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Almere City FC,2990,Malcolm Mateyo,1919410,21,,Netherlands,G,Right,1814313600.0,,,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Heracles Almelo,2977,Luka Kulenović,998999,26,190.0,Bosnia & Herzegovina,F,Right,1845936000.0,620000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Heracles Almelo,2977,Yvandro Borges Sanches,1123613,22,175.0,Luxembourg,F,Right,1845936000.0,375000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Heracles Almelo,2977,Diego van Oorschot,1482511,20,173.0,Netherlands,F,Both,1814313600.0,135000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Heracles Almelo,2977,Chafik Abbas,916033,28,174.0,France,F,Left,1845936000.0,145000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Heracles Almelo,2977,Giandro Sambo,1469027,19,181.0,Curacao,F,Right,1814313600.0,46000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Heracles Almelo,2977,Jean-Paul N'Djoli,1428797,25,188.0,France,F,Both,1845936000.0,270000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Heracles Almelo,2977,Sil Blokhuis,2186070,18,172.0,Netherlands,F,Left,1845936000.0,49000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Heracles Almelo,2977,Tarik Hamamioglu,2543354,18,181.0,Türkiye,F,Right,1877472000.0,,,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Heracles Almelo,2977,Jeff Reine-Adélaïde,794269,28,184.0,France,M,Right,1814313600.0,515000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Heracles Almelo,2977,Walid Ould-Chikh,1066450,26,186.0,Netherlands,M,Right,1877472000.0,535000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Heracles Almelo,2977,Bryan Limbombe,996988,25,172.0,Belgium,M,Right,1814313600.0,420000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Heracles Almelo,2977,Mario Engels,132674,32,183.0,Germany,M,Right,1814313600.0,290000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Heracles Almelo,2977,Sem Scheperman,1189738,24,188.0,Netherlands,M,Right,1877472000.0,580000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Heracles Almelo,2977,Tristan van Gilst,1213453,23,178.0,Netherlands,M,Right,1845936000.0,330000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Heracles Almelo,2977,Daniel Van Kaam,876257,26,175.0,Netherlands,M,Left,1814313600.0,410000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Heracles Almelo,2977,Rhys Bozinovski,1144148,22,173.0,Australia,M,Right,1877472000.0,340000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Heracles Almelo,2977,Thomas Bruns,146401,34,177.0,Netherlands,M,Right,1814313600.0,170000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Heracles Almelo,2977,David Tomić,886021,28,174.0,Germany,M,Both,1845936000.0,145000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Heracles Almelo,2977,Maurice Wrusch,1397641,25,185.0,Germany,M,Left,1845936000.0,120000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Heracles Almelo,2977,Mimeirhel Benita,1130308,22,176.0,Netherlands,D,Right,1845936000.0,530000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Heracles Almelo,2977,Djevencio van der Kust,974530,25,178.0,Suriname,D,Left,1845936000.0,360000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Heracles Almelo,2977,Stijn Bultman,1486433,21,185.0,Netherlands,D,Right,1814313600.0,340000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Heracles Almelo,2977,Damon Mirani,318575,30,182.0,Netherlands,D,Right,1814313600.0,420000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Heracles Almelo,2977,Mike te Wierik,127554,34,191.0,Netherlands,D,Right,1814313600.0,195000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Heracles Almelo,2977,David Vicente,914110,27,177.0,Spain,D,Right,1845936000.0,280000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Heracles Almelo,2977,Manny Rodríguez,872852,28,182.0,Dominican Republic,D,Left,1845936000.0,90000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Heracles Almelo,2977,Mario Borac,1807294,20,186.0,Croatia,D,Left,1877472000.0,220000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Heracles Almelo,2977,Max Hauswirth,1214483,22,183.0,Germany,D,Left,1845936000.0,155000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Heracles Almelo,2977,Fabian De Keijzer,856743,26,193.0,Netherlands,G,Right,1814313600.0,370000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Heracles Almelo,2977,Timo Jansink,1189737,23,197.0,Netherlands,G,Right,1877472000.0,160000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Heracles Almelo,2977,Leco Zeevalkink,2077282,20,192.0,Netherlands,G,Both,1814313600.0,,,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,RKC Waalwijk,2956,Keyan Varela,1971140,20,182.0,Portugal,F,Right,1814313600.0,1600000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,RKC Waalwijk,2956,Jesse van de Haar,1442185,21,184.0,Netherlands,F,Right,1877472000.0,260000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,RKC Waalwijk,2956,Finn Stokkers,360006,30,187.0,Netherlands,F,Right,1877472000.0,280000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,RKC Waalwijk,2956,Roy Kuijpers,1046728,26,175.0,Netherlands,F,Right,1814313600.0,240000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,RKC Waalwijk,2956,Yorem van der Veen,1529982,21,171.0,Netherlands,F,Right,1877472000.0,180000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,RKC Waalwijk,2956,Haye Van Gemert,2686055,20,,Netherlands,F,,,,,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,RKC Waalwijk,2956,Azzedine Dkidak,992001,26,177.0,Netherlands,M,Left,1845936000.0,275000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,RKC Waalwijk,2956,Thijs van Leeuwen,1048428,25,175.0,Netherlands,M,Right,1845936000.0,375000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,RKC Waalwijk,2956,Ryan Fage,1099750,22,169.0,France,M,Left,1845936000.0,340000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,RKC Waalwijk,2956,Tim van de Loo,1174460,23,180.0,Netherlands,M,Left,1845936000.0,440000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,RKC Waalwijk,2956,Rein van Hedel,1155366,21,187.0,Netherlands,M,Right,1845936000.0,260000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,RKC Waalwijk,2956,Jochem Nap,2188098,21,,Netherlands,M,,1877472000.0,54000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,RKC Waalwijk,2956,Quentin van Beekveld,1979424,20,196.0,Netherlands,M,Right,1814313600.0,,,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,RKC Waalwijk,2956,Faissal Al Mazyani,1195771,21,179.0,Morocco,D,Right,1814313600.0,380000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,RKC Waalwijk,2956,Liam Van Gelderen,910049,25,178.0,Suriname,D,Right,1814313600.0,410000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,RKC Waalwijk,2956,Juan Familia-Castillo,856735,26,175.0,Dominican Republic,D,Left,1814313600.0,410000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,RKC Waalwijk,2956,Jordy de Wijs,359032,31,189.0,Netherlands,D,Left,1845936000.0,415000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,RKC Waalwijk,2956,Navajo Bakboord,837264,27,177.0,Suriname,D,Right,1845936000.0,160000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,RKC Waalwijk,2956,Nazjir Held,1477353,20,178.0,Curacao,D,Left,1877472000.0,415000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,RKC Waalwijk,2956,Sven van der Plas,1493495,20,183.0,Netherlands,D,Right,1877472000.0,310000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,RKC Waalwijk,2956,Loek Postma,1146005,23,185.0,Netherlands,D,Right,1845936000.0,360000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,RKC Waalwijk,2956,Bjarn Zorgdrager,2180933,22,,Netherlands,D,Right,1814313600.0,54000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,RKC Waalwijk,2956,Niek Schiks,1134720,22,188.0,Netherlands,G,Left,1814313600.0,525000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,RKC Waalwijk,2956,Mark Spenkelink,875466,29,196.0,Netherlands,G,Right,1845936000.0,265000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,RKC Waalwijk,2956,Xander Mulder,2124261,21,188.0,Netherlands,G,Right,1845936000.0,,,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Excelsior,2967,Aymen Sliti,1479467,20,175.0,Netherlands,F,Left,1814313600.0,2200000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Excelsior,2967,David Garden,1500765,22,,Netherlands,F,Right,1845936000.0,190000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Excelsior,2967,Yaqub Finey,1186307,22,191.0,Sweden,F,Left,1877472000.0,480000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Excelsior,2967,Nesto Groen,1198088,22,185.0,Netherlands,F,Right,1814313600.0,105000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Excelsior,2967,Gyan de Regt,1126966,22,176.0,Netherlands,M,Left,1814313600.0,875000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Excelsior,2967,Irakli Yegoian,1384483,22,168.0,Georgia,M,Right,1845936000.0,1700000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Excelsior,2967,Noah Naujoks,1048487,24,183.0,Netherlands,M,Right,1814313600.0,1400000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Excelsior,2967,Lennard Hartjes,1126595,23,170.0,Netherlands,M,Right,1814313600.0,825000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Excelsior,2967,Valentin Sulzbacher,1210860,21,189.0,Austria,M,Both,1877472000.0,1100000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Excelsior,2967,Mathijs Tielemans,966542,24,181.0,Netherlands,M,Right,1845936000.0,340000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Excelsior,2967,Ilano Silva Timas,1896511,23,183.0,Cape Verde,M,Both,1877472000.0,325000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Excelsior,2967,Daniel van Vianen,1146629,23,188.0,Netherlands,M,Left,1877472000.0,560000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Excelsior,2967,Noa el Hamdaoui,2202901,18,,Netherlands,M,,1814313600.0,,,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Excelsior,2967,Jan Plug,1545079,21,188.0,Netherlands,D,Left,1814313600.0,720000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Excelsior,2967,Osman Turay,2157303,18,173.0,Germany,D,Left,1877472000.0,,,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Excelsior,2967,Kasey Bos,1512624,22,180.0,Australia,D,Left,1814313600.0,390000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Excelsior,2967,Marlon van de Wetering,2204654,18,,Jamaica,D,Right,1877472000.0,185000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Excelsior,2967,Casper Widell,1031721,23,192.0,Sweden,D,Right,1814313600.0,1500000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Excelsior,2967,Nolan Martens,1153163,22,180.0,Belgium,D,Right,1814313600.0,480000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Excelsior,2967,Stan Henderikx,1133679,23,187.0,Netherlands,D,Left,1845936000.0,385000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Excelsior,2967,Simon Janssen,946950,25,179.0,Netherlands,D,Right,1814313600.0,365000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Excelsior,2967,Rick Meissen,1048906,24,193.0,Netherlands,D,Right,1814313600.0,760000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Excelsior,2967,Giuliano Cairo,1923374,20,,Netherlands,D,,1845936000.0,,,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Excelsior,2967,Celton Biai,976399,25,188.0,Guinea-Bissau,G,Right,1845936000.0,535000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Excelsior,2967,Stijn van Gassel,367118,29,185.0,Netherlands,G,Right,1814313600.0,1000000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Excelsior,2967,Tijmen Holla,1893851,20,,Netherlands,G,,1814313600.0,72000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Volendam,2968,Henk Veerman,313264,35,201.0,Netherlands,F,Right,1814313600.0,260000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Volendam,2968,Jesper Tielemans,1939251,20,,Netherlands,F,,1845936000.0,49000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Volendam,2968,Jerayson Hoepel,1940506,18,,Netherlands,F,Left,1877472000.0,,,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Volendam,2968,Jahmani Gambier,2643099,22,,Netherlands,F,,1814313600.0,,,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Volendam,2968,Kayden Wolff,1403078,20,186.0,Netherlands,M,Right,1877472000.0,410000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Volendam,2968,Nick Doodeman,822166,29,173.0,Netherlands,M,Right,1877472000.0,645000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Volendam,2968,Nordin Bukala,1511723,20,184.0,Netherlands,M,,1845936000.0,630000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Volendam,2968,Mohammed Belfqih,2643404,18,,Morocco,M,,1845936000.0,,,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Volendam,2968,Reuven Niemeijer,846202,31,178.0,Netherlands,M,Right,1845936000.0,490000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Volendam,2968,Daan Huisman,1048098,24,189.0,Netherlands,M,Right,1877472000.0,370000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Volendam,2968,Alex Plat,860161,28,178.0,Netherlands,M,Right,1814313600.0,310000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Volendam,2968,Ryan de Vries,2655959,18,182.0,Netherlands,M,Left,,,,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Volendam,2968,Mika van der Horst,1632294,21,,Netherlands,M,,1814313600.0,27000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Volendam,2968,Precious Ugwu,1481354,20,192.0,Netherlands,D,Right,1845936000.0,475000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Volendam,2968,Mawouna Amevor,106154,34,191.0,Togo,D,Right,1814313600.0,190000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Volendam,2968,Yannick Leliendal,996982,24,168.0,Suriname,D,Left,1845936000.0,1100000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Volendam,2968,Mike Kleijn,1193084,21,175.0,Netherlands,D,Left,1814313600.0,280000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Volendam,2968,Silvinho Esajas,1011489,24,193.0,Suriname,D,Right,1845936000.0,145000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Volendam,2968,Daniël Beukers,1405740,22,181.0,Netherlands,D,Right,1814313600.0,185000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Volendam,2968,Luca Blondeau,1922946,20,194.0,Netherlands,D,Right,1877472000.0,69000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Volendam,2968,Deron Payne,1423743,23,182.0,Trinidad and Tobago,D,Right,1845936000.0,365000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Volendam,2968,Erik Schouten,116945,34,183.0,Netherlands,D,Both,1814313600.0,48000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Volendam,2968,Jaïr Haakmat,1183535,22,190.0,Netherlands,D,Left,1814313600.0,24000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Volendam,2968,Daan Bisschops,1386780,21,,Netherlands,D,,1845936000.0,,,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Volendam,2968,Enzo Pestana,1939253,18,,Netherlands,D,Right,1877472000.0,,,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Volendam,2968,Hidde Jurjus,339941,32,187.0,Netherlands,G,Right,1877472000.0,240000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Volendam,2968,Roy Steur,1403023,21,192.0,Netherlands,G,Right,1845936000.0,195000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Volendam,2968,Yaell Samson,1489946,20,183.0,Netherlands,G,,,,,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,FC Volendam,2968,Dion Vlak,1065542,25,,Netherlands,G,Right,1845936000.0,23000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Vitesse,2958,Naoufal Bannis,961689,24,180.0,Morocco,F,Right,1814313600.0,350000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Vitesse,2958,Ayman Sellouf,992645,24,177.0,Netherlands,F,Left,1814313600.0,115000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Vitesse,2958,João Pinto,1142163,22,186.0,Portugal,F,Both,1814313600.0,285000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Vitesse,2958,Eduard Probst,1387939,25,184.0,Germany,F,Right,1845936000.0,195000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Vitesse,2958,Koen te Veluwe,2444709,20,,Netherlands,F,,,,,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Vitesse,2958,Milan Brouwer,2680912,19,,Netherlands,F,,,,,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Vitesse,2958,Nino Zonneveld,2001079,20,184.0,Netherlands,M,,1845936000.0,295000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Vitesse,2958,Yuval Ranon,1426368,20,180.0,Israel,M,Both,1814313600.0,160000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Vitesse,2958,Youssef Ouallil,2058698,18,,Netherlands,M,,1877472000.0,46000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Vitesse,2958,Mathijs Marschalk,2058697,21,177.0,Netherlands,M,Right,1845936000.0,320000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Vitesse,2958,Filipe de Ferreira,1102460,22,176.0,Switzerland,M,Right,1845936000.0,240000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Vitesse,2958,Ricardo-Felipe Schwarz,1083399,22,174.0,Germany,M,Right,1814313600.0,245000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Vitesse,2958,Marco Schikora,844381,31,181.0,Germany,M,Both,1845936000.0,285000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Vitesse,2958,Teun Bosch,2441659,20,188.0,Netherlands,M,Left,1814313600.0,,,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Vitesse,2958,Jort van de Glind,2680911,18,,Netherlands,M,,,,,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Vitesse,2958,Omar Achouitar,2203219,21,185.0,Morocco,D,Left,1845936000.0,310000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Vitesse,2958,Solomon Bonnah,1012898,22,165.0,Netherlands,D,Right,1814313600.0,285000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Vitesse,2958,Alexander Büttner,35402,37,174.0,Netherlands,D,Left,1845936000.0,105000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Vitesse,2958,Valon Zumberi,1005919,23,188.0,Kosovo,D,Right,1814313600.0,370000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Vitesse,2958,Nathan Markelo,920489,27,182.0,Curacao,D,Right,1877472000.0,245000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Vitesse,2958,Xiamaro Thenu,1129128,21,,Netherlands,D,,1814313600.0,170000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Vitesse,2958,Chiel Olde Keizer,1383167,23,185.0,Netherlands,D,Left,1814313600.0,73000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Vitesse,2958,Marcus Steffen,1191338,23,189.0,Netherlands,D,Right,1845936000.0,290000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Vitesse,2958,Tyrick Bodak,1049270,24,190.0,Curacao,G,Right,1814313600.0,27000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Vitesse,2958,Connor van den Berg,990815,25,187.0,Netherlands,G,Right,1814313600.0,330000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Vitesse,2958,Maximilian Brüll,1111011,23,186.0,Germany,G,Right,1814313600.0,120000.0,EUR,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Vitesse,2958,Jayden Siecker,2058696,20,187.0,Netherlands,G,Right,,,,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134
+Netherlands,VriendenLoterij Eredivisie,37,52554,Vitesse,2958,Dylan Tevreden,1648753,21,185.0,Netherlands,G,Right,,,,NED,2023-2024,datafc_sofascore,2026-08-09T08:45:38.702134

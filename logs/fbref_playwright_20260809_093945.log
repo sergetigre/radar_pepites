@@ -1,0 +1,43 @@
+2026-08-09 09:39:45,046 [INFO] =================================================================
+2026-08-09 09:39:45,048 [INFO]   RadarPepites - Scraping fbref Playwright -> Bronze
+2026-08-09 09:39:45,050 [INFO] =================================================================
+2026-08-09 09:39:45,051 [INFO]   Ligues  : ['POR', 'NED', 'BEL', 'TUR', 'AUT']
+2026-08-09 09:39:45,054 [INFO]   Saisons : ['2023-2024', '2024-2025', '2025-2026']
+2026-08-09 09:39:45,056 [INFO]   Stats   : ['passing', 'passing_types', 'goal_shot_creation', 'defense', 'possession']
+2026-08-09 09:39:45,058 [INFO]   Total   : 75 pages à scraper
+2026-08-09 09:39:45,059 [INFO]   Durée   : ~12 minutes
+2026-08-09 09:39:45,068 [INFO] =================================================================
+2026-08-09 09:39:45,916 [INFO] Initialisation de la session fbref...
+2026-08-09 09:39:49,069 [INFO] Session fbref établie
+2026-08-09 09:39:49,069 [INFO] [1/75] Primeira Liga | 2023-2024 | passing
+2026-08-09 09:39:49,070 [INFO]     URL : https://fbref.com/en/comps/32/2023-2024/passing/2023-2024-Primeira-Liga-Stats
+2026-08-09 09:39:54,156 [WARNING]     Cloudflare détecté — attente 20s...
+2026-08-09 09:40:14,168 [WARNING]     Table 'stats_passing' introuvable dans la page
+2026-08-09 09:40:14,170 [WARNING]   -> Echec : POR_2023-2024_passing
+2026-08-09 09:40:14,171 [INFO]   -> Pause 5s...
+2026-08-09 09:40:19,174 [INFO] [2/75] Primeira Liga | 2023-2024 | passing_types
+2026-08-09 09:40:19,175 [INFO]     URL : https://fbref.com/en/comps/32/2023-2024/passing_types/2023-2024-Primeira-Liga-Stats
+2026-08-09 09:40:24,339 [WARNING]     Cloudflare détecté — attente 20s...
+2026-08-09 09:40:44,355 [WARNING]     Table 'stats_passing_types' introuvable dans la page
+2026-08-09 09:40:44,357 [WARNING]   -> Echec : POR_2023-2024_passing_types
+2026-08-09 09:40:44,359 [INFO]   -> Pause 5s...
+2026-08-09 09:40:49,360 [INFO] [3/75] Primeira Liga | 2023-2024 | goal_shot_creation
+2026-08-09 09:40:49,361 [INFO]     URL : https://fbref.com/en/comps/32/2023-2024/goal_shot_creation/2023-2024-Primeira-Liga-Stats
+2026-08-09 09:40:54,533 [WARNING]     Cloudflare détecté — attente 20s...
+2026-08-09 09:41:14,556 [WARNING]     Table 'stats_gca' introuvable dans la page
+2026-08-09 09:41:14,557 [WARNING]   -> Echec : POR_2023-2024_goal_shot_creation
+2026-08-09 09:41:14,558 [INFO]   -> Pause 5s...
+2026-08-09 09:41:19,560 [INFO] [4/75] Primeira Liga | 2023-2024 | defense
+2026-08-09 09:41:19,561 [INFO]     URL : https://fbref.com/en/comps/32/2023-2024/defense/2023-2024-Primeira-Liga-Stats
+2026-08-09 09:41:24,747 [WARNING]     Cloudflare détecté — attente 20s...
+2026-08-09 09:41:44,772 [WARNING]     Table 'stats_defense' introuvable dans la page
+2026-08-09 09:41:44,773 [WARNING]   -> Echec : POR_2023-2024_defense
+2026-08-09 09:41:44,775 [INFO]   -> Pause 5s...
+2026-08-09 09:41:49,777 [INFO] [5/75] Primeira Liga | 2023-2024 | possession
+2026-08-09 09:41:49,778 [INFO]     URL : https://fbref.com/en/comps/32/2023-2024/possession/2023-2024-Primeira-Liga-Stats
+2026-08-09 09:41:54,935 [WARNING]     Cloudflare détecté — attente 20s...
+2026-08-09 09:42:13,873 [ERROR] Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2026-08-09 09:42:13,874 [ERROR] Task was destroyed but it is pending!
+task: <Task cancelling name='Task-34' coro=<Page.wait_for_timeout() done, defined at C:\Users\serge\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\_impl\_page.py:1141> wait_for=<Future finished result=None> cb=[SyncBase._sync.<locals>.<lambda>() at C:\Users\serge\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\_impl\_sync_base.py:111]>

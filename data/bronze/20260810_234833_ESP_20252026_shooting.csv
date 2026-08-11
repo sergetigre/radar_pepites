@@ -1,0 +1,612 @@
+﻿league,season,team,player,nation,pos,age,born,90s,Standard_Gls,Standard_Sh,Standard_SoT,Standard_SoT%,Standard_Sh/90,Standard_SoT/90,Standard_G/Sh,Standard_G/SoT,Standard_PK,Standard_PKatt,_league_id,_season,_stat_type,_source,_scraped_at
+ESP-La Liga,2526,Alavés,Abde Rebbach,ALG,"MF,DF",26,1998,16.6,1,34,12,35.3,2.05,0.72,0.03,0.08,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Alavés,Aitor Mañas,ESP,FW,22,2003,1.4,0,2,1,50.0,1.48,0.74,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Alavés,Ander Guevara,ESP,MF,28,1997,7.3,1,5,1,20.0,0.69,0.14,0.2,1.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Alavés,Antonio Blanco,ESP,MF,25,2000,34.6,2,40,13,32.5,1.16,0.38,0.05,0.15,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Alavés,Antonio Sivera,ESP,GK,28,1996,38.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Alavés,Calebe,BRA,MF,25,2000,8.4,0,5,1,20.0,0.6,0.12,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Alavés,Carles Aleñá,ESP,MF,27,1998,22.1,0,29,5,17.2,1.31,0.23,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Alavés,Carlos Ballestero,ESP,DF,21,2004,0.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Alavés,Carlos Benavídez,URU,DF,27,1998,3.6,0,3,2,66.7,0.83,0.56,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Alavés,Carlos Vicente,ESP,MF,26,1999,14.0,5,12,6,50.0,0.86,0.43,0.17,0.33,3,3,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Alavés,Denis Suárez,ESP,MF,31,1994,15.6,1,9,4,44.4,0.58,0.26,0.11,0.25,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Alavés,Diego Morcillo,ESP,FW,22,2003,0.1,0,1,0,0.0,9.0,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Alavés,Facundo Garcés,MAS,DF,25,1999,8.8,0,8,4,50.0,0.91,0.45,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Alavés,Ibrahim Diabaté,CIV,FW,25,1999,6.4,2,15,5,33.3,2.34,0.78,0.13,0.4,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Alavés,Jon Guridi,ESP,"MF,FW",30,1995,13.8,0,15,4,26.7,1.09,0.29,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Alavés,Jon Pacheco,ESP,DF,24,2001,19.3,0,4,1,25.0,0.21,0.05,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Alavés,Jonny Castro,ESP,DF,31,1994,33.3,0,9,3,33.3,0.27,0.09,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Alavés,Lander Pinillos,ESP,MF,21,2003,0.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Alavés,Lucas Boyé,ARG,FW,29,1996,21.8,11,63,21,33.3,2.9,0.97,0.13,0.38,3,3,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Alavés,Mariano,DOM,FW,31,1993,3.2,0,6,3,50.0,1.87,0.94,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Alavés,Moussa Diarra,MLI,DF,24,2000,2.4,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Alavés,Nahuel Tenaglia,ARG,DF,29,1996,36.0,2,24,8,33.3,0.67,0.22,0.08,0.25,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Alavés,Pablo Ibáñez,ESP,MF,26,1998,24.8,1,47,13,27.7,1.89,0.52,0.02,0.08,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Alavés,Toni Martínez,ESP,FW,28,1997,30.2,14,93,36,38.7,3.08,1.19,0.14,0.36,1,1,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Alavés,Victor Parada,ESP,DF,23,2002,23.8,0,12,3,25.0,0.5,0.13,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Alavés,Ville Koski,FIN,DF,23,2002,3.1,0,1,1,100.0,0.32,0.32,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Alavés,Youssef Lekhedim,ESP,"DF,MF",19,2005,14.8,0,11,3,27.3,0.74,0.2,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Alavés,Ángel Pérez,ESP,"MF,DF",22,2002,14.3,1,14,4,28.6,0.98,0.28,0.07,0.25,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Athletic Club,Adama Boiro,ESP,DF,23,2002,9.1,0,2,0,0.0,0.22,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Athletic Club,Aitor Paredes,ESP,DF,25,2000,18.1,2,13,4,30.8,0.72,0.22,0.15,0.5,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Athletic Club,Alejandro Rego,ESP,MF,22,2003,14.2,1,12,3,25.0,0.84,0.21,0.08,0.33,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Athletic Club,Alex Padilla,ESP,GK,21,2003,1.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Athletic Club,Andoni Gorosabel,ESP,DF,28,1996,15.1,0,5,1,20.0,0.33,0.07,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Athletic Club,Asier Hierro,ESP,FW,20,2005,0.4,0,1,0,0.0,2.65,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Athletic Club,Aymeric Laporte,ESP,DF,31,1994,22.9,0,15,5,33.3,0.66,0.22,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Athletic Club,Beñat Prados,ESP,MF,24,2001,0.9,0,1,0,0.0,1.06,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Athletic Club,Daniel Vivian,ESP,DF,26,1999,28.5,1,17,6,35.3,0.6,0.21,0.06,0.17,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Athletic Club,Eder García,ESP,FW,21,2004,0.4,0,1,0,0.0,2.37,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Athletic Club,Gorka Guruzeta,ESP,FW,28,1996,26.3,10,84,32,38.1,3.2,1.22,0.11,0.28,1,1,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Athletic Club,Iñaki Williams,GHA,"MF,FW",31,1994,24.0,3,57,20,35.1,2.38,0.83,0.04,0.1,1,1,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Athletic Club,Iñigo Lekue,ESP,DF,32,1993,6.7,0,3,1,33.3,0.45,0.15,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Athletic Club,Iñigo Ruiz de Galarreta,ESP,MF,31,1993,24.5,1,20,2,10.0,0.82,0.08,0.05,0.5,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Athletic Club,Jesús Areso,ESP,DF,26,1999,16.7,0,3,0,0.0,0.18,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Athletic Club,Maroan Sannadi,MAR,FW,24,2001,3.2,1,8,4,50.0,2.5,1.25,0.13,0.25,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Athletic Club,Mikel Jauregizar,ESP,MF,21,2003,31.5,2,39,11,28.2,1.24,0.35,0.05,0.18,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Athletic Club,Mikel Vesga,ESP,MF,32,1993,5.2,0,3,0,0.0,0.58,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Athletic Club,Nico Williams,ESP,MF,23,2002,18.6,6,46,16,34.8,2.47,0.86,0.11,0.31,1,2,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Athletic Club,Nicolás Serrano,ESP,MF,22,2003,4.1,1,16,4,25.0,3.93,0.98,0.06,0.25,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Athletic Club,Oihan Sancet,ESP,MF,25,2000,19.9,4,48,15,31.3,2.42,0.76,0.04,0.13,2,2,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Athletic Club,Roberto Navarro,ESP,MF,23,2002,14.5,6,21,10,47.6,1.45,0.69,0.29,0.6,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Athletic Club,Selton Sánchez,ESP,MF,18,2007,2.2,0,4,1,25.0,1.84,0.46,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Athletic Club,Unai Gómez,ESP,MF,22,2003,10.4,1,23,7,30.4,2.21,0.67,0.04,0.14,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Athletic Club,Unai Simón,ESP,GK,28,1997,37.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Athletic Club,Urko Izeta,ESP,FW,25,1999,2.1,1,11,5,45.5,5.13,2.33,0.09,0.2,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Athletic Club,Yeray Álvarez,ESP,DF,30,1995,5.7,0,1,0,0.0,0.18,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Athletic Club,Yuri Berchiche,ESP,DF,35,1990,30.1,0,24,5,20.8,0.8,0.17,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Athletic Club,Álex Berenguer,ESP,MF,30,1995,23.9,2,44,20,45.5,1.84,0.84,0.05,0.1,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Atlético Madrid,Ademola Lookman,NGA,"FW,MF",27,1997,6.9,4,21,5,23.8,3.06,0.73,0.14,0.6,1,1,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Atlético Madrid,Aleksa Puric,SRB,DF,22,2003,0.5,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Atlético Madrid,Alexander Sørloth,NOR,FW,29,1995,22.0,13,68,35,51.5,3.09,1.59,0.19,0.37,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Atlético Madrid,Antoine Griezmann,FRA,FW,34,1991,16.5,7,47,25,53.2,2.86,1.52,0.15,0.28,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Atlético Madrid,Clément Lenglet,FRA,DF,30,1995,15.5,0,5,0,0.0,0.32,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Atlético Madrid,Conor Gallagher,ENG,MF,25,2000,7.5,2,13,5,38.5,1.72,0.66,0.15,0.4,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Atlético Madrid,Daniel Martinez,ESP,DF,21,2004,1.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Atlético Madrid,Dávid Hancko,SVK,DF,27,1997,27.0,0,21,5,23.8,0.78,0.19,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Atlético Madrid,Giacomo Raspadori,ITA,FW,25,2000,2.6,0,7,3,42.9,2.67,1.14,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Atlético Madrid,Giuliano Simeone,ARG,"MF,FW",22,2002,23.3,4,36,14,38.9,1.54,0.6,0.11,0.29,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Atlético Madrid,Iker Luque,ESP,DF,20,2005,0.3,1,3,2,66.7,9.64,6.43,0.33,0.5,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Atlético Madrid,Jan Oblak,SVN,GK,32,1993,30.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Atlético Madrid,Jano Monserrate,ESP,MF,19,2006,0.3,0,1,1,100.0,3.91,3.91,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Atlético Madrid,Javi Galán,ESP,DF,30,1994,1.5,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Atlético Madrid,Javi Morcillo,ESP,MF,19,2006,1.9,0,2,0,0.0,1.05,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Atlético Madrid,Javier Boñar,ESP,DF,20,2005,3.3,1,2,1,50.0,0.6,0.3,0.5,1.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Atlético Madrid,Johnny Cardoso,USA,MF,23,2001,9.9,0,2,0,0.0,0.2,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Atlético Madrid,José María Giménez,URU,DF,30,1995,13.1,0,13,3,23.1,0.99,0.23,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Atlético Madrid,Juan Musso,ARG,GK,31,1994,8.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Atlético Madrid,Julio Diaz,ESP,DF,20,2005,3.4,0,1,0,0.0,0.29,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Atlético Madrid,Julián Álvarez,ARG,FW,25,2000,21.1,8,54,26,48.1,2.56,1.23,0.11,0.23,2,3,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Atlético Madrid,Koke,ESP,MF,33,1992,24.7,2,14,4,28.6,0.57,0.16,0.14,0.5,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Atlético Madrid,Marc Pubill,ESP,DF,22,2003,15.3,1,11,4,36.4,0.72,0.26,0.09,0.25,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Atlético Madrid,Marcos Llorente,ESP,"DF,MF",30,1995,24.2,0,18,6,33.3,0.74,0.25,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Atlético Madrid,Matteo Ruggeri,ITA,DF,23,2002,19.7,0,5,2,40.0,0.25,0.1,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Atlético Madrid,Miguel Cubo,ESP,FW,17,2008,0.6,1,3,2,66.7,5.4,3.6,0.33,0.5,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Atlético Madrid,Nahuel Molina,ARG,"DF,MF",27,1998,14.8,2,14,4,28.6,0.95,0.27,0.14,0.5,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Atlético Madrid,Nicolás González,ARG,"MF,DF",27,1998,16.1,5,43,21,48.8,2.67,1.31,0.12,0.24,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Atlético Madrid,Obed Vargas,MEX,MF,19,2005,8.2,0,5,0,0.0,0.61,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Atlético Madrid,Pablo Barrios,ESP,MF,22,2003,18.5,1,23,6,26.1,1.25,0.33,0.04,0.17,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Atlético Madrid,Rayane Belaid,ESP,"MF,FW",20,2005,1.5,0,4,0,0.0,2.73,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Atlético Madrid,Robin Le Normand,ESP,DF,28,1996,19.9,1,6,1,16.7,0.3,0.05,0.17,1.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Atlético Madrid,Rodrigo Mendoza,ESP,MF,20,2005,4.8,0,6,2,33.3,1.24,0.41,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Atlético Madrid,Taufik Seidu,ESP,MF,17,2008,0.3,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Atlético Madrid,Thiago Almada,ARG,"MF,FW",24,2001,14.6,3,21,10,47.6,1.44,0.69,0.14,0.3,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Atlético Madrid,Álex Baena,ESP,"MF,FW",24,2001,17.3,2,29,7,24.1,1.67,0.4,0.07,0.29,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Barcelona,Alejandro Balde,ESP,DF,21,2003,20.8,0,10,1,10.0,0.48,0.05,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Barcelona,Alvaro Cortes,ESP,DF,20,2005,1.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Barcelona,Andreas Christensen,DEN,DF,29,1996,4.5,0,4,2,50.0,0.88,0.44,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Barcelona,Dani Olmo,ESP,MF,27,1998,23.0,7,70,21,30.0,3.05,0.91,0.1,0.33,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Barcelona,Dro Fernández,ESP,MF,17,2008,1.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Barcelona,Eric García,ESP,"DF,MF",24,2001,30.2,1,25,7,28.0,0.83,0.23,0.04,0.14,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Barcelona,Fermin López,ESP,MF,22,2003,20.0,6,68,25,36.8,3.41,1.25,0.09,0.24,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Barcelona,Ferran Torres,ESP,FW,25,2000,21.8,16,69,37,53.6,3.16,1.69,0.23,0.43,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Barcelona,Frenkie de Jong,NED,MF,28,1997,18.2,1,7,2,28.6,0.39,0.11,0.14,0.5,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Barcelona,Gavi,ESP,MF,20,2004,6.4,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Barcelona,Gerard Martín,ESP,DF,23,2002,23.5,0,7,4,57.1,0.3,0.17,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Barcelona,Joan García,ESP,GK,24,2001,30.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Barcelona,Jofre Torrents,ESP,DF,18,2007,0.6,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Barcelona,João Cancelo,POR,DF,31,1994,10.6,2,13,4,30.8,1.23,0.38,0.15,0.5,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Barcelona,Jules Koundé,FRA,DF,26,1998,25.1,1,14,4,28.6,0.56,0.16,0.07,0.25,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Barcelona,Lamine Yamal,ESP,"MF,FW",18,2007,25.1,16,117,37,31.6,4.66,1.47,0.11,0.35,3,4,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Barcelona,Marc Bernal,ESP,MF,18,2007,8.8,2,7,2,28.6,0.8,0.23,0.29,1.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Barcelona,Marc Casado,ESP,MF,21,2003,11.0,0,11,0,0.0,1.0,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Barcelona,Marcus Rashford,ENG,"MF,FW",27,1997,19.6,8,76,29,38.2,3.88,1.48,0.11,0.28,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Barcelona,Pau Cubarsí,ESP,DF,18,2007,30.0,1,10,2,20.0,0.33,0.07,0.1,0.5,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Barcelona,Pedri,ESP,MF,22,2002,23.4,2,21,10,47.6,0.9,0.43,0.1,0.2,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Barcelona,Raphinha,BRA,"MF,FW",28,1996,15.3,13,65,24,36.9,4.24,1.57,0.15,0.42,3,3,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Barcelona,Robert Lewandowski,POL,FW,36,1988,18.5,14,63,29,46.0,3.41,1.57,0.21,0.45,1,3,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Barcelona,Ronald Araújo,URU,DF,26,1999,11.9,3,12,5,41.7,1.01,0.42,0.25,0.6,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Barcelona,Roony Bardghji,SWE,"MF,FW",19,2005,7.2,1,22,12,54.5,3.06,1.67,0.05,0.08,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Barcelona,Tomas Marques,ESP,MF,18,2006,0.1,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Barcelona,Toni Fernández,ESP,FW,17,2008,0.5,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Barcelona,Wojciech Szczęsny,POL,GK,35,1990,8.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Barcelona,Xavi Espart,ESP,DF,18,2007,1.8,0,1,0,0.0,0.55,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Celta Vigo,Andrés Antañón,ESP,FW,18,2007,0.7,0,2,2,100.0,2.86,2.86,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Celta Vigo,Borja Iglesias,ESP,FW,32,1993,21.1,14,46,26,56.5,2.18,1.23,0.22,0.38,4,4,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Celta Vigo,Bryan Zaragoza,ESP,"FW,MF",23,2001,12.6,1,26,12,46.2,2.07,0.95,0.0,0.0,1,1,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Celta Vigo,Carl Starfelt,SWE,DF,30,1995,16.6,0,4,1,25.0,0.24,0.06,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Celta Vigo,Carlos Dominguez,ESP,DF,24,2001,6.8,0,2,1,50.0,0.3,0.15,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Celta Vigo,Damián Rodríguez,ESP,MF,22,2003,1.7,0,3,0,0.0,1.8,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Celta Vigo,Fer López,ESP,"MF,FW",21,2004,13.0,1,13,5,38.5,1.0,0.38,0.08,0.2,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Celta Vigo,Ferran Jutglà,ESP,FW,26,1999,18.4,9,45,26,57.8,2.45,1.42,0.2,0.35,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Celta Vigo,Fran Beltrán,ESP,MF,26,1999,5.9,0,6,1,16.7,1.02,0.17,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Celta Vigo,Hugo García,ESP,MF,18,2006,0.1,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Celta Vigo,Hugo González,ESP,FW,22,2003,0.1,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Celta Vigo,Hugo Sotelo,ESP,MF,21,2003,14.9,0,2,1,50.0,0.13,0.07,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Celta Vigo,Hugo Álvarez,ESP,"FW,MF",22,2003,14.9,4,14,8,57.1,0.94,0.54,0.29,0.5,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Celta Vigo,Iago Aspas,ESP,"FW,MF",37,1987,12.7,5,28,12,42.9,2.21,0.95,0.11,0.25,2,2,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Celta Vigo,Ilaix Moriba,GUI,MF,22,2003,27.7,2,18,5,27.8,0.65,0.18,0.11,0.4,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Celta Vigo,Ionuț Radu,ROU,GK,28,1997,38.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Celta Vigo,Javi Rodríguez,ESP,DF,22,2003,28.4,0,12,1,8.3,0.42,0.04,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Celta Vigo,Javi Rueda,ESP,MF,23,2002,15.6,2,11,3,27.3,0.71,0.19,0.18,0.67,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Celta Vigo,Jones El-Abdellaoui,MAR,"MF,FW",19,2006,7.6,2,17,4,23.5,2.25,0.53,0.12,0.5,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Celta Vigo,Joseph Aidoo,GHA,DF,29,1995,7.1,0,2,0,0.0,0.28,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Celta Vigo,Manu Fernández,ESP,DF,24,2001,8.4,0,2,0,0.0,0.24,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Celta Vigo,Marcos Alonso,ESP,DF,34,1990,30.8,1,24,3,12.5,0.78,0.1,0.0,0.0,1,1,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Celta Vigo,Matías Vecino,URU,MF,33,1991,1.5,0,2,0,0.0,1.33,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Celta Vigo,Miguel Román,ESP,MF,22,2002,14.6,1,9,2,22.2,0.62,0.14,0.11,0.5,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Celta Vigo,Mihailo Ristić,SRB,"MF,DF",29,1995,2.8,0,1,0,0.0,0.36,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Celta Vigo,Pablo Durán,ESP,"FW,MF",24,2001,15.8,2,37,15,40.5,2.34,0.95,0.05,0.13,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Celta Vigo,Sergio Carreira,ESP,MF,24,2000,29.9,2,16,7,43.8,0.53,0.23,0.13,0.29,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Celta Vigo,Williot Swedberg,SWE,"FW,MF",21,2004,14.1,5,23,12,52.2,1.63,0.85,0.22,0.42,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Celta Vigo,Yoel Lago,ESP,DF,21,2004,10.4,0,1,0,0.0,0.1,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Celta Vigo,Álvaro Núñez,ESP,"DF,MF",25,2000,3.6,0,2,1,50.0,0.55,0.27,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Celta Vigo,Óscar Mingueza,ESP,MF,26,1999,21.9,1,14,5,35.7,0.64,0.23,0.07,0.2,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Elche,Adam Boayar,MAR,MF,19,2005,1.2,1,5,2,40.0,4.33,1.73,0.2,0.5,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Elche,Adrià Pedrosa,ESP,"DF,MF",27,1998,12.1,1,12,3,25.0,0.99,0.25,0.08,0.33,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Elche,Aleix Febas,ESP,MF,29,1996,35.1,2,23,8,34.8,0.66,0.23,0.09,0.25,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Elche,Ali Houary,MAR,MF,19,2005,1.4,0,2,0,0.0,1.46,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Elche,André Silva,POR,FW,29,1995,20.5,10,57,29,50.9,2.77,1.41,0.12,0.24,3,3,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Elche,Bambo Diaby,SEN,DF,27,1997,1.1,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Elche,Buba Sangaré,ESP,"DF,MF",17,2007,6.0,0,2,0,0.0,0.33,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Elche,David Affengruber,AUT,DF,24,2001,32.8,1,14,4,28.6,0.43,0.12,0.07,0.25,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Elche,Federico Redondo,ARG,MF,22,2003,2.0,0,1,0,0.0,0.5,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Elche,Germán Valera,ESP,"MF,DF",23,2002,31.7,4,28,8,28.6,0.88,0.25,0.14,0.5,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Elche,Gonzalo Villar,ESP,MF,27,1998,8.0,1,4,1,25.0,0.5,0.13,0.25,1.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Elche,Grady Diangana,COD,"MF,FW",27,1998,10.3,1,16,2,12.5,1.56,0.19,0.06,0.5,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Elche,Héctor Fort,ESP,"DF,MF",18,2006,5.4,2,12,5,41.7,2.24,0.93,0.17,0.4,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Elche,Iñaki Peña,ESP,GK,26,1999,16.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Elche,Jairo Izquierdo,ESP,"DF,FW",31,1993,0.3,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Elche,John Donald,ESP,"DF,MF",24,2000,7.4,1,6,2,33.3,0.81,0.27,0.17,0.5,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Elche,Josan,ESP,"MF,DF",35,1989,6.3,0,3,1,33.3,0.48,0.16,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Elche,Lucas Cepeda,CHI,MF,22,2002,4.5,1,13,5,38.5,2.91,1.12,0.08,0.2,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Elche,Léo Pétrot,FRA,DF,28,1997,17.5,0,8,0,0.0,0.46,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Elche,Marc Aguado,ESP,MF,25,2000,27.8,1,3,2,66.7,0.11,0.07,0.33,0.5,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Elche,Martim Neto,POR,MF,22,2003,15.0,2,12,4,33.3,0.8,0.27,0.17,0.5,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Elche,Matías Dituro,ARG,GK,38,1987,22.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Elche,Mourad El Ghezouani,MAR,FW,27,1998,0.6,0,1,0,0.0,1.8,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Elche,Pedro Bigas,ESP,DF,34,1990,22.9,1,10,3,30.0,0.44,0.13,0.1,0.33,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Elche,Rafa Mir,ESP,"FW,MF",28,1997,20.0,8,69,36,52.2,3.44,1.8,0.1,0.19,1,2,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Elche,Rodrigo Mendoza,ESP,"MF,FW",20,2005,8.8,1,11,2,18.2,1.25,0.23,0.09,0.5,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Elche,Tete Morente,ESP,MF,28,1996,10.3,1,8,1,12.5,0.78,0.1,0.13,1.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Elche,Víctor Chust,ESP,DF,25,2000,24.1,1,9,3,33.3,0.37,0.12,0.11,0.33,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Elche,Yago Santiago,ESP,MF,22,2003,3.1,0,2,0,0.0,0.64,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Elche,Álex Sánchez,ESP,FW,19,2006,0.1,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Elche,Álvaro Núñez,ESP,"DF,MF",25,2000,18.3,0,4,0,0.0,0.22,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Elche,Álvaro Rodríguez,URU,FW,21,2004,24.5,7,75,24,32.0,3.07,0.98,0.09,0.29,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Espanyol,Antoniu,ESP,MF,22,2002,3.2,0,5,1,20.0,1.56,0.31,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Espanyol,Carlos Romero,ESP,DF,23,2001,35.5,6,42,12,28.6,1.18,0.34,0.14,0.5,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Espanyol,Charles Pickel,COD,MF,28,1997,7.9,1,10,4,40.0,1.27,0.51,0.1,0.25,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Espanyol,Clemens Riedel,GER,DF,22,2003,15.5,0,3,1,33.3,0.19,0.06,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Espanyol,Cyril Ngonge,BEL,MF,25,2000,4.7,0,11,4,36.4,2.33,0.85,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Espanyol,Edu Expósito,ESP,MF,28,1996,28.0,1,44,13,29.5,1.57,0.46,0.02,0.08,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Espanyol,Fernando Calero,ESP,DF,29,1995,23.9,0,12,1,8.3,0.5,0.04,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Espanyol,Fortuño,ESP,GK,23,2001,1.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Espanyol,Javi Puado,ESP,"MF,FW",27,1998,7.5,2,15,9,60.0,2.0,1.2,0.07,0.11,1,2,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Espanyol,Jofre,ESP,MF,24,2001,10.3,1,23,7,30.4,2.23,0.68,0.04,0.14,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Espanyol,José Salinas,ESP,DF,24,2000,2.9,0,1,0,0.0,0.35,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Espanyol,Kiké,ESP,FW,35,1989,19.3,8,60,27,45.0,3.11,1.4,0.12,0.26,1,2,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Espanyol,Leandro Cabrera,URU,DF,34,1991,37.0,3,40,12,30.0,1.08,0.32,0.08,0.25,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Espanyol,Lluc Castell,ESP,FW,18,2006,0.2,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Espanyol,Luca Koleosho,ITA,MF,20,2004,0.7,0,1,0,0.0,1.43,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Espanyol,Marko Dmitrović,SRB,GK,33,1992,37.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Espanyol,Miguel Ángel Rubio,ESP,DF,27,1998,2.3,1,2,1,50.0,0.87,0.44,0.5,1.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Espanyol,Omar El Hilali,MAR,DF,21,2003,31.4,0,1,0,0.0,0.03,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Espanyol,Pere Milla,ESP,"MF,FW",32,1992,21.9,7,59,21,35.6,2.69,0.96,0.12,0.33,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Espanyol,Pol Lozano,ESP,MF,25,1999,24.0,2,17,5,29.4,0.71,0.21,0.12,0.4,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Espanyol,Ramón Terrats,ESP,MF,24,2000,11.4,1,15,3,20.0,1.31,0.26,0.07,0.33,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Espanyol,Roberto Férnandez,ESP,FW,23,2002,26.5,7,59,23,39.0,2.23,0.87,0.1,0.26,1,1,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Espanyol,Rubén,ESP,"DF,MF",24,2001,9.0,0,8,1,12.5,0.89,0.11,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Espanyol,Tyrhys Dolan,ENG,MF,23,2001,26.8,2,34,12,35.3,1.27,0.45,0.06,0.17,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Espanyol,Urko González,ESP,MF,24,2001,29.1,0,18,1,5.6,0.62,0.03,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Getafe,Abdel Abqar,MAR,DF,26,1999,16.0,0,7,1,14.3,0.44,0.06,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Getafe,Abu Kamara,ENG,MF,22,2003,2.8,0,4,1,25.0,1.41,0.35,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Getafe,Adrián Liso,ESP,"FW,MF",20,2005,18.9,3,26,10,38.5,1.37,0.53,0.12,0.3,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Getafe,Alejandro Mestanza,ESP,MF,20,2004,0.8,0,1,0,0.0,1.27,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Getafe,Alex Sola,ESP,"DF,FW",26,1999,0.1,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Getafe,Allan Nyom,CMR,DF,37,1988,5.8,0,3,1,33.3,0.52,0.17,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Getafe,Borja Mayoral,ESP,FW,28,1997,11.8,4,15,7,46.7,1.28,0.6,0.27,0.57,0,1,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Getafe,Christantus Uche,NGA,FW,22,2003,3.0,1,6,1,16.7,2.0,0.33,0.17,1.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Getafe,Coba da Costa,ESP,MF,23,2002,3.9,0,5,1,20.0,1.29,0.26,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Getafe,Damián,ESP,MF,22,2003,1.7,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Getafe,David Soria,ESP,GK,32,1993,38.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Getafe,Davinchi,ESP,DF,17,2007,7.8,0,4,2,50.0,0.51,0.26,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Getafe,Diego Rico,ESP,DF,32,1993,19.5,0,11,1,9.1,0.56,0.05,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Getafe,Djené,TOG,"DF,MF",33,1991,28.6,0,4,0,0.0,0.14,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Getafe,Domingos Duarte,POR,DF,30,1995,32.5,1,13,4,30.8,0.4,0.12,0.08,0.25,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Getafe,Hugo Solozabal,ESP,MF,22,2003,0.1,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Getafe,Iglesias,ESP,DF,27,1998,35.4,1,26,5,19.2,0.73,0.14,0.04,0.2,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Getafe,Ismael Bekhoucha,MAR,DF,20,2004,1.4,0,1,0,0.0,0.74,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Getafe,Javier Muñoz,ESP,"MF,FW",30,1995,6.1,0,13,6,46.2,2.12,0.98,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Getafe,Jorge Montes,ESP,DF,21,2004,0.3,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Getafe,Joselu Pérez,ESP,DF,21,2004,0.2,0,1,0,0.0,4.09,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Getafe,Juanmi,ESP,"FW,MF",32,1993,2.0,1,2,1,50.0,1.01,0.5,0.5,1.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Getafe,Kiko Femenía,ESP,"DF,MF",34,1991,22.3,1,8,3,37.5,0.36,0.13,0.13,0.33,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Getafe,Luis Milla,ESP,MF,30,1994,36.3,1,27,4,14.8,0.74,0.11,0.04,0.25,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Getafe,Luis Vázquez,ARG,FW,24,2001,13.3,3,25,9,36.0,1.88,0.68,0.12,0.33,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Getafe,Mario Martín,ESP,"MF,FW",21,2004,23.6,2,26,6,23.1,1.1,0.25,0.08,0.33,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Getafe,Martin Satriano,URU,"FW,MF",24,2001,17.8,6,35,14,40.0,1.97,0.79,0.17,0.43,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Getafe,Mauro Arambarri,URU,MF,29,1995,36.1,6,58,19,32.8,1.61,0.53,0.07,0.21,2,3,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Getafe,Sebastián Boselli,URU,DF,21,2003,4.2,0,4,1,25.0,0.95,0.24,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Getafe,Veljko Birmančević,SRB,FW,27,1998,1.6,0,2,1,50.0,1.27,0.63,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Getafe,Yvan Neyou,CMR,MF,28,1997,0.7,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Getafe,Zaid Romero,ARG,DF,25,1999,15.0,1,10,2,20.0,0.67,0.13,0.1,0.5,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Getafe,Álex Sancris,ESP,"MF,FW",28,1997,7.9,0,13,5,38.5,1.65,0.64,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Girona,Abel Ruiz,ESP,FW,25,2000,2.1,0,5,1,20.0,2.41,0.48,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Girona,Alejandro Francés,ESP,DF,22,2002,12.4,0,16,4,25.0,1.29,0.32,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Girona,Arnau Martinez,ESP,"DF,MF",22,2003,29.6,2,19,4,21.1,0.64,0.14,0.11,0.5,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Girona,Axel Witsel,BEL,MF,36,1989,28.1,1,20,5,25.0,0.71,0.18,0.05,0.2,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Girona,Azzedine Ounahi,MAR,MF,25,2000,19.6,5,51,19,37.3,2.61,0.97,0.08,0.21,1,1,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Girona,Bojan Miovski,MKD,FW,26,1999,0.5,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Girona,Bryan Gil,ESP,"MF,FW",24,2001,17.5,0,27,7,25.9,1.54,0.4,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Girona,Claudio Echeverri,ARG,"FW,MF",19,2006,6.9,1,21,7,33.3,3.03,1.01,0.05,0.14,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Girona,Cristhian Stuani,URU,FW,38,1986,4.6,5,19,12,63.2,4.15,2.62,0.11,0.17,3,4,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Girona,Daley Blind,NED,DF,35,1990,29.0,0,5,1,20.0,0.17,0.03,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Girona,David López,ESP,DF,35,1989,3.3,0,1,1,100.0,0.31,0.31,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Girona,Dawda Camara,MTN,FW,22,2002,0.8,0,2,1,50.0,2.5,1.25,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Girona,Donny van de Beek,NED,MF,28,1997,0.5,0,2,1,50.0,4.39,2.2,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Girona,Fran Beltrán,ESP,MF,26,1999,11.2,1,10,3,30.0,0.89,0.27,0.1,0.33,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Girona,Hugo Rincón,ESP,DF,22,2003,19.4,1,7,2,28.6,0.36,0.1,0.14,0.5,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Girona,Iván Martín,ESP,MF,26,1999,28.1,0,13,5,38.5,0.46,0.18,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Girona,Jhon Solis,COL,MF,20,2004,4.2,0,3,2,66.7,0.71,0.47,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Girona,Joel Roca,ESP,"MF,FW",20,2005,16.4,3,48,16,33.3,2.93,0.98,0.06,0.19,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Girona,Juan Arango,VEN,MF,19,2006,0.2,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Girona,Ladislav Krejčí,CZE,DF,26,1999,2.0,0,1,0,0.0,0.5,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Girona,Lancinet Kourouma,GUI,FW,21,2004,0.5,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Girona,Marc-André ter Stegen,GER,GK,33,1992,2.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Girona,Paulo Gazzaniga,ARG,GK,33,1992,34.5,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Girona,Portu,ESP,"FW,MF",33,1992,5.3,0,9,5,55.6,1.71,0.95,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Girona,Thomas Lemar,FRA,MF,29,1995,14.0,3,17,8,47.1,1.22,0.57,0.18,0.38,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Girona,Viktor Tsyhankov,UKR,"MF,FW",27,1997,29.2,6,51,21,41.2,1.75,0.72,0.12,0.29,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Girona,Vitor Reis,BRA,DF,19,2006,34.9,1,19,4,21.1,0.54,0.11,0.05,0.25,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Girona,Vladyslav Krapyvtsov,UKR,GK,20,2005,1.5,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Girona,Vladyslav Vanat,UKR,FW,23,2002,21.6,9,27,18,66.7,1.25,0.83,0.22,0.33,3,3,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Girona,Yangel Herrera,VEN,MF,27,1998,1.2,0,1,0,0.0,0.82,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Girona,Yaser Asprilla,COL,"FW,MF",21,2003,6.8,0,15,5,33.3,2.21,0.74,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Girona,Álex Moreno,ESP,DF,32,1993,28.4,0,17,5,29.4,0.6,0.18,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Levante,Adrián de la Fuente,ESP,DF,26,1999,30.1,3,39,9,23.1,1.29,0.3,0.05,0.22,1,3,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Levante,Alan Matturro,URU,DF,20,2004,10.5,1,8,1,12.5,0.76,0.1,0.13,1.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Levante,Brugui,ESP,"MF,FW",28,1996,11.2,1,28,9,32.1,2.51,0.81,0.04,0.11,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Levante,Carlos Espí,ESP,FW,20,2005,14.9,11,57,24,42.1,3.82,1.61,0.19,0.46,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Levante,Carlos Álvarez,ESP,MF,21,2003,21.0,3,30,11,36.7,1.43,0.52,0.1,0.27,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Levante,Diego Pampín,ESP,DF,25,2000,5.9,0,3,0,0.0,0.51,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Levante,Goduine Koyalipou,CTA,FW,25,2000,2.7,1,10,4,40.0,3.64,1.46,0.1,0.25,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Levante,Iker Losada,ESP,MF,23,2001,10.0,3,14,4,28.6,1.4,0.4,0.21,0.75,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Levante,Iván Romero,ESP,"FW,MF",24,2001,25.1,7,59,18,30.5,2.35,0.72,0.12,0.39,0,1,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Levante,Jeremy Toljan,GER,DF,30,1994,35.2,1,9,1,11.1,0.26,0.03,0.11,1.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Levante,Jorge Cabello,ESP,DF,21,2004,4.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Levante,José Luis Morales,ESP,MF,38,1987,4.0,1,11,4,36.4,2.73,0.99,0.0,0.0,1,1,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Levante,Kareem Tunde,ESP,MF,19,2005,12.6,0,21,3,14.3,1.67,0.24,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Levante,Karl Etta Eyong,CMR,FW,21,2003,15.7,6,43,21,48.8,2.73,1.33,0.14,0.29,0,1,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Levante,Kervin Arriaga,HON,MF,27,1998,17.0,3,16,6,37.5,0.94,0.35,0.19,0.5,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Levante,Manu Sánchez,ESP,DF,24,2000,31.3,1,13,4,30.8,0.42,0.13,0.08,0.25,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Levante,Mathew Ryan,AUS,GK,33,1992,36.0,0,2,0,0.0,0.06,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Levante,Matias Moreno,ARG,DF,21,2003,25.0,0,10,0,0.0,0.4,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Levante,Nacho Pérez,ESP,DF,16,2008,1.6,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Levante,Olasagasti,ESP,MF,24,2000,19.3,1,28,9,32.1,1.45,0.47,0.04,0.11,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Levante,Oriol Rey,ESP,MF,27,1998,14.7,0,8,1,12.5,0.55,0.07,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Levante,Pablo Cuñat,ESP,GK,23,2002,2.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Levante,Pablo Martínez,ESP,MF,27,1998,20.6,1,28,4,14.3,1.36,0.19,0.04,0.25,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Levante,Paco Cortés,ESP,"MF,FW",17,2007,5.2,0,12,4,33.3,2.29,0.76,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Levante,Sergio Lozano,ESP,MF,26,1999,0.1,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Levante,Tay Abed,ISR,MF,21,2004,1.0,0,2,1,50.0,1.94,0.97,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Levante,Ugo Raghouber,FRA,MF,22,2003,7.8,0,3,0,0.0,0.38,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Levante,Unai Elgezabal,ESP,"DF,MF",32,1993,10.6,1,3,1,33.3,0.28,0.09,0.33,1.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Levante,Unai Vencedor Paris,ESP,MF,24,2000,9.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Levante,Víctor García,ESP,"MF,FW",27,1997,11.6,2,19,8,42.1,1.64,0.69,0.11,0.25,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Mallorca,Abdón Prats,ESP,FW,32,1992,1.6,0,5,2,40.0,3.15,1.26,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Mallorca,Antonio Raillo,ESP,DF,33,1991,23.0,0,12,1,8.3,0.52,0.04,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Mallorca,Antonio Sánchez,ESP,"MF,DF",28,1997,11.9,0,6,3,50.0,0.5,0.25,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Mallorca,Dani Rodríguez,ESP,"FW,MF",37,1988,0.8,0,1,0,0.0,1.32,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Mallorca,David López,ESP,DF,22,2003,9.3,0,4,0,0.0,0.43,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Mallorca,Jan Salas,ESP,MF,19,2005,0.2,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Mallorca,Jan Virgili,ESP,"MF,FW",19,2006,19.9,2,32,16,50.0,1.61,0.8,0.06,0.13,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Mallorca,Javier Llabrés,ESP,MF,22,2002,2.1,0,5,2,40.0,2.41,0.96,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Mallorca,Javier Olaizola,ESP,DF,18,2007,0.6,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Mallorca,Johan Mojica,COL,DF,32,1992,30.3,0,17,2,11.8,0.56,0.07,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Mallorca,Justin-Noël Kalumba,FRA,FW,20,2004,0.9,0,1,0,0.0,1.11,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Mallorca,Leo Román,ESP,GK,25,2000,33.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Mallorca,Lucas Bergström,FIN,GK,22,2002,5.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Mallorca,Luis Orejuela,,DF,,,1.0,0,1,0,0.0,1.0,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Mallorca,Manu Morlanes,ESP,MF,26,1999,19.6,3,13,4,30.8,0.66,0.2,0.23,0.75,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Mallorca,Marash Kumbulla,ALB,DF,25,2000,4.9,0,3,0,0.0,0.62,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Mallorca,Marc Domenech,ESP,MF,19,2006,2.4,0,3,0,0.0,1.26,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Mallorca,Martin Valjent,SVK,DF,29,1995,36.8,0,17,8,47.1,0.46,0.22,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Mallorca,Mateo Joseph,ESP,"MF,FW",21,2003,18.9,2,33,14,42.4,1.75,0.74,0.06,0.14,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Mallorca,Mateu Morey,ESP,"DF,MF",25,2000,7.8,1,4,2,50.0,0.51,0.26,0.25,0.5,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Mallorca,Miguel Calatayud,ESP,DF,19,2006,0.5,0,1,0,0.0,2.09,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Mallorca,Omar Mascarell,EQG,"MF,DF",32,1993,24.9,2,7,3,42.9,0.28,0.12,0.29,0.67,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Mallorca,Pablo Maffeo,ESP,DF,28,1997,29.6,1,7,1,14.3,0.24,0.03,0.14,1.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Mallorca,Pablo Torre,ESP,"MF,FW",22,2003,17.8,4,25,12,48.0,1.41,0.68,0.16,0.33,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Mallorca,Samu Costa,POR,MF,24,2000,30.0,7,39,16,41.0,1.3,0.53,0.18,0.44,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Mallorca,Sergi Darder,ESP,MF,31,1993,29.8,1,36,13,36.1,1.21,0.44,0.03,0.08,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Mallorca,Takuma Asano,JPN,"MF,FW",30,1994,7.4,1,17,2,11.8,2.3,0.27,0.06,0.5,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Mallorca,Toni Lato,ESP,"DF,MF",27,1997,6.5,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Mallorca,Vedat Muriqi,KVX,FW,31,1994,34.8,23,114,50,43.9,3.28,1.44,0.16,0.36,5,7,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Mallorca,Zito Luvumbo,ANG,"FW,MF",23,2002,5.6,0,9,7,77.8,1.59,1.24,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Osasuna,Abel Bretones,ESP,"MF,DF",24,2000,18.0,1,11,3,27.3,0.61,0.17,0.09,0.33,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Osasuna,Aimar Oroz,ESP,"MF,FW",23,2001,23.8,0,29,4,13.8,1.22,0.17,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Osasuna,Aitor Fernández,ESP,GK,34,1991,1.5,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Osasuna,Ante Budimir,CRO,FW,34,1991,32.6,17,103,41,39.8,3.16,1.26,0.11,0.27,6,8,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Osasuna,Asier Osambela,ESP,DF,21,2004,3.8,1,6,3,50.0,1.57,0.79,0.17,0.33,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Osasuna,Catena,ESP,DF,30,1994,34.1,3,19,4,21.1,0.56,0.12,0.16,0.75,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Osasuna,Enzo Boyomo,CMR,DF,23,2001,28.2,1,11,4,36.4,0.39,0.14,0.09,0.25,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Osasuna,Iker Benito,ESP,MF,22,2002,1.8,1,2,1,50.0,1.13,0.57,0.5,1.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Osasuna,Iker Muñoz,ESP,MF,22,2002,10.6,0,9,4,44.4,0.85,0.38,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Osasuna,Iñigo Arguibide,ESP,DF,20,2005,2.1,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Osasuna,Javi Galán,ESP,DF,30,1994,18.6,0,6,1,16.7,0.32,0.05,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Osasuna,Jon Moncayola,ESP,MF,27,1998,33.5,0,23,5,21.7,0.69,0.15,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Osasuna,Jorge Herrando,ESP,DF,24,2001,17.8,0,3,0,0.0,0.17,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Osasuna,Juan Cruz Armada,ESP,DF,33,1992,7.2,0,1,0,0.0,0.14,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Osasuna,Kike Barja,ESP,MF,28,1997,5.0,2,8,4,50.0,1.61,0.81,0.25,0.5,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Osasuna,Lucas Torró,ESP,MF,31,1994,25.5,0,29,9,31.0,1.14,0.35,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Osasuna,Moi Gómez,ESP,MF,31,1994,13.3,0,11,2,18.2,0.82,0.15,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Osasuna,Raúl,ESP,FW,24,2000,11.6,7,39,23,59.0,3.37,1.99,0.18,0.3,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Osasuna,Raúl Moro,ESP,MF,22,2002,6.9,0,6,0,0.0,0.86,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Osasuna,Rubén García,ESP,"MF,FW",32,1993,24.8,2,31,10,32.3,1.25,0.4,0.06,0.2,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Osasuna,Sergio Herrera,ESP,GK,32,1993,36.5,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Osasuna,Sheraldo Becker,SUR,"FW,MF",30,1995,1.8,0,3,0,0.0,1.71,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Osasuna,Valentin Rosier,FRA,"DF,MF",28,1996,28.3,1,19,3,15.8,0.67,0.11,0.05,0.33,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Osasuna,Víctor Muñoz,ESP,"MF,FW",22,2003,29.5,6,81,31,38.3,2.74,1.05,0.07,0.19,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Oviedo,Aarón Escandell,ESP,GK,29,1995,36.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Oviedo,Alberto Reina,ESP,MF,27,1997,27.4,4,24,11,45.8,0.88,0.4,0.17,0.36,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Oviedo,Borja Sánchez Laborde,ESP,MF,29,1996,0.2,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Oviedo,Dani Calvo,ESP,DF,31,1994,17.9,0,3,0,0.0,0.17,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Oviedo,David Carmo,ANG,DF,26,1999,19.8,1,10,3,30.0,0.5,0.15,0.1,0.33,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Oviedo,David Costas,ESP,DF,30,1995,23.0,1,5,1,20.0,0.22,0.04,0.2,1.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Oviedo,Eric Bailly,CIV,DF,31,1994,13.7,1,6,1,16.7,0.44,0.07,0.17,1.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Oviedo,Federico Viñas,URU,"FW,MF",27,1998,27.1,9,57,21,36.8,2.1,0.77,0.12,0.33,2,2,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Oviedo,Haissem Hassan,EGY,"MF,FW",23,2002,21.6,0,34,8,23.5,1.58,0.37,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Oviedo,Horaţiu Moldovan,ROU,GK,27,1998,2.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Oviedo,Ilyas Chaira,MAR,"MF,FW",24,2001,27.2,6,81,35,43.2,2.98,1.29,0.07,0.17,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Oviedo,Javi López,ESP,DF,23,2002,19.0,0,7,1,14.3,0.37,0.05,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Oviedo,Josip Brekalo,CRO,"MF,FW",27,1998,5.4,0,9,3,33.3,1.67,0.56,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Oviedo,Kwasi Sibo,GHA,MF,27,1998,18.7,0,9,2,22.2,0.48,0.11,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Oviedo,Leander Dendoncker,BEL,MF,30,1995,14.8,1,9,4,44.4,0.61,0.27,0.11,0.25,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Oviedo,Lucas Ahijado,ESP,DF,30,1995,12.2,0,10,2,20.0,0.82,0.16,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Oviedo,Luka Ilić,SRB,"MF,FW",26,1999,8.2,1,9,5,55.6,1.09,0.61,0.11,0.2,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Oviedo,Marco Esteban,ESP,DF,19,2006,0.5,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Oviedo,Nacho Vidal,ESP,DF,30,1995,25.1,0,15,3,20.0,0.6,0.12,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Oviedo,Nicolas Fonseca,URU,MF,26,1998,11.3,0,8,1,12.5,0.71,0.09,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Oviedo,Oier Luengo,ESP,DF,27,1997,2.5,0,1,0,0.0,0.4,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Oviedo,Omar Falah,ESP,DF,21,2003,0.2,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Oviedo,Ovie Ejaria,ENG,MF,27,1997,2.2,0,3,1,33.3,1.35,0.45,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Oviedo,Pablo Agudín,ESP,MF,17,2007,1.0,0,2,0,0.0,2.0,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Oviedo,Rahim Bonkano,NIG,DF,23,2002,19.0,0,3,0,0.0,0.16,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Oviedo,Salomón Rondón,VEN,FW,35,1989,11.5,2,24,5,20.8,2.09,0.44,0.08,0.4,0,1,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Oviedo,Santi Cazorla,ESP,MF,40,1984,10.4,0,7,1,14.3,0.67,0.1,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Oviedo,Santiago Colombatto,ARG,MF,28,1997,22.9,0,15,2,13.3,0.65,0.09,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Oviedo,Thiago Borbas,URU,FW,23,2002,2.0,0,5,2,40.0,2.51,1.01,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Oviedo,Thiago Fernández,ARG,"MF,FW",21,2004,9.1,0,13,5,38.5,1.43,0.55,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Oviedo,Álex Forés,ESP,FW,24,2001,4.0,0,8,2,25.0,2.0,0.5,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Rayo Vallecano,Abdul Mumin,GHA,DF,27,1998,0.9,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Rayo Vallecano,Alexandre Alemão,BRA,FW,27,1998,12.6,4,26,12,46.2,2.06,0.95,0.15,0.33,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Rayo Vallecano,Alfonso Espino,URU,"DF,MF",33,1992,16.5,2,20,9,45.0,1.21,0.55,0.1,0.22,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Rayo Vallecano,Andrei Ratiu,ROU,DF,27,1998,31.2,0,31,9,29.0,0.99,0.29,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Rayo Vallecano,Augusto Batalla,ARG,GK,29,1996,34.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Rayo Vallecano,Carlos Martín,ESP,"MF,FW",23,2002,5.0,0,9,4,44.4,1.8,0.8,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Rayo Vallecano,Dani Cárdenas,ESP,GK,28,1997,4.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Rayo Vallecano,Florian Lejeune,FRA,DF,34,1991,35.9,2,50,18,36.0,1.39,0.5,0.04,0.11,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Rayo Vallecano,Francisco Perez,ESP,"MF,FW",22,2002,13.7,2,17,8,47.1,1.24,0.58,0.12,0.25,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Rayo Vallecano,Gerard Gumbau,ESP,MF,30,1994,13.1,0,20,5,25.0,1.53,0.38,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Rayo Vallecano,Ilias Akhomach,MAR,"MF,FW",21,2004,7.9,0,18,6,33.3,2.28,0.76,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Rayo Vallecano,Isaac Palazón Camacho,ESP,"MF,FW",30,1994,25.0,3,52,15,28.8,2.08,0.6,0.02,0.07,2,3,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Rayo Vallecano,Iván Balliu,ALB,DF,33,1992,6.5,0,4,0,0.0,0.62,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Rayo Vallecano,Jorge de Frutos,ESP,"FW,MF",28,1997,27.4,10,62,28,45.2,2.27,1.02,0.15,0.32,1,1,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Rayo Vallecano,Jozhua Vertrouwd,NED,DF,20,2004,5.0,0,1,0,0.0,0.2,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Rayo Vallecano,Luiz Felipe,ITA,DF,28,1997,5.2,0,3,1,33.3,0.57,0.19,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Rayo Vallecano,Nobel Mendy,SEN,DF,20,2004,20.0,2,11,3,27.3,0.55,0.15,0.18,0.67,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Rayo Vallecano,Pathé Ciss,SEN,"MF,DF",31,1994,22.2,2,20,8,40.0,0.9,0.36,0.1,0.25,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Rayo Vallecano,Pedro Díaz,ESP,MF,27,1998,20.8,0,44,6,13.6,2.12,0.29,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Rayo Vallecano,Pelayo Fernandez,ESP,DF,22,2003,0.5,0,1,0,0.0,2.0,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Rayo Vallecano,Pep Chavarría,ESP,DF,27,1998,29.8,1,18,3,16.7,0.6,0.1,0.06,0.33,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Rayo Vallecano,Randy Nteka,ANG,FW,27,1997,4.2,3,13,6,46.2,3.13,1.44,0.23,0.5,0,1,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Rayo Vallecano,Samu Becerra,ESP,MF,19,2006,0.1,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Rayo Vallecano,Sergio Camello,ESP,"FW,MF",24,2001,9.1,5,27,14,51.9,2.95,1.53,0.19,0.36,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Rayo Vallecano,Unai López,ESP,MF,29,1995,17.9,0,22,4,18.2,1.23,0.22,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Rayo Vallecano,Álvaro García,ESP,"MF,FW",32,1992,23.3,4,47,19,40.4,2.01,0.81,0.09,0.21,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Rayo Vallecano,Óscar Trejo,ARG,MF,37,1988,1.6,0,1,1,100.0,0.62,0.62,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Rayo Vallecano,Óscar Valentín,ESP,MF,30,1994,23.4,1,13,4,30.8,0.56,0.17,0.08,0.25,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Betis,Abde Ezzalzouli,MAR,"MF,FW",23,2001,25.0,10,73,26,35.6,2.92,1.04,0.14,0.38,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Betis,Adrián,ESP,GK,38,1987,1.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Betis,Aitor Ruibal,ESP,"DF,MF",29,1996,20.1,4,31,12,38.7,1.54,0.6,0.13,0.33,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Betis,Antony,BRA,"MF,FW",25,2000,27.2,8,90,34,37.8,3.31,1.25,0.09,0.24,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Betis,Cucho,COL,FW,26,1999,28.7,11,89,27,30.3,3.1,0.94,0.11,0.37,1,1,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Betis,Cédric Bakambu,COD,FW,34,1991,6.3,3,21,9,42.9,3.32,1.42,0.14,0.33,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Betis,Daniel Guerrero,ESP,MF,20,2005,0.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Betis,Diego Llorente,ESP,DF,31,1993,13.7,1,4,3,75.0,0.29,0.22,0.25,0.33,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Betis,Ezequiel Ávila,ARG,FW,31,1994,4.2,1,8,2,25.0,1.89,0.47,0.0,0.0,1,1,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Betis,Giovani Lo Celso,ARG,MF,29,1996,15.5,2,30,11,36.7,1.94,0.71,0.07,0.18,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Betis,Héctor Bellerín,ESP,DF,30,1995,20.2,2,7,5,71.4,0.35,0.25,0.29,0.4,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Betis,Isco,ESP,MF,33,1992,2.6,1,7,1,14.3,2.7,0.39,0.0,0.0,1,1,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Betis,Iván Corralejo,ESP,MF,18,2007,0.2,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Betis,Junior Firpo,DOM,DF,28,1996,9.2,0,5,0,0.0,0.54,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Betis,Marc Bartra,ESP,DF,34,1991,22.0,1,16,5,31.3,0.73,0.23,0.06,0.2,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Betis,Marc Roca,ESP,MF,28,1996,22.5,1,17,7,41.2,0.76,0.31,0.06,0.14,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Betis,Natan,BRA,DF,24,2001,31.2,0,10,1,10.0,0.32,0.03,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Betis,Nelson Deossa,COL,MF,25,2000,8.3,0,18,0,0.0,2.18,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Betis,Pablo Fornals,ESP,MF,29,1996,31.6,9,43,18,41.9,1.36,0.57,0.21,0.5,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Betis,Pablo Garcia,ESP,MF,19,2006,4.3,0,13,4,30.8,3.02,0.93,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Betis,Pau López,ESP,GK,30,1994,9.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Betis,Ricardo Rodríguez,SUI,DF,32,1992,17.2,0,3,0,0.0,0.17,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Betis,Rodrigo Riquelme,ESP,MF,25,2000,9.1,1,24,7,29.2,2.63,0.77,0.04,0.14,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Betis,Sergi Altimira,ESP,MF,23,2001,13.2,1,7,3,42.9,0.53,0.23,0.14,0.33,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Betis,Sofyan Amrabat,MAR,MF,28,1996,14.4,0,8,1,12.5,0.56,0.07,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Betis,Valentín Gómez,ARG,DF,22,2003,20.9,1,11,5,45.5,0.53,0.24,0.09,0.2,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Betis,Álvaro Fidalgo,MEX,MF,28,1997,6.0,1,4,2,50.0,0.66,0.33,0.25,0.5,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Betis,Álvaro Vallés,ESP,GK,28,1997,28.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Betis,Ángel Ortíz,ESP,DF,21,2004,6.5,0,1,0,0.0,0.15,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Madrid,Andriy Lunin,UKR,GK,26,1999,6.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Madrid,Antonio Rüdiger,GER,DF,32,1993,16.6,1,13,1,7.7,0.79,0.06,0.08,1.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Madrid,Arda Güler,TUR,MF,20,2005,22.4,4,49,19,38.8,2.19,0.85,0.08,0.21,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Madrid,Aurélien Tchouaméni,FRA,MF,25,2000,29.1,1,45,7,15.6,1.55,0.24,0.02,0.14,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Madrid,Brahim Díaz,MAR,"FW,MF",25,1999,14.0,1,15,7,46.7,1.07,0.5,0.07,0.14,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Madrid,César Palacios,ESP,MF,20,2004,1.0,0,2,0,0.0,2.09,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Madrid,Dani Carvajal,ESP,DF,33,1992,10.9,0,5,1,20.0,0.46,0.09,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Madrid,Dani Ceballos,ESP,MF,28,1996,5.4,0,3,0,0.0,0.56,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Madrid,Daniel Yáñez,ESP,MF,18,2007,0.5,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Madrid,David Alaba,AUT,DF,33,1992,4.7,0,4,1,25.0,0.85,0.21,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Madrid,David Jiménez,ESP,DF,21,2004,0.8,0,1,1,100.0,1.18,1.18,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Madrid,Dean Huijsen,ESP,DF,20,2005,22.6,2,20,5,25.0,0.88,0.22,0.1,0.4,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Madrid,Diego Aguado,ESP,DF,18,2007,0.3,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Madrid,Eduardo Camavinga,FRA,MF,22,2002,17.0,1,13,2,15.4,0.77,0.12,0.08,0.5,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Madrid,Endrick,BRA,FW,19,2006,0.1,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Madrid,Federico Valverde,URU,"MF,DF",27,1998,30.4,5,51,22,43.1,1.68,0.72,0.1,0.23,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Madrid,Ferland Mendy,FRA,DF,30,1995,2.3,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Madrid,Fran Garcia,ESP,"DF,MF",25,1999,10.3,1,6,2,33.3,0.58,0.19,0.17,0.5,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Madrid,Franco Mastantuono,ARG,"MF,FW",17,2007,11.5,1,30,7,23.3,2.6,0.61,0.03,0.14,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Madrid,Gonzalo García,ESP,FW,21,2004,10.7,6,21,11,52.4,1.96,1.03,0.29,0.55,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Madrid,Jorge Cestero,ESP,MF,19,2006,0.1,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Madrid,Jude Bellingham,ENG,MF,22,2003,21.3,6,51,26,51.0,2.4,1.22,0.12,0.23,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Madrid,Kylian Mbappé,FRA,FW,26,1998,28.9,25,146,63,43.2,5.06,2.18,0.12,0.27,8,9,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Madrid,Manuel Serrano,ESP,DF,21,2004,0.1,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Madrid,Manuel Ángel,ESP,MF,21,2004,1.1,0,2,1,50.0,1.87,0.94,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Madrid,Raúl Asencio,ESP,DF,22,2003,19.0,2,14,4,28.6,0.74,0.21,0.14,0.5,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Madrid,Rodrygo,BRA,"MF,FW",24,2001,7.6,1,27,11,40.7,3.55,1.45,0.04,0.09,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Madrid,Thiago Pinar,ESP,MF,17,2007,6.6,0,6,2,33.3,0.91,0.3,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Madrid,Thibaut Courtois,BEL,GK,33,1992,32.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Madrid,Trent Alexander-Arnold,ENG,DF,26,1998,12.9,0,10,2,20.0,0.77,0.15,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Madrid,Victor Valdepeñas,ESP,DF,18,2006,0.9,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Madrid,Vinicius Júnior,BRA,"FW,MF",25,2000,31.3,16,100,46,46.0,3.2,1.47,0.12,0.26,4,5,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Madrid,Álvaro Carreras,ESP,DF,22,2003,25.9,2,9,3,33.3,0.35,0.12,0.22,0.67,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Madrid,Álvaro Leiva,ESP,FW,22,2002,0.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Madrid,Éder Militão,BRA,DF,27,1998,12.7,2,21,9,42.9,1.66,0.71,0.1,0.22,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Sociedad,Aihen Muñoz,ESP,DF,27,1997,9.4,1,6,2,33.3,0.64,0.21,0.17,0.5,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Sociedad,Ander Barrenetxea,ESP,MF,23,2001,19.6,3,35,11,31.4,1.79,0.56,0.09,0.27,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Sociedad,Aritz Elustondo,ESP,DF,31,1994,8.0,0,4,2,50.0,0.5,0.25,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Sociedad,Arkaitz Mariezkurrena,ESP,FW,20,2005,0.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Sociedad,Arsen Zakharyan,RUS,MF,22,2003,5.1,0,14,3,21.4,2.75,0.59,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Sociedad,Beñat Turrientes,ESP,MF,23,2002,15.0,0,20,6,30.0,1.34,0.4,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Sociedad,Brais Méndez,ESP,"MF,FW",28,1997,18.4,6,36,16,44.4,1.95,0.87,0.14,0.31,1,2,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Sociedad,Carlos Soler,ESP,MF,28,1997,25.7,4,35,19,54.3,1.36,0.74,0.11,0.21,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Sociedad,Daniel Díaz,ESP,FW,19,2006,0.2,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Sociedad,Duje Ćaleta-Car,CRO,DF,28,1996,23.9,1,13,3,23.1,0.54,0.13,0.08,0.33,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Sociedad,Gonçalo Guedes,POR,MF,28,1996,20.3,8,46,18,39.1,2.27,0.89,0.17,0.44,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Sociedad,Gorka Carrera,ESP,FW,20,2005,0.7,0,1,1,100.0,1.45,1.45,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Sociedad,Ibai Aguirre,ESP,MF,18,2007,0.1,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Sociedad,Igor Zubeldia,ESP,DF,28,1997,23.1,0,6,1,16.7,0.26,0.04,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Sociedad,Iñaki Rupérez,ESP,DF,22,2003,0.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Sociedad,Job Ochieng',KEN,MF,22,2003,1.0,0,1,0,0.0,0.97,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Sociedad,Jon Aramburu,VEN,DF,23,2002,30.8,1,21,5,23.8,0.68,0.16,0.05,0.2,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Sociedad,Jon Gorrotxategi,ESP,MF,23,2002,24.6,1,13,1,7.7,0.53,0.04,0.08,1.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Sociedad,Jon Karrikaburu,ESP,FW,22,2002,1.5,0,7,2,28.6,4.67,1.33,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Sociedad,Jon Martin,ESP,DF,19,2006,25.0,2,15,5,33.3,0.6,0.2,0.13,0.4,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Sociedad,Lander Astiazaran,ESP,MF,19,2006,0.0,0,1,0,0.0,90.0,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Sociedad,Luka Sučić,CRO,"MF,FW",22,2002,11.4,3,23,7,30.4,2.03,0.62,0.13,0.43,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Sociedad,Luken Beitia,ESP,DF,21,2004,1.1,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Sociedad,Mikel Goti,ESP,MF,23,2002,0.8,0,3,0,0.0,3.55,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Sociedad,Mikel Oyarzabal,ESP,FW,28,1997,30.1,15,79,36,45.6,2.62,1.2,0.1,0.22,7,7,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Sociedad,Orri Steinn Óskarsson,ISL,FW,20,2004,9.3,9,27,19,70.4,2.91,2.05,0.33,0.47,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Sociedad,Pablo Marín,ESP,MF,22,2003,16.7,0,13,4,30.8,0.78,0.24,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Sociedad,Sergio Gómez,ESP,DF,24,2000,30.0,0,12,0,0.0,0.4,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Sociedad,Takefusa Kubo,JPN,MF,24,2001,16.7,2,28,12,42.9,1.68,0.72,0.07,0.17,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Sociedad,Umar Sadiq,NGA,FW,28,1997,1.7,0,4,0,0.0,2.35,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Sociedad,Unai Marrero,ESP,GK,23,2001,1.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Sociedad,Urko González,ESP,"DF,MF",24,2001,0.1,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Sociedad,Wesley,BRA,MF,20,2005,1.0,0,1,0,0.0,1.02,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Sociedad,Yangel Herrera,VEN,MF,27,1998,5.8,0,5,1,20.0,0.86,0.17,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Sociedad,Álex Remiro,ESP,GK,30,1995,37.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Real Sociedad,Álvaro Odriozola,ESP,DF,29,1995,2.2,1,1,1,100.0,0.45,0.45,1.0,1.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Sevilla,Adnan Januzaj,BEL,"MF,FW",30,1995,3.6,0,7,0,0.0,1.96,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Sevilla,Adrià Pedrosa,ESP,"DF,MF",27,1998,0.1,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Sevilla,Akor Adams,NGA,FW,25,2000,22.9,10,61,30,49.2,2.66,1.31,0.11,0.23,3,3,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Sevilla,Alexis Sánchez,CHI,"FW,MF",36,1988,14.5,4,25,9,36.0,1.72,0.62,0.12,0.33,1,1,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Sevilla,Alfon,ESP,MF,26,1999,3.5,1,11,7,63.6,3.17,2.02,0.09,0.14,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Sevilla,Batista Mendy,FRA,MF,25,2000,18.0,1,17,5,29.4,0.95,0.28,0.06,0.2,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Sevilla,Carmona,ESP,"DF,MF",23,2002,28.5,1,20,3,15.0,0.7,0.11,0.05,0.33,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Sevilla,Castrin,ESP,DF,22,2003,14.2,1,11,3,27.3,0.78,0.21,0.09,0.33,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Sevilla,Chidera Ejuke,NGA,"MF,FW",27,1998,10.4,1,23,3,13.0,2.22,0.29,0.04,0.33,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Sevilla,César Azpilicueta,ESP,DF,35,1989,13.5,0,1,0,0.0,0.07,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Sevilla,Djibril Sow,SUI,MF,28,1997,24.3,5,19,8,42.1,0.78,0.33,0.26,0.63,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Sevilla,Dodi Lukebakio,BEL,MF,27,1997,2.0,1,2,1,50.0,1.0,0.5,0.5,1.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Sevilla,Federico Gattoni,ARG,DF,26,1999,0.1,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Sevilla,Fábio Cardoso,POR,DF,31,1994,3.3,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Sevilla,Gabriel Suazo,CHI,"DF,MF",27,1997,23.3,0,5,2,40.0,0.21,0.09,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Sevilla,Isaac Romero,ESP,"FW,MF",25,2000,16.5,4,41,14,34.1,2.49,0.85,0.1,0.29,0,1,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Sevilla,Joan Jordán,ESP,MF,31,1994,0.3,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Sevilla,Joaquín Martínez Gauna,ESP,"MF,DF",22,2003,15.6,2,17,8,47.1,1.09,0.51,0.12,0.25,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Sevilla,Juanlu Sánchez,ESP,"MF,DF",21,2003,22.1,0,14,1,7.1,0.63,0.05,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Sevilla,Kike Salas,ESP,DF,23,2002,24.5,2,19,8,42.1,0.78,0.33,0.11,0.25,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Sevilla,Lucien Agoume,FRA,MF,23,2002,29.8,1,15,2,13.3,0.5,0.07,0.07,0.5,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Sevilla,Manu Bueno,ESP,MF,21,2004,3.0,0,2,0,0.0,0.66,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Sevilla,Marcão,BRA,DF,29,1996,10.4,1,10,2,20.0,0.96,0.19,0.1,0.5,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Sevilla,Miguel Ángel Sierra,ESP,FW,21,2004,0.7,0,4,1,25.0,5.81,1.45,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Sevilla,Neal Maupay,FRA,FW,28,1996,9.6,2,17,7,41.2,1.77,0.73,0.12,0.29,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Sevilla,Nemanja Gudelj,SRB,"DF,MF",33,1991,26.1,2,31,9,29.0,1.19,0.34,0.06,0.22,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Sevilla,Odysseas Vlachodimos,GRE,GK,31,1994,33.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Sevilla,Peque,ESP,"MF,FW",22,2002,10.9,2,15,6,40.0,1.37,0.55,0.13,0.33,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Sevilla,Ramón Martínez,ESP,DF,22,2002,1.1,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Sevilla,Ruben Vargas,SUI,"MF,FW",26,1998,17.7,3,41,8,19.5,2.31,0.45,0.05,0.25,1,1,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Sevilla,Stanis Idumbo,BEL,MF,20,2005,0.5,0,1,0,0.0,2.0,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Sevilla,Tanguy Nianzou,FRA,DF,23,2002,7.3,0,9,0,0.0,1.24,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Sevilla,Ørjan Nyland,NOR,GK,34,1990,5.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Valencia,André Almeida,POR,MF,25,2000,11.3,0,9,3,33.3,0.8,0.27,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Valencia,Arnaut Danjuma,NED,"MF,FW",28,1997,18.1,3,36,14,38.9,1.99,0.77,0.08,0.21,0,1,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Valencia,Baptiste Santamaria,FRA,MF,30,1995,8.4,1,6,2,33.3,0.72,0.24,0.17,0.5,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Valencia,Copete,ESP,DF,25,1999,19.5,0,13,0,0.0,0.67,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Valencia,César Tárrega,ESP,DF,23,2002,28.9,0,11,1,9.1,0.38,0.03,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Valencia,Dani Raba,ESP,FW,29,1995,3.0,0,9,1,11.1,3.0,0.33,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Valencia,Diego López,ESP,"MF,FW",23,2002,19.6,4,28,8,28.6,1.43,0.41,0.14,0.5,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Valencia,Dimitri Foulquier,FRA,DF,32,1993,12.8,0,6,1,16.7,0.47,0.08,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Valencia,Eray Cömert,SUI,DF,27,1998,14.9,2,11,3,27.3,0.74,0.2,0.18,0.67,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Valencia,Filip Ugrinic,SUI,MF,26,1999,16.7,0,20,3,15.0,1.2,0.18,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Valencia,Guido Rodríguez,ARG,MF,31,1994,14.5,4,15,5,33.3,1.03,0.34,0.27,0.8,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Valencia,Hugo Duro,ESP,FW,25,1999,22.0,10,36,14,38.9,1.64,0.64,0.25,0.64,1,2,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Valencia,Javier Guerra,ESP,"MF,FW",22,2003,22.9,4,31,12,38.7,1.35,0.52,0.13,0.33,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Valencia,Jesus Vazquez,ESP,"DF,MF",22,2003,10.8,0,8,2,25.0,0.74,0.18,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Valencia,José Luis García Vayá,ESP,"MF,DF",26,1998,24.7,2,24,3,12.5,0.97,0.12,0.04,0.33,1,3,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Valencia,José Luis Gayà,ESP,DF,30,1995,27.2,1,13,3,23.1,0.48,0.11,0.08,0.33,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Valencia,Julen Agirrezabala,ESP,GK,24,2000,18.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Valencia,Largie Ramazani,BEL,"MF,FW",24,2001,13.7,6,51,19,37.3,3.72,1.39,0.06,0.16,3,3,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Valencia,Lucas Beltrán,ARG,FW,24,2001,15.2,1,34,9,26.5,2.24,0.59,0.03,0.11,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Valencia,Luis Rioja,ESP,MF,31,1993,29.2,3,44,5,11.4,1.51,0.17,0.07,0.6,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Valencia,Mouctar Diakhaby,GUI,DF,28,1996,6.0,1,4,3,75.0,0.66,0.5,0.25,0.33,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Valencia,Renzo Saravia,ARG,DF,32,1993,3.9,0,1,0,0.0,0.26,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Valencia,Ruben Lendinez,ESP,DF,22,2003,0.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Valencia,Stole Dimitrievski,MKD,GK,31,1993,20.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Valencia,Thierry Correia,POR,"DF,MF",26,1999,15.5,0,5,1,20.0,0.32,0.06,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Valencia,Umar Sadiq,NGA,FW,28,1997,10.1,4,25,10,40.0,2.47,0.99,0.16,0.4,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Valencia,Unai Núñez,ESP,DF,28,1997,10.1,0,9,1,11.1,0.89,0.1,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Villarreal,Adrià Altimira,ESP,"DF,MF",24,2001,0.1,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Villarreal,Alassane Diatta,SEN,MF,20,2005,0.3,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Villarreal,Alberto Moleiro,ESP,MF,21,2003,27.5,10,46,20,43.5,1.67,0.73,0.22,0.5,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Villarreal,Alex Freeman,USA,DF,20,2004,3.8,0,1,0,0.0,0.26,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Villarreal,Alfon,ESP,MF,26,1999,3.7,1,6,3,50.0,1.62,0.81,0.17,0.33,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Villarreal,Alfonso Pedraza,ESP,DF,29,1996,18.8,1,11,3,27.3,0.59,0.16,0.09,0.33,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Villarreal,Arnau Tenas,ESP,GK,24,2001,10.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Villarreal,Ayoze Pérez,ESP,FW,32,1993,12.5,5,24,11,45.8,1.92,0.88,0.17,0.36,1,1,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Villarreal,Carlos Macià,ESP,MF,16,2008,0.9,0,1,0,0.0,1.08,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Villarreal,Daniel Parejo,ESP,MF,36,1989,15.5,1,3,1,33.3,0.19,0.06,0.0,0.0,1,1,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Villarreal,Georges Mikautadze,GEO,FW,24,2000,23.4,13,65,32,49.2,2.77,1.37,0.2,0.41,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Villarreal,Gerard Moreno,ESP,FW,33,1992,14.9,10,39,16,41.0,2.61,1.07,0.18,0.44,3,3,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Villarreal,Hugo López,ESP,MF,18,2007,0.6,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Villarreal,Ilias Akhomach,MAR,MF,21,2004,2.1,0,6,2,33.3,2.87,0.96,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Villarreal,Juan Foyth,ARG,DF,27,1998,10.4,0,2,0,0.0,0.19,0.0,0.0,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Villarreal,Karl Etta Eyong,CMR,FW,21,2003,2.8,1,7,3,42.9,2.46,1.05,0.14,0.33,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Villarreal,Logan Costa,CPV,DF,24,2001,0.3,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Villarreal,Luiz Lúcio Reis Júnior,BRA,GK,24,2001,28.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Villarreal,Manor Solomon,ISR,MF,26,1999,1.7,1,2,1,50.0,1.2,0.6,0.5,1.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Villarreal,Nicolas Pépé,CIV,"MF,FW",30,1995,26.6,8,63,25,39.7,2.37,0.94,0.11,0.28,1,1,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Villarreal,Pape Gueye,SEN,MF,26,1999,23.7,5,47,13,27.7,1.98,0.55,0.09,0.31,1,1,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Villarreal,Pau Cabanes,ESP,FW,20,2005,0.2,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Villarreal,Pau Navarro,ESP,DF,20,2005,21.3,0,2,2,100.0,0.09,0.09,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Villarreal,Rafa Marín,ESP,DF,23,2002,22.0,1,5,1,20.0,0.23,0.05,0.2,1.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Villarreal,Renato Veiga,POR,DF,22,2003,27.6,0,9,3,33.3,0.33,0.11,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Villarreal,Santi Comesaña,ESP,MF,28,1996,26.7,3,27,7,25.9,1.01,0.26,0.11,0.43,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Villarreal,Santiago Mouriño,URU,DF,23,2002,26.4,1,15,3,20.0,0.57,0.11,0.07,0.33,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Villarreal,Sergi Cardona,ESP,DF,26,1999,21.9,1,18,5,27.8,0.82,0.23,0.06,0.2,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Villarreal,Tajon Buchanan,CAN,MF,26,1999,20.2,7,27,11,40.7,1.34,0.54,0.26,0.64,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Villarreal,Tani Oluwaseyi,CAN,FW,25,2000,10.0,2,16,7,43.8,1.6,0.7,0.13,0.29,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Villarreal,Thomas Partey,GHA,MF,32,1993,10.4,0,11,2,18.2,1.06,0.19,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Villarreal,Willy Kambwala,FRA,DF,20,2004,1.0,0,0,0,,0.0,0.0,,,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33
+ESP-La Liga,2526,Villarreal,Yéremy Pino,ESP,MF,22,2002,1.8,0,2,1,50.0,1.13,0.57,0.0,0.0,0,0,ESP,2025-2026,shooting,fbref_soccerdata,2026-08-10 21:48:33

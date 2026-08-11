@@ -1,0 +1,153 @@
+2026-08-09 00:45:58,565 [INFO] =================================================================
+2026-08-09 00:45:58,568 [INFO]   RadarPepites - Scraping datafc -> Bronze
+2026-08-09 00:45:58,568 [INFO] =================================================================
+2026-08-09 00:45:58,569 [INFO]   Ligues  : ['ENG', 'ESP', 'GER', 'ITA', 'FRA', 'POR', 'NED', 'BEL', 'TUR', 'AUT']
+2026-08-09 00:45:58,571 [INFO]   Saisons : ['2023-2024', '2024-2025', '2025-2026']
+2026-08-09 00:45:58,573 [INFO]   Metrics : 26
+2026-08-09 00:45:58,574 [INFO]   Total   : 30 combinaisons
+2026-08-09 00:45:58,574 [INFO] =================================================================
+2026-08-09 00:45:58,575 [INFO] [1/30] Premier League | 2023-2024
+2026-08-09 00:45:58,683 [WARNING]     Saison 2023-2024 non trouvée dans les données disponibles
+2026-08-09 00:45:58,685 [INFO] [2/30] Premier League | 2024-2025
+2026-08-09 00:45:59,150 [WARNING]     Saison 2024-2025 non trouvée dans les données disponibles
+2026-08-09 00:45:59,152 [INFO] [3/30] Premier League | 2025-2026
+2026-08-09 00:45:59,753 [WARNING]     Saison 2025-2026 non trouvée dans les données disponibles
+2026-08-09 00:45:59,756 [INFO] [4/30] La Liga | 2023-2024
+2026-08-09 00:46:00,173 [WARNING]     Saison 2023-2024 non trouvée dans les données disponibles
+2026-08-09 00:46:00,176 [INFO] [5/30] La Liga | 2024-2025
+2026-08-09 00:46:00,659 [WARNING]     Saison 2024-2025 non trouvée dans les données disponibles
+2026-08-09 00:46:00,660 [INFO] [6/30] La Liga | 2025-2026
+2026-08-09 00:46:01,140 [WARNING]     Saison 2025-2026 non trouvée dans les données disponibles
+2026-08-09 00:46:01,141 [INFO] [7/30] Bundesliga | 2023-2024
+2026-08-09 00:46:01,642 [WARNING]     Saison 2023-2024 non trouvée dans les données disponibles
+2026-08-09 00:46:01,643 [INFO] [8/30] Bundesliga | 2024-2025
+2026-08-09 00:46:02,171 [WARNING]     Saison 2024-2025 non trouvée dans les données disponibles
+2026-08-09 00:46:02,172 [INFO] [9/30] Bundesliga | 2025-2026
+2026-08-09 00:46:02,637 [WARNING]     Saison 2025-2026 non trouvée dans les données disponibles
+2026-08-09 00:46:02,638 [INFO] [10/30] Serie A | 2023-2024
+2026-08-09 00:46:03,155 [WARNING]     Saison 2023-2024 non trouvée dans les données disponibles
+2026-08-09 00:46:03,158 [INFO] [11/30] Serie A | 2024-2025
+2026-08-09 00:46:03,644 [WARNING]     Saison 2024-2025 non trouvée dans les données disponibles
+2026-08-09 00:46:03,644 [INFO] [12/30] Serie A | 2025-2026
+2026-08-09 00:46:04,142 [WARNING]     Saison 2025-2026 non trouvée dans les données disponibles
+2026-08-09 00:46:04,142 [INFO] [13/30] Ligue 1 | 2023-2024
+2026-08-09 00:46:04,639 [WARNING]     Saison 2023-2024 non trouvée dans les données disponibles
+2026-08-09 00:46:04,642 [INFO] [14/30] Ligue 1 | 2024-2025
+2026-08-09 00:46:05,149 [WARNING]     Saison 2024-2025 non trouvée dans les données disponibles
+2026-08-09 00:46:05,150 [INFO] [15/30] Ligue 1 | 2025-2026
+2026-08-09 00:46:05,635 [WARNING]     Saison 2025-2026 non trouvée dans les données disponibles
+2026-08-09 00:46:05,636 [INFO] [16/30] Primeira Liga | 2023-2024
+2026-08-09 00:46:06,148 [WARNING]     Saison 2023-2024 non trouvée dans les données disponibles
+2026-08-09 00:46:06,148 [INFO] [17/30] Primeira Liga | 2024-2025
+2026-08-09 00:46:06,672 [WARNING]     Saison 2024-2025 non trouvée dans les données disponibles
+2026-08-09 00:46:06,673 [INFO] [18/30] Primeira Liga | 2025-2026
+2026-08-09 00:46:07,145 [WARNING]     Saison 2025-2026 non trouvée dans les données disponibles
+2026-08-09 00:46:07,146 [INFO] [19/30] Eredivisie | 2023-2024
+2026-08-09 00:46:07,648 [WARNING]     Saison 2023-2024 non trouvée dans les données disponibles
+2026-08-09 00:46:07,649 [INFO] [20/30] Eredivisie | 2024-2025
+2026-08-09 00:46:08,151 [WARNING]     Saison 2024-2025 non trouvée dans les données disponibles
+2026-08-09 00:46:08,153 [INFO] [21/30] Eredivisie | 2025-2026
+2026-08-09 00:46:08,649 [WARNING]     Saison 2025-2026 non trouvée dans les données disponibles
+2026-08-09 00:46:08,649 [INFO] [22/30] First Division A | 2023-2024
+2026-08-09 00:46:09,162 [INFO]     Saison 2023-2024 trouvée → id=48982 (col=season_name, val=Brasileirão Série A 2023)
+2026-08-09 00:46:10,218 [INFO]     rating → 200 joueurs
+2026-08-09 00:46:13,956 [INFO]     goals → 200 joueurs
+2026-08-09 00:46:17,587 [INFO]     assists → 200 joueurs
+2026-08-09 00:46:21,228 [INFO]     expectedGoals → 200 joueurs
+2026-08-09 00:46:24,850 [INFO]     expectedAssists → 200 joueurs
+2026-08-09 00:46:28,496 [INFO]     shotsOnTarget → 200 joueurs
+2026-08-09 00:46:32,135 [INFO]     totalShots → 200 joueurs
+2026-08-09 00:46:35,770 [INFO]     bigChancesCreated → 200 joueurs
+2026-08-09 00:46:39,455 [INFO]     bigChancesMissed → 200 joueurs
+2026-08-09 00:46:43,079 [INFO]     accuratePasses → 200 joueurs
+2026-08-09 00:46:46,697 [INFO]     accuratePassesPercentage → 200 joueurs
+2026-08-09 00:46:50,323 [INFO]     keyPasses → 200 joueurs
+2026-08-09 00:46:53,953 [INFO]     accurateLongBalls → 200 joueurs
+2026-08-09 00:46:57,680 [INFO]     accurateLongBallsPercentage → 200 joueurs
+2026-08-09 00:47:01,327 [INFO]     successfulDribbles → 200 joueurs
+2026-08-09 00:47:04,971 [INFO]     successfulDribblesPercentage → 200 joueurs
+2026-08-09 00:47:08,599 [INFO]     tackles → 200 joueurs
+2026-08-09 00:47:12,325 [INFO]     interceptions → 200 joueurs
+2026-08-09 00:47:16,009 [INFO]     clearances → 200 joueurs
+2026-08-09 00:47:19,639 [INFO]     possessionLost → 200 joueurs
+2026-08-09 00:47:23,270 [INFO]     minutesPlayed → 200 joueurs
+2026-08-09 00:47:26,880 [INFO]     appearances → 200 joueurs
+2026-08-09 00:47:30,488 [INFO]     yellowCards → 200 joueurs
+2026-08-09 00:47:34,117 [INFO]     redCards → 200 joueurs
+2026-08-09 00:47:37,755 [INFO]     saves → 200 joueurs
+2026-08-09 00:47:41,383 [INFO]     goalsPrevented → 200 joueurs
+2026-08-09 00:47:44,546 [INFO]   -> 5200 lignes -> 20260809_004744_BEL_2023_2024_datafc.csv
+2026-08-09 00:47:47,548 [INFO] [23/30] First Division A | 2024-2025
+2026-08-09 00:47:47,611 [INFO]     Saison 2024-2025 trouvée → id=58766 (col=season_name, val=Brasileirão Betano 2024)
+2026-08-09 00:47:48,668 [INFO]     rating → 200 joueurs
+2026-08-09 00:47:52,363 [INFO]     goals → 200 joueurs
+2026-08-09 00:47:56,049 [INFO]     assists → 200 joueurs
+2026-08-09 00:47:59,735 [INFO]     expectedGoals → 200 joueurs
+2026-08-09 00:48:03,421 [INFO]     expectedAssists → 200 joueurs
+2026-08-09 00:48:07,112 [INFO]     shotsOnTarget → 200 joueurs
+2026-08-09 00:48:10,798 [INFO]     totalShots → 200 joueurs
+2026-08-09 00:48:14,481 [INFO]     bigChancesCreated → 200 joueurs
+2026-08-09 00:48:18,180 [INFO]     bigChancesMissed → 200 joueurs
+2026-08-09 00:48:21,788 [INFO]     accuratePasses → 200 joueurs
+2026-08-09 00:48:25,414 [INFO]     accuratePassesPercentage → 200 joueurs
+2026-08-09 00:48:29,125 [INFO]     keyPasses → 200 joueurs
+2026-08-09 00:48:32,752 [INFO]     accurateLongBalls → 200 joueurs
+2026-08-09 00:48:36,495 [INFO]     accurateLongBallsPercentage → 200 joueurs
+2026-08-09 00:48:40,183 [INFO]     successfulDribbles → 200 joueurs
+2026-08-09 00:48:43,869 [INFO]     successfulDribblesPercentage → 200 joueurs
+2026-08-09 00:48:47,558 [INFO]     tackles → 200 joueurs
+2026-08-09 00:48:51,241 [INFO]     interceptions → 200 joueurs
+2026-08-09 00:48:54,859 [INFO]     clearances → 200 joueurs
+2026-08-09 00:48:58,486 [INFO]     possessionLost → 200 joueurs
+2026-08-09 00:49:02,101 [INFO]     minutesPlayed → 200 joueurs
+2026-08-09 00:49:05,734 [INFO]     appearances → 200 joueurs
+2026-08-09 00:49:09,352 [INFO]     yellowCards → 200 joueurs
+2026-08-09 00:49:13,056 [INFO]     redCards → 200 joueurs
+2026-08-09 00:49:16,694 [INFO]     saves → 200 joueurs
+2026-08-09 00:49:20,426 [INFO]     goalsPrevented → 200 joueurs
+2026-08-09 00:49:23,492 [INFO]   -> 5200 lignes -> 20260809_004923_BEL_2024_2025_datafc.csv
+2026-08-09 00:49:26,494 [INFO] [24/30] First Division A | 2025-2026
+2026-08-09 00:49:26,558 [INFO]     Saison 2025-2026 trouvée → id=72034 (col=season_name, val=Brasileiro Serie A 2025)
+2026-08-09 00:49:27,696 [INFO]     rating → 200 joueurs
+2026-08-09 00:49:31,320 [INFO]     goals → 200 joueurs
+2026-08-09 00:49:34,946 [INFO]     assists → 200 joueurs
+2026-08-09 00:49:38,565 [INFO]     expectedGoals → 200 joueurs
+2026-08-09 00:49:42,206 [INFO]     expectedAssists → 200 joueurs
+2026-08-09 00:49:45,831 [INFO]     shotsOnTarget → 200 joueurs
+2026-08-09 00:49:49,446 [INFO]     totalShots → 200 joueurs
+2026-08-09 00:49:53,102 [INFO]     bigChancesCreated → 200 joueurs
+2026-08-09 00:49:56,778 [INFO]     bigChancesMissed → 200 joueurs
+2026-08-09 00:50:00,464 [INFO]     accuratePasses → 200 joueurs
+2026-08-09 00:50:04,150 [INFO]     accuratePassesPercentage → 200 joueurs
+2026-08-09 00:50:07,837 [INFO]     keyPasses → 200 joueurs
+2026-08-09 00:50:11,524 [INFO]     accurateLongBalls → 200 joueurs
+2026-08-09 00:50:15,139 [INFO]     accurateLongBallsPercentage → 200 joueurs
+2026-08-09 00:50:18,763 [INFO]     successfulDribbles → 200 joueurs
+2026-08-09 00:50:22,388 [INFO]     successfulDribblesPercentage → 200 joueurs
+2026-08-09 00:50:26,064 [INFO]     tackles → 200 joueurs
+2026-08-09 00:50:29,693 [INFO]     interceptions → 200 joueurs
+2026-08-09 00:50:33,315 [INFO]     clearances → 200 joueurs
+2026-08-09 00:50:36,931 [INFO]     possessionLost → 200 joueurs
+2026-08-09 00:50:40,605 [INFO]     minutesPlayed → 200 joueurs
+2026-08-09 00:50:44,394 [INFO]     appearances → 200 joueurs
+2026-08-09 00:50:48,082 [INFO]     yellowCards → 200 joueurs
+2026-08-09 00:50:51,697 [INFO]     redCards → 200 joueurs
+2026-08-09 00:50:55,351 [INFO]     saves → 200 joueurs
+2026-08-09 00:50:59,043 [INFO]     goalsPrevented → 200 joueurs
+2026-08-09 00:51:02,106 [INFO]   -> 5200 lignes -> 20260809_005102_BEL_2025_2026_datafc.csv
+2026-08-09 00:51:05,107 [INFO] [25/30] Super Lig | 2023-2024
+2026-08-09 00:51:05,190 [WARNING]     Saison 2023-2024 non trouvée dans les données disponibles
+2026-08-09 00:51:05,191 [INFO] [26/30] Super Lig | 2024-2025
+2026-08-09 00:51:05,687 [WARNING]     Saison 2024-2025 non trouvée dans les données disponibles
+2026-08-09 00:51:05,690 [INFO] [27/30] Super Lig | 2025-2026
+2026-08-09 00:51:06,172 [WARNING]     Saison 2025-2026 non trouvée dans les données disponibles
+2026-08-09 00:51:06,174 [INFO] [28/30] Bundesliga Autriche | 2023-2024
+2026-08-09 00:51:06,677 [WARNING]     Saison 2023-2024 non trouvée dans les données disponibles
+2026-08-09 00:51:06,678 [INFO] [29/30] Bundesliga Autriche | 2024-2025
+2026-08-09 00:51:07,178 [WARNING]     Saison 2024-2025 non trouvée dans les données disponibles
+2026-08-09 00:51:07,181 [INFO] [30/30] Bundesliga Autriche | 2025-2026
+2026-08-09 00:51:07,674 [WARNING]     Saison 2025-2026 non trouvée dans les données disponibles
+2026-08-09 00:51:07,675 [INFO] =================================================================
+2026-08-09 00:51:07,677 [INFO]   Termine  : 3/30
+2026-08-09 00:51:07,679 [WARNING]   Echecs   : ['ENG_2023-2024', 'ENG_2024-2025', 'ENG_2025-2026', 'ESP_2023-2024', 'ESP_2024-2025', 'ESP_2025-2026', 'GER_2023-2024', 'GER_2024-2025', 'GER_2025-2026', 'ITA_2023-2024', 'ITA_2024-2025', 'ITA_2025-2026', 'FRA_2023-2024', 'FRA_2024-2025', 'FRA_2025-2026', 'POR_2023-2024', 'POR_2024-2025', 'POR_2025-2026', 'NED_2023-2024', 'NED_2024-2025', 'NED_2025-2026', 'TUR_2023-2024', 'TUR_2024-2025', 'TUR_2025-2026', 'AUT_2023-2024', 'AUT_2024-2025', 'AUT_2025-2026']
+2026-08-09 00:51:07,681 [INFO] =================================================================

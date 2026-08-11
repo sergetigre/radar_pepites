@@ -1,0 +1,190 @@
+2026-08-10 22:37:24,668 [INFO] =================================================================
+2026-08-10 22:37:24,669 [INFO]   RadarPepites - Scraping datafc -> Bronze
+2026-08-10 22:37:24,670 [INFO] =================================================================
+2026-08-10 22:37:24,671 [INFO]   Ligues  : ['ENG', 'ESP', 'GER', 'ITA', 'FRA', 'POR', 'NED', 'BEL', 'TUR', 'AUT']
+2026-08-10 22:37:24,673 [INFO]   Saisons : ['2023-2024', '2024-2025', '2025-2026']
+2026-08-10 22:37:24,675 [INFO]   Metrics : 26
+2026-08-10 22:37:24,677 [INFO]   Total   : 30 combinaisons
+2026-08-10 22:37:24,679 [INFO] =================================================================
+2026-08-10 22:37:24,681 [INFO] [1/30] Premier League | 2023-2024
+2026-08-10 22:37:24,682 [INFO]     2023-2024 → 23/24 → season_id=52186 (hardcoded)
+2026-08-10 22:37:25,375 [INFO]     rating → 200 joueurs
+2026-08-10 22:37:29,070 [INFO]     goals → 200 joueurs
+2026-08-10 22:37:32,697 [INFO]     assists → 200 joueurs
+2026-08-10 22:37:36,334 [INFO]     expectedGoals → 200 joueurs
+2026-08-10 22:37:39,951 [INFO]     expectedAssists → 200 joueurs
+2026-08-10 22:37:43,571 [INFO]     shotsOnTarget → 200 joueurs
+2026-08-10 22:37:47,192 [INFO]     totalShots → 200 joueurs
+2026-08-10 22:37:50,871 [INFO]     bigChancesCreated → 200 joueurs
+2026-08-10 22:37:54,571 [INFO]     bigChancesMissed → 200 joueurs
+2026-08-10 22:37:58,254 [INFO]     accuratePasses → 200 joueurs
+2026-08-10 22:38:01,955 [INFO]     accuratePassesPercentage → 200 joueurs
+2026-08-10 22:38:05,594 [INFO]     keyPasses → 200 joueurs
+2026-08-10 22:38:09,312 [INFO]     accurateLongBalls → 200 joueurs
+2026-08-10 22:38:12,997 [INFO]     accurateLongBallsPercentage → 200 joueurs
+2026-08-10 22:38:16,692 [INFO]     successfulDribbles → 200 joueurs
+2026-08-10 22:38:20,319 [INFO]     successfulDribblesPercentage → 200 joueurs
+2026-08-10 22:38:23,947 [INFO]     tackles → 200 joueurs
+2026-08-10 22:38:27,659 [INFO]     interceptions → 200 joueurs
+2026-08-10 22:38:31,328 [INFO]     clearances → 200 joueurs
+2026-08-10 22:38:34,958 [INFO]     possessionLost → 200 joueurs
+2026-08-10 22:38:38,568 [INFO]     minutesPlayed → 200 joueurs
+2026-08-10 22:38:42,181 [INFO]     appearances → 200 joueurs
+2026-08-10 22:38:45,794 [INFO]     yellowCards → 200 joueurs
+2026-08-10 22:38:49,411 [INFO]     redCards → 200 joueurs
+2026-08-10 22:38:53,021 [INFO]     saves → 200 joueurs
+2026-08-10 22:38:56,712 [INFO]     goalsPrevented → 200 joueurs
+2026-08-10 22:38:59,777 [INFO]   -> 5200 lignes -> 20260810_223859_ENG_2023_2024_datafc.csv
+2026-08-10 22:39:02,778 [INFO] [2/30] Premier League | 2024-2025
+2026-08-10 22:39:02,779 [INFO]     2024-2025 → 24/25 → season_id=61627 (hardcoded)
+2026-08-10 22:39:03,477 [INFO]     rating → 200 joueurs
+2026-08-10 22:39:07,093 [INFO]     goals → 200 joueurs
+2026-08-10 22:39:10,751 [INFO]     assists → 200 joueurs
+2026-08-10 22:39:14,534 [INFO]     expectedGoals → 200 joueurs
+2026-08-10 22:39:18,218 [INFO]     expectedAssists → 200 joueurs
+2026-08-10 22:39:21,913 [INFO]     shotsOnTarget → 200 joueurs
+2026-08-10 22:39:25,538 [INFO]     totalShots → 200 joueurs
+2026-08-10 22:39:29,186 [INFO]     bigChancesCreated → 200 joueurs
+2026-08-10 22:39:32,818 [INFO]     bigChancesMissed → 200 joueurs
+2026-08-10 22:39:36,560 [INFO]     accuratePasses → 200 joueurs
+2026-08-10 22:39:40,197 [INFO]     accuratePassesPercentage → 200 joueurs
+2026-08-10 22:39:43,823 [INFO]     keyPasses → 200 joueurs
+2026-08-10 22:39:47,461 [INFO]     accurateLongBalls → 200 joueurs
+2026-08-10 22:39:51,094 [INFO]     accurateLongBallsPercentage → 200 joueurs
+2026-08-10 22:39:54,772 [INFO]     successfulDribbles → 200 joueurs
+2026-08-10 22:39:58,434 [INFO]     successfulDribblesPercentage → 200 joueurs
+2026-08-10 22:40:02,055 [INFO]     tackles → 200 joueurs
+2026-08-10 22:40:05,740 [INFO]     interceptions → 200 joueurs
+2026-08-10 22:40:09,371 [INFO]     clearances → 200 joueurs
+2026-08-10 22:40:13,111 [INFO]     possessionLost → 200 joueurs
+2026-08-10 22:40:16,749 [INFO]     minutesPlayed → 200 joueurs
+2026-08-10 22:40:20,389 [INFO]     appearances → 200 joueurs
+2026-08-10 22:40:24,076 [INFO]     yellowCards → 200 joueurs
+2026-08-10 22:40:27,709 [INFO]     redCards → 200 joueurs
+2026-08-10 22:40:31,443 [INFO]     saves → 200 joueurs
+2026-08-10 22:40:35,137 [INFO]     goalsPrevented → 200 joueurs
+2026-08-10 22:40:38,291 [INFO]   -> 5200 lignes -> 20260810_224038_ENG_2024_2025_datafc.csv
+2026-08-10 22:40:41,292 [INFO] [3/30] Premier League | 2025-2026
+2026-08-10 22:40:41,293 [INFO]     2025-2026 → 25/26 → season_id=76986 (hardcoded)
+2026-08-10 22:40:42,004 [INFO]     rating → 200 joueurs
+2026-08-10 22:40:45,778 [INFO]     goals → 200 joueurs
+2026-08-10 22:40:49,422 [INFO]     assists → 200 joueurs
+2026-08-10 22:40:53,048 [INFO]     expectedGoals → 200 joueurs
+2026-08-10 22:40:56,690 [INFO]     expectedAssists → 200 joueurs
+2026-08-10 22:41:00,421 [INFO]     shotsOnTarget → 200 joueurs
+2026-08-10 22:41:04,060 [INFO]     totalShots → 200 joueurs
+2026-08-10 22:41:07,854 [INFO]     bigChancesCreated → 200 joueurs
+2026-08-10 22:41:11,689 [INFO]     bigChancesMissed → 200 joueurs
+2026-08-10 22:41:15,323 [INFO]     accuratePasses → 200 joueurs
+2026-08-10 22:41:18,965 [INFO]     accuratePassesPercentage → 200 joueurs
+2026-08-10 22:41:22,600 [INFO]     keyPasses → 200 joueurs
+2026-08-10 22:41:26,332 [INFO]     accurateLongBalls → 200 joueurs
+2026-08-10 22:41:29,959 [INFO]     accurateLongBallsPercentage → 200 joueurs
+2026-08-10 22:41:33,590 [INFO]     successfulDribbles → 200 joueurs
+2026-08-10 22:41:37,222 [INFO]     successfulDribblesPercentage → 200 joueurs
+2026-08-10 22:41:40,856 [INFO]     tackles → 200 joueurs
+2026-08-10 22:41:44,569 [INFO]     interceptions → 200 joueurs
+2026-08-10 22:41:48,243 [INFO]     clearances → 200 joueurs
+2026-08-10 22:41:51,874 [INFO]     possessionLost → 200 joueurs
+2026-08-10 22:41:55,621 [INFO]     minutesPlayed → 200 joueurs
+2026-08-10 22:41:59,261 [INFO]     appearances → 200 joueurs
+2026-08-10 22:42:02,905 [INFO]     yellowCards → 200 joueurs
+2026-08-10 22:42:06,572 [INFO]     redCards → 200 joueurs
+2026-08-10 22:42:10,217 [INFO]     saves → 200 joueurs
+2026-08-10 22:42:13,946 [INFO]     goalsPrevented → 200 joueurs
+2026-08-10 22:42:17,100 [INFO]   -> 5200 lignes -> 20260810_224216_ENG_2025_2026_datafc.csv
+2026-08-10 22:42:20,102 [INFO] [4/30] La Liga | 2023-2024
+2026-08-10 22:42:20,103 [INFO]     2023-2024 → 23/24 → season_id=52376 (hardcoded)
+2026-08-10 22:42:20,741 [INFO]     rating → 200 joueurs
+2026-08-10 22:42:24,380 [INFO]     goals → 200 joueurs
+2026-08-10 22:42:28,076 [INFO]     assists → 200 joueurs
+2026-08-10 22:42:31,770 [INFO]     expectedGoals → 200 joueurs
+2026-08-10 22:42:35,417 [INFO]     expectedAssists → 200 joueurs
+2026-08-10 22:42:39,088 [INFO]     shotsOnTarget → 200 joueurs
+2026-08-10 22:42:42,734 [INFO]     totalShots → 200 joueurs
+2026-08-10 22:42:46,372 [INFO]     bigChancesCreated → 200 joueurs
+2026-08-10 22:42:50,095 [INFO]     bigChancesMissed → 200 joueurs
+2026-08-10 22:42:53,737 [INFO]     accuratePasses → 200 joueurs
+2026-08-10 22:42:57,464 [INFO]     accuratePassesPercentage → 200 joueurs
+2026-08-10 22:43:01,101 [INFO]     keyPasses → 200 joueurs
+2026-08-10 22:43:04,855 [INFO]     accurateLongBalls → 200 joueurs
+2026-08-10 22:43:08,501 [INFO]     accurateLongBallsPercentage → 200 joueurs
+2026-08-10 22:43:12,137 [INFO]     successfulDribbles → 200 joueurs
+2026-08-10 22:43:15,775 [INFO]     successfulDribblesPercentage → 200 joueurs
+2026-08-10 22:43:19,396 [INFO]     tackles → 200 joueurs
+2026-08-10 22:43:23,024 [INFO]     interceptions → 200 joueurs
+2026-08-10 22:43:26,756 [INFO]     clearances → 200 joueurs
+2026-08-10 22:43:30,390 [INFO]     possessionLost → 200 joueurs
+2026-08-10 22:43:34,042 [INFO]     minutesPlayed → 200 joueurs
+2026-08-10 22:43:37,709 [INFO]     appearances → 200 joueurs
+2026-08-10 22:43:41,394 [INFO]     yellowCards → 200 joueurs
+2026-08-10 22:43:45,023 [INFO]     redCards → 200 joueurs
+2026-08-10 22:43:48,661 [INFO]     saves → 200 joueurs
+2026-08-10 22:43:52,291 [INFO]     goalsPrevented → 200 joueurs
+2026-08-10 22:43:55,443 [INFO]   -> 5200 lignes -> 20260810_224355_ESP_2023_2024_datafc.csv
+2026-08-10 22:43:58,445 [INFO] [5/30] La Liga | 2024-2025
+2026-08-10 22:43:58,447 [INFO]     2024-2025 → 24/25 → season_id=61643 (hardcoded)
+2026-08-10 22:43:59,073 [INFO]     rating → 200 joueurs
+2026-08-10 22:44:02,704 [INFO]     goals → 200 joueurs
+2026-08-10 22:44:06,485 [INFO]     assists → 200 joueurs
+2026-08-10 22:44:10,171 [INFO]     expectedGoals → 200 joueurs
+2026-08-10 22:44:13,873 [INFO]     expectedAssists → 200 joueurs
+2026-08-10 22:44:17,542 [INFO]     shotsOnTarget → 200 joueurs
+2026-08-10 22:44:21,228 [INFO]     totalShots → 200 joueurs
+2026-08-10 22:44:24,857 [INFO]     bigChancesCreated → 200 joueurs
+2026-08-10 22:44:28,491 [INFO]     bigChancesMissed → 200 joueurs
+2026-08-10 22:44:32,129 [INFO]     accuratePasses → 200 joueurs
+2026-08-10 22:44:35,757 [INFO]     accuratePassesPercentage → 200 joueurs
+2026-08-10 22:44:39,393 [INFO]     keyPasses → 200 joueurs
+2026-08-10 22:44:43,042 [INFO]     accurateLongBalls → 200 joueurs
+2026-08-10 22:44:46,689 [INFO]     accurateLongBallsPercentage → 200 joueurs
+2026-08-10 22:44:50,411 [INFO]     successfulDribbles → 200 joueurs
+2026-08-10 22:44:54,100 [INFO]     successfulDribblesPercentage → 200 joueurs
+2026-08-10 22:44:57,738 [INFO]     tackles → 200 joueurs
+2026-08-10 22:45:01,471 [INFO]     interceptions → 200 joueurs
+2026-08-10 22:45:05,103 [INFO]     clearances → 200 joueurs
+2026-08-10 22:45:08,732 [INFO]     possessionLost → 200 joueurs
+2026-08-10 22:45:12,547 [INFO]     minutesPlayed → 200 joueurs
+2026-08-10 22:45:16,178 [INFO]     appearances → 200 joueurs
+2026-08-10 22:45:19,839 [INFO]     yellowCards → 200 joueurs
+2026-08-10 22:45:23,592 [INFO]     redCards → 200 joueurs
+2026-08-10 22:45:27,276 [INFO]     saves → 200 joueurs
+2026-08-10 22:45:30,911 [INFO]     goalsPrevented → 200 joueurs
+2026-08-10 22:45:34,063 [INFO]   -> 5200 lignes -> 20260810_224533_ESP_2024_2025_datafc.csv
+2026-08-10 22:45:37,068 [INFO] [6/30] La Liga | 2025-2026
+2026-08-10 22:45:37,069 [INFO]     2025-2026 → 25/26 → season_id=77559 (hardcoded)
+2026-08-10 22:45:37,718 [INFO]     rating → 200 joueurs
+2026-08-10 22:45:41,341 [INFO]     goals → 200 joueurs
+2026-08-10 22:45:44,975 [INFO]     assists → 200 joueurs
+2026-08-10 22:45:48,610 [INFO]     expectedGoals → 200 joueurs
+2026-08-10 22:45:52,246 [INFO]     expectedAssists → 200 joueurs
+2026-08-10 22:45:55,889 [INFO]     shotsOnTarget → 200 joueurs
+2026-08-10 22:45:59,638 [INFO]     totalShots → 200 joueurs
+2026-08-10 22:46:03,321 [INFO]     bigChancesCreated → 200 joueurs
+2026-08-10 22:46:06,958 [INFO]     bigChancesMissed → 200 joueurs
+2026-08-10 22:46:10,584 [INFO]     accuratePasses → 200 joueurs
+2026-08-10 22:46:14,224 [INFO]     accuratePassesPercentage → 200 joueurs
+2026-08-10 22:46:17,858 [INFO]     keyPasses → 200 joueurs
+2026-08-10 22:46:21,560 [INFO]     accurateLongBalls → 200 joueurs
+2026-08-10 22:46:25,238 [INFO]     accurateLongBallsPercentage → 200 joueurs
+2026-08-10 22:46:28,862 [INFO]     successfulDribbles → 200 joueurs
+2026-08-10 22:46:32,607 [INFO]     successfulDribblesPercentage → 200 joueurs
+2026-08-10 22:46:36,294 [INFO]     tackles → 200 joueurs
+2026-08-10 22:46:39,988 [INFO]     interceptions → 200 joueurs
+2026-08-10 22:46:43,623 [INFO]     clearances → 200 joueurs
+2026-08-10 22:46:47,353 [INFO]     possessionLost → 200 joueurs
+2026-08-10 22:46:51,040 [INFO]     minutesPlayed → 200 joueurs
+2026-08-10 22:46:54,674 [INFO]     appearances → 200 joueurs
+2026-08-10 22:46:58,313 [INFO]     yellowCards → 200 joueurs
+2026-08-10 22:47:01,956 [INFO]     redCards → 200 joueurs
+2026-08-10 22:47:05,593 [INFO]     saves → 200 joueurs
+2026-08-10 22:47:09,268 [INFO]     goalsPrevented → 200 joueurs
+2026-08-10 22:47:12,432 [INFO]   -> 5200 lignes -> 20260810_224712_ESP_2025_2026_datafc.csv
+2026-08-10 22:47:15,434 [INFO] [7/30] Bundesliga | 2023-2024
+2026-08-10 22:47:15,435 [INFO]     2023-2024 → 23/24 → season_id=52608 (hardcoded)
+2026-08-10 22:47:16,127 [INFO]     rating → 200 joueurs
+2026-08-10 22:47:19,751 [INFO]     goals → 200 joueurs
+2026-08-10 22:47:23,390 [INFO]     assists → 200 joueurs
+2026-08-10 22:47:27,027 [INFO]     expectedGoals → 200 joueurs
+2026-08-10 22:47:30,661 [INFO]     expectedAssists → 200 joueurs
+2026-08-10 22:47:34,358 [INFO]     shotsOnTarget → 200 joueurs

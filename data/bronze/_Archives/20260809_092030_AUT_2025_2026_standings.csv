@@ -1,0 +1,73 @@
+﻿country,tournament,tournament_id,season_id,team_name,team_id,position,matches,wins,draws,losses,scores_for,scores_against,points,category,_league_id,_season,_source,_scraped_at
+Austria,"Austrian Bundesliga, Championship Round",45,77382,LASK,2058,1,32,17,7,8,56,42,39,Total,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Sturm Graz,2051,2,32,16,8,8,51,35,37,Total,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,"Austrian Bundesliga, Championship Round",45,77382,Red Bull Salzburg,2046,3,32,13,9,10,56,41,29,Total,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,"Austrian Bundesliga, Championship Round",45,77382,FK Austria Wien,2203,4,32,14,5,13,45,50,29,Total,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Rapid Wien,2055,5,32,12,8,12,36,41,27,Total,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,"Austrian Bundesliga, Championship Round",45,77382,TSV Hartberg,2075,6,32,10,12,10,40,40,25,Total,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,Austrian Bundesliga,45,77382,SK Sturm Graz,2051,1,22,12,2,8,33,26,38,Total,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,Austrian Bundesliga,45,77382,Red Bull Salzburg,2046,2,22,10,7,5,42,26,37,Total,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,Austrian Bundesliga,45,77382,LASK,2058,3,22,11,4,7,32,30,37,Total,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,Austrian Bundesliga,45,77382,FK Austria Wien,2203,4,22,11,3,8,34,30,36,Total,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,Austrian Bundesliga,45,77382,SK Rapid Wien,2055,5,22,9,6,7,26,25,33,Total,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,Austrian Bundesliga,45,77382,TSV Hartberg,2075,6,22,8,9,5,29,24,33,Total,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,Austrian Bundesliga,45,77382,WSG Tirol,5405,7,22,8,7,7,31,30,31,Total,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,Austrian Bundesliga,45,77382,SCR Altach,4856,8,22,7,8,7,22,23,29,Total,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,Austrian Bundesliga,45,77382,SV Ried,2049,9,22,8,4,10,26,30,28,Total,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,Austrian Bundesliga,45,77382,Wolfsberger AC,2076,10,22,7,5,10,31,32,26,Total,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,Austrian Bundesliga,45,77382,Grazer AK 1902,2052,11,22,4,8,10,22,36,20,Total,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,Austrian Bundesliga,45,77382,FC Blau Weiss Linz,2113,12,22,4,3,15,20,36,15,Total,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SV Ried,2049,1,32,12,6,14,38,42,28,Total,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Wolfsberger AC,2076,2,32,11,8,13,41,42,28,Total,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SCR Altach,4856,3,32,10,12,10,36,39,27,Total,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Grazer AK 1902,2052,4,32,9,10,13,42,45,27,Total,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,WSG Tirol,5405,5,32,10,10,12,40,52,24,Total,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,FC Blau Weiss Linz,2113,6,32,8,5,19,37,49,21,Total,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,"Austrian Bundesliga, Championship Round",45,77382,LASK,2058,1,16,10,3,3,28,19,33,Home,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Sturm Graz,2051,2,16,6,5,5,17,17,23,Home,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Rapid Wien,2055,3,16,7,2,7,19,20,23,Home,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,"Austrian Bundesliga, Championship Round",45,77382,Red Bull Salzburg,2046,4,16,6,4,6,29,23,22,Home,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,"Austrian Bundesliga, Championship Round",45,77382,FK Austria Wien,2203,5,16,6,3,7,19,27,21,Home,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,"Austrian Bundesliga, Championship Round",45,77382,TSV Hartberg,2075,6,16,4,5,7,19,25,17,Home,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,Austrian Bundesliga,45,77382,LASK,2058,1,11,7,1,3,18,15,22,Home,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,Austrian Bundesliga,45,77382,SCR Altach,4856,2,11,5,5,1,14,10,20,Home,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,Austrian Bundesliga,45,77382,Red Bull Salzburg,2046,3,11,5,3,3,22,14,18,Home,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,Austrian Bundesliga,45,77382,WSG Tirol,5405,4,11,5,3,3,18,14,18,Home,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,Austrian Bundesliga,45,77382,FK Austria Wien,2203,5,11,5,2,4,14,15,17,Home,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,Austrian Bundesliga,45,77382,SK Rapid Wien,2055,6,11,5,2,4,14,12,17,Home,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,Austrian Bundesliga,45,77382,SK Sturm Graz,2051,7,11,5,1,5,12,14,16,Home,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,Austrian Bundesliga,45,77382,TSV Hartberg,2075,8,11,4,4,3,13,11,16,Home,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,Austrian Bundesliga,45,77382,SV Ried,2049,9,11,4,3,4,12,13,15,Home,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,Austrian Bundesliga,45,77382,Wolfsberger AC,2076,10,11,4,3,4,16,14,15,Home,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,Austrian Bundesliga,45,77382,Grazer AK 1902,2052,11,11,3,5,3,15,16,14,Home,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,Austrian Bundesliga,45,77382,FC Blau Weiss Linz,2113,12,11,3,1,7,14,18,10,Home,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SCR Altach,4856,1,16,8,6,2,21,15,30,Home,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SV Ried,2049,2,16,8,3,5,21,18,27,Home,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,WSG Tirol,5405,3,16,7,5,4,26,23,26,Home,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Grazer AK 1902,2052,4,16,6,7,3,26,20,25,Home,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Wolfsberger AC,2076,5,16,6,6,4,20,15,24,Home,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,FC Blau Weiss Linz,2113,6,16,7,1,8,28,23,22,Home,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Sturm Graz,2051,1,16,10,3,3,34,18,33,Away,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,"Austrian Bundesliga, Championship Round",45,77382,Red Bull Salzburg,2046,2,16,7,5,4,27,18,26,Away,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,"Austrian Bundesliga, Championship Round",45,77382,FK Austria Wien,2203,3,16,8,2,6,26,23,26,Away,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,"Austrian Bundesliga, Championship Round",45,77382,LASK,2058,4,16,7,4,5,28,23,25,Away,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,"Austrian Bundesliga, Championship Round",45,77382,TSV Hartberg,2075,5,16,6,7,3,21,15,25,Away,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,"Austrian Bundesliga, Championship Round",45,77382,SK Rapid Wien,2055,6,16,5,6,5,17,21,21,Away,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,Austrian Bundesliga,45,77382,SK Sturm Graz,2051,1,11,7,1,3,21,12,22,Away,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,Austrian Bundesliga,45,77382,Red Bull Salzburg,2046,2,11,5,4,2,20,12,19,Away,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,Austrian Bundesliga,45,77382,FK Austria Wien,2203,3,11,6,1,4,20,15,19,Away,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,Austrian Bundesliga,45,77382,TSV Hartberg,2075,4,11,4,5,2,16,13,17,Away,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,Austrian Bundesliga,45,77382,SK Rapid Wien,2055,5,11,4,4,3,12,13,16,Away,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,Austrian Bundesliga,45,77382,LASK,2058,6,11,4,3,4,14,15,15,Away,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,Austrian Bundesliga,45,77382,SV Ried,2049,7,11,4,1,6,14,17,13,Away,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,Austrian Bundesliga,45,77382,WSG Tirol,5405,8,11,3,4,4,13,16,13,Away,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,Austrian Bundesliga,45,77382,Wolfsberger AC,2076,9,11,3,2,6,15,18,11,Away,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,Austrian Bundesliga,45,77382,SCR Altach,4856,10,11,2,3,6,8,13,9,Away,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,Austrian Bundesliga,45,77382,Grazer AK 1902,2052,11,11,1,3,7,7,20,6,Away,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,Austrian Bundesliga,45,77382,FC Blau Weiss Linz,2113,12,11,1,2,8,6,18,5,Away,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Wolfsberger AC,2076,1,16,5,2,9,21,27,17,Away,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SV Ried,2049,2,16,4,3,9,17,24,15,Away,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,WSG Tirol,5405,3,16,3,5,8,14,29,14,Away,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,Grazer AK 1902,2052,4,16,3,3,10,16,25,12,Away,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,SCR Altach,4856,5,16,2,6,8,15,24,12,Away,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942
+Austria,"Austrian Bundesliga, Relegation Round",45,77382,FC Blau Weiss Linz,2113,6,16,1,4,11,9,26,7,Away,AUT,2025-2026,datafc_sofascore,2026-08-09T09:20:30.574942

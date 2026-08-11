@@ -1,0 +1,97 @@
+﻿country,tournament,tournament_id,season_id,team_name,team_id,position,matches,wins,draws,losses,scores_for,scores_against,points,category,_league_id,_season,_source,_scraped_at
+Belgium,"Pro League, Championship Round",38,77040,Club Brugge KV,2888,1,40,28,4,8,91,45,57,Total,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Championship Round",38,77040,Royale Union Saint-Gilloise,4860,2,40,25,11,4,66,27,53,Total,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Championship Round",38,77040,Sint-Truidense VV,2895,3,40,22,5,13,61,46,43,Total,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Championship Round",38,77040,RSC Anderlecht,2900,4,40,15,10,15,59,62,33,Total,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Championship Round",38,77040,KAA Gent,2903,5,40,13,12,15,53,57,29,Total,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Championship Round",38,77040,KV Mechelen,5044,6,40,13,12,15,48,61,29,Total,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Relegation Round",38,77040,SV Zulte Waregem,2933,1,36,13,9,14,53,53,48,Total,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Relegation Round",38,77040,Cercle Brugge,2929,2,36,10,11,15,53,58,41,Total,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Relegation Round",38,77040,RAAL La Louvière,368506,3,36,7,13,16,35,50,34,Total,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Relegation Round",38,77040,FCV Dender,389232,4,36,5,10,21,31,62,25,Total,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,Royale Union Saint-Gilloise,4860,1,30,19,9,2,50,17,66,Total,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,Club Brugge KV,2888,2,30,20,3,7,59,36,63,Total,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,Sint-Truidense VV,2895,3,30,18,3,9,47,35,57,Total,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,KAA Gent,2903,4,30,13,6,11,49,43,45,Total,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,KV Mechelen,5044,5,30,12,9,9,39,37,45,Total,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,RSC Anderlecht,2900,6,30,12,8,10,43,39,44,Total,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,KRC Genk,2890,7,30,11,9,10,46,47,42,Total,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,Standard Liège,2901,8,30,11,7,12,27,35,40,Total,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,KVC Westerlo,2893,9,30,10,9,11,36,40,39,Total,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,Royal Antwerp FC,2889,10,30,9,8,13,31,32,35,Total,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,RC Sporting Charleroi,2898,11,30,9,7,14,38,42,34,Total,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,Oud-Heverlee Leuven,2918,12,30,9,7,14,32,43,34,Total,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,SV Zulte Waregem,2933,13,30,8,8,14,38,47,32,Total,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,Cercle Brugge,2929,14,30,7,10,13,39,47,31,Total,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,RAAL La Louvière,368506,15,30,6,13,11,30,37,31,Total,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,FCV Dender,389232,16,30,3,10,17,24,51,19,Total,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Conference League Playoffs",38,77040,KRC Genk,2890,1,40,15,14,11,57,53,38,Total,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Conference League Playoffs",38,77040,Standard Liège,2901,2,40,16,9,15,44,46,37,Total,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Conference League Playoffs",38,77040,RC Sporting Charleroi,2898,3,40,14,9,17,50,50,34,Total,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Conference League Playoffs",38,77040,KVC Westerlo,2893,4,40,14,10,16,50,57,33,Total,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Conference League Playoffs",38,77040,Royal Antwerp FC,2889,5,40,13,9,18,43,48,31,Total,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Conference League Playoffs",38,77040,Oud-Heverlee Leuven,2918,6,40,10,10,20,41,60,23,Total,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Championship Round",38,77040,Royale Union Saint-Gilloise,4860,1,20,18,2,0,43,7,56,Home,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Championship Round",38,77040,Club Brugge KV,2888,2,20,16,2,2,56,22,50,Home,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Championship Round",38,77040,Sint-Truidense VV,2895,3,20,13,2,5,32,23,41,Home,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Championship Round",38,77040,RSC Anderlecht,2900,4,20,10,5,5,35,24,35,Home,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Championship Round",38,77040,KAA Gent,2903,5,20,8,6,6,29,21,30,Home,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Championship Round",38,77040,KV Mechelen,5044,6,20,7,7,6,24,25,28,Home,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Relegation Round",38,77040,SV Zulte Waregem,2933,1,18,8,4,6,27,22,28,Home,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Relegation Round",38,77040,RAAL La Louvière,368506,2,18,4,7,7,16,20,19,Home,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Relegation Round",38,77040,Cercle Brugge,2929,3,18,3,5,10,26,35,14,Home,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Relegation Round",38,77040,FCV Dender,389232,4,18,2,5,11,16,35,11,Home,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,Royale Union Saint-Gilloise,4860,1,15,14,1,0,32,5,43,Home,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,Club Brugge KV,2888,2,15,11,2,2,34,19,35,Home,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,Sint-Truidense VV,2895,3,15,10,1,4,23,19,31,Home,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,RSC Anderlecht,2900,4,15,8,4,3,25,14,28,Home,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,KAA Gent,2903,5,15,8,2,5,27,17,26,Home,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,KV Mechelen,5044,6,15,6,6,3,19,16,24,Home,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,Royal Antwerp FC,2889,7,15,6,4,5,21,18,22,Home,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,KRC Genk,2890,8,15,6,4,5,21,20,22,Home,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,KVC Westerlo,2893,9,15,6,3,6,17,16,21,Home,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,SV Zulte Waregem,2933,10,15,6,3,6,19,19,21,Home,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,Standard Liège,2901,11,15,4,6,5,14,18,18,Home,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,Oud-Heverlee Leuven,2918,12,15,4,5,6,18,18,17,Home,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,RC Sporting Charleroi,2898,13,15,4,5,6,20,21,17,Home,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,RAAL La Louvière,368506,14,15,3,7,5,12,16,16,Home,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,Cercle Brugge,2929,15,15,1,5,9,19,31,8,Home,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,FCV Dender,389232,16,15,1,5,9,12,28,8,Home,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Conference League Playoffs",38,77040,KRC Genk,2890,1,20,7,8,5,26,22,29,Home,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Conference League Playoffs",38,77040,Royal Antwerp FC,2889,2,20,8,4,8,26,26,28,Home,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Conference League Playoffs",38,77040,KVC Westerlo,2893,3,20,7,4,9,26,27,25,Home,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Conference League Playoffs",38,77040,RC Sporting Charleroi,2898,4,20,6,6,8,26,26,24,Home,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Conference League Playoffs",38,77040,Standard Liège,2901,5,20,5,7,8,18,25,22,Home,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Conference League Playoffs",38,77040,Oud-Heverlee Leuven,2918,6,20,5,5,10,22,27,20,Home,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Championship Round",38,77040,Club Brugge KV,2888,1,20,12,2,6,35,23,38,Away,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Championship Round",38,77040,Sint-Truidense VV,2895,2,20,9,3,8,29,23,30,Away,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Championship Round",38,77040,Royale Union Saint-Gilloise,4860,3,20,7,9,4,23,20,30,Away,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Championship Round",38,77040,KV Mechelen,5044,4,20,6,5,9,24,36,23,Away,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Championship Round",38,77040,KAA Gent,2903,5,20,5,6,9,24,36,21,Away,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Championship Round",38,77040,RSC Anderlecht,2900,6,20,5,5,10,24,38,20,Away,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Relegation Round",38,77040,Cercle Brugge,2929,1,18,7,6,5,27,23,27,Away,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Relegation Round",38,77040,SV Zulte Waregem,2933,2,18,5,5,8,26,31,20,Away,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Relegation Round",38,77040,RAAL La Louvière,368506,3,18,3,6,9,19,30,15,Away,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Relegation Round",38,77040,FCV Dender,389232,4,18,3,5,10,15,27,14,Away,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,Club Brugge KV,2888,1,15,9,1,5,25,17,28,Away,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,Sint-Truidense VV,2895,2,15,8,2,5,24,16,26,Away,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,Cercle Brugge,2929,3,15,6,5,4,20,16,23,Away,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,Royale Union Saint-Gilloise,4860,4,15,5,8,2,18,12,23,Away,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,Standard Liège,2901,5,15,7,1,7,13,17,22,Away,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,KV Mechelen,5044,6,15,6,3,6,20,21,21,Away,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,KRC Genk,2890,7,15,5,5,5,25,27,20,Away,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,KAA Gent,2903,8,15,5,4,6,22,26,19,Away,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,KVC Westerlo,2893,9,15,4,6,5,19,24,18,Away,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,RC Sporting Charleroi,2898,10,15,5,2,8,18,21,17,Away,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,Oud-Heverlee Leuven,2918,11,15,5,2,8,14,25,17,Away,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,RSC Anderlecht,2900,12,15,4,4,7,18,25,16,Away,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,RAAL La Louvière,368506,13,15,3,6,6,18,21,15,Away,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,Royal Antwerp FC,2889,14,15,3,4,8,10,14,13,Away,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,SV Zulte Waregem,2933,15,15,2,5,8,19,28,11,Away,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,Pro League,38,77040,FCV Dender,389232,16,15,2,5,8,12,23,11,Away,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Conference League Playoffs",38,77040,Standard Liège,2901,1,20,11,2,7,26,21,35,Away,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Conference League Playoffs",38,77040,KRC Genk,2890,2,20,8,6,6,31,31,30,Away,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Conference League Playoffs",38,77040,RC Sporting Charleroi,2898,3,20,8,3,9,24,24,27,Away,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Conference League Playoffs",38,77040,KVC Westerlo,2893,4,20,7,6,7,24,30,27,Away,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Conference League Playoffs",38,77040,Royal Antwerp FC,2889,5,20,5,5,10,17,22,20,Away,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675
+Belgium,"Pro League, Conference League Playoffs",38,77040,Oud-Heverlee Leuven,2918,6,20,5,5,10,19,33,20,Away,BEL,2025-2026,datafc_sofascore,2026-08-09T07:58:16.124675

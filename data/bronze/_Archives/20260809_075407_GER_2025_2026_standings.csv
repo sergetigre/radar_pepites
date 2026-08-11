@@ -1,0 +1,55 @@
+﻿country,tournament,tournament_id,season_id,team_name,team_id,position,matches,wins,draws,losses,scores_for,scores_against,points,category,_league_id,_season,_source,_scraped_at
+Germany,Bundesliga,35,77333,FC Bayern München,2672,1,34,28,5,1,122,36,89,Total,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,Borussia Dortmund,2673,2,34,22,7,5,70,34,73,Total,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,RB Leipzig,36360,3,34,20,5,9,66,47,65,Total,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,VfB Stuttgart,2677,4,34,18,8,8,71,49,62,Total,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,TSG Hoffenheim,2569,5,34,18,7,9,65,52,61,Total,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,Bayer 04 Leverkusen,2681,6,34,17,8,9,68,47,59,Total,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,SC Freiburg,2538,7,34,13,8,13,51,57,47,Total,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,Eintracht Frankfurt,2674,8,34,11,11,12,61,65,44,Total,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,FC Augsburg,2600,9,34,12,7,15,45,61,43,Total,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,1. FSV Mainz 05,2556,10,34,10,10,14,44,53,40,Total,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,1. FC Union Berlin,2547,11,34,10,9,15,44,58,39,Total,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,Borussia M'gladbach,2527,12,34,9,11,14,42,53,38,Total,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,Hamburger SV,2676,13,34,9,11,14,40,54,38,Total,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,1. FC Köln,2671,14,34,7,11,16,49,63,32,Total,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,SV Werder Bremen,2534,15,34,8,8,18,37,60,32,Total,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,VfL Wolfsburg,2524,16,34,7,8,19,45,69,29,Total,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,1. FC Heidenheim,5885,17,34,6,8,20,41,72,26,Total,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,FC St. Pauli,2526,18,34,6,8,20,29,60,26,Total,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,FC Bayern München,2672,1,17,14,2,1,68,19,44,Home,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,Borussia Dortmund,2673,2,17,13,2,2,40,16,41,Home,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,VfB Stuttgart,2677,3,17,12,3,2,30,16,39,Home,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,RB Leipzig,36360,4,17,12,2,3,40,20,38,Home,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,TSG Hoffenheim,2569,5,17,10,2,5,35,21,32,Home,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,SC Freiburg,2538,6,17,9,5,3,33,22,32,Home,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,Bayer 04 Leverkusen,2681,7,17,9,4,4,38,19,31,Home,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,FC Augsburg,2600,8,17,7,5,5,25,28,26,Home,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,Eintracht Frankfurt,2674,9,17,7,4,6,29,27,25,Home,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,Hamburger SV,2676,10,17,6,6,5,25,22,24,Home,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,Borussia M'gladbach,2527,11,17,6,6,5,24,24,24,Home,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,1. FC Union Berlin,2547,12,17,5,7,5,26,26,22,Home,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,1. FC Köln,2671,13,17,5,4,8,30,30,19,Home,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,SV Werder Bremen,2534,14,17,5,4,8,19,31,19,Home,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,1. FSV Mainz 05,2556,15,17,4,5,8,21,25,17,Home,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,1. FC Heidenheim,5885,16,17,4,5,8,23,37,17,Home,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,FC St. Pauli,2526,17,17,4,5,8,17,31,17,Home,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,VfL Wolfsburg,2524,18,17,2,4,11,21,32,10,Home,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,FC Bayern München,2672,1,17,14,3,0,54,17,45,Away,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,Borussia Dortmund,2673,2,17,9,5,3,30,18,32,Away,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,TSG Hoffenheim,2569,3,17,8,5,4,30,31,29,Away,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,Bayer 04 Leverkusen,2681,4,17,8,4,5,30,28,28,Away,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,RB Leipzig,36360,5,17,8,3,6,26,27,27,Away,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,VfB Stuttgart,2677,6,17,6,5,6,41,33,23,Away,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,1. FSV Mainz 05,2556,7,17,6,5,6,23,28,23,Away,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,Eintracht Frankfurt,2674,8,17,4,7,6,32,38,19,Away,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,VfL Wolfsburg,2524,9,17,5,4,8,24,37,19,Away,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,FC Augsburg,2600,10,17,5,2,10,20,33,17,Away,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,1. FC Union Berlin,2547,11,17,5,2,10,18,32,17,Away,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,SC Freiburg,2538,12,17,4,3,10,18,35,15,Away,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,Borussia M'gladbach,2527,13,17,3,5,9,18,29,14,Away,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,Hamburger SV,2676,14,17,3,5,9,15,32,14,Away,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,SV Werder Bremen,2534,15,17,3,4,10,18,29,13,Away,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,1. FC Köln,2671,16,17,2,7,8,19,33,13,Away,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,1. FC Heidenheim,5885,17,17,2,3,12,18,35,9,Away,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642
+Germany,Bundesliga,35,77333,FC St. Pauli,2526,18,17,2,3,12,12,29,9,Away,GER,2025-2026,datafc_sofascore,2026-08-09T07:54:07.602642

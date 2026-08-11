@@ -1,0 +1,48 @@
+2026-08-09 07:49:57,547 [INFO] =================================================================
+2026-08-09 07:49:57,548 [INFO]   RadarPepites - Infos Joueurs & Equipes -> Bronze
+2026-08-09 07:49:57,548 [INFO] =================================================================
+2026-08-09 07:49:57,550 [INFO]   Ligues  : ['BEL']
+2026-08-09 07:49:57,552 [INFO]   Saisons : ['2023-2024', '2024-2025', '2025-2026']
+2026-08-09 07:49:57,554 [INFO]   Total   : 3 combinaisons ligue x saison
+2026-08-09 07:49:57,556 [INFO]   Fichiers: 3 par combinaison (standings, squad, players_info)
+2026-08-09 07:49:57,556 [INFO] =================================================================
+2026-08-09 07:49:57,560 [INFO] [1/3] First Division A | 2023-2024
+2026-08-09 07:49:57,562 [INFO]     season_id=52383 (23/24)
+2026-08-09 07:49:57,564 [INFO]     [1/3] Standings...
+2026-08-09 07:49:58,583 [INFO]     → 96 équipes
+2026-08-09 07:49:58,594 [INFO]     → 20260809_074958_BEL_2023_2024_standings.csv
+2026-08-09 07:50:00,595 [INFO]     [2/3] Squad (roster joueurs)...
+2026-08-09 07:50:16,145 [INFO]     → 894 joueurs dans les squads
+2026-08-09 07:50:16,154 [INFO]     → 20260809_075016_BEL_2023_2024_squad.csv
+2026-08-09 07:50:18,155 [INFO]     [3/3] Player data (infos biographiques)...
+2026-08-09 07:54:01,524 [INFO]     → 447 joueurs avec infos bio
+2026-08-09 07:54:01,535 [INFO]     → 20260809_075401_BEL_2023_2024_players_info.csv
+2026-08-09 07:54:01,536 [INFO]   -> Colonnes players_info : ['player_id', 'player_name', 'date_of_birth', 'age', 'nationality', 'nationality_id', 'height', 'weight', 'preferred_foot', 'jersey_number']...
+2026-08-09 07:54:03,538 [INFO] [2/3] First Division A | 2024-2025
+2026-08-09 07:54:03,539 [INFO]     season_id=61459 (24/25)
+2026-08-09 07:54:03,539 [INFO]     [1/3] Standings...
+2026-08-09 07:54:04,558 [INFO]     → 96 équipes
+2026-08-09 07:54:04,564 [INFO]     → 20260809_075404_BEL_2024_2025_standings.csv
+2026-08-09 07:54:06,566 [INFO]     [2/3] Squad (roster joueurs)...
+2026-08-09 07:54:22,175 [INFO]     → 916 joueurs dans les squads
+2026-08-09 07:54:22,197 [INFO]     → 20260809_075422_BEL_2024_2025_squad.csv
+2026-08-09 07:54:24,200 [INFO]     [3/3] Player data (infos biographiques)...
+2026-08-09 07:58:13,077 [INFO]     → 458 joueurs avec infos bio
+2026-08-09 07:58:13,091 [INFO]     → 20260809_075813_BEL_2024_2025_players_info.csv
+2026-08-09 07:58:13,092 [INFO]   -> Colonnes players_info : ['player_id', 'player_name', 'date_of_birth', 'age', 'nationality', 'nationality_id', 'height', 'weight', 'preferred_foot', 'jersey_number']...
+2026-08-09 07:58:15,095 [INFO] [3/3] First Division A | 2025-2026
+2026-08-09 07:58:15,095 [INFO]     season_id=77040 (25/26)
+2026-08-09 07:58:15,095 [INFO]     [1/3] Standings...
+2026-08-09 07:58:16,122 [INFO]     → 96 équipes
+2026-08-09 07:58:16,128 [INFO]     → 20260809_075816_BEL_2025_2026_standings.csv
+2026-08-09 07:58:18,131 [INFO]     [2/3] Squad (roster joueurs)...
+2026-08-09 07:58:33,706 [INFO]     → 916 joueurs dans les squads
+2026-08-09 07:58:33,727 [INFO]     → 20260809_075833_BEL_2025_2026_squad.csv
+2026-08-09 07:58:35,732 [INFO]     [3/3] Player data (infos biographiques)...
+2026-08-09 08:02:24,564 [INFO]     → 458 joueurs avec infos bio
+2026-08-09 08:02:24,570 [INFO]     → 20260809_080224_BEL_2025_2026_players_info.csv
+2026-08-09 08:02:24,571 [INFO]   -> Colonnes players_info : ['player_id', 'player_name', 'date_of_birth', 'age', 'nationality', 'nationality_id', 'height', 'weight', 'preferred_foot', 'jersey_number']...
+2026-08-09 08:02:26,572 [INFO] =================================================================
+2026-08-09 08:02:26,575 [INFO]   Termine  : 3/3 combinaisons completes
+2026-08-09 08:02:26,576 [INFO]   Bronze   : C:\Users\serge\Documents\02_DEV_PROJETS\radar_pepites\data\bronze
+2026-08-09 08:02:26,577 [INFO] =================================================================

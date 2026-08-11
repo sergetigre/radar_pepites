@@ -1,0 +1,41 @@
+﻿tournament_id,season_id,player_name,player_id,team_name,team_id,saves,goalsPrevented,rating,minutesPlayed,appearances,accuratePasses,accurateLongBalls,accurateLongBallsPercentage,yellowCards,redCards,_league_id,_season,_source,_scraped_at
+17,52186,André Onana,787498,Manchester United,35,149,3.35,7.21,3420,38,966,206,34.45,5,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,Thomas Kaminski,45959,Luton Town,72,145,-5.15,6.91,3406,38,721,312,35.02,3,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,Alphonse Aréola,96531,West Ham United,37,138,-0.24,7.36,2699,31,426,184,38.98,1,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,José Sá,252669,Wolverhampton,3,134,8.45,7.12,3038,35,535,108,23.33,1,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,Bernd Leno,103335,Fulham,43,134,-4.59,7.1,3420,38,1086,176,35.7,3,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,Wes Foderingham,187861,Sheffield United,15,133,-6.67,6.98,2648,30,497,229,34.13,2,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,Jordan Pickford,138530,Everton,48,121,2.47,7.21,3420,38,849,400,41.32,5,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,Neto,84844,Bournemouth,60,115,2.37,7.1,2880,32,543,188,35.34,5,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,Mark Flekken,171919,Brentford,50,115,-6.71,7.09,3285,37,1003,321,42.35,3,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,Guglielmo Vicario,553606,Tottenham Hotspur,33,110,-0.27,7.04,3420,38,1147,85,29.01,2,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,James Trafford,980643,Burnley,6,106,-7.47,6.99,2520,28,849,182,26.57,2,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,Emiliano Martínez,158263,Aston Villa,40,95,4.57,7.1,3015,34,1035,163,41.69,4,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,Martin Dúbravka,42209,Newcastle United,39,88,0.61,7.2,1994,23,379,71,36.41,1,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,Alisson,243609,Liverpool FC,44,83,-1.03,7.02,2520,28,848,83,37.9,1,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,Đorđe Petrović,882604,Chelsea,38,75,-8.93,6.94,1994,23,540,93,35.91,2,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,Bart Verbruggen,994363,Brighton & Hove Albion,30,65,-2.53,7.12,1890,21,636,91,48.15,3,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,Arijanet Murić,888971,Burnley,6,64,6.09,8.0,900,10,355,106,39.55,0,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,Dean Henderson,788134,Crystal Palace,7,58,-2.07,6.84,1620,18,231,65,25.0,2,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,Ederson,254491,Manchester City,17,57,0.66,7.0,2788,33,942,185,56.06,5,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,Matt Turner,833943,Nottingham Forest,14,55,-5.45,6.98,1530,17,301,138,45.1,2,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,Robert Sánchez,920546,Chelsea,38,53,-0.22,7.11,1434,16,414,85,46.2,2,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,David Raya,581310,Arsenal,42,46,-3.07,6.85,2880,32,641,143,35.48,2,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,Nick Pope,162653,Newcastle United,39,43,1.5,6.99,1346,15,221,46,34.85,1,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,Jason Steele,31867,Brighton & Hove Albion,30,43,-7.09,6.69,1530,17,501,80,45.98,0,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,Sam Johnstone,98427,Crystal Palace,7,41,-7.29,6.82,1797,20,281,138,35.84,1,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,Matz Sels,78152,Nottingham Forest,14,38,-9.68,6.67,1440,16,212,85,43.15,1,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,Ivo Grbić,283847,Sheffield United,15,37,-10.31,6.73,772,9,124,68,31.92,1,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,Łukasz Fabiański,15479,West Ham United,37,33,-0.63,7.03,721,10,117,57,42.54,0,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,Caoimhin Kelleher,827362,Liverpool FC,44,28,0.4,6.96,900,10,307,44,35.77,0,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,Robin Olsen,26025,Aston Villa,40,21,-1.6,7.1,405,5,146,20,35.71,0,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,Stefan Ortega,125274,Manchester City,17,20,2.03,6.96,632,9,189,36,41.86,0,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,Mark Travers,856720,Bournemouth,60,13,0.07,7.18,360,4,54,23,31.08,0,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,Odysseas Vlachodimos,138149,Nottingham Forest,14,10,-4.15,6.68,450,5,121,33,50.77,0,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,Aaron Ramsdale,839410,Arsenal,42,9,-1.35,6.63,540,6,103,23,29.49,0,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,Daniel Bentley,101367,Wolverhampton,3,8,-1.14,6.54,382,5,87,23,32.86,0,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,Thomas Strakosha,227212,Brentford,50,6,-0.43,7.4,135,2,47,16,45.71,0,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,Ionuț Radu,815202,Bournemouth,60,5,-4.08,6.05,180,2,46,8,40.0,0,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,Loris Karius,174135,Newcastle United,39,4,-1.99,6.4,90,1,16,3,16.67,0,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,James Shea,137789,Luton Town,72,2,0.13,7.0,14,1,5,3,50.0,0,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540
+17,52186,Remi Matthews,581610,Crystal Palace,7,0,-0.85,6.1,16,1,0,0,0.0,0,0,ENG,2023-2024,datafc_sofascore_keeper,2026-08-10T23:14:13.466540

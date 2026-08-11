@@ -1,0 +1,562 @@
+﻿league,season,team,player,nation,pos,age,born,90s,Performance_CrdY,Performance_CrdR,Performance_2CrdY,Performance_Fls,Performance_Fld,Performance_Off,Performance_Crs,Performance_Int,Performance_TklW,Performance_PKwon,Performance_PKcon,Performance_OG,_league_id,_season,_stat_type,_source,_scraped_at
+FRA-Ligue 1,2526,Angers,Abdoulaye Bamba,CIV,DF,35,1990,2.8,1,0,0,3,5,0,1,6,6,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Angers,Amine Sbai,MAR,"MF,FW",24,2000,20.2,3,1,1,15,24,5,59,4,10,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Angers,Bane Diatta,FRA,MF,17,2008,0.1,0,0,0,0,0,0,0,0,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Angers,Branco van den Boomen,NED,MF,30,1995,13.8,3,0,0,19,9,0,69,7,15,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Angers,Carlens Arcus,HAI,DF,29,1996,22.7,7,0,0,33,16,0,38,29,29,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Angers,Dan Sinaté,FRA,DF,19,2006,0.4,0,0,0,0,0,0,1,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Angers,Emmanuel Biumla,FRA,DF,20,2005,4.3,0,0,0,8,6,0,1,2,5,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Angers,Esteban Lepaul,FRA,FW,25,2000,1.9,0,0,0,2,1,1,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Angers,Florent Hanin,ALG,"DF,MF",35,1990,9.6,0,0,0,8,8,0,26,13,8,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Angers,Goduine Koyalipou,CTA,FW,25,2000,7.4,0,0,0,4,5,5,3,1,2,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Angers,Haris Belkebla,ALG,MF,31,1994,31.9,7,0,0,24,54,0,5,30,44,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Angers,Harouna Djibrin,CMR,MF,18,2006,3.7,2,0,0,9,8,0,8,5,4,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Angers,Hervé Koffi,BFA,GK,28,1996,29.5,1,0,0,1,11,0,0,0,2,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Angers,Himad Abdelli,ALG,MF,25,1999,10.5,1,0,0,16,12,1,9,13,17,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Angers,Jacques Ekomie,GAB,"DF,MF",21,2003,24.9,3,0,0,30,31,6,65,31,32,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Angers,Jim Allevinah,GAB,MF,30,1995,1.5,0,0,0,0,4,1,1,0,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Angers,Jordan Lefort,MTN,DF,31,1993,34.0,2,0,0,22,19,2,23,47,33,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Angers,Justin-Noël Kalumba,FRA,"FW,MF",20,2004,2.5,0,0,0,3,3,0,15,1,3,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Angers,Lanroy Machine,FRA,FW,19,2005,5.8,1,0,0,9,5,4,5,0,4,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Angers,Lilian Raolisoa,FRA,"MF,DF",25,2000,21.8,3,0,0,27,17,1,99,14,31,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Angers,Louis Mouton,FRA,MF,23,2002,21.0,2,1,0,20,16,4,31,12,26,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Angers,Marius Courcoul,FRA,MF,18,2007,4.2,0,0,0,6,3,0,0,3,9,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Angers,Marius Louer,FRA,DF,18,2007,6.0,1,0,0,7,3,0,9,2,16,,,1,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Angers,Melvin Zinga,FRA,GK,23,2002,2.5,0,0,0,0,0,0,0,0,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Angers,Oumar Pona,FRA,GK,19,2006,2.0,1,0,0,0,2,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Angers,Ousmane Camara,MLI,DF,22,2003,30.2,4,0,0,22,7,1,3,34,29,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Angers,Pierrick Capelle,FRA,MF,38,1987,7.2,2,0,0,15,11,0,12,7,13,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Angers,Prosper Peter,NGA,FW,17,2007,14.1,0,0,0,30,30,15,0,4,3,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Angers,Sidiki Cherif,FRA,"FW,MF",18,2006,12.9,3,0,0,15,16,11,6,6,3,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Angers,Yassin Belkhdim,FRA,MF,23,2002,23.7,5,0,0,29,29,2,42,32,43,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Auxerre,Assane Dioussé,SEN,MF,27,1997,2.4,3,0,0,7,3,0,6,6,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Auxerre,Bryan Okoh,SUI,DF,22,2003,11.2,2,0,0,13,8,0,0,26,9,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Auxerre,Clément Akpa,CIV,DF,23,2001,21.6,4,1,1,12,30,1,30,23,19,,,2,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Auxerre,Danny Loader,CMR,"MF,FW",24,2000,28.0,9,0,0,64,47,4,32,9,25,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Auxerre,Donovan Léon,GUF,GK,32,1992,27.3,1,2,0,3,7,0,0,0,2,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Auxerre,Elisha Owusu,GHA,MF,27,1997,26.0,7,0,0,48,22,0,1,21,51,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Auxerre,Francisco Sierralta,CHI,DF,28,1997,9.6,2,0,0,8,5,0,0,9,6,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Auxerre,Fredrik Oppegard,NOR,"MF,DF",22,2002,13.8,1,1,0,8,8,2,48,14,20,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Auxerre,Gabriel Osho,NGA,DF,26,1998,1.5,0,0,0,2,1,0,2,0,3,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Auxerre,Gideon Mensah,GHA,DF,27,1998,25.9,8,0,0,37,34,1,64,23,37,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Auxerre,Ibrahim Osman,GHA,"MF,FW",20,2004,6.9,0,0,0,7,14,3,10,6,7,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Auxerre,Josué Casimir,HAI,"MF,FW",23,2001,16.9,6,1,1,34,32,3,54,11,17,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Auxerre,Kévin Danois,FRA,MF,21,2004,31.4,3,0,0,33,26,3,130,38,48,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Auxerre,Lamine Sy,MTN,DF,22,2002,17.1,1,0,0,24,14,3,47,26,29,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Auxerre,Lassine Sinayoko,MLI,"FW,MF",25,1999,30.8,8,0,0,30,53,13,32,26,26,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Auxerre,Lasso Coulibaly,CIV,MF,22,2002,3.6,1,0,0,10,11,2,18,6,5,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Auxerre,Mamoudou Cissokho,FRA,FW,17,2007,0.0,0,0,0,0,1,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Auxerre,Marvin Senaya,GHA,"DF,MF",24,2001,19.8,5,0,0,26,32,1,42,34,31,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Auxerre,Naouirou Ahamada,FRA,MF,23,2002,7.6,0,0,0,5,9,1,6,5,10,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Auxerre,Oussama El Azzouzi,MAR,"MF,DF",24,2001,9.0,1,1,0,18,8,0,0,16,15,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Auxerre,Romain Faivre,FRA,"MF,FW",27,1998,6.5,0,0,0,5,10,2,14,6,4,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Auxerre,Rudy Matondo,FRA,MF,17,2008,6.8,3,0,0,12,9,1,5,7,7,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Auxerre,Ryan Rodin,FRA,MF,19,2006,0.3,0,0,0,0,0,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Auxerre,Sekou Mara,FRA,FW,23,2002,13.6,0,0,0,27,27,2,0,3,7,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Auxerre,Sinaly Diomande,CIV,DF,24,2001,23.7,4,1,1,31,26,2,0,33,17,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Auxerre,Telli Siwe,FRA,DF,20,2004,3.5,0,0,0,3,0,0,0,5,4,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Auxerre,Theo Bair,CAN,FW,25,1999,0.1,0,0,0,0,0,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Auxerre,Théo De Percin,MTQ,GK,24,2001,6.6,0,0,0,0,1,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Auxerre,Tidiane Devernois,FRA,MF,17,2007,0.1,0,0,0,0,0,0,3,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Auxerre,Yvan Zaddy,CIV,MF,19,2006,0.0,0,0,0,0,0,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Brest,Axel Camblan,FRA,FW,21,2003,0.1,0,0,0,0,0,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Brest,Bradley Locko,FRA,DF,23,2002,14.3,0,0,0,12,18,2,34,10,28,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Brest,Brendan Chardonnet,FRA,DF,30,1994,28.3,6,0,0,28,20,0,7,34,18,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Brest,Daouda Guindo,MLI,DF,22,2002,18.7,4,1,0,26,15,4,38,30,30,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Brest,Grégoire Coudert,FRA,GK,26,1999,24.4,2,0,0,1,8,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Brest,Hamidou Makalou,MLI,MF,19,2006,3.8,0,0,0,1,4,0,14,5,5,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Brest,Hugo Magnetti,FRA,MF,27,1998,29.9,4,1,0,31,33,0,26,44,45,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Brest,Ibrahim Kanté,FRA,MF,18,2007,0.1,0,0,0,0,0,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Brest,Joris Chotard,FRA,MF,23,2001,30.8,2,0,0,28,12,0,51,48,34,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Brest,Julien Le Cardinal,FRA,DF,27,1997,3.6,1,0,0,2,4,0,0,3,5,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Brest,Junior Diaz,CIV,DF,22,2003,17.4,4,0,0,8,11,0,1,25,18,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Brest,Junior Dina Ebimbe,CMR,MF,24,2000,12.9,3,0,0,22,15,3,4,6,16,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Brest,Justin Bourgault,FRA,FW,19,2005,0.2,0,0,0,0,0,0,0,1,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Brest,Kamory Doumbia,MLI,MF,22,2003,19.4,6,0,0,29,21,2,20,20,30,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Brest,Kenny Lala,MAD,DF,33,1991,31.0,4,0,0,17,23,0,106,26,26,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Brest,Lucas Tousart,FRA,"MF,DF",28,1997,9.3,0,0,0,21,5,0,3,9,12,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Brest,Luck Zogbé,CIV,DF,20,2005,3.2,0,0,0,7,5,0,11,3,5,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Brest,Ludovic Ajorque,FRA,FW,31,1994,31.3,9,1,0,65,55,14,9,11,20,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Brest,Mama Samba Baldé,GNB,"FW,MF",29,1995,8.0,0,0,0,12,11,0,3,5,7,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Brest,Pathé Mboup,SEN,MF,21,2003,11.7,6,0,0,34,19,5,11,12,18,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Brest,Pierre Lees-Melou,FRA,MF,32,1993,2.0,0,0,0,2,5,0,5,0,4,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Brest,Radosław Majecki,POL,GK,25,1999,9.6,0,1,0,1,1,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Brest,Raphael Le Guen,FRA,DF,18,2006,4.2,0,0,0,4,0,0,0,11,3,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Brest,Romain Del Castillo,FRA,"MF,FW",29,1996,29.2,2,1,0,28,43,5,198,28,36,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Brest,Rémy Labeau Lascary,GLP,"MF,FW",22,2003,13.3,2,0,0,29,18,9,12,4,11,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Brest,Soumaïla Coulibaly,FRA,DF,21,2003,14.9,3,0,0,26,20,1,1,13,12,,,1,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Brest,Sérigné Diop,SEN,FW,20,2005,0.1,0,0,0,0,0,0,1,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Le Havre,Abdoulaye Touré,GUI,MF,31,1994,8.2,2,0,0,13,17,0,13,10,6,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Le Havre,Arouna Sangante,SEN,DF,23,2002,25.8,4,2,0,42,41,0,8,36,25,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Le Havre,Ayumu Seko,JPN,"MF,DF",25,2000,29.2,6,0,0,28,20,1,5,35,24,,,1,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Le Havre,Damián Pizarro,CHI,FW,20,2005,0.3,0,0,0,1,1,1,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Le Havre,Daren Mosengo,FRA,MF,18,2006,1.2,0,0,0,1,2,0,0,1,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Le Havre,Enzo Koffi Vinette,FRA,DF,19,2006,4.3,2,0,0,12,10,1,24,10,10,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Le Havre,Etienne Youte Kinkoue,FRA,"DF,MF",23,2002,4.7,2,0,0,3,1,0,0,1,3,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Le Havre,Felix Mambimbi,SUI,"FW,MF",24,2001,5.9,1,0,0,16,4,5,5,4,10,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Le Havre,Fodé Doucouré,MLI,"MF,FW",24,2001,13.8,2,0,0,14,4,2,78,9,26,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Le Havre,Gautier Lloris,FRA,DF,30,1995,26.6,2,1,0,27,17,2,2,43,24,,,1,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Le Havre,Georges Gomis,SEN,DF,17,2008,0.0,0,0,0,0,0,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Le Havre,Godson Kyeremeh,FRA,FW,25,2000,4.2,0,0,0,9,19,5,15,0,6,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Le Havre,Issa Soumaré,SEN,"FW,MF",24,2000,32.8,3,0,0,56,74,14,61,12,20,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Le Havre,Kenny Quetant,FRA,FW,19,2006,4.1,1,0,0,6,3,4,1,1,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Le Havre,Lionel Mpasi,COD,GK,30,1994,3.5,1,0,0,0,1,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Le Havre,Loïc Nego,HUN,"DF,MF",34,1991,26.0,3,0,0,18,18,4,78,32,36,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Le Havre,Lucas Gourna-Douath,FRA,MF,21,2003,14.1,5,0,0,24,35,2,5,15,12,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Le Havre,Mbwana Samatta,TAN,FW,32,1992,17.1,4,0,0,35,20,10,7,4,6,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Le Havre,Mory Diaw,SEN,GK,32,1993,29.5,1,0,0,0,6,0,0,2,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Le Havre,Noam Obougou Jacquet,FRA,FW,19,2006,1.2,0,0,0,5,3,0,2,1,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Le Havre,Paul Argney,FRA,GK,19,2006,1.0,0,0,0,0,0,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Le Havre,Rassoul Ndiaye,SEN,MF,23,2001,28.5,2,0,0,22,37,5,92,17,32,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Le Havre,Reda Khadra,GER,FW,24,2001,2.5,0,0,0,4,1,0,20,0,4,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Le Havre,Simon Ebonog,CMR,MF,20,2004,19.5,8,0,0,29,34,0,16,24,21,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Le Havre,Sofiane Boufal,MAR,"MF,FW",31,1993,11.3,2,0,0,24,32,6,59,3,17,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Le Havre,Stephan Zagadou,FRA,DF,16,2008,5.5,0,1,0,7,1,0,0,1,5,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Le Havre,Thomas Delaine,FRA,"MF,DF",33,1992,2.2,1,0,0,2,1,0,18,3,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Le Havre,Timothee Pembele,FRA,"MF,DF",22,2002,4.2,1,0,0,3,5,1,6,3,5,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Le Havre,Yanis Zouaoui,ALG,"DF,MF",27,1998,26.0,7,0,0,22,26,1,182,27,30,,,1,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Le Havre,Yassine Kechta,MAR,MF,23,2002,14.8,3,0,0,35,16,3,26,18,18,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Le Havre,Younes Namli,DEN,"FW,MF",31,1994,3.6,2,0,0,8,4,2,21,5,5,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lens,Abdallah Sima,SEN,"MF,FW",24,2001,8.0,3,0,0,14,14,3,14,1,5,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lens,Adrien Thomasson,FRA,MF,31,1993,29.8,11,0,0,54,43,4,121,20,56,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lens,Allan Saint-Maximin,FRA,MF,28,1997,4.6,0,0,0,3,7,1,24,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lens,Amadou Haidara,MLI,MF,27,1998,2.9,0,0,0,4,2,0,0,2,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lens,Andrija Bulatović,MNE,MF,18,2006,8.5,2,0,0,19,20,0,56,8,21,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lens,Andy Diouf,FRA,MF,22,2003,1.0,0,0,0,0,1,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lens,Anthony Bermont,FRA,FW,20,2005,1.2,0,0,0,2,0,0,11,3,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lens,Arthur Masuaku,COD,"DF,MF",31,1993,2.5,1,0,0,2,1,0,7,1,3,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lens,Deiver Machado,COL,MF,31,1993,3.0,1,0,0,4,8,0,4,3,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lens,Erawan Garnier,THA,DF,19,2006,0.1,0,0,0,0,0,0,2,0,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lens,Florian Sotoca,FRA,"MF,FW",34,1990,5.6,1,0,0,9,12,2,11,7,4,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lens,Florian Thauvin,FRA,MF,32,1993,27.1,6,0,0,19,34,8,202,11,17,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lens,Fodé Sylla,FRA,MF,19,2006,1.1,0,0,0,3,0,0,0,3,6,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lens,Ismaëlo Ganiou,FRA,DF,20,2005,22.4,4,1,1,25,22,0,17,29,27,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lens,Jonathan Gradit,FRA,DF,32,1992,9.0,2,1,0,15,9,0,3,16,12,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lens,Kyllian Antonio,FRA,DF,17,2008,2.1,1,0,0,1,4,0,2,5,4,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lens,Malang Sarr,FRA,DF,26,1999,32.5,4,0,0,21,24,0,10,76,44,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lens,Mamadou Sangare,MLI,MF,23,2002,25.8,5,0,0,34,43,3,7,40,54,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lens,Mathieu Gorgelin,FRA,GK,34,1990,1.0,0,0,0,0,0,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lens,Matthieu Udol,FRA,"MF,DF",29,1996,33.4,2,0,0,30,27,2,115,51,21,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lens,Mezian Soares,POR,MF,15,2009,0.1,0,0,0,0,0,1,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lens,Morgan Guilavogui,GUI,MF,27,1998,5.5,3,1,0,15,12,4,4,3,10,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lens,Nidal Čelik,BIH,DF,19,2006,6.8,2,0,0,13,1,0,1,9,10,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lens,Odsonne Édouard,FRA,FW,27,1998,20.0,2,0,0,21,17,12,1,4,4,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lens,Rayan Fofana,FRA,"FW,MF",19,2006,8.9,0,0,0,15,34,7,6,1,4,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lens,Robin Risser,FRA,GK,20,2004,33.0,2,0,0,0,5,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lens,Ruben Aguilar,FRA,MF,32,1993,19.1,6,1,1,26,12,5,86,24,24,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lens,Samson Baidoo,AUT,DF,21,2004,20.3,2,0,0,20,5,1,0,25,23,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lens,Saud Abdulhamid,KSA,MF,26,1999,15.0,4,1,0,26,14,1,47,9,22,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lens,Wesley Saïd,FRA,MF,30,1995,22.1,2,0,0,37,13,13,22,9,15,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lille,Alexsandro Ribeiro,BRA,DF,25,1999,5.7,0,1,0,10,8,0,1,11,9,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lille,André Gomes,POR,MF,32,1993,0.1,0,0,0,2,0,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lille,Arnaud Bodart,BEL,GK,27,1998,2.5,0,0,0,1,0,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lille,Ayyoub Bouaddi,MAR,MF,17,2007,25.8,7,1,0,37,24,0,20,27,40,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lille,Aïssa Mandi,ALG,DF,33,1991,26.9,8,0,0,17,17,1,10,44,21,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lille,Benjamin André,FRA,MF,34,1990,25.9,9,0,0,35,44,3,22,31,40,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lille,Berke Özer,TUR,GK,25,2000,31.5,5,0,0,0,13,0,0,0,2,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lille,Calvin Verdonk,IDN,DF,28,1997,8.8,3,1,0,14,3,0,30,15,10,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lille,Chancel Mbemba,COD,DF,30,1994,10.6,3,0,0,10,6,0,0,13,8,,,1,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lille,Ethan Mbappé,FRA,"MF,FW",18,2006,6.3,1,0,0,7,9,1,34,2,7,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lille,Félix Correia,POR,MF,24,2001,22.8,2,0,0,14,28,3,84,21,13,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lille,Gaëtan Perrin,FRA,"MF,FW",29,1996,3.8,2,0,0,8,1,0,35,2,8,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lille,Hamza Igamane,MAR,FW,22,2002,4.8,2,0,0,6,3,5,5,2,4,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lille,Hákon Haraldsson,ISL,MF,22,2003,27.3,6,0,0,28,43,0,75,12,15,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lille,Marius Broholm,NOR,MF,20,2004,3.1,0,0,0,4,8,0,14,2,6,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lille,Matias Fernandez-Pardo,BEL,"FW,MF",20,2005,26.3,5,0,0,15,40,16,57,8,14,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lille,Maxima Goffi,FRA,DF,17,2008,0.4,0,0,0,1,0,0,1,0,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lille,Nabil Bentaleb,ALG,MF,30,1994,14.3,3,0,0,14,18,0,24,15,12,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lille,Nathan Ngoy,BEL,DF,22,2003,26.7,10,1,0,20,11,0,6,38,21,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lille,Ngal'Ayel Mukau,COD,MF,20,2004,17.0,3,0,0,27,23,4,5,14,18,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lille,Noah Edjouma,FRA,MF,19,2005,1.0,0,0,0,1,2,1,6,0,4,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lille,Olivier Giroud,FRA,FW,38,1986,17.9,2,0,0,27,31,8,2,4,8,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lille,Osame Sahraoui,MAR,MF,24,2001,5.6,0,0,0,4,25,1,3,4,3,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lille,Ousmane Toure,FRA,DF,20,2005,0.6,0,0,0,0,0,0,0,2,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lille,Romain Perraud,FRA,DF,27,1997,24.9,4,1,0,21,44,2,127,23,31,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lille,Soriba Diaoune,FRA,MF,17,2007,2.1,0,0,0,5,3,0,5,1,2,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lille,Thomas Meunier,BEL,DF,33,1991,21.2,3,0,0,29,3,2,51,17,18,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lille,Tiago Santos,POR,DF,23,2002,7.9,0,0,0,13,21,0,32,5,8,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lille,Ugo Raghouber,FRA,MF,22,2003,0.0,0,0,0,0,0,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lille,Vincent Burlet,BEL,DF,19,2005,0.2,0,0,0,0,0,0,1,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lorient,Abdoulaye Faye,SEN,DF,20,2004,16.0,8,0,0,25,15,0,4,28,24,,,1,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lorient,Arsène Kouassi,BFA,MF,20,2004,28.9,4,0,0,15,53,10,119,24,18,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lorient,Arthur Avom,CMR,MF,20,2004,23.5,3,0,0,23,38,0,45,28,31,,,1,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lorient,Bamba Dieng,SEN,FW,25,2000,13.5,2,0,0,15,13,9,2,2,2,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lorient,Bamo Meïté,CIV,DF,23,2001,22.0,5,0,0,30,25,2,12,13,15,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lorient,Bingourou Kamara,SEN,GK,28,1996,3.0,0,0,0,0,1,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lorient,Daniel Xavier Semedo,FRA,MF,21,2003,0.1,0,0,0,2,0,0,0,1,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lorient,Darlin Yongwa,CMR,"DF,MF",24,2000,14.6,4,1,0,14,22,1,38,11,24,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lorient,Dermane Karim,TOG,MF,21,2003,15.2,3,0,0,21,39,0,17,10,17,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lorient,Formose Mendy,SEN,DF,24,2001,1.5,1,0,0,2,3,0,1,3,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lorient,Igor Carioca,BRA,DF,28,1996,13.5,1,0,0,9,18,1,21,13,19,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lorient,Jean-Victor Makengo,FRA,MF,27,1998,20.0,2,0,0,12,35,0,18,14,16,,,1,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lorient,Joel Mvuka,NOR,"MF,DF",22,2002,6.2,0,0,0,4,11,1,12,6,13,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lorient,Laurent Abergel,FRA,MF,32,1993,25.8,7,0,0,24,27,1,9,28,23,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lorient,Martin Nogoto Bley,BFA,MF,19,2006,0.0,0,0,0,0,0,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lorient,Mohamed Bamba,CIV,FW,23,2001,7.6,3,0,0,17,8,12,3,2,2,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lorient,Montassar Talbi,TUN,DF,27,1998,29.0,3,0,0,7,13,0,5,27,19,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lorient,Nathaniel Adjei,GHA,DF,22,2002,9.3,0,0,0,8,6,1,1,9,7,,,1,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lorient,Noah Cadiou,GLP,MF,26,1998,20.9,2,0,0,27,13,0,3,24,16,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lorient,Pablo Pagis,FRA,"MF,FW",22,2002,19.5,1,0,0,23,29,2,99,18,17,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lorient,Panos Katseris,GRE,"MF,DF",24,2001,8.3,3,0,0,13,14,2,43,11,9,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lorient,Sambou Soumano,SEN,FW,24,2001,10.5,2,0,0,16,18,10,0,4,4,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lorient,Souleymane Touré,FRA,DF,22,2003,0.3,0,0,0,0,0,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lorient,Théo Le Bris,FRA,MF,22,2002,21.0,0,0,0,8,7,0,81,17,28,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lorient,Tosin Aiyegun,BEN,"FW,MF",27,1998,11.9,1,0,0,11,13,3,6,1,5,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lorient,Yvon Mvogo,SUI,GK,31,1994,31.0,0,0,0,0,4,0,0,1,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lyon,Abner,BRA,"DF,MF",25,2000,23.9,4,1,0,23,6,1,61,8,24,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lyon,Adam Karabec,CZE,"MF,FW",22,2003,10.2,3,0,0,14,20,3,80,1,3,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lyon,Adil Hamdani,FRA,MF,16,2009,0.3,0,0,0,1,0,0,4,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lyon,Afonso Moreira,POR,"MF,FW",20,2005,19.1,3,0,0,27,57,4,119,12,22,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lyon,Ainsley Maitland-Niles,ENG,"DF,MF",27,1997,27.6,7,1,1,37,12,1,44,33,36,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lyon,Clinton Mata,ANG,DF,32,1992,31.5,5,0,0,35,35,0,20,26,21,,,1,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lyon,Corentin Tolisso,FRA,MF,30,1994,25.6,4,0,0,42,55,3,49,17,18,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lyon,Dominik Greif,SVK,GK,28,1997,29.0,1,0,0,0,6,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lyon,Endrick,BRA,"FW,MF",19,2006,13.5,4,1,0,21,21,4,52,2,9,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lyon,Enzo Molebe,FRA,FW,17,2007,0.1,0,0,0,0,0,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lyon,Ernest Nuamah,GHA,"FW,MF",21,2003,0.4,0,0,0,0,0,0,2,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lyon,Georges Mikautadze,GEO,FW,24,2000,2.0,0,0,0,0,1,1,0,1,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lyon,Hans Hateboer,NED,"DF,MF",31,1994,8.2,0,1,0,8,3,1,22,10,10,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lyon,Khalis Merah,FRA,"MF,FW",18,2007,12.6,2,0,0,11,20,0,13,6,19,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lyon,Malick Fofana,BEL,"MF,FW",20,2005,8.3,1,0,0,11,22,3,29,3,5,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lyon,Martin Satriano,URU,FW,24,2001,7.7,1,0,0,11,13,3,5,5,3,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lyon,Mathys De Carvalho,FRA,MF,20,2005,3.3,1,0,0,2,5,0,2,4,6,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lyon,Moussa Niakhaté,SEN,DF,29,1996,30.7,3,0,0,38,32,0,6,32,22,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lyon,Nicolás Tagliafico,ARG,DF,32,1992,14.6,5,2,1,36,33,2,20,17,14,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lyon,Noah Nartey,DEN,"MF,FW",19,2005,6.1,0,0,0,6,7,1,5,2,6,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lyon,Noham Kamara,FRA,DF,18,2007,0.1,0,0,0,0,0,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lyon,Orel Mangala,BEL,MF,27,1998,4.6,0,0,0,8,5,0,3,5,5,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lyon,Pavel Šulc,CZE,"FW,MF",24,2000,17.4,3,0,0,28,15,6,13,6,13,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lyon,Rachid Ghezzal,ALG,"MF,FW",33,1992,2.5,0,0,0,9,2,1,15,1,4,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lyon,Roman Yaremchuk,UKR,FW,29,1995,6.2,1,0,0,7,4,5,1,0,3,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lyon,Ruben Kluivert,NED,DF,24,2001,8.6,4,0,0,10,4,0,1,8,10,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lyon,Rémi Himbert,FRA,FW,17,2008,1.5,0,0,0,2,4,0,2,0,3,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lyon,Rémy Descamps,FRA,GK,29,1996,5.0,0,0,0,0,0,0,0,0,0,,,1,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lyon,Sael Kumbedi,FRA,DF,20,2005,0.7,1,0,0,4,2,0,1,1,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lyon,Steeve Kango,FRA,DF,18,2006,0.9,0,0,0,1,1,0,7,0,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lyon,Tanner Tessmann,USA,MF,23,2001,21.7,2,0,0,21,19,3,17,13,21,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Lyon,Tyler Morton,ENG,MF,22,2002,28.0,6,1,0,29,19,0,83,24,29,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Marseille,Adrien Rabiot,FRA,MF,30,1995,1.0,1,0,0,2,1,0,9,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Marseille,Amine Gouiri,ALG,"FW,MF",25,2000,14.7,1,0,0,17,16,4,37,3,9,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Marseille,Angel Gomes,ENG,MF,24,2000,9.9,4,0,0,19,12,0,7,4,5,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Marseille,Arthur Vermeeren,BEL,MF,20,2005,9.2,1,1,0,15,1,0,3,11,11,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Marseille,Benjamin Pavard,FRA,DF,29,1996,21.4,6,0,0,22,15,4,17,24,12,,,1,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Marseille,Bilal Nadir,MAR,MF,21,2003,6.6,6,1,1,24,4,1,10,6,9,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Marseille,CJ Egan-Riley,ENG,"DF,MF",22,2003,6.9,1,1,0,5,5,0,1,2,7,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Marseille,Darryl Bakola,FRA,MF,17,2007,0.8,0,0,0,4,4,0,1,0,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Marseille,Derek Cornelius,CAN,"DF,FW",27,1997,0.6,0,0,0,0,2,0,0,1,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Marseille,Emerson Palmieri,ITA,"DF,MF",30,1994,23.5,3,0,0,16,17,2,122,33,32,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Marseille,Emmanuel Lago,CIV,FW,20,2004,0.5,1,0,0,2,1,0,1,1,3,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Marseille,Ethan Nwaneri,ENG,MF,18,2007,3.6,1,0,0,4,1,0,9,3,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Marseille,Facundo Medina,ARG,DF,26,1999,15.2,7,0,0,24,9,0,13,24,16,,,1,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Marseille,Geoffrey Kondogbia,CTA,"MF,DF",32,1993,6.5,3,0,0,12,8,0,1,11,9,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Marseille,Gerónimo Rulli,ARG,GK,33,1992,29.0,3,0,0,1,14,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Marseille,Hamed Junior Traorè,CIV,MF,25,2000,6.9,1,0,0,8,11,2,33,5,7,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Marseille,Hilan Hamzaoui,FRA,DF,19,2006,0.0,0,0,0,0,0,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Marseille,Himad Abdelli,ALG,MF,25,1999,1.5,1,0,0,3,0,0,1,2,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Marseille,Igor Paixão,BRA,MF,25,2000,21.9,3,0,0,21,34,9,57,17,12,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Marseille,Jeffrey De Lange,NED,GK,27,1998,5.0,0,0,0,0,0,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Marseille,Jonathan Rowe,ENG,FW,22,2003,0.7,0,0,0,2,2,0,4,1,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Marseille,Leonardo Balerdi,ARG,DF,26,1999,22.2,5,0,0,23,21,0,2,27,28,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Marseille,Mason Greenwood,ENG,MF,23,2001,27.4,4,0,0,22,34,1,112,4,13,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Marseille,Matt O'Riley,DEN,MF,24,2000,8.2,2,0,0,15,1,1,7,6,8,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Marseille,Michael Amir Murillo,PAN,"DF,MF",29,1996,11.0,4,0,0,22,16,2,28,6,13,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Marseille,Nayef Aguerd,MAR,DF,29,1996,15.5,4,0,0,21,6,0,2,21,16,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Marseille,Neal Maupay,FRA,"FW,MF",28,1996,0.0,0,0,0,0,0,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Marseille,Nouhoum Kamissoko,MLI,MF,20,2004,0.3,0,0,0,0,0,0,0,0,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Marseille,Pierre Højbjerg,DEN,MF,29,1995,30.1,4,0,0,38,46,0,10,26,24,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Marseille,Pierre-Emerick Aubameyang,GAB,FW,36,1989,22.7,1,0,0,19,16,9,30,7,6,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Marseille,Pol Lirola,ESP,"DF,MF",27,1997,0.4,0,0,0,1,2,0,2,1,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Marseille,Quinten Timber,NED,MF,24,2001,12.3,4,0,0,13,20,1,7,9,17,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Marseille,Robinio Vaz,FRA,FW,18,2007,4.2,2,0,0,8,9,3,4,3,4,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Marseille,Tadjidine Mmadi,FRA,FW,18,2007,0.5,0,0,0,2,0,0,2,2,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Marseille,Timothy Weah,USA,"MF,DF",25,2000,25.0,5,0,0,32,18,1,62,15,35,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Marseille,Tochukwu Nnadi,NGA,"MF,DF",22,2003,3.9,1,0,0,10,4,1,6,3,3,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Marseille,Ugo Lamare,FRA,FW,18,2007,0.2,0,0,0,1,0,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Marseille,Ulisses Garcia,SUI,"MF,DF",29,1996,2.3,1,1,0,4,2,0,1,0,2,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Metz,Alpha Touré,SEN,MF,19,2006,17.8,5,0,0,27,27,1,13,10,23,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Metz,Believe Munongo,FRA,MF,15,2009,4.8,1,0,0,17,2,0,2,6,7,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Metz,Benjamin Stambouli,FRA,MF,34,1990,10.7,0,0,0,14,9,0,8,9,16,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Metz,Boubacar Traoré,MLI,MF,23,2001,15.4,4,0,0,32,5,0,2,15,26,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Metz,Bouna Sarr,SEN,"MF,DF",33,1992,9.9,1,0,0,11,20,2,31,11,13,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Metz,Brian Madjo,LUX,FW,16,2009,1.7,0,0,0,3,3,3,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Metz,Cheikh Tidiane Sabaly,SEN,"MF,FW",26,1999,10.7,2,0,0,14,16,5,14,3,13,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Metz,Cléo Melieres,FRA,FW,20,2005,0.3,1,0,0,1,0,0,3,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Metz,Fodé Ballo-Touré,SEN,"DF,MF",28,1997,9.3,2,0,0,13,18,1,16,5,16,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Metz,Gauthier Hein,FRA,"MF,FW",28,1996,26.1,3,1,1,15,17,4,147,9,10,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Metz,Giorgi Abuashvili,GEO,"MF,FW",22,2003,7.8,1,0,0,8,11,1,38,5,8,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Metz,Giorgi Kvilitaia,GEO,FW,31,1993,5.5,1,0,0,11,6,2,0,0,6,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Metz,Habib Diallo,SEN,FW,30,1995,21.2,0,0,0,27,29,11,4,2,5,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Metz,Heorhii Tsitaishvili,GEO,"MF,DF",24,2000,27.2,3,0,0,23,36,6,160,14,12,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Metz,Ibou Sané,SEN,"FW,MF",20,2005,6.0,2,0,0,9,15,3,14,1,3,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Metz,Idrissa Guèye,SEN,FW,18,2006,1.5,0,0,0,3,2,0,0,0,2,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Metz,Ismaël Guerti,FRA,FW,21,2004,0.3,0,0,0,0,0,0,1,1,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Metz,Jahyann Pandore,FRA,MF,17,2007,1.0,0,0,0,2,1,0,3,0,4,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Metz,Jean-Philippe Gbamin,CIV,"DF,MF",29,1995,27.6,2,1,0,25,8,0,5,27,27,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Metz,Jessy Deminguet,FRA,MF,27,1998,22.2,4,0,0,28,32,0,19,22,21,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Metz,Joel Asoro,SWE,FW,26,1999,2.5,0,0,0,2,1,2,1,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Metz,Jonathan Fischer,DEN,GK,23,2001,26.2,0,0,0,0,4,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Metz,Joseph Nduquidi,FRA,MF,20,2004,0.1,0,0,0,0,0,0,1,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Metz,Koffi Kouao,CIV,"DF,MF",27,1998,25.2,10,0,0,32,33,3,59,28,46,,,1,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Metz,Lucas Michal,FRA,MF,20,2005,2.4,1,0,0,3,2,1,1,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Metz,Malick Mbaye,SEN,MF,21,2004,3.3,1,0,0,2,3,0,8,3,8,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Metz,Maxime Colin,FRA,DF,33,1991,18.8,1,0,0,10,7,0,12,24,30,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Metz,Michel Mboula,GAB,"DF,MF",22,2003,8.3,2,0,0,9,11,0,8,15,10,,,1,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Metz,Morgan Bokelé Mputu,CMR,MF,21,2004,2.5,0,0,0,2,8,0,5,1,4,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Metz,Nathan Mbala,,"MF,FW",17,2008,4.9,0,0,0,3,6,0,36,1,6,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Metz,Pape Mamadou Sy,SEN,GK,28,1997,7.8,0,0,0,0,4,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Metz,Sadibou Sané,SEN,DF,21,2004,21.6,5,2,0,22,15,0,4,39,34,,,1,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Metz,Terry Yegbe,GHA,DF,24,2001,21.8,3,0,0,19,8,0,5,22,7,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Monaco,Aladji Bamba,FRA,MF,19,2006,9.1,2,0,0,23,18,0,4,8,20,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Monaco,Aleksandr Golovin,RUS,MF,29,1996,18.3,4,1,1,29,18,2,37,21,18,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Monaco,Ansu Fati,ESP,"MF,FW",22,2002,12.1,1,0,0,9,6,3,8,2,9,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Monaco,Caio Henrique,BRA,"DF,MF",28,1997,17.1,2,0,0,13,17,1,90,12,11,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Monaco,Christian Mawissa,FRA,"DF,MF",20,2005,13.2,4,0,0,12,12,0,5,15,25,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Monaco,Denis Zakaria,SUI,"DF,MF",28,1996,22.6,4,1,0,26,7,0,11,45,25,,,1,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Monaco,Eliesse Ben Seghir,MAR,MF,20,2005,0.5,0,0,0,1,1,0,1,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Monaco,Eric Dier,ENG,DF,31,1994,7.6,0,0,0,9,4,0,2,10,2,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Monaco,Folarin Balogun,USA,FW,24,2001,24.8,4,1,0,44,37,17,14,4,6,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Monaco,George Ilenikhena,NGA,FW,18,2006,4.3,0,0,0,2,6,8,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Monaco,Ilane Touré,FRA,MF,18,2006,0.4,0,0,0,1,0,0,4,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Monaco,Jordan Teze,NED,"MF,DF",25,1999,27.7,8,0,0,32,25,3,64,30,45,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Monaco,Kassoum Ouattara,FRA,"MF,DF",20,2004,10.7,3,0,0,22,10,1,50,19,19,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Monaco,Krépin Diatta,SEN,"MF,DF",26,1999,11.3,2,0,0,8,10,4,39,15,16,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Monaco,Lamine Camara,SEN,MF,21,2004,20.5,6,0,0,28,48,0,101,38,33,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Monaco,Lucas Michal,FRA,FW,20,2005,0.7,0,0,0,2,1,0,3,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Monaco,Lukáš Hrádecký,FIN,GK,35,1989,16.0,1,0,0,0,0,0,0,0,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Monaco,Maghnes Akliouche,FRA,"MF,FW",23,2002,26.7,3,0,0,29,36,9,53,18,26,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Monaco,Mamadou Coulibaly,FRA,MF,21,2004,15.3,7,1,0,31,16,3,15,21,21,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Monaco,Mika Biereth,DEN,FW,22,2003,11.9,0,0,0,16,14,9,9,0,7,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Monaco,Mohammed Salisu,GHA,DF,26,1999,12.0,3,0,0,17,3,4,0,19,11,,,1,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Monaco,Pape Cabral,FRA,MF,18,2007,0.9,0,0,0,1,1,0,0,1,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Monaco,Paris Brunner,GER,FW,19,2006,1.5,1,0,0,8,1,1,1,1,2,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Monaco,Paul Pogba,FRA,MF,32,1993,1.3,0,0,0,2,1,0,1,1,3,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Monaco,Philipp Köhn,SUI,GK,27,1998,18.0,1,0,0,0,3,0,0,1,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Monaco,Samuel Nibombé,BEL,DF,17,2007,0.0,0,0,0,0,0,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Monaco,Simon Adingra,CIV,"MF,FW",23,2002,9.5,0,0,0,7,8,2,29,6,9,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Monaco,Stanis Idumbo,BEL,MF,20,2005,1.9,0,0,0,3,2,0,1,0,3,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Monaco,Takumi Minamino,JPN,MF,30,1995,10.5,4,0,0,10,8,3,8,3,3,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Monaco,Thilo Kehrer,GER,DF,28,1996,26.1,8,2,1,27,29,2,5,31,39,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Monaco,Vanderson,BRA,"DF,MF",24,2001,6.8,4,0,0,15,2,0,33,19,13,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Monaco,Wout Faes,BEL,DF,27,1998,12.7,3,0,0,14,3,0,1,14,12,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nantes,Abakar Sylla,CIV,DF,22,2002,0.7,0,0,0,2,0,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nantes,Ali Yousuf,LBY,DF,24,2001,10.8,4,0,0,11,11,0,1,18,7,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nantes,Amady Camara,MLI,FW,20,2005,1.9,0,0,0,3,2,0,17,1,3,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nantes,Anthony Lopes,POR,GK,34,1990,31.0,4,0,0,1,14,0,0,1,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nantes,Bahereba Guirassy,FRA,"FW,MF",18,2006,9.1,2,0,0,15,9,3,24,5,13,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nantes,Bahmed Deuff,MTN,MF,19,2006,2.8,1,0,0,6,3,0,1,2,3,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nantes,Chidozie Awaziem,NGA,DF,28,1997,24.8,7,0,0,23,21,1,2,20,20,,,1,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nantes,Dehmaine Assoumani,FRA,MF,20,2005,14.2,5,0,0,23,20,0,88,16,18,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nantes,Deiver Machado,COL,"DF,MF",31,1993,10.1,2,0,0,21,20,4,22,8,16,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nantes,Fabien Centonze,FRA,"MF,DF",29,1996,8.2,4,0,0,13,8,1,30,20,18,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nantes,Francis Coquelin,FRA,MF,34,1991,7.3,2,0,0,15,7,0,1,5,13,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nantes,Frederic Guilbert,FRA,"DF,MF",30,1994,6.7,1,0,0,7,13,0,17,19,12,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nantes,Hong Hyunseok,KOR,MF,26,1999,3.2,0,0,0,0,1,1,14,2,7,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nantes,Ibrahima Sissoko,MLI,"MF,DF",27,1997,8.9,4,0,0,25,8,2,6,16,7,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nantes,Ignatius Ganago,CMR,FW,26,1999,9.3,1,0,0,11,13,3,9,2,3,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nantes,Johann Lepenant,FRA,MF,22,2002,24.1,4,0,0,29,48,0,73,26,47,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nantes,Junior Mwanga,FRA,MF,22,2003,14.0,2,1,0,15,14,0,5,8,14,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nantes,Kelvin Amian,FRA,DF,27,1998,21.8,3,0,0,23,18,2,29,8,18,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nantes,Kwon Hyeokkyu,KOR,MF,24,2001,8.4,2,0,0,11,10,0,1,6,6,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nantes,Louis Leroux,FRA,"MF,DF",19,2006,16.0,2,0,0,12,14,1,30,5,23,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nantes,Mathieu Acapandié,MAD,"DF,MF",20,2004,2.9,0,0,0,3,0,0,11,3,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nantes,Matthis Abline,FRA,"FW,MF",22,2003,27.7,6,0,0,32,42,5,62,9,13,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nantes,Mayckel Lahdo,SWE,"FW,MF",22,2002,4.6,0,0,0,5,6,1,1,0,2,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nantes,Mohamed Kaba,GUI,MF,23,2001,10.2,2,0,0,13,27,0,2,14,15,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nantes,Mostafa Mohamed,EGY,FW,27,1997,12.8,1,0,0,18,27,4,9,7,7,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nantes,Nicolas Cozza,FRA,DF,26,1999,25.6,2,0,0,23,31,0,22,21,27,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nantes,Patrik Carlgren,SWE,GK,33,1992,2.0,0,0,0,0,1,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nantes,Rémy Cabella,FRA,"MF,FW",35,1990,6.4,1,0,0,7,11,2,37,6,7,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nantes,Sékou Doucoure,FRA,DF,20,2005,0.5,0,0,0,1,0,0,0,3,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nantes,Tylel Tati,FRA,DF,17,2008,19.1,5,1,0,25,15,0,1,14,13,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nantes,Uroš Radaković,SRB,DF,31,1994,1.1,0,0,0,2,0,0,0,4,2,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nantes,Yassine Benhattab,FRA,"MF,FW",22,2002,5.3,0,0,0,3,3,1,25,0,6,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nantes,Youssef El-Arabi,MAR,FW,38,1987,10.5,0,0,0,22,23,10,2,4,9,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nice,Abdulai Juma Bah,SLE,DF,19,2006,21.8,7,0,0,27,7,3,0,30,18,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nice,Ali Abdi,TUN,"MF,DF",31,1993,13.2,4,1,1,22,18,1,33,10,11,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nice,Antoine Mendy,SEN,DF,21,2004,23.3,5,0,0,30,22,1,21,19,35,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nice,Badredine Bouanani,ALG,MF,20,2004,1.0,0,0,0,0,2,0,5,1,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nice,Bernard Nguene,CMR,FW,18,2006,1.5,1,0,0,3,2,1,1,3,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nice,Bilal Brahimi,ALG,"FW,MF",25,2000,0.0,0,0,0,0,0,0,2,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nice,Brad Mantsounga,CGO,DF,17,2007,1.0,0,0,0,0,2,0,0,0,3,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nice,Charles Vanhoutte,BEL,MF,26,1998,19.7,7,0,0,35,8,0,13,21,28,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nice,Dante,BRA,DF,41,1983,9.4,1,0,0,9,4,1,0,11,5,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nice,Djibril Coulibaly,FRA,MF,16,2008,0.1,0,0,0,1,0,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nice,Elye Wahi,CIV,FW,22,2003,10.2,5,0,0,21,5,20,9,2,4,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nice,Everton Pereira,FRA,MF,18,2007,1.5,0,0,0,4,0,0,0,3,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nice,Gabin Bernardeau,FRA,MF,19,2006,1.1,0,0,0,1,3,1,5,0,4,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nice,Hamza Koutoune,MAR,DF,18,2006,0.0,0,0,0,0,0,0,1,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nice,Hicham Boudaoui,ALG,MF,25,1999,18.8,5,0,0,19,40,2,19,18,16,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nice,Isak Jansson,SWE,"FW,MF",23,2002,7.2,3,0,0,10,8,0,16,5,8,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nice,Jeremie Boga,CIV,"MF,FW",28,1997,7.2,0,0,0,2,11,0,12,3,5,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nice,Jonathan Clauss,FRA,"MF,DF",32,1992,28.1,0,0,0,22,17,1,223,47,38,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nice,Kaïl Boudache,FRA,"MF,FW",19,2006,5.9,1,0,0,5,4,0,8,6,9,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nice,Kevin Carlos,ESP,FW,24,2001,9.8,3,0,0,29,16,5,3,1,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nice,Kojo Peprah Oppong,GHA,DF,21,2004,26.9,4,0,0,31,30,1,5,30,28,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nice,Maxime Dupé,FRA,GK,32,1993,8.0,0,0,0,0,1,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nice,Melvin Bard,FRA,"DF,MF",24,2000,26.6,4,0,0,26,27,3,77,41,29,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nice,Mohamed Ali Cho,FRA,"FW,MF",21,2004,18.5,1,0,0,14,32,5,39,4,9,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nice,Morgan Sanson,FRA,MF,30,1994,19.7,4,0,0,35,21,2,39,24,25,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nice,Moïse Bombito,CAN,DF,25,2000,1.6,1,0,0,3,1,0,0,2,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nice,Pablo Rosario,DOM,"DF,MF",28,1997,0.3,0,0,0,0,0,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nice,Salis Abdul Samed,GHA,MF,25,2000,10.1,3,0,0,19,10,0,2,11,7,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nice,Sofiane Diop,MAR,"MF,FW",25,2000,23.7,5,0,0,22,46,7,37,18,9,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nice,Tanguy Ndombele,FRA,MF,28,1996,3.1,0,0,0,1,7,0,1,1,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nice,Terem Moffi,NGA,FW,26,1999,5.4,0,0,0,2,2,7,0,0,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nice,Tiago Gouveia,POR,MF,24,2001,5.9,3,0,0,6,9,0,4,9,3,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nice,Tom Louchet,FRA,MF,22,2003,15.2,1,1,0,16,13,0,51,9,17,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nice,Yehvann Diouf,SEN,GK,25,1999,26.0,1,0,0,0,4,0,0,2,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nice,Youssouf Ndayishimiye,BDI,MF,26,1998,0.8,0,1,0,2,0,0,0,2,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Nice,Zoumana Diallo,FRA,FW,20,2005,0.1,0,0,0,2,1,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,PSG,Achraf Hakimi,MAR,DF,26,1998,15.3,3,1,0,9,17,4,43,11,13,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,PSG,Bradley Barcola,FRA,FW,22,2002,19.4,2,0,0,20,10,6,26,12,16,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,PSG,Dimitri Lucea,FRA,DF,18,2007,0.7,0,0,0,1,1,0,0,2,2,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,PSG,Dro Fernández,ESP,MF,17,2008,7.6,0,0,0,8,12,0,4,9,5,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,PSG,Désiré Doué,FRA,"FW,MF",20,2005,15.0,0,0,0,24,28,0,56,12,20,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,PSG,Fabián Ruiz Peña,ESP,MF,29,1996,12.6,2,0,0,2,3,2,21,17,11,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,PSG,Gonçalo Ramos,POR,FW,24,2001,14.6,4,1,1,24,23,6,1,5,14,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,PSG,Ibrahim Mbaye,SEN,"FW,MF",17,2008,11.2,0,0,0,10,13,2,16,4,7,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,PSG,Illia Zabarnyi,UKR,DF,22,2002,26.5,6,0,0,18,8,0,0,20,20,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,PSG,João Neves,POR,MF,20,2004,14.3,0,0,0,13,13,0,4,6,14,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,PSG,Khvicha Kvaratskhelia,GEO,FW,24,2001,16.4,1,0,0,18,26,5,43,10,13,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,PSG,Lee Kang-in,KOR,"MF,FW",24,2001,16.9,3,0,0,18,19,3,113,1,9,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,PSG,Lucas Beraldo,BRA,"DF,MF",21,2003,17.4,2,0,0,15,7,0,2,18,21,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,PSG,Lucas Chevalier,FRA,GK,23,2001,17.0,0,0,0,0,1,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,PSG,Lucas Hernández,FRA,DF,29,1996,19.4,4,0,0,22,19,0,16,21,14,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,PSG,Marquinhos,BRA,DF,31,1994,11.7,0,0,0,8,2,0,3,7,9,,,1,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,PSG,Mathis Jangeal,FRA,FW,17,2008,0.1,0,0,0,1,0,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,PSG,Matvei Safonov,RUS,GK,26,1999,15.0,0,0,0,0,1,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,PSG,Noah Nsoki,FRA,MF,18,2007,0.1,0,0,0,0,0,0,0,0,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,PSG,Nuno Mendes,POR,DF,23,2002,14.0,1,0,0,12,25,3,44,14,20,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,PSG,Ousmane Dembélé,FRA,FW,28,1997,11.8,0,0,0,3,4,8,49,0,3,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,PSG,Pierre Mounguengue,FRA,FW,17,2008,0.2,0,0,0,0,0,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,PSG,Quentin Ndjantou,FRA,MF,18,2007,4.0,1,0,0,7,2,0,4,2,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,PSG,Renato Marin,ITA,GK,19,2006,2.0,0,0,0,0,1,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,PSG,Senny Mayulu,FRA,"MF,FW",19,2006,18.6,3,0,0,24,20,1,27,12,31,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,PSG,Vitinha,POR,MF,25,2000,23.5,2,0,0,14,21,0,21,26,20,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,PSG,Warren Zaïre-Emery,FRA,"DF,MF",19,2006,27.2,3,0,0,35,17,0,15,11,29,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,PSG,Willian Pacho,ECU,DF,23,2001,21.3,0,0,0,6,7,2,0,26,26,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Paris FC,Adama Camara,FRA,"MF,DF",28,1996,24.0,8,0,0,26,18,0,14,38,30,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Paris FC,Alimami Gory,MLI,"MF,DF",28,1996,10.9,3,0,0,12,15,8,10,8,11,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Paris FC,Ciro Immobile,ITA,FW,35,1990,7.8,2,0,0,8,6,8,3,1,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Paris FC,Diego Coppola,ITA,DF,21,2003,13.0,1,0,0,6,3,0,0,7,9,,,1,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Paris FC,Hamari Traoré,MLI,DF,33,1992,12.8,4,0,0,21,6,1,27,18,22,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Paris FC,Ilan Kebbal,ALG,"MF,FW",27,1998,24.7,7,0,0,15,61,3,110,7,15,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Paris FC,Jean-Philippe Krasso,CIV,FW,28,1997,12.1,0,0,0,20,19,10,4,1,8,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Paris FC,Jonathan Ikone,FRA,"MF,FW",27,1998,12.2,2,0,0,13,18,3,7,5,15,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Paris FC,Julien López,ALG,"FW,MF",33,1992,0.5,0,0,0,0,0,0,1,1,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Paris FC,Kevin Trapp,GER,GK,35,1990,22.0,2,0,0,0,6,0,0,1,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Paris FC,Lohann Doucet,BFA,MF,22,2002,1.3,2,0,0,4,1,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Paris FC,Luca Koleosho,ITA,MF,20,2004,6.2,0,0,0,10,4,1,15,3,15,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Paris FC,Marshall Munetsi,ZIM,MF,29,1996,10.8,0,0,0,12,9,1,0,3,8,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Paris FC,Mathieu Cafaro,FRA,FW,28,1997,1.7,0,0,0,2,4,2,7,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Paris FC,Maxime Lopez,FRA,MF,27,1997,21.8,11,0,0,27,8,5,83,11,17,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Paris FC,Mohamed Benoit Dao,FRA,FW,18,2007,0.0,0,0,0,0,0,0,1,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Paris FC,Moses Simon,NGA,"MF,FW",30,1995,22.2,1,0,0,15,19,11,143,8,11,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Paris FC,Moustapha Mbow,SEN,DF,25,2000,30.2,5,0,0,27,16,1,2,38,33,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Paris FC,Nhoa Sangui,FRA,DF,19,2006,19.3,0,0,0,5,17,2,37,21,14,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Paris FC,Nouha Dicko,MLI,"FW,MF",33,1992,0.8,0,0,0,4,4,2,2,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Paris FC,Obed Nkambadio,FRA,GK,22,2003,12.0,0,0,0,0,0,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Paris FC,Otavio Ataide,BRA,DF,23,2002,21.1,6,1,0,24,33,1,6,27,29,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Paris FC,Pierre Lees-Melou,FRA,MF,32,1993,19.8,7,1,1,28,24,0,13,20,35,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Paris FC,Pierre-Yves Hamel,FRA,FW,31,1994,0.9,0,0,0,2,0,0,0,1,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Paris FC,Rudy Matondo,FRA,MF,17,2008,8.3,1,1,0,15,14,0,8,5,14,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Paris FC,Samir Chergui,ALG,DF,26,1999,12.8,1,0,0,14,4,1,6,13,12,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Paris FC,Thibault De Smet,BEL,DF,27,1998,12.7,6,2,2,11,13,1,26,10,11,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Paris FC,Timothée Kolodziejczak,FRA,DF,33,1991,7.4,2,0,0,8,1,0,0,7,6,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Paris FC,Tuomas Ollila,FIN,DF,25,2000,3.4,0,0,0,3,6,1,9,4,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Paris FC,Vincent Marchetti,FRA,MF,28,1997,9.2,1,0,0,12,4,1,1,5,13,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Paris FC,Willem Geubbels,FRA,FW,23,2001,11.3,0,0,0,19,3,10,9,6,2,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Rennes,Abdelhamid Ait Boudlal,MAR,DF,19,2006,15.6,3,1,0,14,10,1,2,18,11,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Rennes,Alexander Legendre,ECU,MF,17,2008,0.5,0,0,0,1,1,0,3,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Rennes,Alidu Seidu,GHA,DF,25,2000,13.2,1,0,0,16,31,3,11,17,22,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Rennes,Anthony Rouault,FRA,DF,24,2001,19.2,4,0,0,26,8,0,0,18,13,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Rennes,Arnaud Nordin,FRA,"FW,MF",27,1998,6.3,1,0,0,8,17,1,18,0,6,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Rennes,Bertuğ Yıldırım,TUR,FW,23,2002,0.0,0,0,0,0,0,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Rennes,Breel Embolo,SUI,FW,28,1997,20.8,3,0,0,48,58,14,7,4,14,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Rennes,Brice Samba,FRA,GK,31,1994,32.0,5,0,0,1,7,0,0,0,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Rennes,Christopher Wooh,CMR,DF,23,2001,0.7,0,1,0,1,0,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Rennes,Djaoui Cissé,FRA,MF,21,2004,10.9,3,0,0,18,10,0,27,5,22,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Rennes,Esteban Lepaul,FRA,FW,25,2000,27.9,3,0,0,23,15,8,17,3,5,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Rennes,Fabian Rieder,SUI,MF,23,2002,1.5,0,0,0,2,1,0,1,2,2,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Rennes,Glen Kamara,FIN,MF,29,1995,0.7,0,0,0,0,2,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Rennes,Hans Hateboer,NED,"DF,MF",31,1994,0.2,0,0,0,2,0,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Rennes,Henrick Do Marcolino,FRA,FW,19,2006,0.0,0,0,0,0,0,0,0,2,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Rennes,Ibrahim Salah,MAR,MF,23,2001,0.4,0,0,0,0,2,1,0,0,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Rennes,Jérémy Jacquet,FRA,DF,20,2005,18.6,6,1,1,20,17,1,0,22,17,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Rennes,Kader Meïté,FRA,FW,17,2007,5.9,0,0,0,12,4,8,3,1,2,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Rennes,Lilian Brassier,FRA,DF,25,1999,25.0,2,0,0,27,21,0,23,38,13,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Rennes,Lucas Rosier,FRA,FW,18,2007,0.0,0,0,0,0,0,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Rennes,Ludovic Blas,FRA,"MF,FW",27,1997,17.2,1,0,0,24,27,5,93,15,10,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Rennes,Mahamadou Nagida,CMR,DF,20,2005,8.9,2,0,0,14,11,0,20,20,12,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Rennes,Mahdi Camara,FRA,MF,27,1998,29.5,5,1,0,39,28,4,28,27,33,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Rennes,Mathys Silestrie,FRA,GK,19,2005,2.0,0,0,0,0,0,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Rennes,Mikayil Ngor Faye,SEN,MF,21,2004,0.1,0,0,0,0,0,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Rennes,Musa Al-Taamari,JOR,"MF,FW",28,1997,24.6,4,0,0,16,27,26,86,11,16,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Rennes,Nordan Mukiele,FRA,MF,19,2006,1.1,0,0,0,4,2,0,2,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Rennes,Przemysław Frankowski,POL,"MF,DF",30,1995,13.4,5,0,0,13,10,1,82,9,25,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Rennes,Quentin Merlin,FRA,"DF,MF",23,2002,28.1,2,0,0,22,30,5,156,29,38,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Rennes,Sebastian Szymański,POL,MF,26,1999,8.6,2,0,0,13,12,4,56,3,10,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Rennes,Seko Fofana,CIV,MF,30,1995,7.3,0,0,0,3,13,0,7,3,2,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Rennes,Valentin Rongier,FRA,MF,30,1994,30.5,6,0,0,48,26,0,21,36,48,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Rennes,Yassir Zabiri,MAR,MF,20,2005,0.5,0,0,0,6,0,0,1,0,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Strasbourg,Aaron Anselmino,ARG,DF,20,2005,0.2,0,0,0,0,0,0,0,1,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Strasbourg,Abakar Sylla,CIV,DF,22,2002,0.0,0,0,0,0,0,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Strasbourg,Abdoul Ouattara,FRA,"MF,DF",19,2005,19.6,2,0,0,12,11,1,19,20,13,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Strasbourg,Amadou Cissé,GUI,DF,19,2006,1.0,0,0,0,3,0,0,0,0,2,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Strasbourg,Andrew Omobamidele,IRL,DF,23,2002,15.1,4,0,0,13,10,0,0,16,4,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Strasbourg,Ben Chilwell,ENG,"DF,MF",28,1996,17.8,4,0,0,14,22,4,30,22,17,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Strasbourg,David Datro Fofana,CIV,FW,22,2002,1.9,0,0,0,3,1,3,0,1,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Strasbourg,Diego Moreira,BEL,MF,20,2004,22.6,4,0,0,17,27,8,89,20,25,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Strasbourg,Dilane Bakwa,FRA,"FW,MF",22,2002,1.2,0,0,0,0,4,0,8,1,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Strasbourg,Emanuel Emegha,NED,FW,22,2003,4.9,3,0,0,12,9,4,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Strasbourg,Félix Lemaréchal,FRA,"MF,FW",21,2003,6.2,1,0,0,9,6,0,15,3,6,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Strasbourg,Gessime Yassine,MAR,MF,19,2005,5.7,0,0,0,9,19,1,18,1,9,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Strasbourg,Guéla Doué,CIV,"DF,MF",22,2002,22.9,3,0,0,42,24,0,52,27,38,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Strasbourg,Idrissa Sabaly,FRA,MF,17,2007,0.6,0,0,0,1,0,0,2,1,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Strasbourg,Ismaël Doukouré,FRA,"DF,MF",22,2003,23.0,4,2,0,21,17,0,3,24,11,,,2,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Strasbourg,Jean-Baptiste Bosey,FRA,FW,17,2008,0.0,0,0,0,1,0,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Strasbourg,Joaquín Panichelli,ARG,FW,22,2002,24.4,3,0,0,43,44,14,0,13,10,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Strasbourg,Julio Enciso,PAR,"MF,FW",21,2004,20.9,2,0,0,20,31,5,61,7,10,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Strasbourg,Junior Mwanga,FRA,"DF,MF",22,2003,4.2,0,0,0,9,2,0,4,1,8,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Strasbourg,Karl-Johan Johnsson,SWE,GK,35,1990,1.0,0,0,0,0,0,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Strasbourg,Kendry Páez,ECU,"MF,FW",18,2007,4.7,0,0,0,7,3,1,18,3,4,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Strasbourg,Lucas Høgsberg,DEN,DF,19,2006,19.9,4,1,1,16,13,1,0,13,9,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Strasbourg,Mamadou Sarr,SEN,DF,19,2005,14.5,3,0,0,16,11,0,0,5,13,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Strasbourg,Martial Godo,CIV,MF,22,2003,17.6,2,0,0,15,32,11,31,15,13,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Strasbourg,Mathis Amougou,FRA,MF,19,2006,4.5,1,0,0,4,4,0,2,2,11,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Strasbourg,Max Oyedele,POL,"MF,DF",20,2004,5.0,3,0,0,9,5,0,0,5,8,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Strasbourg,Mike Penders,BEL,GK,20,2005,33.0,3,0,0,1,2,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Strasbourg,Rabby Nzingoula,FRA,MF,19,2005,0.6,0,1,0,3,2,0,2,1,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Strasbourg,Rafael Gonçalves,POR,"MF,DF",20,2005,6.5,0,0,0,7,2,0,4,4,10,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Strasbourg,Samir El Mourabet,MAR,MF,19,2005,23.6,4,0,0,23,26,3,18,27,37,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Strasbourg,Samuel Amo-Ameyaw,ENG,"MF,DF",19,2006,11.6,2,0,0,15,26,2,50,3,12,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Strasbourg,Sebastian Nanasi,SWE,MF,23,2002,11.7,0,0,0,8,3,1,24,5,4,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Strasbourg,Tyrese Noubissié,FRA,MF,16,2009,0.6,1,0,0,2,1,0,1,2,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Strasbourg,Valentín Barco,ARG,MF,21,2004,24.1,5,1,0,24,61,2,103,14,33,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Strasbourg,Yaya Diémé,SEN,FW,17,2007,1.7,2,0,0,4,1,1,1,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Toulouse,Alexis Vossah,FRA,MF,17,2008,12.1,5,1,0,18,10,0,6,7,7,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Toulouse,Aron Dønnum,NOR,MF,27,1998,26.9,10,1,1,42,38,0,140,29,29,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Toulouse,Charlie Cresswell,ENG,DF,22,2002,28.1,8,0,0,31,15,4,2,30,14,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Toulouse,Cristian Cásseres Jr.,VEN,MF,25,2000,27.7,6,0,0,39,42,1,98,37,42,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Toulouse,Dayann Methalie,FRA,MF,19,2006,20.8,9,0,0,57,11,1,43,23,30,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Toulouse,Djibril Sidibé,FRA,"MF,DF",33,1992,23.8,1,0,0,29,14,5,57,18,32,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Toulouse,Emersonn,BRA,FW,21,2004,16.7,5,1,0,40,10,5,8,7,8,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Toulouse,Francis Abu,GHA,MF,24,2001,5.8,2,0,0,5,4,0,0,8,12,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Toulouse,Frank Magri,CMR,"FW,MF",25,1999,13.9,3,0,0,28,22,3,15,3,3,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Toulouse,Guillaume Restes,FRA,GK,20,2005,32.7,3,0,0,0,8,0,0,1,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Toulouse,Ilyas Azizi,FRA,FW,17,2008,0.3,0,0,0,0,0,0,2,0,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Toulouse,Jacen Russell-Rowe,CAN,FW,22,2002,5.2,0,0,0,9,1,1,3,1,3,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Toulouse,Jaydee Canvot,FRA,"MF,DF",19,2006,2.0,1,0,0,1,0,0,0,0,1,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Toulouse,Julián Vignolo,ARG,MF,18,2006,2.2,0,0,0,3,1,0,10,0,3,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Toulouse,Kjetil Haug,NOR,GK,27,1998,0.3,0,0,0,0,0,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Toulouse,Mario Sauer,SVK,MF,21,2004,7.2,4,0,0,12,3,0,7,10,6,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Toulouse,Mark McKenzie,USA,DF,26,1999,26.7,7,1,0,35,12,1,4,25,30,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Toulouse,Mathis Saka,FRA,FW,18,2006,0.1,0,0,0,1,0,0,0,0,0,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Toulouse,Noah Edjouma,FRA,FW,19,2005,2.8,0,0,0,4,4,0,12,3,3,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Toulouse,Pape Demba Diop,SEN,MF,21,2003,13.1,2,0,0,15,17,0,14,29,20,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Toulouse,Rafik Messali,FRA,MF,22,2003,5.6,2,0,0,11,9,0,9,12,6,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Toulouse,Rasmus Nicolaisen,DEN,DF,28,1997,28.5,4,0,0,28,21,1,2,40,16,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Toulouse,Santiago Hidalgo,ARG,"MF,FW",20,2005,14.5,4,0,0,41,30,8,12,8,20,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Toulouse,Seny Koumbassa,FRA,DF,18,2007,4.9,0,0,0,1,0,0,0,4,6,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Toulouse,Warren Kamanzi,NOR,MF,24,2000,9.7,1,0,0,8,8,1,12,7,11,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29
+FRA-Ligue 1,2526,Toulouse,Yann Gboho,FRA,"MF,FW",24,2001,28.9,1,1,0,16,69,5,33,13,19,,,0,FRA,2025-2026,misc,fbref_soccerdata,2026-08-10 22:05:29

@@ -1,0 +1,76 @@
+2026-08-09 00:38:17,940 [INFO] =================================================================
+2026-08-09 00:38:17,941 [INFO]   RadarPepites - Scraping datafc (Sofascore) -> Bronze
+2026-08-09 00:38:17,941 [INFO] =================================================================
+2026-08-09 00:38:17,944 [INFO]   Ligues  : ['ENG', 'ESP', 'GER', 'ITA', 'FRA', 'POR', 'NED', 'BEL', 'TUR', 'AUT']
+2026-08-09 00:38:17,946 [INFO]   Saisons : ['2025-2026']
+2026-08-09 00:38:17,948 [INFO]   Metrics : 21 métriques par ligue x saison
+2026-08-09 00:38:17,950 [INFO]   Total   : 10 combinaisons ligue x saison
+2026-08-09 00:38:17,951 [INFO]   Duree   : ~10 minutes
+2026-08-09 00:38:17,953 [INFO] =================================================================
+2026-08-09 00:38:17,961 [INFO] [1/10] Premier League | 2025-2026
+2026-08-09 00:38:18,122 [WARNING]     Saison 2025-2026 non trouvée, utilisation de la première disponible
+2026-08-09 00:38:18,123 [INFO]   -> season_id : 96668
+2026-08-09 00:38:18,553 [WARNING]     -rating → Données non disponibles
+2026-08-09 00:38:21,658 [WARNING]     -goals → Données non disponibles
+2026-08-09 00:38:24,788 [WARNING]     -assists → Données non disponibles
+2026-08-09 00:38:27,894 [WARNING]     -expectedGoals → Données non disponibles
+2026-08-09 00:38:30,993 [WARNING]     -expectedAssists → Données non disponibles
+2026-08-09 00:38:34,118 [WARNING]     -shotsOnTarget → Données non disponibles
+2026-08-09 00:38:37,227 [WARNING]     -bigChancesCreated → Données non disponibles
+2026-08-09 00:38:40,335 [WARNING]     -accuratePasses → Données non disponibles
+2026-08-09 00:38:43,435 [WARNING]     -keyPasses → Données non disponibles
+2026-08-09 00:38:46,537 [WARNING]     -accurateLongBalls → Données non disponibles
+2026-08-09 00:38:49,538 [ERROR]     -accurateCrosses → Erreur : Invalid order field: 'accurateCrosses'. Must be one of ['accurateLongBalls', 'accurateLongBallsPercentage', 'accuratePasses', 'accuratePassesPercentage', 'appearances', 'assists', 'bigChancesCreated', 'bigChancesMissed', 'clearances', 'expectedAssists', 'expectedGoals', 'freeKickGoal', 'goals', 'goalsAssistsSum', 'goalsPrevented', 'interceptions', 'keyPasses', 'minutesPlayed', 'penaltyGoals', 'possessionLost', 'rating', 'redCards', 'saves', 'scoringFrequency', 'shotsOnTarget', 'successfulDribbles', 'successfulDribblesPercentage', 'tackles', 'totalShots', 'yellowCards'].
+2026-08-09 00:38:52,661 [WARNING]     -tackles → Données non disponibles
+2026-08-09 00:38:55,780 [WARNING]     -interceptions → Données non disponibles
+2026-08-09 00:38:58,892 [WARNING]     -clearances → Données non disponibles
+2026-08-09 00:39:01,894 [ERROR]     -aerialDuelsWon → Erreur : Invalid order field: 'aerialDuelsWon'. Must be one of ['accurateLongBalls', 'accurateLongBallsPercentage', 'accuratePasses', 'accuratePassesPercentage', 'appearances', 'assists', 'bigChancesCreated', 'bigChancesMissed', 'clearances', 'expectedAssists', 'expectedGoals', 'freeKickGoal', 'goals', 'goalsAssistsSum', 'goalsPrevented', 'interceptions', 'keyPasses', 'minutesPlayed', 'penaltyGoals', 'possessionLost', 'rating', 'redCards', 'saves', 'scoringFrequency', 'shotsOnTarget', 'successfulDribbles', 'successfulDribblesPercentage', 'tackles', 'totalShots', 'yellowCards'].
+2026-08-09 00:39:04,895 [ERROR]     -totalDuelsWon → Erreur : Invalid order field: 'totalDuelsWon'. Must be one of ['accurateLongBalls', 'accurateLongBallsPercentage', 'accuratePasses', 'accuratePassesPercentage', 'appearances', 'assists', 'bigChancesCreated', 'bigChancesMissed', 'clearances', 'expectedAssists', 'expectedGoals', 'freeKickGoal', 'goals', 'goalsAssistsSum', 'goalsPrevented', 'interceptions', 'keyPasses', 'minutesPlayed', 'penaltyGoals', 'possessionLost', 'rating', 'redCards', 'saves', 'scoringFrequency', 'shotsOnTarget', 'successfulDribbles', 'successfulDribblesPercentage', 'tackles', 'totalShots', 'yellowCards'].
+2026-08-09 00:39:07,896 [ERROR]     -blockedShots → Erreur : Invalid order field: 'blockedShots'. Must be one of ['accurateLongBalls', 'accurateLongBallsPercentage', 'accuratePasses', 'accuratePassesPercentage', 'appearances', 'assists', 'bigChancesCreated', 'bigChancesMissed', 'clearances', 'expectedAssists', 'expectedGoals', 'freeKickGoal', 'goals', 'goalsAssistsSum', 'goalsPrevented', 'interceptions', 'keyPasses', 'minutesPlayed', 'penaltyGoals', 'possessionLost', 'rating', 'redCards', 'saves', 'scoringFrequency', 'shotsOnTarget', 'successfulDribbles', 'successfulDribblesPercentage', 'tackles', 'totalShots', 'yellowCards'].
+2026-08-09 00:39:11,003 [WARNING]     -successfulDribbles → Données non disponibles
+2026-08-09 00:39:14,093 [WARNING]     -minutesPlayed → Données non disponibles
+2026-08-09 00:39:17,195 [WARNING]     -yellowCards → Données non disponibles
+2026-08-09 00:39:20,301 [WARNING]     -redCards → Données non disponibles
+2026-08-09 00:39:23,302 [WARNING]   -> Aucune donnee : ENG_2025-2026
+2026-08-09 00:39:26,304 [INFO] [2/10] La Liga | 2025-2026
+2026-08-09 00:39:26,412 [WARNING]     Saison 2025-2026 non trouvée, utilisation de la première disponible
+2026-08-09 00:39:26,413 [INFO]   -> season_id : 97268
+2026-08-09 00:39:26,910 [WARNING]     -rating → Données non disponibles
+2026-08-09 00:39:30,034 [WARNING]     -goals → Données non disponibles
+2026-08-09 00:39:33,134 [WARNING]     -assists → Données non disponibles
+2026-08-09 00:39:36,249 [WARNING]     -expectedGoals → Données non disponibles
+2026-08-09 00:39:39,364 [WARNING]     -expectedAssists → Données non disponibles
+2026-08-09 00:39:42,462 [WARNING]     -shotsOnTarget → Données non disponibles
+2026-08-09 00:39:45,585 [WARNING]     -bigChancesCreated → Données non disponibles
+2026-08-09 00:39:48,679 [WARNING]     -accuratePasses → Données non disponibles
+2026-08-09 00:39:51,791 [WARNING]     -keyPasses → Données non disponibles
+2026-08-09 00:39:54,895 [WARNING]     -accurateLongBalls → Données non disponibles
+2026-08-09 00:39:57,897 [ERROR]     -accurateCrosses → Erreur : Invalid order field: 'accurateCrosses'. Must be one of ['accurateLongBalls', 'accurateLongBallsPercentage', 'accuratePasses', 'accuratePassesPercentage', 'appearances', 'assists', 'bigChancesCreated', 'bigChancesMissed', 'clearances', 'expectedAssists', 'expectedGoals', 'freeKickGoal', 'goals', 'goalsAssistsSum', 'goalsPrevented', 'interceptions', 'keyPasses', 'minutesPlayed', 'penaltyGoals', 'possessionLost', 'rating', 'redCards', 'saves', 'scoringFrequency', 'shotsOnTarget', 'successfulDribbles', 'successfulDribblesPercentage', 'tackles', 'totalShots', 'yellowCards'].
+2026-08-09 00:40:01,018 [WARNING]     -tackles → Données non disponibles
+2026-08-09 00:40:04,128 [WARNING]     -interceptions → Données non disponibles
+2026-08-09 00:40:07,227 [WARNING]     -clearances → Données non disponibles
+2026-08-09 00:40:10,229 [ERROR]     -aerialDuelsWon → Erreur : Invalid order field: 'aerialDuelsWon'. Must be one of ['accurateLongBalls', 'accurateLongBallsPercentage', 'accuratePasses', 'accuratePassesPercentage', 'appearances', 'assists', 'bigChancesCreated', 'bigChancesMissed', 'clearances', 'expectedAssists', 'expectedGoals', 'freeKickGoal', 'goals', 'goalsAssistsSum', 'goalsPrevented', 'interceptions', 'keyPasses', 'minutesPlayed', 'penaltyGoals', 'possessionLost', 'rating', 'redCards', 'saves', 'scoringFrequency', 'shotsOnTarget', 'successfulDribbles', 'successfulDribblesPercentage', 'tackles', 'totalShots', 'yellowCards'].
+2026-08-09 00:40:13,232 [ERROR]     -totalDuelsWon → Erreur : Invalid order field: 'totalDuelsWon'. Must be one of ['accurateLongBalls', 'accurateLongBallsPercentage', 'accuratePasses', 'accuratePassesPercentage', 'appearances', 'assists', 'bigChancesCreated', 'bigChancesMissed', 'clearances', 'expectedAssists', 'expectedGoals', 'freeKickGoal', 'goals', 'goalsAssistsSum', 'goalsPrevented', 'interceptions', 'keyPasses', 'minutesPlayed', 'penaltyGoals', 'possessionLost', 'rating', 'redCards', 'saves', 'scoringFrequency', 'shotsOnTarget', 'successfulDribbles', 'successfulDribblesPercentage', 'tackles', 'totalShots', 'yellowCards'].
+2026-08-09 00:40:16,234 [ERROR]     -blockedShots → Erreur : Invalid order field: 'blockedShots'. Must be one of ['accurateLongBalls', 'accurateLongBallsPercentage', 'accuratePasses', 'accuratePassesPercentage', 'appearances', 'assists', 'bigChancesCreated', 'bigChancesMissed', 'clearances', 'expectedAssists', 'expectedGoals', 'freeKickGoal', 'goals', 'goalsAssistsSum', 'goalsPrevented', 'interceptions', 'keyPasses', 'minutesPlayed', 'penaltyGoals', 'possessionLost', 'rating', 'redCards', 'saves', 'scoringFrequency', 'shotsOnTarget', 'successfulDribbles', 'successfulDribblesPercentage', 'tackles', 'totalShots', 'yellowCards'].
+2026-08-09 00:40:19,344 [WARNING]     -successfulDribbles → Données non disponibles
+2026-08-09 00:40:22,439 [WARNING]     -minutesPlayed → Données non disponibles
+2026-08-09 00:40:25,556 [WARNING]     -yellowCards → Données non disponibles
+2026-08-09 00:40:28,861 [WARNING]     -redCards → Données non disponibles
+2026-08-09 00:40:31,862 [WARNING]   -> Aucune donnee : ESP_2025-2026
+2026-08-09 00:40:34,864 [INFO] [3/10] Bundesliga | 2025-2026
+2026-08-09 00:40:34,955 [WARNING]     Saison 2025-2026 non trouvée, utilisation de la première disponible
+2026-08-09 00:40:34,957 [INFO]   -> season_id : 97464
+2026-08-09 00:40:35,465 [WARNING]     -rating → Données non disponibles
+2026-08-09 00:40:38,565 [WARNING]     -goals → Données non disponibles
+2026-08-09 00:40:41,667 [WARNING]     -assists → Données non disponibles
+2026-08-09 00:40:44,783 [WARNING]     -expectedGoals → Données non disponibles
+2026-08-09 00:40:47,875 [WARNING]     -expectedAssists → Données non disponibles
+2026-08-09 00:40:50,987 [WARNING]     -shotsOnTarget → Données non disponibles
+2026-08-09 00:40:54,104 [WARNING]     -bigChancesCreated → Données non disponibles
+2026-08-09 00:40:57,208 [WARNING]     -accuratePasses → Données non disponibles
+2026-08-09 00:41:00,305 [WARNING]     -keyPasses → Données non disponibles
+2026-08-09 00:41:03,424 [WARNING]     -accurateLongBalls → Données non disponibles
+2026-08-09 00:41:06,426 [ERROR]     -accurateCrosses → Erreur : Invalid order field: 'accurateCrosses'. Must be one of ['accurateLongBalls', 'accurateLongBallsPercentage', 'accuratePasses', 'accuratePassesPercentage', 'appearances', 'assists', 'bigChancesCreated', 'bigChancesMissed', 'clearances', 'expectedAssists', 'expectedGoals', 'freeKickGoal', 'goals', 'goalsAssistsSum', 'goalsPrevented', 'interceptions', 'keyPasses', 'minutesPlayed', 'penaltyGoals', 'possessionLost', 'rating', 'redCards', 'saves', 'scoringFrequency', 'shotsOnTarget', 'successfulDribbles', 'successfulDribblesPercentage', 'tackles', 'totalShots', 'yellowCards'].
+2026-08-09 00:41:09,523 [WARNING]     -tackles → Données non disponibles
+2026-08-09 00:41:12,620 [WARNING]     -interceptions → Données non disponibles
+2026-08-09 00:41:15,734 [WARNING]     -clearances → Données non disponibles

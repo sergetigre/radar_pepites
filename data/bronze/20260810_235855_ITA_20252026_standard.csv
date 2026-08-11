@@ -1,0 +1,610 @@
+﻿league,season,team,player,nation,pos,age,born,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_Gls,Performance_Ast,Performance_G+A,Performance_G-PK,Performance_PK,Performance_PKatt,Performance_CrdY,Performance_CrdR,Per 90 Minutes_Gls,Per 90 Minutes_Ast,Per 90 Minutes_G+A,Per 90 Minutes_G-PK,Per 90 Minutes_G+A-PK,_league_id,_season,_stat_type,_source,_scraped_at
+ITA-Serie A,2526,Atalanta,Ademola Lookman,NGA,"FW,MF",27,1997,12,9,795,8.8,2,0,2,2,0,0,0,0,0.23,0.0,0.23,0.23,0.23,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Atalanta,Berat Djimsiti,ALB,DF,32,1993,34,29,2525,28.1,0,0,0,0,0,0,4,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Atalanta,Charles De Ketelaere,BEL,"MF,FW",24,2001,31,26,2177,24.2,3,5,8,3,0,0,4,0,0.12,0.21,0.33,0.12,0.33,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Atalanta,Daniel Maldini,ITA,MF,23,2001,9,3,264,2.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Atalanta,Davide Zappacosta,ITA,MF,33,1992,35,30,2569,28.5,3,3,6,3,0,0,3,0,0.11,0.11,0.21,0.11,0.21,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Atalanta,Dominic Vavassori,ITA,FW,19,2005,1,0,10,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Atalanta,Giacomo Raspadori,ITA,"MF,FW",25,2000,13,7,796,8.8,3,1,4,3,0,0,0,0,0.34,0.11,0.45,0.34,0.45,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Atalanta,Gianluca Scamacca,ITA,FW,26,1999,24,16,1315,14.6,10,1,11,8,2,2,2,0,0.68,0.07,0.75,0.55,0.62,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Atalanta,Giorgio Scalvini,ITA,DF,21,2003,24,23,1808,20.1,3,1,4,3,0,0,2,0,0.15,0.05,0.2,0.15,0.2,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Atalanta,Honest Ahanor,ITA,DF,17,2008,22,15,1377,15.3,0,0,0,0,0,0,2,1,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Atalanta,Isak Hien,SWE,DF,26,1999,28,20,1970,21.9,1,0,1,1,0,0,5,0,0.05,0.0,0.05,0.05,0.05,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Atalanta,Kamaldeen Sulemana,GHA,MF,23,2002,25,9,1011,11.2,2,1,3,2,0,0,4,0,0.18,0.09,0.27,0.18,0.27,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Atalanta,Lazar Samardzic,SRB,MF,23,2002,26,11,1030,11.4,2,1,3,2,0,0,1,0,0.17,0.09,0.26,0.17,0.26,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Atalanta,Lorenzo Bernasconi,ITA,MF,21,2003,23,17,1572,17.5,0,3,3,0,0,0,3,0,0.0,0.17,0.17,0.0,0.17,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Atalanta,Marco Brescianini,ITA,MF,25,2000,9,0,182,2.0,1,0,1,1,0,0,1,0,0.49,0.0,0.49,0.49,0.49,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Atalanta,Marco Carnesecchi,ITA,GK,25,2000,37,37,3330,37.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Atalanta,Marco Sportiello,ITA,GK,33,1992,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Atalanta,Mario Pašalić,CRO,MF,30,1995,33,21,1936,21.5,3,4,7,3,0,0,3,0,0.14,0.19,0.33,0.14,0.33,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Atalanta,Marten de Roon,NED,MF,34,1991,34,32,2691,29.9,1,2,3,1,0,0,8,1,0.03,0.07,0.1,0.03,0.1,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Atalanta,Mitchel Bakker,NED,"DF,MF",25,2000,1,0,9,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Atalanta,Nicola Zalewski,POL,MF,23,2002,33,24,1897,21.1,2,4,6,2,0,0,3,0,0.09,0.19,0.28,0.09,0.28,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Atalanta,Nikola Krstović,MNE,FW,25,2000,33,18,1791,19.9,10,5,15,10,0,0,4,0,0.5,0.25,0.75,0.5,0.75,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Atalanta,Odilon Kossounou,CIV,DF,24,2001,19,10,988,11.0,1,0,1,1,0,0,1,0,0.09,0.0,0.09,0.09,0.09,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Atalanta,Raoul Bellanova,ITA,MF,25,2000,24,15,1377,15.3,0,1,1,0,0,0,2,0,0.0,0.07,0.07,0.0,0.07,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Atalanta,Sead Kolašinac,BIH,DF,32,1993,19,15,1212,13.5,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Atalanta,Yunus Musah,USA,MF,22,2002,19,4,574,6.4,1,0,1,1,0,0,1,0,0.16,0.0,0.16,0.16,0.16,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Atalanta,Éderson Silva,BRA,MF,26,1999,30,26,2230,24.8,2,1,3,1,1,1,3,0,0.08,0.04,0.12,0.04,0.08,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Bologna,Babis Lykogiannis,GRE,DF,31,1993,10,7,627,7.0,0,1,1,0,0,0,3,0,0.0,0.14,0.14,0.0,0.14,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Bologna,Benjamín Domínguez,ARG,MF,21,2003,15,6,547,6.1,0,3,3,0,0,0,1,0,0.0,0.49,0.49,0.0,0.49,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Bologna,Ciro Immobile,ITA,FW,35,1990,6,2,193,2.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Bologna,Eivind Helland,NOR,DF,20,2005,6,6,484,5.4,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Bologna,Emil Holm,SWE,DF,25,2000,11,8,655,7.3,1,4,5,1,0,0,3,1,0.14,0.55,0.69,0.14,0.69,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Bologna,Federico Bernardeschi,ITA,"MF,FW",31,1994,29,12,1217,13.5,4,2,6,3,1,1,3,0,0.3,0.15,0.44,0.22,0.37,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Bologna,Federico Ravaglia,ITA,GK,25,1999,17,16,1470,16.3,0,0,0,0,0,0,4,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Bologna,Giovanni Fabbian,ITA,MF,22,2003,14,8,705,7.8,2,0,2,2,0,0,0,0,0.26,0.0,0.26,0.26,0.26,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Bologna,Ibrahim Sulemana,GHA,MF,22,2003,3,0,45,0.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Bologna,Jens Odgaard,DEN,MF,26,1999,26,16,1378,15.3,5,1,6,5,0,0,1,0,0.33,0.07,0.39,0.33,0.39,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Bologna,Jhon Lucumí,COL,DF,27,1998,29,26,2287,25.4,1,0,1,1,0,0,5,0,0.04,0.0,0.04,0.04,0.04,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Bologna,Jonathan Rowe,ENG,"MF,FW",22,2003,28,17,1605,17.8,3,2,5,3,0,0,2,0,0.17,0.11,0.28,0.17,0.28,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Bologna,João Mário Lopes,POR,"DF,MF",25,2000,10,10,735,8.2,1,0,1,1,0,0,1,0,0.12,0.0,0.12,0.12,0.12,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Bologna,Juan Miranda,ESP,DF,25,2000,32,29,2573,28.6,1,3,4,1,0,0,6,0,0.03,0.1,0.14,0.03,0.14,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Bologna,Lewis Ferguson,SCO,MF,25,1999,27,17,1601,17.8,1,0,1,1,0,0,7,1,0.06,0.0,0.06,0.06,0.06,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Bologna,Lorenzo De Silvestri,ITA,DF,37,1988,12,6,491,5.5,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Bologna,Martin Vitík,CZE,DF,22,2003,19,14,1325,14.7,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Bologna,Massimo Pessina,ITA,GK,17,2007,4,3,353,3.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Bologna,Nadir Zortea,ITA,DF,26,1999,32,16,1819,20.2,0,2,2,0,0,0,2,0,0.0,0.1,0.1,0.0,0.1,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Bologna,Nicolò Cambiaghi,ITA,"MF,FW",24,2000,28,17,1518,16.9,3,4,7,3,0,0,3,1,0.18,0.24,0.42,0.18,0.42,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Bologna,Nicolò Casale,ITA,DF,27,1998,12,8,678,7.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Bologna,Nikola Moro,CRO,MF,27,1998,30,19,1799,20.0,2,0,2,2,0,0,1,0,0.1,0.0,0.1,0.1,0.1,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Bologna,Remo Freuler,SUI,MF,33,1992,29,26,2213,24.6,1,2,3,1,0,0,5,0,0.04,0.08,0.12,0.04,0.12,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Bologna,Riccardo Orsolini,ITA,"MF,FW",28,1997,35,26,2111,23.5,10,1,11,6,4,6,2,0,0.43,0.04,0.47,0.26,0.3,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Bologna,Santiago Castro,ARG,FW,20,2004,35,26,2359,26.2,7,2,9,7,0,0,3,0,0.27,0.08,0.34,0.27,0.34,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Bologna,Simon Sohm,SUI,MF,24,2001,12,9,717,8.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Bologna,Thijs Dallinga,NED,FW,24,2000,23,9,811,9.0,2,2,4,2,0,0,2,0,0.22,0.22,0.44,0.22,0.44,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Bologna,Tommaso Pobega,ITA,MF,26,1999,26,17,1434,15.9,3,1,4,3,0,0,2,1,0.19,0.06,0.25,0.19,0.25,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Bologna,Torbjørn Heggem,NOR,DF,26,1999,27,23,2113,23.5,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Bologna,Łukasz Skorupski,POL,GK,34,1991,19,19,1592,17.7,0,0,0,0,0,0,1,1,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cagliari,Adam Obert,SVK,"DF,MF",22,2002,35,33,2771,30.8,0,3,3,0,0,0,10,1,0.0,0.1,0.1,0.0,0.1,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cagliari,Agustín Albarracín,URU,FW,19,2005,2,0,33,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cagliari,Alberto Dossena,ITA,DF,26,1998,12,9,859,9.5,0,1,1,0,0,0,5,0,0.0,0.1,0.1,0.0,0.1,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cagliari,Alessandro Deiola,ITA,"MF,DF",29,1995,20,17,1430,15.9,0,2,2,0,0,0,3,0,0.0,0.13,0.13,0.0,0.13,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cagliari,Alessandro Di Pardo,ITA,"DF,MF",26,1999,3,0,54,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cagliari,Andrea Belotti,ITA,FW,31,1993,8,3,221,2.5,2,0,2,1,1,1,0,0,0.81,0.0,0.81,0.41,0.41,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cagliari,Elia Caprile,ITA,GK,23,2001,38,38,3420,38.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cagliari,Gabriele Zappa,ITA,"DF,MF",25,1999,31,18,1597,17.7,0,3,3,0,0,0,2,0,0.0,0.17,0.17,0.0,0.17,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cagliari,Gennaro Borrelli,ITA,FW,25,2000,27,13,1275,14.2,5,1,6,5,0,0,4,0,0.35,0.07,0.42,0.35,0.42,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cagliari,Gianluca Gaetano,ITA,"MF,FW",25,2000,33,21,1912,21.2,2,4,6,2,0,0,4,0,0.09,0.19,0.28,0.09,0.28,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cagliari,Ibrahim Sulemana,GHA,MF,22,2003,16,7,860,9.6,1,0,1,1,0,0,2,0,0.1,0.0,0.1,0.1,0.1,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cagliari,Joseph Liteta,ZAM,MF,19,2006,4,4,264,2.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cagliari,Juan Rodríguez,URU,DF,20,2005,17,16,1310,14.6,1,0,1,1,0,0,3,0,0.07,0.0,0.07,0.07,0.07,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cagliari,Leonardo Pavoletti,ITA,FW,36,1988,13,1,227,2.5,1,1,2,1,0,0,1,0,0.4,0.4,0.79,0.4,0.79,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cagliari,Luca Mazzitelli,ITA,MF,29,1995,18,9,767,8.5,2,2,4,2,0,0,3,0,0.23,0.23,0.47,0.23,0.47,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cagliari,Marco Palestra,ITA,"MF,DF",20,2005,37,34,3081,34.2,1,4,5,1,0,0,3,0,0.03,0.12,0.15,0.03,0.15,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cagliari,Matteo Prati,ITA,MF,21,2003,20,15,1268,14.1,1,0,1,1,0,0,4,0,0.07,0.0,0.07,0.07,0.07,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cagliari,Mattia Felici,ITA,MF,24,2001,12,4,412,4.6,2,1,3,2,0,0,3,0,0.44,0.22,0.66,0.44,0.66,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cagliari,Michael Folorunsho,ITA,"MF,FW",27,1998,27,24,1999,22.2,2,0,2,2,0,0,3,0,0.09,0.0,0.09,0.09,0.09,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cagliari,Michel Ndary Adopo,FRA,MF,25,2000,38,33,3050,33.9,1,2,3,1,0,0,4,0,0.03,0.06,0.09,0.03,0.09,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cagliari,Nicolò Cavuoti,ITA,MF,22,2003,4,0,44,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cagliari,Othniel Raterink,NED,DF,19,2006,1,0,7,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cagliari,Paul Mendy,SEN,FW,18,2007,9,3,335,3.7,2,0,2,2,0,0,1,0,0.54,0.0,0.54,0.54,0.54,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cagliari,Riyad Idrissi,ITA,"MF,DF",20,2005,23,4,783,8.7,2,0,2,2,0,0,3,0,0.23,0.0,0.23,0.23,0.23,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cagliari,Sebastiano Esposito,ITA,"FW,MF",23,2002,36,34,2675,29.7,7,5,12,6,1,1,6,0,0.24,0.17,0.4,0.2,0.37,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cagliari,Sebastiano Luperto,ITA,DF,28,1996,19,19,1706,19.0,1,0,1,1,0,0,3,0,0.05,0.0,0.05,0.05,0.05,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cagliari,Semih Kılıçsoy,TUR,FW,19,2005,22,11,975,10.8,4,0,4,4,0,0,1,0,0.37,0.0,0.37,0.37,0.37,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cagliari,Yael Trepy,,FW,,,8,0,91,1.0,1,0,1,1,0,0,0,0,0.99,0.0,0.99,0.99,0.99,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cagliari,Yerry Mina,COL,DF,30,1994,26,26,2150,23.9,2,0,2,2,0,0,5,1,0.08,0.0,0.08,0.08,0.08,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cagliari,Zito Luvumbo,ANG,"MF,FW",23,2002,12,2,329,3.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cagliari,Zé Pedro Figueiredo,POR,DF,28,1997,23,20,1699,18.9,0,1,1,0,0,0,6,0,0.0,0.05,0.05,0.0,0.05,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Como,Alberto Moreno,ESP,DF,33,1992,19,13,1233,13.7,2,1,3,2,0,0,4,0,0.15,0.07,0.22,0.15,0.22,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Como,Anastasios Douvikas,GRE,FW,25,1999,38,25,2273,25.3,14,1,15,13,1,1,0,0,0.55,0.04,0.59,0.51,0.55,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Como,Andréa Le Borgne,FRA,MF,19,2006,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Como,Assane Diao,SEN,MF,19,2005,17,13,1075,11.9,2,1,3,2,0,0,2,0,0.17,0.08,0.25,0.17,0.25,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Como,Diego Carlos,BRA,DF,32,1993,27,21,1949,21.7,1,0,1,1,0,0,8,0,0.05,0.0,0.05,0.05,0.05,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Como,Edoardo Goldaniga,ITA,DF,31,1993,2,0,15,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Como,Ignace Van Der Brempt,BEL,DF,23,2002,20,11,931,10.3,0,1,1,0,0,0,2,0,0.0,0.1,0.1,0.0,0.1,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Como,Ivan Smolčić,CRO,DF,24,2000,28,19,1662,18.5,0,1,1,0,0,0,8,0,0.0,0.05,0.05,0.0,0.05,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Como,Jacobo Ramón,ESP,DF,20,2005,32,30,2742,30.5,2,0,2,2,0,0,11,1,0.07,0.0,0.07,0.07,0.07,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Como,Jayden Addai,NED,MF,19,2005,12,7,686,7.6,3,0,3,3,0,0,4,0,0.39,0.0,0.39,0.39,0.39,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Como,Jean Butez,FRA,GK,30,1995,38,38,3420,38.0,0,1,1,0,0,0,3,0,0.0,0.03,0.03,0.0,0.03,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Como,Jesus Rodríguez,ESP,MF,19,2005,31,18,1731,19.2,2,9,11,2,0,0,3,1,0.1,0.47,0.57,0.1,0.57,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Como,Lucas Da Cunha,FRA,MF,24,2001,36,31,2739,30.4,6,4,10,2,4,4,4,0,0.2,0.13,0.33,0.07,0.2,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Como,Marc-Oliver Kempf,GER,DF,30,1995,34,27,2326,25.8,4,1,5,4,0,0,3,0,0.15,0.04,0.19,0.15,0.19,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Como,Martin Baturina,CRO,"MF,FW",22,2003,29,17,1569,17.4,6,3,9,6,0,0,0,0,0.34,0.17,0.52,0.34,0.52,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Como,Maxence Caqueret,FRA,MF,25,2000,30,17,1485,16.5,2,6,8,2,0,0,3,0,0.12,0.36,0.48,0.12,0.48,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Como,Máximo Perrone,ARG,MF,22,2003,36,33,2742,30.5,3,4,7,3,0,0,8,0,0.1,0.13,0.23,0.1,0.23,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Como,Mërgim Vojvoda,KVX,"MF,DF",30,1995,30,19,1591,17.7,2,2,4,2,0,0,2,0,0.11,0.11,0.23,0.11,0.23,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Como,Nicolas-Gerrit Kühn,GER,MF,25,2000,23,6,665,7.4,1,1,2,1,0,0,0,0,0.14,0.14,0.27,0.14,0.27,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Como,Nicolás Paz,ARG,MF,20,2004,35,33,2878,32.0,12,6,18,12,0,2,5,0,0.38,0.19,0.56,0.38,0.56,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Como,Sergi Roberto,ESP,MF,33,1992,20,5,544,6.0,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Como,Stefan Posch,AUT,DF,28,1997,14,3,393,4.4,1,0,1,1,0,0,1,0,0.23,0.0,0.23,0.23,0.23,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Como,Álex Valle,ESP,DF,21,2004,28,23,2026,22.5,1,4,5,1,0,0,3,0,0.04,0.18,0.22,0.04,0.22,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Como,Álvaro Morata,ESP,FW,32,1992,26,9,930,10.3,0,1,1,0,0,1,4,1,0.0,0.1,0.1,0.0,0.1,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cremonese,Alberto Grassi,ITA,MF,30,1995,30,18,1753,19.5,0,0,0,0,0,0,4,1,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cremonese,Alessio Zerbin,ITA,MF,26,1999,32,17,1646,18.3,0,3,3,0,0,0,1,0,0.0,0.16,0.16,0.0,0.16,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cremonese,Antonio Sanabria,PAR,FW,29,1996,25,10,945,10.5,1,1,2,1,0,0,2,0,0.1,0.1,0.19,0.1,0.19,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cremonese,Dachi Lordkipanidze,GEO,MF,20,2005,1,0,29,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cremonese,David Okereke,NGA,"FW,MF",27,1997,10,3,403,4.5,2,0,2,2,0,0,0,1,0.45,0.0,0.45,0.45,0.45,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cremonese,Dennis Johnsen,NOR,"MF,FW",27,1998,11,5,390,4.3,1,1,2,1,0,0,0,0,0.23,0.23,0.46,0.23,0.46,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cremonese,Emil Audero,IDN,GK,28,1997,34,34,3060,34.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cremonese,Faris Pemi Moumbagna,CMR,FW,25,2000,5,0,93,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cremonese,Federico Baschirotto,ITA,DF,28,1996,29,29,2540,28.2,2,0,2,2,0,0,2,0,0.07,0.0,0.07,0.07,0.07,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cremonese,Federico Bonazzoli,ITA,FW,28,1997,35,31,2510,27.9,10,1,11,7,3,3,4,0,0.36,0.04,0.39,0.25,0.29,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cremonese,Federico Ceccherini,ITA,DF,33,1992,9,6,476,5.3,0,1,1,0,0,0,1,1,0.0,0.19,0.19,0.0,0.19,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cremonese,Filippo Terracciano,ITA,DF,22,2003,36,33,3011,33.5,2,0,2,2,0,0,6,0,0.06,0.0,0.06,0.06,0.06,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cremonese,Francesco Folino,ITA,DF,23,2002,18,7,722,8.0,1,0,1,1,0,0,1,0,0.12,0.0,0.12,0.12,0.12,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cremonese,Franco Vázquez,ARG,"FW,MF",36,1989,15,4,524,5.8,1,1,2,1,0,0,1,0,0.17,0.17,0.34,0.17,0.34,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cremonese,Giuseppe Pezzella,ITA,"MF,DF",27,1997,31,30,2585,28.7,0,1,1,0,0,0,8,1,0.0,0.03,0.03,0.0,0.03,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cremonese,Jamie Vardy,ENG,FW,38,1987,29,24,2105,23.4,7,2,9,7,0,0,5,0,0.3,0.09,0.38,0.3,0.38,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cremonese,Jari Vandeputte,BEL,MF,29,1996,32,23,1944,21.6,1,5,6,1,0,0,3,0,0.05,0.23,0.28,0.05,0.28,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cremonese,Jeremy Sarmiento,ECU,MF,23,2002,7,0,142,1.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cremonese,Manuel De Luca,ITA,FW,27,1998,2,0,16,0.2,1,0,1,0,1,1,0,0,5.63,0.0,5.63,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cremonese,Marco Silvestri,ITA,GK,34,1991,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cremonese,Martín Payero,ARG,MF,26,1998,25,16,1457,16.2,1,0,1,1,0,0,8,0,0.06,0.0,0.06,0.06,0.06,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cremonese,Matteo Bianchetti,ITA,DF,32,1993,27,25,2192,24.4,0,2,2,0,0,0,4,0,0.0,0.08,0.08,0.0,0.08,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cremonese,Michele Collocolo,ITA,MF,25,1999,8,5,362,4.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cremonese,Mikayil Ngor Faye,SEN,"MF,DF",21,2004,8,2,254,2.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cremonese,Milan Đurić,BIH,FW,35,1990,11,3,386,4.3,0,1,1,0,0,0,1,1,0.0,0.23,0.23,0.0,0.23,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cremonese,Morten Thorsby,NOR,MF,29,1996,11,8,643,7.1,1,0,1,1,0,0,2,0,0.14,0.0,0.14,0.14,0.14,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cremonese,Romano Floriani,ITA,MF,22,2003,28,12,1168,13.0,0,1,1,0,0,0,2,0,0.0,0.08,0.08,0.0,0.08,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cremonese,Sebastiano Luperto,ITA,DF,28,1996,15,15,1307,14.5,0,1,1,0,0,0,1,0,0.0,0.07,0.07,0.0,0.07,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cremonese,Simone Lottici Tessadri,ITA,MF,19,2006,1,0,6,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cremonese,Tommaso Barbieri,ITA,MF,22,2002,29,18,1707,19.0,0,1,1,0,0,0,8,0,0.0,0.05,0.05,0.0,0.05,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cremonese,Warren Bondo,FRA,MF,21,2003,27,22,1762,19.6,0,0,0,0,0,0,5,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Cremonese,Youssef Maleh,MAR,MF,26,1998,14,14,1100,12.2,1,0,1,1,0,0,2,1,0.08,0.0,0.08,0.08,0.08,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Fiorentina,Abdelhamid Sabiri,MAR,MF,28,1996,1,0,27,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Fiorentina,Albert Guðmundsson,ISL,"FW,MF",28,1997,33,27,2250,25.0,5,4,9,2,3,3,4,1,0.2,0.16,0.36,0.08,0.24,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Fiorentina,Amir Richardson,MAR,MF,23,2002,2,0,42,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Fiorentina,Cher Ndour,ITA,MF,21,2004,33,20,1876,20.8,3,0,3,3,0,0,2,0,0.14,0.0,0.14,0.14,0.14,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Fiorentina,Christian Kouamé,CIV,"FW,MF",27,1997,2,0,27,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Fiorentina,Daniele Rugani,ITA,DF,31,1994,6,4,327,3.6,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Fiorentina,David de Gea,ESP,GK,34,1990,37,37,3330,37.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Fiorentina,Dodô,BRA,"DF,MF",26,1998,36,36,3134,34.8,1,2,3,1,0,0,7,0,0.03,0.06,0.09,0.03,0.09,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Fiorentina,Eddy Kouadio,CIV,DF,19,2006,3,0,72,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Fiorentina,Edin Džeko,BIH,FW,39,1986,11,2,244,2.7,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Fiorentina,Fabiano Parisi,ITA,"MF,FW",24,2000,23,18,1520,16.9,1,1,2,1,0,0,6,0,0.06,0.06,0.12,0.06,0.12,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Fiorentina,Giovanni Fabbian,ITA,MF,22,2003,15,4,468,5.2,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Fiorentina,Hans Nicolussi Caviglia,ITA,MF,25,2000,11,7,585,6.5,0,1,1,0,0,0,4,0,0.0,0.15,0.15,0.0,0.15,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Fiorentina,Jack Harrison,ENG,"FW,MF",28,1996,15,10,981,10.9,1,3,4,1,0,0,1,0,0.09,0.28,0.37,0.09,0.37,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Fiorentina,Jacopo Fazzini,ITA,"MF,FW",22,2003,20,5,584,6.5,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Fiorentina,Luca Lezzerini,ITA,GK,30,1995,1,0,4,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Fiorentina,Luca Ranieri,ITA,DF,26,1999,34,29,2458,27.3,1,0,1,1,0,0,8,1,0.04,0.0,0.04,0.04,0.04,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Fiorentina,Luís Balbo,VEN,DF,19,2006,6,1,212,2.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Fiorentina,Manor Solomon,ISR,"FW,MF",26,1999,16,9,890,9.9,2,1,3,2,0,0,1,0,0.2,0.1,0.3,0.2,0.3,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Fiorentina,Marco Brescianini,ITA,MF,25,2000,17,10,862,9.6,1,1,2,1,0,0,1,0,0.1,0.1,0.21,0.1,0.21,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Fiorentina,Marin Pongračić,CRO,DF,27,1997,35,33,2918,32.4,0,0,0,0,0,0,12,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Fiorentina,Mattia Viti,ITA,"MF,DF",23,2002,10,2,265,2.9,0,0,0,0,0,0,3,1,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Fiorentina,Moise Kean,ITA,FW,25,2000,26,23,2036,22.6,8,1,9,6,2,2,4,0,0.35,0.04,0.4,0.27,0.31,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Fiorentina,Niccolò Fortini,ITA,MF,19,2006,16,2,541,6.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Fiorentina,Nicolò Fagioli,ITA,MF,24,2001,33,30,2554,28.4,2,3,5,2,0,0,5,0,0.07,0.11,0.18,0.07,0.18,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Fiorentina,Oliver Christensen,DEN,GK,26,1999,1,1,86,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Fiorentina,Pablo Marí,ESP,DF,31,1993,11,9,808,9.0,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Fiorentina,Pietro Comuzzo,ITA,DF,20,2005,27,18,1696,18.8,1,0,1,1,0,0,2,0,0.05,0.0,0.05,0.05,0.05,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Fiorentina,Riccardo Braschi,ITA,FW,18,2006,2,1,105,1.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Fiorentina,Roberto Piccoli,ITA,FW,24,2001,32,16,1672,18.6,4,1,5,4,0,0,1,0,0.22,0.05,0.27,0.22,0.27,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Fiorentina,Robin Gosens,GER,"DF,MF",31,1994,26,24,1881,20.9,3,1,4,3,0,0,2,0,0.14,0.05,0.19,0.14,0.19,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Fiorentina,Rolando Mandragora,ITA,MF,28,1997,34,30,2421,26.9,7,3,10,6,1,1,7,0,0.26,0.11,0.37,0.22,0.33,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Fiorentina,Simon Sohm,SUI,MF,24,2001,16,9,708,7.9,0,1,1,0,0,0,2,0,0.0,0.13,0.13,0.0,0.13,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Fiorentina,Tariq Lamptey,GHA,MF,24,2000,2,1,25,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Genoa,Aarón Martín,ESP,"MF,DF",28,1997,33,26,2156,24.0,1,5,6,1,0,1,2,0,0.04,0.21,0.25,0.04,0.25,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Genoa,Albert Grønbaek,DEN,MF,24,2001,4,1,103,1.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Genoa,Alessandro Marcandalli,ITA,DF,22,2002,32,29,2597,28.9,0,2,2,0,0,0,4,0,0.0,0.07,0.07,0.0,0.07,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Genoa,Amorim,BRA,MF,20,2005,11,6,552,6.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Genoa,Brooke Norton-Cuffy,ENG,"MF,DF",21,2004,27,25,2212,24.6,2,1,3,2,0,0,5,1,0.08,0.04,0.12,0.08,0.12,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Genoa,Caleb Ekuban,GHA,"FW,MF",31,1994,31,6,994,11.0,4,1,5,4,0,0,0,0,0.36,0.09,0.45,0.36,0.45,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Genoa,Daniele Sommariva,ITA,GK,28,1997,2,1,176,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Genoa,Filippo Carbone,ITA,MF,18,2006,1,0,8,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Genoa,Gael Lafont,FRA,FW,19,2006,1,0,8,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Genoa,Jacopo Grossi,ITA,MF,18,2006,1,0,22,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Genoa,Jean Onana,CMR,MF,25,2000,3,0,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Genoa,Jeff Ekhator,ITA,"FW,MF",18,2006,30,9,956,10.6,3,0,3,3,0,0,3,0,0.28,0.0,0.28,0.28,0.28,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Genoa,Johan Vásquez,MEX,DF,26,1998,36,36,3215,35.7,1,0,1,1,0,0,2,0,0.03,0.0,0.03,0.03,0.03,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Genoa,Joi Nuredini,ALB,FW,17,2007,1,0,2,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Genoa,Junior Messias,BRA,MF,34,1991,20,5,685,7.6,3,1,4,2,1,1,1,0,0.39,0.13,0.53,0.26,0.39,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Genoa,Justin Bijlow,NED,GK,27,1998,16,16,1395,15.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Genoa,Latif Ouedraogo,BFA,DF,17,2007,2,0,51,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Genoa,Leo Østigård,NOR,DF,25,1999,30,30,2622,29.1,5,1,6,5,0,0,7,0,0.17,0.03,0.21,0.17,0.21,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Genoa,Lorenzo Colombo,ITA,FW,23,2002,38,30,2326,25.8,7,1,8,6,1,2,2,0,0.27,0.04,0.31,0.23,0.27,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Genoa,Lorenzo Venturino,ITA,FW,19,2006,2,0,40,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Genoa,Mamedi Doucouré,FRA,DF,18,2007,1,0,9,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Genoa,Maxwel Cornet,CIV,MF,28,1996,8,1,118,1.3,0,0,0,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Genoa,Mikael Ellertsson,ISL,MF,23,2002,36,31,2767,30.7,1,1,2,1,0,0,1,1,0.03,0.03,0.07,0.03,0.07,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Genoa,Morten Frendrup,DEN,MF,24,2001,36,35,3081,34.2,1,0,1,1,0,0,5,0,0.03,0.0,0.03,0.03,0.03,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Genoa,Morten Thorsby,NOR,MF,29,1996,13,8,731,8.1,2,1,3,2,0,0,2,0,0.25,0.12,0.37,0.25,0.37,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Genoa,Nicola Leali,ITA,GK,32,1993,22,21,1847,20.5,0,0,0,0,0,0,2,1,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Genoa,Nicolae Stanciu,ROU,MF,32,1993,4,2,180,2.0,0,0,0,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Genoa,Nils Zätterström,SWE,DF,20,2005,3,2,181,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Genoa,Patrizio Masini,ITA,MF,24,2001,28,13,1413,15.7,0,1,1,0,0,0,5,0,0.0,0.06,0.06,0.0,0.06,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Genoa,Ruslan Malinovskyi,UKR,MF,32,1993,34,28,2235,24.8,6,3,9,3,3,3,10,0,0.24,0.12,0.36,0.12,0.24,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Genoa,Sebastian Otoa,DEN,DF,21,2004,13,9,829,9.2,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Genoa,Seydou Fini,ITA,FW,19,2006,1,0,32,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Genoa,Stefano Sabelli,ITA,"MF,DF",32,1993,16,12,913,10.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Genoa,Tommaso Baldanzi,ITA,MF,22,2003,8,5,399,4.4,0,2,2,0,0,0,0,0,0.0,0.45,0.45,0.0,0.45,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Genoa,Valentin Carboni,ARG,MF,20,2005,12,3,359,4.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Genoa,Vitinha,POR,"FW,MF",25,2000,35,28,2226,24.7,5,1,6,5,0,0,5,0,0.2,0.04,0.24,0.2,0.24,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Hellas Verona,Abdou Harroui,NED,MF,27,1998,23,11,907,10.1,1,0,1,0,1,1,3,0,0.1,0.0,0.1,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Hellas Verona,Al-Musrati,LBY,MF,29,1996,18,8,844,9.4,0,1,1,0,0,0,6,1,0.0,0.11,0.11,0.0,0.11,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Hellas Verona,Amin Sarr,SWE,"FW,MF",24,2001,34,9,1102,12.2,0,1,1,0,0,0,2,1,0.0,0.08,0.08,0.0,0.08,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Hellas Verona,Andrias Edmundsson,FRO,DF,24,2000,15,15,1319,14.7,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Hellas Verona,Antoine Bernede,FRA,MF,26,1999,32,29,2301,25.6,1,2,3,1,0,0,2,0,0.04,0.08,0.12,0.04,0.12,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Hellas Verona,Armel Bella Kotchap,GER,DF,23,2001,19,14,1347,15.0,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Hellas Verona,Cheikh Niasse,SEN,MF,25,2000,19,11,970,10.8,0,1,1,0,0,0,1,0,0.0,0.09,0.09,0.0,0.09,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Hellas Verona,Daniel Mosquera,COL,FW,25,1999,22,5,597,6.6,0,2,2,0,0,0,1,0,0.0,0.3,0.3,0.0,0.3,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Hellas Verona,Daniel Oyegoke,ENG,"MF,DF",22,2003,15,8,594,6.6,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Hellas Verona,Domagoj Bradarić,CRO,MF,25,1999,29,23,1966,21.8,0,1,1,0,0,0,2,0,0.0,0.05,0.05,0.0,0.05,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Hellas Verona,Enzo Ebosse,CMR,DF,26,1999,4,3,214,2.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Hellas Verona,Fallou Cham,GAM,MF,19,2006,6,3,228,2.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Hellas Verona,Gift Orban,NGA,FW,23,2002,28,23,2027,22.5,7,2,9,5,2,2,4,1,0.31,0.09,0.4,0.22,0.31,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Hellas Verona,Giovane,BRA,"FW,MF",21,2003,21,19,1533,17.0,3,4,7,3,0,0,2,0,0.18,0.23,0.41,0.18,0.41,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Hellas Verona,Grigoris Kastanos,CYP,MF,27,1998,6,0,44,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Hellas Verona,Ioan Vermeșan,ROU,FW,18,2006,6,0,80,0.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Hellas Verona,Isaac,BRA,FW,21,2004,3,0,40,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Hellas Verona,Jean-Daniel Akpa-Akpro,CIV,MF,32,1992,22,17,1504,16.7,1,0,1,1,0,0,9,0,0.06,0.0,0.06,0.06,0.06,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Hellas Verona,Junior Ajayi,CIV,FW,20,2004,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Hellas Verona,Kieron Bowie,SCO,FW,22,2002,14,14,1200,13.3,4,0,4,4,0,0,1,0,0.3,0.0,0.3,0.3,0.3,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Hellas Verona,Lorenzo Montipò,ITA,GK,29,1996,35,35,3150,35.0,0,1,1,0,0,0,0,0,0.0,0.03,0.03,0.0,0.03,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Hellas Verona,Martin Frese,DEN,"MF,DF",27,1998,31,27,2408,26.8,2,0,2,2,0,0,8,0,0.07,0.0,0.07,0.07,0.07,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Hellas Verona,Nicolás Valentini,ARG,DF,24,2001,21,15,1409,15.7,0,0,0,0,0,0,8,1,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Hellas Verona,Pol Lirola,ESP,MF,27,1997,6,3,305,3.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Hellas Verona,Rafik Belghali,ALG,MF,23,2002,26,22,1920,21.3,2,0,2,2,0,0,6,0,0.09,0.0,0.09,0.09,0.09,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Hellas Verona,Roberto Gagliardini,ITA,MF,31,1994,29,25,2272,25.2,1,0,1,1,0,0,9,0,0.04,0.0,0.04,0.04,0.04,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Hellas Verona,Sandi Lovrić,SVN,MF,27,1998,7,3,309,3.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Hellas Verona,Simone Perilli,ITA,GK,30,1995,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Hellas Verona,Suat Serdar,GER,MF,28,1997,20,12,1108,12.3,2,0,2,2,0,0,3,0,0.16,0.0,0.16,0.16,0.16,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Hellas Verona,Tobias Slotsager,DEN,DF,19,2006,8,4,446,5.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Hellas Verona,Tomáš Suslov,SVK,FW,23,2002,11,5,446,5.0,0,0,0,0,0,0,1,1,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Hellas Verona,Unai Núñez,ESP,DF,28,1997,17,15,1265,14.1,0,0,0,0,0,0,6,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Hellas Verona,Victor Nelsson,DEN,DF,26,1998,38,37,3315,36.8,0,0,0,0,0,0,4,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Hellas Verona,Yellu Santiago,ESP,MF,21,2004,2,0,6,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Inter,Alessandro Bastoni,ITA,DF,26,1999,28,28,2239,24.9,1,4,5,1,0,0,6,0,0.04,0.16,0.2,0.04,0.2,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Inter,Andy Diouf,FRA,MF,22,2003,19,4,493,5.5,1,0,1,1,0,0,1,0,0.18,0.0,0.18,0.18,0.18,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Inter,Ange-Yoan Bonny,CIV,FW,21,2003,33,10,1142,12.7,5,4,9,5,0,0,1,0,0.39,0.32,0.71,0.39,0.71,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Inter,Benjamin Pavard,FRA,DF,29,1996,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Inter,Carlos Augusto,BRA,"MF,DF",26,1999,34,18,1763,19.6,1,1,2,1,0,0,6,0,0.05,0.05,0.1,0.05,0.1,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Inter,Davide Frattesi,ITA,MF,25,1999,22,3,569,6.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Inter,Denzel Dumfries,NED,MF,29,1996,20,15,1325,14.7,3,1,4,3,0,0,2,0,0.2,0.07,0.27,0.2,0.27,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Inter,Federico Dimarco,ITA,MF,27,1997,35,30,2698,30.0,7,16,23,7,0,0,3,0,0.23,0.53,0.77,0.23,0.77,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Inter,Francesco Acerbi,ITA,DF,37,1988,18,15,1378,15.3,0,1,1,0,0,0,3,0,0.0,0.07,0.07,0.0,0.07,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Inter,Francesco Esposito,ITA,FW,20,2005,35,15,1571,17.5,7,3,10,7,0,0,1,0,0.4,0.17,0.57,0.4,0.57,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Inter,Hakan Çalhanoğlu,TUR,MF,31,1994,22,20,1639,18.2,9,4,13,5,4,5,7,0,0.49,0.22,0.71,0.27,0.49,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Inter,Henrikh Mkhitaryan,ARM,MF,36,1989,30,16,1560,17.3,4,1,5,4,0,0,5,0,0.23,0.06,0.29,0.23,0.29,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Inter,Josep Martinez,ESP,GK,27,1998,5,5,450,5.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Inter,Lautaro Martínez,ARG,FW,27,1997,30,27,2159,24.0,17,6,23,17,0,0,4,0,0.71,0.25,0.96,0.71,0.96,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Inter,Luis Henrique,BRA,MF,23,2001,30,18,1624,18.0,1,2,3,1,0,0,1,0,0.06,0.11,0.17,0.06,0.17,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Inter,Luka Topalović,SVN,MF,19,2006,1,0,10,0.1,0,1,1,0,0,0,0,0,0.0,9.0,9.0,0.0,9.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Inter,Manuel Akanji,SUI,DF,30,1995,33,31,2821,31.3,2,0,2,2,0,0,4,0,0.06,0.0,0.06,0.06,0.06,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Inter,Marcus Thuram,FRA,FW,27,1997,29,24,1900,21.1,13,6,19,13,0,0,2,0,0.62,0.28,0.9,0.62,0.9,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Inter,Matteo Cocchi,ITA,DF,18,2007,1,0,17,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Inter,Matteo Darmian,ITA,"MF,DF",35,1989,6,2,248,2.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Inter,Matteo Lavelli,ITA,FW,18,2006,1,0,8,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Inter,Mattia Mosconi,ITA,FW,18,2007,2,0,27,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Inter,Nicolò Barella,ITA,MF,28,1997,34,31,2517,28.0,3,8,11,3,0,0,7,0,0.11,0.29,0.39,0.11,0.39,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Inter,Petar Sučić,CRO,MF,21,2003,34,21,1765,19.6,2,2,4,2,0,0,5,0,0.1,0.1,0.2,0.1,0.2,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Inter,Piotr Zieliński,POL,MF,31,1994,34,22,2045,22.7,6,3,9,5,1,1,3,0,0.26,0.13,0.4,0.22,0.35,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Inter,Raffaele Di Gennaro,ITA,GK,31,1993,1,0,10,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Inter,Stefan de Vrij,NED,DF,33,1992,11,8,670,7.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Inter,Yann Aurel Bisseck,GER,DF,24,2000,23,21,1922,21.4,3,1,4,3,0,0,2,0,0.14,0.05,0.19,0.14,0.19,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Inter,Yann Sommer,SUI,GK,36,1988,33,33,2960,32.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Juventus,Andrea Cambiaso,ITA,"MF,DF",25,2000,36,35,2769,30.8,3,4,7,3,0,0,3,1,0.1,0.13,0.23,0.1,0.23,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Juventus,Arkadiusz Milik,POL,FW,31,1994,2,0,36,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Juventus,Daniele Rugani,ITA,DF,31,1994,6,3,250,2.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Juventus,Dušan Vlahović,SRB,FW,25,2000,19,11,968,10.8,7,1,8,6,1,1,0,0,0.65,0.09,0.74,0.56,0.65,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Juventus,Edon Zhegrova,KVX,MF,26,1999,19,0,382,4.2,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Juventus,Emil Holm,SWE,MF,25,2000,7,2,230,2.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Juventus,Fabio Miretti,ITA,MF,21,2003,23,5,617,6.9,1,2,3,1,0,0,1,0,0.15,0.29,0.44,0.15,0.44,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Juventus,Federico Gatti,ITA,DF,27,1998,21,12,1093,12.1,2,0,2,2,0,0,3,0,0.16,0.0,0.16,0.16,0.16,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Juventus,Filip Kostić,SRB,MF,32,1992,18,4,479,5.3,3,1,4,3,0,0,1,0,0.56,0.19,0.75,0.56,0.75,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Juventus,Francisco Conceição,POR,"MF,FW",22,2002,31,27,2078,23.1,3,5,8,3,0,0,3,0,0.13,0.22,0.35,0.13,0.35,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Juventus,Gleison Bremer,BRA,DF,28,1997,26,25,2171,24.1,4,3,7,4,0,0,5,0,0.17,0.12,0.29,0.17,0.29,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Juventus,Jeremie Boga,CIV,"MF,FW",28,1997,15,6,679,7.5,4,0,4,4,0,0,1,0,0.53,0.0,0.53,0.53,0.53,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Juventus,Jonathan David,CAN,FW,25,2000,35,20,1781,19.8,6,4,10,6,0,1,0,0,0.3,0.2,0.51,0.3,0.51,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Juventus,João Mário Lopes,POR,MF,25,2000,10,2,258,2.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Juventus,Juan David Cabal,COL,MF,24,2001,12,2,296,3.3,2,0,2,2,0,0,1,0,0.61,0.0,0.61,0.61,0.61,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Juventus,Kenan Yıldız,TUR,"MF,FW",20,2005,36,33,2825,31.4,10,6,16,9,1,2,2,0,0.32,0.19,0.51,0.29,0.48,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Juventus,Khéphren Thuram,FRA,MF,24,2001,35,30,2442,27.1,3,3,6,3,0,0,2,0,0.11,0.11,0.22,0.11,0.22,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Juventus,Lloyd Kelly,ENG,DF,26,1998,35,33,2996,33.3,1,1,2,1,0,0,4,0,0.03,0.03,0.06,0.03,0.06,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Juventus,Loïs Openda,BEL,"FW,MF",25,2000,24,6,666,7.4,1,0,1,1,0,0,0,0,0.14,0.0,0.14,0.14,0.14,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Juventus,Manuel Locatelli,ITA,MF,27,1998,36,36,2994,33.3,1,2,3,1,0,1,9,0,0.03,0.06,0.09,0.03,0.09,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Juventus,Mattia Perin,ITA,GK,32,1992,9,9,765,8.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Juventus,Michele Di Gregorio,ITA,GK,28,1997,30,29,2655,29.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Juventus,Nicolás González,ARG,"FW,MF",27,1998,2,0,19,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Juventus,Pierre Kalulu,FRA,"DF,MF",25,2000,37,37,3281,36.5,2,4,6,2,0,0,4,1,0.05,0.11,0.16,0.05,0.16,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Juventus,Teun Koopmeiners,NED,"MF,DF",27,1998,33,18,1827,20.3,0,0,0,0,0,0,5,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Juventus,Vasilije Adžić,MNE,MF,19,2006,10,1,171,1.9,1,0,1,1,0,0,0,0,0.53,0.0,0.53,0.53,0.53,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Juventus,Weston McKennie,USA,MF,26,1998,36,32,2835,31.5,5,5,10,5,0,0,5,0,0.16,0.16,0.32,0.16,0.32,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lazio,Adam Marušić,MNE,DF,32,1992,33,32,2778,30.9,1,2,3,1,0,0,1,1,0.03,0.06,0.1,0.03,0.1,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lazio,Adrian Przyborek,POL,MF,18,2007,1,0,9,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lazio,Alessio Furlanetto,ITA,GK,23,2002,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lazio,Alessio Romagnoli,ITA,DF,30,1995,32,31,2666,29.6,0,0,0,0,0,0,6,1,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lazio,Boulaye Dia,SEN,"FW,MF",28,1996,27,14,1253,13.9,1,2,3,1,0,0,1,0,0.07,0.14,0.22,0.07,0.22,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lazio,Daniel Maldini,ITA,FW,23,2001,12,9,687,7.6,2,1,3,2,0,0,0,0,0.26,0.13,0.39,0.26,0.39,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lazio,Danilo Cataldi,ITA,MF,30,1994,27,24,1985,22.1,3,3,6,1,2,2,6,0,0.14,0.14,0.27,0.05,0.18,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lazio,Edoardo Motta,ITA,GK,20,2005,9,9,810,9.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lazio,Elseid Hysaj,ALB,DF,31,1994,5,1,174,1.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lazio,Fisayo Dele-Bashiru,NGA,MF,24,2001,24,11,1187,13.2,1,0,1,1,0,0,0,0,0.08,0.0,0.08,0.08,0.08,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lazio,Gustav Isaksen,DEN,FW,24,2001,30,18,1593,17.7,5,1,6,5,0,0,0,0,0.28,0.06,0.34,0.28,0.34,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lazio,Ivan Provedel,ITA,GK,31,1994,27,27,2430,27.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lazio,Kenneth Taylor,NED,MF,23,2002,17,17,1394,15.5,3,2,5,3,0,0,5,0,0.19,0.13,0.32,0.19,0.32,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lazio,Luca Pellegrini,ITA,DF,26,1999,24,17,1469,16.3,1,0,1,1,0,0,8,0,0.06,0.0,0.06,0.06,0.06,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lazio,Manuel Lazzari,ITA,DF,31,1993,23,9,938,10.4,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lazio,Mario Gila,ESP,DF,24,2000,31,31,2472,27.5,0,0,0,0,0,0,4,1,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lazio,Matteo Cancellieri,ITA,FW,23,2002,30,21,1725,19.2,4,2,6,4,0,0,6,0,0.21,0.1,0.31,0.21,0.31,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lazio,Mattia Zaccagni,ITA,FW,30,1995,26,26,2104,23.4,3,0,3,3,0,1,6,1,0.13,0.0,0.13,0.13,0.13,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lazio,Mattéo Guendouzi,FRA,MF,26,1999,16,16,1428,15.9,2,1,3,2,0,0,5,1,0.13,0.06,0.19,0.13,0.19,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lazio,Matías Vecino,URU,MF,33,1991,13,5,603,6.7,0,1,1,0,0,0,1,0,0.0,0.15,0.15,0.0,0.15,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lazio,Nicolò Rovella,ITA,MF,23,2001,11,6,512,5.7,0,1,1,0,0,0,2,1,0.0,0.18,0.18,0.0,0.18,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lazio,Nuno Tavares,POR,DF,25,2000,23,17,1473,16.4,0,0,0,0,0,0,5,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lazio,Oliver Nielsen,DEN,DF,22,2003,26,13,1536,17.1,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lazio,Patric,ESP,"MF,DF",32,1993,14,6,667,7.4,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lazio,Pedro,ESP,"FW,MF",38,1987,29,9,982,10.9,5,2,7,3,2,2,4,0,0.46,0.18,0.64,0.27,0.46,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lazio,Petar Ratkov,SRB,FW,21,2003,8,2,233,2.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lazio,Reda Belahyane,MAR,MF,21,2004,13,5,609,6.8,0,2,2,0,0,0,1,1,0.0,0.3,0.3,0.0,0.3,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lazio,Tijjani Noslin,NED,FW,26,1999,29,9,1148,12.8,4,2,6,4,0,0,6,1,0.31,0.16,0.47,0.31,0.47,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lazio,Toma Bašić,CRO,MF,28,1996,23,23,1735,19.3,2,3,5,2,0,0,0,1,0.1,0.16,0.26,0.1,0.26,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lazio,Valentín Castellanos,ARG,FW,26,1998,11,8,692,7.7,2,3,5,2,0,0,2,0,0.26,0.39,0.65,0.26,0.65,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lecce,Antonino Gallo,ITA,DF,25,2000,37,34,3056,34.0,0,4,4,0,0,0,3,0,0.0,0.12,0.12,0.0,0.12,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lecce,Balthazar Pierret,FRA,MF,25,2000,3,0,27,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lecce,Christ-Owen Kouassi,FRA,DF,22,2003,4,3,228,2.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lecce,Corrie Ndaba,IRL,DF,25,1999,14,6,543,6.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lecce,Danilo Veiga,POR,DF,22,2002,36,33,3020,33.6,0,1,1,0,0,0,9,0,0.0,0.03,0.03,0.0,0.03,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lecce,Francesco Camarda,ITA,FW,17,2008,21,7,687,7.6,1,0,1,1,0,1,1,0,0.13,0.0,0.13,0.13,0.13,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lecce,Gaby Jean,FRA,DF,25,2000,7,1,197,2.2,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lecce,Jamil Siebert,GER,DF,23,2002,21,18,1701,18.9,1,0,1,1,0,0,3,0,0.05,0.0,0.05,0.05,0.05,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lecce,Kialonda,ANG,DF,27,1997,23,21,1830,20.3,0,0,0,0,0,0,6,1,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lecce,Konan N'dri,NIG,MF,24,2000,27,1,544,6.0,2,0,2,2,0,0,3,0,0.33,0.0,0.33,0.33,0.33,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lecce,Lameck Banda,ZAM,"MF,FW",24,2001,32,21,1752,19.5,5,4,9,5,0,0,6,1,0.26,0.21,0.46,0.26,0.46,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lecce,Lassana Coulibaly,MLI,MF,29,1996,33,31,2689,29.9,3,1,4,3,0,0,4,0,0.1,0.03,0.13,0.1,0.13,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lecce,Matías Pérez,CHI,DF,20,2005,1,1,31,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lecce,Medon Berisha,ALB,MF,21,2003,13,12,871,9.7,2,3,5,2,0,0,0,0,0.21,0.31,0.52,0.21,0.52,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lecce,Mohamed Kaba,GUI,MF,23,2001,15,5,633,7.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lecce,Nikola Štulić,SRB,FW,23,2001,34,20,1709,19.0,4,0,4,3,1,1,1,0,0.21,0.0,0.21,0.16,0.16,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lecce,Olaf Gorter,NED,MF,20,2005,2,0,28,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lecce,Omri Gandelman,ISR,"MF,FW",25,2000,19,10,975,10.8,2,1,3,2,0,0,0,0,0.18,0.09,0.28,0.18,0.28,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lecce,Oumar Ngom,MTN,MF,21,2004,15,10,842,9.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lecce,Riccardo Sottil,ITA,"FW,MF",26,1999,21,13,1066,11.8,1,2,3,1,0,0,1,0,0.08,0.17,0.25,0.08,0.25,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lecce,Sadik Fofana,TOG,MF,22,2003,5,1,84,0.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lecce,Santiago Pierotti,ARG,"MF,FW",24,2001,37,31,2597,28.9,1,2,3,1,0,0,4,0,0.03,0.07,0.1,0.03,0.1,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lecce,Tete Morente,ESP,"FW,MF",28,1996,16,9,859,9.5,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lecce,Tiago Gabriel,POR,DF,20,2004,37,36,3219,35.8,2,0,2,2,0,0,7,0,0.06,0.0,0.06,0.06,0.06,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lecce,Walid Cheddira,MAR,FW,27,1998,17,11,1000,11.1,3,1,4,3,0,0,2,0,0.27,0.09,0.36,0.27,0.36,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lecce,Wladimiro Falcone,ITA,GK,30,1995,38,38,3420,38.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lecce,Ylber Ramadani,ALB,MF,29,1996,37,37,3203,35.6,1,0,1,1,0,0,10,0,0.03,0.0,0.03,0.03,0.03,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lecce,Youssef Maleh,MAR,MF,26,1998,9,5,460,5.1,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lecce,Álex Sala,ESP,MF,24,2001,9,2,167,1.9,0,1,1,0,0,0,0,0,0.0,0.54,0.54,0.0,0.54,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Lecce,Þórir Jóhann Helgason,ISL,MF,24,2000,8,1,147,1.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Milan,Adrien Rabiot,FRA,MF,30,1995,29,28,2550,28.3,6,4,10,6,0,0,6,1,0.21,0.14,0.35,0.21,0.35,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Milan,Alexis Saelemaekers,BEL,MF,26,1999,35,33,2788,31.0,3,3,6,3,0,0,5,0,0.1,0.1,0.19,0.1,0.19,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Milan,Ardon Jashari,SUI,MF,23,2002,14,7,701,7.8,0,1,1,0,0,0,0,0,0.0,0.13,0.13,0.0,0.13,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Milan,Cheveyo Muy,NED,FW,18,2006,2,0,5,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Milan,Christian Pulisic,USA,FW,26,1998,30,18,1609,17.9,8,4,12,8,0,1,0,0,0.45,0.22,0.67,0.45,0.67,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Milan,Christopher Nkunku,FRA,FW,27,1997,32,15,1356,15.1,7,3,10,2,5,5,0,0,0.46,0.2,0.66,0.13,0.33,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Milan,David Odogu,GER,DF,19,2006,2,0,6,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Milan,Davide Bartesaghi,ITA,"MF,DF",19,2005,31,27,2441,27.1,2,0,2,2,0,0,3,0,0.07,0.0,0.07,0.07,0.07,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Milan,Fikayo Tomori,ENG,DF,27,1997,33,31,2554,28.4,0,2,2,0,0,0,8,1,0.0,0.07,0.07,0.0,0.07,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Milan,Koni De Winter,BEL,DF,23,2002,26,19,1800,20.0,1,1,2,1,0,0,1,0,0.05,0.05,0.1,0.05,0.1,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Milan,Luka Modrić,CRO,MF,39,1985,34,32,2811,31.2,2,3,5,2,0,0,4,0,0.06,0.1,0.16,0.06,0.16,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Milan,Matteo Gabbia,ITA,DF,25,1999,30,28,2530,28.1,0,0,0,0,0,0,4,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Milan,Mike Maignan,FRA,GK,30,1995,37,37,3295,36.6,0,0,0,0,0,0,4,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Milan,Niclas Füllkrug,GER,FW,32,1993,20,3,659,7.3,1,0,1,1,0,1,0,0,0.14,0.0,0.14,0.14,0.14,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Milan,Pervis Estupiñán,ECU,MF,27,1998,19,13,1034,11.5,1,1,2,1,0,0,5,1,0.09,0.09,0.17,0.09,0.17,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Milan,Pietro Terracciano,ITA,GK,35,1990,2,1,125,1.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Milan,Rafael Leão,POR,FW,26,1999,29,23,1851,20.6,9,3,12,7,2,2,5,0,0.44,0.15,0.58,0.34,0.49,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Milan,Ruben Loftus-Cheek,ENG,"MF,FW",29,1996,28,12,1133,12.6,3,1,4,3,0,0,2,0,0.24,0.08,0.32,0.24,0.32,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Milan,Samuel Chukwueze,NGA,"FW,MF",26,1999,1,0,26,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Milan,Samuele Ricci,ITA,MF,23,2001,31,11,1312,14.6,1,4,5,1,0,0,3,0,0.07,0.27,0.34,0.07,0.34,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Milan,Santiago Giménez,MEX,FW,24,2001,16,11,892,9.9,0,1,1,0,0,0,2,0,0.0,0.1,0.1,0.0,0.1,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Milan,Strahinja Pavlović,SRB,DF,24,2001,34,33,2869,31.9,5,1,6,5,0,0,4,0,0.16,0.03,0.19,0.16,0.19,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Milan,Youssouf Fofana,FRA,MF,26,1999,33,28,2203,24.5,2,3,5,2,0,0,4,0,0.08,0.12,0.2,0.08,0.2,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Milan,Yunus Musah,USA,MF,22,2002,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Milan,Zachary Athekame,SUI,"MF,DF",20,2004,27,7,833,9.3,2,2,4,2,0,0,3,0,0.22,0.22,0.43,0.22,0.43,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Milan,Álex Jiménez,ESP,DF,20,2005,1,0,45,0.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Napoli,Alessandro Buongiorno,ITA,DF,26,1999,33,28,2521,28.0,0,1,1,0,0,0,3,0,0.0,0.04,0.04,0.0,0.04,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Napoli,Alex Meret,ITA,GK,28,1997,11,11,979,10.9,0,1,1,0,0,0,1,0,0.0,0.09,0.09,0.0,0.09,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Napoli,Alisson Santos,BRA,"MF,FW",22,2002,14,9,834,9.3,4,0,4,4,0,0,1,0,0.43,0.0,0.43,0.43,0.43,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Napoli,Amir Rrahmani,KVX,DF,31,1994,21,21,1795,19.9,2,1,3,2,0,0,2,0,0.1,0.05,0.15,0.1,0.15,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Napoli,Antonio Vergara,ITA,MF,22,2003,12,8,612,6.8,1,2,3,1,0,0,2,0,0.15,0.29,0.44,0.15,0.44,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Napoli,Billy Gilmour,SCO,MF,24,2001,17,8,805,8.9,1,0,1,1,0,0,1,0,0.11,0.0,0.11,0.11,0.11,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Napoli,David Neres,BRA,"FW,MF",28,1997,16,10,922,10.2,3,3,6,3,0,0,3,0,0.29,0.29,0.59,0.29,0.59,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Napoli,Elif Elmas,MKD,"MF,FW",25,1999,33,20,1783,19.8,1,3,4,1,0,0,3,0,0.05,0.15,0.2,0.05,0.2,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Napoli,Frank Anguissa,CMR,MF,29,1995,18,14,1258,14.0,4,1,5,4,0,0,1,0,0.29,0.07,0.36,0.29,0.36,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Napoli,Giovane,BRA,"MF,FW",21,2003,12,2,338,3.8,0,1,1,0,0,0,0,0,0.0,0.27,0.27,0.0,0.27,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Napoli,Giovanni Di Lorenzo,ITA,"DF,MF",31,1993,26,26,2276,25.3,2,1,3,2,0,0,1,0,0.08,0.04,0.12,0.08,0.12,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Napoli,Giuseppe Ambrosino,ITA,FW,21,2003,3,0,38,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Napoli,Juan Jesus,BRA,DF,34,1991,24,19,1675,18.6,0,0,0,0,0,0,10,1,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Napoli,Kevin De Bruyne,BEL,MF,34,1991,18,13,1165,12.9,5,2,7,2,3,3,1,0,0.39,0.15,0.54,0.15,0.31,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Napoli,Leonardo Spinazzola,ITA,"MF,DF",32,1993,32,22,1901,21.1,3,3,6,3,0,0,2,0,0.14,0.14,0.28,0.14,0.28,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Napoli,Lorenzo Lucca,ITA,FW,24,2000,16,4,408,4.5,1,0,1,1,0,0,1,0,0.22,0.0,0.22,0.22,0.22,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Napoli,Luca Marianucci,ITA,DF,21,2004,2,1,119,1.3,0,1,1,0,0,0,0,0,0.0,0.76,0.76,0.0,0.76,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Napoli,Mathías Olivera,URU,"DF,MF",27,1997,25,15,1370,15.2,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Napoli,Matteo Politano,ITA,"MF,FW",31,1993,34,26,2200,24.4,2,5,7,2,0,0,4,0,0.08,0.2,0.29,0.08,0.29,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Napoli,Miguel Gutiérrez,ESP,"MF,DF",24,2001,28,15,1488,16.5,1,1,2,1,0,0,0,0,0.06,0.06,0.12,0.06,0.12,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Napoli,Nikita Contini,ITA,GK,29,1996,1,0,11,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Napoli,Noa Lang,NED,"FW,MF",26,1999,18,7,666,7.4,1,2,3,1,0,0,2,0,0.14,0.27,0.41,0.14,0.41,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Napoli,Pasquale Mazzocchi,ITA,MF,30,1995,16,2,310,3.4,0,1,1,0,0,0,0,1,0.0,0.29,0.29,0.0,0.29,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Napoli,Rasmus Højlund,DEN,FW,22,2003,33,32,2750,30.6,12,5,17,11,1,1,1,0,0.39,0.16,0.56,0.36,0.52,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Napoli,Romelu Lukaku,BEL,FW,32,1993,5,0,44,0.5,1,0,1,1,0,0,1,0,2.05,0.0,2.05,2.05,2.05,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Napoli,Sam Beukema,NED,DF,26,1998,24,18,1681,18.7,2,0,2,2,0,0,2,0,0.11,0.0,0.11,0.11,0.11,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Napoli,Scott McTominay,SCO,MF,28,1996,33,31,2791,31.0,10,3,13,10,0,1,1,0,0.32,0.1,0.42,0.32,0.42,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Napoli,Stanislav Lobotka,SVK,MF,30,1994,32,29,2431,27.0,1,1,2,1,0,0,3,0,0.04,0.04,0.07,0.04,0.07,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Napoli,Vanja Milinković-Savić,SRB,GK,28,1997,27,27,2430,27.0,0,1,1,0,0,0,0,0,0.0,0.04,0.04,0.0,0.04,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Parma,Abdoulaye Ndiaye,SEN,DF,23,2002,11,9,780,8.7,0,0,0,0,0,0,5,1,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Parma,Adrian Benedyczak,POL,FW,24,2000,14,5,490,5.4,1,1,2,0,1,1,1,0,0.18,0.18,0.37,0.0,0.18,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Parma,Adrian Bernabe,ESP,MF,24,2001,32,31,2470,27.4,3,1,4,3,0,0,0,0,0.11,0.04,0.15,0.11,0.15,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Parma,Alessandro Cardinali,ITA,FW,19,2006,1,0,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Parma,Alessandro Circati,AUS,DF,21,2003,31,31,2664,29.6,1,0,1,1,0,0,6,0,0.03,0.0,0.03,0.03,0.03,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Parma,Ben Cremaschi,USA,MF,20,2005,8,2,132,1.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Parma,Christian Ordoñez,ARG,MF,21,2004,28,12,1091,12.1,1,0,1,1,0,0,5,1,0.08,0.0,0.08,0.08,0.08,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Parma,Daniel Mikołajewski,POL,FW,19,2006,3,1,70,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Parma,Edoardo Corvi,ITA,GK,24,2001,17,17,1530,17.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Parma,Emanuele Valeri,ITA,"MF,DF",26,1998,34,29,2643,29.4,0,2,2,0,0,0,2,0,0.0,0.07,0.07,0.0,0.07,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Parma,Enrico Delprato,ITA,"DF,MF",25,1999,35,34,2951,32.8,2,0,2,2,0,0,5,0,0.06,0.0,0.06,0.06,0.06,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Parma,Filippo Rinaldi,ITA,GK,22,2002,1,1,90,1.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Parma,Franco Carboni,ITA,MF,22,2003,7,1,114,1.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Parma,Gabriel Strefezza,BRA,FW,28,1997,14,13,1007,11.2,2,2,4,2,0,0,3,0,0.18,0.18,0.36,0.18,0.36,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Parma,Gaetano Oristanio,ITA,"FW,MF",22,2002,20,8,859,9.5,1,0,1,1,0,0,1,0,0.1,0.0,0.1,0.1,0.1,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Parma,Hans Nicolussi Caviglia,ITA,MF,25,2000,15,10,869,9.7,0,3,3,0,0,0,0,0,0.0,0.31,0.31,0.0,0.31,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Parma,Hernani,BRA,MF,31,1994,4,0,73,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Parma,Jacob Ondrejka,SWE,"FW,MF",22,2002,16,9,773,8.6,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Parma,Lautaro Valenti,ARG,DF,26,1999,27,25,2252,25.0,0,0,0,0,0,0,7,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Parma,Mandela Keita,BEL,MF,23,2002,37,36,2979,33.1,1,1,2,1,0,0,1,0,0.03,0.03,0.06,0.03,0.06,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Parma,Mariano Troilo,ARG,DF,22,2003,21,18,1625,18.1,1,0,1,1,0,0,8,2,0.06,0.0,0.06,0.06,0.06,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Parma,Mateo Pellegrino,ARG,FW,24,2001,37,34,2984,33.2,9,1,10,8,1,1,5,0,0.27,0.03,0.3,0.24,0.27,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Parma,Mathias Løvik,NOR,MF,21,2003,9,5,471,5.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Parma,Milan Đurić,BIH,FW,35,1990,12,0,74,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Parma,Nahuel Estévez,ARG,MF,29,1995,32,9,1049,11.7,0,1,1,0,0,0,2,0,0.0,0.09,0.09,0.0,0.09,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Parma,Nesta Elphege,FRA,FW,24,2001,9,2,309,3.4,2,1,3,2,0,0,0,0,0.58,0.29,0.87,0.58,0.87,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Parma,Oliver Jensen,DEN,MF,23,2002,34,19,1840,20.4,1,1,2,1,0,0,2,0,0.05,0.05,0.1,0.05,0.1,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Parma,Patrick Cutrone,ITA,FW,27,1998,15,11,888,9.9,1,0,1,1,0,0,0,0,0.1,0.0,0.1,0.1,0.1,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Parma,Pontus Almqvist,SWE,MF,26,1999,13,4,457,5.1,0,1,1,0,0,0,0,0,0.0,0.2,0.2,0.0,0.2,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Parma,Sascha Britschgi,SUI,"MF,DF",18,2006,29,22,2095,23.3,0,2,2,0,0,0,7,1,0.0,0.09,0.09,0.0,0.09,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Parma,Tjaš Begić,SVN,MF,22,2003,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Parma,Zion Suzuki,JPN,GK,22,2002,20,20,1800,20.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Pisa,Adrian Šemper,CRO,GK,27,1998,25,25,2250,25.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Pisa,Antonio Caracciolo,ITA,DF,35,1990,35,34,3073,34.1,2,0,2,2,0,0,10,0,0.06,0.0,0.06,0.06,0.06,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Pisa,Arturo Calabresi,ITA,DF,29,1996,26,17,1514,16.8,0,0,0,0,0,0,8,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Pisa,Brando Bettazzi,ITA,MF,17,2007,1,0,14,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Pisa,Calvin Stengs,NED,"FW,MF",26,1998,4,0,46,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Pisa,Daniel Denoon,SUI,DF,21,2004,2,2,122,1.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Pisa,Ebenezer Akinsanmiro,NGA,MF,20,2004,24,16,1444,16.0,0,1,1,0,0,0,2,0,0.0,0.06,0.06,0.0,0.06,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Pisa,Felipe Loyola,CHI,MF,24,2000,11,6,538,6.0,1,0,1,1,0,0,0,1,0.17,0.0,0.17,0.17,0.17,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Pisa,Filip Stojilković,SUI,"FW,MF",25,2000,13,8,658,7.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Pisa,Francesco Coppola,ITA,DF,20,2005,7,5,458,5.1,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Pisa,Gabriele Piccinini,ITA,MF,24,2001,25,5,875,9.7,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Pisa,Giovanni Bonfanti,ITA,"DF,MF",22,2003,9,6,494,5.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Pisa,Henrik Meister,DEN,FW,21,2003,28,15,1515,16.8,2,0,2,2,0,0,2,0,0.12,0.0,0.12,0.12,0.12,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Pisa,Idrissa Touré,GER,MF,27,1998,32,26,2279,25.3,1,0,1,1,0,0,4,1,0.04,0.0,0.04,0.04,0.04,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Pisa,Juan Cuadrado,COL,MF,37,1988,19,2,506,5.6,1,0,1,0,1,1,3,0,0.18,0.0,0.18,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Pisa,Lorran,BRA,FW,19,2006,9,0,122,1.4,1,0,1,1,0,0,0,0,0.74,0.0,0.74,0.74,0.74,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Pisa,Louis Buffon,CZE,FW,17,2007,4,0,32,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Pisa,M'Bala Nzola,ANG,FW,28,1996,16,11,1052,11.7,3,0,3,1,2,3,1,1,0.26,0.0,0.26,0.09,0.09,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Pisa,Malthe Hojholt,DEN,MF,24,2001,17,9,850,9.4,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Pisa,Marius Marin,ROU,MF,26,1998,23,18,1281,14.2,0,0,0,0,0,0,7,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Pisa,Mateus Lusuardi,BRA,DF,21,2004,3,3,198,2.2,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Pisa,Mattéo Tramoni,FRA,"MF,FW",25,2000,27,21,1600,17.8,2,2,4,1,1,1,3,0,0.11,0.11,0.23,0.06,0.17,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Pisa,Mehdi Léris,ALG,MF,27,1998,34,21,1900,21.1,2,3,5,2,0,0,2,0,0.09,0.14,0.24,0.09,0.24,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Pisa,Michel Aebischer,SUI,MF,28,1997,35,33,2892,32.1,1,2,3,1,0,0,8,0,0.03,0.06,0.09,0.03,0.09,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Pisa,Nícolas Andrade,BRA,GK,37,1988,6,6,540,6.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Pisa,Rafiu Durosinmi,NGA,FW,22,2003,12,4,432,4.8,1,1,2,1,0,0,1,1,0.21,0.21,0.42,0.21,0.42,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Pisa,Raúl Albiol,ESP,DF,39,1985,8,5,500,5.6,0,1,1,0,0,0,1,0,0.0,0.18,0.18,0.0,0.18,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Pisa,Rosen Bozhinov,BUL,DF,20,2005,9,8,610,6.8,0,0,0,0,0,0,3,1,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Pisa,Samuel Iling-Junior,ENG,MF,21,2003,5,1,110,1.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Pisa,Samuele Angori,ITA,MF,21,2003,35,30,2599,28.9,0,2,2,0,0,0,2,0,0.0,0.07,0.07,0.0,0.07,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Pisa,Simone Canestrelli,ITA,DF,24,2000,37,36,3201,35.6,1,0,1,1,0,0,4,0,0.03,0.0,0.03,0.03,0.03,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Pisa,Simone Scuffet,ITA,GK,29,1996,7,7,630,7.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Pisa,Stefano Moreo,ITA,"FW,MF",32,1993,37,29,2307,25.6,7,1,8,5,2,2,2,0,0.27,0.04,0.31,0.2,0.23,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Pisa,Tomás Esteves,POR,"DF,MF",23,2002,1,0,14,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Pisa,İsak Vural,TUR,MF,19,2006,15,9,752,8.4,0,0,0,0,0,0,4,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Roma,Alessandro Romano,SUI,MF,19,2006,2,0,8,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Roma,Angeliño,ESP,MF,28,1997,7,5,416,4.6,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Roma,Antonio Arena,ITA,FW,16,2009,2,0,23,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Roma,Artem Dovbyk,UKR,FW,28,1997,14,3,393,4.4,3,1,4,3,0,0,0,0,0.69,0.23,0.92,0.69,0.92,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Roma,Bryan Cristante,ITA,MF,30,1995,37,36,3094,34.4,2,1,3,2,0,0,6,0,0.06,0.03,0.09,0.06,0.09,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Roma,Bryan Zaragoza,ESP,MF,23,2001,4,2,135,1.5,0,1,1,0,0,0,1,0,0.0,0.67,0.67,0.0,0.67,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Roma,Daniele Ghilardi,ITA,DF,22,2003,23,9,1097,12.2,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Roma,Devyne Rensch,NED,MF,22,2003,24,12,1184,13.2,1,4,5,1,0,0,1,0,0.08,0.3,0.38,0.08,0.38,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Roma,Donyell Malen,NED,FW,26,1999,18,18,1467,16.3,14,2,16,11,3,4,1,0,0.86,0.12,0.98,0.67,0.8,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Roma,Evan Ferguson,IRL,FW,20,2004,16,10,773,8.6,3,2,5,3,0,0,1,0,0.35,0.23,0.58,0.35,0.58,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Roma,Gianluca Mancini,ITA,DF,29,1996,36,36,3059,34.0,4,2,6,4,0,0,9,0,0.12,0.06,0.18,0.12,0.18,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Roma,Jan Ziółkowski,POL,DF,20,2005,18,5,517,5.7,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Roma,Kostas Tsimikas,GRE,MF,29,1996,18,6,644,7.2,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Roma,Leon Bailey,JAM,FW,27,1997,7,1,186,2.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Roma,Lorenzo Pellegrini,ITA,MF,29,1996,24,20,1463,16.3,4,2,6,2,2,2,2,0,0.25,0.12,0.37,0.12,0.25,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Roma,Lorenzo Venturino,ITA,MF,19,2006,10,1,207,2.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Roma,Manu Koné,FRA,MF,24,2001,29,28,2456,27.3,2,3,5,2,0,0,2,0,0.07,0.11,0.18,0.07,0.18,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Roma,Mario Hermoso,ESP,DF,30,1995,27,25,2085,23.2,3,2,5,3,0,0,9,0,0.13,0.09,0.22,0.13,0.22,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Roma,Matìas Soulé,ARG,"MF,FW",22,2003,33,28,2139,23.8,6,5,11,6,0,0,1,0,0.25,0.21,0.46,0.25,0.46,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Roma,Mile Svilar,SRB,GK,25,1999,38,38,3420,38.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Roma,Neil El Aynaoui,MAR,MF,24,2001,25,8,999,11.1,1,2,3,1,0,0,5,0,0.09,0.18,0.27,0.09,0.27,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Roma,Niccolò Pisilli,ITA,MF,20,2004,25,13,1295,14.4,2,4,6,2,0,0,3,0,0.14,0.28,0.42,0.14,0.42,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Roma,Obite N'Dicka,CIV,DF,25,1999,31,31,2680,29.8,3,0,3,3,0,0,5,0,0.1,0.0,0.1,0.1,0.1,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Roma,Paulo Dybala,ARG,"MF,FW",31,1993,22,15,1354,15.0,2,6,8,2,0,1,0,0,0.13,0.4,0.53,0.13,0.53,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Roma,Robinio Vaz,FRA,FW,18,2007,12,0,216,2.4,1,0,1,1,0,0,0,0,0.42,0.0,0.42,0.42,0.42,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Roma,Stephan El Shaarawy,ITA,"MF,FW",32,1992,20,5,666,7.4,1,2,3,1,0,0,4,0,0.14,0.27,0.41,0.14,0.41,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Roma,Tommaso Baldanzi,ITA,"FW,MF",22,2003,10,3,386,4.3,1,0,1,1,0,0,2,0,0.23,0.0,0.23,0.23,0.23,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Roma,Wesley,BRA,MF,21,2003,30,28,2448,27.2,5,0,5,5,0,0,7,2,0.18,0.0,0.18,0.18,0.18,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Roma,Zeki Çelik,TUR,"MF,DF",28,1997,34,32,2723,30.3,1,2,3,1,0,0,2,1,0.03,0.07,0.1,0.03,0.1,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Sassuolo,Alieu Fadera,GAM,FW,23,2001,28,8,987,11.0,2,1,3,2,0,0,5,0,0.18,0.09,0.27,0.18,0.27,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Sassuolo,Andrea Ghion,ITA,MF,25,2000,1,0,10,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Sassuolo,Andrea Pinamonti,ITA,FW,26,1999,36,32,2552,28.4,9,3,12,9,0,1,2,1,0.32,0.11,0.42,0.32,0.42,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Sassuolo,Arijanet Muric,KVX,GK,26,1998,32,32,2880,32.0,0,0,0,0,0,0,4,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Sassuolo,Armand Lauriente,FRA,FW,26,1998,38,33,2592,28.8,7,9,16,7,0,0,4,0,0.24,0.31,0.56,0.24,0.56,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Sassuolo,Aster Vranckx,BEL,MF,22,2002,16,9,690,7.7,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Sassuolo,Cas Odenthal,NED,DF,24,2000,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Sassuolo,Christian Frangella,ITA,MF,18,2006,1,0,3,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Sassuolo,Cristian Volpato,AUS,FW,21,2003,24,11,1064,11.8,2,4,6,2,0,0,4,0,0.17,0.34,0.51,0.17,0.51,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Sassuolo,Daniel Boloca,ROU,MF,26,1998,2,2,135,1.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Sassuolo,Darryl Bakola,FRA,MF,17,2007,6,1,128,1.4,0,1,1,0,0,0,0,0,0.0,0.7,0.7,0.0,0.7,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Sassuolo,Domenico Berardi,ITA,FW,30,1994,26,24,1958,21.8,8,4,12,6,2,3,2,1,0.37,0.18,0.55,0.28,0.46,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Sassuolo,Edoardo Iannoni,ITA,MF,24,2001,15,1,260,2.9,1,0,1,1,0,0,3,0,0.35,0.0,0.35,0.35,0.35,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Sassuolo,Fali Candé,GNB,DF,27,1998,12,5,509,5.7,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Sassuolo,Filippo Romagna,ITA,DF,28,1997,5,4,313,3.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Sassuolo,Gioele Zacchi,ITA,GK,22,2003,1,0,8,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Sassuolo,Ismaël Koné,CAN,MF,23,2002,35,33,2737,30.4,6,0,6,6,0,0,5,1,0.2,0.0,0.2,0.2,0.2,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Sassuolo,Jay Idzes,IDN,DF,25,2000,35,35,3061,34.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Sassuolo,Josh Doig,SCO,DF,23,2002,30,22,1917,21.3,0,0,0,0,0,0,5,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Sassuolo,Kristian Thorstvedt,NOR,MF,26,1999,32,27,2460,27.3,4,4,8,4,0,0,9,0,0.15,0.15,0.29,0.15,0.29,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Sassuolo,Laurs Skjellerup,DEN,FW,22,2002,1,0,10,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Sassuolo,Luca Lipani,ITA,MF,20,2005,24,10,1034,11.5,0,1,1,0,0,0,3,0,0.0,0.09,0.09,0.0,0.09,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Sassuolo,Luca Moro,ITA,FW,24,2001,14,1,211,2.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Sassuolo,M'Bala Nzola,ANG,FW,28,1996,14,4,473,5.3,1,1,2,1,0,0,1,0,0.19,0.19,0.38,0.19,0.38,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Sassuolo,Nemanja Matić,SRB,MF,36,1988,34,31,2660,29.6,1,1,2,1,0,0,7,1,0.03,0.03,0.07,0.03,0.07,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Sassuolo,Nicholas Pierini,ITA,"FW,MF",26,1998,11,0,142,1.6,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Sassuolo,Pedro Felipe,BRA,DF,21,2004,3,1,129,1.4,0,1,1,0,0,0,0,0,0.0,0.7,0.7,0.0,0.7,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Sassuolo,Sebastian Walukiewicz,POL,DF,25,2000,34,33,2852,31.7,0,1,1,0,0,0,7,0,0.0,0.03,0.03,0.0,0.03,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Sassuolo,Stefano Turati,ITA,GK,23,2001,6,6,532,5.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Sassuolo,Tarik Muharemovic,BIH,DF,22,2003,32,32,2835,31.5,2,2,4,2,0,0,7,0,0.06,0.06,0.13,0.06,0.13,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Sassuolo,Tommaso Macchioni,ITA,DF,19,2006,1,1,90,1.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Sassuolo,Ulisses Garcia,SUI,DF,29,1996,13,10,943,10.5,1,2,3,1,0,0,3,0,0.1,0.19,0.29,0.1,0.29,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Sassuolo,Walid Cheddira,MAR,FW,27,1998,16,1,221,2.5,1,0,1,1,0,0,1,0,0.41,0.0,0.41,0.41,0.41,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Sassuolo,Woyo Coulibaly,MLI,DF,26,1999,20,9,1054,11.7,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Torino,Adam Masina,MAR,DF,31,1994,5,2,235,2.6,0,1,1,0,0,0,0,0,0.0,0.38,0.38,0.0,0.38,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Torino,Adrien Tameze,CMR,DF,31,1994,24,12,1120,12.4,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Torino,Alberto Paleari,ITA,GK,32,1992,29,29,2610,29.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Torino,Ali Dembélé,FRA,DF,21,2004,2,0,21,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Torino,Alieu Njie,SWE,"MF,FW",20,2005,15,2,299,3.3,1,1,2,1,0,0,2,0,0.3,0.3,0.6,0.3,0.6,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Torino,Ardian Ismajli,ALB,DF,28,1996,25,21,1906,21.2,0,1,1,0,0,0,5,0,0.0,0.05,0.05,0.0,0.05,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Torino,Cesare Casadei,ITA,MF,22,2003,33,19,1997,22.2,6,0,6,6,0,0,5,0,0.27,0.0,0.27,0.27,0.27,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Torino,Ché Adams,SCO,FW,29,1996,33,19,1893,21.0,6,2,8,6,0,0,0,0,0.29,0.1,0.38,0.29,0.38,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Torino,Cristiano Biraghi,ITA,"MF,DF",32,1992,14,5,517,5.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Torino,Cyril Ngonge,BEL,FW,25,2000,20,11,994,11.0,1,1,2,1,0,0,2,0,0.09,0.09,0.18,0.09,0.18,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Torino,Duván Zapata,COL,FW,34,1991,28,11,1103,12.3,3,1,4,3,0,1,0,0,0.24,0.08,0.33,0.24,0.33,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Torino,Emirhan İlkhan,TUR,MF,21,2004,19,13,1001,11.1,1,2,3,1,0,0,2,1,0.09,0.18,0.27,0.09,0.27,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Torino,Enzo Ebosse,CMR,DF,26,1999,13,13,1115,12.4,0,1,1,0,0,0,3,0,0.0,0.08,0.08,0.0,0.08,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Torino,Faustino Anjorin,ENG,MF,23,2001,15,1,289,3.2,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Torino,Franco Israel,URU,GK,25,2000,9,9,810,9.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Torino,Giovanni Simeone,ARG,FW,30,1995,32,27,2230,24.8,11,0,11,11,0,0,1,0,0.44,0.0,0.44,0.44,0.44,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Torino,Guillermo Maripán,CHI,DF,31,1994,27,24,2145,23.8,2,0,2,2,0,0,4,0,0.08,0.0,0.08,0.08,0.08,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Torino,Gvidas Gineitis,LTU,MF,21,2004,29,23,1756,19.5,0,1,1,0,0,0,5,0,0.0,0.05,0.05,0.0,0.05,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Torino,Ivan Ilić,SRB,MF,24,2001,8,5,416,4.6,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Torino,Kristjan Asllani,ALB,MF,23,2002,15,13,1129,12.5,0,0,0,0,0,1,3,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Torino,Luca Marianucci,ITA,DF,21,2004,10,6,575,6.4,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Torino,Marcus Pedersen,NOR,"MF,DF",25,2000,29,23,2134,23.7,1,2,3,1,0,0,3,0,0.04,0.08,0.13,0.04,0.13,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Torino,Matteo Prati,ITA,MF,21,2003,13,7,614,6.8,0,1,1,0,0,0,2,0,0.0,0.15,0.15,0.0,0.15,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Torino,Niels Nkounkou,FRA,"MF,DF",24,2000,11,3,355,3.9,0,1,1,0,0,0,3,0,0.0,0.25,0.25,0.0,0.25,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Torino,Nikola Vlašić,CRO,"MF,FW",27,1997,37,36,3043,33.8,8,3,11,3,5,5,7,0,0.24,0.09,0.33,0.09,0.18,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Torino,Rafel Obrador,ESP,MF,21,2004,16,14,1116,12.4,1,3,4,1,0,0,1,0,0.08,0.24,0.32,0.08,0.32,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Torino,Sandro Kulenović,CRO,FW,25,1999,13,3,300,3.3,0,1,1,0,0,0,2,0,0.0,0.3,0.3,0.0,0.3,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Torino,Saúl Coco,EQG,DF,26,1999,35,35,3088,34.3,1,1,2,1,0,0,3,0,0.03,0.03,0.06,0.03,0.06,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Torino,Valentino Lazaro,AUT,MF,29,1996,31,26,2252,25.0,0,2,2,0,0,0,4,0,0.0,0.08,0.08,0.0,0.08,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Torino,Zakaria Aboukhlal,MAR,MF,25,2000,15,6,511,5.7,0,0,0,0,0,0,4,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Udinese,Abdoulaye Camara,FRA,MF,16,2008,1,0,12,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Udinese,Adam Buksa,POL,FW,29,1996,25,6,922,10.2,3,0,3,3,0,0,3,0,0.29,0.0,0.29,0.29,0.29,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Udinese,Alessandro Zanoli,ITA,MF,24,2000,19,16,1280,14.2,1,2,3,1,0,0,1,0,0.07,0.14,0.21,0.07,0.21,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Udinese,Arthur Atta,FRA,MF,22,2003,32,29,2557,28.4,5,3,8,5,0,0,3,0,0.18,0.11,0.28,0.18,0.28,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Udinese,Branimir Mlacic,CRO,DF,18,2007,7,2,166,1.8,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Udinese,Christian Kabasele,BEL,DF,34,1991,30,28,2247,25.0,3,0,3,3,0,0,5,1,0.12,0.0,0.12,0.12,0.12,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Udinese,Daniele Padelli,ITA,GK,39,1985,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Udinese,Hassane Kamara,CIV,"MF,DF",31,1994,26,22,1861,20.7,0,2,2,0,0,0,5,0,0.0,0.1,0.1,0.0,0.1,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Udinese,Idrissa Guèye,SEN,FW,18,2006,19,1,421,4.7,1,0,1,1,0,0,2,0,0.21,0.0,0.21,0.21,0.21,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Udinese,Iker Bravo,ESP,FW,20,2005,8,3,206,2.3,1,0,1,1,0,0,1,0,0.44,0.0,0.44,0.44,0.44,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Udinese,Jakub Piotrowski,POL,MF,27,1997,33,20,1696,18.8,1,1,2,1,0,0,2,0,0.05,0.05,0.11,0.05,0.11,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Udinese,Jesper Karlström,SWE,MF,30,1995,36,36,3146,35.0,1,0,1,1,0,0,6,0,0.03,0.0,0.03,0.03,0.03,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Udinese,Jordan Zemura,ZIM,"MF,DF",25,1999,17,13,1127,12.5,0,1,1,0,0,0,3,0,0.0,0.08,0.08,0.0,0.08,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Udinese,Juan Arizala,COL,MF,19,2005,10,1,191,2.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Udinese,Jurgen Ekkelenkamp,NED,MF,25,2000,31,27,2186,24.3,5,3,8,5,0,0,1,0,0.21,0.12,0.33,0.21,0.33,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Udinese,Keinan Davis,ENG,FW,27,1998,30,27,2065,22.9,10,4,14,6,4,4,5,0,0.44,0.17,0.61,0.26,0.44,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Udinese,Kingsley Ehizibue,NED,"MF,DF",30,1995,32,20,1811,20.1,2,0,2,2,0,0,5,0,0.1,0.0,0.1,0.1,0.1,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Udinese,Lennon Miller,SCO,MF,18,2006,24,9,996,11.1,0,2,2,0,0,0,4,0,0.0,0.18,0.18,0.0,0.18,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Udinese,Maduka Okoye,NGA,GK,25,1999,30,30,2616,29.1,0,0,0,0,0,0,1,1,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Udinese,Matteo Palma,GER,DF,17,2008,5,1,120,1.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Udinese,Nicolò Bertola,ITA,"DF,MF",22,2003,28,18,1763,19.6,0,1,1,0,0,0,3,0,0.0,0.05,0.05,0.0,0.05,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Udinese,Nicolò Zaniolo,ITA,"FW,MF",26,1999,32,28,2257,25.1,5,6,11,5,0,0,8,0,0.2,0.24,0.44,0.2,0.44,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Udinese,Oier Zarraga,ESP,MF,26,1999,24,2,475,5.3,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Udinese,Oumar Solet,FRA,DF,25,2000,35,34,2959,32.9,3,1,4,2,1,1,1,0,0.09,0.03,0.12,0.06,0.09,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Udinese,Razvan Sava,ROU,GK,23,2002,7,6,620,6.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Udinese,Rui Modesto,ANG,MF,25,1999,3,0,119,1.3,0,1,1,0,0,0,0,0,0.0,0.76,0.76,0.0,0.76,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Udinese,Saba Goglichidze,GEO,DF,21,2004,8,4,424,4.7,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Udinese,Sandi Lovrić,SVN,MF,27,1998,6,1,161,1.8,0,1,1,0,0,0,1,0,0.0,0.56,0.56,0.0,0.56,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Udinese,Thomas Kristensen,DEN,DF,23,2002,28,28,2472,27.5,3,0,3,3,0,0,4,0,0.11,0.0,0.11,0.11,0.11,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55
+ITA-Serie A,2526,Udinese,Vakoun Bayo,CIV,FW,28,1997,15,4,453,5.0,0,2,2,0,0,0,0,0,0.0,0.4,0.4,0.0,0.4,ITA,2025-2026,standard,fbref_soccerdata,2026-08-10 21:58:55

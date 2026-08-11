@@ -1,0 +1,26 @@
+﻿tournament_id,season_id,player_name,player_id,team_name,team_id,saves,goalsPrevented,rating,minutesPlayed,appearances,accuratePasses,accurateLongBalls,accurateLongBallsPercentage,yellowCards,redCards,_league_id,_season,_source,_scraped_at
+45,52524,Domenik Schierl,190825,SC Austria Lustenau,2062,115,,7.17,2790,31,590,216,33.96,4,0,AUT,2023-2024,datafc_sofascore_keeper,2026-08-10T23:15:39.336140
+45,52524,Phillip Menzel,808612,Austria Klagenfurt,43254,95,,6.95,2790,31,437,271,34.17,4,0,AUT,2023-2024,datafc_sofascore_keeper,2026-08-10T23:15:39.336140
+45,52524,Raphael Sallinger,275801,TSV Hartberg,2075,94,,7.08,2880,32,1099,241,44.14,4,0,AUT,2023-2024,datafc_sofascore_keeper,2026-08-10T23:15:39.336140
+45,52524,Nicolas Schmid,799389,FC Blau Weiss Linz,2113,93,,6.96,2790,31,533,185,33.27,0,0,AUT,2023-2024,datafc_sofascore_keeper,2026-08-10T23:15:39.336140
+45,52524,Adam Stejskal,958100,WSG Tirol,5405,93,,6.92,2831,32,598,172,37.8,2,1,AUT,2023-2024,datafc_sofascore_keeper,2026-08-10T23:15:39.336140
+45,52524,Tobias Lawal,990025,LASK,2058,80,,7.01,2880,32,644,158,38.63,1,0,AUT,2023-2024,datafc_sofascore_keeper,2026-08-10T23:15:39.336140
+45,52524,Dejan Stojanović,109453,SCR Altach,4856,77,,7.33,2274,26,473,248,46.18,2,0,AUT,2023-2024,datafc_sofascore_keeper,2026-08-10T23:15:39.336140
+45,52524,Hendrik Bonmann,254461,Wolfsberger AC,2076,76,,7.02,2160,24,433,131,31.41,2,0,AUT,2023-2024,datafc_sofascore_keeper,2026-08-10T23:15:39.336140
+45,52524,Niklas Hedl,918421,SK Rapid Wien,2055,70,,6.98,2880,32,795,198,41.6,1,0,AUT,2023-2024,datafc_sofascore_keeper,2026-08-10T23:15:39.336140
+45,52524,Christian Früchtl,845024,FK Austria Wien,2203,67,,7.04,2610,29,541,152,35.51,2,0,AUT,2023-2024,datafc_sofascore_keeper,2026-08-10T23:15:39.336140
+45,52524,Alexander Schlager,282073,Red Bull Salzburg,2046,59,,7.1,2520,28,715,194,48.5,4,0,AUT,2023-2024,datafc_sofascore_keeper,2026-08-10T23:15:39.336140
+45,52524,Kjell Scherpen,852394,SK Sturm Graz,2051,40,,7.16,1440,16,268,67,34.9,1,0,AUT,2023-2024,datafc_sofascore_keeper,2026-08-10T23:15:39.336140
+45,52524,Lukas Gütlbauer,942888,Wolfsberger AC,2076,33,,7.38,720,8,119,41,25.47,1,0,AUT,2023-2024,datafc_sofascore_keeper,2026-08-10T23:15:39.336140
+45,52524,Vítězslav Jaroš,927359,SK Sturm Graz,2051,31,,7.0,1260,14,231,51,27.42,0,0,AUT,2023-2024,datafc_sofascore_keeper,2026-08-10T23:15:39.336140
+45,52524,Mirko Kos,869699,FK Austria Wien,2203,11,,7.1,270,3,62,17,35.42,0,0,AUT,2023-2024,datafc_sofascore_keeper,2026-08-10T23:15:39.336140
+45,52524,Simon Nesler-Täubl,1384236,SC Austria Lustenau,2062,8,,7.1,90,1,10,4,16.67,0,0,AUT,2023-2024,datafc_sofascore_keeper,2026-08-10T23:15:39.336140
+45,52524,Tobias Schützenauer,355480,SCR Altach,4856,7,,6.58,516,6,81,34,32.38,1,0,AUT,2023-2024,datafc_sofascore_keeper,2026-08-10T23:15:39.336140
+45,52524,Luka Marić,1006952,SK Sturm Graz,2051,5,,7.4,180,2,35,10,40.0,0,0,AUT,2023-2024,datafc_sofascore_keeper,2026-08-10T23:15:39.336140
+45,52524,Nico Mantl,888592,Red Bull Salzburg,2046,4,,7.2,90,1,39,7,77.78,0,0,AUT,2023-2024,datafc_sofascore_keeper,2026-08-10T23:15:39.336140
+45,52524,Marco Knaller,7617,Austria Klagenfurt,43254,4,,6.5,90,1,12,6,19.35,0,0,AUT,2023-2024,datafc_sofascore_keeper,2026-08-10T23:15:39.336140
+45,52524,Timo Horn,97923,Red Bull Salzburg,2046,4,,6.5,270,3,57,7,29.17,0,0,AUT,2023-2024,datafc_sofascore_keeper,2026-08-10T23:15:39.336140
+45,52524,Andreas Lukse,13987,FC Blau Weiss Linz,2113,3,,7.1,90,1,28,13,68.42,0,0,AUT,2023-2024,datafc_sofascore_keeper,2026-08-10T23:15:39.336140
+45,52524,Alexander Eckmayr,870127,SCR Altach,4856,1,,6.2,90,1,8,6,30.0,0,0,AUT,2023-2024,datafc_sofascore_keeper,2026-08-10T23:15:39.336140
+45,52524,Benjamin Ožegović,837082,WSG Tirol,5405,0,,6.4,38,1,5,4,33.33,0,0,AUT,2023-2024,datafc_sofascore_keeper,2026-08-10T23:15:39.336140
+45,52524,Paul Schermer,1127061,WSG Tirol,5405,0,,6.3,9,1,0,0,0.0,0,0,AUT,2023-2024,datafc_sofascore_keeper,2026-08-10T23:15:39.336140

@@ -1,0 +1,55 @@
+﻿country,tournament,tournament_id,season_id,team_name,team_id,position,matches,wins,draws,losses,scores_for,scores_against,points,category,_league_id,_season,_source,_scraped_at
+Portugal,Liga Portugal Betclic,238,52769,Sporting CP,3001,1,34,29,3,2,96,29,90,Total,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Benfica,3006,2,34,25,5,4,77,28,80,Total,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,FC Porto,3002,3,34,22,6,6,63,27,72,Total,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Sporting Braga,2999,4,34,21,5,8,71,50,68,Total,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Vitória SC,3009,5,34,19,6,9,52,38,63,Total,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Moreirense,3014,6,34,16,7,11,36,35,55,Total,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,FC Arouca,25777,7,34,13,7,14,54,50,46,Total,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Famalicão,49531,8,34,10,12,12,37,41,42,Total,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Casa Pia,36365,9,34,10,8,16,38,50,38,Total,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,SC Farense,2998,10,34,10,7,17,46,51,37,Total,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Rio Ave,3036,11,34,6,19,9,38,43,37,Total,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Gil Vicente,3010,12,34,9,9,16,42,52,36,Total,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Estoril Praia,4500,13,34,9,6,19,49,58,33,Total,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,CF Estrela Amadora,3035,14,34,7,12,15,33,53,33,Total,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Boavista,2995,15,34,7,11,16,39,62,32,Total,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Portimonense SAD,3026,16,34,8,8,18,39,72,32,Total,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Vizela,5136,17,34,5,11,18,36,66,26,Total,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Chaves,3025,18,34,5,8,21,31,72,23,Total,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Sporting CP,3001,1,17,17,0,0,57,11,51,Home,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Benfica,3006,2,17,15,2,0,48,7,47,Home,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,FC Porto,3002,3,17,11,4,2,35,13,37,Home,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Vitória SC,3009,4,17,11,2,4,31,18,35,Home,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Sporting Braga,2999,5,17,10,3,4,33,20,33,Home,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Moreirense,3014,6,17,8,4,5,20,18,28,Home,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Rio Ave,3036,7,17,6,8,3,25,20,26,Home,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Gil Vicente,3010,8,17,6,7,4,28,22,25,Home,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Estoril Praia,4500,9,17,8,1,8,25,18,25,Home,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,FC Arouca,25777,10,17,7,3,7,26,26,24,Home,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Famalicão,49531,11,17,6,6,5,21,21,24,Home,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,SC Farense,2998,12,17,6,4,7,24,23,22,Home,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,CF Estrela Amadora,3035,13,17,6,3,8,22,27,21,Home,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Boavista,2995,14,17,4,8,5,21,30,20,Home,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Portimonense SAD,3026,15,17,3,6,8,18,31,15,Home,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Casa Pia,36365,16,17,3,5,9,10,18,14,Home,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Vizela,5136,17,17,3,5,9,20,32,14,Home,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Chaves,3025,18,17,3,4,10,21,37,13,Home,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Sporting CP,3001,1,17,12,3,2,39,18,39,Away,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,FC Porto,3002,2,17,11,2,4,28,14,35,Away,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Sporting Braga,2999,3,17,11,2,4,38,30,35,Away,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Benfica,3006,4,17,10,3,4,29,21,33,Away,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Vitória SC,3009,5,17,8,4,5,21,20,28,Away,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Moreirense,3014,6,17,8,3,6,16,17,27,Away,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Casa Pia,36365,7,17,7,3,7,28,32,24,Away,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,FC Arouca,25777,8,17,6,4,7,28,24,22,Away,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Famalicão,49531,9,17,4,6,7,16,20,18,Away,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Portimonense SAD,3026,10,17,5,2,10,21,41,17,Away,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,SC Farense,2998,11,17,4,3,10,22,28,15,Away,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Boavista,2995,12,17,3,3,11,18,32,12,Away,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Vizela,5136,13,17,2,6,9,16,34,12,Away,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,CF Estrela Amadora,3035,14,17,1,9,7,11,26,12,Away,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Rio Ave,3036,15,17,0,11,6,13,23,11,Away,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Gil Vicente,3010,16,17,3,2,12,14,30,11,Away,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Chaves,3025,17,17,2,4,11,10,35,10,Away,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854
+Portugal,Liga Portugal Betclic,238,52769,Estoril Praia,4500,18,17,1,5,11,24,40,8,Away,POR,2023-2024,datafc_sofascore,2026-08-09T08:31:56.212854

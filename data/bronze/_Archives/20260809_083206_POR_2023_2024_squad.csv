@@ -1,0 +1,503 @@
+﻿country,tournament,tournament_id,season_id,team_name,team_id,player_name,player_id,age,height,player_country,position,preferred_foot,contract_until,market_value,market_currency,_league_id,_season,_source,_scraped_at
+Portugal,Liga Portugal Betclic,238,52769,Sporting CP,3001,Luis Javier Suárez,914213,28.0,185.0,Colombia,F,Right,1909008000.0,27000000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting CP,3001,Fotis Ioannidis,903679,26.0,186.0,Greece,F,Both,1909008000.0,15400000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting CP,3001,Rodrigo Zalazar,966575,26.0,174.0,Uruguay,F,Right,1940544000.0,32000000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting CP,3001,Rafael Nel,1464415,21.0,182.0,Portugal,F,Right,1877472000.0,4400000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting CP,3001,Flávio Gonçalves,1937022,19.0,175.0,Portugal,F,Right,1909008000.0,2000000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting CP,3001,Geny Catamo,1001140,25.0,172.0,Mozambique,M,Left,1845936000.0,27000000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting CP,3001,Jesse Derry,1550775,19.0,188.0,England,M,Right,1814313600.0,1900000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting CP,3001,Pedro Gonçalves,895764,28.0,173.0,Portugal,M,Right,1909008000.0,27000000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting CP,3001,Giorgi Kochorashvili,886402,27.0,176.0,Georgia,M,Right,1909008000.0,3800000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting CP,3001,Luís Guilherme,1016893,20.0,170.0,Brazil,M,Left,1909008000.0,12500000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting CP,3001,João Simões,1410209,19.0,178.0,Portugal,M,Left,1909008000.0,15900000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting CP,3001,Daniel Bragança,861979,27.0,178.0,Portugal,M,Left,1814313600.0,10900000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting CP,3001,Nuno Santos,352882,31.0,179.0,Portugal,M,Left,1814313600.0,3100000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting CP,3001,Issa Doumbia,1141754,22.0,185.0,Italy,M,Right,1940544000.0,19100000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting CP,3001,Sergi Altimira,1137814,24.0,188.0,Spain,M,Right,1940544000.0,19300000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting CP,3001,Salvador Blopa,1939199,19.0,185.0,Portugal,M,Right,1909008000.0,2700000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting CP,3001,Silas Andersen,1083407,22.0,190.0,Denmark,M,Right,1940544000.0,7200000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting CP,3001,Sotiris Alexandropoulos,947477,24.0,186.0,Greece,M,Right,1814313600.0,1100000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting CP,3001,Pedro Lima,1067648,23.0,184.0,Brazil,M,Left,1940544000.0,3200000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting CP,3001,Koba Koindredi,930233,24.0,184.0,New Caledonia,M,Left,1845936000.0,2700000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting CP,3001,Maximiliano Araújo,929193,26.0,179.0,Uruguay,D,Left,1877472000.0,36000000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting CP,3001,Gonçalo Inácio,1001196,24.0,186.0,Portugal,D,Left,1909008000.0,42000000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting CP,3001,Ousmane Diomande,1394342,22.0,190.0,Côte d'Ivoire,D,Right,1909008000.0,44000000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting CP,3001,Zeno Debast,1126512,22.0,191.0,Belgium,D,Right,1877472000.0,29000000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting CP,3001,Georgios Vagiannidis,1166952,24.0,181.0,Greece,D,Right,1909008000.0,7300000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting CP,3001,Eduardo Quaresma,989841,24.0,185.0,Portugal,D,Right,1940544000.0,18100000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting CP,3001,Iván Fresneda,1167818,21.0,183.0,Spain,D,Right,1845936000.0,15600000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting CP,3001,Ibrahima Ba,1595506,21.0,190.0,Senegal,D,Right,1940544000.0,11600000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting CP,3001,Rodrigo Dias,1520700,21.0,179.0,Portugal,D,Left,1845936000.0,1300000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting CP,3001,Rui Silva,253809,32.0,191.0,Portugal,G,Left,1845936000.0,6700000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting CP,3001,João Virgínia,930666,26.0,191.0,Portugal,G,Right,1845936000.0,730000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting CP,3001,Diego Callai,1130378,22.0,190.0,Brazil,G,Right,1909008000.0,1600000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Benfica,3006,Jhon Durán,974577,22.0,185.0,Colombia,F,Left,1814313600.0,16500000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Benfica,3006,Vangelis Pavlidis,795236,27.0,186.0,Greece,F,Both,1877472000.0,30000000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Benfica,3006,Franjo Ivanović,1103333,22.0,185.0,Croatia,F,Right,1909008000.0,14600000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Benfica,3006,Anísio Cabral,2163561,18.0,189.0,Portugal,F,Left,1940544000.0,5200000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Benfica,3006,Bruma,97012,31.0,173.0,Portugal,F,Right,1845936000.0,3200000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Benfica,3006,João Rêgo,1158353,21.0,185.0,Portugal,F,Right,1909008000.0,3100000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Benfica,3006,Tiago Gouveia,976410,25.0,176.0,Portugal,F,Right,1845936000.0,3600000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Benfica,3006,Richard Ríos,1015292,26.0,185.0,Colombia,M,Right,1909008000.0,27000000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Benfica,3006,Gianluca Prestianni,1201395,20.0,165.0,Argentina,M,Right,1877472000.0,19400000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Benfica,3006,Andreas Schjelderup,1100952,22.0,177.0,Norway,M,Right,1845936000.0,41000000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Benfica,3006,Rafa Silva,252577,33.0,170.0,Portugal,M,Right,1845936000.0,4200000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Benfica,3006,Enzo Barrenechea,1087316,25.0,186.0,Argentina,M,Right,1909008000.0,11100000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Benfica,3006,Georgiy Sudakov,1123925,23.0,177.0,Ukraine,M,Both,1877472000.0,26000000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Benfica,3006,Fredrik Aursnes,228364,30.0,179.0,Norway,M,Right,1877472000.0,14000000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Benfica,3006,Dodi Lukebakio,823631,28.0,187.0,Belgium,M,Left,1909008000.0,14100000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Benfica,3006,Jakub Kamiński,801263,24.0,178.0,Poland,M,Right,1940544000.0,15400000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Benfica,3006,Leandro Barreiro,906800,26.0,170.0,Luxembourg,M,Right,1877472000.0,17400000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Benfica,3006,Rafael Obrador,1142692,22.0,181.0,Spain,M,Left,1909008000.0,5200000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Benfica,3006,Manu Silva,1085740,25.0,190.0,Portugal,M,Right,1909008000.0,7600000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Benfica,3006,Clément Lenglet,580550,31.0,186.0,France,D,Left,1814313600.0,4200000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Benfica,3006,Amar Dedić,1102791,23.0,180.0,Bosnia & Herzegovina,D,Both,1909008000.0,19400000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Benfica,3006,Tomás Araújo,983542,24.0,186.0,Portugal,D,Right,1877472000.0,33000000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Benfica,3006,Alexander Bah,850976,28.0,183.0,Denmark,D,Right,1877472000.0,7400000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Benfica,3006,Samuel Dahl,993101,23.0,171.0,Sweden,D,Left,1877472000.0,13600000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Benfica,3006,Daniel Banjaqui,1961109,18.0,184.0,Portugal,D,Right,1940544000.0,5200000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Benfica,3006,José Neto,1961117,18.0,184.0,Portugal,D,Left,1940544000.0,2700000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Benfica,3006,Gabriel Indio,2282980,18.0,186.0,Brazil,D,Left,1940544000.0,54000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Benfica,3006,Anatoliy Trubin,966616,25.0,200.0,Ukraine,G,Right,1845936000.0,26000000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Benfica,3006,Samuel Soares,983550,24.0,189.0,Portugal,G,Right,1814313600.0,3100000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Porto,3002,Samu Aghehowa,1503836,22.0,193.0,Spain,F,Right,1877472000.0,46000000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Porto,3002,Oskar Pietuszewski,1548929,18.0,179.0,Poland,F,Right,1940544000.0,26000000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Porto,3002,André Silva,190159,30.0,185.0,Portugal,F,Right,1814313600.0,2800000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Porto,3002,William Gomes,1639250,20.0,171.0,Brazil,F,Left,1877472000.0,23000000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Porto,3002,Pepê,882664,29.0,175.0,Brazil,F,Right,1845936000.0,16000000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Porto,3002,Deniz Gül,1407720,22.0,190.0,Türkiye,F,Right,1877472000.0,5200000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Porto,3002,Borja Sainz,992567,25.0,174.0,Spain,F,Right,1909008000.0,21000000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Porto,3002,Gabriel Veron,1002819,23.0,176.0,Brazil,F,Right,1814313600.0,2600000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Porto,3002,Rodrigo Mora,1410240,19.0,168.0,Portugal,M,Right,1909008000.0,40000000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Porto,3002,Hwang In-beom,889689,29.0,177.0,South Korea,M,Both,1877472000.0,6400000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Porto,3002,Alan Varela,1066560,25.0,177.0,Argentina,M,Right,1909008000.0,35000000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Porto,3002,Gabri Veiga,1010505,24.0,184.0,Spain,M,Right,1909008000.0,29000000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Porto,3002,Stephen Eustaquio,886223,29.0,178.0,Canada,M,Right,1814313600.0,6500000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Porto,3002,Victor Froholdt,1406639,20.0,187.0,Denmark,M,Right,1909008000.0,46000000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Porto,3002,Pablo Rosario,804472,29.0,188.0,Dominican Republic,M,Right,1877472000.0,7800000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Porto,3002,Iván Jaime,951986,25.0,180.0,Spain,M,Right,1845936000.0,3700000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Porto,3002,Vasco Sousa,1006995,23.0,169.0,Portugal,M,Right,1909008000.0,1800000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Porto,3002,Jakub Kiwior,976037,26.0,189.0,Poland,D,Left,1909008000.0,36000000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Porto,3002,Jan Bednarek,286085,30.0,189.0,Poland,D,Right,1877472000.0,10600000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Porto,3002,Nehuén Pérez,913401,26.0,184.0,Argentina,D,Right,1877472000.0,10900000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Porto,3002,Zaidu Sanusi,987510,29.0,182.0,Nigeria,D,Left,1814313600.0,2900000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Porto,3002,Alberto Costa,1160957,22.0,185.0,Portugal,D,Right,1909008000.0,16800000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Porto,3002,Dominik Prpić,1146484,22.0,188.0,Croatia,D,Left,1909008000.0,4400000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Porto,3002,Martim Fernandes,1142585,20.0,181.0,Portugal,D,Right,1909008000.0,11500000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Porto,3002,Francisco Moura,985138,26.0,181.0,Portugal,D,Left,1877472000.0,8500000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Porto,3002,Diogo Costa,843115,26.0,186.0,Portugal,G,Right,1909008000.0,42000000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Porto,3002,Cláudio Ramos,116372,34.0,183.0,Portugal,G,Right,1814313600.0,845000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Porto,3002,João Costa,788365,30.0,185.0,Portugal,G,Right,1909008000.0,530000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Porto,3002,Samuel,552170,32.0,188.0,Brazil,G,Right,1814313600.0,855000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Porto,3002,João Afonso,1961855,19.0,187.0,Portugal,G,Right,1940544000.0,1400000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting Braga,2999,Pau Víctor,1031567,24.0,182.0,Spain,F,Right,1909008000.0,14300000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting Braga,2999,Ricardo Horta,314380,31.0,173.0,Portugal,F,Right,1845936000.0,9600000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting Braga,2999,Jonas Wind,826069,27.0,190.0,Denmark,F,Right,1877472000.0,4200000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting Braga,2999,Fran Navarro,914772,28.0,179.0,Spain,F,Right,1877472000.0,3900000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting Braga,2999,Gabriel Silva,1046794,24.0,177.0,Brazil,F,Both,1940544000.0,7400000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting Braga,2999,João Marques,1087321,24.0,179.0,Portugal,F,Right,1877472000.0,1400000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting Braga,2999,João Aragão,1961097,18.0,170.0,Portugal,F,Right,1814313600.0,485000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting Braga,2999,Jean-Baptiste Gorby,1120039,24.0,181.0,France,M,Right,1845936000.0,9600000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting Braga,2999,Demir Ege Tıknaz,1142613,21.0,194.0,Türkiye,M,Right,1940544000.0,8199999.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting Braga,2999,Mario Dorgeles,1396015,22.0,177.0,Côte d'Ivoire,M,Left,1909008000.0,10800000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting Braga,2999,João Moutinho,6562,39.0,171.0,Portugal,M,Both,1814313600.0,525000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting Braga,2999,Denis Huseinbašić,1064842,25.0,184.0,Bosnia & Herzegovina,M,Right,1940544000.0,2100000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting Braga,2999,Thiago Helguera,1490866,20.0,181.0,Uruguay,M,Right,1877472000.0,3900000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting Braga,2999,Gabriel Martínez,1134430,23.0,185.0,Spain,M,Right,1877472000.0,7200000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting Braga,2999,Victor Gómez,877918,26.0,169.0,Spain,M,Right,1845936000.0,9700000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting Braga,2999,Leonardo Lelo,1006865,26.0,175.0,Portugal,M,Left,1877472000.0,6200000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting Braga,2999,Diego Rodrigues,1184326,21.0,178.0,Portugal,M,Right,1909008000.0,5200000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting Braga,2999,Yanis da Rocha,1439201,22.0,189.0,Portugal,M,Right,1909008000.0,195000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting Braga,2999,Luís Pinto,1974420,19.0,184.0,Portugal,M,Left,1845936000.0,,,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting Braga,2999,Sikou Niakaté,868235,27.0,186.0,Mali,D,Left,1845936000.0,5800000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting Braga,2999,Adrian Leon Barišić,959592,25.0,191.0,Bosnia & Herzegovina,D,Right,1909008000.0,3900000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting Braga,2999,Adrian Bajrami,1000192,24.0,187.0,Switzerland,D,Left,1940544000.0,2600000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting Braga,2999,Gustaf Lagerbielke,965263,26.0,193.0,Sweden,D,Right,1909008000.0,10400000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting Braga,2999,Bright Arrey-Mbi,997173,23.0,187.0,Germany,D,Left,1877472000.0,9300000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting Braga,2999,Diogo Travassos,1142578,22.0,175.0,Portugal,D,Right,1940544000.0,5500000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting Braga,2999,Bartłomiej Wdowik,936874,25.0,184.0,Poland,D,Left,1845936000.0,1600000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting Braga,2999,Vítor Carvalho,887754,29.0,183.0,Brazil,D,Right,1845936000.0,3900000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting Braga,2999,Sergio Barcia,1084706,25.0,186.0,Spain,D,Right,1909008000.0,1600000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting Braga,2999,Paulo Oliveira,106751,34.0,187.0,Portugal,D,Right,,370000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting Braga,2999,Jonatás Noro,1536297,21.0,187.0,Portugal,D,Right,1814313600.0,1000000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting Braga,2999,Joao Carvalho,1195449,22.0,192.0,Portugal,G,Both,1845936000.0,1400000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting Braga,2999,Bernardo Fontes,1394935,24.0,196.0,Brazil,G,Left,1909008000.0,4700000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Sporting Braga,2999,Tiago Sá,344159,31.0,188.0,Portugal,G,Right,1814313600.0,325000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vitória SC,3009,Oumar Camara,1563640,19.0,185.0,France,F,Right,1877472000.0,7300000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vitória SC,3009,Alioune Ndoye,1063255,24.0,191.0,Senegal,F,Right,1877472000.0,970000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vitória SC,3009,Gustavo Silva,1468082,27.0,180.0,Brazil,F,Right,1845936000.0,4099999.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vitória SC,3009,Patrick Ouotro,1459308,20.0,182.0,Côte d'Ivoire,F,Right,1909008000.0,290000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vitória SC,3009,Vando Félix,1520997,23.0,179.0,Guinea-Bissau,F,Right,1877472000.0,485000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vitória SC,3009,Lohann Doucet,1170523,23.0,180.0,Burkina Faso,M,Right,1877472000.0,515000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vitória SC,3009,Telmo Arcanjo,1035280,25.0,180.0,Cape Verde,M,Left,1814313600.0,2900000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vitória SC,3009,Beni Mukendi,1002367,24.0,180.0,Angola,M,Right,1877472000.0,4099999.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vitória SC,3009,Fabio Blanco,1130363,22.0,179.0,Spain,M,Right,1877472000.0,750000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vitória SC,3009,Matija Mitrović,1166097,21.0,182.0,Serbia,M,Right,1877472000.0,1800000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vitória SC,3009,Samu,785808,30.0,170.0,Portugal,M,Left,1814313600.0,2400000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vitória SC,3009,Gonçalo Nogueira,1161004,22.0,180.0,Portugal,M,Right,1845936000.0,3900000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vitória SC,3009,Miguel Nogueira,2140143,21.0,182.0,Portugal,M,Left,1877472000.0,1400000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vitória SC,3009,Marco Cruz,1167194,22.0,182.0,Portugal,M,Left,1845936000.0,370000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vitória SC,3009,Santi Verdi,1961132,18.0,178.0,Portugal,M,Right,1814313600.0,,,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vitória SC,3009,Rica Rocha,2217380,22.0,182.0,Portugal,M,Both,1845936000.0,205000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vitória SC,3009,Yeimar Mosquera,1485263,21.0,190.0,Colombia,D,Left,1909008000.0,220000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vitória SC,3009,Tony Strata,1488511,21.0,177.0,Romania,D,Right,1877472000.0,1900000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vitória SC,3009,João Mendes,1133568,26.0,179.0,Portugal,D,Left,1845936000.0,2400000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vitória SC,3009,Miguel Maga,1131047,23.0,175.0,Portugal,D,Right,1814313600.0,1600000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vitória SC,3009,Rodrigo Abascal,846416,32.0,190.0,Uruguay,D,Left,1814313600.0,380000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vitória SC,3009,Thiago Balieiro,1148442,23.0,190.0,Brazil,D,Right,1877472000.0,1000000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vitória SC,3009,Miguel Nóbrega,1066233,26.0,186.0,Portugal,D,Right,1845936000.0,420000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vitória SC,3009,Óscar Rivas,1168093,26.0,190.0,Spain,D,Both,1845936000.0,930000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vitória SC,3009,Franck Ahmed Sidibé,1920327,24.0,190.0,France,D,Left,1845936000.0,650000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vitória SC,3009,Francisco Dias,1972885,23.0,178.0,Portugal,D,Left,1877472000.0,215000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vitória SC,3009,Oliwier Zych,1009362,22.0,193.0,Poland,G,Right,1814313600.0,2100000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vitória SC,3009,Lucas Furtado,1466549,21.0,197.0,Brazil,G,Left,1845936000.0,97000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vitória SC,3009,Juan Castillo,1175004,23.0,191.0,Colombia,G,Right,1877472000.0,520000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vitória SC,3009,José Ribeiro,1479488,20.0,191.0,Portugal,G,Left,1845936000.0,185000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vitória SC,3009,Charles,155985,32.0,186.0,Brazil,G,Right,1814313600.0,310000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Moreirense,3014,Michael Dacosta Gonzalez,1463438,21.0,186.0,Spain,F,Left,1877472000.0,,,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Moreirense,3014,Yan Maranhão,1188685,23.0,183.0,Brazil,F,Right,1877472000.0,630000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Moreirense,3014,Landerson,1471229,19.0,167.0,Brazil,F,Right,1909008000.0,955000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Moreirense,3014,Alexandre Parsemain,1912471,23.0,185.0,Martinique,F,Right,1909008000.0,380000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Moreirense,3014,Koby Mottoh,1429552,19.0,,England,F,,,,,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Moreirense,3014,João Veloso,1215905,21.0,186.0,Portugal,M,Right,1814313600.0,1500000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Moreirense,3014,Jimi Gower,1411034,21.0,181.0,England,M,Right,1845936000.0,105000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Moreirense,3014,Mateja Stjepanović,1166006,22.0,185.0,Serbia,M,Right,1877472000.0,2700000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Moreirense,3014,Rodrigo Alonso,1142254,23.0,172.0,Spain,M,Right,1845936000.0,1800000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Moreirense,3014,Nile John,1001848,23.0,176.0,England,M,Right,1877472000.0,485000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Moreirense,3014,Afonso Assis,2030567,20.0,180.0,Portugal,M,Left,1909008000.0,460000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Moreirense,3014,Kiko Bondoso,1082948,30.0,171.0,Portugal,M,Right,1814313600.0,825000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Moreirense,3014,Guilherme Liberato,1016878,25.0,184.0,Brazil,M,Right,1845936000.0,870000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Moreirense,3014,Miguel Silva,2455955,18.0,186.0,Portugal,M,Both,1814313600.0,105000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Moreirense,3014,Leandro Santos,1489200,20.0,184.0,Portugal,D,Right,1909008000.0,1100000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Moreirense,3014,Janderson,1588663,20.0,189.0,Brazil,D,Right,1940544000.0,,,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Moreirense,3014,Gilberto Batista,1153099,22.0,185.0,Guinea-Bissau,D,Right,1814313600.0,1400000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Moreirense,3014,Kiko,1395583,24.0,180.0,Portugal,D,Left,1877472000.0,1600000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Moreirense,3014,Dinis Pinto,1160980,25.0,178.0,Portugal,D,Right,1814313600.0,3300000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Moreirense,3014,Maracás,931485,32.0,184.0,Brazil,D,Left,,745000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Moreirense,3014,Kevyn Monteiro,1819304,20.0,,Brazil,D,Right,1909008000.0,515000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Moreirense,3014,Álvaro Martínez,1175474,24.0,181.0,Spain,D,Left,1845936000.0,375000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Moreirense,3014,Henrique Sá,1184328,20.0,186.0,Portugal,D,Right,,,,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Moreirense,3014,Aranha,1587799,21.0,190.0,Brazil,G,Right,1814313600.0,,,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Moreirense,3014,André Ferreira,788197,30.0,193.0,Portugal,G,Right,1845936000.0,555000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Arouca,25777,Fally Mayulu,1185196,24.0,193.0,France,F,Right,,1400000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Arouca,25777,Romualdas Jansonas,1145658,21.0,187.0,Lithuania,F,Right,1909008000.0,390000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Arouca,25777,Vladislav Morozov,1009460,25.0,188.0,Belarus,F,Right,1814313600.0,410000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Arouca,25777,Ivan Barbero,913728,27.0,187.0,Spain,F,Right,1814313600.0,950000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Arouca,25777,Dylan Nandín,1510444,24.0,186.0,Uruguay,F,Right,1845936000.0,1100000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Arouca,25777,Brian Mansilla,1116649,24.0,176.0,Uruguay,F,Left,1845936000.0,825000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Arouca,25777,Si-hoo Park,1975933,18.0,178.0,South Korea,F,Right,,190000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Arouca,25777,Miguel Puche,1000680,25.0,180.0,Spain,F,Right,1845936000.0,380000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Arouca,25777,Bruno Duarte,2486784,19.0,,Portugal,F,,,,,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Arouca,25777,Costinha,2683985,18.0,,Portugal,F,,,,,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Arouca,25777,Taichi Fukui,1105857,22.0,177.0,Japan,M,Right,1845936000.0,5300000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Arouca,25777,Hyun-ju Lee,1191120,23.0,172.0,South Korea,M,Both,1845936000.0,2400000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Arouca,25777,Naïs Djouahra,955133,26.0,172.0,France,M,Right,1814313600.0,1400000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Arouca,25777,Alfonso Trezza,973517,27.0,166.0,Uruguay,M,Right,1814313600.0,1600000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Arouca,25777,Mateo Flores,1893864,22.0,178.0,Spain,M,Left,1877472000.0,1100000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Arouca,25777,Espen Van Ee,1126965,23.0,179.0,Netherlands,M,Right,1877472000.0,1200000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Arouca,25777,Pablo Gozálbez,996932,25.0,170.0,Spain,M,Right,1877472000.0,680000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Arouca,25777,Pedro Santos,1014259,25.0,183.0,Portugal,M,Right,1845936000.0,570000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Arouca,25777,Ferro,2683967,17.0,,Portugal,M,Right,,,,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Arouca,25777,Javi Sánchez,943713,29.0,189.0,Spain,D,Right,,750000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Arouca,25777,Diogo Monteiro,1095652,21.0,184.0,Portugal,D,Right,1845936000.0,310000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Arouca,25777,Orest Lebedenko,844409,27.0,174.0,Ukraine,D,Left,1845936000.0,550000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Arouca,25777,Boris Popović,902050,26.0,189.0,Serbia,D,Right,1845936000.0,930000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Arouca,25777,Jose Fontán,964609,26.0,182.0,Spain,D,Left,1814313600.0,1900000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Arouca,25777,Tiago Esgaio,863637,31.0,175.0,Portugal,D,Right,1814313600.0,1000000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Arouca,25777,Mario Climent,1099547,24.0,179.0,Spain,D,Left,1845936000.0,775000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Arouca,25777,Ignacio de Arruabarrena,789933,29.0,186.0,Uruguay,G,Right,1845936000.0,1000000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Arouca,25777,Nico Mantl,888592,26.0,193.0,Germany,G,Right,1845936000.0,825000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Arouca,25777,Jakub Vinarčík,1165190,21.0,202.0,Slovakia,G,Left,1845936000.0,275000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,FC Arouca,25777,Martim Duarte,1394922,23.0,182.0,Portugal,G,Right,1845936000.0,45000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Famalicão,49531,Georgios Koutsias,999237,22.0,178.0,Greece,F,Right,1940544000.0,1800000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Famalicão,49531,Umar Abubakar,2194737,20.0,190.0,Nigeria,F,Right,1909008000.0,970000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Famalicão,49531,Romeo Beney,1195796,21.0,187.0,Switzerland,F,Right,1909008000.0,1400000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Famalicão,49531,Rudi Almeida,1563668,21.0,185.0,Portugal,F,Right,1877472000.0,,,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Famalicão,49531,Mathis Jangeal,1937851,18.0,177.0,France,M,Right,1940544000.0,910000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Famalicão,49531,Óscar Aranda,984626,24.0,178.0,Spain,M,Right,,3100000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Famalicão,49531,Sorriso,1105595,25.0,175.0,Brazil,M,Right,1877472000.0,4800000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Famalicão,49531,Mathias De Amorim,1511656,21.0,178.0,Portugal,M,Right,1845936000.0,9700000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Famalicão,49531,Tamás Szűcs,1153240,21.0,165.0,Hungary,M,Right,1940544000.0,1500000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Famalicão,49531,Gil Dias,583838,29.0,186.0,Portugal,M,Left,1814313600.0,2100000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Famalicão,49531,Pedro Santos,1120040,23.0,178.0,Portugal,M,Left,1845936000.0,620000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Famalicão,49531,Otso Liimatta,1123032,22.0,169.0,Finland,M,Left,1814313600.0,775000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Famalicão,49531,Tom Van De Looi,836676,27.0,186.0,Netherlands,M,Right,1814313600.0,4500000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Famalicão,49531,Paulo Moreira,1090646,26.0,176.0,Portugal,M,Right,1877472000.0,1500000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Famalicão,49531,Marcos Peña,1493216,21.0,180.0,Spain,M,Right,1877472000.0,1500000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Famalicão,49531,Vojin Serafimović,1152893,20.0,190.0,Serbia,D,Left,1940544000.0,420000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Famalicão,49531,Gustavo García,1002443,24.0,175.0,Brazil,D,Right,1877472000.0,1600000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Famalicão,49531,Léo Realpe,977676,25.0,186.0,Ecuador,D,Right,1877472000.0,4800000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Famalicão,49531,Pedro Bondo,1102988,21.0,178.0,Angola,D,Left,1877472000.0,2100000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Famalicão,49531,Rodrigo Pinheiro,991924,23.0,181.0,Portugal,D,Right,1845936000.0,4700000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Famalicão,49531,Finn van Breemen,1214249,23.0,193.0,Netherlands,D,Left,1909008000.0,970000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Famalicão,49531,Renan Santana,1471224,21.0,181.0,Brazil,D,Left,1877472000.0,1100000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Famalicão,49531,Leny Meyer,1386465,22.0,182.0,Switzerland,D,Left,1909008000.0,570000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Famalicão,49531,Matheus Mattara,1634207,19.0,191.0,Brazil,D,Right,1940544000.0,,,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Famalicão,49531,Lazar Carević,886204,27.0,195.0,Montenegro,G,Right,1845936000.0,4600000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Famalicão,49531,Ivan Zlobin,788203,29.0,191.0,Russia,G,Right,1814313600.0,915000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Casa Pia,36365,Henrique Araújo,998870,24.0,183.0,Portugal,F,Right,,930000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Casa Pia,36365,Alassana Jatta,978748,27.0,192.0,Gambia,F,Right,,575000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Casa Pia,36365,Kelian Nsona,980407,24.0,189.0,France,F,Right,1814313600.0,560000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Casa Pia,36365,Jérémy Livolant,826054,28.0,175.0,France,F,Right,1814313600.0,2700000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Casa Pia,36365,Cassiano,157023,37.0,184.0,Brazil,F,Right,,145000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Casa Pia,36365,Oluwakorede Osundina,1190517,22.0,180.0,USA,F,Left,1845936000.0,360000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Casa Pia,36365,Claudio Mendes,1012448,25.0,186.0,Guinea-Bissau,F,Right,,105000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Casa Pia,36365,Sebastián Pérez,158597,33.0,176.0,Colombia,M,Right,1814313600.0,485000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Casa Pia,36365,Lawrence Ofori,892170,28.0,181.0,Ghana,M,Right,1814313600.0,1500000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Casa Pia,36365,Rochinha,352874,31.0,169.0,Portugal,M,Right,,465000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Casa Pia,36365,Abdu Conté,851276,28.0,183.0,Portugal,M,Left,1845936000.0,660000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Casa Pia,36365,Iyad Mohamed,1131015,25.0,191.0,Comoros,M,Left,1814313600.0,410000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Casa Pia,36365,Selvi Clúa,1513673,21.0,189.0,Spain,M,Left,1814313600.0,290000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Casa Pia,36365,Kevin Prieto,1464186,23.0,184.0,Uruguay,M,Right,1877472000.0,480000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Casa Pia,36365,Raúl Blanco,1069709,25.0,173.0,Spain,M,Left,1814313600.0,330000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Casa Pia,36365,Gabi Pereira,1523664,26.0,181.0,Portugal,M,Left,,530000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Casa Pia,36365,Abdu Dafe,2551196,18.0,,Portugal,M,,,,,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Casa Pia,36365,Kaique Rocha,963990,25.0,195.0,Brazil,D,Right,1845936000.0,960000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Casa Pia,36365,David Sousa,1015932,25.0,190.0,Brazil,D,Left,1845936000.0,1100000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Casa Pia,36365,João Goulart,1151667,26.0,191.0,Portugal,D,Right,1814313600.0,1400000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Casa Pia,36365,Domingos Jose Gabriel Bandeira,1835218,22.0,192.0,Angola,D,Right,1814313600.0,365000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Casa Pia,36365,André Geraldes,125039,35.0,181.0,Portugal,D,Right,1814313600.0,165000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Casa Pia,36365,Pedro Rosas,1091103,25.0,189.0,Portugal,D,Left,,480000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Casa Pia,36365,Patrick Sequeira,821628,27.0,190.0,Costa Rica,G,Right,1814313600.0,3400000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Casa Pia,36365,André Gomes,1139990,21.0,182.0,Portugal,G,Left,1909008000.0,3100000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Casa Pia,36365,Ivan Mandić,1067290,23.0,196.0,Croatia,G,Left,1877472000.0,325000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Casa Pia,36365,Ricardo Batista,9668,39.0,193.0,Angola,G,Left,,110000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Casa Pia,36365,Daniel Azevedo,878493,28.0,195.0,Portugal,G,Right,1814313600.0,185000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,SC Farense,2998,Gabriel Barbosa,934372,27.0,195.0,Brazil,F,Right,,360000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,SC Farense,2998,Joao Gastao,2218660,20.0,180.0,Angola,F,Right,1814313600.0,210000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,SC Farense,2998,Balla Sangaré,1131239,26.0,180.0,Côte d'Ivoire,F,Right,1845936000.0,270000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,SC Farense,2998,André Candeias,1513679,23.0,174.0,Portugal,F,Left,1845936000.0,630000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,SC Farense,2998,Leonardo de Oliveira,1195806,21.0,180.0,Sweden,F,Right,,185000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,SC Farense,2998,Cuba,1170637,23.0,178.0,Portugal,F,Right,,190000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,SC Farense,2998,Marco Matias,77929,37.0,177.0,Portugal,F,Right,,23000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,SC Farense,2998,Jaiminho,829583,28.0,183.0,Portugal,F,Right,,215000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,SC Farense,2998,Sarpreet Singh,822743,27.0,172.0,New Zealand,M,Left,,485000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,SC Farense,2998,Mattheus,243575,32.0,182.0,Brazil,M,Left,,340000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,SC Farense,2998,Claudio Falcão,845699,32.0,187.0,Brazil,M,Right,1877472000.0,430000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,SC Farense,2998,João Resende,1006110,23.0,174.0,Portugal,M,Right,1845936000.0,260000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,SC Farense,2998,Joseph N'Duquidi,1392812,21.0,185.0,France,M,Left,,375000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,SC Farense,2998,Miguel Menino,1163100,23.0,181.0,Portugal,M,Right,1814313600.0,730000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,SC Farense,2998,Rafinha,1862608,20.0,184.0,Portugal,M,Left,1845936000.0,320000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,SC Farense,2998,Gio Almeida,1890492,22.0,185.0,Portugal,M,Right,1814313600.0,245000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,SC Farense,2998,N Victor,2456626,,,,M,,,,,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,SC Farense,2998,Nermin Zolotić,94826,33.0,188.0,Bosnia & Herzegovina,D,Left,1814313600.0,275000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,SC Farense,2998,Rivaldo,1533897,25.0,184.0,Cape Verde,D,Right,,120000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,SC Farense,2998,Gonçalo Silva,169729,35.0,184.0,Portugal,D,Right,1814313600.0,190000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,SC Farense,2998,Alex Pinto,1034711,28.0,187.0,Portugal,D,Right,1814313600.0,375000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,SC Farense,2998,Lucas D'Agrella,2218504,21.0,188.0,Portugal,D,Right,,435000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,SC Farense,2998,Rodrigo Borges,1121942,28.0,184.0,Portugal,D,Left,1814313600.0,310000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,SC Farense,2998,Derick Poloni,892169,32.0,173.0,Brazil,D,Left,,155000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,SC Farense,2998,Fran Delgado,1066011,25.0,181.0,Spain,D,Right,,170000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,SC Farense,2998,Toni Herrero,965834,25.0,179.0,Spain,D,Left,1814313600.0,420000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,SC Farense,2998,Dário Miranda,1397200,23.0,180.0,Portugal,D,Right,,120000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,SC Farense,2998,Matheus Rodrigues,1520848,22.0,191.0,Brazil,D,Right,,105000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,SC Farense,2998,Fabijan Buntić,827377,29.0,194.0,Croatia,G,Left,1814313600.0,470000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,SC Farense,2998,Ricardo Velho,845792,27.0,188.0,Portugal,G,Right,1845936000.0,3100000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,SC Farense,2998,Brian Araújo,990450,26.0,188.0,Portugal,G,Right,1814313600.0,620000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,SC Farense,2998,Jakob Tånnander,856803,25.0,190.0,Sweden,G,Left,1814313600.0,360000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,SC Farense,2998,Miguel Carvalho,786018,30.0,185.0,Portugal,G,Right,,97000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Rio Ave,3036,Dario Špikić,826024,27.0,183.0,Croatia,F,Right,1845936000.0,970000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Rio Ave,3036,Tamblé Monteiro,1094384,25.0,191.0,Guinea-Bissau,F,Right,,1100000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Rio Ave,3036,Jalen Blesa,1499082,25.0,187.0,Spain,F,Right,1909008000.0,1900000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Rio Ave,3036,Tobias Medina,1485103,22.0,170.0,Argentina,F,Left,1845936000.0,620000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Rio Ave,3036,Amine Rehmi,1513290,24.0,186.0,Netherlands,F,Left,1845936000.0,94000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Rio Ave,3036,Roland Galčík,960045,25.0,173.0,Slovakia,F,Left,1909008000.0,405000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Rio Ave,3036,Samuel da Silva Alves,1883364,18.0,187.0,Brazil,F,Left,,,,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Rio Ave,3036,Tamás Nikitscher,1393242,26.0,193.0,Hungary,M,Left,1877472000.0,770000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Rio Ave,3036,Brandon Aguilera,1020203,23.0,180.0,Costa Rica,M,Left,1814313600.0,1500000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Rio Ave,3036,Diogo Nascimento,997022,23.0,166.0,Portugal,M,Right,1814313600.0,4400000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Rio Ave,3036,Ryan Guilherme,1105850,23.0,185.0,Brazil,M,Right,1909008000.0,815000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Rio Ave,3036,Andreas Ndoj,1005992,23.0,190.0,Greece,M,Both,1845936000.0,5400000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Rio Ave,3036,Rafael Lobato,1485731,20.0,171.0,Brazil,M,Left,1877472000.0,830000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Rio Ave,3036,Marios Vrousai,848521,28.0,183.0,Greece,M,Both,1814313600.0,3100000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Rio Ave,3036,Diogo Bezerra,1176881,24.0,186.0,Brazil,M,Right,1909008000.0,1600000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Rio Ave,3036,Georgios Liavas,946909,25.0,175.0,Greece,M,Right,1877472000.0,650000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Rio Ave,3036,Gustavo Mancha,2034540,22.0,190.0,Brazil,D,Left,1814313600.0,1500000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Rio Ave,3036,Nelson Abbey,1064359,22.0,187.0,England,D,Left,1845936000.0,1600000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Rio Ave,3036,João Tomé,1173124,23.0,183.0,Portugal,D,Right,1814313600.0,580000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Rio Ave,3036,Francisco Petrasso,1467139,24.0,191.0,Argentina,D,Right,1845936000.0,1200000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Rio Ave,3036,Jakub Brabec,72020,34.0,186.0,Czechia,D,Right,1814313600.0,380000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Rio Ave,3036,Julien Lomboto,1478890,24.0,191.0,France,D,Right,1845936000.0,310000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Rio Ave,3036,Cezary Miszta,938292,24.0,192.0,Poland,G,Right,1814313600.0,4900000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Rio Ave,3036,Kevin Chamorro,905406,26.0,183.0,Costa Rica,G,Left,1877472000.0,290000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Rio Ave,3036,Antzelo Sina,1196018,22.0,186.0,Albania,G,Left,1814313600.0,205000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Rio Ave,3036,Ennio Van Der Gouw,1005270,25.0,195.0,Netherlands,G,Right,1877472000.0,390000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Gil Vicente,3010,Héctor Hernández,352448,30.0,180.0,Spain,F,Right,1814313600.0,880000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Gil Vicente,3010,Bassco Soyer,1482438,19.0,167.0,Peru,F,Right,1845936000.0,240000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Gil Vicente,3010,Carlos Eduardo,1014254,23.0,192.0,Brazil,F,Left,1845936000.0,470000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Gil Vicente,3010,Walace dos Santos França,2436887,20.0,187.0,Brazil,F,Left,,525000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Gil Vicente,3010,Mohamed Kaba,1130893,23.0,189.0,Mali,F,Right,1814313600.0,27000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Gil Vicente,3010,Diogo Prioste,1146008,22.0,179.0,Portugal,M,Right,1814313600.0,1900000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Gil Vicente,3010,Joelson Fernandes,1032547,23.0,172.0,Portugal,M,Right,1877472000.0,945000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Gil Vicente,3010,Murilo,611880,31.0,176.0,Brazil,M,Left,1845936000.0,830000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Gil Vicente,3010,Facundo Cáseres,989837,25.0,178.0,Argentina,M,Right,1845936000.0,2700000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Gil Vicente,3010,Santi García,1084746,24.0,188.0,Spain,M,Right,1845936000.0,4400000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Gil Vicente,3010,Mohamed Bamba,1537180,21.0,188.0,Côte d'Ivoire,M,Left,1814313600.0,1600000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Gil Vicente,3010,Tidjany Touré,1445615,24.0,184.0,France,M,Right,1814313600.0,460000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Gil Vicente,3010,Gil Martins,1410239,20.0,177.0,Portugal,M,Right,1845936000.0,220000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Gil Vicente,3010,Zé Carlos,1138915,24.0,172.0,Portugal,M,Right,1845936000.0,825000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Gil Vicente,3010,Agustín Moreira,1799336,25.0,174.0,Uruguay,M,Right,1877472000.0,955000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Gil Vicente,3010,Martin Fernández,1083277,23.0,171.0,Uruguay,M,Left,1877472000.0,420000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Gil Vicente,3010,Andreas Lausen,1000566,23.0,185.0,Denmark,M,Right,1909008000.0,680000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Gil Vicente,3010,Sergio Bermejo,949449,28.0,170.0,Spain,M,Left,1814313600.0,645000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Gil Vicente,3010,Gonçalo Maia Pereira,2158739,20.0,173.0,Portugal,M,Right,1845936000.0,94000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Gil Vicente,3010,Ghislain Konan,831781,30.0,176.0,Côte d'Ivoire,D,Left,,2800000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Gil Vicente,3010,Ricardo Esgaio,97000,33.0,171.0,Portugal,D,Right,1845936000.0,740000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Gil Vicente,3010,David Moreira,1477659,22.0,171.0,Cape Verde,D,Left,,1600000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Gil Vicente,3010,Jonathan Buatu,800348,32.0,187.0,Angola,D,Left,1845936000.0,565000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Gil Vicente,3010,José Silva,1520738,20.0,178.0,Portugal,D,Right,1877472000.0,465000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Gil Vicente,3010,Weverson,905452,26.0,185.0,Brazil,D,Left,1845936000.0,750000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Gil Vicente,3010,Marvin Elimbi Gilbert,1114164,23.0,186.0,France,D,Right,1845936000.0,3900000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Gil Vicente,3010,Antonio Espigares,1142261,21.0,187.0,Spain,D,Right,1877472000.0,465000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Gil Vicente,3010,Arthur Tchaptchet,1426239,20.0,188.0,France,D,Right,,93000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Gil Vicente,3010,Lucão,981586,25.0,190.0,Brazil,G,Both,1845936000.0,1300000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Gil Vicente,3010,Tiago Ferreira,2685708,17.0,,Portugal,G,Right,,,,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Estoril Praia,4500,Yanis Begraoui,930246,25.0,175.0,Morocco,F,Both,1845936000.0,11500000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Estoril Praia,4500,Rafik Guitane,826210,27.0,170.0,Algeria,F,Left,1814313600.0,5200000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Estoril Praia,4500,João Carvalho,548044,29.0,170.0,Portugal,F,Right,1814313600.0,4800000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Estoril Praia,4500,Khayon Edwards,1084291,22.0,180.0,England,F,Right,1845936000.0,390000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Estoril Praia,4500,André Lacximicant,1120679,25.0,190.0,Portugal,F,Left,1845936000.0,770000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Estoril Praia,4500,Israel Salazar,1090194,23.0,177.0,Spain,F,Right,1845936000.0,94000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Estoril Praia,4500,Fabrício Garcia,1190120,25.0,172.0,Cape Verde,F,Left,1845936000.0,410000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Estoril Praia,4500,Peixinho,1513647,22.0,185.0,Portugal,F,Left,1845936000.0,215000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Estoril Praia,4500,Jordan Holsgrove,920684,26.0,180.0,Scotland,M,Left,1845936000.0,5300000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Estoril Praia,4500,Xeka,858705,31.0,186.0,Portugal,M,Both,1845936000.0,750000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Estoril Praia,4500,Jandro Orellana,877920,26.0,178.0,Spain,M,Right,1814313600.0,1000000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Estoril Praia,4500,Luis Gomes,1520736,22.0,170.0,Portugal,M,Right,1845936000.0,,,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Estoril Praia,4500,Tiago Brito,1651509,22.0,190.0,Portugal,M,Right,1877472000.0,270000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Estoril Praia,4500,Ferro,357734,29.0,193.0,Portugal,D,Right,1814313600.0,965000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Estoril Praia,4500,Stelios Andreou,994282,24.0,187.0,Cyprus,D,Right,1814313600.0,1900000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Estoril Praia,4500,Antef Tsoungui,994532,23.0,185.0,Belgium,D,Left,1877472000.0,970000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Estoril Praia,4500,Ricard Sánchez,986726,26.0,175.0,Spain,D,Right,1814313600.0,3200000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Estoril Praia,4500,Tiago Parente,1403144,22.0,180.0,Portugal,D,Left,1877472000.0,480000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Estoril Praia,4500,Gonçalo Costa,1087354,26.0,170.0,Portugal,D,Left,1845936000.0,565000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Estoril Praia,4500,Pedro Carvalho,1511977,23.0,169.0,Portugal,D,Right,1845936000.0,870000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Estoril Praia,4500,Ismael Sierra Arnal,1137243,23.0,192.0,Spain,D,Right,1814313600.0,775000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Estoril Praia,4500,Fernando Medrano,912980,26.0,172.0,Spain,D,Left,1845936000.0,535000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Estoril Praia,4500,Diogo Brasido,1900348,23.0,179.0,Portugal,D,Right,,210000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Estoril Praia,4500,Jordan Arnolin,2150506,18.0,182.0,Portugal,D,Right,1877472000.0,,,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Estoril Praia,4500,Martin Turk,1083104,22.0,190.0,Slovenia,G,Left,1845936000.0,320000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Estoril Praia,4500,Joel Robles,93796,36.0,195.0,Spain,G,Right,1845936000.0,380000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Estoril Praia,4500,Diogo Dias,1513619,23.0,188.0,Portugal,G,Right,,190000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,CF Estrela Amadora,3035,Sydney van Hooijdonk,943595,26.0,190.0,Netherlands,F,Right,1845936000.0,1000000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,CF Estrela Amadora,3035,Ianis Stoica,910316,23.0,180.0,Romania,F,Right,1845936000.0,1500000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,CF Estrela Amadora,3035,Leandro Antonetti,1158547,23.0,189.0,Puerto Rico,F,Left,1845936000.0,205000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,CF Estrela Amadora,3035,Henrique Poniewas,2239852,19.0,193.0,Brazil,F,Right,,,,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,CF Estrela Amadora,3035,Lovro Zvonarek,1120914,21.0,180.0,Croatia,M,Right,1877472000.0,1700000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,CF Estrela Amadora,3035,Eddy Doué,2368703,20.0,180.0,Côte d'Ivoire,M,Right,1845936000.0,390000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,CF Estrela Amadora,3035,Abraham Marcus,1090543,26.0,178.0,Nigeria,M,Left,1845936000.0,970000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,CF Estrela Amadora,3035,Bénito,1580384,22.0,191.0,France,M,Both,1877472000.0,160000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,CF Estrela Amadora,3035,Robinho,2058164,24.0,180.0,Brazil,M,Right,1845936000.0,565000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,CF Estrela Amadora,3035,Tom Moustier,1210450,24.0,185.0,France,M,Right,1845936000.0,410000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,CF Estrela Amadora,3035,Alisson Souza de Jesus,1864305,21.0,,Brazil,M,Right,1845936000.0,110000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,CF Estrela Amadora,3035,Kevin Höög Jansson,989449,25.0,190.0,Sweden,M,Left,1845936000.0,370000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,CF Estrela Amadora,3035,Santiago Serra,2040835,19.0,185.0,Portugal,M,Left,,,,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,CF Estrela Amadora,3035,Emerson Pedro Vanga,1952919,20.0,178.0,France,M,Right,,,,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,CF Estrela Amadora,3035,Stefan Leković,1146225,22.0,194.0,Serbia,D,Right,1877472000.0,2700000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,CF Estrela Amadora,3035,Jefferson Encada,851283,28.0,188.0,Guinea-Bissau,D,Both,1845936000.0,420000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,CF Estrela Amadora,3035,Luan Patrick,1002565,24.0,190.0,Brazil,D,Right,1845936000.0,2100000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,CF Estrela Amadora,3035,Issiar Drame,857766,27.0,196.0,Mali,D,Right,1814313600.0,290000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,CF Estrela Amadora,3035,Bernardo Schappo,1017590,27.0,191.0,Brazil,D,Left,1845936000.0,705000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,CF Estrela Amadora,3035,Rafa Soares,190137,31.0,177.0,Portugal,D,Left,1845936000.0,935000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,CF Estrela Amadora,3035,Atanas Chernev,1031642,24.0,193.0,Bulgaria,D,Right,1845936000.0,740000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,CF Estrela Amadora,3035,Max Scholze,1410927,21.0,184.0,Germany,D,Right,1845936000.0,390000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,CF Estrela Amadora,3035,Lucas Mincarelli,1512339,22.0,180.0,France,D,Left,1877472000.0,730000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,CF Estrela Amadora,3035,Léo Linck,1119887,25.0,194.0,Brazil,G,Right,,3100000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,CF Estrela Amadora,3035,Diogo Pinto,1142575,22.0,194.0,Portugal,G,Right,1845936000.0,310000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,CF Estrela Amadora,3035,Dudu,939692,27.0,195.0,Germany,G,Right,1845936000.0,145000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,CF Estrela Amadora,3035,David Grilo,929640,29.0,184.0,Portugal,G,Right,1845936000.0,105000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Portimonense SAD,3026,Mo Dauda,923823,28.0,176.0,Ghana,F,Right,1814313600.0,190000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Portimonense SAD,3026,Mesaque Dju,861032,27.0,178.0,Portugal,F,Both,1814313600.0,155000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Portimonense SAD,3026,Danio Djassi,1896130,19.0,169.0,Guinea-Bissau,F,Right,,370000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Portimonense SAD,3026,Welinton Junior,329307,33.0,175.0,Brazil,F,Right,,70000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Portimonense SAD,3026,Gonçalo Águas,1620974,22.0,,Portugal,F,Right,,,,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Portimonense SAD,3026,Paulinho,1528337,26.0,178.0,Portugal,F,Right,,,,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Portimonense SAD,3026,Diogo Rodrigues,2239703,22.0,174.0,Portugal,F,Right,1845936000.0,,,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Portimonense SAD,3026,Shoya Nakajima,155825,31.0,167.0,Japan,M,Right,1814313600.0,465000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Portimonense SAD,3026,Edney Henrique,1561865,22.0,175.0,Brazil,M,Right,1814313600.0,550000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Portimonense SAD,3026,Kristofer Kait,1064694,21.0,190.0,Estonia,M,Right,,78000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Portimonense SAD,3026,Mamede,1087353,24.0,174.0,Portugal,M,Left,1814313600.0,440000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Portimonense SAD,3026,Xavier,927216,26.0,178.0,Brazil,M,Right,,315000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Portimonense SAD,3026,Duda,1201654,23.0,175.0,Portugal,M,Left,1814313600.0,,,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Portimonense SAD,3026,Welat Cagro,988579,27.0,188.0,Belgium,M,Left,1814313600.0,340000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Portimonense SAD,3026,Lucas De Bolle,1009735,23.0,,Scotland,M,Right,1845936000.0,97000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Portimonense SAD,3026,João Reis,343487,34.0,174.0,Portugal,M,Left,,80000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Portimonense SAD,3026,Midana Cassamá,1520746,23.0,185.0,Guinea-Bissau,M,Right,,260000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Portimonense SAD,3026,João Casimiro,2195756,20.0,176.0,Portugal,M,Right,1814313600.0,110000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Portimonense SAD,3026,Alex Soares,203258,35.0,179.0,Portugal,M,Right,,,,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Portimonense SAD,3026,Heitor,974503,25.0,174.0,Brazil,D,Right,,475000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Portimonense SAD,3026,Thauan Lara,1116956,22.0,176.0,Brazil,D,Left,1814313600.0,375000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Portimonense SAD,3026,Jarleysom Amurim,1897860,22.0,194.0,Brazil,D,Right,1845936000.0,370000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Portimonense SAD,3026,Douglas Grolli,243725,36.0,189.0,Brazil,D,Right,,,,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Portimonense SAD,3026,Marlon Junior,1158441,20.0,181.0,Portugal,D,Left,1814313600.0,520000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Portimonense SAD,3026,Italo Cabelinho,1171694,22.0,,Brazil,D,Right,,,,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Portimonense SAD,3026,Samy,2002888,26.0,186.0,Angola,D,Left,1814313600.0,160000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Portimonense SAD,3026,Tony,1908741,22.0,177.0,Angola,D,Left,,,,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Portimonense SAD,3026,Douglas Friedrich,838439,37.0,193.0,Brazil,G,Right,,24000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Portimonense SAD,3026,Sébastien Cibois,904990,28.0,192.0,France,G,Right,1814313600.0,220000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Portimonense SAD,3026,Dudu,939692,27.0,195.0,Germany,G,Right,1845936000.0,145000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Portimonense SAD,3026,Wellington Luiz Santana,1109481,29.0,197.0,Brazil,G,Right,,,,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Portimonense SAD,3026,Lagartinho,2237963,19.0,184.0,Portugal,G,,,,,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Portimonense SAD,3026,Joao Santos,2290342,,,,,,,,,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vizela,5136,Yassin Fortune,826211,27.0,186.0,Haiti,F,Right,1814313600.0,290000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vizela,5136,Anthony Carter,370010,31.0,192.0,Australia,F,Both,1845936000.0,195000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vizela,5136,Yann Kitala,857762,28.0,186.0,France,F,Left,1814313600.0,180000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vizela,5136,Manu Garrido,1034124,26.0,190.0,Spain,F,Right,1814313600.0,265000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vizela,5136,Pedro Ramos,1651504,21.0,175.0,Portugal,F,Left,1814313600.0,145000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vizela,5136,Ricardo Pereira,2423244,18.0,176.0,Portugal,F,Right,,,,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vizela,5136,Leverton Pierre,912050,28.0,181.0,Haiti,M,Right,,205000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vizela,5136,Matías Lacava,1016029,23.0,167.0,Venezuela,M,Left,,500000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vizela,5136,Heinz Mörschel,842192,28.0,190.0,Dominican Republic,M,Right,1814313600.0,1200000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vizela,5136,Angelo Neto,843358,34.0,181.0,Brazil,M,Right,1814313600.0,52000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vizela,5136,Hristo Ivanov,988828,25.0,186.0,Bulgaria,M,Right,1814313600.0,715000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vizela,5136,Abdul Awudu,1032325,25.0,182.0,Ghana,M,Right,1845936000.0,430000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vizela,5136,Miguel Pires,1508011,24.0,185.0,Portugal,M,Right,1877472000.0,675000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vizela,5136,Thio,990937,27.0,185.0,France,M,Left,,540000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vizela,5136,Angel Bastunov,935081,27.0,183.0,Bulgaria,M,Right,1814313600.0,340000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vizela,5136,Miguel Tavares,976226,27.0,170.0,Portugal,M,Right,1845936000.0,370000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vizela,5136,Aleksandar Busnić,905761,28.0,191.0,Serbia,M,Right,,485000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vizela,5136,Rodrigo Ramos,1651506,22.0,181.0,Portugal,M,Right,1877472000.0,290000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vizela,5136,Damien Loppy,1528205,28.0,191.0,France,M,Right,1814313600.0,370000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vizela,5136,Jean-Pierre Rhyner,798271,30.0,188.0,Peru,D,Left,1814313600.0,260000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vizela,5136,Alfred Caicedo,1116361,21.0,179.0,Ecuador,D,Right,1845936000.0,310000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vizela,5136,Mamadou Mbaye,921621,28.0,188.0,Senegal,D,Left,,220000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vizela,5136,Jójó,1132182,25.0,188.0,Cape Verde,D,Right,1814313600.0,390000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vizela,5136,Andrea Hristov,842354,27.0,193.0,Bulgaria,D,Both,1814313600.0,260000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vizela,5136,Stefan Obradović,1393480,22.0,193.0,Serbia,D,Right,1814313600.0,530000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vizela,5136,Jose Sampaio,1651478,21.0,189.0,Portugal,D,Right,1845936000.0,530000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vizela,5136,Luís Rocha,141012,39.0,186.0,Portugal,D,Right,1814313600.0,48000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vizela,5136,Bright Osuoha Godwin,1031415,24.0,180.0,Nigeria,D,Left,1814313600.0,640000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vizela,5136,Ítalo,1589452,24.0,180.0,Brazil,D,Right,1814313600.0,485000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vizela,5136,Antonio Gomis,1156733,23.0,191.0,Spain,G,Left,1814313600.0,990000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vizela,5136,Pedro Souza,1120041,24.0,186.0,Portugal,G,Right,,110000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Vizela,5136,Aleksandar Vulić,1049522,25.0,203.0,Serbia,G,Right,1845936000.0,530000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Chaves,3025,Gabriel Souza,1444693,21.0,190.0,Brazil,F,Right,1814313600.0,2100000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Chaves,3025,Costinha,1133681,25.0,173.0,Portugal,F,Right,1814313600.0,410000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Chaves,3025,Roberto,823717,37.0,180.0,Portugal,F,Right,1814313600.0,52000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Chaves,3025,Robyn Esajas,1086109,24.0,181.0,Netherlands,F,Left,1845936000.0,315000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Chaves,3025,Wellington Carvalho,842334,33.0,182.0,Brazil,F,Both,,53000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Chaves,3025,Wilson Tavares,2239945,24.0,192.0,Cape Verde,F,Left,,,,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Chaves,3025,Divin Muteba,2683125,22.0,,DR Congo,F,Right,,,,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Chaves,3025,Federico Bikoro,914161,30.0,185.0,Equatorial Guinea,M,Left,,77000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Chaves,3025,João Teixeira,138899,32.0,178.0,Portugal,M,Right,1814313600.0,97000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Chaves,3025,Gilberto García,990400,25.0,178.0,Mexico,M,Right,,680000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Chaves,3025,Marcos Andre,1523834,23.0,185.0,Brazil,M,Right,,105000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Chaves,3025,Pedro Pelágio,970782,26.0,181.0,Portugal,M,Right,1845936000.0,290000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Chaves,3025,Dru Yearwood,892078,26.0,175.0,England,M,Right,,640000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Chaves,3025,Ktatau,973830,25.0,180.0,Brazil,M,Right,1845936000.0,485000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Chaves,3025,André Rodrigues,913158,28.0,176.0,Portugal,M,Both,1845936000.0,185000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Chaves,3025,Brice Eboudjé,1470630,21.0,181.0,Cameroon,M,Right,1845936000.0,,,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Chaves,3025,Rodrigo Melro,1513620,22.0,177.0,Portugal,M,Right,,105000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Chaves,3025,Gabriel Rodrigues,2229173,21.0,,Portugal,M,Right,,105000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Chaves,3025,Diogo Cardoso,1954219,21.0,171.0,Portugal,M,Both,,,,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Chaves,3025,Mamadou Tounkara,208636,24.0,192.0,Mali,D,Right,1845936000.0,185000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Chaves,3025,Léo Alaba,1105945,27.0,179.0,Brazil,D,Right,,515000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Chaves,3025,Bruno Rodrigues,1021100,25.0,192.0,Portugal,D,Right,1845936000.0,1300000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Chaves,3025,Antony Herbert,2282763,21.0,180.0,Panama,D,Right,1814313600.0,48000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Chaves,3025,Ricardo Alves,252717,35.0,181.0,Portugal,D,Left,,23000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Chaves,3025,Tiago Simões,1145834,26.0,189.0,Portugal,D,Left,1877472000.0,440000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Chaves,3025,Aarón Romero,1094744,27.0,178.0,Spain,D,Left,1845936000.0,260000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Chaves,3025,Kiko Pereira,1423627,26.0,177.0,Portugal,D,Left,1845936000.0,280000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Chaves,3025,João Valido,973352,26.0,185.0,Portugal,G,Right,,425000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Chaves,3025,Rodrigo Nascimento,1128775,30.0,198.0,Brazil,G,Right,,155000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
+Portugal,Liga Portugal Betclic,238,52769,Chaves,3025,Marko Gudžulić,1147582,24.0,196.0,Serbia,G,Right,1814313600.0,245000.0,EUR,POR,2023-2024,datafc_sofascore,2026-08-09T08:32:06.759140
