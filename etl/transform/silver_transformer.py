@@ -17,6 +17,7 @@ Usage :
 
 import logging
 import re
+import time
 import unicodedata
 from datetime import datetime, timezone
 from pathlib import Path
@@ -25,17 +26,19 @@ from typing import Optional
 import pandas as pd
 from dotenv import load_dotenv
 from sqlalchemy import create_engine, text
+from sqlalchemy.engine import URL
+from sqlalchemy.exc import OperationalError
 
 import os
 
 # ── Chemins ────────────────────────────────────────────────────────────────────
-ROOT       = Path(__file__).resolve().parents[2]
-BRONZE_DIR = ROOT / "data" / "bronze"
-LOGS_DIR   = ROOT / "logs"
+ROOT         = Path(__file__).resolve().parents[2]
+BRONZE_DIR   = ROOT / "data" / "bronze"
+BRONZE_ARCHIVES_DIR = BRONZE_DIR / "_Archives"
+LOGS_DIR     = ROOT / "logs"
 LOGS_DIR.mkdir(parents=True, exist_ok=True)
 
-load_dotenv(ROOT / ".env")
-DATABASE_URL = os.environ["DATABASE_URL"]
+load_dotenv(ROOT / "config" / ".env")
 
 # Année de référence pour le calcul is_u23 (né après 2002 → U23 en 2025/26)
 U23_BIRTH_YEAR = 2002
@@ -95,14 +98,89 @@ def calc_p90(value, minutes) -> Optional[float]:
 
 
 def get_engine():
-    return create_engine(DATABASE_URL)
+    # pool_pre_ping : Neon (endpoint pooler) ferme parfois les connexions
+    # inactives côté serveur ; sans ce test, SQLAlchemy réutilise une
+    # connexion morte du pool et l'upsert échoue avec
+    # "server closed the connection unexpectedly". pool_recycle borne
+    # aussi la durée de vie d'une connexion en pool par précaution.
+    # connect_timeout (côté libpq) : sans ça, une tentative de connexion
+    # sur un état réseau anormal peut rester bloquée des dizaines de
+    # minutes avant d'échouer (observé : 47 min) au lieu d'échouer vite
+    # et de laisser execute_with_retry() retenter proprement.
+    engine_kwargs = dict(
+        pool_pre_ping=True,
+        pool_recycle=280,
+        connect_args={"connect_timeout": 10},
+    )
+
+    database_url = os.environ.get("DATABASE_URL")
+    if database_url:
+        return create_engine(database_url, **engine_kwargs)
+
+    required = ["DB_HOST", "DB_PORT", "DB_NAME", "DB_USER", "DB_PASSWORD"]
+    missing = [v for v in required if not os.environ.get(v)]
+    if missing:
+        raise RuntimeError(
+            "Variables manquantes dans config/.env : " + ", ".join(missing) +
+            " (ou renseigner DATABASE_URL directement)"
+        )
+    url = URL.create(
+        drivername="postgresql+psycopg2",
+        username=os.environ["DB_USER"],
+        password=os.environ["DB_PASSWORD"],
+        host=os.environ["DB_HOST"],
+        port=int(os.environ["DB_PORT"]),
+        database=os.environ["DB_NAME"],
+    )
+    return create_engine(url, **engine_kwargs)
+
+
+def execute_with_retry(engine, sql, rows, logger: logging.Logger, max_retries: int = 4, delay: float = 5.0) -> None:
+    """Le pooler Neon coupe parfois la connexion en cours de requête
+    (pas seulement au repos, ce que pool_pre_ping ne couvre pas).
+    On retente la même transaction quelques fois avant d'abandonner."""
+    last_exc: Optional[Exception] = None
+    for attempt in range(1, max_retries + 1):
+        try:
+            with engine.begin() as conn:
+                conn.execute(sql, rows)
+            return
+        except OperationalError as e:
+            last_exc = e
+            logger.warning(
+                f"    Connexion DB perdue (tentative {attempt}/{max_retries}), "
+                f"nouvel essai dans {delay:.0f}s..."
+            )
+            time.sleep(delay)
+    raise last_exc
+
+
+def to_records(df: pd.DataFrame) -> list:
+    """DataFrame -> liste de dicts avec NaN -> None.
+    df.where(pd.notna(df), None) seul ne suffit pas : sur une colonne
+    float64, pandas recase silencieusement None en NaN. Il faut passer
+    en dtype object d'abord pour que None soit réellement conservé."""
+    return df.astype(object).where(pd.notna(df), None).to_dict(orient="records")
+
+
+def normalize_columns(df: pd.DataFrame) -> pd.DataFrame:
+    """Les CSV fbref ont des en-têtes 'Title Case avec espaces'
+    (ex: 'Playing Time_MP') alors que les mappings de ce script
+    attendent du snake_case ('playing_time_mp')."""
+    df.columns = [str(c).strip().lower().replace(" ", "_") for c in df.columns]
+    return df
 
 
 def saison_from_filename(fname: str) -> Optional[str]:
     """Extrait la saison depuis le nom de fichier bronze.
-    Ex: '20240101_120000_ENG_20232024_standard.csv' → '2023-2024'
+    Formats supportés :
+      '..._20232024_...'  (fichiers actuels, concaténé)
+      '..._2023_2024_...' (anciens fichiers, avec séparateur)
     """
     m = re.search(r"_(\d{4})(\d{4})_", fname)
+    if m:
+        return f"{m.group(1)}-{m.group(2)}"
+    m = re.search(r"_(\d{4})_(\d{4})_", fname)
     if m:
         return f"{m.group(1)}-{m.group(2)}"
     return None
@@ -111,16 +189,129 @@ def saison_from_filename(fname: str) -> Optional[str]:
 def league_from_filename(fname: str) -> Optional[str]:
     """Extrait le league_id depuis le nom de fichier bronze.
     Ex: '20240101_120000_ENG_20232024_standard.csv' → 'ENG'
+    Le nom de fichier commence directement par l'horodatage
+    (pas de '_' en tête) → pattern ancré en début de chaîne.
     """
-    m = re.search(r"_(\d{8}_\d{6})_([A-Z]{3})_", fname)
-    if m:
-        return m.group(2)
-    return None
+    m = re.match(r"\d{8}_\d{6}_([A-Z]{3})_", fname)
+    return m.group(1) if m else None
+
+
+# ── 0. Infos bio joueurs (players_info) ────────────────────────────────────────
+POSITION_MAP = {"G": "GK", "D": "DF", "M": "MF", "F": "FW"}
+
+
+def load_players_info(engine, logger: logging.Logger):
+    """Charge silver.players_info depuis *_players_info.csv.
+    Ces fichiers ont été archivés lors de la régénération bronze du 10/08 —
+    on les cherche aussi bien à la racine que dans data/bronze/_Archives/,
+    car les données bio (naissance, nationalité, poste, pied, taille) sont
+    stables et n'ont pas besoin d'être re-scrapées à chaque run.
+    """
+    logger.info("[0/7] Chargement infos bio joueurs → silver.players_info")
+
+    files = sorted(BRONZE_DIR.glob("*_players_info.csv"))
+    if not files:
+        files = sorted(BRONZE_ARCHIVES_DIR.glob("*_players_info.csv"))
+        if files:
+            logger.info(f"  (aucun *_players_info.csv en racine, utilisation de {BRONZE_ARCHIVES_DIR})")
+    if not files:
+        logger.warning("  Aucun fichier *_players_info.csv trouvé (racine ou _Archives) — silver.players_info non alimenté")
+        return
+
+    # Table de correspondance nom pays anglais -> code pays, pour résoudre
+    # nationalite_id depuis la colonne texte 'nationality' du CSV
+    # (la colonne 'nationality_id' du CSV est vide côté source).
+    with engine.connect() as conn:
+        df_pays = pd.read_sql(text("SELECT pays_id, nom_en FROM silver.ref_pays"), conn)
+    nom_en_to_id = {
+        str(r.nom_en).strip().lower(): r.pays_id
+        for r in df_pays.itertuples()
+        if pd.notna(r.nom_en)
+    }
+
+    total_upserted = 0
+    unique_ids: set = set()
+
+    for f in files:
+        try:
+            df = pd.read_csv(f, low_memory=False)
+        except Exception as e:
+            logger.error(f"  Lecture {f.name}: {e}")
+            continue
+
+        if "player_id" not in df.columns:
+            logger.warning(f"  Colonne 'player_id' absente de {f.name} — ignoré")
+            continue
+
+        dob = pd.to_datetime(df.get("date_of_birth"), errors="coerce")
+        df["date_naissance"]  = dob.dt.date
+        df["annee_naissance"] = dob.dt.year
+        df["is_u23"] = df["annee_naissance"].apply(
+            lambda y: bool(y > U23_BIRTH_YEAR) if pd.notna(y) else None
+        )
+        df["nationalite_id"] = df.get("nationality", pd.Series(dtype=object)).apply(
+            lambda n: nom_en_to_id.get(str(n).strip().lower()) if pd.notna(n) else None
+        )
+        df["poste_principal"]   = df.get("position", pd.Series(dtype=object)).map(POSITION_MAP)
+        df["poste_detail"]      = df.get("position_detailed")
+        df["pied_dominant"]     = df.get("preferred_foot")
+        df["taille_cm"]         = pd.to_numeric(df.get("height"), errors="coerce")
+        df["poids_kg"]          = pd.to_numeric(df.get("weight"), errors="coerce")
+        df["nom_court"]         = None
+        df["nationalite2_id"]   = None
+        df["player_name_fbref"] = None
+        df["born_fbref"]        = None
+        df["date_maj"]          = datetime.now(timezone.utc)
+        df = df.rename(columns={"player_id": "player_id_ss"})
+
+        silver_cols = [
+            "player_id_ss","player_name","nom_court","date_naissance","annee_naissance",
+            "is_u23","nationalite_id","nationalite2_id","poste_principal","poste_detail",
+            "pied_dominant","taille_cm","poids_kg","player_name_fbref","born_fbref","date_maj",
+        ]
+        for c in silver_cols:
+            if c not in df.columns:
+                df[c] = None
+        df_out = df[silver_cols].dropna(subset=["player_id_ss"]).copy()
+        if df_out.empty:
+            continue
+        df_out["player_id_ss"] = df_out["player_id_ss"].astype("int64")
+
+        rows = to_records(df_out)
+        sql = text("""
+            INSERT INTO silver.players_info
+                (player_id_ss, player_name, nom_court, date_naissance, annee_naissance,
+                 is_u23, nationalite_id, nationalite2_id, poste_principal, poste_detail,
+                 pied_dominant, taille_cm, poids_kg, player_name_fbref, born_fbref, date_maj)
+            VALUES
+                (:player_id_ss, :player_name, :nom_court, :date_naissance, :annee_naissance,
+                 :is_u23, :nationalite_id, :nationalite2_id, :poste_principal, :poste_detail,
+                 :pied_dominant, :taille_cm, :poids_kg, :player_name_fbref, :born_fbref, :date_maj)
+            ON CONFLICT (player_id_ss) DO UPDATE SET
+                player_name      = EXCLUDED.player_name,
+                date_naissance    = EXCLUDED.date_naissance,
+                annee_naissance   = EXCLUDED.annee_naissance,
+                is_u23            = EXCLUDED.is_u23,
+                nationalite_id    = EXCLUDED.nationalite_id,
+                poste_principal   = EXCLUDED.poste_principal,
+                poste_detail      = EXCLUDED.poste_detail,
+                pied_dominant     = EXCLUDED.pied_dominant,
+                taille_cm         = EXCLUDED.taille_cm,
+                poids_kg          = EXCLUDED.poids_kg,
+                date_maj          = EXCLUDED.date_maj
+        """)
+        execute_with_retry(engine, sql, rows, logger)
+
+        total_upserted += len(rows)
+        unique_ids.update(df_out["player_id_ss"].tolist())
+        logger.info(f"  [OK] {f.name} — {len(rows)} lignes")
+
+    logger.info(f"  Total players_info : {total_upserted} lignes upsertées ({len(unique_ids)} joueurs uniques)")
 
 
 # ── 1. FBref joueurs de champ ──────────────────────────────────────────────────
 def load_fbref_players(engine, logger: logging.Logger):
-    logger.info("[1/6] Chargement FBref joueurs de champ → silver.players_fbref")
+    logger.info("[1/7] Chargement FBref joueurs de champ → silver.players_fbref")
 
     # Grouper les fichiers par (league_id, saison)
     groups: dict[tuple, dict[str, Path]] = {}
@@ -160,7 +351,7 @@ def load_fbref_players(engine, logger: logging.Logger):
             continue
 
         try:
-            df_std = pd.read_csv(files["standard"], low_memory=False)
+            df_std = normalize_columns(pd.read_csv(files["standard"], low_memory=False))
         except Exception as e:
             logger.error(f"  Lecture standard échouée {league_id}|{saison}: {e}")
             continue
@@ -184,7 +375,7 @@ def load_fbref_players(engine, logger: logging.Logger):
         # Merge shooting
         if "shooting" in files:
             try:
-                df_sh = pd.read_csv(files["shooting"], low_memory=False)
+                df_sh = normalize_columns(pd.read_csv(files["shooting"], low_memory=False))
                 sh_map = {
                     "player": "player_name", "born": "born", "team": "team",
                     "standard_sh": "shots",
@@ -192,13 +383,11 @@ def load_fbref_players(engine, logger: logging.Logger):
                     "standard_sot%": "shots_on_target_pct",
                     "standard_sh/90": "shots_p90",
                     "standard_sot/90": "shots_on_target_p90",
-                    "expected_xg": "xg",
-                    "expected_xag": "xag",
                 }
                 df_sh = df_sh.rename(columns={k: v for k, v in sh_map.items() if k in df_sh.columns})
                 keep_sh = ["player_name", "born", "team"] + [
                     c for c in ["shots","shots_on_target","shots_on_target_pct",
-                                "shots_p90","shots_on_target_p90","xg","xag"]
+                                "shots_p90","shots_on_target_p90"]
                     if c in df_sh.columns
                 ]
                 df = df.merge(df_sh[keep_sh], on=["player_name","born","team"], how="left", suffixes=("","_sh"))
@@ -208,7 +397,7 @@ def load_fbref_players(engine, logger: logging.Logger):
         # Merge misc
         if "misc" in files:
             try:
-                df_mi = pd.read_csv(files["misc"], low_memory=False)
+                df_mi = normalize_columns(pd.read_csv(files["misc"], low_memory=False))
                 mi_map = {
                     "player": "player_name", "born": "born", "team": "team",
                     "performance_fls": "fouls_committed",
@@ -252,13 +441,18 @@ def load_fbref_players(engine, logger: logging.Logger):
             "matches_played","starts","minutes","minutes_90s",
             "goals","assists","goals_no_pk","yellow_cards","red_cards",
             "shots","shots_on_target","shots_on_target_pct","shots_p90","shots_on_target_p90",
-            "xg","xag","fouls_committed","fouls_drawn","interceptions","tackles_won",
+            "fouls_committed","fouls_drawn","interceptions","tackles_won",
             "aerial_won","aerial_lost","aerial_won_pct","is_u23","source","date_maj",
         ]
         for c in silver_cols:
             if c not in df.columns:
                 df[c] = None
         df_out = df[silver_cols].copy()
+        # UNIQUE(player_name, born, team, saison_id) ne bloque pas les doublons
+        # quand born est NULL (NULL != NULL en SQL) -> dédup applicative ici.
+        # pandas traite NaN == NaN comme égaux dans drop_duplicates, donc ça
+        # fonctionne même pour les lignes sans born.
+        df_out = df_out.drop_duplicates(subset=["player_name", "born", "team", "saison_id"], keep="last")
 
         upserted = _upsert_fbref_players(df_out, engine, logger)
         total_upserted += upserted
@@ -270,21 +464,21 @@ def load_fbref_players(engine, logger: logging.Logger):
 def _upsert_fbref_players(df: pd.DataFrame, engine, logger) -> int:
     if df.empty:
         return 0
-    rows = df.where(pd.notna(df), other=None).to_dict(orient="records")
+    rows = to_records(df)
     sql = text("""
         INSERT INTO silver.players_fbref
             (player_name, born, team, nation, pos, ligue_id, saison_id,
              matches_played, starts, minutes, minutes_90s,
              goals, assists, goals_no_pk, yellow_cards, red_cards,
              shots, shots_on_target, shots_on_target_pct, shots_p90, shots_on_target_p90,
-             xg, xag, fouls_committed, fouls_drawn, interceptions, tackles_won,
+             fouls_committed, fouls_drawn, interceptions, tackles_won,
              aerial_won, aerial_lost, aerial_won_pct, is_u23, source, date_maj)
         VALUES
             (:player_name, :born, :team, :nation, :pos, :ligue_id, :saison_id,
              :matches_played, :starts, :minutes, :minutes_90s,
              :goals, :assists, :goals_no_pk, :yellow_cards, :red_cards,
              :shots, :shots_on_target, :shots_on_target_pct, :shots_p90, :shots_on_target_p90,
-             :xg, :xag, :fouls_committed, :fouls_drawn, :interceptions, :tackles_won,
+             :fouls_committed, :fouls_drawn, :interceptions, :tackles_won,
              :aerial_won, :aerial_lost, :aerial_won_pct, :is_u23, :source, :date_maj)
         ON CONFLICT (player_name, born, team, saison_id) DO UPDATE SET
             matches_played      = EXCLUDED.matches_played,
@@ -301,8 +495,6 @@ def _upsert_fbref_players(df: pd.DataFrame, engine, logger) -> int:
             shots_on_target_pct = EXCLUDED.shots_on_target_pct,
             shots_p90           = EXCLUDED.shots_p90,
             shots_on_target_p90 = EXCLUDED.shots_on_target_p90,
-            xg                  = EXCLUDED.xg,
-            xag                 = EXCLUDED.xag,
             fouls_committed     = EXCLUDED.fouls_committed,
             fouls_drawn         = EXCLUDED.fouls_drawn,
             interceptions       = EXCLUDED.interceptions,
@@ -313,14 +505,13 @@ def _upsert_fbref_players(df: pd.DataFrame, engine, logger) -> int:
             is_u23              = EXCLUDED.is_u23,
             date_maj            = EXCLUDED.date_maj
     """)
-    with engine.begin() as conn:
-        conn.execute(sql, rows)
+    execute_with_retry(engine, sql, rows, logger)
     return len(rows)
 
 
 # ── 2. Sofascore joueurs de champ ──────────────────────────────────────────────
 def load_sofascore_players(engine, logger: logging.Logger):
-    logger.info("[2/6] Chargement Sofascore joueurs → silver.players_sofascore")
+    logger.info("[2/7] Chargement Sofascore joueurs → silver.players_sofascore")
 
     files = sorted(BRONZE_DIR.glob("*_sofascore_players.csv"))
     if not files:
@@ -342,11 +533,10 @@ def load_sofascore_players(engine, logger: logging.Logger):
             logger.error(f"  Lecture {f.name}: {e}")
             continue
 
+        # Le CSV a déjà player_name/team_name/team_id en snake_case ;
+        # seul l'id joueur ("player_id") doit être renommé en player_id_ss.
         col_rename = {
-            "id": "player_id_ss", "name": "player_name",
-            "teamName": "team_name", "teamId": "team_id",
-            "rating": "rating",
-            "goals": "goals", "assists": "assists",
+            "player_id": "player_id_ss",
             "expectedGoals": "expected_goals", "expectedAssists": "expected_assists",
             "shotsOnTarget": "shots_on_target", "totalShots": "total_shots",
             "bigChancesCreated": "big_chances_created", "bigChancesMissed": "big_chances_missed",
@@ -357,9 +547,8 @@ def load_sofascore_players(engine, logger: logging.Logger):
             "accurateLongBallsPercentage": "accurate_long_balls_pct",
             "successfulDribbles": "successful_dribbles",
             "successfulDribblesPercentage": "successful_dribbles_pct",
-            "tackles": "tackles", "interceptions": "interceptions",
-            "clearances": "clearances", "possessionLost": "possession_lost",
-            "minutesPlayed": "minutes_played", "appearances": "appearances",
+            "possessionLost": "possession_lost",
+            "minutesPlayed": "minutes_played",
             "yellowCards": "yellow_cards", "redCards": "red_cards",
         }
         df = df.rename(columns={k: v for k, v in col_rename.items() if k in df.columns})
@@ -413,7 +602,7 @@ def load_sofascore_players(engine, logger: logging.Logger):
 def _upsert_sofascore_players(df: pd.DataFrame, engine, logger) -> int:
     if df.empty:
         return 0
-    rows = df.where(pd.notna(df), other=None).to_dict(orient="records")
+    rows = to_records(df)
     sql = text("""
         INSERT INTO silver.players_sofascore
             (player_id_ss, player_name, team_name, team_id, ligue_id, saison_id,
@@ -475,20 +664,19 @@ def _upsert_sofascore_players(df: pd.DataFrame, engine, logger) -> int:
             is_u23                  = EXCLUDED.is_u23,
             date_maj                = EXCLUDED.date_maj
     """)
-    with engine.begin() as conn:
-        conn.execute(sql, rows)
+    execute_with_retry(engine, sql, rows, logger)
     return len(rows)
 
 
 # ── 3. players_combined ────────────────────────────────────────────────────────
 def build_players_combined(engine, logger: logging.Logger):
-    logger.info("[3/6] Construction silver.players_combined")
+    logger.info("[3/7] Construction silver.players_combined")
 
     sql_ss = text("""
         SELECT
             ps.player_id_ss, ps.player_name, ps.team_name, ps.team_id,
             ps.ligue_id, ps.saison_id,
-            ps.rating,
+            ps.rating AS rating_ss,
             ps.goals           AS goals_ss,
             ps.assists         AS assists_ss,
             ps.expected_goals  AS xg_ss,
@@ -507,7 +695,7 @@ def build_players_combined(engine, logger: logging.Logger):
             ps.shots_on_target_p90, ps.key_passes_p90,
             ps.tackles_p90, ps.interceptions_p90,
             ps.successful_dribbles / NULLIF(ps.minutes_played, 0) * 90 AS dribbles_p90,
-            pi.born AS born_pi, pi.date_naissance, pi.is_u23,
+            pi.annee_naissance AS born, pi.date_naissance, pi.is_u23,
             pi.nationalite_id, pi.poste_principal, pi.pied_dominant, pi.taille_cm
         FROM silver.players_sofascore ps
         LEFT JOIN silver.players_info pi
@@ -571,11 +759,11 @@ def build_players_combined(engine, logger: logging.Logger):
     )
     df_merged["date_maj"] = datetime.now(timezone.utc)
 
-    silver_cols = [
-        "player_id_ss","player_name","born_pi","date_naissance","is_u23",
+    silver_cols_final = [
+        "player_id_ss","player_name","born","date_naissance","is_u23",
         "nationalite_id","poste_principal","pied_dominant","taille_cm",
         "team_name","team_id","ligue_id","saison_id",
-        "rating","goals_ss","assists_ss","xg_ss","xa_ss",
+        "rating_ss","goals_ss","assists_ss","xg_ss","xa_ss",
         "shots_on_target_ss","key_passes_ss","accurate_passes_ss","accurate_passes_pct_ss",
         "successful_dribbles_ss","tackles_ss","interceptions_ss","clearances_ss",
         "minutes_ss","appearances_ss",
@@ -585,9 +773,7 @@ def build_players_combined(engine, logger: logging.Logger):
         "key_passes_p90","tackles_p90","interceptions_p90","dribbles_p90",
         "has_fbref_data","has_sofascore_data","date_maj",
     ]
-    col_renames = {"born_pi": "born"}
-    df_out = df_merged.rename(columns=col_renames)
-    silver_cols_final = [c if c != "born_pi" else "born" for c in silver_cols]
+    df_out = df_merged
 
     for c in silver_cols_final:
         if c not in df_out.columns:
@@ -600,7 +786,7 @@ def build_players_combined(engine, logger: logging.Logger):
             (player_id_ss, player_name, born, date_naissance, is_u23,
              nationalite_id, poste_principal, pied_dominant, taille_cm,
              team_name, team_id, ligue_id, saison_id,
-             rating, goals_ss, assists_ss, xg_ss, xa_ss,
+             rating_ss, goals_ss, assists_ss, xg_ss, xa_ss,
              shots_on_target_ss, key_passes_ss, accurate_passes_ss, accurate_passes_pct_ss,
              successful_dribbles_ss, tackles_ss, interceptions_ss, clearances_ss,
              minutes_ss, appearances_ss,
@@ -613,7 +799,7 @@ def build_players_combined(engine, logger: logging.Logger):
             (:player_id_ss, :player_name, :born, :date_naissance, :is_u23,
              :nationalite_id, :poste_principal, :pied_dominant, :taille_cm,
              :team_name, :team_id, :ligue_id, :saison_id,
-             :rating, :goals_ss, :assists_ss, :xg_ss, :xa_ss,
+             :rating_ss, :goals_ss, :assists_ss, :xg_ss, :xa_ss,
              :shots_on_target_ss, :key_passes_ss, :accurate_passes_ss, :accurate_passes_pct_ss,
              :successful_dribbles_ss, :tackles_ss, :interceptions_ss, :clearances_ss,
              :minutes_ss, :appearances_ss,
@@ -631,7 +817,7 @@ def build_players_combined(engine, logger: logging.Logger):
             poste_principal         = EXCLUDED.poste_principal,
             pied_dominant           = EXCLUDED.pied_dominant,
             taille_cm               = EXCLUDED.taille_cm,
-            rating                  = EXCLUDED.rating,
+            rating_ss               = EXCLUDED.rating_ss,
             goals_ss                = EXCLUDED.goals_ss,
             assists_ss              = EXCLUDED.assists_ss,
             xg_ss                   = EXCLUDED.xg_ss,
@@ -668,16 +854,15 @@ def build_players_combined(engine, logger: logging.Logger):
             date_maj                = EXCLUDED.date_maj
     """)
 
-    rows = df_out.where(pd.notna(df_out), other=None).to_dict(orient="records")
-    with engine.begin() as conn:
-        conn.execute(sql_upsert, rows)
+    rows = to_records(df_out)
+    execute_with_retry(engine, sql_upsert, rows, logger)
 
     logger.info(f"  [OK] players_combined — {len(rows)} lignes upsertées")
 
 
 # ── 4. FBref gardiens ──────────────────────────────────────────────────────────
 def load_fbref_keepers(engine, logger: logging.Logger):
-    logger.info("[4/6] Chargement FBref gardiens → silver.keepers_fbref")
+    logger.info("[4/7] Chargement FBref gardiens → silver.keepers_fbref")
 
     groups: dict[tuple, dict[str, Path]] = {}
     for tag, glob_pat in [("keeper", "*_keeper.csv"), ("keeper_adv", "*_keeper_adv.csv")]:
@@ -695,7 +880,7 @@ def load_fbref_keepers(engine, logger: logging.Logger):
             continue
 
         try:
-            df = pd.read_csv(files["keeper"], low_memory=False)
+            df = normalize_columns(pd.read_csv(files["keeper"], low_memory=False))
         except Exception as e:
             logger.error(f"  Lecture keeper {league_id}|{saison}: {e}")
             continue
@@ -741,8 +926,11 @@ def load_fbref_keepers(engine, logger: logging.Logger):
             if c not in df.columns:
                 df[c] = None
         df_out = df[silver_cols].copy()
+        # Même dédup applicative que players_fbref : UNIQUE(...) ne bloque pas
+        # les doublons quand born est NULL.
+        df_out = df_out.drop_duplicates(subset=["player_name", "born", "team", "saison_id"], keep="last")
 
-        rows = df_out.where(pd.notna(df_out), other=None).to_dict(orient="records")
+        rows = to_records(df_out)
         sql = text("""
             INSERT INTO silver.keepers_fbref
                 (player_name, born, team, nation, ligue_id, saison_id,
@@ -779,8 +967,7 @@ def load_fbref_keepers(engine, logger: logging.Logger):
                 is_u23                  = EXCLUDED.is_u23,
                 date_maj                = EXCLUDED.date_maj
         """)
-        with engine.begin() as conn:
-            conn.execute(sql, rows)
+        execute_with_retry(engine, sql, rows, logger)
 
         total_upserted += len(rows)
         logger.info(f"  [OK] {league_id}|{saison} — {len(rows)} gardiens fbref")
@@ -790,7 +977,7 @@ def load_fbref_keepers(engine, logger: logging.Logger):
 
 # ── 5. Sofascore gardiens ──────────────────────────────────────────────────────
 def load_sofascore_keepers(engine, logger: logging.Logger):
-    logger.info("[5/6] Chargement Sofascore gardiens → silver.keepers_sofascore")
+    logger.info("[5/7] Chargement Sofascore gardiens → silver.keepers_sofascore")
 
     files = sorted(BRONZE_DIR.glob("*_sofascore_keepers.csv"))
     if not files:
@@ -812,11 +999,9 @@ def load_sofascore_keepers(engine, logger: logging.Logger):
             continue
 
         col_rename = {
-            "id": "player_id_ss", "name": "player_name",
-            "teamName": "team_name", "teamId": "team_id",
-            "saves": "saves", "goalsPrevented": "goals_prevented",
-            "rating": "rating", "minutesPlayed": "minutes_played",
-            "appearances": "appearances",
+            "player_id": "player_id_ss",
+            "goalsPrevented": "goals_prevented",
+            "minutesPlayed": "minutes_played",
             "accuratePasses": "accurate_passes",
             "accurateLongBalls": "accurate_long_balls",
             "accurateLongBallsPercentage": "accurate_long_balls_pct",
@@ -843,7 +1028,7 @@ def load_sofascore_keepers(engine, logger: logging.Logger):
                 df[c] = None
         df_out = df[silver_cols].copy()
 
-        rows = df_out.where(pd.notna(df_out), other=None).to_dict(orient="records")
+        rows = to_records(df_out)
         sql = text("""
             INSERT INTO silver.keepers_sofascore
                 (player_id_ss, player_name, team_name, team_id, ligue_id, saison_id,
@@ -869,8 +1054,7 @@ def load_sofascore_keepers(engine, logger: logging.Logger):
                 saves_p90               = EXCLUDED.saves_p90,
                 date_maj                = EXCLUDED.date_maj
         """)
-        with engine.begin() as conn:
-            conn.execute(sql, rows)
+        execute_with_retry(engine, sql, rows, logger)
 
         total_upserted += len(rows)
         logger.info(f"  [OK] {f.name} — {len(rows)} gardiens sofascore")
@@ -880,7 +1064,7 @@ def load_sofascore_keepers(engine, logger: logging.Logger):
 
 # ── 6. keepers_combined ────────────────────────────────────────────────────────
 def build_keepers_combined(engine, logger: logging.Logger):
-    logger.info("[6/6] Construction silver.keepers_combined")
+    logger.info("[6/7] Construction silver.keepers_combined")
 
     with engine.connect() as conn:
         df_ss = pd.read_sql(text("""
@@ -892,7 +1076,7 @@ def build_keepers_combined(engine, logger: logging.Logger):
                 ks.minutes_played AS minutes_ss,
                 ks.appearances AS appearances_ss,
                 ks.saves_p90,
-                pi.born, pi.date_naissance, pi.is_u23, pi.nationalite_id
+                pi.annee_naissance AS born, pi.date_naissance, pi.is_u23, pi.nationalite_id
             FROM silver.keepers_sofascore ks
             LEFT JOIN silver.players_info pi ON ks.player_id_ss = pi.player_id_ss
         """), conn)
@@ -975,9 +1159,8 @@ def build_keepers_combined(engine, logger: logging.Logger):
             date_maj            = EXCLUDED.date_maj
     """)
 
-    rows = df_out.where(pd.notna(df_out), other=None).to_dict(orient="records")
-    with engine.begin() as conn:
-        conn.execute(sql, rows)
+    rows = to_records(df_out)
+    execute_with_retry(engine, sql, rows, logger)
 
     logger.info(f"  [OK] keepers_combined — {len(rows)} lignes upsertées")
 
@@ -1016,6 +1199,7 @@ def run():
     logger.info(f"  {datetime.now():%Y-%m-%d %H:%M:%S}")
     logger.info("=" * 65)
 
+    load_players_info(engine, logger)
     load_fbref_players(engine, logger)
     load_sofascore_players(engine, logger)
     build_players_combined(engine, logger)

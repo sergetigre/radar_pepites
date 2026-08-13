@@ -1,0 +1,16 @@
+2026-08-12 12:51:46,026 [INFO] Log : C:\Users\serge\Documents\02_DEV_PROJETS\radar_pepites\logs\load_public_20260812_125146.log
+2026-08-12 12:51:46,063 [INFO] =================================================================
+2026-08-12 12:51:46,063 [INFO]   RadarPepites — Load Public (Gold)
+2026-08-12 12:51:46,063 [INFO]   2026-08-12 12:51:46
+2026-08-12 12:51:46,063 [INFO] =================================================================
+2026-08-12 12:51:46,063 [INFO] [1/7] silver.ref_ligues -> public.dim_ligues
+2026-08-12 12:51:46,836 [INFO]   [OK] 10 lignes
+2026-08-12 12:51:46,836 [INFO] [2/7] silver.ref_saisons -> public.dim_saisons
+2026-08-12 12:51:47,067 [INFO]   [OK] 3 lignes
+2026-08-12 12:51:47,075 [INFO] [3/7] silver.ref_nationalites + ref_pays -> public.dim_nationalites
+2026-08-12 12:51:50,717 [INFO]   [OK] 146 lignes
+2026-08-12 12:51:50,717 [INFO] [4/7] silver.ref_postes -> public.dim_postes
+2026-08-12 12:51:51,145 [INFO]   [OK] 11 lignes
+2026-08-12 12:51:51,145 [INFO] [5/7] silver.players_combined + keepers_combined -> public.dim_joueurs
+2026-08-12 14:00:15,738 [WARNING]     Connexion DB perdue (tentative 1/4), nouvel essai dans 5s...
+2026-08-12 14:44:19,933 [WARNING]     Connexion DB perdue (tentative 2/4), nouvel essai dans 5s...

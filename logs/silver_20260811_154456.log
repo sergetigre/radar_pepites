@@ -1,0 +1,65 @@
+2026-08-11 15:44:56,960 [INFO] Log : C:\Users\serge\Documents\02_DEV_PROJETS\radar_pepites\logs\silver_20260811_154456.log
+2026-08-11 15:44:57,001 [INFO] =================================================================
+2026-08-11 15:44:57,001 [INFO]   RadarPepites — Silver Transformer
+2026-08-11 15:44:57,001 [INFO]   2026-08-11 15:44:57
+2026-08-11 15:44:57,001 [INFO] =================================================================
+2026-08-11 15:44:57,001 [INFO] [0/7] Chargement infos bio joueurs → silver.players_info
+2026-08-11 15:44:57,002 [INFO]   (aucun *_players_info.csv en racine, utilisation de C:\Users\serge\Documents\02_DEV_PROJETS\radar_pepites\data\bronze\_Archives)
+2026-08-11 15:45:11,791 [INFO]   [OK] 20260809_012455_ENG_2023_2024_players_info.csv — 659 lignes
+2026-08-11 15:45:26,059 [INFO]   [OK] 20260809_013044_ENG_2024_2025_players_info.csv — 665 lignes
+2026-08-11 15:45:40,401 [INFO]   [OK] 20260809_013637_ENG_2025_2026_players_info.csv — 672 lignes
+2026-08-11 15:45:53,658 [INFO]   [OK] 20260809_014206_ESP_2023_2024_players_info.csv — 624 lignes
+2026-08-11 15:46:06,762 [INFO]   [OK] 20260809_073840_ESP_2024_2025_players_info.csv — 621 lignes
+2026-08-11 15:46:19,605 [INFO]   [OK] 20260809_074357_ESP_2025_2026_players_info.csv — 601 lignes
+2026-08-11 15:46:31,876 [INFO]   [OK] 20260809_074900_GER_2023_2024_players_info.csv — 575 lignes
+2026-08-11 15:46:41,313 [INFO]   [OK] 20260809_075401_BEL_2023_2024_players_info.csv — 447 lignes
+2026-08-11 15:46:53,545 [INFO]   [OK] 20260809_075404_GER_2024_2025_players_info.csv — 578 lignes
+2026-08-11 15:47:03,173 [INFO]   [OK] 20260809_075813_BEL_2024_2025_players_info.csv — 458 lignes
+2026-08-11 15:47:15,455 [INFO]   [OK] 20260809_075907_GER_2025_2026_players_info.csv — 575 lignes
+2026-08-11 15:47:25,276 [INFO]   [OK] 20260809_080224_BEL_2025_2026_players_info.csv — 458 lignes
+2026-08-11 15:47:40,007 [INFO]   [OK] 20260809_080510_ITA_2023_2024_players_info.csv — 692 lignes
+2026-08-11 15:47:55,011 [INFO]   [OK] 20260809_081120_ITA_2024_2025_players_info.csv — 707 lignes
+2026-08-11 15:48:10,308 [INFO]   [OK] 20260809_081736_ITA_2025_2026_players_info.csv — 719 lignes
+2026-08-11 15:48:21,375 [INFO]   [OK] 20260809_082216_FRA_2023_2024_players_info.csv — 529 lignes
+2026-08-11 15:48:32,946 [INFO]   [OK] 20260809_082707_FRA_2024_2025_players_info.csv — 551 lignes
+2026-08-11 15:48:44,330 [INFO]   [OK] 20260809_083152_FRA_2025_2026_players_info.csv — 540 lignes
+2026-08-11 15:48:55,117 [INFO]   [OK] 20260809_083619_POR_2023_2024_players_info.csv — 501 lignes
+2026-08-11 15:49:06,433 [INFO]   [OK] 20260809_084045_POR_2024_2025_players_info.csv — 502 lignes
+2026-08-11 15:49:19,203 [INFO]   [OK] 20260809_084525_POR_2025_2026_players_info.csv — 528 lignes
+2026-08-11 15:49:31,144 [INFO]   [OK] 20260809_084952_NED_2023_2024_players_info.csv — 503 lignes
+2026-08-11 15:49:42,574 [INFO]   [OK] 20260809_085417_NED_2024_2025_players_info.csv — 500 lignes
+2026-08-11 15:49:53,210 [INFO]   [OK] 20260809_085841_NED_2025_2026_players_info.csv — 497 lignes
+2026-08-11 15:50:06,172 [INFO]   [OK] 20260809_090408_TUR_2023_2024_players_info.csv — 620 lignes
+2026-08-11 15:50:18,531 [INFO]   [OK] 20260809_090925_TUR_2024_2025_players_info.csv — 602 lignes
+2026-08-11 15:50:30,432 [INFO]   [OK] 20260809_091429_TUR_2025_2026_players_info.csv — 576 lignes
+2026-08-11 15:50:37,133 [INFO]   [OK] 20260809_091728_AUT_2023_2024_players_info.csv — 321 lignes
+2026-08-11 15:50:43,842 [INFO]   [OK] 20260809_092027_AUT_2024_2025_players_info.csv — 322 lignes
+2026-08-11 15:50:50,676 [INFO]   [OK] 20260809_092329_AUT_2025_2026_players_info.csv — 328 lignes
+2026-08-11 15:50:50,676 [INFO]   Total players_info : 16471 lignes upsertées (6788 joueurs uniques)
+2026-08-11 15:50:50,677 [INFO] [1/7] Chargement FBref joueurs de champ → silver.players_fbref
+2026-08-11 15:51:01,823 [INFO]   [OK] ENG|2023-2024 — 540 lignes upsertées
+2026-08-11 15:51:12,782 [INFO]   [OK] ENG|2024-2025 — 530 lignes upsertées
+2026-08-11 15:51:23,333 [INFO]   [OK] ENG|2025-2026 — 511 lignes upsertées
+2026-08-11 15:51:34,911 [INFO]   [OK] ESP|2023-2024 — 563 lignes upsertées
+2026-08-11 15:51:46,406 [INFO]   [OK] ESP|2024-2025 — 556 lignes upsertées
+2026-08-11 15:51:58,149 [INFO]   [OK] ESP|2025-2026 — 572 lignes upsertées
+2026-08-11 15:52:08,701 [INFO]   [OK] FRA|2023-2024 — 507 lignes upsertées
+2026-08-11 15:52:19,264 [INFO]   [OK] FRA|2024-2025 — 517 lignes upsertées
+2026-08-11 15:52:30,163 [INFO]   [OK] FRA|2025-2026 — 522 lignes upsertées
+2026-08-11 15:52:40,013 [INFO]   [OK] GER|2023-2024 — 474 lignes upsertées
+2026-08-11 15:52:49,433 [INFO]   [OK] GER|2024-2025 — 454 lignes upsertées
+2026-08-11 15:52:59,257 [INFO]   [OK] GER|2025-2026 — 477 lignes upsertées
+2026-08-11 15:53:10,973 [INFO]   [OK] ITA|2023-2024 — 565 lignes upsertées
+2026-08-11 15:53:23,373 [INFO]   [OK] ITA|2024-2025 — 585 lignes upsertées
+2026-08-11 15:53:34,948 [INFO]   [OK] ITA|2025-2026 — 563 lignes upsertées
+2026-08-11 15:53:34,948 [INFO]   Total players_fbref : 7936 lignes
+2026-08-11 15:53:34,949 [INFO] [2/7] Chargement Sofascore joueurs → silver.players_sofascore
+2026-08-11 15:53:45,380 [INFO]   [OK] 20260810_232940_ENG_20232024_sofascore_players.csv — 500 lignes
+2026-08-11 15:53:55,956 [INFO]   [OK] 20260810_232949_ENG_20242025_sofascore_players.csv — 500 lignes
+2026-08-11 15:54:06,399 [INFO]   [OK] 20260810_232957_ENG_20252026_sofascore_players.csv — 500 lignes
+2026-08-11 15:54:16,976 [INFO]   [OK] 20260810_233005_ESP_20232024_sofascore_players.csv — 500 lignes
+2026-08-11 15:54:27,371 [INFO]   [OK] 20260810_233014_ESP_20242025_sofascore_players.csv — 500 lignes
+2026-08-11 15:54:38,391 [INFO]   [OK] 20260810_233022_ESP_20252026_sofascore_players.csv — 500 lignes
+2026-08-11 15:54:49,115 [INFO]   [OK] 20260810_233030_GER_20232024_sofascore_players.csv — 500 lignes
+2026-08-11 15:54:59,880 [INFO]   [OK] 20260810_233039_GER_20242025_sofascore_players.csv — 500 lignes
+2026-08-11 15:55:10,667 [INFO]   [OK] 20260810_233047_GER_20252026_sofascore_players.csv — 500 lignes

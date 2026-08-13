@@ -1,0 +1,34 @@
+2026-08-12 15:02:13,301 [INFO] Log : C:\Users\serge\Documents\02_DEV_PROJETS\radar_pepites\logs\load_public_20260812_150213.log
+2026-08-12 15:02:13,329 [INFO] =================================================================
+2026-08-12 15:02:13,329 [INFO]   RadarPepites — Load Public (Gold)
+2026-08-12 15:02:13,329 [INFO]   2026-08-12 15:02:13
+2026-08-12 15:02:13,329 [INFO] =================================================================
+2026-08-12 15:02:13,329 [INFO] [1/7] silver.ref_ligues -> public.dim_ligues
+2026-08-12 15:02:14,117 [INFO]   [OK] 10 lignes
+2026-08-12 15:02:14,117 [INFO] [2/7] silver.ref_saisons -> public.dim_saisons
+2026-08-12 15:02:14,333 [INFO]   [OK] 3 lignes
+2026-08-12 15:02:14,336 [INFO] [3/7] silver.ref_nationalites + ref_pays -> public.dim_nationalites
+2026-08-12 15:02:17,715 [INFO]   [OK] 146 lignes
+2026-08-12 15:02:17,715 [INFO] [4/7] silver.ref_postes -> public.dim_postes
+2026-08-12 15:02:18,103 [INFO]   [OK] 11 lignes
+2026-08-12 15:02:18,103 [INFO] [5/7] silver.players_combined + keepers_combined -> public.dim_joueurs
+2026-08-12 15:05:16,478 [INFO]   [OK] 8426 lignes
+2026-08-12 15:05:16,481 [INFO] [6/7] players_combined + keepers_combined -> public.dim_equipes
+2026-08-12 15:05:21,565 [INFO]   [OK] 233 lignes
+2026-08-12 15:05:21,565 [INFO] [7/7] players_combined + keepers_combined -> public.fact_stats
+2026-08-12 15:05:22,167 [INFO]   17249 lignes à upserter (joueurs + gardiens)
+2026-08-12 15:11:25,935 [INFO]   [OK] 17249 lignes
+2026-08-12 15:11:25,962 [INFO] 
+2026-08-12 15:11:25,962 [INFO] =======================================================
+2026-08-12 15:11:25,962 [INFO]   VERIFICATION — Row counts public (Gold)
+2026-08-12 15:11:25,962 [INFO] =======================================================
+2026-08-12 15:11:26,160 [INFO]   dim_ligues                10 lignes
+2026-08-12 15:11:26,178 [INFO]   dim_saisons                3 lignes
+2026-08-12 15:11:26,200 [INFO]   dim_nationalites         146 lignes
+2026-08-12 15:11:26,220 [INFO]   dim_postes                11 lignes
+2026-08-12 15:11:26,241 [INFO]   dim_joueurs             8426 lignes
+2026-08-12 15:11:26,264 [INFO]   dim_equipes              249 lignes
+2026-08-12 15:11:26,292 [INFO]   fact_stats             16052 lignes
+2026-08-12 15:11:26,310 [INFO] =======================================================
+2026-08-12 15:11:26,311 [INFO] 
+2026-08-12 15:11:26,311 [INFO]   Load Public termine avec succes.

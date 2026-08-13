@@ -1,0 +1,41 @@
+﻿tournament_id,season_id,player_name,player_id,team_name,team_id,saves,goalsPrevented,rating,minutesPlayed,appearances,accuratePasses,accurateLongBalls,accurateLongBallsPercentage,yellowCards,redCards,_league_id,_season,_source,_scraped_at
+37,42256,Stijn van Gassel,367118,Excelsior,2967,170,,7.11,3033,34,625,285,38.93,0,0,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,Filip Stanković,986355,FC Volendam,2968,140,,6.9,2970,33,525,266,34.86,2,0,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,Jasper Cillessen,123865,NEC Nijmegen,2962,137,,7.12,2880,32,586,235,39.43,0,0,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,Etienne Vaessen,809408,RKC Waalwijk,2956,135,,7.16,2880,32,588,224,36.07,3,0,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,Nick Olij,227192,Sparta Rotterdam,2960,121,,7.26,2880,32,781,333,48.05,0,0,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,Jeffrey De Lange,803034,Go Ahead Eagles,2979,117,,6.84,3060,34,751,275,44.86,2,0,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,Ivor Pandur,943212,Fortuna Sittard,2957,115,,7.0,2790,31,690,318,46.63,2,0,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,Vasilis Barkas,347726,FC Utrecht,2948,104,,6.9,2880,32,614,210,44.3,0,0,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,Lars Unnerstall,94835,FC Twente,2955,97,,7.16,2970,33,477,168,34.36,0,0,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,Mickey van der Hart,242313,FC Emmen,2965,80,,6.8,2250,25,480,164,35.57,0,0,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,João Virgínia,930666,SC Cambuur,2970,77,,7.14,1530,17,353,146,41.01,1,0,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,Walter Benítez,249859,PSV Eindhoven,2952,71,,6.8,2700,30,522,186,45.81,2,0,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,Michael Verrips,583506,FC Groningen,2951,70,,6.6,2160,24,551,191,38.74,1,0,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,Kjell Scherpen,852394,Vitesse,2958,67,,6.82,2293,26,452,182,36.92,0,1,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,Robbin Ruiter,40935,SC Cambuur,2970,64,,6.84,1440,16,401,164,41.84,0,0,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,Justin Bijlow,556696,Feyenoord,2959,60,,7.04,2250,25,529,107,41.96,1,0,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,Andries Noppert,339339,SC Heerenveen,2964,51,,7.13,1619,18,385,130,40.12,1,0,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,Gerónimo Rulli,128383,AFC Ajax,2953,45,,6.97,1710,19,646,109,50.23,1,0,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,Xavier Mous,352328,SC Heerenveen,2964,45,,6.58,1440,16,274,98,35.77,0,0,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,Hobie Verhulst,97401,AZ Alkmaar,2950,34,,6.73,1440,16,283,108,35.41,0,0,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,Remko Pasveer,2622,AFC Ajax,2953,32,,6.81,1350,15,386,83,42.56,0,0,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,Peter Leeuwenburgh,149660,FC Groningen,2951,29,,6.66,674,8,139,57,32.95,0,1,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,Mathew Ryan,134029,AZ Alkmaar,2950,28,,6.72,1620,18,342,120,42.55,0,0,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,Eric Oelschlägel,253515,FC Emmen,2965,23,,6.48,810,9,224,57,34.76,0,0,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,Jan de Boer,978865,FC Groningen,2951,19,,6.67,225,3,18,14,20.29,0,0,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,Timon Wellenreuther,253875,Feyenoord,2959,16,,6.61,810,9,183,29,39.19,0,0,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,Daan Reiziger,916942,Vitesse,2958,13,,6.51,575,8,83,42,28.77,1,0,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,Joël Drommel,610396,PSV Eindhoven,2952,12,,6.75,360,4,61,29,44.62,0,0,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,Joel Pereira,788135,RKC Waalwijk,2956,12,,6.6,180,2,40,11,37.93,0,0,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,Yanick van Osch,361764,Fortuna Sittard,2957,9,,6.07,270,3,63,38,47.5,0,0,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,Fabian De Keijzer,856743,FC Utrecht,2948,6,,7.55,180,2,19,13,36.11,0,0,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,Jeroen Houwen,339367,Vitesse,2958,6,,6.0,193,3,38,5,20.83,0,0,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,Youri Schoonderwaldt,996720,Sparta Rotterdam,2960,4,,6.55,180,2,33,12,60.0,0,0,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,Mattijs Branderhorst,146871,NEC Nijmegen,2962,3,,6.45,180,2,30,16,36.36,0,0,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,Norbert Alblas,339845,Excelsior,2967,2,,6.8,27,1,5,1,20.0,0,0,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,Barry Lauwers,959060,FC Volendam,2968,1,,7.3,90,1,16,15,48.39,0,0,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,Przemysław Tytoń,27691,FC Twente,2955,1,,7.1,90,1,12,1,33.33,0,0,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,Brett Minnema,981601,SC Cambuur,2970,1,,5.5,90,1,19,9,39.13,0,0,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,Jan Bekkema,843764,SC Heerenveen,2964,0,,6.5,8,1,1,1,50.0,0,0,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50
+37,42256,Boy Waterman,2594,PSV Eindhoven,2952,0,,0.0,0,0,0,0,0.0,1,0,NED,2022-2023,datafc_sofascore,2026-08-12 07:02:50

@@ -1,0 +1,291 @@
+2026-08-11 16:44:31,780 [INFO] Log : C:\Users\serge\Documents\02_DEV_PROJETS\radar_pepites\logs\datafc_all_20260811_164431.log
+2026-08-11 16:44:31,780 [INFO] =================================================================
+2026-08-11 16:44:31,780 [INFO]   datafc — Scraping All (joueurs + gardiens)
+2026-08-11 16:44:31,781 [INFO]   Ligues  : ['ENG', 'ESP', 'GER', 'ITA', 'FRA', 'POR', 'NED', 'BEL', 'TUR', 'AUT']
+2026-08-11 16:44:31,781 [INFO]   Saisons : ['2022-2023', '2023-2024', '2024-2025', '2025-2026']
+2026-08-11 16:44:31,781 [INFO]   Total   : 40 blocs (× 2 appels = 80 requêtes)
+2026-08-11 16:44:31,781 [INFO] =================================================================
+2026-08-11 16:44:31,781 [INFO] [ 1/40] Premier League (ENG) | 2022-2023
+2026-08-11 16:44:31,781 [INFO]   → Joueurs de champ (tournament=17, season=41886)
+2026-08-11 16:44:33,927 [INFO]     500 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:44:33,938 [INFO]     [OK] 20260811_164433_ENG_20222023_sofascore_players.csv
+2026-08-11 16:44:36,938 [INFO]   → Gardiens (tournament=17, season=41886)
+2026-08-11 16:44:37,075 [INFO]     39 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:44:37,079 [INFO]     [OK] 20260811_164437_ENG_20222023_sofascore_keepers.csv
+2026-08-11 16:44:40,079 [INFO] [ 2/40] Premier League (ENG) | 2023-2024
+2026-08-11 16:44:40,079 [INFO]   → Joueurs de champ (tournament=17, season=52186)
+2026-08-11 16:44:42,224 [INFO]     500 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:44:42,232 [INFO]     [OK] 20260811_164442_ENG_20232024_sofascore_players.csv
+2026-08-11 16:44:45,233 [INFO]   → Gardiens (tournament=17, season=52186)
+2026-08-11 16:44:45,412 [INFO]     40 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:44:45,415 [INFO]     [OK] 20260811_164445_ENG_20232024_sofascore_keepers.csv
+2026-08-11 16:44:48,416 [INFO] [ 3/40] Premier League (ENG) | 2024-2025
+2026-08-11 16:44:48,416 [INFO]   → Joueurs de champ (tournament=17, season=61627)
+2026-08-11 16:44:50,546 [INFO]     500 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:44:50,557 [INFO]     [OK] 20260811_164450_ENG_20242025_sofascore_players.csv
+2026-08-11 16:44:53,558 [INFO]   → Gardiens (tournament=17, season=61627)
+2026-08-11 16:44:53,728 [INFO]     44 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:44:53,730 [INFO]     [OK] 20260811_164453_ENG_20242025_sofascore_keepers.csv
+2026-08-11 16:44:56,731 [INFO] [ 4/40] Premier League (ENG) | 2025-2026
+2026-08-11 16:44:56,731 [INFO]   → Joueurs de champ (tournament=17, season=76986)
+2026-08-11 16:44:58,905 [INFO]     500 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:44:58,912 [INFO]     [OK] 20260811_164458_ENG_20252026_sofascore_players.csv
+2026-08-11 16:45:01,913 [INFO]   → Gardiens (tournament=17, season=76986)
+2026-08-11 16:45:02,085 [INFO]     40 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:45:02,088 [INFO]     [OK] 20260811_164502_ENG_20252026_sofascore_keepers.csv
+2026-08-11 16:45:05,090 [INFO] [ 5/40] La Liga (ESP) | 2022-2023
+2026-08-11 16:45:05,090 [INFO]   → Joueurs de champ (tournament=8, season=42409)
+2026-08-11 16:45:07,229 [INFO]     500 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:45:07,236 [INFO]     [OK] 20260811_164507_ESP_20222023_sofascore_players.csv
+2026-08-11 16:45:10,237 [INFO]   → Gardiens (tournament=8, season=42409)
+2026-08-11 16:45:10,392 [INFO]     44 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:45:10,394 [INFO]     [OK] 20260811_164510_ESP_20222023_sofascore_keepers.csv
+2026-08-11 16:45:13,395 [INFO] [ 6/40] La Liga (ESP) | 2023-2024
+2026-08-11 16:45:13,395 [INFO]   → Joueurs de champ (tournament=8, season=52376)
+2026-08-11 16:45:15,538 [INFO]     500 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:45:15,544 [INFO]     [OK] 20260811_164515_ESP_20232024_sofascore_players.csv
+2026-08-11 16:45:18,545 [INFO]   → Gardiens (tournament=8, season=52376)
+2026-08-11 16:45:18,684 [INFO]     46 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:45:18,689 [INFO]     [OK] 20260811_164518_ESP_20232024_sofascore_keepers.csv
+2026-08-11 16:45:21,690 [INFO] [ 7/40] La Liga (ESP) | 2024-2025
+2026-08-11 16:45:21,690 [INFO]   → Joueurs de champ (tournament=8, season=61643)
+2026-08-11 16:45:23,829 [INFO]     500 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:45:23,834 [INFO]     [OK] 20260811_164523_ESP_20242025_sofascore_players.csv
+2026-08-11 16:45:26,835 [INFO]   → Gardiens (tournament=8, season=61643)
+2026-08-11 16:45:26,967 [INFO]     45 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:45:26,972 [INFO]     [OK] 20260811_164526_ESP_20242025_sofascore_keepers.csv
+2026-08-11 16:45:29,973 [INFO] [ 8/40] La Liga (ESP) | 2025-2026
+2026-08-11 16:45:29,973 [INFO]   → Joueurs de champ (tournament=8, season=77559)
+2026-08-11 16:45:32,112 [INFO]     500 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:45:32,121 [INFO]     [OK] 20260811_164532_ESP_20252026_sofascore_players.csv
+2026-08-11 16:45:35,121 [INFO]   → Gardiens (tournament=8, season=77559)
+2026-08-11 16:45:35,257 [INFO]     39 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:45:35,259 [INFO]     [OK] 20260811_164535_ESP_20252026_sofascore_keepers.csv
+2026-08-11 16:45:38,260 [INFO] [ 9/40] Bundesliga (GER) | 2022-2023
+2026-08-11 16:45:38,260 [INFO]   → Joueurs de champ (tournament=35, season=42268)
+2026-08-11 16:45:40,415 [INFO]     500 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:45:40,422 [INFO]     [OK] 20260811_164540_GER_20222023_sofascore_players.csv
+2026-08-11 16:45:43,423 [INFO]   → Gardiens (tournament=35, season=42268)
+2026-08-11 16:45:43,530 [INFO]     34 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:45:43,541 [INFO]     [OK] 20260811_164543_GER_20222023_sofascore_keepers.csv
+2026-08-11 16:45:46,542 [INFO] [10/40] Bundesliga (GER) | 2023-2024
+2026-08-11 16:45:46,543 [INFO]   → Joueurs de champ (tournament=35, season=52608)
+2026-08-11 16:45:48,672 [INFO]     494 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:45:48,680 [INFO]     [OK] 20260811_164548_GER_20232024_sofascore_players.csv
+2026-08-11 16:45:51,681 [INFO]   → Gardiens (tournament=35, season=52608)
+2026-08-11 16:45:51,823 [INFO]     33 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:45:51,827 [INFO]     [OK] 20260811_164551_GER_20232024_sofascore_keepers.csv
+2026-08-11 16:45:54,827 [INFO] [11/40] Bundesliga (GER) | 2024-2025
+2026-08-11 16:45:54,828 [INFO]   → Joueurs de champ (tournament=35, season=63516)
+2026-08-11 16:45:56,945 [INFO]     481 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:45:56,952 [INFO]     [OK] 20260811_164556_GER_20242025_sofascore_players.csv
+2026-08-11 16:45:59,953 [INFO]   → Gardiens (tournament=35, season=63516)
+2026-08-11 16:46:00,132 [INFO]     38 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:46:00,137 [INFO]     [OK] 20260811_164600_GER_20242025_sofascore_keepers.csv
+2026-08-11 16:46:03,138 [INFO] [12/40] Bundesliga (GER) | 2025-2026
+2026-08-11 16:46:03,138 [INFO]   → Joueurs de champ (tournament=35, season=77333)
+2026-08-11 16:46:05,304 [INFO]     499 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:46:05,312 [INFO]     [OK] 20260811_164605_GER_20252026_sofascore_players.csv
+2026-08-11 16:46:08,313 [INFO]   → Gardiens (tournament=35, season=77333)
+2026-08-11 16:46:08,499 [INFO]     30 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:46:08,506 [INFO]     [OK] 20260811_164608_GER_20252026_sofascore_keepers.csv
+2026-08-11 16:46:11,507 [INFO] [13/40] Serie A (ITA) | 2022-2023
+2026-08-11 16:46:11,507 [INFO]   → Joueurs de champ (tournament=23, season=42415)
+2026-08-11 16:46:13,657 [INFO]     500 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:46:13,667 [INFO]     [OK] 20260811_164613_ITA_20222023_sofascore_players.csv
+2026-08-11 16:46:16,668 [INFO]   → Gardiens (tournament=23, season=42415)
+2026-08-11 16:46:16,821 [INFO]     48 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:46:16,826 [INFO]     [OK] 20260811_164616_ITA_20222023_sofascore_keepers.csv
+2026-08-11 16:46:19,826 [INFO] [14/40] Serie A (ITA) | 2023-2024
+2026-08-11 16:46:19,827 [INFO]   → Joueurs de champ (tournament=23, season=52760)
+2026-08-11 16:46:21,973 [INFO]     500 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:46:21,979 [INFO]     [OK] 20260811_164621_ITA_20232024_sofascore_players.csv
+2026-08-11 16:46:24,979 [INFO]   → Gardiens (tournament=23, season=52760)
+2026-08-11 16:46:25,114 [INFO]     51 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:46:25,118 [INFO]     [OK] 20260811_164625_ITA_20232024_sofascore_keepers.csv
+2026-08-11 16:46:28,119 [INFO] [15/40] Serie A (ITA) | 2024-2025
+2026-08-11 16:46:28,119 [INFO]   → Joueurs de champ (tournament=23, season=63515)
+2026-08-11 16:46:30,243 [INFO]     500 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:46:30,254 [INFO]     [OK] 20260811_164630_ITA_20242025_sofascore_players.csv
+2026-08-11 16:46:33,255 [INFO]   → Gardiens (tournament=23, season=63515)
+2026-08-11 16:46:33,411 [INFO]     48 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:46:33,413 [INFO]     [OK] 20260811_164633_ITA_20242025_sofascore_keepers.csv
+2026-08-11 16:46:36,414 [INFO] [16/40] Serie A (ITA) | 2025-2026
+2026-08-11 16:46:36,415 [INFO]   → Joueurs de champ (tournament=23, season=76457)
+2026-08-11 16:46:38,557 [INFO]     500 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:46:38,569 [INFO]     [OK] 20260811_164638_ITA_20252026_sofascore_players.csv
+2026-08-11 16:46:41,570 [INFO]   → Gardiens (tournament=23, season=76457)
+2026-08-11 16:46:41,723 [INFO]     46 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:46:41,729 [INFO]     [OK] 20260811_164641_ITA_20252026_sofascore_keepers.csv
+2026-08-11 16:46:44,730 [INFO] [17/40] Ligue 1 (FRA) | 2022-2023
+2026-08-11 16:46:44,730 [INFO]   → Joueurs de champ (tournament=34, season=42273)
+2026-08-11 16:46:46,868 [INFO]     500 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:46:46,873 [INFO]     [OK] 20260811_164646_FRA_20222023_sofascore_players.csv
+2026-08-11 16:46:49,874 [INFO]   → Gardiens (tournament=34, season=42273)
+2026-08-11 16:46:50,040 [INFO]     42 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:46:50,043 [INFO]     [OK] 20260811_164650_FRA_20222023_sofascore_keepers.csv
+2026-08-11 16:46:53,044 [INFO] [18/40] Ligue 1 (FRA) | 2023-2024
+2026-08-11 16:46:53,044 [INFO]   → Joueurs de champ (tournament=34, season=52571)
+2026-08-11 16:46:55,191 [INFO]     500 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:46:55,198 [INFO]     [OK] 20260811_164655_FRA_20232024_sofascore_players.csv
+2026-08-11 16:46:58,199 [INFO]   → Gardiens (tournament=34, season=52571)
+2026-08-11 16:46:58,369 [INFO]     33 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:46:58,374 [INFO]     [OK] 20260811_164658_FRA_20232024_sofascore_keepers.csv
+2026-08-11 16:47:01,375 [INFO] [19/40] Ligue 1 (FRA) | 2024-2025
+2026-08-11 16:47:01,375 [INFO]   → Joueurs de champ (tournament=34, season=61736)
+2026-08-11 16:47:03,505 [INFO]     500 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:47:03,510 [INFO]     [OK] 20260811_164703_FRA_20242025_sofascore_players.csv
+2026-08-11 16:47:06,511 [INFO]   → Gardiens (tournament=34, season=61736)
+2026-08-11 16:47:06,640 [INFO]     35 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:47:06,644 [INFO]     [OK] 20260811_164706_FRA_20242025_sofascore_keepers.csv
+2026-08-11 16:47:09,644 [INFO] [20/40] Ligue 1 (FRA) | 2025-2026
+2026-08-11 16:47:09,644 [INFO]   → Joueurs de champ (tournament=34, season=77356)
+2026-08-11 16:47:11,811 [INFO]     500 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:47:11,818 [INFO]     [OK] 20260811_164711_FRA_20252026_sofascore_players.csv
+2026-08-11 16:47:14,819 [INFO]   → Gardiens (tournament=34, season=77356)
+2026-08-11 16:47:14,972 [INFO]     39 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:47:14,976 [INFO]     [OK] 20260811_164714_FRA_20252026_sofascore_keepers.csv
+2026-08-11 16:47:17,977 [INFO] [21/40] Primeira Liga (POR) | 2022-2023
+2026-08-11 16:47:17,977 [INFO]   → Joueurs de champ (tournament=238, season=42655)
+2026-08-11 16:47:20,144 [INFO]     500 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:47:20,152 [INFO]     [OK] 20260811_164720_POR_20222023_sofascore_players.csv
+2026-08-11 16:47:23,153 [INFO]   → Gardiens (tournament=238, season=42655)
+2026-08-11 16:47:23,338 [INFO]     49 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:47:23,343 [INFO]     [OK] 20260811_164723_POR_20222023_sofascore_keepers.csv
+2026-08-11 16:47:26,343 [INFO] [22/40] Primeira Liga (POR) | 2023-2024
+2026-08-11 16:47:26,344 [INFO]   → Joueurs de champ (tournament=238, season=52769)
+2026-08-11 16:47:28,486 [INFO]     500 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:47:28,494 [INFO]     [OK] 20260811_164728_POR_20232024_sofascore_players.csv
+2026-08-11 16:47:31,495 [INFO]   → Gardiens (tournament=238, season=52769)
+2026-08-11 16:47:31,626 [INFO]     43 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:47:31,628 [INFO]     [OK] 20260811_164731_POR_20232024_sofascore_keepers.csv
+2026-08-11 16:47:34,629 [INFO] [23/40] Primeira Liga (POR) | 2024-2025
+2026-08-11 16:47:34,629 [INFO]   → Joueurs de champ (tournament=238, season=63670)
+2026-08-11 16:47:36,821 [INFO]     500 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:47:36,827 [INFO]     [OK] 20260811_164736_POR_20242025_sofascore_players.csv
+2026-08-11 16:47:39,827 [INFO]   → Gardiens (tournament=238, season=63670)
+2026-08-11 16:47:39,975 [INFO]     45 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:47:39,978 [INFO]     [OK] 20260811_164739_POR_20242025_sofascore_keepers.csv
+2026-08-11 16:47:42,978 [INFO] [24/40] Primeira Liga (POR) | 2025-2026
+2026-08-11 16:47:42,979 [INFO]   → Joueurs de champ (tournament=238, season=77806)
+2026-08-11 16:47:45,094 [INFO]     500 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:47:45,105 [INFO]     [OK] 20260811_164745_POR_20252026_sofascore_players.csv
+2026-08-11 16:47:48,105 [INFO]   → Gardiens (tournament=238, season=77806)
+2026-08-11 16:47:48,287 [INFO]     44 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:47:48,289 [INFO]     [OK] 20260811_164748_POR_20252026_sofascore_keepers.csv
+2026-08-11 16:47:51,290 [INFO] [25/40] Eredivisie (NED) | 2022-2023
+2026-08-11 16:47:51,290 [INFO]   → Joueurs de champ (tournament=37, season=42256)
+2026-08-11 16:47:53,477 [INFO]     500 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:47:53,483 [INFO]     [OK] 20260811_164753_NED_20222023_sofascore_players.csv
+2026-08-11 16:47:56,483 [INFO]   → Gardiens (tournament=37, season=42256)
+2026-08-11 16:47:56,635 [INFO]     40 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:47:56,639 [INFO]     [OK] 20260811_164756_NED_20222023_sofascore_keepers.csv
+2026-08-11 16:47:59,639 [INFO] [26/40] Eredivisie (NED) | 2023-2024
+2026-08-11 16:47:59,640 [INFO]   → Joueurs de champ (tournament=37, season=52554)
+2026-08-11 16:48:01,780 [INFO]     500 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:48:01,785 [INFO]     [OK] 20260811_164801_NED_20232024_sofascore_players.csv
+2026-08-11 16:48:04,786 [INFO]   → Gardiens (tournament=37, season=52554)
+2026-08-11 16:48:04,910 [INFO]     38 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:48:04,912 [INFO]     [OK] 20260811_164804_NED_20232024_sofascore_keepers.csv
+2026-08-11 16:48:07,912 [INFO] [27/40] Eredivisie (NED) | 2024-2025
+2026-08-11 16:48:07,913 [INFO]   → Joueurs de champ (tournament=37, season=61666)
+2026-08-11 16:48:10,040 [INFO]     500 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:48:10,046 [INFO]     [OK] 20260811_164810_NED_20242025_sofascore_players.csv
+2026-08-11 16:48:13,046 [INFO]   → Gardiens (tournament=37, season=61666)
+2026-08-11 16:48:13,193 [INFO]     38 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:48:13,195 [INFO]     [OK] 20260811_164813_NED_20242025_sofascore_keepers.csv
+2026-08-11 16:48:16,196 [INFO] [28/40] Eredivisie (NED) | 2025-2026
+2026-08-11 16:48:16,196 [INFO]   → Joueurs de champ (tournament=37, season=77012)
+2026-08-11 16:48:18,341 [INFO]     500 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:48:18,347 [INFO]     [OK] 20260811_164818_NED_20252026_sofascore_players.csv
+2026-08-11 16:48:21,347 [INFO]   → Gardiens (tournament=37, season=77012)
+2026-08-11 16:48:21,482 [INFO]     41 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:48:21,485 [INFO]     [OK] 20260811_164821_NED_20252026_sofascore_keepers.csv
+2026-08-11 16:48:24,486 [INFO] [29/40] Pro League (BEL) | 2022-2023
+2026-08-11 16:48:24,486 [INFO]   → Joueurs de champ (tournament=38, season=42404)
+2026-08-11 16:48:26,626 [INFO]     500 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:48:26,632 [INFO]     [OK] 20260811_164826_BEL_20222023_sofascore_players.csv
+2026-08-11 16:48:29,633 [INFO]   → Gardiens (tournament=38, season=42404)
+2026-08-11 16:48:29,745 [INFO]     31 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:48:29,749 [INFO]     [OK] 20260811_164829_BEL_20222023_sofascore_keepers.csv
+2026-08-11 16:48:32,750 [INFO] [30/40] Pro League (BEL) | 2023-2024
+2026-08-11 16:48:32,750 [INFO]   → Joueurs de champ (tournament=38, season=52383)
+2026-08-11 16:48:34,877 [INFO]     500 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:48:34,902 [INFO]     [OK] 20260811_164834_BEL_20232024_sofascore_players.csv
+2026-08-11 16:48:37,902 [INFO]   → Gardiens (tournament=38, season=52383)
+2026-08-11 16:48:38,036 [INFO]     42 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:48:38,038 [INFO]     [OK] 20260811_164838_BEL_20232024_sofascore_keepers.csv
+2026-08-11 16:48:41,038 [INFO] [31/40] Pro League (BEL) | 2024-2025
+2026-08-11 16:48:41,038 [INFO]   → Joueurs de champ (tournament=38, season=61459)
+2026-08-11 16:48:43,161 [INFO]     500 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:48:43,166 [INFO]     [OK] 20260811_164843_BEL_20242025_sofascore_players.csv
+2026-08-11 16:48:46,166 [INFO]   → Gardiens (tournament=38, season=61459)
+2026-08-11 16:48:46,343 [INFO]     45 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:48:46,348 [INFO]     [OK] 20260811_164846_BEL_20242025_sofascore_keepers.csv
+2026-08-11 16:48:49,348 [INFO] [32/40] Pro League (BEL) | 2025-2026
+2026-08-11 16:48:49,348 [INFO]   → Joueurs de champ (tournament=38, season=77040)
+2026-08-11 16:48:51,494 [INFO]     500 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:48:51,502 [INFO]     [OK] 20260811_164851_BEL_20252026_sofascore_players.csv
+2026-08-11 16:48:54,502 [INFO]   → Gardiens (tournament=38, season=77040)
+2026-08-11 16:48:54,643 [INFO]     41 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:48:54,648 [INFO]     [OK] 20260811_164854_BEL_20252026_sofascore_keepers.csv
+2026-08-11 16:48:57,648 [INFO] [33/40] Super Lig (TUR) | 2022-2023
+2026-08-11 16:48:57,649 [INFO]   → Joueurs de champ (tournament=52, season=42632)
+2026-08-11 16:48:59,787 [INFO]     500 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:48:59,795 [INFO]     [OK] 20260811_164859_TUR_20222023_sofascore_players.csv
+2026-08-11 16:49:02,796 [INFO]   → Gardiens (tournament=52, season=42632)
+2026-08-11 16:49:02,956 [INFO]     46 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:49:02,961 [INFO]     [OK] 20260811_164902_TUR_20222023_sofascore_keepers.csv
+2026-08-11 16:49:05,961 [INFO] [34/40] Super Lig (TUR) | 2023-2024
+2026-08-11 16:49:05,962 [INFO]   → Joueurs de champ (tournament=52, season=53190)
+2026-08-11 16:49:08,087 [INFO]     500 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:49:08,093 [INFO]     [OK] 20260811_164908_TUR_20232024_sofascore_players.csv
+2026-08-11 16:49:11,093 [INFO]   → Gardiens (tournament=52, season=53190)
+2026-08-11 16:49:11,243 [INFO]     51 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:49:11,247 [INFO]     [OK] 20260811_164911_TUR_20232024_sofascore_keepers.csv
+2026-08-11 16:49:14,247 [INFO] [35/40] Super Lig (TUR) | 2024-2025
+2026-08-11 16:49:14,247 [INFO]   → Joueurs de champ (tournament=52, season=63814)
+2026-08-11 16:49:16,371 [INFO]     500 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:49:16,382 [INFO]     [OK] 20260811_164916_TUR_20242025_sofascore_players.csv
+2026-08-11 16:49:19,383 [INFO]   → Gardiens (tournament=52, season=63814)
+2026-08-11 16:49:19,556 [INFO]     45 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:49:19,560 [INFO]     [OK] 20260811_164919_TUR_20242025_sofascore_keepers.csv
+2026-08-11 16:49:22,561 [INFO] [36/40] Super Lig (TUR) | 2025-2026
+2026-08-11 16:49:22,561 [INFO]   → Joueurs de champ (tournament=52, season=77805)
+2026-08-11 16:49:24,699 [INFO]     500 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:49:24,708 [INFO]     [OK] 20260811_164924_TUR_20252026_sofascore_players.csv
+2026-08-11 16:49:27,709 [INFO]   → Gardiens (tournament=52, season=77805)
+2026-08-11 16:49:27,834 [INFO]     45 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:49:27,839 [INFO]     [OK] 20260811_164927_TUR_20252026_sofascore_keepers.csv
+2026-08-11 16:49:30,840 [INFO] [37/40] Bundesliga Autriche (AUT) | 2022-2023
+2026-08-11 16:49:30,840 [INFO]   → Joueurs de champ (tournament=45, season=42386)
+2026-08-11 16:49:32,444 [INFO]     344 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:49:32,449 [INFO]     [OK] 20260811_164932_AUT_20222023_sofascore_players.csv
+2026-08-11 16:49:35,450 [INFO]   → Gardiens (tournament=45, season=42386)
+2026-08-11 16:49:35,619 [INFO]     27 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:49:35,625 [INFO]     [OK] 20260811_164935_AUT_20222023_sofascore_keepers.csv
+2026-08-11 16:49:38,625 [INFO] [38/40] Bundesliga Autriche (AUT) | 2023-2024
+2026-08-11 16:49:38,626 [INFO]   → Joueurs de champ (tournament=45, season=52524)
+2026-08-11 16:49:40,219 [INFO]     330 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:49:40,227 [INFO]     [OK] 20260811_164940_AUT_20232024_sofascore_players.csv
+2026-08-11 16:49:43,227 [INFO]   → Gardiens (tournament=45, season=52524)
+2026-08-11 16:49:43,352 [INFO]     25 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:49:43,354 [INFO]     [OK] 20260811_164943_AUT_20232024_sofascore_keepers.csv
+2026-08-11 16:49:46,355 [INFO] [39/40] Bundesliga Autriche (AUT) | 2024-2025
+2026-08-11 16:49:46,355 [INFO]   → Joueurs de champ (tournament=45, season=62629)
+2026-08-11 16:49:47,971 [INFO]     353 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:49:47,976 [INFO]     [OK] 20260811_164947_AUT_20242025_sofascore_players.csv
+2026-08-11 16:49:50,976 [INFO]   → Gardiens (tournament=45, season=62629)
+2026-08-11 16:49:51,162 [INFO]     25 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:49:51,165 [INFO]     [OK] 20260811_164951_AUT_20242025_sofascore_keepers.csv
+2026-08-11 16:49:54,166 [INFO] [40/40] Bundesliga Autriche (AUT) | 2025-2026
+2026-08-11 16:49:54,166 [INFO]   → Joueurs de champ (tournament=45, season=77382)
+2026-08-11 16:49:55,807 [INFO]     339 joueurs | 30 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'rating', 'goals']...
+2026-08-11 16:49:55,811 [INFO]     [OK] 20260811_164955_AUT_20252026_sofascore_players.csv
+2026-08-11 16:49:58,811 [INFO]   → Gardiens (tournament=45, season=77382)
+2026-08-11 16:49:58,933 [INFO]     22 gardiens | 16 colonnes : ['tournament_id', 'season_id', 'player_name', 'player_id', 'team_name', 'team_id', 'saves', 'goalsPrevented', 'rating', 'minutesPlayed', 'appearances', 'accuratePasses', 'accurateLongBalls', 'accurateLongBallsPercentage', 'yellowCards', 'redCards']
+2026-08-11 16:49:58,938 [INFO]     [OK] 20260811_164958_AUT_20252026_sofascore_keepers.csv
+2026-08-11 16:49:58,938 [INFO] =================================================================
+2026-08-11 16:49:58,938 [INFO]   BILAN : 80/80 appels réussis
+2026-08-11 16:49:58,938 [INFO]   Fichiers générés : 80
+2026-08-11 16:49:58,938 [INFO] =================================================================

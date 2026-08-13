@@ -1,0 +1,46 @@
+﻿tournament_id,season_id,player_name,player_id,team_name,team_id,saves,goalsPrevented,rating,minutesPlayed,appearances,accuratePasses,accurateLongBalls,accurateLongBallsPercentage,yellowCards,redCards,_league_id,_season,_source,_scraped_at
+38,61459,Senne Lammens,964753,Royal Antwerp FC,2889,173,15.57,7.47,3600,40,1031,295,41.9,1,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Colin Coosemans,122399,RSC Anderlecht,2900,138,18.81,7.41,3420,38,1204,285,46.64,1,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Ortwin De Wolf,877292,KV Mechelen,5044,135,10.12,7.16,3510,39,962,221,40.4,1,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Tobe Leysen,996979,Oud-Heverlee Leuven,2918,122,9.42,7.13,3400,38,915,288,38.25,5,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Davy Roef,156663,KAA Gent,2903,114,16.7,7.55,2340,26,542,153,44.22,1,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Michael Verrips,583506,FCV Dender,389232,114,2.93,6.92,2967,34,495,209,38.49,1,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Anthony Moris,39457,Royale Union Saint-Gilloise,4860,92,12.48,7.2,3600,40,800,348,48.67,2,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Léo Kokubo,997020,Sint-Truidense VV,2895,91,-1.26,6.93,2970,33,661,182,37.76,3,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Matthieu Epolo,1121943,Standard Liège,2901,88,7.42,7.23,2385,27,358,172,35.61,0,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Nick Shinton,909962,K. Beerschot V.A.,169260,85,3.68,7.06,1846,21,420,113,29.89,1,1,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Simon Mignolet,10406,Club Brugge KV,2888,77,2.29,6.97,3075,35,893,221,53.25,2,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Martin Delavallée,1141106,RC Sporting Charleroi,2898,75,7.72,7.36,1710,19,305,110,38.46,0,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Tom Vandenberghe,1046454,KAA Gent,2903,68,-8.96,6.81,1980,22,423,122,39.87,0,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Maxime Delanghe,909953,Cercle Brugge,2929,67,-0.52,6.79,2152,24,229,139,28.25,1,1,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Mike Penders,1149148,KRC Genk,2890,54,4.76,7.17,1890,21,622,151,48.09,0,1,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Mohamed Koné,1131009,RC Sporting Charleroi,2898,54,2.74,7.15,1890,21,457,152,45.1,2,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Andreas Jungdal,963038,KVC Westerlo,2893,48,-0.5,7.05,1530,17,422,113,39.37,0,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Hendrik Van Crombrugge,110777,KRC Genk,2890,47,0.49,6.87,1710,19,531,139,47.12,2,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Sinan Bolat,5920,KVC Westerlo,2893,42,0.5,6.93,990,11,237,78,40.41,4,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Warleson,861071,Cercle Brugge,2929,41,3.67,6.92,1274,15,153,106,35.57,2,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Davor Matijaš,826029,K. Beerschot V.A.,169260,40,6.05,7.08,1031,12,288,56,33.73,3,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Koen Van Langendonck,247481,KVC Westerlo,2893,26,1.28,7.04,990,11,265,79,53.38,0,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Lucas Pirard,190379,KV Kortrijk,4858,24,5.54,6.96,692,9,109,54,40.0,2,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Patrik Sigurdur Gunnarsson,879496,KV Kortrijk,4858,21,-1.07,6.75,923,11,145,71,37.37,0,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Nordin Jackers,361722,Club Brugge KV,2888,19,2.75,7.26,525,7,148,24,38.71,0,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Marko Ilić,843151,KV Kortrijk,4858,19,1.08,7.16,426,5,47,29,42.65,0,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Julien Devriendt,857141,FCV Dender,389232,17,-1.48,7.05,315,4,37,15,31.25,0,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Gavin Bazunu,936719,Standard Liège,2901,17,-0.08,6.64,720,8,141,39,27.86,0,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Jordi Belin,803625,Patro Eisden Maasmechelen,35076,16,,6.63,540,6,65,47,35.34,1,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Brent Gabriel,861977,KSC Lokeren,371484,13,,6.95,360,4,137,28,37.84,0,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Laurent Henkinet,127405,Standard Liège,2901,12,1.51,7.38,315,4,35,21,27.63,0,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Ebbe De Vlaeminck,1187184,KV Kortrijk,4858,11,1.21,6.92,389,5,46,30,34.88,0,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Emile Doucouré,1566217,K. Beerschot V.A.,169260,10,2.03,7.07,270,3,73,9,17.31,0,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Nick Gillekens,794577,KVC Westerlo,2893,8,1.75,7.7,90,1,23,13,50.0,0,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Mads Juhl Kikkenborg,984005,RSC Anderlecht,2900,8,2.43,6.9,180,2,42,9,28.13,0,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Bill Lathouwers,943249,RWDM Brussels,204219,7,,6.6,180,2,33,5,38.46,0,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Jo Coppens,45854,Sint-Truidense VV,2895,7,-1.38,5.9,270,3,59,17,31.48,2,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Guillaume Dietsch,986770,FCV Dender,389232,6,0.28,7.0,318,4,65,17,53.13,0,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Daniel Schmidt,997499,KAA Gent,2903,5,2.07,8.2,90,1,25,3,25.0,0,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Arnaud Bodart,878898,Standard Liège,2901,5,1.87,7.7,180,2,20,20,33.9,0,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Maxence Prévot,785520,Oud-Heverlee Leuven,2918,5,1.28,7.1,180,2,61,21,52.5,0,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Nacho Miras,1010556,KV Mechelen,5044,4,0.07,6.7,90,1,12,9,50.0,0,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Beau Reus,947045,SK Beveren,4859,4,,6.3,180,2,52,5,33.33,0,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Theo Defourny,156736,RC Sporting Charleroi,2898,2,-0.52,6.5,90,1,17,1,10.0,0,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42
+38,61459,Owen Jochmans,1085907,Oud-Heverlee Leuven,2918,1,0.45,5.3,20,1,8,1,100.0,0,0,BEL,2024-2025,datafc_sofascore,2026-08-12 07:03:42

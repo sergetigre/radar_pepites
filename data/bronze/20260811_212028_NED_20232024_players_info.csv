@@ -1,0 +1,504 @@
+﻿player_id,player_name,date_of_birth,age,nationality,nationality_id,height,weight,preferred_foot,jersey_number,position,position_detailed,market_value,market_currency,team_id,team_name,_league_id,_season,_source,_scraped_at
+986395,Ricardo Pepi,2003-01-09,23,USA,,185.0,73.0,Right,9,F,['ST'],31000000.0,EUR,2952,PSV Eindhoven,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1047395,Couhaib Driouech,2002-04-17,24,Morocco,,175.0,,Left,11,F,['LW'],7100000.0,EUR,2952,PSV Eindhoven,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1212550,Ruben van Bommel,2004-08-03,22,Netherlands,,191.0,,Right,7,F,['LW'],10500000.0,EUR,2952,PSV Eindhoven,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+38710,Ivan Perišić,1989-02-02,37,Croatia,,187.0,,Both,5,M,"['LW', 'RW']",1200000.0,EUR,2952,PSV Eindhoven,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+812145,Dennis Man,1998-08-26,27,Romania,,182.0,,Left,27,M,['RW'],15700000.0,EUR,2952,PSV Eindhoven,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+126588,Filip Kostić,1992-11-01,33,Serbia,,184.0,82.0,Left,,M,['ML'],1800000.0,EUR,2952,PSV Eindhoven,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1146018,Paul Wanner,2005-12-22,20,Austria,,186.0,,Left,10,M,"['AM', 'MC']",23000000.0,EUR,2952,PSV Eindhoven,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+850816,Joey Veerman,1998-11-19,27,Netherlands,,185.0,,Right,23,M,"['MC', 'DM']",26000000.0,EUR,2952,PSV Eindhoven,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+845798,Guus Til,1997-12-22,28,Netherlands,,183.0,74.0,Right,20,M,"['MC', 'AM', 'ST']",15500000.0,EUR,2952,PSV Eindhoven,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1184054,Kodai Sano,2003-09-25,22,Japan,,176.0,,Right,23,M,"['MC', 'DM']",12900000.0,EUR,2952,PSV Eindhoven,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+192308,Alassane Pléa,1993-03-10,33,France,,180.0,,Right,14,M,"['ST', 'LW', 'AM']",2600000.0,EUR,2952,PSV Eindhoven,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+980671,Sven Mijnans,2000-03-09,26,Netherlands,,190.0,,Left,21,M,"['AM', 'MC']",16399999.0,EUR,2952,PSV Eindhoven,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1886213,Noah Fernandez,2008-01-09,18,Belgium,,170.0,,Left,31,M,['MC'],3900000.0,EUR,2952,PSV Eindhoven,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1120701,Isaac Babadi,2005-04-06,21,Netherlands,,179.0,,Right,26,M,"['LW', 'MC']",1400000.0,EUR,2952,PSV Eindhoven,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2266990,Amir Bouhamdi,2008-06-17,18,Morocco,,,,,37,M,['LW'],155000.0,EUR,2952,PSV Eindhoven,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+906021,Sergiño Dest,2000-11-03,25,USA,,173.0,,Right,8,D,"['DR', 'DL']",17200000.0,EUR,2952,PSV Eindhoven,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1108094,Adamo Nagalo,2002-09-22,23,Burkina Faso,,185.0,,Right,39,D,['DC'],2900000.0,EUR,2952,PSV Eindhoven,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1046960,Ryan Flamingo,2002-12-31,23,Netherlands,,186.0,,Right,6,D,['DC'],14800000.0,EUR,2952,PSV Eindhoven,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+893499,Mauro Júnior,1999-05-06,27,Brazil,,171.0,62.0,Left,17,D,"['DL', 'MC']",18600000.0,EUR,2952,PSV Eindhoven,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+844234,Jerdy Schouten,1997-01-12,29,Netherlands,,185.0,72.0,Right,22,D,"['MC', 'DM', 'DC']",18400000.0,EUR,2952,PSV Eindhoven,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1014222,Kiliann Sildillia,2002-05-16,24,France,,186.0,,Right,25,D,['DR'],6800000.0,EUR,2952,PSV Eindhoven,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+825838,Armando Obispo,1999-03-05,27,Curacao,,184.0,79.0,Left,4,D,['DC'],3700000.0,EUR,2952,PSV Eindhoven,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+927366,Matěj Kovář,2000-05-17,26,Czechia,,196.0,,Right,32,G,['GK'],8300000.0,EUR,2952,PSV Eindhoven,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+227192,Nick Olij,1995-08-01,31,Netherlands,,185.0,74.0,Right,1,G,['GK'],1800000.0,EUR,2952,PSV Eindhoven,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+985823,Ayase Ueda,1998-08-28,27,Japan,,182.0,76.0,Right,9,F,['ST'],19400000.0,EUR,2959,Feyenoord,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1470002,Shaqueel van Persie,2006-11-16,19,Netherlands,,186.0,,Left,49,F,['ST'],1500000.0,EUR,2959,Feyenoord,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+957937,Casper Tengstedt,2000-06-01,26,Denmark,,184.0,,Right,17,F,['ST'],3400000.0,EUR,2959,Feyenoord,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1196903,Nacho Ferri,2004-10-05,21,Spain,,192.0,80.0,Right,19,F,['ST'],6600000.0,EUR,2959,Feyenoord,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2014656,Jivayno Zinhagel,2009-04-18,17,Netherlands,,,,Right,36,F,,,,2959,Feyenoord,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1218066,Anis Hadj Moussa,2002-02-11,24,Algeria,,176.0,,Left,23,M,['RW'],24000000.0,EUR,2959,Feyenoord,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1095731,Oussama Targhalline,2002-05-20,24,Morocco,,186.0,,Right,28,M,"['MC', 'DM']",14400000.0,EUR,2959,Feyenoord,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+886242,Jakub Moder,1999-04-07,27,Poland,,191.0,,Right,7,M,"['MC', 'DM']",10900000.0,EUR,2959,Feyenoord,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+944467,Sem Steijn,2001-11-12,24,Netherlands,,173.0,,Right,14,M,['AM'],11900000.0,EUR,2959,Feyenoord,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+822462,Luka Ivanušec,1998-11-26,27,Croatia,,175.0,70.0,Right,33,M,"['LW', 'AM']",3300000.0,EUR,2959,Feyenoord,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1918931,Gaoussou Diarra,2002-11-21,23,Mali,,183.0,,Right,27,M,['LW'],1800000.0,EUR,2959,Feyenoord,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1121400,Luciano Valente,2003-10-04,22,Netherlands,,189.0,,Right,10,M,"['MC', 'ML', 'DM', 'AM']",19200000.0,EUR,2959,Feyenoord,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+979221,Gonçalo Borges,2001-03-29,25,Portugal,,184.0,,Right,11,M,"['RW', 'LW']",3100000.0,EUR,2959,Feyenoord,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1433802,Gjivai Zechiël,2004-06-01,22,Netherlands,,179.0,,Right,8,M,"['MC', 'DM']",10500000.0,EUR,2959,Feyenoord,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+928033,Charles Vanhoutte,1998-09-16,27,Belgium,,182.0,,Right,34,M,"['DM', 'MC']",6800000.0,EUR,2959,Feyenoord,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1384486,Thijs Kraaijeveld,2007-05-03,19,Netherlands,,188.0,,Right,24,M,['MC'],5200000.0,EUR,2959,Feyenoord,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1939011,Tobias van den Elshout,2007-02-02,19,Netherlands,,188.0,,Right,22,M,,1900000.0,EUR,2959,Feyenoord,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1388535,Givairo Read,2006-06-02,20,Netherlands,,175.0,,Right,26,D,['DR'],24000000.0,EUR,2959,Feyenoord,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1144138,Jordan Bos,2002-10-29,23,Australia,,180.0,,Left,15,D,['DL'],11200000.0,EUR,2959,Feyenoord,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+942213,Tsuyoshi Watanabe,1997-02-05,29,Japan,,187.0,,Right,4,D,['DC'],9300000.0,EUR,2959,Feyenoord,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+825899,Anel Ahmedhodžić,1999-03-26,27,Bosnia & Herzegovina,,190.0,,Right,21,D,['DC'],9700000.0,EUR,2959,Feyenoord,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+787640,Jeremiah St Juste,1996-10-19,29,Netherlands,,185.0,71.0,Right,6,D,"['DC', 'DR']",2900000.0,EUR,2959,Feyenoord,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+979146,Mika Mármol,2001-07-01,25,Spain,,181.0,,Left,35,D,"['DC', 'DL']",9100000.0,EUR,2959,Feyenoord,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+796279,Jordan Lotomba,1998-09-29,27,Switzerland,,177.0,67.0,Right,30,D,['DR'],3600000.0,EUR,2959,Feyenoord,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1127916,Thomas Beelen,2001-06-11,25,Netherlands,,190.0,,Right,3,D,['DC'],5200000.0,EUR,2959,Feyenoord,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+961678,Neraysho Kasanwirjo,2002-02-18,24,Netherlands,,185.0,,Right,47,D,"['DR', 'DC']",1400000.0,EUR,2959,Feyenoord,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+794013,Mats Deijl,1997-07-15,29,Netherlands,,180.0,,Right,20,D,['DR'],1900000.0,EUR,2959,Feyenoord,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+860160,Gijs Smal,1997-08-31,28,Netherlands,,183.0,,Left,5,D,['DL'],5800000.0,EUR,2959,Feyenoord,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+797279,Bart Nieuwkoop,1996-03-07,30,Netherlands,,180.0,72.0,Right,2,D,"['MR', 'DR']",1400000.0,EUR,2959,Feyenoord,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1939010,Tijme Wessels,2007-02-23,19,Netherlands,,,,Left,32,D,,,,2959,Feyenoord,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1019319,Tjark Ernst,2003-03-15,23,Germany,,193.0,,Right,1,G,['GK'],3900000.0,EUR,2959,Feyenoord,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+307364,Liam Bossin,1996-07-15,30,Ireland,,190.0,81.0,Right,39,G,['GK'],380000.0,EUR,2959,Feyenoord,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1390118,Mannou Berger,2004-10-15,21,Netherlands,,193.0,,Right,37,G,['GK'],77000.0,EUR,2959,Feyenoord,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+252215,Wout Weghorst,1992-08-07,34,Netherlands,,197.0,84.0,Right,9,F,['ST'],2100000.0,EUR,2955,FC Twente,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+190435,Marko Pjaca,1995-05-06,31,Croatia,,186.0,85.0,Right,7,F,['LW'],1600000.0,EUR,2955,FC Twente,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1032926,Sayfallah Ltaief,2000-04-22,26,Tunisia,,180.0,,Right,30,F,['LW'],1300000.0,EUR,2955,FC Twente,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+954317,Naci Ünüvar,2003-06-13,23,Türkiye,,168.0,,Right,37,F,['LW'],910000.0,EUR,2955,FC Twente,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+804901,Sam Lammers,1997-04-30,29,Netherlands,,191.0,77.0,Both,10,F,['ST'],4300000.0,EUR,2955,FC Twente,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1634542,Lucas Vennegoor of Hesselink,2006-03-14,20,Netherlands,,188.0,,Left,25,F,,270000.0,EUR,2955,FC Twente,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+989882,Ramiz Zerrouki,1998-05-26,28,Algeria,,183.0,,Right,6,M,"['MC', 'DM']",6000000.0,EUR,2955,FC Twente,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1146623,Younes Taha,2002-11-27,23,Morocco,,176.0,,Left,19,M,['AM'],4200000.0,EUR,2955,FC Twente,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1160026,Kristian Hlynsson,2004-01-23,22,Iceland,,176.0,,Right,14,M,"['AM', 'MC']",5700000.0,EUR,2955,FC Twente,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1200962,Sondre Ørjasæter,2003-11-28,22,Norway,,180.0,,Right,27,M,['LW'],6800000.0,EUR,2955,FC Twente,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1048430,Daan Rots,2001-07-25,25,Netherlands,,179.0,,Left,11,M,['RW'],4700000.0,EUR,2955,FC Twente,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+906024,Taylor Booth,2001-05-31,25,USA,,173.0,,Both,8,M,"['RW', 'MC']",1100000.0,EUR,2955,FC Twente,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1424662,Filip Thorvaldsen,2006-04-15,20,Norway,,174.0,,Right,26,M,['LW'],1800000.0,EUR,2955,FC Twente,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+945233,Thomas Van den Belt,2001-06-18,25,Netherlands,,181.0,,Right,20,M,"['MC', 'DM']",4400000.0,EUR,2955,FC Twente,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+578344,Arno Verschueren,1997-08-04,29,Belgium,,182.0,71.0,Right,32,M,"['AM', 'MC']",675000.0,EUR,2955,FC Twente,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+966546,Mathias Kjølø,2001-06-27,25,Norway,,174.0,,Right,4,M,"['MC', 'DM']",925000.0,EUR,2955,FC Twente,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1142678,Daouda Weidmann,2003-05-04,23,France,,180.0,,Right,42,M,['MC'],795000.0,EUR,2955,FC Twente,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1440801,Gijs Besselink,2004-06-16,22,Netherlands,,180.0,,Right,41,M,"['MC', 'DM']",620000.0,EUR,2955,FC Twente,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1014288,Mees Hilgers,2001-05-13,25,Indonesia,,185.0,,Right,2,D,['DC'],3200000.0,EUR,2955,FC Twente,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1890313,Ruud Nijstad,2008-01-17,18,Netherlands,,192.0,,Left,43,D,['DC'],10500000.0,EUR,2955,FC Twente,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1470014,Julien Mesbahi,2006-01-31,20,Morocco,,181.0,72.0,Right,44,D,['DC'],160000.0,EUR,2955,FC Twente,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+946506,Bart van Rooij,2001-05-26,25,Netherlands,,174.0,,Right,28,D,['DR'],9700000.0,EUR,2955,FC Twente,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1091923,Stav Lemkin,2003-04-02,23,Israel,,190.0,,Right,23,D,['DC'],5700000.0,EUR,2955,FC Twente,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+196082,Robin Pröpper,1993-09-23,32,Netherlands,,190.0,80.0,Both,3,D,['DC'],1200000.0,EUR,2955,FC Twente,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1479494,Krzysztof Kurowski,2006-08-29,19,Poland,,180.0,,Left,24,D,['DL'],495000.0,EUR,2955,FC Twente,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1470065,Guilherme Peixoto,2006-05-25,20,Portugal,,181.0,68.0,Right,12,D,['DR'],195000.0,EUR,2955,FC Twente,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1133233,Aske Adelgaard,2003-11-10,22,Denmark,,175.0,,Left,29,D,['DL'],940000.0,EUR,2955,FC Twente,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1091627,Max Bruns,2002-11-06,23,Netherlands,,186.0,,Right,38,D,['DC'],1400000.0,EUR,2955,FC Twente,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2622,Remko Pasveer,1983-11-08,42,Netherlands,,186.0,87.0,Right,22,G,['GK'],97000.0,EUR,2955,FC Twente,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+904775,Issam El Maach,2000-02-01,26,Morocco,,187.0,,Right,16,G,['GK'],110000.0,EUR,2955,FC Twente,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+610396,Joël Drommel,1996-11-16,29,Netherlands,,189.0,87.0,Right,16,G,['GK'],3700000.0,EUR,2955,FC Twente,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+94835,Lars Unnerstall,1990-07-20,36,Germany,,198.0,104.0,Right,1,G,['GK'],1000000.0,EUR,2955,FC Twente,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1928510,Yannick Gerritsen,2006-02-14,20,Netherlands,,,,,31,G,,49000.0,EUR,2955,FC Twente,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+966555,Troy Parrott,2002-02-04,24,Ireland,,185.0,,Right,9,F,['ST'],23000000.0,EUR,2950,AZ Alkmaar,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+905174,Ibrahim Sadiq,2000-05-07,26,Ghana,,166.0,,Right,11,F,['RW'],2100000.0,EUR,2950,AZ Alkmaar,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1148468,Weslley Patati,2003-10-01,22,Brazil,,167.0,60.0,Left,7,F,"['RW', 'LW']",4700000.0,EUR,2950,AZ Alkmaar,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1153117,Mexx Meerdink,2003-07-24,23,Netherlands,,182.0,,Left,35,F,['ST'],8300000.0,EUR,2950,AZ Alkmaar,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+914392,Jizz Hornkamp,1998-03-07,28,Netherlands,,180.0,,Right,19,F,['ST'],2600000.0,EUR,2950,AZ Alkmaar,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1046028,Mayckel Lahdo,2002-12-30,23,Sweden,,171.0,,Right,23,F,"['RW', 'LW']",2600000.0,EUR,2950,AZ Alkmaar,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1087931,Isak Steiner Jensen,2003-12-23,22,Denmark,,185.0,,Right,17,F,['LW'],4900000.0,EUR,2950,AZ Alkmaar,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1405756,Kees Smit,2006-01-21,20,Netherlands,,182.0,,Right,10,M,"['MC', 'DM', 'AM']",24000000.0,EUR,2950,AZ Alkmaar,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+857480,Calvin Stengs,1998-12-18,27,Netherlands,,187.0,74.0,Left,14,M,"['AM', 'RW']",4800000.0,EUR,2950,AZ Alkmaar,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1145989,Ro-Zangelo Daal,2004-10-02,21,Netherlands,,173.0,,Right,11,M,['LW'],3100000.0,EUR,2950,AZ Alkmaar,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+922018,Peer Koopmeiners,2000-05-04,26,Netherlands,,186.0,,Right,6,M,"['MC', 'DM']",12500000.0,EUR,2950,AZ Alkmaar,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1170900,Matěj Šín,2004-06-02,22,Czechia,,180.0,,Left,33,M,"['AM', 'MC']",2700000.0,EUR,2950,AZ Alkmaar,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1562510,Wassim Bouziane,2006-12-22,19,Netherlands,,181.0,,Right,44,M,['LW'],440000.0,EUR,2950,AZ Alkmaar,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1146002,Dave Kwakman,2004-08-07,22,Netherlands,,186.0,,Right,21,M,"['MC', 'DM']",1400000.0,EUR,2950,AZ Alkmaar,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+116946,Jordy Clasie,1991-06-27,35,Netherlands,,169.0,66.0,Both,8,M,"['MC', 'DM']",775000.0,EUR,2950,AZ Alkmaar,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1638685,Mateo Chávez,2004-05-12,22,Mexico,,177.0,,Left,15,D,['DL'],4099999.0,EUR,2950,AZ Alkmaar,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1823904,Andrea Natali,2008-01-28,18,Italy,,186.0,,Right,20,D,['DC'],375000.0,EUR,2950,AZ Alkmaar,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1028330,Seiya Maikuma,1997-10-16,28,Japan,,179.0,,Right,2,D,['DR'],2100000.0,EUR,2950,AZ Alkmaar,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1145982,Wouter Goes,2004-06-10,22,Netherlands,,187.0,,Right,3,D,['DC'],16500000.0,EUR,2950,AZ Alkmaar,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1386461,Elijah Dijkstra,2006-08-05,20,Netherlands,,172.0,,Right,22,D,['DR'],5600000.0,EUR,2950,AZ Alkmaar,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1008111,Denso Kasius,2002-10-06,23,Netherlands,,186.0,,Right,30,D,['DR'],5800000.0,EUR,2950,AZ Alkmaar,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1119294,Maxim Dekker,2004-04-21,22,Netherlands,,192.0,,Left,4,D,['DC'],670000.0,EUR,2950,AZ Alkmaar,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+893559,Mees De Wit,1998-04-17,28,Netherlands,,178.0,,Left,34,D,['DL'],5800000.0,EUR,2950,AZ Alkmaar,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1145987,Lewis Schouten,2004-02-04,22,Netherlands,,191.0,,Right,16,D,"['DC', 'MC', 'DM']",655000.0,EUR,2950,AZ Alkmaar,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1145999,Rome Jayden Owusu-Oduro,2004-07-02,22,Netherlands,,189.0,,Right,1,G,['GK'],5700000.0,EUR,2950,AZ Alkmaar,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+837072,Jari De Busser,1999-10-21,26,Belgium,,190.0,,Both,28,G,['GK'],4300000.0,EUR,2950,AZ Alkmaar,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+40963,Jeroen Zoet,1991-01-06,35,Netherlands,,186.0,76.0,Right,41,G,['GK'],230000.0,EUR,2950,AZ Alkmaar,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+97401,Hobie Verhulst,1993-04-02,33,Netherlands,,189.0,78.0,Left,12,G,['GK'],160000.0,EUR,2950,AZ Alkmaar,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1047227,Marcos Leonardo,2003-05-02,23,Brazil,,177.0,,Right,38,F,['ST'],21000000.0,EUR,2953,AFC Ajax,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+226978,Julian Brandt,1996-05-02,30,Germany,,186.0,82.0,Right,8,F,"['AM', 'MC']",15500000.0,EUR,2953,AFC Ajax,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1149146,Mika Godts,2005-06-07,21,Belgium,,176.0,,Right,11,F,['LW'],32000000.0,EUR,2953,AFC Ajax,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+987734,Tolu Arokodare,2000-11-23,25,Nigeria,,196.0,,Right,99,F,['ST'],18200000.0,EUR,2953,AFC Ajax,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+795761,Kasper Dolberg,1997-10-06,28,Denmark,,187.0,83.0,Right,9,F,['ST'],7600000.0,EUR,2953,AFC Ajax,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+100386,Steven Berghuis,1991-12-19,34,Netherlands,,182.0,72.0,Left,23,F,"['RW', 'MC']",2100000.0,EUR,2953,AFC Ajax,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1403073,Don-Angelo Konadu,2006-05-03,20,Netherlands,,184.0,,Right,19,F,['ST'],860000.0,EUR,2953,AFC Ajax,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+878599,Oliver Valaker Edvardsen,1999-03-19,27,Norway,,175.0,,Right,20,F,['LW'],3100000.0,EUR,2953,AFC Ajax,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1022376,Amourricho van Axel-Dongen,2004-09-29,21,Netherlands,,175.0,,Right,27,F,['LW'],370000.0,EUR,2953,AFC Ajax,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1403090,Rayane Bounida,2006-03-03,20,Morocco,,179.0,,Right,43,M,['LW'],4900000.0,EUR,2953,AFC Ajax,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1931396,Abdellah Ouazane,2009-01-15,17,Morocco,,184.0,,Right,68,M,['AM'],1500000.0,EUR,2953,AFC Ajax,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1155158,Oscar Gloukh,2004-04-01,22,Israel,,170.0,,Both,10,M,"['AM', 'MC']",13400000.0,EUR,2953,AFC Ajax,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1563462,Jorthy Mokio,2008-02-29,18,DR Congo,,182.0,77.0,Left,24,M,['MC'],7800000.0,EUR,2953,AFC Ajax,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1597274,Maher Carrizo,2006-02-19,20,Argentina,,180.0,,Left,7,M,['RW'],7600000.0,EUR,2953,AFC Ajax,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+97410,Davy Klaassen,1993-02-21,33,Netherlands,,179.0,70.0,Right,18,M,['MC'],2100000.0,EUR,2953,AFC Ajax,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+996940,Youri Regeer,2003-08-18,22,Netherlands,,177.0,,Right,6,M,"['MC', 'DM']",4700000.0,EUR,2953,AFC Ajax,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+954836,Josip Šutalo,2000-02-28,26,Croatia,,190.0,,Right,37,D,['DC'],13100000.0,EUR,2953,AFC Ajax,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+845170,Caio Henrique,1997-07-31,29,Brazil,,178.0,66.0,Left,12,D,['DL'],11500000.0,EUR,2953,AFC Ajax,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+790989,Ko Itakura,1997-01-27,29,Japan,,189.0,75.0,Right,4,D,['DC'],8400000.0,EUR,2953,AFC Ajax,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+44864,Daley Blind,1990-03-09,36,Netherlands,,180.0,72.0,Left,17,D,"['DC', 'DL']",1200000.0,EUR,2953,AFC Ajax,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1064177,Ahmetcan Kaplan,2003-01-16,23,Türkiye,,189.0,,Left,13,D,['DC'],6500000.0,EUR,2953,AFC Ajax,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1000228,Youri Baas,2003-03-17,23,Netherlands,,188.0,84.0,Left,15,D,['DC'],19400000.0,EUR,2953,AFC Ajax,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1586649,Aaron Bouwman,2007-08-28,18,Netherlands,,188.0,,Right,30,D,['DC'],3700000.0,EUR,2953,AFC Ajax,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1120315,Anton Gaaei,2002-11-19,23,Denmark,,183.0,,Right,3,D,['DR'],4800000.0,EUR,2953,AFC Ajax,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1470010,Dies Janse,2006-01-17,20,Netherlands,,196.0,,Left,36,D,['DC'],6200000.0,EUR,2953,AFC Ajax,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+970860,Lucas Rosa,2000-04-03,26,Brazil,,177.0,,Right,2,D,"['DL', 'DR']",5300000.0,EUR,2953,AFC Ajax,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+836673,Owen Wijndal,1999-11-28,26,Netherlands,,174.0,,Left,5,D,['DL'],3200000.0,EUR,2953,AFC Ajax,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+88625,Marc-André Ter Stegen,1992-04-30,34,Germany,,187.0,,Right,1,G,['GK'],3100000.0,EUR,2953,AFC Ajax,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+843250,Maarten Paes,1998-05-14,28,Indonesia,,191.0,,Right,26,G,['GK'],1900000.0,EUR,2953,AFC Ajax,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1424337,Joeri Heerkens,2006-05-08,20,Netherlands,,193.0,,Right,22,G,['GK'],970000.0,EUR,2953,AFC Ajax,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1403089,Paul Reverson,2005-06-20,21,Ghana,,194.0,,Right,1,G,['GK'],340000.0,EUR,46160,Jong Ajax,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+38560,Dušan Tadić,1988-11-20,37,Serbia,,181.0,,Left,10,F,"['AM', 'RW']",1400000.0,EUR,2962,NEC Nijmegen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+831860,Koki Ogawa,1997-08-08,29,Japan,,186.0,,Right,18,F,['ST'],2100000.0,EUR,2962,NEC Nijmegen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+35208,Tjaronn Chery,1988-06-04,38,Suriname,,170.0,,Left,9,F,"['AM', 'RW']",440000.0,EUR,2962,NEC Nijmegen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1481672,Clement Bischoff,2005-12-16,20,Denmark,,180.0,,Right,99,F,"['ML', 'LW']",2900000.0,EUR,2962,NEC Nijmegen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+855847,Kaj Sierhuis,1998-04-27,28,Netherlands,,180.0,,Both,14,F,['ST'],1900000.0,EUR,2962,NEC Nijmegen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+47753,Bryan Linssen,1990-10-08,35,Netherlands,,170.0,,Right,30,F,['ST'],290000.0,EUR,2962,NEC Nijmegen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1214957,Noe Lebreton,2004-04-22,22,France,,178.0,,Right,20,F,"['MC', 'AM', 'DM']",4099999.0,EUR,2962,NEC Nijmegen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1500993,Kevin Kers,2006-01-04,20,Netherlands,,190.0,,Right,34,F,,,,2962,NEC Nijmegen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+826258,Emre Mor,1997-07-24,29,Türkiye,,169.0,64.0,Left,7,M,['RW'],475000.0,EUR,2962,NEC Nijmegen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1019011,Isak Hansen Aarøen,2004-08-22,21,Norway,,173.0,,Right,8,M,"['MC', 'AM']",575000.0,EUR,2962,NEC Nijmegen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+815080,Jamiro Monteiro,1993-11-28,32,Cape Verde,,175.0,72.0,Right,35,M,"['MC', 'AM']",590000.0,EUR,2962,NEC Nijmegen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1394147,Sami Ouaissa,2004-10-02,21,Netherlands,,180.0,,Left,25,M,"['MR', 'RW', 'AM']",8199999.0,EUR,2962,NEC Nijmegen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+897603,Darko Nejašmić,1999-01-25,27,Croatia,,184.0,,Right,6,M,"['MC', 'DM']",4099999.0,EUR,2962,NEC Nijmegen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1891090,Adam Tahaui,2005-07-21,21,Morocco,,185.0,,Left,19,M,['ST'],540000.0,EUR,2962,NEC Nijmegen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+978823,Willum Thor Willumsson,1998-10-23,27,Iceland,,193.0,,Left,11,M,['AM'],1500000.0,EUR,2962,NEC Nijmegen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+385708,Vito van Crooij,1996-01-29,30,Netherlands,,172.0,70.0,Right,32,M,"['RW', 'LW', 'AM']",955000.0,EUR,2962,NEC Nijmegen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2193004,Sam de Laat,2006-06-12,20,Netherlands,,180.0,,,35,M,,68000.0,EUR,2962,NEC Nijmegen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+831677,Perr Schuurs,1999-11-26,26,Netherlands,,191.0,,Right,,D,['DC'],825000.0,EUR,2962,NEC Nijmegen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1177177,Deveron Fonville,2003-05-16,23,Curacao,,178.0,,Left,24,D,"['DL', 'DC']",1500000.0,EUR,2962,NEC Nijmegen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+842275,Philippe Sandler,1997-02-10,29,Netherlands,,188.0,76.0,Right,3,D,['DC'],1900000.0,EUR,2962,NEC Nijmegen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+798180,Thomas Ouwejan,1996-09-30,29,Netherlands,,184.0,74.0,Left,5,D,"['DL', 'ML', 'LW']",660000.0,EUR,2962,NEC Nijmegen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1012639,Brayann Pereira,2003-05-21,23,France,,172.0,,Right,2,D,['DR'],1100000.0,EUR,2962,NEC Nijmegen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+70930,Bram Nuytinck,1990-05-04,36,Netherlands,,190.0,80.0,Left,17,D,['DC'],190000.0,EUR,2962,NEC Nijmegen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1390122,Tobias Storm,2004-07-04,22,Denmark,,176.0,,Right,21,D,"['DC', 'MR']",1200000.0,EUR,2962,NEC Nijmegen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2026504,Yousri Sbai,2004-08-08,22,Netherlands,,178.0,,Right,33,D,['DR'],245000.0,EUR,2962,NEC Nijmegen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2230527,Yassin Moslih,2007-07-24,19,Netherlands,,,,,,D,,,,2962,NEC Nijmegen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2276919,Merijn van de Wiel,2005-12-23,20,Netherlands,,180.0,,,37,D,['DC'],105000.0,EUR,2962,NEC Nijmegen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+990798,Gonzalo Crettaz,2000-02-28,26,Argentina,,181.0,,Right,1,G,['GK'],3800000.0,EUR,2962,NEC Nijmegen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1403074,Freek Entius,2006-05-26,20,Netherlands,,196.0,,Right,36,G,,,,2962,NEC Nijmegen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1942346,Joep Geneste,2007-01-15,19,Netherlands,,192.0,,,38,G,,,,2962,NEC Nijmegen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1211982,Miliano Jonathans,2004-04-05,22,Indonesia,,178.0,,Left,26,F,['RW'],775000.0,EUR,2948,FC Utrecht,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1489193,Artem Stepanov,2007-08-10,19,Ukraine,,192.0,86.0,Right,18,F,['ST'],4800000.0,EUR,2948,FC Utrecht,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1100456,Noah Ohio,2003-01-16,23,Netherlands,,185.0,,Left,29,F,['ST'],620000.0,EUR,2948,FC Utrecht,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+966429,David Min,1999-06-23,27,Netherlands,,194.0,,Right,9,F,['ST'],1600000.0,EUR,2948,FC Utrecht,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1214695,Adrian Blake,2005-07-15,21,England,,170.0,,Right,15,F,['LW'],2200000.0,EUR,2948,FC Utrecht,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1896946,Emmanuel Owen,2007-06-11,19,Germany,,171.0,,Left,47,F,,,,2948,FC Utrecht,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1014225,Zidane Iqbal,2003-04-27,23,Iraq,,180.0,,Right,14,M,"['MC', 'DM']",1000000.0,EUR,2948,FC Utrecht,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1153261,Ángel Alarcón,2004-05-15,22,Spain,,175.0,,Right,11,M,"['LW', 'RW']",5800000.0,EUR,2948,FC Utrecht,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1016810,Kevin Paredes,2003-05-07,23,USA,,175.0,53.0,Left,30,M,['ML'],1900000.0,EUR,2948,FC Utrecht,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1105700,Yoann Cathline,2002-07-22,24,France,,176.0,,Right,10,M,['LW'],5800000.0,EUR,2948,FC Utrecht,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+855854,Dani De Wit,1998-01-28,28,Netherlands,,183.0,,Right,20,M,"['AM', 'MC']",3800000.0,EUR,2948,FC Utrecht,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1000548,Alonzo Engwanda,2003-01-27,23,Belgium,,173.0,,Right,27,M,"['MC', 'DM']",7300000.0,EUR,2948,FC Utrecht,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+856648,Victor Jensen,2000-02-08,26,Denmark,,175.0,,Right,7,M,"['AM', 'MC', 'DM']",2300000.0,EUR,2948,FC Utrecht,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1001468,Davy van den Berg,2000-02-04,26,Netherlands,,185.0,,Left,34,M,"['MC', 'DM']",1300000.0,EUR,2948,FC Utrecht,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1142574,Oualid Agougil,2005-08-07,21,Netherlands,,180.0,,Left,38,M,['MC'],535000.0,EUR,2948,FC Utrecht,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+138842,Joris van Overeem,1994-06-01,32,Netherlands,,181.0,71.0,Right,8,M,"['MC', 'DM']",940000.0,EUR,2948,FC Utrecht,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+910053,Arthur Zagre,2001-10-04,24,Burkina Faso,,168.0,,Left,92,D,['DL'],1800000.0,EUR,2948,FC Utrecht,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1489166,Ferdinand Pohl,2007-02-02,19,Germany,,184.0,,Right,53,D,['DC'],,,2948,FC Utrecht,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+794990,Siebe Horemans,1998-06-02,28,Belgium,,186.0,,Right,2,D,['DR'],2900000.0,EUR,2948,FC Utrecht,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+947842,Mike Eerdhuijzen,2000-07-13,26,Netherlands,,194.0,,Left,44,D,['DC'],1400000.0,EUR,2948,FC Utrecht,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+996992,Matisse Didden,2001-10-08,24,Belgium,,198.0,,Right,3,D,['DC'],2800000.0,EUR,2948,FC Utrecht,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+837010,Niklas Vesterlund,1999-06-06,27,Denmark,,185.0,,Right,23,D,"['DR', 'MR']",1500000.0,EUR,2948,FC Utrecht,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1418395,Neville Nwankwo,2002-10-08,23,Netherlands,,189.0,,Right,21,D,"['DC', 'DR']",850000.0,EUR,2948,FC Utrecht,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1047396,Guus Offerhaus,2001-01-03,25,Netherlands,,185.0,,Right,6,D,"['MC', 'DM', 'DC']",735000.0,EUR,2948,FC Utrecht,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1511724,Per Kloosterboer,2005-03-08,21,Netherlands,,184.0,,Left,32,D,['DC'],265000.0,EUR,2948,FC Utrecht,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+347726,Vasilis Barkas,1994-05-30,32,Greece,,196.0,85.0,Left,1,G,['GK'],3100000.0,EUR,2948,FC Utrecht,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1169107,Kevin Gadellaa,2003-04-08,23,Netherlands,,210.0,,Right,33,G,['GK'],245000.0,EUR,2948,FC Utrecht,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+252027,Michael Brouwer,1993-01-21,33,Netherlands,,187.0,81.0,Left,25,G,['GK'],270000.0,EUR,2948,FC Utrecht,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1050672,Casper Terho,2003-06-24,23,Finland,,184.0,,Left,7,F,"['RW', 'MR']",1100000.0,EUR,2960,Sparta Rotterdam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1137227,Milan Zonneveld,2003-10-08,22,Netherlands,,199.0,,Right,19,F,['ST'],410000.0,EUR,2960,Sparta Rotterdam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+987077,Nökkvi Þórisson,1999-08-13,26,Iceland,,188.0,,Right,9,F,"['ST', 'LW']",410000.0,EUR,2960,Sparta Rotterdam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1002479,Shunsuke Mito,2002-09-28,23,Japan,,164.0,50.0,Right,10,M,"['LW', 'RW']",2100000.0,EUR,2960,Sparta Rotterdam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1049063,Joel Ideho,2003-07-17,23,Netherlands,,176.0,,Right,22,M,['LW'],290000.0,EUR,2960,Sparta Rotterdam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+827662,Mitchell Van Bergen,1999-08-27,26,Netherlands,,170.0,56.0,Right,17,M,['RW'],1600000.0,EUR,2960,Sparta Rotterdam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+99960,Jens Toornstra,1989-04-04,37,Netherlands,,178.0,74.0,Right,8,M,"['MC', 'AM', 'DM']",195000.0,EUR,2960,Sparta Rotterdam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1101593,Alwande Roaldsoy,2004-06-09,22,Norway,,191.0,,Right,16,M,['MC'],830000.0,EUR,2960,Sparta Rotterdam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1648751,Ayoni Santos,2005-07-18,21,Cape Verde,,165.0,,Right,11,M,['MC'],2100000.0,EUR,2960,Sparta Rotterdam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1046143,Julian Baas,2002-04-16,24,Netherlands,,184.0,,Right,16,M,"['MC', 'DM']",765000.0,EUR,2960,Sparta Rotterdam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2216656,Robin van Cruijsen,2006-02-20,20,Netherlands,,170.0,,Left,18,M,['AM'],1100000.0,EUR,2960,Sparta Rotterdam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1648749,Younes Jaber el Maftahi,2007-10-11,18,Netherlands,,,,Right,21,M,['LW'],,,2960,Sparta Rotterdam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2687877,Duncan Lindhout,2008-12-02,17,Netherlands Antilles,,,,,30,M,,,,2960,Sparta Rotterdam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+966299,Teo Quintero,1999-03-02,27,Venezuela,,188.0,,Both,14,D,"['DC', 'MC', 'DL']",1200000.0,EUR,2960,Sparta Rotterdam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1648759,Marvin Young,2005-10-02,20,Netherlands,,182.0,,Right,6,D,['DC'],5200000.0,EUR,2960,Sparta Rotterdam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1960315,Lushendry Edward Martes,2008-05-06,18,Netherlands,,180.0,,Right,2,D,['DR'],3200000.0,EUR,2960,Sparta Rotterdam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1523582,Nick Verschuren,2005-01-13,21,Netherlands,,180.0,,Right,3,D,['DC'],1100000.0,EUR,2960,Sparta Rotterdam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+116947,Bruno Martins Indi,1992-02-08,34,Netherlands,,185.0,70.0,Left,4,D,['DC'],320000.0,EUR,2960,Sparta Rotterdam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+339879,Bas Kuipers,1994-08-17,31,Netherlands,,180.0,,Left,5,D,['DL'],775000.0,EUR,2960,Sparta Rotterdam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+825836,Boyd Reith,1999-05-05,27,Netherlands,,175.0,,Right,12,D,['DR'],330000.0,EUR,2960,Sparta Rotterdam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1517610,Max De Ligt,2004-07-20,22,Netherlands,,189.0,,Right,14,D,['DC'],68000.0,EUR,2960,Sparta Rotterdam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1652148,Giannino Vianello,2007-06-10,19,Netherlands,,,,Left,15,D,['DL'],280000.0,EUR,2960,Sparta Rotterdam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+139149,Filip Bednarek,1992-09-26,33,Poland,,187.0,81.0,Right,1,G,['GK'],190000.0,EUR,2960,Sparta Rotterdam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1067956,Pascal Kuiper,2004-03-17,22,Netherlands,,194.0,,Right,30,G,['GK'],79000.0,EUR,2960,Sparta Rotterdam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1944645,Rik Suur,2006-11-14,19,Netherlands,,186.0,,,20,G,['GK'],,,2960,Sparta Rotterdam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+841420,Victor Edvardsen,1996-01-14,30,Sweden,,185.0,,Right,16,F,"['ST', 'AM']",880000.0,EUR,2979,Go Ahead Eagles,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+973716,Richonell Margaret,2000-09-07,25,Suriname,,191.0,,Right,18,F,"['LW', 'RW', 'ST']",620000.0,EUR,2979,Go Ahead Eagles,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+907517,Stefán Ingi Sigurðarson,2001-01-27,25,Iceland,,191.0,,Right,9,F,['ST'],1900000.0,EUR,2979,Go Ahead Eagles,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1022552,Oskar Siira Sivertsen,2004-02-15,22,Norway,,177.0,,Right,11,F,['RW'],490000.0,EUR,2979,Go Ahead Eagles,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1121303,Erik Flataker,2004-12-26,21,Norway,,182.0,,Right,29,F,['ST'],560000.0,EUR,2979,Go Ahead Eagles,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+964766,Thibo Baeten,2002-06-04,24,Belgium,,183.0,,Left,23,F,['ST'],515000.0,EUR,2979,Go Ahead Eagles,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2056009,Ofosu Boakye,2007-07-10,19,Netherlands,,181.0,,,32,F,,81000.0,EUR,2979,Go Ahead Eagles,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+909960,Mathis Suray,2001-07-26,25,Belgium,,173.0,,Right,17,M,"['LW', 'AM']",3200000.0,EUR,2979,Go Ahead Eagles,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+891795,Melle Meulensteen,1999-07-04,27,Netherlands,,185.0,,Right,21,M,"['MC', 'DM']",2400000.0,EUR,2979,Go Ahead Eagles,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2180363,Yassir Rahmouni,2006-06-13,20,Netherlands,,185.0,,Right,34,M,['MC'],440000.0,EUR,2979,Go Ahead Eagles,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+987647,Søren Tengstedt,2000-06-30,26,Denmark,,187.0,,Left,10,M,"['AM', 'RW']",770000.0,EUR,2979,Go Ahead Eagles,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+932555,Evert Linthorst,2000-03-03,26,Netherlands,,187.0,,Right,8,M,"['MC', 'DM']",1100000.0,EUR,2979,Go Ahead Eagles,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1084944,Calvin Twigt,2003-01-30,23,Netherlands,,183.0,,Right,6,M,"['MC', 'DM']",690000.0,EUR,2979,Go Ahead Eagles,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1386182,Robbin Weijenberg,2004-11-08,21,Netherlands,,180.0,,Right,15,M,,210000.0,EUR,2979,Go Ahead Eagles,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1046722,Dean James,2000-04-30,26,Indonesia,,177.0,,Left,5,D,['DL'],1600000.0,EUR,2979,Go Ahead Eagles,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1149168,Tomas Galvez,2005-01-28,21,Finland,,173.0,,Left,22,D,['DL'],780000.0,EUR,2979,Go Ahead Eagles,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+842536,Alfons Sampsted,1998-04-06,28,Iceland,,180.0,72.0,Right,2,D,['DR'],1600000.0,EUR,2979,Go Ahead Eagles,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+793742,Joris Kramer,1996-08-02,30,Netherlands,,190.0,76.0,Left,4,D,['DC'],1900000.0,EUR,2979,Go Ahead Eagles,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1479476,Eus Waayers,2006-04-08,20,Netherlands,,181.0,,Right,20,D,['DR'],360000.0,EUR,2979,Go Ahead Eagles,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1001943,Julius Dirksen,2003-02-02,23,Netherlands,,185.0,,Left,26,D,['DC'],745000.0,EUR,2979,Go Ahead Eagles,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+133168,Gerrit Nauber,1992-04-13,34,Germany,,185.0,78.0,Right,3,D,['DC'],325000.0,EUR,2979,Go Ahead Eagles,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1119473,Giovanni van Zwam,2004-01-02,22,Netherlands,,185.0,,Right,25,D,['DC'],280000.0,EUR,2979,Go Ahead Eagles,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1171238,Pim Saathof,2003-12-28,22,Netherlands,,186.0,,Right,28,D,['DC'],69000.0,EUR,2979,Go Ahead Eagles,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2399094,Dani Tijman,2006-06-13,20,Netherlands,,183.0,,Right,31,D,,,,2979,Go Ahead Eagles,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+792318,Kjetil Haug,1998-06-12,28,Norway,,187.0,,Right,1,G,['GK'],385000.0,EUR,2979,Go Ahead Eagles,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+70927,Nick Marsman,1990-10-01,35,Netherlands,,188.0,88.0,Right,22,G,['GK'],135000.0,EUR,2979,Go Ahead Eagles,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1130708,Nando Verdoni,2004-09-27,21,Netherlands,,189.0,,Right,33,G,,27000.0,EUR,2979,Go Ahead Eagles,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+921948,Ole Romeny,2000-06-20,26,Indonesia,,185.0,,Right,10,F,"['RW', 'ST']",775000.0,EUR,2957,Fortuna Sittard,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1118181,Lequincio Zeefuik,2004-11-26,21,Netherlands,,197.0,,Right,25,F,['ST'],825000.0,EUR,2957,Fortuna Sittard,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1008697,Anthony Descotte,2003-08-03,23,Belgium,,179.0,,Right,9,F,['ST'],660000.0,EUR,2957,Fortuna Sittard,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+929633,Mohamed Ihattaren,2002-02-12,24,Morocco,,182.0,,Left,52,M,"['AM', 'MC', 'RW']",3200000.0,EUR,2957,Fortuna Sittard,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1048011,Édouard Michut,2003-03-04,23,France,,178.0,,Right,20,M,"['MC', 'DM']",1200000.0,EUR,2957,Fortuna Sittard,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1010846,Yassin Oukili,2001-01-03,25,Morocco,,195.0,,Right,5,M,"['MC', 'DM']",655000.0,EUR,2957,Fortuna Sittard,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1196520,Shiloh 't Zand,2003-04-14,23,Suriname,,177.0,,Right,22,M,['MC'],290000.0,EUR,2957,Fortuna Sittard,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+366942,Kristoffer Peterson,1994-11-28,31,Sweden,,180.0,70.0,Right,7,M,['LW'],430000.0,EUR,2957,Fortuna Sittard,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1132766,Philip Brittijn,2004-04-09,22,Netherlands,,182.0,,Right,23,M,"['MC', 'DM']",1500000.0,EUR,2957,Fortuna Sittard,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1186861,Sven Simons,2004-03-02,22,Netherlands,,168.0,,Left,8,M,"['MC', 'DM']",485000.0,EUR,2957,Fortuna Sittard,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2207814,Moussa Gbemou,2007-09-09,18,Belgium,,,,,38,M,,,,2957,Fortuna Sittard,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2589410,Ganni Buyukhan,2009-10-07,16,Netherlands,,,,,39,M,,,,2957,Fortuna Sittard,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2687263,Kevin van Burgsteden,2007-01-01,19,Netherlands,,,,,35,M,,,,2957,Fortuna Sittard,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1112604,Justin Hubner,2003-09-14,22,Indonesia,,187.0,75.0,Left,28,D,"['DC', 'DL']",1000000.0,EUR,2957,Fortuna Sittard,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+78730,Ivo Pinto,1990-01-07,36,Portugal,,184.0,73.0,Right,12,D,['DR'],260000.0,EUR,2957,Fortuna Sittard,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+961686,Syb Van Ottele,2002-02-02,24,Netherlands,,185.0,,Both,6,D,['DC'],620000.0,EUR,2957,Fortuna Sittard,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+862479,Iván Márquez,1994-06-09,32,Spain,,191.0,,Right,44,D,['DC'],465000.0,EUR,2957,Fortuna Sittard,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1146792,Siebe Wylin,2003-05-27,23,Belgium,,180.0,,Right,2,D,['DR'],325000.0,EUR,2957,Fortuna Sittard,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1048758,Jasper Dahlhaus,2001-11-27,24,Netherlands,,176.0,,Right,8,D,"['ML', 'DL']",1500000.0,EUR,2957,Fortuna Sittard,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1133405,Nick de Groot,2001-08-20,24,Netherlands,,181.0,,Left,15,D,['DL'],390000.0,EUR,2957,Fortuna Sittard,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+146871,Mattijs Branderhorst,1993-12-31,32,Netherlands,,192.0,87.0,Right,31,G,['GK'],840000.0,EUR,2957,Fortuna Sittard,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+128992,Luuk Koopmans,1993-11-18,32,Netherlands,,191.0,76.0,Right,1,G,['GK'],215000.0,EUR,2957,Fortuna Sittard,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1508529,Kaylen Reitmaier,2004-04-05,22,Germany,,197.0,84.0,Right,33,G,['GK'],49000.0,EUR,2957,Fortuna Sittard,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+825843,Dylan Vente,1999-05-09,27,Suriname,,181.0,,Right,9,F,['ST'],2300000.0,EUR,2964,SC Heerenveen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2142283,Lanroy Machine,2005-10-13,20,France,,187.0,,Right,29,F,,,,2964,SC Heerenveen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1801311,Jermaine Rijssel,2005-03-25,21,Suriname,,,,Right,33,F,,,,390133,SC Heerenveen U21,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2397194,Kirayno Schaken,2009-06-18,17,Netherlands,,,,,47,F,,,,2964,SC Heerenveen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1015627,Jacob Trenskow,2000-11-26,25,Denmark,,178.0,,Left,20,M,['RW'],7700000.0,EUR,2964,SC Heerenveen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+992018,Ringo Meerveld,2002-12-21,23,Netherlands,,177.0,,Right,10,M,"['AM', 'LW', 'MC']",4800000.0,EUR,2964,SC Heerenveen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+996986,Luca Oyen,2003-03-14,23,Belgium,,172.0,,Right,11,M,['LW'],975000.0,EUR,2964,SC Heerenveen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1627623,Marcus Linday,2003-06-02,23,Sweden,,186.0,,Right,16,M,"['MC', 'DM']",5200000.0,EUR,2964,SC Heerenveen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+961685,Dirk Wanner Proper,2002-02-24,24,Netherlands,,167.0,,Right,6,M,"['MC', 'DM']",1400000.0,EUR,2964,SC Heerenveen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1014408,Maxence Rivera,2002-05-30,24,France,,168.0,,Right,7,M,['LW'],2900000.0,EUR,2964,SC Heerenveen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1133678,Levi Smans,2003-03-25,23,Netherlands,,175.0,,Right,14,M,"['AM', 'MC']",1400000.0,EUR,2964,SC Heerenveen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+794014,Luuk Brouwers,1998-05-03,28,Netherlands,,180.0,76.0,Right,8,M,"['MC', 'AM', 'DM']",1400000.0,EUR,2964,SC Heerenveen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1425327,Nolhan Courtens,2006-12-20,19,Belgium,,174.0,,Right,36,M,['MC'],145000.0,EUR,2964,SC Heerenveen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1129996,Hristiyan Petrov,2002-06-24,24,Bulgaria,,184.0,,Left,28,D,"['DC', 'DL']",530000.0,EUR,2964,SC Heerenveen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1064426,Vasilios Zagaritis,2001-05-04,25,Greece,,178.0,,Left,19,D,['DL'],3200000.0,EUR,2964,SC Heerenveen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1150061,Oliver Braude,2004-02-21,22,Norway,,174.0,,Right,45,D,['DR'],4900000.0,EUR,2964,SC Heerenveen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1121247,Nikolai Soyset Hopland,2004-07-24,22,Norway,,186.0,,Right,17,D,['DC'],1600000.0,EUR,2964,SC Heerenveen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1514878,Mats Egbring,2006-09-17,19,Netherlands,,183.0,,Right,15,D,['DR'],320000.0,EUR,2964,SC Heerenveen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1132765,Maas Willemsen,2003-04-29,23,Netherlands,,190.0,,Left,3,D,['DC'],4600000.0,EUR,2964,SC Heerenveen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+847072,Sam Kersten,1998-01-30,28,Netherlands,,191.0,,Right,4,D,['DC'],1800000.0,EUR,2964,SC Heerenveen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1621035,Darling Bladi,2004-06-11,22,France,,164.0,,Left,23,D,['DL'],315000.0,EUR,2964,SC Heerenveen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2679074,Jimte Scholten,2006-03-09,20,Netherlands,,179.0,,Right,41,D,,,,2964,SC Heerenveen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+339339,Andries Noppert,1994-04-07,32,Netherlands,,203.0,87.0,Left,44,G,['GK'],330000.0,EUR,2964,SC Heerenveen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1195719,Bernt Klaverboer,2005-09-26,20,Netherlands,,190.0,,Right,22,G,['GK'],2800000.0,EUR,2964,SC Heerenveen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2213235,Timo Schreuder,2006-09-25,19,Netherlands,,,,,30,G,,,,2964,SC Heerenveen,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+847073,Koen Kostons,1999-09-18,26,Netherlands,,185.0,,Right,10,F,['ST'],1400000.0,EUR,2971,PEC Zwolle,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+235538,Younes Namli,1994-06-20,32,Denmark,,180.0,69.0,Left,7,F,['RW'],1000000.0,EUR,2971,PEC Zwolle,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1128902,Ibrahim Cissoko,2003-03-26,23,Guinea,,188.0,,Right,22,M,['LW'],1100000.0,EUR,2971,PEC Zwolle,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+863632,Elias Sørensen,1999-09-18,26,Denmark,,189.0,,Right,9,M,"['LW', 'ST']",1200000.0,EUR,2971,PEC Zwolle,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+923968,Dylan Mbayo,2001-10-11,24,Belgium,,175.0,,Left,11,M,['RW'],835000.0,EUR,2971,PEC Zwolle,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2195123,Jadiel Pereira da Gama,2009-12-15,16,Netherlands,,182.0,,Right,26,M,['MC'],1500000.0,EUR,2971,PEC Zwolle,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+333571,Ryan Thomas,1994-12-20,31,New Zealand,,174.0,68.0,Right,30,M,"['MC', 'DM']",670000.0,EUR,2971,PEC Zwolle,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+876233,Thijs Oosting,2000-05-02,26,Netherlands,,176.0,,Left,25,M,"['ST', 'AM', 'MC']",935000.0,EUR,2971,PEC Zwolle,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+846003,Odysseus Velanas,1998-06-05,28,Netherlands,,180.0,70.0,Right,18,M,"['LW', 'AM']",575000.0,EUR,2971,PEC Zwolle,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1017654,Tobias Sommer,2001-11-27,24,Denmark,,181.0,,Right,8,M,"['MC', 'DM', 'DC']",1400000.0,EUR,2971,PEC Zwolle,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1509752,Nick Fichtinger,2004-04-06,22,Netherlands,,178.0,,Right,34,M,['MC'],360000.0,EUR,2971,PEC Zwolle,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1885838,Gabriel Reiziger,2005-10-10,20,Netherlands,,177.0,,Right,20,M,,260000.0,EUR,2971,PEC Zwolle,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1957718,Givaro Rahajaän,2008-02-19,18,Netherlands,,170.0,,Left,38,M,,92000.0,EUR,2971,PEC Zwolle,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2405185,Gilles van der Wal,2008-06-24,18,Netherlands,,,,,37,M,,,,2971,PEC Zwolle,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+803021,Sherel Constancio Floranus,1998-08-23,27,Curacao,,181.0,74.0,Right,2,D,"['DL', 'DR']",855000.0,EUR,2971,PEC Zwolle,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1049446,Olivier Aertssen,2004-08-07,22,Netherlands,,185.0,,Both,3,D,"['DC', 'DR']",610000.0,EUR,2971,PEC Zwolle,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+46900,Nick Viergever,1989-08-03,37,Netherlands,,182.0,77.0,Left,24,D,['DC'],325000.0,EUR,2971,PEC Zwolle,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+927155,Simon Graves,1999-03-22,27,Denmark,,191.0,,Right,28,D,['DC'],1400000.0,EUR,2971,PEC Zwolle,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+961674,Tijs Velthuis,2002-01-12,24,Netherlands,,190.0,,Left,4,D,['DC'],515000.0,EUR,2971,PEC Zwolle,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1172732,Damian van der Haar,2004-01-16,22,Netherlands,,183.0,,Left,33,D,['DL'],365000.0,EUR,2971,PEC Zwolle,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1638397,Dylan Ruward,2005-01-21,21,Netherlands,,,,Left,42,D,,,,2971,PEC Zwolle,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1145525,Tom de Graaff,2004-12-10,21,Netherlands,,193.0,,Left,16,G,['GK'],970000.0,EUR,2971,PEC Zwolle,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+856636,Jasper Schendelaar,2000-09-02,25,Netherlands,,182.0,,Right,1,G,['GK'],1500000.0,EUR,2971,PEC Zwolle,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1394059,Duke Verduin,2003-10-30,22,Netherlands,,195.0,,Right,41,G,,24000.0,EUR,2971,PEC Zwolle,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+893741,Ferdy Druijf,1998-02-12,28,Netherlands,,190.0,,Right,9,F,['ST'],315000.0,EUR,2990,Almere City FC,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1157777,Jochem Ritmeester van de Kamp,2003-11-02,22,Netherlands,,177.0,,Right,5,F,"['MC', 'AM']",1600000.0,EUR,2990,Almere City FC,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1648769,Marley  Dors,2005-06-11,21,Suriname,,,,,11,F,['LW'],390000.0,EUR,2990,Almere City FC,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1955663,Bas Huisman,2005-05-09,21,Netherlands,,191.0,,Right,18,F,['ST'],260000.0,EUR,2990,Almere City FC,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2318178,Immanuel Goghli,2005-08-14,20,Netherlands,,,,Right,25,F,['ST'],91000.0,EUR,2990,Almere City FC,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+954066,Ruben Providence,2001-07-07,25,Haiti,,172.0,,Right,28,M,['LW'],270000.0,EUR,2990,Almere City FC,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1887071,Emanuel Poku,2005-07-19,21,Netherlands,,,,Right,17,M,['RW'],775000.0,EUR,2990,Almere City FC,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1539611,Hamza El Dahri,2005-03-05,21,Netherlands,,177.0,,Right,21,M,"['MC', 'DM']",260000.0,EUR,2990,Almere City FC,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+991680,Byron Burgering,1999-11-28,26,Netherlands,,174.0,,Left,7,M,['RW'],515000.0,EUR,2990,Almere City FC,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+893748,Mees Hoedemakers,1998-02-18,28,Netherlands,,181.0,,Both,14,M,"['MC', 'DM']",560000.0,EUR,2990,Almere City FC,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+893744,Jamie Jacobs,1997-12-03,28,Netherlands,,182.0,,Left,23,M,"['MC', 'AM']",270000.0,EUR,2990,Almere City FC,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1120949,Milan de Haan,2003-11-20,22,Netherlands,,,,,8,M,"['MC', 'DM']",510000.0,EUR,2990,Almere City FC,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1046725,Enzo Cornelisse,2002-06-29,24,Netherlands,,178.0,,Left,6,M,"['MC', 'DM', 'DC']",270000.0,EUR,2990,Almere City FC,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1402600,Job Kalisvaart,2004-06-10,22,Netherlands,,181.0,,Right,20,M,"['MC', 'DM']",315000.0,EUR,2990,Almere City FC,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1562509,Lev Lenssen,2005-07-12,21,Netherlands,,167.0,,Right,38,M,['MC'],82000.0,EUR,2990,Almere City FC,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1648767,Olivier De Nijs,2004-11-09,21,Netherlands,,181.0,,Right,19,M,['MR'],220000.0,EUR,2990,Almere City FC,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1892605,Bas Pennock,2004-05-04,22,Netherlands,,,,Left,35,M,['ML'],,,2990,Almere City FC,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1119291,Emmanuel van de Blaak,2005-02-15,21,Netherlands,,184.0,,Right,22,D,"['DC', 'DR']",515000.0,EUR,2990,Almere City FC,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+193462,James Lawrence,1992-08-22,33,Wales,,188.0,84.0,Left,4,D,['DC'],220000.0,EUR,2990,Almere City FC,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+285991,Damian van Bruggen,1996-03-18,30,Netherlands,,184.0,68.0,Right,44,D,['DC'],550000.0,EUR,2990,Almere City FC,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+803027,Teun Bijleveld,1998-05-27,28,Netherlands,,176.0,,Left,5,D,"['DL', 'MC']",210000.0,EUR,2990,Almere City FC,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+930838,Joey Jacobs,2000-04-10,26,Netherlands,,183.0,,Right,3,D,"['DC', 'DR']",285000.0,EUR,2990,Almere City FC,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1119490,Misha Engel,2002-10-01,23,Netherlands,,186.0,,Left,15,D,"['DL', 'DC']",240000.0,EUR,2990,Almere City FC,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+961675,Twan Van Der Zeeuw,2002-09-21,23,Netherlands,,178.0,,Left,26,D,['DL'],130000.0,EUR,2990,Almere City FC,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2223578,Tiziano Vianello,2005-01-03,21,Netherlands,,,,Right,32,D,['DL'],155000.0,EUR,2990,Almere City FC,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1801290,Donte Apinsa,2005-01-07,21,Suriname,,,,Right,32,D,,,,2990,Almere City FC,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1405750,Jereno van Gom,2005-05-28,21,Suriname,,,,Right,33,D,['DR'],,,2990,Almere City FC,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1014536,Wessel Speel,2001-10-17,24,Netherlands,,198.0,,Right,1,G,['GK'],170000.0,EUR,2990,Almere City FC,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1177180,Tristan Kuijsten,2005-01-16,21,Netherlands,,191.0,,Right,12,G,['GK'],180000.0,EUR,2990,Almere City FC,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1521867,Joel Van der Wilt,2004-04-27,22,Netherlands,,198.0,,Right,30,G,['GK'],24000.0,EUR,2990,Almere City FC,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1919410,Malcolm Mateyo,2005-01-26,21,Netherlands,,,,Right,41,G,['GK'],,,2990,Almere City FC,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+998999,Luka Kulenović,1999-09-28,26,Bosnia & Herzegovina,,190.0,,Right,19,F,['ST'],620000.0,EUR,2977,Heracles Almelo,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1123613,Yvandro Borges Sanches,2004-05-24,22,Luxembourg,,175.0,,Right,21,F,['ML'],375000.0,EUR,2977,Heracles Almelo,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1482511,Diego van Oorschot,2005-10-02,20,Netherlands,,173.0,,Both,30,F,['AM'],135000.0,EUR,2977,Heracles Almelo,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+916033,Chafik Abbas,1998-06-17,28,France,,174.0,,Left,7,F,"['LW', 'AM', 'RW']",145000.0,EUR,2977,Heracles Almelo,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1469027,Giandro Sambo,2006-08-28,19,Curacao,,181.0,,Right,28,F,,46000.0,EUR,2977,Heracles Almelo,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1428797,Jean-Paul N'Djoli,2000-10-09,25,France,,188.0,,Both,27,F,['ST'],270000.0,EUR,2977,Heracles Almelo,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2186070,Sil Blokhuis,2008-03-18,18,Netherlands,,172.0,,Left,39,F,,49000.0,EUR,2977,Heracles Almelo,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2543354,Tarik Hamamioglu,2008-08-01,18,Türkiye,,181.0,,Right,41,F,,,,2977,Heracles Almelo,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+794269,Jeff Reine-Adélaïde,1998-01-17,28,France,,184.0,76.0,Right,11,M,"['MC', 'AM']",515000.0,EUR,2977,Heracles Almelo,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1066450,Walid Ould-Chikh,1999-11-06,26,Netherlands,,186.0,,Right,73,M,"['AM', 'MC']",535000.0,EUR,2977,Heracles Almelo,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+132674,Mario Engels,1993-10-22,32,Germany,,183.0,74.0,Right,8,M,"['ST', 'LW']",290000.0,EUR,2977,Heracles Almelo,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1213453,Tristan van Gilst,2003-02-18,23,Netherlands,,178.0,,Right,17,M,['LW'],330000.0,EUR,2977,Heracles Almelo,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1189738,Sem Scheperman,2002-06-23,24,Netherlands,,188.0,,Right,32,M,"['MC', 'DM']",580000.0,EUR,2977,Heracles Almelo,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+876257,Daniel Van Kaam,2000-06-23,26,Netherlands,,175.0,,Left,26,M,"['MC', 'DM']",410000.0,EUR,2977,Heracles Almelo,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1144148,Rhys Bozinovski,2004-03-07,22,Australia,,173.0,,Right,20,M,['MC'],340000.0,EUR,2977,Heracles Almelo,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+146401,Thomas Bruns,1992-01-07,34,Netherlands,,177.0,69.0,Right,10,M,"['MC', 'AM', 'DM']",170000.0,EUR,2977,Heracles Almelo,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+886021,David Tomić,1998-02-09,28,Germany,,174.0,69.0,Both,6,M,"['LW', 'RW', 'ST']",145000.0,EUR,2977,Heracles Almelo,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1397641,Maurice Wrusch,2000-09-04,25,Germany,,185.0,,Left,14,M,,120000.0,EUR,2977,Heracles Almelo,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1130308,Mimeirhel Benita,2003-11-17,22,Netherlands,,176.0,,Right,2,D,['DR'],530000.0,EUR,2977,Heracles Almelo,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+974530,Djevencio van der Kust,2001-04-30,25,Suriname,,178.0,,Left,5,D,['DL'],360000.0,EUR,2977,Heracles Almelo,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1486433,Stijn Bultman,2005-01-29,21,Netherlands,,185.0,,Right,35,D,['DC'],340000.0,EUR,2977,Heracles Almelo,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+318575,Damon Mirani,1996-05-13,30,Netherlands,,182.0,68.0,Right,4,D,['DC'],420000.0,EUR,2977,Heracles Almelo,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+127554,Mike te Wierik,1992-06-08,34,Netherlands,,191.0,73.0,Right,23,D,"['DR', 'DC']",195000.0,EUR,2977,Heracles Almelo,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+914110,David Vicente,1999-04-23,27,Spain,,177.0,,Right,15,D,['DR'],280000.0,EUR,2977,Heracles Almelo,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+872852,Manny Rodríguez,1998-05-23,28,Dominican Republic,,182.0,,Left,25,D,['DL'],90000.0,EUR,2977,Heracles Almelo,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1807294,Mario Borac,2005-12-02,20,Croatia,,186.0,,Left,3,D,,220000.0,EUR,2977,Heracles Almelo,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1214483,Max Hauswirth,2003-09-10,22,Germany,,183.0,,Left,18,D,,155000.0,EUR,2977,Heracles Almelo,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+856743,Fabian De Keijzer,2000-05-10,26,Netherlands,,193.0,,Right,1,G,['GK'],370000.0,EUR,2977,Heracles Almelo,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1189737,Timo Jansink,2003-03-16,23,Netherlands,,197.0,,Right,16,G,['GK'],160000.0,EUR,2977,Heracles Almelo,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2077282,Leco Zeevalkink,2005-09-14,20,Netherlands,,192.0,,Both,33,G,,,,2977,Heracles Almelo,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1971140,Keyan Varela,2006-04-26,20,Portugal,,182.0,69.0,Right,20,F,['LW'],1600000.0,EUR,2956,RKC Waalwijk,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1442185,Jesse van de Haar,2005-01-26,21,Netherlands,,184.0,,Right,9,F,['ST'],260000.0,EUR,2956,RKC Waalwijk,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+360006,Finn Stokkers,1996-04-18,30,Netherlands,,187.0,68.0,Right,27,F,['ST'],280000.0,EUR,2956,RKC Waalwijk,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1046728,Roy Kuijpers,2000-01-17,26,Netherlands,,175.0,,Right,17,F,['RW'],240000.0,EUR,2956,RKC Waalwijk,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1529982,Yorem van der Veen,2005-06-30,21,Netherlands,,171.0,,Right,11,F,,180000.0,EUR,2956,RKC Waalwijk,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2686055,Haye Van Gemert,2006-02-27,20,Netherlands,,,,,19,F,,,,2956,RKC Waalwijk,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+992001,Azzedine Dkidak,2000-05-11,26,Netherlands,,177.0,,Left,24,M,['DL'],275000.0,EUR,2956,RKC Waalwijk,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1048428,Thijs van Leeuwen,2001-07-15,25,Netherlands,,175.0,,Right,10,M,"['MC', 'AM']",375000.0,EUR,2956,RKC Waalwijk,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1099750,Ryan Fage,2003-10-31,22,France,,169.0,,Left,7,M,['RW'],340000.0,EUR,2956,RKC Waalwijk,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1174460,Tim van de Loo,2003-02-22,23,Netherlands,,180.0,,Left,22,M,['MC'],440000.0,EUR,2956,RKC Waalwijk,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1155366,Rein van Hedel,2004-11-06,21,Netherlands,,187.0,,Right,18,M,['MC'],260000.0,EUR,2956,RKC Waalwijk,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2188098,Jochem Nap,2005-02-04,21,Netherlands,,,,,8,M,['MC'],54000.0,EUR,2956,RKC Waalwijk,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1979424,Quentin van Beekveld,2005-10-12,20,Netherlands,,196.0,,Right,28,M,,,,2956,RKC Waalwijk,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1195771,Faissal Al Mazyani,2005-01-18,21,Morocco,,179.0,,Right,33,D,"['DR', 'DC']",380000.0,EUR,2956,RKC Waalwijk,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+910049,Liam Van Gelderen,2001-03-23,25,Suriname,,178.0,,Right,4,D,"['DC', 'DR']",410000.0,EUR,2956,RKC Waalwijk,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+856735,Juan Familia-Castillo,2000-01-13,26,Dominican Republic,,175.0,,Left,5,D,['DL'],410000.0,EUR,2956,RKC Waalwijk,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+837264,Navajo Bakboord,1999-01-29,27,Suriname,,177.0,,Right,25,D,['DR'],160000.0,EUR,2956,RKC Waalwijk,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+359032,Jordy de Wijs,1995-01-08,31,Netherlands,,189.0,84.0,Left,30,D,['DC'],415000.0,EUR,2956,RKC Waalwijk,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1477353,Nazjir Held,2005-09-02,20,Curacao,,178.0,,Left,55,D,['DL'],415000.0,EUR,2956,RKC Waalwijk,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1493495,Sven van der Plas,2006-02-01,20,Netherlands,,183.0,,Right,3,D,['DC'],310000.0,EUR,2956,RKC Waalwijk,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1146005,Loek Postma,2003-03-05,23,Netherlands,,185.0,,Right,6,D,"['DC', 'MC']",360000.0,EUR,2956,RKC Waalwijk,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2180933,Bjarn Zorgdrager,2004-04-13,22,Netherlands,,,,Right,2,D,,54000.0,EUR,2956,RKC Waalwijk,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1134720,Niek Schiks,2004-02-03,22,Netherlands,,188.0,,Left,1,G,['GK'],525000.0,EUR,2956,RKC Waalwijk,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+875466,Mark Spenkelink,1997-01-27,29,Netherlands,,196.0,,Right,16,G,['GK'],265000.0,EUR,2956,RKC Waalwijk,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2124261,Xander Mulder,2005-01-25,21,Netherlands,,188.0,,Right,13,G,,,,2956,RKC Waalwijk,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+331837,Alireza Jahanbakhsh,1993-08-11,33,Iran,,180.0,78.0,Right,,F,['RW'],485000.0,EUR,2967,Excelsior,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1479467,Aymen Sliti,2006-03-24,20,Netherlands,,175.0,,Left,7,F,['RW'],2200000.0,EUR,2967,Excelsior,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1500765,David Garden,2004-06-20,22,Netherlands,,,,Right,19,F,['ST'],190000.0,EUR,2967,Excelsior,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1186307,Yaqub Finey,2003-09-24,22,Sweden,,191.0,,Left,23,F,['ST'],480000.0,EUR,2967,Excelsior,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1198088,Nesto Groen,2004-07-22,22,Netherlands,,185.0,,Right,28,F,['ST'],105000.0,EUR,2967,Excelsior,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1211006,Mario Domínguez,2004-02-10,22,Spain,,175.0,,,39,F,['ST'],435000.0,EUR,2967,Excelsior,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1126966,Gyan de Regt,2003-08-18,22,Netherlands,,176.0,,Left,11,M,"['LW', 'RW']",875000.0,EUR,2967,Excelsior,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1384483,Irakli Yegoian,2004-03-19,22,Georgia,,168.0,,Right,8,M,"['MC', 'AM']",1700000.0,EUR,2967,Excelsior,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1048487,Noah Naujoks,2002-05-02,24,Netherlands,,183.0,,Right,10,M,"['MC', 'AM']",1400000.0,EUR,2967,Excelsior,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1126595,Lennard Hartjes,2003-04-07,23,Netherlands,,170.0,,Right,20,M,"['MC', 'DM']",825000.0,EUR,2967,Excelsior,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1210860,Valentin Sulzbacher,2005-03-11,21,Austria,,189.0,,Both,18,M,"['MC', 'DM']",1100000.0,EUR,2967,Excelsior,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+966542,Mathijs Tielemans,2002-04-26,24,Netherlands,,181.0,,Right,8,M,"['MC', 'DM']",340000.0,EUR,2967,Excelsior,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1896511,Ilano Silva Timas,2002-09-29,23,Cape Verde,,183.0,,Both,21,M,['LW'],325000.0,EUR,2967,Excelsior,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1146629,Daniel van Vianen,2003-04-28,23,Netherlands,,188.0,,Left,6,M,"['MC', 'DM']",560000.0,EUR,2967,Excelsior,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2202901,Noa el Hamdaoui,2007-10-25,18,Netherlands,,,,,34,M,,,,2967,Excelsior,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1545079,Jan Plug,2005-04-02,21,Netherlands,,188.0,,Left,14,D,['DC'],720000.0,EUR,2967,Excelsior,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2157303,Osman Turay,2008-03-17,18,Germany,,173.0,,Left,22,D,['DL'],,,2967,Excelsior,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1512624,Kasey Bos,2004-05-08,22,Australia,,180.0,,Left,18,D,['DL'],390000.0,EUR,2967,Excelsior,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2204654,Marlon van de Wetering,2007-11-26,18,Jamaica,,,,Right,27,D,['DR'],185000.0,EUR,2967,Excelsior,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1031721,Casper Widell,2003-05-05,23,Sweden,,192.0,,Right,4,D,['DC'],1500000.0,EUR,2967,Excelsior,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1153163,Nolan Martens,2004-07-07,22,Belgium,,180.0,,Right,17,D,['DR'],480000.0,EUR,2967,Excelsior,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+946950,Simon Janssen,2000-09-25,25,Netherlands,,179.0,,Right,15,D,['DL'],365000.0,EUR,2967,Excelsior,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1133679,Stan Henderikx,2003-07-08,23,Netherlands,,187.0,,Left,5,D,['DC'],385000.0,EUR,2967,Excelsior,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1048906,Rick Meissen,2002-02-24,24,Netherlands,,193.0,,Right,3,D,['DC'],760000.0,EUR,2967,Excelsior,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1923374,Giuliano Cairo,2006-03-18,20,Netherlands,,,,,24,D,,,,2967,Excelsior,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+976399,Celton Biai,2000-08-13,25,Guinea-Bissau,,188.0,,Right,16,G,['GK'],535000.0,EUR,2967,Excelsior,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+367118,Stijn van Gassel,1996-10-18,29,Netherlands,,185.0,80.0,Right,1,G,['GK'],1000000.0,EUR,2967,Excelsior,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1893851,Tijmen Holla,2006-07-25,20,Netherlands,,,,,40,G,,72000.0,EUR,2967,Excelsior,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+313264,Henk Veerman,1991-02-26,35,Netherlands,,201.0,90.0,Right,9,F,['ST'],260000.0,EUR,2968,FC Volendam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1939251,Jesper Tielemans,2006-05-17,20,Netherlands,,,,,29,F,,49000.0,EUR,2968,FC Volendam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1940506,Jerayson Hoepel,2008-03-01,18,Netherlands,,,,Left,77,F,,,,2968,FC Volendam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2643099,Jahmani Gambier,2004-04-09,22,Netherlands,,,,,,F,,,,2968,FC Volendam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1403078,Kayden Wolff,2006-06-19,20,Netherlands,,186.0,,Right,11,M,['LW'],410000.0,EUR,2968,FC Volendam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+822166,Nick Doodeman,1996-10-22,29,Netherlands,,173.0,,Right,7,M,"['RW', 'MR']",645000.0,EUR,2968,FC Volendam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1511723,Nordin Bukala,2005-09-18,20,Netherlands,,184.0,,,18,M,"['MC', 'DM']",630000.0,EUR,2968,FC Volendam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2643404,Mohammed Belfqih,2007-09-07,18,Morocco,,,,,34,M,,,,2968,FC Volendam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+846202,Reuven Niemeijer,1995-03-27,31,Netherlands,,178.0,,Right,10,M,"['AM', 'ST']",490000.0,EUR,2968,FC Volendam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1048098,Daan Huisman,2002-07-26,24,Netherlands,,189.0,,Right,8,M,"['MC', 'DM']",370000.0,EUR,2968,FC Volendam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1801349,Tiago Codinha,2005-07-20,21,Canada,,184.0,,,19,M,,,,2968,FC Volendam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+860161,Alex Plat,1998-02-04,28,Netherlands,,178.0,,Right,6,M,"['MC', 'DM']",310000.0,EUR,2968,FC Volendam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2655959,Ryan de Vries,2008-08-07,18,Netherlands,,182.0,,Left,,M,,,,2968,FC Volendam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1632294,Mika van der Horst,2005-05-11,21,Netherlands,,,,,36,M,,27000.0,EUR,2968,FC Volendam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1481354,Precious Ugwu,2006-02-08,20,Netherlands,,192.0,,Right,2,D,['DR'],475000.0,EUR,2968,FC Volendam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+106154,Mawouna Amevor,1991-12-16,34,Togo,,191.0,75.0,Right,3,D,['DC'],190000.0,EUR,2968,FC Volendam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+996982,Yannick Leliendal,2002-04-23,24,Suriname,,168.0,,Left,32,D,['DL'],1100000.0,EUR,2968,FC Volendam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1193084,Mike Kleijn,2005-02-09,21,Netherlands,,175.0,,Left,15,D,['MC'],280000.0,EUR,2968,FC Volendam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1011489,Silvinho Esajas,2002-01-01,24,Suriname,,193.0,,Right,28,D,['MC'],145000.0,EUR,2968,FC Volendam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1405740,Daniël Beukers,2004-01-28,22,Netherlands,,181.0,,Right,17,D,['DL'],185000.0,EUR,2968,FC Volendam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1922946,Luca Blondeau,2006-02-11,20,Netherlands,,194.0,,Right,25,D,,69000.0,EUR,2968,FC Volendam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1423743,Deron Payne,2002-09-25,23,Trinidad and Tobago,,182.0,,Right,12,D,['DR'],365000.0,EUR,2968,FC Volendam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+116945,Erik Schouten,1991-08-16,34,Netherlands,,183.0,73.0,Both,4,D,['DC'],48000.0,EUR,2968,FC Volendam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1386780,Daan Bisschops,2005-03-30,21,Netherlands,,,,,5,D,,,,2968,FC Volendam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1183535,Jaïr Haakmat,2003-08-28,22,Netherlands,,190.0,,Left,63,D,['DC'],24000.0,EUR,2968,FC Volendam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1939253,Enzo Pestana,2007-12-27,18,Netherlands,,,,Right,,D,,,,2968,FC Volendam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+339941,Hidde Jurjus,1994-02-09,32,Netherlands,,187.0,78.0,Right,1,G,['GK'],240000.0,EUR,2968,FC Volendam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1403023,Roy Steur,2005-02-01,21,Netherlands,,192.0,,Right,16,G,['GK'],195000.0,EUR,2968,FC Volendam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1489946,Yaell Samson,2006-04-03,20,Netherlands,,183.0,,,30,G,,,,2968,FC Volendam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1065542,Dion Vlak,2001-06-28,25,Netherlands,,,,Right,22,G,['GK'],23000.0,EUR,2968,FC Volendam,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+961689,Naoufal Bannis,2002-03-11,24,Morocco,,180.0,,Right,9,F,['ST'],350000.0,EUR,2958,Vitesse,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+992645,Ayman Sellouf,2001-08-25,24,Netherlands,,177.0,,Left,21,F,"['LW', 'ML']",115000.0,EUR,2958,Vitesse,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1142163,João Pinto,2004-05-31,22,Portugal,,186.0,,Both,13,F,['ST'],285000.0,EUR,2958,Vitesse,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1387939,Eduard Probst,2001-03-24,25,Germany,,184.0,,Right,27,F,['ST'],195000.0,EUR,2958,Vitesse,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2444709,Koen te Veluwe,2006-05-11,20,Netherlands,,,,,38,F,,,,2958,Vitesse,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2680912,Milan Brouwer,2007-02-18,19,Netherlands,,,,,,F,,,,2958,Vitesse,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2001079,Nino Zonneveld,2005-12-06,20,Netherlands,,184.0,68.0,,7,M,['RW'],295000.0,EUR,2958,Vitesse,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1426368,Yuval Ranon,2006-02-11,20,Israel,,180.0,,Both,11,M,,160000.0,EUR,2958,Vitesse,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2058698,Youssef Ouallil,2007-11-15,18,Netherlands,,,,,34,M,,46000.0,EUR,2958,Vitesse,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2058697,Mathijs Marschalk,2005-01-22,21,Netherlands,,177.0,,Right,33,M,['MC'],320000.0,EUR,2958,Vitesse,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1102460,Filipe de Ferreira,2003-12-01,22,Switzerland,,176.0,,Right,20,M,['LW'],240000.0,EUR,2958,Vitesse,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+844381,Marco Schikora,1994-09-20,31,Germany,,181.0,,Both,6,M,"['MC', 'DM']",285000.0,EUR,2958,Vitesse,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1083399,Ricardo-Felipe Schwarz,2004-01-30,22,Germany,,174.0,,Right,8,M,['MR'],245000.0,EUR,2958,Vitesse,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2441659,Teun Bosch,2006-04-07,20,Netherlands,,188.0,,Left,42,M,,,,2958,Vitesse,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2680911,Jort van de Glind,2008-01-14,18,Netherlands,,,,,,M,,,,2958,Vitesse,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2203219,Omar Achouitar,2005-05-13,21,Morocco,,185.0,,Left,14,D,['DC'],310000.0,EUR,2958,Vitesse,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1012898,Solomon Bonnah,2003-08-19,22,Netherlands,,165.0,,Right,2,D,"['DR', 'MR']",285000.0,EUR,2958,Vitesse,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+35402,Alexander Büttner,1989-02-11,37,Netherlands,,174.0,75.0,Left,28,D,['DL'],105000.0,EUR,2958,Vitesse,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1005919,Valon Zumberi,2002-11-24,23,Kosovo,,188.0,,Right,17,D,['DC'],370000.0,EUR,2958,Vitesse,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+920489,Nathan Markelo,1999-01-07,27,Curacao,,182.0,,Right,24,D,"['DR', 'MC']",245000.0,EUR,2958,Vitesse,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1129128,Xiamaro Thenu,2004-10-22,21,Netherlands,,,,,22,D,['DL'],170000.0,EUR,2958,Vitesse,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1383167,Chiel Olde Keizer,2003-03-17,23,Netherlands,,185.0,,Left,43,D,,73000.0,EUR,2958,Vitesse,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1191338,Marcus Steffen,2003-02-01,23,Netherlands,,189.0,,Right,55,D,['DC'],290000.0,EUR,2958,Vitesse,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1049270,Tyrick Bodak,2002-02-15,24,Curacao,,190.0,,Right,25,G,,27000.0,EUR,2958,Vitesse,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+990815,Connor van den Berg,2001-03-18,25,Netherlands,,187.0,,Right,1,G,['GK'],330000.0,EUR,2958,Vitesse,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1111011,Maximilian Brüll,2002-08-26,23,Germany,,186.0,,Right,31,G,['GK'],120000.0,EUR,2958,Vitesse,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+2058696,Jayden Siecker,2005-08-30,20,Netherlands,,187.0,,Right,23,G,,,,2958,Vitesse,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28
+1648753,Dylan Tevreden,2005-07-17,21,Netherlands,,185.0,,Right,36,G,['GK'],,,2958,Vitesse,NED,2023-2024,datafc_sofascore,2026-08-11 19:20:28

@@ -1,0 +1,28 @@
+﻿tournament_id,season_id,player_name,player_id,team_name,team_id,saves,goalsPrevented,rating,minutesPlayed,appearances,accuratePasses,accurateLongBalls,accurateLongBallsPercentage,yellowCards,redCards,_league_id,_season,_source,_scraped_at
+45,42386,Phillip Menzel,808612,Austria Klagenfurt,43254,95,,6.72,2700,30,471,292,35.74,3,0,AUT,2022-2023,datafc_sofascore,2026-08-11 14:49:35
+45,42386,Domenik Schierl,190825,SC Austria Lustenau,2062,94,,6.88,2610,29,577,190,36.05,3,0,AUT,2022-2023,datafc_sofascore,2026-08-11 14:49:35
+45,42386,Samuel Sahin-Radlinger,66340,SV Ried,2049,93,,6.95,2340,26,552,146,32.23,2,0,AUT,2022-2023,datafc_sofascore,2026-08-11 14:49:35
+45,42386,Christian Früchtl,845024,FK Austria Wien,2203,93,,6.8,2843,32,734,221,44.47,0,0,AUT,2022-2023,datafc_sofascore,2026-08-11 14:49:35
+45,42386,Ferdinand Oswald,66487,WSG Tirol,5405,92,,6.87,2430,27,450,134,29.07,1,0,AUT,2022-2023,datafc_sofascore,2026-08-11 14:49:35
+45,42386,Hendrik Bonmann,254461,Wolfsberger AC,2076,89,,6.85,2790,31,585,207,33.6,1,0,AUT,2022-2023,datafc_sofascore,2026-08-11 14:49:35
+45,42386,Alexander Schlager,282073,LASK,2058,85,,7.1,2250,25,594,194,43.4,2,0,AUT,2022-2023,datafc_sofascore,2026-08-11 14:49:35
+45,42386,Niklas Hedl,918421,SK Rapid Wien,2055,74,,6.76,2798,31,674,240,42.7,1,0,AUT,2022-2023,datafc_sofascore,2026-08-11 14:49:35
+45,42386,Tino Casali,352398,SCR Altach,4856,73,,6.8,2070,23,487,200,42.11,0,0,AUT,2022-2023,datafc_sofascore,2026-08-11 14:49:35
+45,42386,Philipp Köhn,868964,Red Bull Salzburg,2046,70,,7.02,2846,32,614,231,49.89,4,0,AUT,2022-2023,datafc_sofascore,2026-08-11 14:49:35
+45,42386,Raphael Sallinger,275801,TSV Hartberg,2075,62,,7.0,1799,20,548,196,47.0,2,0,AUT,2022-2023,datafc_sofascore,2026-08-11 14:49:35
+45,42386,Rene Swete,355526,TSV Hartberg,2075,43,,6.64,1080,12,263,94,35.88,3,0,AUT,2022-2023,datafc_sofascore,2026-08-11 14:49:35
+45,42386,Arthur Okonkwo,1109561,SK Sturm Graz,2051,31,,6.77,1350,15,201,51,33.12,0,0,AUT,2022-2023,datafc_sofascore,2026-08-11 14:49:35
+45,42386,Jörg Siebenhandl,90008,SK Sturm Graz,2051,30,,6.93,1440,16,269,67,35.26,0,0,AUT,2022-2023,datafc_sofascore,2026-08-11 14:49:35
+45,42386,Jonas Wendlinger,951497,SV Ried,2049,16,,6.88,540,6,89,25,26.88,1,0,AUT,2022-2023,datafc_sofascore,2026-08-11 14:49:35
+45,42386,Tobias Lawal,990025,LASK,2058,16,,6.74,630,7,178,40,43.01,0,0,AUT,2022-2023,datafc_sofascore,2026-08-11 14:49:35
+45,42386,Andreas Jungdal,963038,SCR Altach,4856,15,,6.68,540,6,109,49,37.98,0,0,AUT,2022-2023,datafc_sofascore,2026-08-11 14:49:35
+45,42386,Marco Knaller,7617,Austria Klagenfurt,43254,12,,7.05,180,2,36,31,38.75,0,0,AUT,2022-2023,datafc_sofascore,2026-08-11 14:49:35
+45,42386,Ammar Helac,886066,SC Austria Lustenau,2062,9,,6.53,270,3,54,17,34.0,0,0,AUT,2022-2023,datafc_sofascore,2026-08-11 14:49:35
+45,42386,Jakob Odehnal,942775,SCR Altach,4856,8,,6.73,270,3,60,24,42.11,0,0,AUT,2022-2023,datafc_sofascore,2026-08-11 14:49:35
+45,42386,Paul Gartler,355478,SK Rapid Wien,2055,7,,7.8,90,1,21,11,50.0,1,0,AUT,2022-2023,datafc_sofascore,2026-08-11 14:49:35
+45,42386,Benjamin Ožegović,837082,WSG Tirol,5405,6,,6.34,450,5,96,24,26.37,1,0,AUT,2022-2023,datafc_sofascore,2026-08-11 14:49:35
+45,42386,David Skubl,1049106,Wolfsberger AC,2076,3,,6.7,90,1,17,7,36.84,0,0,AUT,2022-2023,datafc_sofascore,2026-08-11 14:49:35
+45,42386,Mirko Kos,869699,FK Austria Wien,2203,2,,6.8,45,1,4,0,0.0,0,0,AUT,2022-2023,datafc_sofascore,2026-08-11 14:49:35
+45,42386,Tobias Schützenauer,355480,SK Sturm Graz,2051,1,,7.2,90,1,12,3,75.0,0,0,AUT,2022-2023,datafc_sofascore,2026-08-11 14:49:35
+45,42386,Alexander Walke,5028,Red Bull Salzburg,2046,0,,6.3,34,1,4,2,40.0,0,0,AUT,2022-2023,datafc_sofascore,2026-08-11 14:49:35
+45,42386,Florian Faist,573952,TSV Hartberg,2075,0,,0.0,1,1,0,0,0.0,0,0,AUT,2022-2023,datafc_sofascore,2026-08-11 14:49:35

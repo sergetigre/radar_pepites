@@ -1,0 +1,39 @@
+﻿tournament_id,season_id,player_name,player_id,team_name,team_id,saves,goalsPrevented,rating,minutesPlayed,appearances,accuratePasses,accurateLongBalls,accurateLongBallsPercentage,yellowCards,redCards,_league_id,_season,_source,_scraped_at
+37,52554,Mio Backhaus,1083390,FC Volendam,2968,176,-0.57,7.37,2888,33,709,286,35.71,3,0,NED,2023-2024,datafc_sofascore,2026-08-11 14:48:04
+37,52554,Michael Brouwer,252027,Heracles Almelo,2977,154,-3.98,7.26,3060,34,682,244,32.84,0,0,NED,2023-2024,datafc_sofascore,2026-08-11 14:48:04
+37,52554,Eloy Room,40859,Vitesse,2958,153,-1.64,7.17,3060,34,753,285,36.77,1,0,NED,2023-2024,datafc_sofascore,2026-08-11 14:48:04
+37,52554,Jeffrey De Lange,803034,Go Ahead Eagles,2979,135,0.42,7.21,3060,34,836,274,37.13,3,0,NED,2023-2024,datafc_sofascore,2026-08-11 14:48:04
+37,52554,Stijn van Gassel,367118,Excelsior,2967,132,-9.8,7.0,3060,34,750,374,36.92,0,0,NED,2023-2024,datafc_sofascore,2026-08-11 14:48:04
+37,52554,Etienne Vaessen,809408,RKC Waalwijk,2956,127,2.69,7.39,2645,30,766,287,40.48,3,1,NED,2023-2024,datafc_sofascore,2026-08-11 14:48:04
+37,52554,Jasper Schendelaar,856636,PEC Zwolle,2971,125,-3.34,7.21,2880,32,741,304,42.05,0,0,NED,2023-2024,datafc_sofascore,2026-08-11 14:48:04
+37,52554,Nick Olij,227192,Sparta Rotterdam,2960,115,2.73,7.26,3060,34,904,340,43.42,0,0,NED,2023-2024,datafc_sofascore,2026-08-11 14:48:04
+37,52554,Nordin Bakker,945955,Almere City FC,2990,112,4.0,7.1,2597,29,410,286,32.69,0,0,NED,2023-2024,datafc_sofascore,2026-08-11 14:48:04
+37,52554,Vasilis Barkas,347726,FC Utrecht,2948,107,2.36,7.28,2610,29,572,197,39.4,2,0,NED,2023-2024,datafc_sofascore,2026-08-11 14:48:04
+37,52554,Jasper Cillessen,123865,NEC Nijmegen,2962,99,0.81,7.03,2641,30,561,199,36.72,1,0,NED,2023-2024,datafc_sofascore,2026-08-11 14:48:04
+37,52554,Lars Unnerstall,94835,FC Twente,2955,92,7.29,7.02,2880,32,640,154,31.95,2,0,NED,2023-2024,datafc_sofascore,2026-08-11 14:48:04
+37,52554,Mathew Ryan,134029,AZ Alkmaar,2950,81,4.43,7.26,2610,29,729,216,50.94,0,0,NED,2023-2024,datafc_sofascore,2026-08-11 14:48:04
+37,52554,Diant Ramaj,981562,AFC Ajax,2953,69,1.99,7.1,1827,22,654,188,45.19,0,0,NED,2023-2024,datafc_sofascore,2026-08-11 14:48:04
+37,52554,Andries Noppert,339339,SC Heerenveen,2964,62,-1.96,6.8,1980,22,412,121,40.47,0,0,NED,2023-2024,datafc_sofascore,2026-08-11 14:48:04
+37,52554,Walter Benítez,249859,PSV Eindhoven,2952,55,4.24,6.98,2965,33,785,162,54.18,1,0,NED,2023-2024,datafc_sofascore,2026-08-11 14:48:04
+37,52554,Ivor Pandur,943212,Fortuna Sittard,2957,51,-2.13,7.04,1440,16,315,108,39.27,1,0,NED,2023-2024,datafc_sofascore,2026-08-11 14:48:04
+37,52554,Mickey van der Hart,242313,SC Heerenveen,2964,35,-5.75,6.81,1080,12,254,88,41.12,1,0,NED,2023-2024,datafc_sofascore,2026-08-11 14:48:04
+37,52554,Timon Wellenreuther,253875,Feyenoord,2959,34,0.77,7.04,1596,19,483,89,40.09,3,0,NED,2023-2024,datafc_sofascore,2026-08-11 14:48:04
+37,52554,Michael Verrips,583506,Fortuna Sittard,2957,30,-6.03,6.71,1080,12,146,83,31.09,0,0,NED,2023-2024,datafc_sofascore,2026-08-11 14:48:04
+37,52554,Justin Bijlow,556696,Feyenoord,2959,29,0.63,6.95,1464,17,556,97,52.72,1,0,NED,2023-2024,datafc_sofascore,2026-08-11 14:48:04
+37,52554,Samuel Sahin-Radlinger,66340,Almere City FC,2990,19,1.19,7.0,463,6,57,43,26.06,0,0,NED,2023-2024,datafc_sofascore,2026-08-11 14:48:04
+37,52554,Gerónimo Rulli,128383,AFC Ajax,2953,18,0.13,7.01,572,7,225,66,48.89,0,0,NED,2023-2024,datafc_sofascore,2026-08-11 14:48:04
+37,52554,Jay Gorter,981603,AFC Ajax,2953,18,-2.82,6.69,666,8,205,41,40.59,0,0,NED,2023-2024,datafc_sofascore,2026-08-11 14:48:04
+37,52554,Jeroen Houwen,339367,RKC Waalwijk,2956,15,1.11,7.25,321,4,70,30,32.97,0,0,NED,2023-2024,datafc_sofascore,2026-08-11 14:48:04
+37,52554,Robin Roefs,1012928,NEC Nijmegen,2962,13,0.8,7.22,419,5,112,41,44.57,0,0,NED,2023-2024,datafc_sofascore,2026-08-11 14:48:04
+37,52554,Luuk Koopmans,128992,Fortuna Sittard,2957,13,1.16,6.98,450,5,56,32,28.57,0,0,NED,2023-2024,datafc_sofascore,2026-08-11 14:48:04
+37,52554,Mattijs Branderhorst,146871,FC Utrecht,2948,11,0.12,7.06,450,5,76,31,40.26,0,0,NED,2023-2024,datafc_sofascore,2026-08-11 14:48:04
+37,52554,Rome Jayden Owusu-Oduro,1145999,AZ Alkmaar,2950,11,-0.84,6.85,360,4,88,30,42.86,0,0,NED,2023-2024,datafc_sofascore,2026-08-11 14:48:04
+37,52554,Mark Spenkelink,875466,RKC Waalwijk,2956,10,2.6,8.4,90,1,25,7,35.0,0,0,NED,2023-2024,datafc_sofascore,2026-08-11 14:48:04
+37,52554,Kayne van Oevelen,1393970,FC Volendam,2968,8,0.81,8.5,89,1,24,7,41.18,0,0,NED,2023-2024,datafc_sofascore,2026-08-11 14:48:04
+37,52554,Mike Hauptmeijer,376448,PEC Zwolle,2971,8,0.9,7.35,180,2,53,13,30.23,0,0,NED,2023-2024,datafc_sofascore,2026-08-11 14:48:04
+37,52554,Przemysław Tytoń,27691,FC Twente,2955,5,-0.07,6.8,180,2,21,8,28.57,0,0,NED,2023-2024,datafc_sofascore,2026-08-11 14:48:04
+37,52554,Joël Drommel,610396,PSV Eindhoven,2952,4,0.62,7.5,90,1,27,5,71.43,0,0,NED,2023-2024,datafc_sofascore,2026-08-11 14:48:04
+37,52554,Hobie Verhulst,97401,AZ Alkmaar,2950,4,-0.47,6.7,90,1,29,15,51.72,0,0,NED,2023-2024,datafc_sofascore,2026-08-11 14:48:04
+37,52554,Tom Hendriks,967463,Fortuna Sittard,2957,3,0.5,7.7,90,1,12,5,45.45,0,0,NED,2023-2024,datafc_sofascore,2026-08-11 14:48:04
+37,52554,Barry Lauwers,959060,FC Volendam,2968,3,-3.07,5.3,90,1,21,8,30.77,0,0,NED,2023-2024,datafc_sofascore,2026-08-11 14:48:04
+37,52554,Boy Waterman,2594,PSV Eindhoven,2952,1,0.07,7.0,11,1,4,1,100.0,0,0,NED,2023-2024,datafc_sofascore,2026-08-11 14:48:04

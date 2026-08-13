@@ -1,0 +1,39 @@
+﻿tournament_id,season_id,player_name,player_id,team_name,team_id,saves,goalsPrevented,rating,minutesPlayed,appearances,accuratePasses,accurateLongBalls,accurateLongBallsPercentage,yellowCards,redCards,_league_id,_season,_source,_scraped_at
+35,63516,Kevin Müller,121908,1. FC Heidenheim,5885,106,-4.15,6.88,2940,33,835,212,40.77,0,0,GER,2024-2025,datafc_sofascore,2026-08-12 07:00:47
+35,63516,Michael Zetterer,190161,SV Werder Bremen,2534,104,-4.07,6.98,3060,34,848,211,44.42,2,0,GER,2024-2025,datafc_sofascore,2026-08-12 07:00:47
+35,63516,Robin Zentner,174345,1. FSV Mainz 05,2556,102,5.03,7.15,2880,32,604,210,33.49,3,0,GER,2024-2025,datafc_sofascore,2026-08-12 07:00:47
+35,63516,Péter Gulácsi,37096,RB Leipzig,36360,100,4.96,7.26,2632,30,604,118,44.19,0,0,GER,2024-2025,datafc_sofascore,2026-08-12 07:00:47
+35,63516,Nikola Vasilj,325061,FC St. Pauli,2526,97,9.03,7.12,2970,33,927,211,36.95,0,1,GER,2024-2025,datafc_sofascore,2026-08-12 07:00:47
+35,63516,Kamil Grabara,902080,VfL Wolfsburg,2524,92,2.47,7.06,2586,29,677,220,39.36,2,0,GER,2024-2025,datafc_sofascore,2026-08-12 07:00:47
+35,63516,Oliver Baumann,40244,TSG Hoffenheim,2569,92,2.03,7.03,2520,28,615,196,37.91,1,0,GER,2024-2025,datafc_sofascore,2026-08-12 07:00:47
+35,63516,Noah Atubolu,980626,SC Freiburg,2538,85,0.48,7.18,2308,26,739,203,41.77,2,0,GER,2024-2025,datafc_sofascore,2026-08-12 07:00:47
+35,63516,Lukáš Hrádecký,15219,Bayer 04 Leverkusen,2681,85,-1.66,6.92,2610,29,580,166,44.03,1,0,GER,2024-2025,datafc_sofascore,2026-08-12 07:00:47
+35,63516,Gregor Kobel,556866,Borussia Dortmund,2673,85,1.01,6.89,2880,32,867,156,39.29,1,0,GER,2024-2025,datafc_sofascore,2026-08-12 07:00:47
+35,63516,Alexander Nübel,584722,VfB Stuttgart,2677,85,-6.04,6.88,3060,34,873,208,42.19,0,0,GER,2024-2025,datafc_sofascore,2026-08-12 07:00:47
+35,63516,Timon Weiner,1140362,Holstein Kiel,2573,85,-13.08,6.73,2250,25,568,197,39.56,4,0,GER,2024-2025,datafc_sofascore,2026-08-12 07:00:47
+35,63516,Kevin Trapp,38440,Eintracht Frankfurt,2674,84,2.59,7.02,2295,26,570,114,31.84,0,0,GER,2024-2025,datafc_sofascore,2026-08-12 07:00:47
+35,63516,Frederik Rønnow,137692,1. FC Union Berlin,2547,74,2.87,7.1,2430,27,475,167,38.39,2,0,GER,2024-2025,datafc_sofascore,2026-08-12 07:00:47
+35,63516,Moritz Nicolas,578166,Borussia M'gladbach,2527,70,5.68,7.37,1640,19,585,125,51.87,0,0,GER,2024-2025,datafc_sofascore,2026-08-12 07:00:47
+35,63516,Finn Dahmen,822564,FC Augsburg,2600,65,6.86,7.26,1710,19,478,159,41.09,0,0,GER,2024-2025,datafc_sofascore,2026-08-12 07:00:47
+35,63516,Patrick Drewes,132607,VfL Bochum 1848,2542,51,-2.01,6.75,1800,20,483,228,46.34,1,0,GER,2024-2025,datafc_sofascore,2026-08-12 07:00:47
+35,63516,Jonas Omlin,571622,Borussia M'gladbach,2527,46,-0.66,6.9,979,12,329,89,40.27,0,1,GER,2024-2025,datafc_sofascore,2026-08-12 07:00:47
+35,63516,Nediljko Labrović,947986,FC Augsburg,2600,42,-6.04,6.87,1350,15,282,98,40.33,0,0,GER,2024-2025,datafc_sofascore,2026-08-12 07:00:47
+35,63516,Thomas Dähne,126346,Holstein Kiel,2573,37,-0.19,7.27,810,9,249,53,36.81,0,0,GER,2024-2025,datafc_sofascore,2026-08-12 07:00:47
+35,63516,Kauã Santos,1134203,Eintracht Frankfurt,2674,37,2.56,7.26,765,9,172,46,35.11,0,0,GER,2024-2025,datafc_sofascore,2026-08-12 07:00:47
+35,63516,Timo Horn,97923,VfL Bochum 1848,2542,33,-2.95,6.81,1170,13,255,144,40.34,2,0,GER,2024-2025,datafc_sofascore,2026-08-12 07:00:47
+35,63516,Manuel Neuer,8959,FC Bayern München,2672,32,0.61,6.97,1980,22,716,154,57.04,0,0,GER,2024-2025,datafc_sofascore,2026-08-12 07:00:47
+35,63516,Luca Philipp,943550,TSG Hoffenheim,2569,21,-2.38,6.87,540,6,101,39,35.78,0,0,GER,2024-2025,datafc_sofascore,2026-08-12 07:00:47
+35,63516,Tiago Pereira Cardoso,1149294,Borussia M'gladbach,2527,20,1.66,7.56,379,5,112,27,38.03,0,0,GER,2024-2025,datafc_sofascore,2026-08-12 07:00:47
+35,63516,Marius Müller,136933,VfL Wolfsburg,2524,18,2.38,7.28,474,6,125,46,41.82,0,0,GER,2024-2025,datafc_sofascore,2026-08-12 07:00:47
+35,63516,Jonas Urbig,1130647,FC Bayern München,2672,17,-1.32,6.7,720,8,199,43,44.33,0,0,GER,2024-2025,datafc_sofascore,2026-08-12 07:00:47
+35,63516,Alexander Schwolow,134778,1. FC Union Berlin,2547,15,-3.16,6.68,540,6,123,33,37.08,0,0,GER,2024-2025,datafc_sofascore,2026-08-12 07:00:47
+35,63516,Florian Müller,842858,SC Freiburg,2538,15,-3.93,6.56,752,9,178,59,33.91,0,0,GER,2024-2025,datafc_sofascore,2026-08-12 07:00:47
+35,63516,Matěj Kovář,927366,Bayer 04 Leverkusen,2681,12,-1.47,7.0,450,5,107,19,45.24,0,0,GER,2024-2025,datafc_sofascore,2026-08-12 07:00:47
+35,63516,Maarten Vandevoordt,934385,RB Leipzig,36360,12,-1.47,6.82,428,6,111,24,40.0,0,0,GER,2024-2025,datafc_sofascore,2026-08-12 07:00:47
+35,63516,Alexander Meyer,138491,Borussia Dortmund,2673,7,0.0,7.05,180,2,51,13,31.71,0,0,GER,2024-2025,datafc_sofascore,2026-08-12 07:00:47
+35,63516,Lasse Riess,1069252,1. FSV Mainz 05,2556,6,0.18,7.2,180,2,46,19,38.0,1,0,GER,2024-2025,datafc_sofascore,2026-08-12 07:00:47
+35,63516,Ben Voll,987437,FC St. Pauli,2526,4,0.42,7.2,91,2,23,7,24.14,1,0,GER,2024-2025,datafc_sofascore,2026-08-12 07:00:47
+35,63516,Frank Feller,1083359,1. FC Heidenheim,5885,2,0.32,6.8,120,2,35,12,34.29,0,0,GER,2024-2025,datafc_sofascore,2026-08-12 07:00:47
+35,63516,Daniel Peretz,1048265,FC Bayern München,2672,2,-1.23,6.3,270,3,74,10,30.3,1,0,GER,2024-2025,datafc_sofascore,2026-08-12 07:00:47
+35,63516,Tobias Sippel,8772,Borussia M'gladbach,2527,1,-1.78,5.9,58,1,18,10,41.67,0,0,GER,2024-2025,datafc_sofascore,2026-08-12 07:00:47
+35,63516,Sven Ulreich,26768,FC Bayern München,2672,0,,6.8,90,1,21,4,44.44,0,0,GER,2024-2025,datafc_sofascore,2026-08-12 07:00:47

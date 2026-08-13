@@ -1,0 +1,43 @@
+﻿player_id,player_name,date_of_birth,age,nationality,nationality_id,height,weight,preferred_foot,jersey_number,position,position_detailed,market_value,market_currency,team_id,team_name,_league_id,_season,_source,_scraped_at
+4697,Diego López,1981-11-03,44,Spain,,196,89.0,Right,26,G,['GK'],,,241802,No team,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+27069,Romain Salin,1984-07-29,42,France,,185,71.0,Left,78,G,['GK'],,,397890,AGL Drapeau Fougères Football,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+27991,Samir Ujkani,1988-07-05,38,Kosovo,,186,78.0,Right,,G,['GK'],,,241802,No team,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+31325,Giorgi Makaridze,1990-03-31,36,Georgia,,190,85.0,Right,31,G,['GK'],52000.0,EUR,116312,FC Iberia 1999,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+39224,Jean-Louis Leca,1985-09-21,40,France,,180,68.0,Right,,G,['GK'],,,241802,No team,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+41445,Federico Marchetti,1983-02-07,43,Italy,,188,83.0,Left,,G,['GK'],,,241802,No team,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+43556,Cenk Gönen,1988-02-21,38,Türkiye,,190,84.0,Right,,G,['GK'],24000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+43985,Gianluca Pegolo,1981-03-25,45,Italy,,182,76.0,Left,,G,['GK'],,,241802,No team,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+126879,Alexandre Letellier,1990-12-11,35,France,,193,93.0,Both,,G,['GK'],,,241802,No team,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+148740,Alessio Cragno,1994-06-28,32,Italy,,184,83.0,Right,,G,['GK'],380000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+150611,Nícolas,1988-04-12,38,Brazil,,190,85.0,Right,,G,['GK'],110000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+153038,Jakub Szumski,1992-03-06,34,Poland,,194,78.0,Right,29,G,['GK'],52000.0,EUR,388264,Iğdır FK,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+250219,Axel Werner,1996-02-28,30,Argentina,,191,85.0,Right,1,G,['GK'],430000.0,EUR,3217,Rosario Central,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+377166,Dillon Phillips,1995-06-11,31,England,,188,75.0,Right,12,G,['GK'],195000.0,EUR,96,Hull City,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+556980,Francois-Joseph Sollacaro,1994-03-21,32,France,,181,75.0,Right,,G,['GK'],240000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+595598,Léo Jardim,1995-03-20,31,Brazil,,188,74.0,Right,1,G,['GK'],6400000.0,EUR,1974,Vasco da Gama,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+788319,Patrick Pentz,1997-01-02,29,Austria,,182,81.0,Left,1,G,['GK'],2000000.0,EUR,1281,Brøndby IF,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+830443,Anil Demir,1996-11-04,29,Türkiye,,190,,,,G,['GK'],24000.0,EUR,485445,İnegöl Kafkas Gençlikspor,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+845676,Ricardo Fernandes,1994-10-28,31,Portugal,,193,79.0,Right,1,G,['GK'],385000.0,EUR,24036,Şamaxı FK,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+847060,Burak Öğür,1989-09-18,36,Türkiye,,189,,Left,35,G,['GK'],23000.0,EUR,3090,Şanlıurfaspor,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+863276,Daniel Fuzato,1997-07-04,29,Brazil,,190,,Right,13,G,['GK'],875000.0,EUR,1974,Vasco da Gama,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+876235,Luca Gemello,2000-07-03,26,Italy,,185,,Right,1,G,['GK'],290000.0,EUR,2770,Mantova,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+942838,Ouparine Djoco,1998-04-22,28,Guinea-Bissau,,189,90.0,Left,,G,['GK'],210000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+943735,Igor Vekič,1998-05-06,28,Slovenia,,192,,Right,1,G,['GK'],485000.0,EUR,2039,HNK Rijeka,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+947045,Beau Reus,2001-10-30,24,Netherlands,,196,,Left,1,G,['GK'],1500000.0,EUR,2353,Heart of Midlothian,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+952981,Doğukan Kaya,2000-01-16,26,Türkiye,,191,,Both,,G,,,,241802,No team,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+967176,Muzaffer Cem Kablan,2000-01-01,26,Türkiye,,192,,Right,1,G,['GK'],,,297098,1461 Trabzon,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+981601,Brett Minnema,2002-01-06,24,Netherlands,,192,,Right,,G,['GK'],47000.0,EUR,1117270,VV Workum,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+1002419,Edmilson Cambila,2002-05-15,24,Angola,,187,,Right,1,G,['GK'],,,391589,SC Régua,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+1010588,Vinicius Dias,1997-06-19,29,Brazil,,188,78.0,Right,97,G,['GK'],185000.0,EUR,375853,Azuriz,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+1023481,Osman Ertuğrul Çetin,2003-04-21,23,Türkiye,,188,,Left,34,G,['GK'],720000.0,EUR,262480,Esenler Erokspor,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+1048440,Celestin De Schrevel,2002-04-02,24,Belgium,,188,,Right,1,G,['GK'],210000.0,EUR,2931,Royal Excelsior Virton,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+1067193,João Bravim,1998-05-03,28,Brazil,,192,,Right,98,G,['GK'],860000.0,EUR,262229,FC Ararat-Armenia,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+1067207,Petar Zovko,2002-03-25,24,Bosnia & Herzegovina,,192,,Left,40,G,['GK'],49000.0,EUR,3272,Lokomotiv Plovdiv,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+1140116,Gian Geladé,2000-09-23,25,Belgium,,187,,Right,1,G,,105000.0,EUR,2924,KFC Dessel Sport,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+1141168,Lapo Nava,2004-01-22,22,Italy,,189,,Right,69,G,['GK'],97000.0,EUR,380181,Alcione Milano,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+1142235,Arnau Rafús,2003-04-27,23,Spain,,190,,Right,,G,['GK'],195000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+1397756,Tommaso Martinelli,2006-01-06,20,Italy,,194,,Right,30,G,['GK'],4800000.0,EUR,2730,US Avellino 1912,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+1481736,Furkan Akyüz,2005-09-21,20,Türkiye,,191,,Right,97,G,['GK'],145000.0,EUR,4952,Sarıyer,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+1513605,Mathys Silistrie,2005-09-16,20,France,,188,,,50,G,,,,397891,Stade Rennais 2,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+1521209,Tomé Sousa,2006-12-16,19,Portugal,,190,,,1,G,['GK'],195000.0,EUR,2995,Boavista,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26
+1550939,Yılmaz Aktaş,2003-05-12,23,Türkiye,,191,,Right,1,G,,26000.0,EUR,2535,Borussia Dortmund II U23,GAP,GAP,datafc_sofascore,2026-08-11 22:10:26

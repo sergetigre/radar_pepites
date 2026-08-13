@@ -1,0 +1,223 @@
+2026-08-12 01:26:57,802 [INFO] Log : C:\Users\serge\Documents\02_DEV_PROJETS\radar_pepites\logs\silver_20260812_012657.log
+2026-08-12 01:26:57,879 [INFO] =================================================================
+2026-08-12 01:26:57,879 [INFO]   RadarPepites — Silver Transformer
+2026-08-12 01:26:57,879 [INFO]   2026-08-12 01:26:57
+2026-08-12 01:26:57,879 [INFO] =================================================================
+2026-08-12 01:26:57,880 [INFO] [0/7] Chargement infos bio joueurs → silver.players_info
+2026-08-12 01:27:05,636 [INFO]   [OK] 20260811_175625_AUT_20252026_players_info.csv — 329 lignes
+2026-08-12 01:27:19,510 [INFO]   [OK] 20260811_180242_ENG_20222023_players_info.csv — 668 lignes
+2026-08-12 01:27:33,341 [INFO]   [OK] 20260811_181453_ENG_20232024_players_info.csv — 662 lignes
+2026-08-12 01:27:47,244 [INFO]   [OK] 20260811_182043_ENG_20242025_players_info.csv — 667 lignes
+2026-08-12 01:28:02,210 [INFO]   [OK] 20260811_183937_ENG_20252026_players_info.csv — 671 lignes
+2026-08-12 01:28:14,873 [INFO]   [OK] 20260811_184458_ESP_20222023_players_info.csv — 609 lignes
+2026-08-12 01:28:27,672 [INFO]   [OK] 20260811_185225_ESP_20232024_players_info.csv — 615 lignes
+2026-08-12 01:28:40,387 [INFO]   [OK] 20260811_185748_ESP_20242025_players_info.csv — 614 lignes
+2026-08-12 01:28:52,773 [INFO]   [OK] 20260811_191128_ESP_20252026_players_info.csv — 593 lignes
+2026-08-12 01:29:04,937 [INFO]   [OK] 20260811_191637_GER_20222023_players_info.csv — 586 lignes
+2026-08-12 01:29:17,039 [INFO]   [OK] 20260811_195534_GER_20232024_players_info.csv — 586 lignes
+2026-08-12 01:29:29,110 [INFO]   [OK] 20260811_200042_GER_20242025_players_info.csv — 586 lignes
+2026-08-12 01:29:41,422 [INFO]   [OK] 20260811_200552_GER_20252026_players_info.csv — 590 lignes
+2026-08-12 01:29:55,525 [INFO]   [OK] 20260811_201149_ITA_20222023_players_info.csv — 681 lignes
+2026-08-12 01:30:09,507 [INFO]   [OK] 20260811_201747_ITA_20232024_players_info.csv — 683 lignes
+2026-08-12 01:30:24,033 [INFO]   [OK] 20260811_202353_ITA_20242025_players_info.csv — 699 lignes
+2026-08-12 01:30:38,736 [INFO]   [OK] 20260811_203005_ITA_20252026_players_info.csv — 711 lignes
+2026-08-12 01:30:50,171 [INFO]   [OK] 20260811_203458_FRA_20222023_players_info.csv — 553 lignes
+2026-08-12 01:31:01,103 [INFO]   [OK] 20260811_203937_FRA_20232024_players_info.csv — 527 lignes
+2026-08-12 01:31:12,399 [INFO]   [OK] 20260811_204830_FRA_20242025_players_info.csv — 546 lignes
+2026-08-12 01:31:23,506 [INFO]   [OK] 20260811_205315_FRA_20252026_players_info.csv — 538 lignes
+2026-08-12 01:31:34,234 [INFO]   [OK] 20260811_205749_POR_20222023_players_info.csv — 518 lignes
+2026-08-12 01:31:44,840 [INFO]   [OK] 20260811_210220_POR_20232024_players_info.csv — 510 lignes
+2026-08-12 01:31:55,832 [INFO]   [OK] 20260811_210651_POR_20242025_players_info.csv — 512 lignes
+2026-08-12 01:32:07,075 [INFO]   [OK] 20260811_211136_POR_20252026_players_info.csv — 538 lignes
+2026-08-12 01:32:17,648 [INFO]   [OK] 20260811_211601_NED_20222023_players_info.csv — 498 lignes
+2026-08-12 01:32:28,312 [INFO]   [OK] 20260811_212028_NED_20232024_players_info.csv — 503 lignes
+2026-08-12 01:32:39,082 [INFO]   [OK] 20260811_212453_NED_20242025_players_info.csv — 500 lignes
+2026-08-12 01:32:49,711 [INFO]   [OK] 20260811_212919_NED_20252026_players_info.csv — 500 lignes
+2026-08-12 01:33:00,485 [INFO]   [OK] 20260811_213347_BEL_20222023_players_info.csv — 498 lignes
+2026-08-12 01:33:10,068 [INFO]   [OK] 20260811_213756_BEL_20232024_players_info.csv — 454 lignes
+2026-08-12 01:33:19,883 [INFO]   [OK] 20260811_214210_BEL_20242025_players_info.csv — 463 lignes
+2026-08-12 01:33:29,678 [INFO]   [OK] 20260811_215554_BEL_20252026_players_info.csv — 460 lignes
+2026-08-12 01:33:42,005 [INFO]   [OK] 20260811_220100_TUR_20222023_players_info.csv — 580 lignes
+2026-08-12 01:33:55,032 [INFO]   [OK] 20260811_220630_TUR_20232024_players_info.csv — 626 lignes
+2026-08-12 01:34:07,759 [INFO]   [OK] 20260811_221147_TUR_20242025_players_info.csv — 603 lignes
+2026-08-12 01:34:19,998 [INFO]   [OK] 20260811_221650_TUR_20252026_players_info.csv — 575 lignes
+2026-08-12 01:34:26,889 [INFO]   [OK] 20260811_221954_AUT_20222023_players_info.csv — 332 lignes
+2026-08-12 01:34:33,650 [INFO]   [OK] 20260811_222254_AUT_20232024_players_info.csv — 323 lignes
+2026-08-12 01:34:40,561 [INFO]   [OK] 20260811_222554_AUT_20242025_players_info.csv — 324 lignes
+2026-08-12 01:34:47,428 [INFO]   [OK] 20260811_222858_AUT_20252026_players_info.csv — 330 lignes
+2026-08-12 01:36:13,912 [INFO]   [OK] 20260811_233547_GAP_players_info.csv — 4100 lignes
+2026-08-12 01:36:14,867 [INFO]   [OK] 20260812_001026_GAP_players_info.csv — 42 lignes
+2026-08-12 01:36:14,867 [INFO]   Total players_info : 26503 lignes upsertées (11292 joueurs uniques)
+2026-08-12 01:36:14,868 [INFO] [1/7] Chargement FBref joueurs de champ → silver.players_fbref
+2026-08-12 01:36:26,632 [INFO]   [OK] ENG|2023-2024 — 540 lignes upsertées
+2026-08-12 01:36:38,221 [INFO]   [OK] ENG|2024-2025 — 530 lignes upsertées
+2026-08-12 01:36:49,127 [INFO]   [OK] ENG|2025-2026 — 511 lignes upsertées
+2026-08-12 01:37:01,309 [INFO]   [OK] ESP|2023-2024 — 563 lignes upsertées
+2026-08-12 01:37:12,984 [INFO]   [OK] ESP|2024-2025 — 556 lignes upsertées
+2026-08-12 01:37:25,089 [INFO]   [OK] ESP|2025-2026 — 572 lignes upsertées
+2026-08-12 01:37:35,828 [INFO]   [OK] FRA|2023-2024 — 507 lignes upsertées
+2026-08-12 01:37:46,745 [INFO]   [OK] FRA|2024-2025 — 517 lignes upsertées
+2026-08-12 01:37:57,826 [INFO]   [OK] FRA|2025-2026 — 522 lignes upsertées
+2026-08-12 01:38:07,937 [INFO]   [OK] GER|2023-2024 — 474 lignes upsertées
+2026-08-12 01:38:17,660 [INFO]   [OK] GER|2024-2025 — 454 lignes upsertées
+2026-08-12 01:38:27,657 [INFO]   [OK] GER|2025-2026 — 477 lignes upsertées
+2026-08-12 01:38:39,479 [INFO]   [OK] ITA|2023-2024 — 565 lignes upsertées
+2026-08-12 01:38:51,635 [INFO]   [OK] ITA|2024-2025 — 585 lignes upsertées
+2026-08-12 01:39:03,763 [INFO]   [OK] ITA|2025-2026 — 563 lignes upsertées
+2026-08-12 01:39:03,764 [INFO]   Total players_fbref : 7936 lignes
+2026-08-12 01:39:03,765 [INFO] [2/7] Chargement Sofascore joueurs → silver.players_sofascore
+2026-08-12 01:39:14,960 [INFO]   [OK] 20260811_164433_ENG_20222023_sofascore_players.csv — 500 lignes
+2026-08-12 01:39:25,752 [INFO]   [OK] 20260811_164442_ENG_20232024_sofascore_players.csv — 500 lignes
+2026-08-12 01:39:36,746 [INFO]   [OK] 20260811_164450_ENG_20242025_sofascore_players.csv — 500 lignes
+2026-08-12 01:39:47,321 [INFO]   [OK] 20260811_164458_ENG_20252026_sofascore_players.csv — 500 lignes
+2026-08-12 01:39:57,869 [INFO]   [OK] 20260811_164507_ESP_20222023_sofascore_players.csv — 500 lignes
+2026-08-12 01:40:08,358 [INFO]   [OK] 20260811_164515_ESP_20232024_sofascore_players.csv — 500 lignes
+2026-08-12 01:40:18,817 [INFO]   [OK] 20260811_164523_ESP_20242025_sofascore_players.csv — 500 lignes
+2026-08-12 01:40:29,660 [INFO]   [OK] 20260811_164532_ESP_20252026_sofascore_players.csv — 500 lignes
+2026-08-12 01:40:40,108 [INFO]   [OK] 20260811_164540_GER_20222023_sofascore_players.csv — 500 lignes
+2026-08-12 01:40:50,571 [INFO]   [OK] 20260811_164548_GER_20232024_sofascore_players.csv — 494 lignes
+2026-08-12 01:41:00,671 [INFO]   [OK] 20260811_164556_GER_20242025_sofascore_players.csv — 481 lignes
+2026-08-12 01:41:11,023 [INFO]   [OK] 20260811_164605_GER_20252026_sofascore_players.csv — 499 lignes
+2026-08-12 01:41:23,321 [INFO]   [OK] 20260811_164613_ITA_20222023_sofascore_players.csv — 500 lignes
+2026-08-12 01:41:35,171 [INFO]   [OK] 20260811_164621_ITA_20232024_sofascore_players.csv — 500 lignes
+2026-08-12 01:41:47,648 [INFO]   [OK] 20260811_164630_ITA_20242025_sofascore_players.csv — 500 lignes
+2026-08-12 01:42:02,744 [INFO]   [OK] 20260811_164638_ITA_20252026_sofascore_players.csv — 500 lignes
+2026-08-12 01:42:16,386 [INFO]   [OK] 20260811_164646_FRA_20222023_sofascore_players.csv — 500 lignes
+2026-08-12 01:42:28,361 [INFO]   [OK] 20260811_164655_FRA_20232024_sofascore_players.csv — 500 lignes
+2026-08-12 01:42:40,229 [INFO]   [OK] 20260811_164703_FRA_20242025_sofascore_players.csv — 500 lignes
+2026-08-12 01:42:51,853 [INFO]   [OK] 20260811_164711_FRA_20252026_sofascore_players.csv — 500 lignes
+2026-08-12 01:43:03,858 [INFO]   [OK] 20260811_164720_POR_20222023_sofascore_players.csv — 500 lignes
+2026-08-12 01:43:15,575 [INFO]   [OK] 20260811_164728_POR_20232024_sofascore_players.csv — 500 lignes
+2026-08-12 01:43:27,065 [INFO]   [OK] 20260811_164736_POR_20242025_sofascore_players.csv — 500 lignes
+2026-08-12 01:43:38,566 [INFO]   [OK] 20260811_164745_POR_20252026_sofascore_players.csv — 500 lignes
+2026-08-12 01:43:50,243 [INFO]   [OK] 20260811_164753_NED_20222023_sofascore_players.csv — 500 lignes
+2026-08-12 01:44:01,817 [INFO]   [OK] 20260811_164801_NED_20232024_sofascore_players.csv — 500 lignes
+2026-08-12 01:44:13,531 [INFO]   [OK] 20260811_164810_NED_20242025_sofascore_players.csv — 500 lignes
+2026-08-12 01:44:25,141 [INFO]   [OK] 20260811_164818_NED_20252026_sofascore_players.csv — 500 lignes
+2026-08-12 01:44:36,804 [INFO]   [OK] 20260811_164826_BEL_20222023_sofascore_players.csv — 500 lignes
+2026-08-12 01:49:55,760 [WARNING]     Connexion DB perdue (tentative 1/4), nouvel essai dans 5s...
+2026-08-12 02:06:56,219 [WARNING]     Connexion DB perdue (tentative 2/4), nouvel essai dans 5s...
+2026-08-12 02:07:13,002 [INFO]   [OK] 20260811_164834_BEL_20232024_sofascore_players.csv — 500 lignes
+2026-08-12 02:07:24,031 [INFO]   [OK] 20260811_164843_BEL_20242025_sofascore_players.csv — 500 lignes
+2026-08-12 02:07:35,130 [INFO]   [OK] 20260811_164851_BEL_20252026_sofascore_players.csv — 500 lignes
+2026-08-12 02:07:46,069 [INFO]   [OK] 20260811_164859_TUR_20222023_sofascore_players.csv — 500 lignes
+2026-08-12 02:07:57,185 [INFO]   [OK] 20260811_164908_TUR_20232024_sofascore_players.csv — 500 lignes
+2026-08-12 02:08:07,970 [INFO]   [OK] 20260811_164916_TUR_20242025_sofascore_players.csv — 500 lignes
+2026-08-12 02:08:18,671 [INFO]   [OK] 20260811_164924_TUR_20252026_sofascore_players.csv — 500 lignes
+2026-08-12 02:08:26,162 [INFO]   [OK] 20260811_164932_AUT_20222023_sofascore_players.csv — 344 lignes
+2026-08-12 02:08:33,350 [INFO]   [OK] 20260811_164940_AUT_20232024_sofascore_players.csv — 330 lignes
+2026-08-12 02:08:41,166 [INFO]   [OK] 20260811_164947_AUT_20242025_sofascore_players.csv — 353 lignes
+2026-08-12 02:08:48,399 [INFO]   [OK] 20260811_164955_AUT_20252026_sofascore_players.csv — 339 lignes
+2026-08-12 02:08:48,400 [INFO]   Total players_sofascore : 19340 lignes
+2026-08-12 02:08:48,400 [INFO] [3/7] Construction silver.players_combined
+2026-08-12 02:16:05,578 [INFO]   [OK] players_combined — 19532 lignes upsertées
+2026-08-12 02:16:05,630 [INFO] [4/7] Chargement FBref gardiens → silver.keepers_fbref
+2026-08-12 02:16:06,809 [INFO]   [OK] ENG|2023-2024 — 40 gardiens fbref
+2026-08-12 02:16:07,791 [INFO]   [OK] ENG|2024-2025 — 44 gardiens fbref
+2026-08-12 02:16:08,706 [INFO]   [OK] ENG|2025-2026 — 40 gardiens fbref
+2026-08-12 02:16:09,758 [INFO]   [OK] ESP|2023-2024 — 46 gardiens fbref
+2026-08-12 02:16:10,775 [INFO]   [OK] ESP|2024-2025 — 45 gardiens fbref
+2026-08-12 02:16:11,659 [INFO]   [OK] ESP|2025-2026 — 39 gardiens fbref
+2026-08-12 02:16:12,447 [INFO]   [OK] FRA|2023-2024 — 33 gardiens fbref
+2026-08-12 02:16:13,288 [INFO]   [OK] FRA|2024-2025 — 36 gardiens fbref
+2026-08-12 02:16:14,179 [INFO]   [OK] FRA|2025-2026 — 39 gardiens fbref
+2026-08-12 02:16:14,948 [INFO]   [OK] GER|2023-2024 — 33 gardiens fbref
+2026-08-12 02:16:15,811 [INFO]   [OK] GER|2024-2025 — 38 gardiens fbref
+2026-08-12 02:16:16,491 [INFO]   [OK] GER|2025-2026 — 30 gardiens fbref
+2026-08-12 02:16:17,627 [INFO]   [OK] ITA|2023-2024 — 51 gardiens fbref
+2026-08-12 02:16:18,790 [INFO]   [OK] ITA|2024-2025 — 49 gardiens fbref
+2026-08-12 02:16:19,819 [INFO]   [OK] ITA|2025-2026 — 46 gardiens fbref
+2026-08-12 02:16:19,819 [INFO]   Total keepers_fbref : 609 lignes
+2026-08-12 02:16:19,819 [INFO] [5/7] Chargement Sofascore gardiens → silver.keepers_sofascore
+2026-08-12 02:16:20,763 [INFO]   [OK] 20260810_232943_ENG_20232024_sofascore_keepers.csv — 40 gardiens sofascore
+2026-08-12 02:16:21,746 [INFO]   [OK] 20260810_232952_ENG_20242025_sofascore_keepers.csv — 44 gardiens sofascore
+2026-08-12 02:16:22,640 [INFO]   [OK] 20260810_233000_ENG_20252026_sofascore_keepers.csv — 40 gardiens sofascore
+2026-08-12 02:16:23,676 [INFO]   [OK] 20260810_233008_ESP_20232024_sofascore_keepers.csv — 46 gardiens sofascore
+2026-08-12 02:16:24,707 [INFO]   [OK] 20260810_233017_ESP_20242025_sofascore_keepers.csv — 45 gardiens sofascore
+2026-08-12 02:16:25,591 [INFO]   [OK] 20260810_233025_ESP_20252026_sofascore_keepers.csv — 39 gardiens sofascore
+2026-08-12 02:16:26,351 [INFO]   [OK] 20260810_233033_GER_20232024_sofascore_keepers.csv — 33 gardiens sofascore
+2026-08-12 02:16:27,207 [INFO]   [OK] 20260810_233042_GER_20242025_sofascore_keepers.csv — 38 gardiens sofascore
+2026-08-12 02:16:27,919 [INFO]   [OK] 20260810_233050_GER_20252026_sofascore_keepers.csv — 30 gardiens sofascore
+2026-08-12 02:16:29,063 [INFO]   [OK] 20260810_233058_ITA_20232024_sofascore_keepers.csv — 51 gardiens sofascore
+2026-08-12 02:16:30,142 [INFO]   [OK] 20260810_233107_ITA_20242025_sofascore_keepers.csv — 48 gardiens sofascore
+2026-08-12 02:16:31,158 [INFO]   [OK] 20260810_233115_ITA_20252026_sofascore_keepers.csv — 46 gardiens sofascore
+2026-08-12 02:16:31,923 [INFO]   [OK] 20260810_233123_FRA_20232024_sofascore_keepers.csv — 33 gardiens sofascore
+2026-08-12 02:16:32,728 [INFO]   [OK] 20260810_233132_FRA_20242025_sofascore_keepers.csv — 35 gardiens sofascore
+2026-08-12 02:16:33,612 [INFO]   [OK] 20260810_233140_FRA_20252026_sofascore_keepers.csv — 39 gardiens sofascore
+2026-08-12 02:16:34,600 [INFO]   [OK] 20260810_233148_POR_20232024_sofascore_keepers.csv — 43 gardiens sofascore
+2026-08-12 02:16:35,600 [INFO]   [OK] 20260810_233157_POR_20242025_sofascore_keepers.csv — 45 gardiens sofascore
+2026-08-12 02:16:36,568 [INFO]   [OK] 20260810_233205_POR_20252026_sofascore_keepers.csv — 44 gardiens sofascore
+2026-08-12 02:16:37,427 [INFO]   [OK] 20260810_233213_NED_20232024_sofascore_keepers.csv — 38 gardiens sofascore
+2026-08-12 02:16:38,311 [INFO]   [OK] 20260810_233222_NED_20242025_sofascore_keepers.csv — 38 gardiens sofascore
+2026-08-12 02:16:39,221 [INFO]   [OK] 20260810_233230_NED_20252026_sofascore_keepers.csv — 41 gardiens sofascore
+2026-08-12 02:16:40,166 [INFO]   [OK] 20260810_233239_BEL_20232024_sofascore_keepers.csv — 42 gardiens sofascore
+2026-08-12 02:16:41,170 [INFO]   [OK] 20260810_233247_BEL_20242025_sofascore_keepers.csv — 45 gardiens sofascore
+2026-08-12 02:16:42,086 [INFO]   [OK] 20260810_233255_BEL_20252026_sofascore_keepers.csv — 41 gardiens sofascore
+2026-08-12 02:16:43,206 [INFO]   [OK] 20260810_233304_TUR_20232024_sofascore_keepers.csv — 51 gardiens sofascore
+2026-08-12 02:16:44,206 [INFO]   [OK] 20260810_233312_TUR_20242025_sofascore_keepers.csv — 45 gardiens sofascore
+2026-08-12 02:16:45,198 [INFO]   [OK] 20260810_233320_TUR_20252026_sofascore_keepers.csv — 45 gardiens sofascore
+2026-08-12 02:16:45,777 [INFO]   [OK] 20260810_233328_AUT_20232024_sofascore_keepers.csv — 25 gardiens sofascore
+2026-08-12 02:16:46,371 [INFO]   [OK] 20260810_233336_AUT_20242025_sofascore_keepers.csv — 25 gardiens sofascore
+2026-08-12 02:16:46,894 [INFO]   [OK] 20260810_233344_AUT_20252026_sofascore_keepers.csv — 22 gardiens sofascore
+2026-08-12 02:16:47,766 [INFO]   [OK] 20260811_164437_ENG_20222023_sofascore_keepers.csv — 39 gardiens sofascore
+2026-08-12 02:16:48,673 [INFO]   [OK] 20260811_164445_ENG_20232024_sofascore_keepers.csv — 40 gardiens sofascore
+2026-08-12 02:16:49,644 [INFO]   [OK] 20260811_164453_ENG_20242025_sofascore_keepers.csv — 44 gardiens sofascore
+2026-08-12 02:16:50,549 [INFO]   [OK] 20260811_164502_ENG_20252026_sofascore_keepers.csv — 40 gardiens sofascore
+2026-08-12 02:16:51,532 [INFO]   [OK] 20260811_164510_ESP_20222023_sofascore_keepers.csv — 44 gardiens sofascore
+2026-08-12 02:16:52,560 [INFO]   [OK] 20260811_164518_ESP_20232024_sofascore_keepers.csv — 46 gardiens sofascore
+2026-08-12 02:16:53,561 [INFO]   [OK] 20260811_164526_ESP_20242025_sofascore_keepers.csv — 45 gardiens sofascore
+2026-08-12 02:16:54,454 [INFO]   [OK] 20260811_164535_ESP_20252026_sofascore_keepers.csv — 39 gardiens sofascore
+2026-08-12 02:16:55,230 [INFO]   [OK] 20260811_164543_GER_20222023_sofascore_keepers.csv — 34 gardiens sofascore
+2026-08-12 02:16:55,980 [INFO]   [OK] 20260811_164551_GER_20232024_sofascore_keepers.csv — 33 gardiens sofascore
+2026-08-12 02:16:56,838 [INFO]   [OK] 20260811_164600_GER_20242025_sofascore_keepers.csv — 38 gardiens sofascore
+2026-08-12 02:16:57,529 [INFO]   [OK] 20260811_164608_GER_20252026_sofascore_keepers.csv — 30 gardiens sofascore
+2026-08-12 02:16:58,596 [INFO]   [OK] 20260811_164616_ITA_20222023_sofascore_keepers.csv — 48 gardiens sofascore
+2026-08-12 02:16:59,709 [INFO]   [OK] 20260811_164625_ITA_20232024_sofascore_keepers.csv — 51 gardiens sofascore
+2026-08-12 02:17:00,791 [INFO]   [OK] 20260811_164633_ITA_20242025_sofascore_keepers.csv — 48 gardiens sofascore
+2026-08-12 02:17:02,459 [INFO]   [OK] 20260811_164641_ITA_20252026_sofascore_keepers.csv — 46 gardiens sofascore
+2026-08-12 02:17:03,513 [INFO]   [OK] 20260811_164650_FRA_20222023_sofascore_keepers.csv — 42 gardiens sofascore
+2026-08-12 02:17:04,259 [INFO]   [OK] 20260811_164658_FRA_20232024_sofascore_keepers.csv — 33 gardiens sofascore
+2026-08-12 02:17:05,061 [INFO]   [OK] 20260811_164706_FRA_20242025_sofascore_keepers.csv — 35 gardiens sofascore
+2026-08-12 02:17:05,929 [INFO]   [OK] 20260811_164714_FRA_20252026_sofascore_keepers.csv — 39 gardiens sofascore
+2026-08-12 02:17:07,005 [INFO]   [OK] 20260811_164723_POR_20222023_sofascore_keepers.csv — 49 gardiens sofascore
+2026-08-12 02:17:07,969 [INFO]   [OK] 20260811_164731_POR_20232024_sofascore_keepers.csv — 43 gardiens sofascore
+2026-08-12 02:17:09,024 [INFO]   [OK] 20260811_164739_POR_20242025_sofascore_keepers.csv — 45 gardiens sofascore
+2026-08-12 02:17:10,001 [INFO]   [OK] 20260811_164748_POR_20252026_sofascore_keepers.csv — 44 gardiens sofascore
+2026-08-12 02:17:10,981 [INFO]   [OK] 20260811_164756_NED_20222023_sofascore_keepers.csv — 40 gardiens sofascore
+2026-08-12 02:17:11,825 [INFO]   [OK] 20260811_164804_NED_20232024_sofascore_keepers.csv — 38 gardiens sofascore
+2026-08-12 02:17:12,682 [INFO]   [OK] 20260811_164813_NED_20242025_sofascore_keepers.csv — 38 gardiens sofascore
+2026-08-12 02:17:13,613 [INFO]   [OK] 20260811_164821_NED_20252026_sofascore_keepers.csv — 41 gardiens sofascore
+2026-08-12 02:17:14,333 [INFO]   [OK] 20260811_164829_BEL_20222023_sofascore_keepers.csv — 31 gardiens sofascore
+2026-08-12 02:17:15,277 [INFO]   [OK] 20260811_164838_BEL_20232024_sofascore_keepers.csv — 42 gardiens sofascore
+2026-08-12 02:17:16,277 [INFO]   [OK] 20260811_164846_BEL_20242025_sofascore_keepers.csv — 45 gardiens sofascore
+2026-08-12 02:17:17,189 [INFO]   [OK] 20260811_164854_BEL_20252026_sofascore_keepers.csv — 41 gardiens sofascore
+2026-08-12 02:17:18,181 [INFO]   [OK] 20260811_164902_TUR_20222023_sofascore_keepers.csv — 46 gardiens sofascore
+2026-08-12 02:17:19,297 [INFO]   [OK] 20260811_164911_TUR_20232024_sofascore_keepers.csv — 51 gardiens sofascore
+2026-08-12 02:17:20,297 [INFO]   [OK] 20260811_164919_TUR_20242025_sofascore_keepers.csv — 45 gardiens sofascore
+2026-08-12 02:17:21,301 [INFO]   [OK] 20260811_164927_TUR_20252026_sofascore_keepers.csv — 45 gardiens sofascore
+2026-08-12 02:17:21,925 [INFO]   [OK] 20260811_164935_AUT_20222023_sofascore_keepers.csv — 27 gardiens sofascore
+2026-08-12 02:17:22,517 [INFO]   [OK] 20260811_164943_AUT_20232024_sofascore_keepers.csv — 25 gardiens sofascore
+2026-08-12 02:17:23,101 [INFO]   [OK] 20260811_164951_AUT_20242025_sofascore_keepers.csv — 25 gardiens sofascore
+2026-08-12 02:17:23,621 [INFO]   [OK] 20260811_164958_AUT_20252026_sofascore_keepers.csv — 22 gardiens sofascore
+2026-08-12 02:17:23,622 [INFO]   Total keepers_sofascore : 2794 lignes
+2026-08-12 02:17:23,622 [INFO] [6/7] Construction silver.keepers_combined
+2026-08-12 02:17:57,688 [INFO]   [OK] keepers_combined — 1600 lignes upsertées
+2026-08-12 02:17:57,690 [INFO] 
+2026-08-12 02:17:57,690 [INFO] =======================================================
+2026-08-12 02:17:57,690 [INFO]   VERIFICATION — Row counts Silver
+2026-08-12 02:17:57,690 [INFO] =======================================================
+2026-08-12 02:17:57,755 [INFO]   silver.ref_ligues                             10 lignes
+2026-08-12 02:17:57,775 [INFO]   silver.ref_saisons                             4 lignes
+2026-08-12 02:17:57,798 [INFO]   silver.ref_postes                             11 lignes
+2026-08-12 02:17:57,823 [INFO]   silver.ref_pays                               47 lignes
+2026-08-12 02:17:57,850 [INFO]   silver.ref_nationalites                       47 lignes
+2026-08-12 02:17:57,871 [INFO]   silver.players_info                        11393 lignes
+2026-08-12 02:17:57,896 [INFO]   silver.players_fbref                        7948 lignes
+2026-08-12 02:17:57,921 [INFO]   silver.players_sofascore                   19340 lignes
+2026-08-12 02:17:57,945 [INFO]   silver.players_combined                    19340 lignes
+2026-08-12 02:17:57,976 [INFO]   silver.keepers_fbref                         609 lignes
+2026-08-12 02:17:57,999 [INFO]   silver.keepers_sofascore                    1597 lignes
+2026-08-12 02:17:58,019 [INFO]   silver.keepers_combined                     1597 lignes
+2026-08-12 02:17:58,038 [INFO] =======================================================
+2026-08-12 02:17:58,038 [INFO] 
+2026-08-12 02:17:58,038 [INFO]   Silver Transformer termine avec succes.

@@ -1,0 +1,37 @@
+2026-08-12 11:07:44,591 [INFO] Log : C:\Users\serge\Documents\02_DEV_PROJETS\radar_pepites\logs\load_public_20260812_110744.log
+2026-08-12 11:07:44,635 [INFO] =================================================================
+2026-08-12 11:07:44,635 [INFO]   RadarPepites — Load Public (Gold)
+2026-08-12 11:07:44,635 [INFO]   2026-08-12 11:07:44
+2026-08-12 11:07:44,635 [INFO] =================================================================
+2026-08-12 11:07:44,635 [INFO] [1/7] silver.ref_ligues -> public.dim_ligues
+2026-08-12 11:07:45,427 [INFO]   [OK] 10 lignes
+2026-08-12 11:07:45,427 [INFO] [2/7] silver.ref_saisons -> public.dim_saisons
+2026-08-12 11:07:45,679 [INFO]   [OK] 4 lignes
+2026-08-12 11:07:45,680 [INFO] [3/7] silver.ref_nationalites + ref_pays -> public.dim_nationalites
+2026-08-12 11:07:46,835 [INFO]   [OK] 47 lignes
+2026-08-12 11:07:46,836 [INFO] [4/7] silver.ref_postes -> public.dim_postes
+2026-08-12 11:07:47,237 [INFO]   [OK] 11 lignes
+2026-08-12 11:07:47,238 [INFO] [5/7] silver.players_combined + keepers_combined -> public.dim_joueurs
+2026-08-12 11:11:22,069 [INFO]   [OK] 9758 lignes
+2026-08-12 11:11:22,074 [INFO] [6/7] players_combined + keepers_combined -> public.dim_equipes
+2026-08-12 11:11:27,669 [INFO]   [OK] 249 lignes
+2026-08-12 11:11:27,670 [INFO] [7/7] players_combined + keepers_combined -> public.fact_stats
+2026-08-12 11:11:28,937 [INFO]   23021 lignes à upserter (joueurs + gardiens)
+2026-08-12 11:19:38,044 [WARNING]     Connexion DB perdue (tentative 1/4), nouvel essai dans 5s...
+2026-08-12 11:19:43,046 [WARNING]     Connexion DB perdue (tentative 2/4), nouvel essai dans 5s...
+2026-08-12 11:35:54,518 [WARNING]     Connexion DB perdue (tentative 3/4), nouvel essai dans 5s...
+2026-08-12 11:43:55,179 [INFO]   [OK] 23021 lignes
+2026-08-12 11:43:55,179 [INFO] 
+2026-08-12 11:43:55,179 [INFO] =======================================================
+2026-08-12 11:43:55,179 [INFO]   VERIFICATION — Row counts public (Gold)
+2026-08-12 11:43:55,179 [INFO] =======================================================
+2026-08-12 11:43:55,419 [INFO]   dim_ligues                10 lignes
+2026-08-12 11:43:55,443 [INFO]   dim_saisons                4 lignes
+2026-08-12 11:43:55,470 [INFO]   dim_nationalites          47 lignes
+2026-08-12 11:43:55,492 [INFO]   dim_postes                11 lignes
+2026-08-12 11:43:55,523 [INFO]   dim_joueurs             9758 lignes
+2026-08-12 11:43:55,549 [INFO]   dim_equipes              249 lignes
+2026-08-12 11:43:55,573 [INFO]   fact_stats             21424 lignes
+2026-08-12 11:43:55,594 [INFO] =======================================================
+2026-08-12 11:43:55,595 [INFO] 
+2026-08-12 11:43:55,595 [INFO]   Load Public termine avec succes.

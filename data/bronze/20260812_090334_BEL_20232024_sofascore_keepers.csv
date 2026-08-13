@@ -1,0 +1,43 @@
+﻿tournament_id,season_id,player_name,player_id,team_name,team_id,saves,goalsPrevented,rating,minutesPlayed,appearances,accuratePasses,accurateLongBalls,accurateLongBallsPercentage,yellowCards,redCards,_league_id,_season,_source,_scraped_at
+38,52383,Warleson,861071,Cercle Brugge,2929,132,11.28,7.21,3600,40,456,385,37.89,1,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Gabriel Słonina,978787,KAS Eupen,2926,130,-1.89,7.08,2970,33,704,167,36.3,2,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Kasper Schmeichel,1076,RSC Anderlecht,2900,119,14.36,7.39,2745,31,858,254,50.2,1,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Maarten Vandevoordt,934385,KRC Genk,2890,116,3.6,7.12,3690,41,966,342,45.48,0,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Arnaud Bodart,878898,Standard Liège,2901,114,1.35,7.1,3060,34,646,177,33.02,0,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Theo Defourny,156736,RWDM Brussels,204219,114,5.0,7.09,2680,30,495,226,42.8,1,1,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Gaëtan Coucke,794989,KV Mechelen,5044,113,6.51,7.14,3240,36,822,268,44.3,2,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Zion Suzuki,905351,Sint-Truidense VV,2895,110,4.16,7.23,2880,32,1014,228,42.86,0,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Sinan Bolat,5920,KVC Westerlo,2893,109,-4.16,7.01,2790,31,733,199,39.41,5,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Hervé Koffi,867299,RC Sporting Charleroi,2898,108,5.27,7.18,2875,32,649,261,42.03,1,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Tobe Leysen,996979,Oud-Heverlee Leuven,2918,87,4.48,7.22,2070,23,433,151,35.03,0,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Tom Vandenberghe,1046454,KV Kortrijk,4858,86,-1.07,7.09,1890,21,326,134,34.18,0,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Anthony Moris,39457,Royale Union Saint-Gilloise,4860,79,0.94,6.89,3490,39,832,324,52.26,2,1,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Jean Butez,599114,Royal Antwerp FC,2889,76,2.0,7.1,2790,31,961,258,44.18,0,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Simon Mignolet,10406,Club Brugge KV,2888,71,-0.21,7.06,2800,32,843,249,53.78,1,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Davy Roef,156663,KAA Gent,2903,67,8.24,7.39,1978,22,381,136,48.75,0,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Lucas Pirard,190379,KV Kortrijk,4858,58,2.48,7.23,1560,17,230,149,38.4,2,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Maxence Prévot,785520,Oud-Heverlee Leuven,2918,42,-1.6,6.95,1260,14,293,86,40.0,0,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Senne Lammens,964753,Royal Antwerp FC,2889,33,-3.21,6.98,810,9,227,53,31.18,0,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Nordin Jackers,361722,Club Brugge KV,2888,31,4.31,7.46,800,9,245,93,49.73,0,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Daniel Schmidt,997499,KAA Gent,2903,31,-3.03,6.9,1170,13,270,99,50.77,0,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Paul Nardi,155717,KAA Gent,2903,30,-0.12,7.03,902,11,176,64,47.41,0,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Nick Gillekens,794577,KVC Westerlo,2893,27,-5.19,6.91,630,7,184,61,48.8,1,1,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Guillaume Hubert,149794,RWDM Brussels,204219,18,-0.32,7.09,556,7,123,34,40.0,0,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Maxime Dupé,96542,RSC Anderlecht,2900,17,0.01,7.03,630,7,198,32,40.51,0,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Matthieu Epolo,1121943,Standard Liège,2901,17,-1.12,6.88,360,4,112,28,34.57,0,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Jari De Busser,837072,Lommel SK,5046,16,,7.05,495,6,86,27,33.75,0,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Nacho Miras,1010556,KMSK Deinze,2920,15,,7.38,360,4,76,22,34.38,0,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Pierre Patron,942837,RC Sporting Charleroi,2898,12,-0.66,6.83,360,4,60,28,45.16,0,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Ortwin De Wolf,877292,SV Zulte Waregem,2933,10,,7.35,180,2,40,16,41.03,0,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Yannick Thoelen,794571,KV Mechelen,5044,9,-1.83,6.85,360,4,102,32,51.61,0,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Abdul Manaf Nurudeen,886219,KAS Eupen,2926,9,0.51,6.73,270,3,78,24,32.88,2,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Nikola Ivezić,1005578,Lommel SK,5046,8,,7.1,75,1,10,3,20.0,0,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Colin Coosemans,122399,RSC Anderlecht,2900,7,-1.99,6.87,225,3,69,23,44.23,0,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Valentin Cojocaru,182363,Oud-Heverlee Leuven,2918,7,0.23,6.83,270,3,73,16,72.73,0,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Jo Coppens,45854,Sint-Truidense VV,2895,6,-2.36,6.5,360,4,143,16,32.65,0,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Justin Heekeren,932070,Patro Eisden Maasmechelen,35076,3,,6.15,180,2,37,22,42.31,1,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Laurent Henkinet,127405,Standard Liège,2901,3,-1.01,6.1,90,1,20,2,28.57,0,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Koen Van Langendonck,247481,KVC Westerlo,2893,2,1.06,7.0,90,1,21,6,66.67,0,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Joachim Imbrechts,943256,Royale Union Saint-Gilloise,4860,1,0.19,6.8,20,1,0,0,0.0,0,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Heinz Lindner,37432,Royale Union Saint-Gilloise,4860,0,-0.02,6.6,90,1,21,5,62.5,0,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34
+38,52383,Martin Delavallée,1141106,RC Sporting Charleroi,2898,0,,6.6,10,2,3,3,75.0,0,0,BEL,2023-2024,datafc_sofascore,2026-08-12 07:03:34

@@ -1,0 +1,33 @@
+2026-08-12 12:06:10,120 [INFO] Log : C:\Users\serge\Documents\02_DEV_PROJETS\radar_pepites\logs\load_gold_tables_20260812_120610.log
+2026-08-12 12:06:10,194 [INFO] =================================================================
+2026-08-12 12:06:10,194 [INFO]   RadarPepites — Load Gold Tables
+2026-08-12 12:06:10,194 [INFO]   2026-08-12 12:06:10
+2026-08-12 12:06:10,194 [INFO] =================================================================
+2026-08-12 12:06:10,195 [INFO] [1/7] silver.ref_ligues -> gold.dim_ligues
+2026-08-12 12:06:10,615 [INFO]   [OK]
+2026-08-12 12:06:10,615 [INFO] [2/7] silver.ref_saisons -> gold.dim_saisons
+2026-08-12 12:06:10,697 [INFO]   [OK]
+2026-08-12 12:06:10,707 [INFO] [3/7] silver.ref_postes -> gold.dim_postes
+2026-08-12 12:06:10,789 [INFO]   [OK]
+2026-08-12 12:06:10,789 [INFO] [4/7] silver.ref_nationalites + ref_pays -> gold.dim_nationalites
+2026-08-12 12:06:10,874 [INFO]   [OK]
+2026-08-12 12:06:10,874 [INFO] [5/7] players_combined + keepers_combined -> gold.dim_joueurs
+2026-08-12 12:06:11,057 [INFO]   [OK]
+2026-08-12 12:06:11,057 [INFO] [6/7] silver.players_combined -> gold.fact_joueurs (avec percentiles)
+2026-08-12 12:06:11,924 [INFO]   [OK]
+2026-08-12 12:06:11,924 [INFO] [7/7] silver.keepers_combined -> gold.fact_gardiens (avec percentiles)
+2026-08-12 12:06:12,046 [INFO]   [OK]
+2026-08-12 12:06:12,046 [INFO] 
+2026-08-12 12:06:12,046 [INFO] =======================================================
+2026-08-12 12:06:12,047 [INFO]   VERIFICATION — Row counts gold.* (tables physiques)
+2026-08-12 12:06:12,047 [INFO] =======================================================
+2026-08-12 12:06:12,113 [INFO]   gold.dim_ligues              10 lignes
+2026-08-12 12:06:12,137 [INFO]   gold.dim_saisons              4 lignes
+2026-08-12 12:06:12,158 [INFO]   gold.dim_postes              11 lignes
+2026-08-12 12:06:12,182 [INFO]   gold.dim_nationalites        47 lignes
+2026-08-12 12:06:12,202 [INFO]   gold.dim_joueurs           9758 lignes
+2026-08-12 12:06:12,235 [INFO]   gold.fact_joueurs         21424 lignes
+2026-08-12 12:06:12,259 [INFO]   gold.fact_gardiens         1597 lignes
+2026-08-12 12:06:12,283 [INFO] =======================================================
+2026-08-12 12:06:12,283 [INFO] 
+2026-08-12 12:06:12,283 [INFO]   Load Gold Tables termine avec succes.

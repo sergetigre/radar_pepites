@@ -1,0 +1,344 @@
+2026-08-11 17:56:54,588 [INFO] Log : C:\Users\serge\Documents\02_DEV_PROJETS\radar_pepites\logs\players_info_all_20260811_175654.log
+2026-08-11 17:56:54,589 [INFO] =================================================================
+2026-08-11 17:56:54,589 [INFO]   datafc — Infos bio joueurs (standings → squad → player)
+2026-08-11 17:56:54,589 [INFO]   Ligues  : ['ENG', 'ESP', 'GER', 'ITA', 'FRA', 'POR', 'NED', 'BEL', 'TUR', 'AUT']
+2026-08-11 17:56:54,589 [INFO]   Saisons : ['2022-2023', '2023-2024', '2024-2025', '2025-2026']
+2026-08-11 17:56:54,589 [INFO]   Total   : 40 combinaisons ligue x saison
+2026-08-11 17:56:54,591 [INFO] =================================================================
+2026-08-11 17:56:54,591 [INFO] [ 1/40] Premier League (ENG) | 2022-2023
+2026-08-11 17:56:54,591 [INFO]   [1/3] Standings (tournament=17, season=41886)
+2026-08-11 17:56:55,614 [INFO]     60 lignes standings
+2026-08-11 17:56:57,615 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 17:57:07,158 [INFO]     668 joueurs en squad
+2026-08-11 17:57:09,159 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 18:02:42,992 [INFO]     [OK] 20260811_180242_ENG_20222023_players_info.csv — 668 joueurs
+2026-08-11 18:02:44,993 [INFO] [ 2/40] Premier League (ENG) | 2023-2024
+2026-08-11 18:02:44,994 [INFO]   [1/3] Standings (tournament=17, season=52186)
+2026-08-11 18:02:46,014 [INFO]     60 lignes standings
+2026-08-11 18:02:48,015 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 18:02:57,553 [INFO]     662 joueurs en squad
+2026-08-11 18:02:59,554 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 18:14:53,505 [INFO]     [OK] 20260811_181453_ENG_20232024_players_info.csv — 662 joueurs
+2026-08-11 18:14:55,510 [INFO] [ 3/40] Premier League (ENG) | 2024-2025
+2026-08-11 18:14:55,510 [INFO]   [1/3] Standings (tournament=17, season=61627)
+2026-08-11 18:14:56,542 [INFO]     60 lignes standings
+2026-08-11 18:14:58,544 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 18:15:08,215 [INFO]     667 joueurs en squad
+2026-08-11 18:15:10,216 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 18:20:43,908 [INFO]     [OK] 20260811_182043_ENG_20242025_players_info.csv — 667 joueurs
+2026-08-11 18:20:45,912 [INFO] [ 4/40] Premier League (ENG) | 2025-2026
+2026-08-11 18:20:45,912 [INFO]   [1/3] Standings (tournament=17, season=76986)
+2026-08-11 18:20:46,942 [INFO]     60 lignes standings
+2026-08-11 18:20:48,943 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 18:20:58,523 [INFO]     673 joueurs en squad
+2026-08-11 18:21:00,524 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 18:35:53,926 [WARNING] Request failed (attempt 1/3): Failed to perform, curl: (6) Could not resolve host: api.sofascore.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-11 18:35:55,927 [WARNING] Request failed (attempt 2/3): Failed to perform, curl: (6) Could not resolve host: api.sofascore.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-11 18:35:59,930 [WARNING] Request failed (attempt 3/3): Failed to perform, curl: (6) Could not resolve host: api.sofascore.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-11 18:36:07,931 [WARNING] Failed to fetch profile for player_id=1514747 (Gustavo Nunes): HTTP 0 for URL: https://api.sofascore.com/api/v1/player/1514747 — All 3 attempts failed
+2026-08-11 18:36:07,933 [WARNING] Request failed (attempt 1/3): Failed to perform, curl: (6) Could not resolve host: api.sofascore.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-11 18:36:09,934 [WARNING] Request failed (attempt 2/3): Failed to perform, curl: (6) Could not resolve host: api.sofascore.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-11 18:36:13,935 [WARNING] Request failed (attempt 3/3): Failed to perform, curl: (6) Could not resolve host: api.sofascore.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-11 18:36:21,936 [WARNING] Failed to fetch profile for player_id=1403098 (Kaye Furo): HTTP 0 for URL: https://api.sofascore.com/api/v1/player/1403098 — All 3 attempts failed
+2026-08-11 18:36:21,937 [WARNING] Request failed (attempt 1/3): Failed to perform, curl: (6) Could not resolve host: api.sofascore.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-11 18:39:37,616 [WARNING] Could not retrieve profile for 2 player(s): [1514747, 1403098]
+2026-08-11 18:39:37,629 [INFO]     [OK] 20260811_183937_ENG_20252026_players_info.csv — 671 joueurs
+2026-08-11 18:39:39,630 [INFO] [ 5/40] La Liga (ESP) | 2022-2023
+2026-08-11 18:39:39,630 [INFO]   [1/3] Standings (tournament=8, season=42409)
+2026-08-11 18:39:40,658 [INFO]     60 lignes standings
+2026-08-11 18:39:42,659 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 18:39:52,202 [INFO]     609 joueurs en squad
+2026-08-11 18:39:54,203 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 18:44:58,488 [INFO]     [OK] 20260811_184458_ESP_20222023_players_info.csv — 609 joueurs
+2026-08-11 18:45:00,490 [INFO] [ 6/40] La Liga (ESP) | 2023-2024
+2026-08-11 18:45:00,490 [INFO]   [1/3] Standings (tournament=8, season=52376)
+2026-08-11 18:45:01,512 [INFO]     60 lignes standings
+2026-08-11 18:45:03,513 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 18:45:13,045 [INFO]     617 joueurs en squad
+2026-08-11 18:45:15,046 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 18:48:21,827 [WARNING] Request failed (attempt 1/3): Failed to perform, curl: (6) Could not resolve host: api.sofascore.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-11 18:48:23,828 [WARNING] Request failed (attempt 2/3): Failed to perform, curl: (6) Could not resolve host: api.sofascore.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-11 18:48:27,829 [WARNING] Request failed (attempt 3/3): Failed to perform, curl: (6) Could not resolve host: api.sofascore.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-11 18:48:35,830 [WARNING] Failed to fetch profile for player_id=1602590 (Alex Marchal): HTTP 0 for URL: https://api.sofascore.com/api/v1/player/1602590 — All 3 attempts failed
+2026-08-11 18:48:35,831 [WARNING] Request failed (attempt 1/3): Failed to perform, curl: (6) Could not resolve host: api.sofascore.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-11 18:48:37,832 [WARNING] Request failed (attempt 2/3): Failed to perform, curl: (6) Could not resolve host: api.sofascore.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-11 18:48:41,834 [WARNING] Request failed (attempt 3/3): Failed to perform, curl: (6) Could not resolve host: api.sofascore.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-11 18:48:49,834 [WARNING] Failed to fetch profile for player_id=1545061 (Ibai Aguirre): HTTP 0 for URL: https://api.sofascore.com/api/v1/player/1545061 — All 3 attempts failed
+2026-08-11 18:48:49,836 [WARNING] Request failed (attempt 1/3): Failed to perform, curl: (6) Could not resolve host: api.sofascore.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-11 18:52:25,047 [WARNING] Could not retrieve profile for 2 player(s): [1602590, 1545061]
+2026-08-11 18:52:25,064 [INFO]     [OK] 20260811_185225_ESP_20232024_players_info.csv — 615 joueurs
+2026-08-11 18:52:27,064 [INFO] [ 7/40] La Liga (ESP) | 2024-2025
+2026-08-11 18:52:27,064 [INFO]   [1/3] Standings (tournament=8, season=61643)
+2026-08-11 18:52:28,090 [INFO]     60 lignes standings
+2026-08-11 18:52:30,090 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 18:52:39,636 [INFO]     614 joueurs en squad
+2026-08-11 18:52:41,637 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 18:57:48,421 [INFO]     [OK] 20260811_185748_ESP_20242025_players_info.csv — 614 joueurs
+2026-08-11 18:57:50,422 [INFO] [ 8/40] La Liga (ESP) | 2025-2026
+2026-08-11 18:57:50,423 [INFO]   [1/3] Standings (tournament=8, season=77559)
+2026-08-11 18:57:51,443 [INFO]     60 lignes standings
+2026-08-11 18:57:53,443 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 18:58:02,982 [INFO]     593 joueurs en squad
+2026-08-11 18:58:04,982 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 19:07:30,156 [WARNING] Request failed (attempt 1/3): Failed to perform, curl: (28) Operation timed out after 504534 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-11 19:11:28,934 [INFO]     [OK] 20260811_191128_ESP_20252026_players_info.csv — 593 joueurs
+2026-08-11 19:11:30,934 [INFO] [ 9/40] Bundesliga (GER) | 2022-2023
+2026-08-11 19:11:30,935 [INFO]   [1/3] Standings (tournament=35, season=42268)
+2026-08-11 19:11:31,955 [INFO]     54 lignes standings
+2026-08-11 19:11:33,955 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 19:11:42,499 [INFO]     586 joueurs en squad
+2026-08-11 19:11:44,500 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 19:16:37,271 [INFO]     [OK] 20260811_191637_GER_20222023_players_info.csv — 586 joueurs
+2026-08-11 19:16:39,272 [INFO] [10/40] Bundesliga (GER) | 2023-2024
+2026-08-11 19:16:39,273 [INFO]   [1/3] Standings (tournament=35, season=52608)
+2026-08-11 19:16:40,304 [INFO]     54 lignes standings
+2026-08-11 19:16:42,305 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 19:16:50,844 [INFO]     586 joueurs en squad
+2026-08-11 19:16:52,845 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 19:55:34,188 [INFO]     [OK] 20260811_195534_GER_20232024_players_info.csv — 586 joueurs
+2026-08-11 19:55:36,190 [INFO] [11/40] Bundesliga (GER) | 2024-2025
+2026-08-11 19:55:36,190 [INFO]   [1/3] Standings (tournament=35, season=63516)
+2026-08-11 19:55:37,215 [INFO]     54 lignes standings
+2026-08-11 19:55:39,215 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 19:55:47,768 [INFO]     586 joueurs en squad
+2026-08-11 19:55:49,769 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 20:00:42,557 [INFO]     [OK] 20260811_200042_GER_20242025_players_info.csv — 586 joueurs
+2026-08-11 20:00:44,558 [INFO] [12/40] Bundesliga (GER) | 2025-2026
+2026-08-11 20:00:44,558 [INFO]   [1/3] Standings (tournament=35, season=77333)
+2026-08-11 20:00:45,581 [INFO]     54 lignes standings
+2026-08-11 20:00:47,581 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 20:00:56,121 [INFO]     590 joueurs en squad
+2026-08-11 20:00:58,122 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 20:05:52,928 [INFO]     [OK] 20260811_200552_GER_20252026_players_info.csv — 590 joueurs
+2026-08-11 20:05:54,930 [INFO] [13/40] Serie A (ITA) | 2022-2023
+2026-08-11 20:05:54,930 [INFO]   [1/3] Standings (tournament=23, season=42415)
+2026-08-11 20:05:55,961 [INFO]     60 lignes standings
+2026-08-11 20:05:57,962 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 20:06:07,530 [INFO]     681 joueurs en squad
+2026-08-11 20:06:09,531 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 20:11:49,929 [INFO]     [OK] 20260811_201149_ITA_20222023_players_info.csv — 681 joueurs
+2026-08-11 20:11:51,932 [INFO] [14/40] Serie A (ITA) | 2023-2024
+2026-08-11 20:11:51,932 [INFO]   [1/3] Standings (tournament=23, season=52760)
+2026-08-11 20:11:52,957 [INFO]     60 lignes standings
+2026-08-11 20:11:54,958 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 20:12:04,503 [INFO]     683 joueurs en squad
+2026-08-11 20:12:06,504 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 20:17:47,859 [INFO]     [OK] 20260811_201747_ITA_20232024_players_info.csv — 683 joueurs
+2026-08-11 20:17:49,860 [INFO] [15/40] Serie A (ITA) | 2024-2025
+2026-08-11 20:17:49,860 [INFO]   [1/3] Standings (tournament=23, season=63515)
+2026-08-11 20:17:50,883 [INFO]     60 lignes standings
+2026-08-11 20:17:52,883 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 20:18:02,421 [INFO]     699 joueurs en squad
+2026-08-11 20:18:04,421 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 20:23:53,758 [INFO]     [OK] 20260811_202353_ITA_20242025_players_info.csv — 699 joueurs
+2026-08-11 20:23:55,760 [INFO] [16/40] Serie A (ITA) | 2025-2026
+2026-08-11 20:23:55,760 [INFO]   [1/3] Standings (tournament=23, season=76457)
+2026-08-11 20:23:56,785 [INFO]     60 lignes standings
+2026-08-11 20:23:58,785 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 20:24:08,333 [INFO]     711 joueurs en squad
+2026-08-11 20:24:10,334 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 20:30:05,826 [INFO]     [OK] 20260811_203005_ITA_20252026_players_info.csv — 711 joueurs
+2026-08-11 20:30:07,827 [INFO] [17/40] Ligue 1 (FRA) | 2022-2023
+2026-08-11 20:30:07,828 [INFO]   [1/3] Standings (tournament=34, season=42273)
+2026-08-11 20:30:08,850 [INFO]     60 lignes standings
+2026-08-11 20:30:10,851 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 20:30:19,383 [WARNING] Failed to fetch squad data for team_id=1660 (Ajaccio): HTTP 404 for URL: https://api.sofascore.com/api/v1/team/1660/players
+2026-08-11 20:30:20,387 [WARNING] Could not retrieve squad for 1 team(s): [1660]
+2026-08-11 20:30:20,391 [INFO]     554 joueurs en squad
+2026-08-11 20:30:22,392 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 20:34:58,680 [INFO]     [OK] 20260811_203458_FRA_20222023_players_info.csv — 553 joueurs
+2026-08-11 20:35:00,681 [INFO] [18/40] Ligue 1 (FRA) | 2023-2024
+2026-08-11 20:35:00,681 [INFO]   [1/3] Standings (tournament=34, season=52571)
+2026-08-11 20:35:01,703 [INFO]     54 lignes standings
+2026-08-11 20:35:03,704 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 20:35:12,245 [INFO]     528 joueurs en squad
+2026-08-11 20:35:14,246 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 20:39:37,506 [INFO]     [OK] 20260811_203937_FRA_20232024_players_info.csv — 527 joueurs
+2026-08-11 20:39:39,507 [INFO] [19/40] Ligue 1 (FRA) | 2024-2025
+2026-08-11 20:39:39,507 [INFO]   [1/3] Standings (tournament=34, season=61736)
+2026-08-11 20:39:40,533 [INFO]     54 lignes standings
+2026-08-11 20:39:42,534 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 20:39:51,070 [INFO]     549 joueurs en squad
+2026-08-11 20:39:53,071 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 20:46:39,265 [WARNING] Request failed (attempt 1/3): Failed to perform, curl: (6) Could not resolve host: api.sofascore.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-11 20:46:41,271 [WARNING] Request failed (attempt 2/3): Failed to perform, curl: (6) Could not resolve host: api.sofascore.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-11 20:46:45,272 [WARNING] Request failed (attempt 3/3): Failed to perform, curl: (6) Could not resolve host: api.sofascore.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-11 20:46:53,273 [WARNING] Failed to fetch profile for player_id=982317 (Lamine Diack): HTTP 0 for URL: https://api.sofascore.com/api/v1/player/982317 — All 3 attempts failed
+2026-08-11 20:46:53,274 [WARNING] Request failed (attempt 1/3): Failed to perform, curl: (6) Could not resolve host: api.sofascore.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-11 20:46:55,276 [WARNING] Request failed (attempt 2/3): Failed to perform, curl: (6) Could not resolve host: api.sofascore.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-11 20:46:59,277 [WARNING] Request failed (attempt 3/3): Failed to perform, curl: (6) Could not resolve host: api.sofascore.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-11 20:47:07,278 [WARNING] Failed to fetch profile for player_id=802034 (Fabien Centonze): HTTP 0 for URL: https://api.sofascore.com/api/v1/player/802034 — All 3 attempts failed
+2026-08-11 20:47:07,279 [WARNING] Request failed (attempt 1/3): Failed to perform, curl: (6) Could not resolve host: api.sofascore.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-11 20:48:30,872 [WARNING] Could not retrieve profile for 2 player(s): [982317, 802034]
+2026-08-11 20:48:30,896 [INFO]     [OK] 20260811_204830_FRA_20242025_players_info.csv — 546 joueurs
+2026-08-11 20:48:32,896 [INFO] [20/40] Ligue 1 (FRA) | 2025-2026
+2026-08-11 20:48:32,896 [INFO]   [1/3] Standings (tournament=34, season=77356)
+2026-08-11 20:48:33,918 [INFO]     54 lignes standings
+2026-08-11 20:48:35,918 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 20:48:44,459 [INFO]     538 joueurs en squad
+2026-08-11 20:48:46,460 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 20:53:15,228 [INFO]     [OK] 20260811_205315_FRA_20252026_players_info.csv — 538 joueurs
+2026-08-11 20:53:17,229 [INFO] [21/40] Primeira Liga (POR) | 2022-2023
+2026-08-11 20:53:17,230 [INFO]   [1/3] Standings (tournament=238, season=42655)
+2026-08-11 20:53:18,260 [INFO]     18 lignes standings
+2026-08-11 20:53:20,261 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 20:53:24,288 [WARNING] Failed to fetch squad data for team_id=2995 (Boavista): HTTP 404 for URL: https://api.sofascore.com/api/v1/team/2995/players
+2026-08-11 20:53:28,806 [WARNING] Could not retrieve squad for 1 team(s): [2995]
+2026-08-11 20:53:28,812 [INFO]     520 joueurs en squad
+2026-08-11 20:53:30,813 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 20:57:49,818 [INFO]     [OK] 20260811_205749_POR_20222023_players_info.csv — 518 joueurs
+2026-08-11 20:57:51,819 [INFO] [22/40] Primeira Liga (POR) | 2023-2024
+2026-08-11 20:57:51,819 [INFO]   [1/3] Standings (tournament=238, season=52769)
+2026-08-11 20:57:52,844 [INFO]     54 lignes standings
+2026-08-11 20:57:54,845 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 20:58:01,868 [WARNING] Failed to fetch squad data for team_id=2995 (Boavista): HTTP 404 for URL: https://api.sofascore.com/api/v1/team/2995/players
+2026-08-11 20:58:03,380 [WARNING] Could not retrieve squad for 1 team(s): [2995]
+2026-08-11 20:58:03,386 [INFO]     511 joueurs en squad
+2026-08-11 20:58:05,387 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 21:02:20,313 [INFO]     [OK] 20260811_210220_POR_20232024_players_info.csv — 510 joueurs
+2026-08-11 21:02:22,315 [INFO] [23/40] Primeira Liga (POR) | 2024-2025
+2026-08-11 21:02:22,316 [INFO]   [1/3] Standings (tournament=238, season=63670)
+2026-08-11 21:02:23,345 [INFO]     54 lignes standings
+2026-08-11 21:02:25,347 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 21:02:33,893 [WARNING] Failed to fetch squad data for team_id=2995 (Boavista): HTTP 404 for URL: https://api.sofascore.com/api/v1/team/2995/players
+2026-08-11 21:02:33,895 [WARNING] Could not retrieve squad for 1 team(s): [2995]
+2026-08-11 21:02:33,905 [INFO]     512 joueurs en squad
+2026-08-11 21:02:35,907 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 21:06:51,901 [INFO]     [OK] 20260811_210651_POR_20242025_players_info.csv — 512 joueurs
+2026-08-11 21:06:53,902 [INFO] [24/40] Primeira Liga (POR) | 2025-2026
+2026-08-11 21:06:53,903 [INFO]   [1/3] Standings (tournament=238, season=77806)
+2026-08-11 21:06:54,934 [INFO]     54 lignes standings
+2026-08-11 21:06:56,937 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 21:07:05,509 [INFO]     538 joueurs en squad
+2026-08-11 21:07:07,510 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 21:11:36,544 [INFO]     [OK] 20260811_211136_POR_20252026_players_info.csv — 538 joueurs
+2026-08-11 21:11:38,547 [INFO] [25/40] Eredivisie (NED) | 2022-2023
+2026-08-11 21:11:38,547 [INFO]   [1/3] Standings (tournament=37, season=42256)
+2026-08-11 21:11:39,580 [INFO]     54 lignes standings
+2026-08-11 21:11:41,581 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 21:11:50,158 [INFO]     498 joueurs en squad
+2026-08-11 21:11:52,160 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 21:16:01,110 [INFO]     [OK] 20260811_211601_NED_20222023_players_info.csv — 498 joueurs
+2026-08-11 21:16:03,113 [INFO] [26/40] Eredivisie (NED) | 2023-2024
+2026-08-11 21:16:03,113 [INFO]   [1/3] Standings (tournament=37, season=52554)
+2026-08-11 21:16:04,156 [INFO]     54 lignes standings
+2026-08-11 21:16:06,157 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 21:16:14,723 [INFO]     503 joueurs en squad
+2026-08-11 21:16:16,725 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 21:20:28,207 [INFO]     [OK] 20260811_212028_NED_20232024_players_info.csv — 503 joueurs
+2026-08-11 21:20:30,210 [INFO] [27/40] Eredivisie (NED) | 2024-2025
+2026-08-11 21:20:30,211 [INFO]   [1/3] Standings (tournament=37, season=61666)
+2026-08-11 21:20:31,243 [INFO]     54 lignes standings
+2026-08-11 21:20:33,245 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 21:20:41,813 [INFO]     500 joueurs en squad
+2026-08-11 21:20:43,815 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 21:24:53,807 [INFO]     [OK] 20260811_212453_NED_20242025_players_info.csv — 500 joueurs
+2026-08-11 21:24:55,810 [INFO] [28/40] Eredivisie (NED) | 2025-2026
+2026-08-11 21:24:55,810 [INFO]   [1/3] Standings (tournament=37, season=77012)
+2026-08-11 21:24:56,837 [INFO]     54 lignes standings
+2026-08-11 21:24:58,838 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 21:25:07,411 [INFO]     500 joueurs en squad
+2026-08-11 21:25:09,412 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 21:29:19,262 [INFO]     [OK] 20260811_212919_NED_20252026_players_info.csv — 500 joueurs
+2026-08-11 21:29:21,264 [INFO] [29/40] Pro League (BEL) | 2022-2023
+2026-08-11 21:29:21,264 [INFO]   [1/3] Standings (tournament=38, season=42404)
+2026-08-11 21:29:22,289 [INFO]     78 lignes standings
+2026-08-11 21:29:24,290 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 21:29:33,821 [WARNING] Failed to fetch squad data for team_id=4494 (KV Oostende): HTTP 404 for URL: https://api.sofascore.com/api/v1/team/4494/players
+2026-08-11 21:29:36,825 [WARNING] Could not retrieve squad for 1 team(s): [4494]
+2026-08-11 21:29:36,830 [INFO]     741 joueurs en squad
+2026-08-11 21:29:38,831 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 21:33:47,645 [INFO]     [OK] 20260811_213347_BEL_20222023_players_info.csv — 498 joueurs
+2026-08-11 21:33:49,646 [INFO] [30/40] Pro League (BEL) | 2023-2024
+2026-08-11 21:33:49,646 [INFO]   [1/3] Standings (tournament=38, season=52383)
+2026-08-11 21:33:50,670 [INFO]     96 lignes standings
+2026-08-11 21:33:52,671 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 21:34:08,216 [INFO]     908 joueurs en squad
+2026-08-11 21:34:10,217 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 21:37:56,932 [INFO]     [OK] 20260811_213756_BEL_20232024_players_info.csv — 454 joueurs
+2026-08-11 21:37:58,933 [INFO] [31/40] Pro League (BEL) | 2024-2025
+2026-08-11 21:37:58,934 [INFO]   [1/3] Standings (tournament=38, season=61459)
+2026-08-11 21:37:59,979 [INFO]     96 lignes standings
+2026-08-11 21:38:01,979 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 21:38:17,527 [INFO]     926 joueurs en squad
+2026-08-11 21:38:19,528 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 21:42:10,838 [INFO]     [OK] 20260811_214210_BEL_20242025_players_info.csv — 463 joueurs
+2026-08-11 21:42:12,839 [INFO] [32/40] Pro League (BEL) | 2025-2026
+2026-08-11 21:42:12,839 [INFO]   [1/3] Standings (tournament=38, season=77040)
+2026-08-11 21:42:13,862 [INFO]     96 lignes standings
+2026-08-11 21:42:15,862 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 21:42:31,413 [INFO]     926 joueurs en squad
+2026-08-11 21:42:33,414 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 21:48:19,521 [WARNING] Request failed (attempt 1/3): Failed to perform, curl: (6) Could not resolve host: api.sofascore.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-11 21:48:21,523 [WARNING] Request failed (attempt 2/3): Failed to perform, curl: (6) Could not resolve host: api.sofascore.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-11 21:51:58,105 [WARNING] Request failed (attempt 3/3): Failed to perform, curl: (6) Could not resolve host: api.sofascore.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-11 21:52:06,106 [WARNING] Failed to fetch profile for player_id=867299 (Hervé Koffi): HTTP 0 for URL: https://api.sofascore.com/api/v1/player/867299 — All 3 attempts failed
+2026-08-11 21:52:06,107 [WARNING] Request failed (attempt 1/3): Failed to perform, curl: (6) Could not resolve host: api.sofascore.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-11 21:52:08,109 [WARNING] Request failed (attempt 2/3): Failed to perform, curl: (6) Could not resolve host: api.sofascore.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-11 21:52:12,110 [WARNING] Request failed (attempt 3/3): Failed to perform, curl: (6) Could not resolve host: api.sofascore.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-11 21:52:20,111 [WARNING] Failed to fetch profile for player_id=1108599 (Vic Chambaere): HTTP 0 for URL: https://api.sofascore.com/api/v1/player/1108599 — All 3 attempts failed
+2026-08-11 21:52:20,112 [WARNING] Request failed (attempt 1/3): Failed to perform, curl: (6) Could not resolve host: api.sofascore.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-11 21:52:22,113 [WARNING] Request failed (attempt 2/3): Failed to perform, curl: (6) Could not resolve host: api.sofascore.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-11 21:52:26,115 [WARNING] Request failed (attempt 3/3): Failed to perform, curl: (6) Could not resolve host: api.sofascore.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-08-11 21:52:34,116 [WARNING] Failed to fetch profile for player_id=1567319 (Giorgi Kavlashvili): HTTP 0 for URL: https://api.sofascore.com/api/v1/player/1567319 — All 3 attempts failed
+2026-08-11 21:55:54,808 [WARNING] Could not retrieve profile for 3 player(s): [867299, 1108599, 1567319]
+2026-08-11 21:55:54,823 [INFO]     [OK] 20260811_215554_BEL_20252026_players_info.csv — 460 joueurs
+2026-08-11 21:55:56,824 [INFO] [33/40] Super Lig (TUR) | 2022-2023
+2026-08-11 21:55:56,824 [INFO]   [1/3] Standings (tournament=52, season=42632)
+2026-08-11 21:55:57,850 [INFO]     57 lignes standings
+2026-08-11 21:55:59,850 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 21:56:08,891 [INFO]     580 joueurs en squad
+2026-08-11 21:56:10,892 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 22:01:00,786 [INFO]     [OK] 20260811_220100_TUR_20222023_players_info.csv — 580 joueurs
+2026-08-11 22:01:02,787 [INFO] [34/40] Super Lig (TUR) | 2023-2024
+2026-08-11 22:01:02,788 [INFO]   [1/3] Standings (tournament=52, season=53190)
+2026-08-11 22:01:03,808 [INFO]     60 lignes standings
+2026-08-11 22:01:05,809 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 22:01:15,365 [INFO]     626 joueurs en squad
+2026-08-11 22:01:17,366 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 22:06:30,199 [INFO]     [OK] 20260811_220630_TUR_20232024_players_info.csv — 626 joueurs
+2026-08-11 22:06:32,200 [INFO] [35/40] Super Lig (TUR) | 2024-2025
+2026-08-11 22:06:32,200 [INFO]   [1/3] Standings (tournament=52, season=63814)
+2026-08-11 22:06:33,227 [INFO]     57 lignes standings
+2026-08-11 22:06:35,227 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 22:06:44,263 [INFO]     603 joueurs en squad
+2026-08-11 22:06:46,263 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 22:11:47,561 [INFO]     [OK] 20260811_221147_TUR_20242025_players_info.csv — 603 joueurs
+2026-08-11 22:11:49,562 [INFO] [36/40] Super Lig (TUR) | 2025-2026
+2026-08-11 22:11:49,563 [INFO]   [1/3] Standings (tournament=52, season=77805)
+2026-08-11 22:11:50,581 [INFO]     54 lignes standings
+2026-08-11 22:11:52,582 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 22:12:01,118 [INFO]     575 joueurs en squad
+2026-08-11 22:12:03,119 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 22:16:50,394 [INFO]     [OK] 20260811_221650_TUR_20252026_players_info.csv — 575 joueurs
+2026-08-11 22:16:52,395 [INFO] [37/40] Bundesliga Autriche (AUT) | 2022-2023
+2026-08-11 22:16:52,396 [INFO]   [1/3] Standings (tournament=45, season=42386)
+2026-08-11 22:16:53,422 [INFO]     72 lignes standings
+2026-08-11 22:16:55,423 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 22:17:06,972 [INFO]     664 joueurs en squad
+2026-08-11 22:17:08,974 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 22:19:54,728 [INFO]     [OK] 20260811_221954_AUT_20222023_players_info.csv — 332 joueurs
+2026-08-11 22:19:56,729 [INFO] [38/40] Bundesliga Autriche (AUT) | 2023-2024
+2026-08-11 22:19:56,730 [INFO]   [1/3] Standings (tournament=45, season=52524)
+2026-08-11 22:19:57,754 [INFO]     72 lignes standings
+2026-08-11 22:19:59,755 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 22:20:11,310 [INFO]     646 joueurs en squad
+2026-08-11 22:20:13,312 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 22:22:54,521 [INFO]     [OK] 20260811_222254_AUT_20232024_players_info.csv — 323 joueurs
+2026-08-11 22:22:56,522 [INFO] [39/40] Bundesliga Autriche (AUT) | 2024-2025
+2026-08-11 22:22:56,523 [INFO]   [1/3] Standings (tournament=45, season=62629)
+2026-08-11 22:22:57,546 [INFO]     72 lignes standings
+2026-08-11 22:22:59,547 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 22:23:11,102 [INFO]     648 joueurs en squad
+2026-08-11 22:23:13,104 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 22:25:54,799 [INFO]     [OK] 20260811_222554_AUT_20242025_players_info.csv — 324 joueurs
+2026-08-11 22:25:56,802 [INFO] [40/40] Bundesliga Autriche (AUT) | 2025-2026
+2026-08-11 22:25:56,803 [INFO]   [1/3] Standings (tournament=45, season=77382)
+2026-08-11 22:25:57,825 [INFO]     72 lignes standings
+2026-08-11 22:25:59,827 [INFO]   [2/3] Squad (roster par équipe)
+2026-08-11 22:26:11,388 [INFO]     660 joueurs en squad
+2026-08-11 22:26:13,391 [INFO]   [3/3] Player bio (naissance, nationalité, poste, pied, taille)
+2026-08-11 22:28:58,098 [INFO]     [OK] 20260811_222858_AUT_20252026_players_info.csv — 330 joueurs
+2026-08-11 22:28:58,098 [INFO] =================================================================
+2026-08-11 22:28:58,099 [INFO]   BILAN : 40/40 combinaisons réussies
+2026-08-11 22:28:58,099 [INFO] =================================================================

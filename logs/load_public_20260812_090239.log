@@ -1,0 +1,19 @@
+2026-08-12 09:02:39,199 [INFO] Log : C:\Users\serge\Documents\02_DEV_PROJETS\radar_pepites\logs\load_public_20260812_090239.log
+2026-08-12 09:02:39,244 [INFO] =================================================================
+2026-08-12 09:02:39,244 [INFO]   RadarPepites — Load Public (Gold)
+2026-08-12 09:02:39,244 [INFO]   2026-08-12 09:02:39
+2026-08-12 09:02:39,244 [INFO] =================================================================
+2026-08-12 09:02:39,244 [INFO] [1/7] silver.ref_ligues -> public.dim_ligues
+2026-08-12 09:02:40,311 [INFO]   [OK] 10 lignes
+2026-08-12 09:02:40,311 [INFO] [2/7] silver.ref_saisons -> public.dim_saisons
+2026-08-12 09:02:40,546 [INFO]   [OK] 4 lignes
+2026-08-12 09:02:40,548 [INFO] [3/7] silver.ref_nationalites + ref_pays -> public.dim_nationalites
+2026-08-12 09:02:41,651 [INFO]   [OK] 47 lignes
+2026-08-12 09:02:41,651 [INFO] [4/7] silver.ref_postes -> public.dim_postes
+2026-08-12 09:02:42,030 [INFO]   [OK] 11 lignes
+2026-08-12 09:02:42,030 [INFO] [5/7] silver.players_combined + keepers_combined -> public.dim_joueurs
+2026-08-12 09:05:42,802 [INFO]   [OK] 8867 lignes
+2026-08-12 09:05:42,805 [INFO] [6/7] players_combined + keepers_combined -> public.dim_equipes
+2026-08-12 09:05:48,097 [INFO]   [OK] 249 lignes
+2026-08-12 09:05:48,097 [INFO] [7/7] players_combined + keepers_combined -> public.fact_stats
+2026-08-12 09:05:49,428 [INFO]   20937 lignes à upserter (joueurs + gardiens)

@@ -1,0 +1,15 @@
+# RadarPépites — dépendances du pipeline ETL (extract/transform/load)
+soccerdata==1.9.1
+datafc==2.9.0
+pandas==3.0.5
+SQLAlchemy==2.0.51
+psycopg2-binary==2.9.12
+python-dotenv==1.2.2
+beautifulsoup4==4.15.0
+lxml==6.1.1
+requests==2.34.2
+
+# Visualisation (dossiers powerbi/, visuals/, web/ créés mais vides —
+# pas encore installés, à ajouter au démarrage de cette phase)
+# plotly
+# streamlit

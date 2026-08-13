@@ -1,0 +1,42 @@
+﻿tournament_id,season_id,player_name,player_id,team_name,team_id,saves,goalsPrevented,rating,minutesPlayed,appearances,accuratePasses,accurateLongBalls,accurateLongBallsPercentage,yellowCards,redCards,_league_id,_season,_source,_scraped_at
+38,77040,Davy Roef,156663,KAA Gent,2903,147,4.64,7.25,3720,41,871,255,38.06,0,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Nacho Miras,1010556,KV Mechelen,5044,139,16.6,7.57,2925,33,635,177,36.05,2,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Marcos Hernán Peano,789394,RAAL La Louvière,368506,118,8.37,7.37,3060,34,634,293,40.75,2,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Andreas Jungdal,963038,KVC Westerlo,2893,112,0.3,6.97,3600,40,845,258,39.03,3,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Brent Gabriel,861977,SV Zulte Waregem,2933,110,8.68,7.26,3240,36,882,316,49.3,1,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Léo Kokubo,997020,Sint-Truidense VV,2895,110,9.35,7.23,3420,38,841,195,38.31,5,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Tobe Leysen,996979,Oud-Heverlee Leuven,2918,109,1.32,6.97,2859,32,710,229,33.83,2,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Matthieu Epolo,1121943,Standard Liège,2901,102,2.97,7.32,2610,29,525,196,37.98,1,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Colin Coosemans,122399,RSC Anderlecht,2900,102,3.7,6.98,3420,38,788,205,38.03,2,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Taishi Brandon Nozawa,1002358,Royal Antwerp FC,2889,95,2.95,7.19,2654,30,489,188,32.81,1,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Warleson,861071,Cercle Brugge,2929,68,6.34,7.13,1556,19,263,90,30.72,2,1,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Kjell Scherpen,852394,Royale Union Saint-Gilloise,4860,60,3.91,7.18,2835,32,626,182,44.07,1,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Nordin Jackers,361722,Club Brugge KV,2888,54,-1.95,7.06,1801,21,494,144,46.6,1,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Tobias Lawal,990025,KRC Genk,2890,53,-3.81,6.81,1620,18,477,94,48.45,2,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Guillaume Dietsch,986770,FCV Dender,389232,53,-0.55,6.75,1194,14,191,82,30.04,1,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Mohamed Koné,1131009,RC Sporting Charleroi,2898,51,1.31,7.22,1710,19,379,117,38.61,2,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Maxime Delanghe,909953,Cercle Brugge,2929,51,-2.62,6.88,1591,18,242,77,33.92,1,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Martin Delavallée,1141106,RC Sporting Charleroi,2898,50,-5.13,6.84,1890,21,353,131,38.99,0,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Gauthier Gallon,340561,FCV Dender,389232,49,1.08,7.11,1326,15,314,79,38.35,1,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Lucas Pirard,190379,Standard Liège,2901,45,4.32,7.44,990,11,174,93,36.76,1,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Hendrik Van Crombrugge,110777,KRC Genk,2890,40,-1.47,7.13,1080,12,337,72,55.38,0,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Simon Mignolet,10406,Club Brugge KV,2888,34,1.03,7.14,1023,12,304,58,51.79,1,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Lucca Brughmans,1529975,KRC Genk,2890,28,1.75,7.11,1020,11,202,59,35.76,0,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Maxence Prévot,785520,Oud-Heverlee Leuven,2918,26,-3.45,7.19,741,9,181,88,40.74,1,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Yannick Thoelen,794571,Royal Antwerp FC,2889,24,0.24,7.08,496,7,97,35,33.33,1,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Dani van den Heuvel,1049432,Club Brugge KV,2888,22,-0.38,6.68,764,10,216,36,33.96,0,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Matthias Pieklak,1405437,Lommel SK,5046,21,3.08,7.33,540,6,114,32,30.48,0,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Michael Verrips,583506,FCV Dender,389232,21,-0.54,6.86,900,10,240,63,32.31,0,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Ortwin De Wolf,877292,KV Mechelen,5044,21,-1.82,6.85,675,8,167,46,34.59,1,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Vic Chambaere,1108599,Royale Union Saint-Gilloise,4860,14,0.82,6.73,765,9,120,37,35.58,1,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Senne Lammens,964753,Royal Antwerp FC,2889,11,1.19,7.23,360,4,97,34,29.82,0,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Justin Heekeren,932070,RSC Anderlecht,2900,9,-0.54,6.4,180,2,40,9,29.03,0,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Nick Shinton,909962,K. Beerschot V.A.,169260,7,-2.98,6.15,390,4,99,19,43.18,0,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Alexis Andre Jr.,1542961,RFC Liège,389226,6,-1.48,6.75,180,2,36,6,40.0,0,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Matt Lendfers,1393695,Sint-Truidense VV,2895,5,0.32,6.7,179,2,40,8,36.36,0,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Gian Geladé,1140116,Patro Eisden Maasmechelen,35076,4,-1.54,6.4,210,2,30,19,31.15,0,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Niels Devalckeneer,1391493,Royal Antwerp FC,2889,2,0.04,6.7,90,1,13,7,43.75,0,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Bas Langenbick,1191211,Cercle Brugge,2929,2,-0.51,6.1,90,1,14,2,25.0,0,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Celestin De Schrevel,1048440,RAAL La Louvière,368506,1,-2.13,6.35,180,2,45,12,41.38,0,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Argus Vanden Driessche,1403045,Club Brugge KV,2888,0,,6.6,12,1,5,1,100.0,0,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54
+38,77040,Jo Coppens,45854,Sint-Truidense VV,2895,0,,0.0,1,1,0,0,0.0,0,0,BEL,2025-2026,datafc_sofascore,2026-08-11 14:48:54

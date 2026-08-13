@@ -1,0 +1,43 @@
+﻿tournament_id,season_id,player_name,player_id,team_name,team_id,saves,goalsPrevented,rating,minutesPlayed,appearances,accuratePasses,accurateLongBalls,accurateLongBallsPercentage,yellowCards,redCards,_league_id,_season,_source,_scraped_at
+34,42273,Alexander Nübel,584722,AS Monaco,1653,140,-6.46,6.93,3420,38,651,257,47.95,2,0,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Alban Lafont,826201,Nantes,1647,133,1.76,7.04,3330,37,638,226,39.65,0,1,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Maxime Dupé,96542,Toulouse,1681,126,-0.02,7.01,3420,38,822,184,41.53,1,0,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Marco Bizot,100390,Stade Brestois,1715,125,1.11,6.92,3330,37,636,228,43.85,4,0,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Gianluigi Donnarumma,824509,Paris Saint-Germain,1644,124,5.27,7.06,3410,38,645,73,39.67,3,0,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Matz Sels,78152,RC Strasbourg,1659,115,-1.41,6.82,3420,38,505,194,37.31,2,0,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Mory Diaw,580226,Clermont Foot,1680,114,10.57,6.98,3330,37,863,310,43.42,0,0,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Gauthier Gallon,340561,Troyes,1652,114,-8.78,6.78,2668,30,491,137,31.14,3,1,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Yehvann Diouf,845183,Stade de Reims,1682,107,6.24,7.15,2790,31,663,192,49.48,2,0,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Kasper Schmeichel,1076,Nice,1661,107,1.09,7.01,3240,36,801,263,51.37,0,0,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Brice Samba,164055,RC Lens,1648,99,4.95,6.98,3330,37,799,230,44.57,3,0,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Anthony Lopes,48535,Olympique Lyonnais,1649,96,3.2,6.85,2817,32,659,153,40.8,2,1,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Pau López,548848,Olympique de Marseille,1641,92,0.53,6.99,2925,33,746,177,43.6,3,0,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Paul Bernardoni,361314,Angers,1684,85,-9.26,6.57,2430,27,315,106,32.52,0,0,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Steve Mandanda,27029,Stade Rennais,1658,80,2.3,6.88,3014,34,754,217,43.75,1,0,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Lucas Chevalier,996953,Lille,1643,78,0.8,6.88,2880,32,657,112,33.43,1,0,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Benjamin Lecomte,123207,Montpellier,1642,75,9.54,7.26,1710,19,341,142,39.12,0,0,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Benjamin Leroy,80392,Ajaccio,1660,75,-11.78,6.49,2799,32,456,235,41.37,1,0,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Yvon Mvogo,149656,Lorient,1656,70,-1.19,6.7,1813,21,381,110,42.31,0,0,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Vito Mannone,17053,Lorient,1656,61,1.39,6.99,1607,18,344,68,33.66,1,0,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Ionuț Radu,815202,Auxerre,1646,56,1.91,7.08,1530,17,280,137,35.49,0,0,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Benoît Costil,26965,Lille,1643,55,-6.0,6.62,1710,19,345,159,48.33,0,0,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Jonas Omlin,571622,Montpellier,1642,50,-1.73,6.85,1168,14,220,63,35.59,1,1,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Yahia Fofana,877977,Angers,1684,36,-2.27,6.77,990,11,158,46,32.39,2,0,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Mateusz Lis,798375,Troyes,1652,35,1.29,6.91,749,9,172,48,33.57,1,0,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Rémy Riou,13906,Olympique Lyonnais,1649,17,0.78,6.76,600,7,149,21,32.81,0,0,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Patrick Pentz,788319,Stade de Reims,1682,16,-2.15,6.37,630,7,118,31,31.63,1,0,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Rubén Blanco,180515,Olympique de Marseille,1641,15,-2.12,6.78,495,6,135,18,31.58,0,0,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Bingourou Kamara,583312,Montpellier,1642,15,-1.79,6.68,407,5,69,21,34.43,1,0,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Francois-Joseph Sollacaro,556980,Ajaccio,1660,11,-4.87,6.17,540,6,57,20,21.74,1,0,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Donovan Léon,159837,Auxerre,1646,9,0.33,7.15,180,2,30,20,32.79,0,0,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Doğan Alemdar,947874,Stade Rennais,1658,8,-1.46,6.36,406,6,81,27,35.53,1,0,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Rémy Descamps,788180,Nantes,1647,5,0.48,7.2,90,1,13,5,55.56,1,0,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Matis Carvalho,966256,Montpellier,1642,5,-1.06,6.65,135,2,17,15,32.61,0,0,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Ghjuvanni Quilichini,1133562,Ajaccio,1660,4,0.97,7.2,81,1,12,8,29.63,0,0,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Marcin Bułka,889590,Nice,1661,4,1.12,6.55,180,2,43,12,50.0,0,0,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Léo Jardim,595598,Lille,1643,4,-4.34,5.97,540,6,95,11,26.19,0,0,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Joaquín Blázquez,940690,Stade Brestois,1715,3,0.17,7.4,90,1,18,8,53.33,0,0,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Jean-Louis Leca,39224,RC Lens,1648,3,0.6,6.3,90,1,27,11,64.71,0,0,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Ouparine Djoco,942838,Clermont Foot,1680,1,-0.97,6.3,90,1,22,4,22.22,0,0,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Alexandre Letellier,126879,Paris Saint-Germain,1644,0,,6.5,10,1,4,0,0.0,0,0,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40
+34,42273,Romain Salin,27069,Stade Rennais,1658,0,,0.0,0,0,0,0,0.0,0,1,FRA,2022-2023,datafc_sofascore,2026-08-12 07:01:40

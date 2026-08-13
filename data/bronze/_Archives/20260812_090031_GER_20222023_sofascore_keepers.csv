@@ -1,0 +1,35 @@
+﻿tournament_id,season_id,player_name,player_id,team_name,team_id,saves,goalsPrevented,rating,minutesPlayed,appearances,accuratePasses,accurateLongBalls,accurateLongBallsPercentage,yellowCards,redCards,_league_id,_season,_source,_scraped_at
+35,42268,Manuel Riemann,24937,VfL Bochum 1848,2542,132,-0.12,6.84,3060,34,982,624,48.26,3,0,GER,2022-2023,datafc_sofascore,2026-08-12 07:00:31
+35,42268,Jiří Pavlenka,154040,SV Werder Bremen,2534,111,-8.85,6.83,2909,33,682,252,43.52,1,0,GER,2022-2023,datafc_sofascore,2026-08-12 07:00:31
+35,42268,Mark Flekken,171919,SC Freiburg,2538,109,2.86,7.02,3060,34,919,329,44.76,0,0,GER,2022-2023,datafc_sofascore,2026-08-12 07:00:31
+35,42268,Oliver Baumann,40244,TSG Hoffenheim,2569,105,-5.69,6.83,3060,34,900,250,42.44,2,0,GER,2022-2023,datafc_sofascore,2026-08-12 07:00:31
+35,42268,Koen Casteels,70987,VfL Wolfsburg,2524,103,-3.8,6.99,3060,34,1038,364,50.98,0,0,GER,2022-2023,datafc_sofascore,2026-08-12 07:00:31
+35,42268,Oliver Christensen,860306,Hertha BSC,2528,98,-8.99,6.63,2970,33,615,239,36.38,2,0,GER,2022-2023,datafc_sofascore,2026-08-12 07:00:31
+35,42268,Rafał Gikiewicz,44938,FC Augsburg,2600,97,0.41,7.1,2070,23,726,220,43.48,3,0,GER,2022-2023,datafc_sofascore,2026-08-12 07:00:31
+35,42268,Lukáš Hrádecký,15219,Bayer 04 Leverkusen,2681,97,-5.17,6.82,2970,33,647,179,38.09,0,1,GER,2022-2023,datafc_sofascore,2026-08-12 07:00:31
+35,42268,Frederik Rønnow,137692,1. FC Union Berlin,2547,93,8.32,7.13,2610,29,781,262,40.43,2,0,GER,2022-2023,datafc_sofascore,2026-08-12 07:00:31
+35,42268,Gregor Kobel,556866,Borussia Dortmund,2673,88,2.88,7.07,2430,27,750,154,47.53,0,0,GER,2022-2023,datafc_sofascore,2026-08-12 07:00:31
+35,42268,Kevin Trapp,38440,Eintracht Frankfurt,2674,80,-7.85,6.68,2970,33,491,108,29.27,3,0,GER,2022-2023,datafc_sofascore,2026-08-12 07:00:31
+35,42268,Alexander Schwolow,134778,FC Schalke 04,2530,80,-11.77,6.57,2034,23,488,213,43.38,1,0,GER,2022-2023,datafc_sofascore,2026-08-12 07:00:31
+35,42268,Marvin Schwäbe,187185,1. FC Köln,2671,79,-9.65,6.64,3060,34,975,197,40.79,1,0,GER,2022-2023,datafc_sofascore,2026-08-12 07:00:31
+35,42268,Yann Sommer,16206,FC Bayern München,2672,77,2.52,6.9,2610,29,1015,150,44.91,1,0,GER,2022-2023,datafc_sofascore,2026-08-12 07:00:31
+35,42268,Robin Zentner,174345,1. FSV Mainz 05,2556,72,-2.3,6.82,2340,26,396,176,35.41,1,0,GER,2022-2023,datafc_sofascore,2026-08-12 07:00:31
+35,42268,Florian Müller,842858,VfB Stuttgart,2677,53,-6.62,6.57,1710,19,498,120,47.62,0,0,GER,2022-2023,datafc_sofascore,2026-08-12 07:00:31
+35,42268,Tomáš Koubek,124294,FC Augsburg,2600,46,1.72,7.03,990,11,301,99,38.37,0,0,GER,2022-2023,datafc_sofascore,2026-08-12 07:00:31
+35,42268,Janis Blaswich,96832,RB Leipzig,36360,46,-2.04,6.82,2340,26,862,85,36.8,0,0,GER,2022-2023,datafc_sofascore,2026-08-12 07:00:31
+35,42268,Ralf Fährmann,14113,FC Schalke 04,2530,43,-0.57,7.13,1026,12,256,112,46.28,0,0,GER,2022-2023,datafc_sofascore,2026-08-12 07:00:31
+35,42268,Jonas Omlin,571622,Borussia M'gladbach,2527,38,0.47,6.95,1291,15,521,90,39.82,0,0,GER,2022-2023,datafc_sofascore,2026-08-12 07:00:31
+35,42268,Fabian Bredlow,152463,VfB Stuttgart,2677,38,-2.54,6.63,1350,15,424,74,47.13,2,0,GER,2022-2023,datafc_sofascore,2026-08-12 07:00:31
+35,42268,Manuel Neuer,8959,FC Bayern München,2672,33,3.84,7.11,1080,12,367,71,58.2,0,0,GER,2022-2023,datafc_sofascore,2026-08-12 07:00:31
+35,42268,Finn Dahmen,822564,1. FSV Mainz 05,2556,28,-1.99,6.8,720,8,147,56,37.09,0,0,GER,2022-2023,datafc_sofascore,2026-08-12 07:00:31
+35,42268,Tobias Sippel,8772,Borussia M'gladbach,2527,21,-0.16,6.68,509,6,151,33,28.21,1,0,GER,2022-2023,datafc_sofascore,2026-08-12 07:00:31
+35,42268,Jan Olschowsky,972510,Borussia M'gladbach,2527,20,1.95,6.93,360,4,106,16,36.36,0,0,GER,2022-2023,datafc_sofascore,2026-08-12 07:00:31
+35,42268,Alexander Meyer,138491,Borussia Dortmund,2673,20,-3.95,6.74,630,7,245,54,56.84,0,0,GER,2022-2023,datafc_sofascore,2026-08-12 07:00:31
+35,42268,Péter Gulácsi,37096,RB Leipzig,36360,17,0.56,6.87,540,6,152,18,40.91,0,0,GER,2022-2023,datafc_sofascore,2026-08-12 07:00:31
+35,42268,Lennart Grill,836710,1. FC Union Berlin,2547,14,-2.02,6.6,450,5,119,54,45.38,0,0,GER,2022-2023,datafc_sofascore,2026-08-12 07:00:31
+35,42268,Michael Zetterer,190161,SV Werder Bremen,2534,11,0.31,7.1,151,2,30,17,48.57,0,0,GER,2022-2023,datafc_sofascore,2026-08-12 07:00:31
+35,42268,Tjark Ernst,1019319,Hertha BSC,2528,7,1.52,7.8,90,1,20,7,43.75,0,0,GER,2022-2023,datafc_sofascore,2026-08-12 07:00:31
+35,42268,Sven Ulreich,26768,FC Bayern München,2672,6,0.71,6.9,270,3,89,11,36.67,1,0,GER,2022-2023,datafc_sofascore,2026-08-12 07:00:31
+35,42268,Diant Ramaj,981562,Eintracht Frankfurt,2674,5,0.01,7.3,90,1,14,2,33.33,0,0,GER,2022-2023,datafc_sofascore,2026-08-12 07:00:31
+35,42268,Ørjan Nyland,22209,RB Leipzig,36360,4,-0.22,7.15,180,2,66,17,43.59,0,0,GER,2022-2023,datafc_sofascore,2026-08-12 07:00:31
+35,42268,Andrey Lunev,120787,Bayer 04 Leverkusen,2681,2,-0.61,6.4,90,1,28,5,38.46,0,0,GER,2022-2023,datafc_sofascore,2026-08-12 07:00:31

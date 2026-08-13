@@ -1,0 +1,47 @@
+﻿tournament_id,season_id,player_name,player_id,team_name,team_id,saves,goalsPrevented,rating,minutesPlayed,appearances,accuratePasses,accurateLongBalls,accurateLongBallsPercentage,yellowCards,redCards,_league_id,_season,_source,_scraped_at
+52,42632,David Jensen,47860,İstanbulspor,3066,122,,6.92,2880,32,665,229,37.48,4,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Rúnar Alex Rúnarsson,187023,Alanyaspor,6362,108,,6.96,2645,30,806,144,39.56,4,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Bilal Bayazit,825850,Kayserispor,3072,102,,6.86,2693,30,690,192,40.42,2,1,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Ertaç Özbir,126077,Adana Demirspor,3101,101,,6.99,2880,32,1032,170,52.96,4,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Günay Güvenç,103457,Kasımpaşa,6063,98,,7.06,2700,30,586,220,36.54,4,1,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Fernando Muslera,28381,Galatasaray,3061,82,,7.04,2965,33,859,234,50.43,5,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Gökhan Akkan,225012,MKE Ankaragücü,3103,82,,7.01,2013,23,387,98,26.34,2,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Ibrahim Šehić,63952,Konyaspor,3085,82,,6.89,2609,29,824,198,50.64,3,1,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Uğurcan Çakır,754330,Trabzonspor,3051,82,,6.79,2761,31,515,208,37.21,3,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Erce Kardeşler,758606,Hatayspor,3091,81,,6.89,1890,21,485,165,39.76,3,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Ali Şaşal Vural,94540,Sivasspor,3076,79,,6.78,2655,30,536,237,44.72,1,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Orkun Özdemir,953335,Ümraniyespor,55625,73,,6.9,1692,20,325,133,35.56,4,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Onurcan Piri,213542,Giresunspor,5765,63,,6.67,1959,23,338,98,28.16,2,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Altay Bayındır,815890,Fenerbahçe,3052,59,,6.88,2340,26,479,128,37.65,2,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Batuhan Şen,867595,Fatih Karagümrük,4954,58,,6.71,1555,18,537,77,40.74,1,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Mert Günok,39573,Beşiktaş JK,3050,54,,6.86,2070,23,466,162,41.65,0,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Ertuğrul Taşkıran,105974,Kasımpaşa,6063,50,,6.74,1620,18,354,104,36.49,1,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Volkan Babacan,30143,Başakşehir FK,3086,48,,6.86,1890,21,608,157,46.73,0,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Emiliano Viviano,38599,Fatih Karagümrük,4954,47,,6.79,1501,17,431,121,42.46,4,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Helton Leite,329081,Antalyaspor,3056,47,,6.78,1530,17,339,83,38.25,0,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Muhammed Şengezer,827418,Başakşehir FK,3086,46,,7.04,1080,12,387,88,41.12,2,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Ferhat Kaplan,81949,Giresunspor,5765,42,,7.0,1101,13,258,96,42.67,2,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Bahadır Han Güngördü,807289,MKE Ankaragücü,3103,37,,6.74,1059,14,247,68,41.46,2,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Serkan Kırıntılı,5247,Ümraniyespor,55625,32,,6.93,828,10,228,78,49.68,0,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Erdem Canpolat,1066726,Kasımpaşa,6063,29,,6.76,811,10,166,49,34.51,1,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Muhammed Alperen Uysal,97960,Antalyaspor,3056,29,,6.75,900,10,250,67,40.85,1,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Ruud Boffin,15039,Antalyaspor,3056,24,,6.67,630,7,151,42,43.3,0,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,İrfan Can Eğribayat,594618,Fenerbahçe,3052,23,,6.76,720,8,139,50,41.67,2,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Berke Özer,847494,Ümraniyespor,55625,22,,6.62,450,5,125,50,56.82,0,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Muammer Yıldırım,130582,Sivasspor,3076,20,,6.87,495,6,99,26,36.62,0,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Yusuf Karagöz,1133582,Alanyaspor,6362,15,,6.22,415,5,99,20,27.4,2,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Taha Tepe,910094,Trabzonspor,3051,14,,6.92,389,5,56,31,40.26,0,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Ersin Destanoğlu,913656,Beşiktaş JK,3050,13,,6.58,810,9,138,27,35.53,0,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Erhan Erentürk,997705,Konyaspor,3085,12,,6.54,450,5,58,15,26.32,0,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Deniz Dilmen,1065508,Başakşehir FK,3086,9,,8.7,90,1,27,16,47.06,0,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Cenk Gönen,43556,Kayserispor,3072,9,,6.2,376,5,85,23,46.94,0,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Goran Karačić,797966,Adana Demirspor,3101,6,,8.9,90,1,36,5,50.0,0,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Vedat Karakuş,847353,Adana Demirspor,3101,6,,7.8,90,1,25,2,25.0,0,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Ataberk Dadakdeniz,840605,Antalyaspor,3056,5,,8.3,90,1,17,4,17.39,0,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Anil Demir,830443,Ümraniyespor,55625,5,,6.2,90,1,20,3,60.0,0,1,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Alp Arda,999485,İstanbulspor,3066,5,,6.05,180,2,31,17,50.0,0,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Doğukan Kaya,952981,MKE Ankaragücü,3103,2,,6.2,90,1,18,7,33.33,0,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Okan Kocuk,190179,Galatasaray,3061,1,,6.5,108,2,22,7,25.93,0,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Emre Bilgin,1050730,Beşiktaş JK,3050,0,,6.25,180,2,36,11,64.71,0,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Abdullah Yiğiter,827515,Hatayspor,3091,0,,0.0,0,0,0,0,0.0,1,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00
+52,42632,Muzaffer Cem Kablan,967176,Fatih Karagümrük,4954,0,,0.0,4,1,4,1,100.0,0,0,TUR,2022-2023,datafc_sofascore,2026-08-12 07:04:00

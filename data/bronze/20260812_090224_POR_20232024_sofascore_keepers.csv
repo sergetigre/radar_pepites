@@ -1,0 +1,44 @@
+﻿tournament_id,season_id,player_name,player_id,team_name,team_id,saves,goalsPrevented,rating,minutesPlayed,appearances,accuratePasses,accurateLongBalls,accurateLongBallsPercentage,yellowCards,redCards,_league_id,_season,_source,_scraped_at
+238,52769,Ricardo Velho,845792,SC Farense,2998,140,13.49,7.41,2880,32,474,213,32.42,2,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,João Gonçalves,987596,Boavista,2995,112,-1.58,6.9,3060,34,474,169,35.96,4,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Luiz Júnior,1066603,Famalicão,49531,111,9.49,7.31,2970,33,664,207,43.86,2,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Ricardo Batista,9668,Casa Pia,36365,103,-1.02,7.0,2786,31,598,174,33.98,2,1,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Andrew,947893,Gil Vicente,3010,101,-0.17,7.02,2880,32,664,167,35.38,0,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Ignacio de Arruabarrena,789933,FC Arouca,25777,97,3.82,7.01,2790,31,664,158,35.03,4,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Jhonatan,798688,Rio Ave,3036,93,6.59,7.34,2340,26,587,154,41.4,4,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Hugo Souza,950454,Chaves,3025,89,-1.17,7.0,2340,26,386,193,40.72,5,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Kewin,865371,Moreirense,3014,87,0.71,7.13,2687,30,692,228,43.35,1,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Marcelo Carné,243463,Estoril Praia,4500,79,4.28,7.09,1980,22,389,92,32.17,3,1,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Matheus,603946,Sporting Braga,2999,79,-2.82,6.9,3060,34,818,209,44.75,3,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Bruno Brígido,329079,CF Estrela Amadora,3035,78,-2.67,6.98,2340,26,511,116,38.28,0,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Fabijan Buntić,827377,Vizela,5136,78,-12.23,6.78,2495,28,564,146,40.11,1,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Anatoliy Trubin,966616,Benfica,3006,76,7.92,7.15,2520,28,495,77,42.54,1,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Bruno Varela,138895,Vitória SC,3009,70,5.05,7.04,2385,27,487,193,47.42,3,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Kosuke Nakamura,155775,Portimonense SAD,3026,59,1.75,6.97,1800,20,301,108,37.24,1,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Diogo Costa,843115,FC Porto,3002,58,2.49,7.01,2945,33,911,187,51.94,0,1,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Vinicius Silvestre,559582,Portimonense SAD,3026,49,-5.2,6.94,1260,14,257,97,40.25,1,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Antonio Adán,59623,Sporting CP,3001,33,-3.12,6.71,1980,22,395,83,40.89,1,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Dani Figueira,862060,Estoril Praia,4500,33,-8.41,6.62,1080,12,193,34,33.01,1,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Charles,155985,Vitória SC,3009,22,2.71,7.19,675,8,100,39,39.39,2,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Magrão,1083070,Rio Ave,3036,20,-0.2,6.83,630,7,130,27,36.49,0,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Francesco Ruberto,335305,Vizela,5136,19,1.86,7.03,565,7,132,53,38.69,2,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Rodrigo Nascimento,1128775,Chaves,3025,19,-3.4,6.8,630,7,105,49,42.61,0,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Franco Israel,1084846,Sporting CP,3001,16,0.22,6.83,900,10,168,20,40.0,0,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Cezary Miszta,938292,Rio Ave,3036,9,0.13,8.7,90,1,31,4,40.0,0,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Lucas Paes,931473,Casa Pia,36365,9,-1.13,6.85,278,4,61,15,42.86,1,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Wagner,1400276,CF Estrela Amadora,3035,9,0.45,6.84,431,5,112,20,35.09,0,1,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Caio Secco,345843,Moreirense,3014,8,1.98,7.2,360,4,65,16,32.65,0,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Samuel Soares,983550,Benfica,3006,8,0.24,7.06,450,5,92,21,45.65,0,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,António Filipe,61246,CF Estrela Amadora,3035,7,1.09,6.93,270,3,69,13,30.23,0,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Gonçalo Pinto,1397563,Chaves,3025,6,-0.1,7.5,90,1,13,10,41.67,0,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Miguel Carvalho,786018,SC Farense,2998,6,-0.3,6.7,180,2,26,9,39.13,0,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Vinicius Dias,1010588,Gil Vicente,3010,5,-2.2,6.15,180,2,30,7,35.0,0,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Cláudio Ramos,116372,FC Porto,3002,3,-0.97,6.9,113,2,42,9,52.94,0,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Thiago,358544,FC Arouca,25777,3,-1.72,6.5,180,2,84,20,54.05,0,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Edmilson Cambila,1002419,CF Estrela Amadora,3035,3,0.81,6.4,16,1,5,0,0.0,0,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Ivan Zlobin,788203,Famalicão,49531,2,-0.65,6.5,90,1,9,1,50.0,1,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,João Valido,973352,FC Arouca,25777,1,0.06,7.3,90,1,29,5,83.33,0,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Diogo Pinto,1142575,Sporting CP,3001,1,0.05,7.0,172,2,33,8,72.73,0,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Odysseas Vlachodimos,138149,Benfica,3006,1,0.21,6.5,90,1,14,4,50.0,0,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Mika,107264,Moreirense,3014,0,,7.0,13,1,8,6,66.67,0,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24
+238,52769,Francisco Silva,1184327,Sporting CP,3001,0,,6.5,8,1,2,0,0.0,0,0,POR,2023-2024,datafc_sofascore,2026-08-12 07:02:24

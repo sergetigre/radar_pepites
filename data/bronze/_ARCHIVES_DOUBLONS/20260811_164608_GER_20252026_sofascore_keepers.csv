@@ -1,0 +1,31 @@
+﻿tournament_id,season_id,player_name,player_id,team_name,team_id,saves,goalsPrevented,rating,minutesPlayed,appearances,accuratePasses,accurateLongBalls,accurateLongBallsPercentage,yellowCards,redCards,_league_id,_season,_source,_scraped_at
+35,77333,Moritz Nicolas,578166,Borussia M'gladbach,2527,136,9.75,7.34,3060,34,793,219,40.56,1,0,GER,2025-2026,datafc_sofascore,2026-08-11 14:46:08
+35,77333,Nikola Vasilj,325061,FC St. Pauli,2526,125,9.53,7.09,3060,34,780,131,28.05,0,0,GER,2025-2026,datafc_sofascore,2026-08-11 14:46:08
+35,77333,Kamil Grabara,902080,VfL Wolfsburg,2524,123,-0.49,7.21,3060,34,757,198,33.9,1,0,GER,2025-2026,datafc_sofascore,2026-08-11 14:46:08
+35,77333,Alexander Nübel,584722,VfB Stuttgart,2677,110,11.29,7.19,3060,34,863,246,40.13,0,0,GER,2025-2026,datafc_sofascore,2026-08-11 14:46:08
+35,77333,Daniel Fernandes,113442,Hamburger SV,2676,107,2.23,7.18,2970,33,1231,267,38.75,3,0,GER,2025-2026,datafc_sofascore,2026-08-11 14:46:08
+35,77333,Finn Dahmen,822564,FC Augsburg,2600,106,-0.22,7.01,3060,34,982,280,38.78,1,0,GER,2025-2026,datafc_sofascore,2026-08-11 14:46:08
+35,77333,Mio Backhaus,1083390,SV Werder Bremen,2534,102,1.45,7.12,2880,32,834,169,44.59,1,0,GER,2025-2026,datafc_sofascore,2026-08-11 14:46:08
+35,77333,Noah Atubolu,980626,SC Freiburg,2538,102,-1.63,7.07,3060,34,912,292,39.78,1,0,GER,2025-2026,datafc_sofascore,2026-08-11 14:46:08
+35,77333,Diant Ramaj,981562,1. FC Heidenheim,5885,100,-3.02,6.94,2790,31,997,374,41.42,2,0,GER,2025-2026,datafc_sofascore,2026-08-11 14:46:08
+35,77333,Oliver Baumann,40244,TSG Hoffenheim,2569,97,-4.27,6.79,3060,34,896,223,38.25,3,0,GER,2025-2026,datafc_sofascore,2026-08-11 14:46:08
+35,77333,Marvin Schwäbe,187185,1. FC Köln,2671,94,-0.12,7.12,3060,34,1110,366,43.36,2,0,GER,2025-2026,datafc_sofascore,2026-08-11 14:46:08
+35,77333,Gregor Kobel,556866,Borussia Dortmund,2673,89,5.81,7.14,3060,34,774,174,37.58,3,0,GER,2025-2026,datafc_sofascore,2026-08-11 14:46:08
+35,77333,Mark Flekken,171919,Bayer 04 Leverkusen,2681,79,-3.03,6.89,2130,24,521,110,37.29,1,0,GER,2025-2026,datafc_sofascore,2026-08-11 14:46:08
+35,77333,Frederik Rønnow,137692,1. FC Union Berlin,2547,77,-8.83,6.74,2641,30,518,240,37.09,2,0,GER,2025-2026,datafc_sofascore,2026-08-11 14:46:08
+35,77333,Daniel Batz,94312,1. FSV Mainz 05,2556,70,9.06,7.42,1890,21,424,162,40.7,2,0,GER,2025-2026,datafc_sofascore,2026-08-11 14:46:08
+35,77333,Michael Zetterer,190161,Eintracht Frankfurt,2674,63,-1.34,6.96,1975,22,549,160,43.6,1,0,GER,2025-2026,datafc_sofascore,2026-08-11 14:46:08
+35,77333,Péter Gulácsi,37096,RB Leipzig,36360,53,-3.15,6.88,2009,23,602,78,39.2,1,0,GER,2025-2026,datafc_sofascore,2026-08-11 14:46:08
+35,77333,Janis Blaswich,96832,Bayer 04 Leverkusen,2681,41,3.82,7.25,930,11,184,31,32.63,1,0,GER,2025-2026,datafc_sofascore,2026-08-11 14:46:08
+35,77333,Kauã Santos,1134203,Eintracht Frankfurt,2674,37,-8.56,6.62,1085,13,269,64,29.09,0,0,GER,2025-2026,datafc_sofascore,2026-08-11 14:46:08
+35,77333,Jonas Urbig,1130647,FC Bayern München,2672,32,4.53,7.19,1110,14,362,74,51.75,0,0,GER,2025-2026,datafc_sofascore,2026-08-11 14:46:08
+35,77333,Maarten Vandevoordt,934385,RB Leipzig,36360,31,1.09,7.07,1051,12,306,60,35.09,0,0,GER,2025-2026,datafc_sofascore,2026-08-11 14:46:08
+35,77333,Robin Zentner,174345,1. FSV Mainz 05,2556,31,-0.58,6.94,877,10,199,88,34.38,2,1,GER,2025-2026,datafc_sofascore,2026-08-11 14:46:08
+35,77333,Manuel Neuer,8959,FC Bayern München,2672,31,-0.23,6.89,1860,22,573,131,50.97,0,0,GER,2025-2026,datafc_sofascore,2026-08-11 14:46:08
+35,77333,Frank Feller,1083359,1. FC Heidenheim,5885,15,0.71,7.77,270,3,83,31,49.21,0,0,GER,2025-2026,datafc_sofascore,2026-08-11 14:46:08
+35,77333,Lasse Riess,1069252,1. FSV Mainz 05,2556,15,-2.42,6.58,291,4,61,16,29.63,0,0,GER,2025-2026,datafc_sofascore,2026-08-11 14:46:08
+35,77333,Karl Hein,991591,SV Werder Bremen,2534,11,0.72,7.6,180,2,83,18,40.91,0,0,GER,2025-2026,datafc_sofascore,2026-08-11 14:46:08
+35,77333,Carl Klaus,148167,1. FC Union Berlin,2547,10,2.24,7.23,329,4,67,22,34.92,0,0,GER,2025-2026,datafc_sofascore,2026-08-11 14:46:08
+35,77333,Sander Tangvik,1030355,Hamburger SV,2676,7,1.44,8.8,90,1,34,9,34.62,0,0,GER,2025-2026,datafc_sofascore,2026-08-11 14:46:08
+35,77333,Matheo Raab,842718,1. FC Union Berlin,2547,6,1.71,9.7,90,1,17,11,42.31,0,0,GER,2025-2026,datafc_sofascore,2026-08-11 14:46:08
+35,77333,Sven Ulreich,26768,FC Bayern München,2672,6,0.98,7.6,90,1,18,5,20.0,1,0,GER,2025-2026,datafc_sofascore,2026-08-11 14:46:08

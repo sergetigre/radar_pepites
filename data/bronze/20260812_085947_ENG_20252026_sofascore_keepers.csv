@@ -1,0 +1,41 @@
+﻿tournament_id,season_id,player_name,player_id,team_name,team_id,saves,goalsPrevented,rating,minutesPlayed,appearances,accuratePasses,accurateLongBalls,accurateLongBallsPercentage,yellowCards,redCards,_league_id,_season,_source,_scraped_at
+17,76986,Martin Dúbravka,42209,Burnley,6,127,-3.31,6.98,3150,35,701,252,33.78,1,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,Caoimhin Kelleher,827362,Brentford,50,110,-0.11,7.05,3330,37,845,248,35.63,1,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,Robin Roefs,1012928,Sunderland,41,109,-1.77,6.96,3150,35,841,203,29.94,4,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,Đorđe Petrović,882604,Bournemouth,60,109,-2.98,6.87,3420,38,580,146,31.6,3,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,Bart Verbruggen,994363,Brighton & Hove Albion,30,106,2.03,7.04,3420,38,1178,197,34.99,3,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,Dean Henderson,788134,Crystal Palace,7,106,1.57,6.93,3330,37,599,174,25.25,5,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,Jordan Pickford,138530,Everton,48,100,2.77,7.01,3420,38,886,362,39.74,4,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,Bernd Leno,103335,Fulham,43,98,-6.02,6.93,3420,38,1078,173,35.6,3,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,Robert Sánchez,920546,Chelsea,38,98,1.7,6.91,3041,35,871,199,32.1,3,1,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,Emiliano Martínez,158263,Aston Villa,40,95,3.52,6.96,2835,32,893,175,36.01,2,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,Matz Sels,78152,Nottingham Forest,14,95,0.04,6.78,2667,31,448,150,31.12,2,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,Nick Pope,162653,Newcastle United,39,89,-3.5,6.9,2417,27,368,96,28.57,2,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,Guglielmo Vicario,553606,Tottenham Hotspur,33,83,-5.22,6.85,2790,31,718,157,31.21,1,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,Senne Lammens,964753,Manchester United,35,79,4.39,7.01,2880,32,556,193,33.8,0,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,Gianluigi Donnarumma,824509,Manchester City,17,78,5.81,7.02,3060,34,706,128,43.39,8,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,Alphonse Aréola,96531,West Ham United,37,77,-1.34,6.8,1800,20,252,127,30.68,0,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,José Sá,252669,Wolverhampton,3,65,-2.9,6.83,2070,23,416,143,34.54,2,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,Karl Darlow,123689,Leeds United,34,63,-1.5,7.04,1980,22,492,168,32.81,1,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,David Raya,581310,Arsenal,42,60,-1.13,6.9,3330,37,707,196,34.21,1,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,Alisson,243609,Liverpool FC,44,57,-2.7,6.81,2340,26,644,108,39.42,1,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,Mads Hermansen,856640,West Ham United,37,55,-5.11,6.77,1620,18,345,82,25.15,0,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,Sam Johnstone,98427,Wolverhampton,3,39,-5.43,6.88,1080,12,245,127,39.69,0,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,Lucas Perri,871290,Leeds United,34,38,-2.18,6.59,1440,16,299,93,26.5,2,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,Giorgi Mamardashvili,930997,Liverpool FC,44,34,-2.65,6.71,868,10,202,36,30.25,0,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,Aaron Ramsdale,839410,Newcastle United,39,25,-0.45,6.67,1003,12,267,55,29.73,2,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,Marco Bizot,100390,Aston Villa,40,19,-0.42,6.54,585,7,184,30,34.88,2,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,James Trafford,980643,Manchester City,17,14,2.53,7.18,360,4,87,13,31.71,0,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,Altay Bayındır,815890,Manchester United,35,13,-0.84,6.6,540,6,107,31,31.0,0,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,Max Weiss,1128801,Burnley,6,10,1.6,7.57,270,3,68,17,27.87,0,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,Melker Ellborg,1099795,Sunderland,41,10,0.61,7.0,270,3,46,13,20.31,0,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,Antonín Kinský,1031251,Tottenham Hotspur,33,10,-0.54,6.86,630,7,137,41,33.61,1,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,Freddie Woodman,284417,Liverpool FC,44,9,-0.25,6.93,212,3,45,15,30.61,0,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,Stefan Ortega,125274,Nottingham Forest,14,8,1.01,7.1,270,3,47,23,52.27,0,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,Filip Jørgensen,962053,Chelsea,38,8,-0.93,6.76,378,5,130,18,31.58,0,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,Daniel Bentley,101367,Wolverhampton,3,7,0.15,7.1,270,3,44,14,24.14,0,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,John Victor,840103,Nottingham Forest,14,6,-2.96,6.28,438,5,83,30,38.96,1,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,Walter Benítez,249859,Crystal Palace,7,3,0.36,7.1,90,1,18,5,35.71,0,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,Kepa Arrizabalaga,232422,Arsenal,42,2,-0.06,7.0,90,1,15,3,37.5,0,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,Hákon Rafn Valdimarsson,1005959,Brentford,50,1,-1.72,6.2,90,1,30,12,52.17,0,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47
+17,76986,Angus Gunn,227946,Nottingham Forest,14,0,,6.5,45,1,6,6,31.58,0,0,ENG,2025-2026,datafc_sofascore,2026-08-12 06:59:47

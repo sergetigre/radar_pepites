@@ -1,0 +1,616 @@
+﻿player_id,player_name,date_of_birth,age,nationality,nationality_id,height,weight,preferred_foot,jersey_number,position,position_detailed,market_value,market_currency,team_id,team_name,_league_id,_season,_source,_scraped_at
+826643,Kylian Mbappé,1998-12-20,27.0,France,,180.0,,Right,10,F,['ST'],212000000.0,EUR,2829,Real Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+868812,Vinícius Júnior,2000-07-12,26.0,Brazil,,176.0,,Right,7,F,"['LW', 'ST']",146000000.0,EUR,2829,Real Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+910536,Rodrygo,2001-01-09,25.0,Brazil,,174.0,,Right,11,F,"['ST', 'RW']",48000000.0,EUR,2829,Real Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1174937,Endrick,2006-07-21,20.0,Brazil,,173.0,,Left,29,F,['ST'],42000000.0,EUR,2829,Real Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2087085,Yan Diomande,2006-11-14,19.0,Côte d'Ivoire,,180.0,,Right,49,F,['RW'],99000000.0,EUR,2829,Real Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1649918,Carlos Espí,2005-07-24,21.0,Spain,,194.0,,Right,40,F,['ST'],22000000.0,EUR,2829,Real Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+991011,Jude Bellingham,2003-06-29,23.0,England,,188.0,,Right,5,M,"['AM', 'MC', 'ML']",151000000.0,EUR,2829,Real Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+831808,Federico Valverde,1998-07-22,28.0,Uruguay,,181.0,,Right,8,M,"['MC', 'DR', 'DM']",87000000.0,EUR,2829,Real Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1091116,Arda Güler,2005-02-25,21.0,Türkiye,,176.0,,Left,15,M,"['AM', 'MC', 'RW']",87000000.0,EUR,2829,Real Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+835485,Brahim Díaz,1999-08-03,27.0,Morocco,,170.0,,Both,21,M,['RW'],37000000.0,EUR,2829,Real Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+973887,Eduardo Camavinga,2002-11-10,23.0,France,,182.0,,Left,6,M,"['MC', 'DM']",48000000.0,EUR,2829,Real Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+859025,Aurélien Tchouaméni,2000-01-27,26.0,France,,188.0,,Right,14,M,"['MC', 'DM', 'DC']",73000000.0,EUR,2829,Real Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+331209,Bernardo Silva,1994-08-10,32.0,Portugal,,173.0,,Left,31,M,"['MC', 'DM', 'RW', 'AM']",21000000.0,EUR,2829,Real Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2237795,Thiago Pitarch,2007-08-03,19.0,Spain,,179.0,,Right,45,M,['MC'],18200000.0,EUR,2829,Real Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+759520,Denzel Dumfries,1996-04-18,30.0,Netherlands,,188.0,80.0,Right,33,M,"['MR', 'DR']",26000000.0,EUR,2829,Real Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1142683,Manuel Ángel Morán,2004-03-15,22.0,Spain,,168.0,,Right,37,M,"['MC', 'DM']",4600000.0,EUR,2829,Real Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1546404,Daniel Yáñez,2007-03-28,19.0,Spain,,177.0,,Left,38,M,['RW'],4300000.0,EUR,2829,Real Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1590121,Jorge Cestero,2006-03-24,20.0,Spain,,178.0,,Right,32,M,"['MC', 'DM']",8000000.0,EUR,2829,Real Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2049131,Diego Lacosta,2008-02-08,18.0,Spain,,,,Right,35,M,,,,1089499,Real Madrid U17,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+795064,Trent Alexander-Arnold,1998-10-07,27.0,England,,180.0,,Right,12,D,['DR'],62000000.0,EUR,2829,Real Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+142622,Antonio Rüdiger,1993-03-03,33.0,Germany,,191.0,,Right,22,D,['DC'],6200000.0,EUR,2829,Real Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1176744,Dean Huijsen,2005-04-14,21.0,Spain,,195.0,,Both,24,D,['DC'],66000000.0,EUR,2829,Real Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+822519,Éder Militão,1998-01-18,28.0,Brazil,,186.0,,Right,3,D,['DC'],21000000.0,EUR,2829,Real Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1156645,Raúl Asencio,2003-02-13,23.0,Spain,,184.0,,Right,17,D,['DC'],18100000.0,EUR,2829,Real Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+794939,Marc Cucurella,1998-07-22,28.0,Spain,,175.0,68.0,Left,3,D,['DL'],62000000.0,EUR,2829,Real Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1085081,Álvaro Carreras,2003-03-23,23.0,Spain,,186.0,,Left,18,D,['DL'],53000000.0,EUR,2829,Real Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+792073,Ferland Mendy,1995-06-08,31.0,France,,178.0,,Left,23,D,['DL'],4200000.0,EUR,2829,Real Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+826215,Ibrahima Konaté,1999-05-25,27.0,France,,195.0,84.0,Right,5,D,['DC'],46000000.0,EUR,2829,Real Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1142689,David Jiménez,2004-03-14,22.0,Spain,,175.0,,Right,35,D,"['DR', 'MR']",5200000.0,EUR,2829,Real Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1562659,Joan Martínez,2007-08-20,18.0,Spain,,192.0,,Right,27,D,['DC'],5300000.0,EUR,2829,Real Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2048439,Lamini Fati,2006-04-18,20.0,Spain,,184.0,,Left,28,D,['DC'],3200000.0,EUR,2829,Real Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1542791,Mario Rivas,2007-03-16,19.0,Spain,,188.0,,Right,36,D,['DC'],1900000.0,EUR,2829,Real Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+70988,Thibaut Courtois,1992-05-11,34.0,Belgium,,200.0,,Left,1,G,['GK'],14500000.0,EUR,2829,Real Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+857574,Andriy Lunin,1999-02-11,27.0,Ukraine,,191.0,,Right,13,G,['GK'],11300000.0,EUR,2829,Real Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1403015,Sergio Mestre,2005-02-13,21.0,Spain,,193.0,,Right,26,G,['GK'],190000.0,EUR,2829,Real Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1975197,Javi Navarro,2007-01-25,19.0,Spain,,186.0,,Right,34,G,['GK'],,,2829,Real Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+855833,Ferran Torres,2000-02-29,26.0,Spain,,183.0,,Right,7,F,"['ST', 'LW', 'RW']",59000000.0,EUR,2817,FC Barcelona,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1162107,Roony Bardghji,2005-11-15,20.0,Sweden,,173.0,,Left,19,F,['RW'],15500000.0,EUR,2817,FC Barcelona,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+914902,Anthony Gordon,2001-02-24,25.0,England,,183.0,,Right,10,F,['LW'],82000000.0,EUR,2817,FC Barcelona,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+940054,Karim Adeyemi,2002-01-18,24.0,Germany,,180.0,,Left,14,F,"['RW', 'LW', 'AM']",41000000.0,EUR,2817,FC Barcelona,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1402912,Lamine Yamal,2007-07-13,19.0,Spain,,183.0,,Left,10,M,['RW'],237000000.0,EUR,2817,FC Barcelona,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+831005,Raphinha,1996-12-14,29.0,Brazil,,176.0,,Left,11,M,['LW'],63000000.0,EUR,2817,FC Barcelona,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+992587,Pedri,2002-11-25,23.0,Spain,,174.0,,Right,8,M,"['MC', 'DM']",164000000.0,EUR,2817,FC Barcelona,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1103693,Gavi,2004-08-05,22.0,Spain,,173.0,,Right,6,M,"['MC', 'LW']",31000000.0,EUR,2817,FC Barcelona,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+795222,Frenkie de Jong,1997-05-12,29.0,Netherlands,,180.0,70.0,Right,21,M,"['MC', 'DM']",32000000.0,EUR,2817,FC Barcelona,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+789071,Dani Olmo,1998-05-07,28.0,Spain,,179.0,,Right,20,M,"['AM', 'MC']",58000000.0,EUR,2817,FC Barcelona,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1153270,Fermín López,2003-05-11,23.0,Spain,,176.0,,Right,16,M,"['AM', 'MC']",103000000.0,EUR,2817,FC Barcelona,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1526618,Marc Bernal,2007-05-26,19.0,Spain,,193.0,,Left,22,M,['MC'],29000000.0,EUR,2817,FC Barcelona,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1000483,Marc Casadó,2003-09-14,22.0,Spain,,172.0,,Right,17,M,"['MC', 'DM']",17400000.0,EUR,2817,FC Barcelona,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1590761,Toni Fernández,2008-07-15,18.0,Spain,,175.0,,Left,30,M,['RW'],3100000.0,EUR,2817,FC Barcelona,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1939137,Tomás Marqués,2006-10-30,19.0,Spain,,185.0,,Right,91,M,['MC'],3100000.0,EUR,2817,FC Barcelona,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1506988,Jesse Bisiwu,2008-01-22,18.0,Belgium,,182.0,,Right,74,M,['LW'],775000.0,EUR,2817,FC Barcelona,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1544613,Brian Fariñas,2006-02-09,20.0,Spain,,180.0,75.0,Right,,M,['MC'],2700000.0,EUR,2817,FC Barcelona,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1402913,Pau Cubarsí,2007-01-22,19.0,Spain,,184.0,76.0,Right,5,D,['DC'],94000000.0,EUR,2817,FC Barcelona,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+827212,Jules Koundé,1998-11-12,27.0,France,,180.0,,Right,23,D,['DR'],64000000.0,EUR,2817,FC Barcelona,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+997035,Alejandro Balde,2003-10-18,22.0,Spain,,177.0,,Left,99,D,['DL'],55000000.0,EUR,2817,FC Barcelona,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+186795,Andreas Christensen,1996-04-10,30.0,Denmark,,188.0,78.0,Right,15,D,['DC'],7700000.0,EUR,2817,FC Barcelona,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+876214,Eric García,2001-01-09,25.0,Spain,,182.0,79.0,Right,24,D,"['DC', 'DR', 'MC']",39000000.0,EUR,2817,FC Barcelona,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1094827,Gerard Martín,2002-02-26,24.0,Spain,,186.0,,Left,18,D,"['DL', 'DC']",32000000.0,EUR,2817,FC Barcelona,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1402908,Hector Fort,2006-08-02,20.0,Spain,,185.0,77.0,Right,2,D,['DR'],11600000.0,EUR,2817,FC Barcelona,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1546073,Xavi Espart,2007-05-21,19.0,Spain,,175.0,,Right,12,D,['DR'],5300000.0,EUR,2817,FC Barcelona,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1464652,Álvaro Cortés,2005-03-17,21.0,Spain,,189.0,,Left,5,D,['DC'],3600000.0,EUR,2817,FC Barcelona,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1587196,Jofre Torrents ,2007-01-28,19.0,Spain,,187.0,,Left,21,D,['DL'],970000.0,EUR,2817,FC Barcelona,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+930267,Joan García,2001-05-04,25.0,Spain,,193.0,,Right,13,G,['GK'],46000000.0,EUR,2817,FC Barcelona,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+50490,Wojciech Szczęsny,1990-04-18,36.0,Poland,,196.0,,Right,25,G,['GK'],730000.0,EUR,2817,FC Barcelona,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1402902,Áron Yaakobishvili,2006-03-06,20.0,Hungary,,185.0,,Both,13,G,['GK'],3200000.0,EUR,2817,FC Barcelona,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1926093,Iker Rodríguez,2008-02-22,18.0,Spain,,187.0,,Right,88,G,['GK'],,,90128,Barcelona U19,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+976374,Vladyslav Vanat,2002-01-04,24.0,Ukraine,,181.0,,Left,19,F,['ST'],13900000.0,EUR,24264,Girona FC,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+32048,Cristhian Stuani,1986-10-12,39.0,Uruguay,,184.0,74.0,Right,7,F,['ST'],650000.0,EUR,24264,Girona FC,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+826013,Abel Ruíz,2000-01-28,26.0,Spain,,182.0,,Right,9,F,['ST'],1900000.0,EUR,24264,Girona FC,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+218616,Portu,1992-05-21,34.0,Spain,,167.0,70.0,Right,8,F,['RW'],1300000.0,EUR,24264,Girona FC,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1892528,Min-su Kim,2006-01-19,20.0,South Korea,,177.0,,Right,30,F,['LW'],5300000.0,EUR,24264,Girona FC,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1151851,Dawda Camara,2002-11-04,23.0,Mauritania,,190.0,,Both,14,F,['ST'],1100000.0,EUR,24264,Girona FC,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1563593,Oleksandr Pyshchur,2005-01-24,21.0,Ukraine,,204.0,,Right,34,F,['ST'],360000.0,EUR,24264,Girona FC,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1518119,Jastin García,2004-01-16,22.0,Portugal,,180.0,75.0,Right,31,F,['LW'],455000.0,EUR,24264,Girona FC,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2112915,Papa Ba,2004-04-19,22.0,Senegal,,180.0,75.0,Left,44,F,,195000.0,EUR,368693,Girona B,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2370192,Javi González,2005-11-22,20.0,Spain,,,,,11,F,,145000.0,EUR,368693,Girona B,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+991421,Azzedine Ounahi,2000-04-19,26.0,Morocco,,182.0,,Right,18,M,"['MC', 'AM']",18500000.0,EUR,24264,Girona FC,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1092769,Yáser Asprilla,2003-11-19,22.0,Colombia,,176.0,,Left,10,M,"['RW', 'AM']",15000000.0,EUR,24264,Girona FC,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+361790,Donny van de Beek,1997-04-18,29.0,Netherlands,,183.0,74.0,Right,6,M,"['MC', 'AM', 'DM']",1900000.0,EUR,24264,Girona FC,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+319735,Viktor Tsygankov,1997-11-15,28.0,Ukraine,,178.0,70.0,Left,15,M,['RW'],15700000.0,EUR,24264,Girona FC,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+910026,Bryan Gil,2001-02-11,25.0,Spain,,176.0,60.0,Left,17,M,['LW'],8199999.0,EUR,24264,Girona FC,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1860172,Lass Kourouma,2004-03-30,22.0,Guinea,,180.0,,Right,29,M,['MC'],520000.0,EUR,368693,Girona B,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+973699,Iván Martín,1999-02-14,27.0,Spain,,178.0,,Left,23,M,"['MC', 'DM', 'AM']",4600000.0,EUR,24264,Girona FC,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+835484,Fran Beltrán,1999-02-03,27.0,Spain,,170.0,,Right,8,M,"['MC', 'DM']",4200000.0,EUR,24264,Girona FC,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1142566,Gabriel Misehouy,2005-07-18,21.0,Netherlands,,173.0,,Right,27,M,['MC'],875000.0,EUR,24264,Girona FC,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2235122,Izan González,2004-11-05,21.0,Spain,,170.0,,Right,33,M,['MC'],1000000.0,EUR,24264,Girona FC,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+910021,Iván Morante,2001-01-15,25.0,Spain,,180.0,,Left,23,M,"['MC', 'DM']",970000.0,EUR,24264,Girona FC,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1134432,Ricard Artero,2003-02-05,23.0,Spain,,181.0,,Right,36,M,,210000.0,EUR,368693,Girona B,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2607829,Holmes Júnior Zamorano Muñoz,2009-08-07,17.0,Spain,,185.0,,,38,M,['MC'],,,1125655,Girona U18,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1084081,Arnau Martínez,2003-04-25,23.0,Spain,,181.0,,Right,4,D,['DR'],10800000.0,EUR,24264,Girona FC,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1471513,Antal Yaakobishvili,2004-07-12,22.0,Hungary,,193.0,,Both,35,D,['DC'],185000.0,EUR,24264,Girona FC,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+294593,Álex Moreno,1993-06-08,33.0,Spain,,179.0,68.0,Left,24,D,['DL'],3100000.0,EUR,24264,Girona FC,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1002347,Alejandro Francés,2002-08-01,24.0,Spain,,180.0,,Right,16,D,"['DC', 'DR']",2800000.0,EUR,24264,Girona FC,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+135116,David López,1989-10-09,36.0,Spain,,185.0,81.0,Right,5,D,['DC'],545000.0,EUR,24264,Girona FC,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2200317,Gilbert Jordana,2007-02-26,19.0,Spain,,,,,28,D,['DR'],105000.0,EUR,24264,Girona FC,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1916259,Antonio Salguero,2005-06-11,21.0,Spain,,187.0,,,94,D,,92000.0,EUR,368693,Girona B,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1937862,Guillem Badia,2006-11-27,19.0,Spain,,180.0,,Left,39,D,['DL'],24000.0,EUR,24264,Girona FC,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+164343,Paulo Gazzaniga,1992-01-02,34.0,Argentina,,196.0,90.0,Right,13,G,['GK'],1900000.0,EUR,24264,Girona FC,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1521733,Vladyslav Krapyvtsov,2005-06-25,21.0,Ukraine,,188.0,70.0,Right,25,G,['GK'],330000.0,EUR,24264,Girona FC,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+859768,Sergi Puig,1998-11-19,27.0,Spain,,183.0,,Right,99,G,['GK'],53000.0,EUR,24264,Girona FC,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+944656,Julián Alvarez,2000-01-31,26.0,Argentina,,170.0,,Right,19,F,['ST'],116000000.0,EUR,2836,Atlético Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+824200,Ademola Lookman,1997-10-20,28.0,Nigeria,,174.0,78.0,Right,22,F,"['AM', 'ST']",44000000.0,EUR,2836,Atlético Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+309078,Alexander Sørloth,1995-12-05,30.0,Norway,,195.0,90.0,Left,9,F,['ST'],18600000.0,EUR,2836,Atlético Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1131581,Carlos Martín,2002-04-22,24.0,Spain,,182.0,,Right,12,F,['ST'],1500000.0,EUR,2836,Atlético Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2238907,Miguel Cubo,2008-01-01,18.0,Spain,,184.0,,Right,61,F,['ST'],2200000.0,EUR,24326,Atlético Madrileño,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1939329,Sergio Esteban,2007-03-20,19.0,Spain,,180.0,,Right,45,F,['ST'],,,2836,Atlético Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2451074,Sergio Esteban Sánchez,,,Spain,,183.0,,,,F,,,,24326,Atlético Madrileño,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+917087,Kang-in Lee,2001-02-19,25.0,South Korea,,173.0,,Left,7,M,"['RW', 'MC']",30000000.0,EUR,2836,Atlético Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1099352,Giuliano Simeone,2002-12-18,23.0,Argentina,,173.0,,Right,20,M,['MR'],44000000.0,EUR,2836,Atlético Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+910031,Alex Baena,2001-07-19,25.0,Spain,,174.0,,Right,10,M,['ML'],43000000.0,EUR,2836,Atlético Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+177177,Alejandro Grimaldo,1995-09-20,30.0,Spain,,171.0,69.0,Left,20,M,['ML'],19400000.0,EUR,2836,Atlético Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1119345,Obed Vargas,2005-08-05,21.0,Mexico,,175.0,68.0,Right,21,M,"['MC', 'DM']",9300000.0,EUR,2836,Atlético Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1142588,Pablo Barrios,2003-06-15,23.0,Spain,,181.0,,Right,8,M,"['MC', 'DM']",60000000.0,EUR,2836,Atlético Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+990169,Johnny Cardoso,2001-09-20,24.0,USA,,186.0,,Right,5,M,"['MC', 'DM']",18700000.0,EUR,2836,Atlético Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+191182,Thomas Lemar,1995-11-12,30.0,France,,170.0,58.0,Left,15,M,"['MC', 'AM', 'ML']",1900000.0,EUR,2836,Atlético Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+84539,Koke,1992-01-08,34.0,Spain,,177.0,,Right,6,M,"['MC', 'DM']",4600000.0,EUR,2836,Atlético Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+859917,Morten Hjulmand,1999-06-25,27.0,Denmark,,185.0,,Right,23,M,"['MC', 'DM']",48000000.0,EUR,2836,Atlético Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1391752,Rodrigo Mendoza,2005-03-15,21.0,Spain,,182.0,,Right,4,M,['MC'],21000000.0,EUR,2836,Atlético Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1544428,Iker Luque,2005-06-05,21.0,Spain,,168.0,,Right,37,M,['RW'],2200000.0,EUR,24326,Atlético Madrileño,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1143553,Arnau Ortiz,2001-10-29,24.0,Spain,,175.0,,Both,54,M,['LW'],1200000.0,EUR,24326,Atlético Madrileño,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1402996,Jorge Castillo,2006-05-23,20.0,Spain,,180.0,,Right,46,M,['MC'],155000.0,EUR,24326,Atlético Madrileño,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+831799,Nahuel Molina,1998-04-06,28.0,Argentina,,175.0,69.0,Right,16,D,"['DR', 'MR']",14600000.0,EUR,2836,Atlético Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+353138,Marcos Llorente,1995-01-30,31.0,Spain,,184.0,71.0,Right,14,D,['DR'],21000000.0,EUR,2836,Atlético Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+787751,Robin Le Normand,1996-11-11,29.0,Spain,,187.0,,Right,24,D,['DC'],19100000.0,EUR,2836,Atlético Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+325355,José María Giménez,1995-01-20,31.0,Uruguay,,185.0,,Right,2,D,['DC'],8600000.0,EUR,2836,Atlético Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1094106,Marc Pubill,2003-06-20,23.0,Spain,,190.0,,Right,18,D,"['DR', 'DC']",33000000.0,EUR,2836,Atlético Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+807771,Dávid Hancko,1997-12-13,28.0,Slovakia,,188.0,,Left,17,D,"['DC', 'DL']",36000000.0,EUR,2836,Atlético Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+965011,Matteo Ruggeri,2002-07-11,24.0,Italy,,187.0,,Left,3,D,"['DL', 'ML']",27000000.0,EUR,2836,Atlético Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1142591,Javier Boñar,2005-06-03,21.0,Spain,,180.0,,Right,32,D,['DR'],1500000.0,EUR,24326,Atlético Madrileño,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1100964,Aleksa Purić,2003-07-07,23.0,Serbia,,196.0,,Right,40,D,['DC'],1000000.0,EUR,24326,Atlético Madrileño,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1414932,Dani Martinez,2004-05-05,22.0,Spain,,186.0,,Left,30,D,['DC'],550000.0,EUR,24326,Atlético Madrileño,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+997025,Arnau Solà,2003-04-04,23.0,Spain,,179.0,,Left,47,D,['DL'],310000.0,EUR,24326,Atlético Madrileño,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1542813,Romeo Hueso,2007-04-03,19.0,Spain,,178.0,,Right,49,D,['DR'],97000.0,EUR,24326,Atlético Madrileño,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+263651,Juan Musso,1994-05-06,32.0,Argentina,,191.0,,Right,1,G,['GK'],3200000.0,EUR,2836,Atlético Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+69768,Jan Oblak,1993-01-07,33.0,Slovenia,,189.0,84.0,Right,13,G,['GK'],16000000.0,EUR,2836,Atlético Madrid,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1179149,Salvi Esquivel,2005-09-30,20.0,Spain,,193.0,,Left,31,G,['GK'],970000.0,EUR,24326,Atlético Madrileño,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1614359,Daniel Rubio,2007-11-12,18.0,Spain,,182.0,,Left,55,G,['GK'],,,1119104,Atletico Madrid C,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1520799,Maroan Sannadi,2001-02-01,25.0,Morocco,,192.0,85.0,Right,21,F,['ST'],2800000.0,EUR,2825,Athletic Club,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+605672,Gorka Guruzeta,1996-09-12,29.0,Spain,,188.0,,Right,11,F,['ST'],4600000.0,EUR,2825,Athletic Club,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1160960,Álvaro Djaló,1999-08-16,26.0,Guinea-Bissau,,176.0,,Right,49,F,['RW'],4300000.0,EUR,2825,Athletic Club,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1085400,Nico Williams,2002-07-12,24.0,Spain,,180.0,,Right,10,M,['LW'],44000000.0,EUR,2825,Athletic Club,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+783374,Iñaki Williams,1994-06-15,32.0,Ghana,,186.0,76.0,Right,9,M,['RW'],7300000.0,EUR,2825,Athletic Club,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+966801,Oihan Sancet,2000-04-25,26.0,Spain,,188.0,,Right,8,M,['AM'],24000000.0,EUR,2825,Athletic Club,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+592012,Álex Berenguer,1995-07-04,31.0,Spain,,175.0,70.0,Right,7,M,"['LW', 'RW']",4099999.0,EUR,2825,Athletic Club,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1495844,Mikel Jauregizar,2003-11-13,22.0,Spain,,177.0,,Right,18,M,"['MC', 'DM']",31000000.0,EUR,2825,Athletic Club,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+96365,Iñigo Ruiz de Galarreta,1993-08-06,33.0,Spain,,174.0,64.0,Right,16,M,"['MC', 'DM']",1800000.0,EUR,2825,Athletic Club,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+944165,Robert Navarro,2002-04-12,24.0,Spain,,178.0,,Right,23,M,"['LW', 'RW']",6500000.0,EUR,2825,Athletic Club,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2110897,Alejandro Rego Mora,2003-06-11,23.0,Spain,,192.0,,Right,30,M,"['MC', 'DM']",5500000.0,EUR,2825,Athletic Club,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1012409,Beñat Prados,2001-02-08,25.0,Spain,,179.0,,Right,24,M,"['MC', 'DM']",15500000.0,EUR,2825,Athletic Club,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1464648,Peio Canales,2005-01-17,21.0,Spain,,175.0,,Right,28,M,"['AM', 'MC']",9700000.0,EUR,2825,Athletic Club,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1953923,Selton Sanchez,2007-02-20,19.0,Spain,,185.0,78.0,Right,44,M,['MC'],2900000.0,EUR,2825,Athletic Club,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1019318,Nico Serrano,2003-03-05,23.0,Spain,,178.0,,Left,22,M,['LW'],1600000.0,EUR,2825,Athletic Club,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+966802,Unai Vencedor,2000-11-15,25.0,Spain,,176.0,,Right,13,M,"['MC', 'DM']",1500000.0,EUR,2825,Athletic Club,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1474267,Elijah Gift,2006-06-11,20.0,Spain,,183.0,,Left,40,M,['LW'],940000.0,EUR,24324,Athletic Club B U21,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1171619,Beñat Gerenabarrena,2003-03-29,23.0,Spain,,173.0,,Right,29,M,"['MC', 'DM']",1000000.0,EUR,2825,Athletic Club,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+149734,Aymeric Laporte,1994-05-27,32.0,Spain,,191.0,87.0,Left,14,D,['DC'],8400000.0,EUR,2825,Athletic Club,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+910978,Dani Vivian,1999-07-05,27.0,Spain,,183.0,,Right,3,D,['DC'],18200000.0,EUR,2825,Athletic Club,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1398511,Adama Boiro,2002-06-22,24.0,Spain,,182.0,,Left,19,D,['DL'],2300000.0,EUR,2825,Athletic Club,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+84531,Yuri Berchiche,1990-02-10,36.0,Spain,,181.0,77.0,Left,17,D,['DL'],910000.0,EUR,2825,Athletic Club,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+959872,Aitor Paredes,2000-04-29,26.0,Spain,,186.0,,Right,4,D,['DC'],7100000.0,EUR,2825,Athletic Club,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+807648,Yeray Álvarez,1995-01-24,31.0,Spain,,183.0,78.0,Right,5,D,['DC'],930000.0,EUR,2825,Athletic Club,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+910267,Jesús Areso,1999-07-02,27.0,Spain,,183.0,,Right,12,D,['DR'],5500000.0,EUR,2825,Athletic Club,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+866810,Andoni Gorosabel,1996-08-04,30.0,Spain,,174.0,,Right,2,D,['DR'],2900000.0,EUR,2825,Athletic Club,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1632454,Hugo Rincón,2003-01-27,23.0,Spain,,183.0,78.0,Right,32,D,"['DR', 'MR']",3400000.0,EUR,2825,Athletic Club,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1391374,Unai Eguíluz,2002-03-19,24.0,Spain,,186.0,80.0,Right,13,D,['DC'],410000.0,EUR,2825,Athletic Club,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1170526,Johaneko Louis Jean,2004-06-28,22.0,France,,175.0,,Right,31,D,"['DR', 'DL']",190000.0,EUR,24324,Athletic Club B U21,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1934668,Iker Monreal Agundez,2005-07-03,21.0,Spain,,185.0,,Left,47,D,['DC'],1100000.0,EUR,24324,Athletic Club B U21,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+797291,Unai Simón,1997-06-11,29.0,Spain,,189.0,86.0,Right,1,G,['GK'],21000000.0,EUR,2825,Athletic Club,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1155116,Alex Padilla,2003-09-01,22.0,Mexico,,190.0,,Right,27,G,['GK'],3100000.0,EUR,2825,Athletic Club,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1102713,Mikel Santos,2004-11-01,21.0,Spain,,182.0,,Left,26,G,['GK'],290000.0,EUR,24324,Athletic Club B U21,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+823622,Mikel Oyarzabal,1997-04-21,29.0,Spain,,181.0,75.0,Left,10,F,['ST'],27000000.0,EUR,2824,Real Sociedad,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1026015,Orri Óskarsson,2004-08-29,21.0,Iceland,,186.0,,Right,9,F,['ST'],21000000.0,EUR,2824,Real Sociedad,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1099175,Jon Karrikaburu,2002-09-19,23.0,Spain,,183.0,,Right,19,F,['ST'],1600000.0,EUR,2824,Real Sociedad,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1985103,Gorka Carrera Zarranz,2005-05-15,21.0,Spain,,178.0,,Left,42,F,['ST'],3900000.0,EUR,24360,Real Sociedad B,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+880218,Takefusa Kubo,2001-06-04,25.0,Japan,,174.0,67.0,Left,14,M,['RW'],21000000.0,EUR,2824,Real Sociedad,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+949156,Luka Sučić,2002-09-08,23.0,Croatia,,185.0,,Left,24,M,"['AM', 'MC']",10900000.0,EUR,2824,Real Sociedad,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+280979,Gonçalo Guedes,1996-11-29,29.0,Portugal,,179.0,68.0,Right,11,M,"['ST', 'LW']",5700000.0,EUR,2824,Real Sociedad,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1066045,Arsen Zakharyan,2003-05-26,23.0,Russia,,183.0,,Right,21,M,"['MC', 'LW']",8700000.0,EUR,2824,Real Sociedad,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+839585,Yangel Herrera,1998-01-07,28.0,Venezuela,,184.0,75.0,Right,12,M,"['MC', 'DM']",5600000.0,EUR,2824,Real Sociedad,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+832427,Carlos Soler,1997-01-02,29.0,Spain,,180.0,76.0,Right,18,M,"['MC', 'AM']",6600000.0,EUR,2824,Real Sociedad,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+966862,Ander Barrenetxea,2001-12-27,24.0,Spain,,174.0,,Right,7,M,['LW'],17200000.0,EUR,2824,Real Sociedad,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1111081,Job Ochieng,2003-01-17,23.0,Kenya,,185.0,,Right,47,M,['RW'],2200000.0,EUR,24360,Real Sociedad B,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+980410,Beñat Turrientes,2002-01-31,24.0,Spain,,179.0,,Right,8,M,"['MC', 'DM']",10600000.0,EUR,2824,Real Sociedad,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1216309,Jon Gorrotxategi,2002-02-02,24.0,Spain,,177.0,72.0,Right,4,M,"['DM', 'MC']",27000000.0,EUR,2824,Real Sociedad,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1139409,Pablo Marín,2003-07-03,23.0,Spain,,178.0,,Right,15,M,"['MC', 'AM']",7400000.0,EUR,2824,Real Sociedad,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1466128,Dani Díaz,2006-06-22,20.0,Spain,,165.0,,Left,26,M,['MR'],1900000.0,EUR,24360,Real Sociedad B,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1136702,Mikel Goti,2002-05-23,24.0,Spain,,185.0,,Left,22,M,"['AM', 'MC']",955000.0,EUR,2824,Real Sociedad,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1413858,Alex Lebarbier,2004-08-23,21.0,France,,184.0,,Right,36,M,['MC'],420000.0,EUR,24360,Real Sociedad B,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1116388,Jon Aramburu,2002-07-23,24.0,Venezuela,,176.0,71.0,Right,2,D,['DR'],13900000.0,EUR,2824,Real Sociedad,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+855835,Sergio Gómez,2000-09-04,25.0,Spain,,171.0,68.0,Left,17,D,"['DL', 'LW']",14600000.0,EUR,2824,Real Sociedad,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+353250,Álvaro Odriozola,1995-12-14,30.0,Spain,,175.0,74.0,Right,20,D,['DR'],825000.0,EUR,2824,Real Sociedad,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1466116,Jon Martin,2006-04-23,20.0,Spain,,185.0,79.0,Right,31,D,['DC'],24000000.0,EUR,2824,Real Sociedad,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+838159,Igor Zubeldia,1997-03-30,29.0,Spain,,180.0,75.0,Right,5,D,['DC'],6300000.0,EUR,2824,Real Sociedad,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1476196,Kazunari Kita,2005-09-16,20.0,Japan,,187.0,,Left,15,D,['DC'],1800000.0,EUR,2824,Real Sociedad,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+934383,Jon Pacheco,2001-01-08,25.0,Spain,,184.0,,Left,20,D,['DC'],5200000.0,EUR,2824,Real Sociedad,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+966441,Aihen Muñoz,1997-08-16,28.0,Spain,,175.0,72.0,Left,3,D,['DL'],2600000.0,EUR,2824,Real Sociedad,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+945404,Javi López,2002-03-25,24.0,Spain,,183.0,,Left,12,D,['DL'],5400000.0,EUR,2824,Real Sociedad,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1539149,Luken Beitia,2004-06-30,22.0,Spain,,191.0,,Right,38,D,['DC'],1100000.0,EUR,24360,Real Sociedad B,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1657024,Iñaki Rupérez,2003-01-07,23.0,Spain,,177.0,,Right,33,D,['DR'],205000.0,EUR,2824,Real Sociedad,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+791773,Álex Remiro,1995-03-24,31.0,Spain,,191.0,80.0,Right,1,G,['GK'],9600000.0,EUR,2824,Real Sociedad,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1094782,Unai Marrero,2001-10-09,24.0,Spain,,187.0,,Right,13,G,['GK'],1100000.0,EUR,2824,Real Sociedad,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1540047,Theo Folgado,2005-01-27,21.0,France,,198.0,,,41,G,['GK'],27000.0,EUR,241845,Real Sociedad C,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+887055,Cucho Hernández,1999-04-20,27.0,Colombia,,175.0,73.0,Right,9,F,['ST'],16500000.0,EUR,2816,Real Betis,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1482378,Gonzalo Petit,2006-09-21,19.0,Uruguay,,189.0,86.0,Right,9,F,['ST'],4200000.0,EUR,2816,Real Betis,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+958380,Antony,2000-02-24,26.0,Brazil,,172.0,,Left,7,M,['RW'],37000000.0,EUR,2816,Real Betis,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1011375,Abdessamad Ezzalzouli,2001-12-17,24.0,Morocco,,177.0,,Right,10,M,['LW'],43000000.0,EUR,2816,Real Betis,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+103417,Isco,1992-04-21,34.0,Spain,,176.0,74.0,Right,22,M,['AM'],3600000.0,EUR,2816,Real Betis,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+798835,Giovani Lo Celso,1996-04-09,30.0,Argentina,,177.0,70.0,Left,20,M,"['AM', 'MC']",7800000.0,EUR,2816,Real Betis,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+838629,Álvaro Fidalgo,1997-04-09,29.0,Mexico,,174.0,,Right,15,M,"['MC', 'DM', 'AM']",6500000.0,EUR,2816,Real Betis,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1129401,Nelson Deossa,2000-02-06,26.0,Colombia,,185.0,,Left,18,M,"['MC', 'DM', 'AM']",9800000.0,EUR,2816,Real Betis,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+989113,Rodrigo Riquelme,2000-04-02,26.0,Spain,,174.0,,Right,17,M,['LW'],4300000.0,EUR,2816,Real Betis,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+816763,Pablo Fornals,1996-02-22,30.0,Spain,,178.0,67.0,Right,8,M,"['MC', 'DM', 'RW', 'AM']",8400000.0,EUR,2816,Real Betis,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1893910,Pablo García,2006-06-13,20.0,Spain,,175.0,67.0,Left,33,M,['RW'],8199999.0,EUR,2816,Real Betis,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1177404,Facundo Bernal,2003-08-21,22.0,Uruguay,,187.0,,Right,6,M,"['MC', 'DM']",5800000.0,EUR,2816,Real Betis,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+847128,Marc Roca,1996-11-26,29.0,Spain,,184.0,74.0,Left,21,M,"['MC', 'DM']",4200000.0,EUR,2816,Real Betis,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2006447,José Morante,2007-06-28,19.0,Spain,,173.0,,Both,27,M,['RW'],965000.0,EUR,2816,Real Betis,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+992331,Iker Losada,2001-08-01,25.0,Spain,,175.0,,Right,14,M,['AM'],2000000.0,EUR,2816,Real Betis,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2038238,Gnangoro Bouare Samake,2004-08-13,21.0,Spain,,184.0,74.0,Left,34,M,"['MC', 'DM']",47000.0,EUR,2816,Real Betis,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1976132,Rica Fúnez,2007-02-02,19.0,Spain,,173.0,,Right,99,M,['MC'],23000.0,EUR,2816,Real Betis,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+851271,Fran García,1999-08-14,26.0,Spain,,170.0,,Left,11,D,['DL'],9200000.0,EUR,2816,Real Betis,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+188365,Héctor Bellerín,1995-03-19,31.0,Spain,,178.0,74.0,Right,2,D,['DR'],2500000.0,EUR,2816,Real Betis,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1015287,Natan,2001-02-06,25.0,Brazil,,188.0,,Left,4,D,['DC'],26000000.0,EUR,2816,Real Betis,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1186010,Valentín Gómez,2003-06-26,23.0,Argentina,,181.0,,Left,16,D,['DC'],11200000.0,EUR,2816,Real Betis,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+914835,Junior Firpo,1996-08-22,29.0,Dominican Republic,,184.0,75.0,Left,23,D,['DL'],3400000.0,EUR,2816,Real Betis,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+99519,Marc Bartra,1991-01-15,35.0,Spain,,183.0,73.0,Right,5,D,['DC'],930000.0,EUR,2816,Real Betis,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+305278,Diego Llorente,1993-08-16,32.0,Spain,,185.0,75.0,Right,3,D,['DC'],2600000.0,EUR,2816,Real Betis,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+893062,Aitor Ruibal,1996-03-22,30.0,Spain,,176.0,,Right,24,D,['DR'],3900000.0,EUR,2816,Real Betis,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1152139,Angel Ortiz,2004-07-25,22.0,Spain,,167.0,,Right,40,D,['DR'],4400000.0,EUR,2816,Real Betis,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2456934,Jean Emmanuel  N'Agoran,2007-01-01,19.0,Côte d'Ivoire,,190.0,,,45,D,['DC'],52000.0,EUR,24358,Betis Deportivo,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+50539,Adrián,1987-01-03,39.0,Spain,,190.0,80.0,Right,13,G,['GK'],,,2816,Real Betis,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+964983,Álvaro Valles,1997-07-25,29.0,Spain,,192.0,,Right,1,G,['GK'],6500000.0,EUR,2816,Real Betis,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+951008,Diego Conde,1998-10-28,27.0,Spain,,188.0,,Right,13,G,['GK'],3200000.0,EUR,2816,Real Betis,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1823954,Manu González,2007-04-18,19.0,Spain,,191.0,,Right,41,G,['GK'],315000.0,EUR,2816,Real Betis,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1496493,Yan Zhuravskiy,2009-07-27,17.0,Ukraine,,,,,30,G,,,,2816,Real Betis,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+593526,Nicolas Pépé,1995-05-29,31.0,Côte d'Ivoire,,183.0,68.0,Left,19,F,"['ST', 'MR', 'RW']",6600000.0,EUR,2819,Villarreal,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1009372,Georges Mikautadze,2000-10-31,25.0,Georgia,,176.0,,Right,9,F,['ST'],32000000.0,EUR,2819,Villarreal,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+146866,Gerard Moreno,1992-04-07,34.0,Spain,,180.0,75.0,Left,7,F,['ST'],2400000.0,EUR,2819,Villarreal,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+345195,Ayoze Pérez,1993-07-23,33.0,Spain,,180.0,66.0,Right,22,F,"['ST', 'LW']",5400000.0,EUR,2819,Villarreal,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1172477,Tani Oluwaseyi,2000-05-15,26.0,Canada,,188.0,,Left,21,F,['ST'],7500000.0,EUR,2819,Villarreal,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+879694,Pape Gueye,1999-01-24,27.0,Senegal,,187.0,,Left,18,M,['MC'],39000000.0,EUR,2819,Villarreal,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1089108,Ilias Akhomach,2004-04-16,22.0,Morocco,,175.0,,Left,11,M,"['RW', 'MR']",11100000.0,EUR,2819,Villarreal,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+973290,Tajon Buchanan,1999-02-08,27.0,Canada,,183.0,,Right,17,M,"['MR', 'DR']",13000000.0,EUR,2819,Villarreal,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1012444,Alberto Moleiro,2003-09-30,22.0,Spain,,172.0,,Right,20,M,"['ML', 'LW']",54000000.0,EUR,2819,Villarreal,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1893907,Alassane Diatta,2005-05-14,21.0,Senegal,,190.0,,Left,28,M,['MC'],660000.0,EUR,2819,Villarreal,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1201412,Thiago Fernández,2004-04-03,22.0,Argentina,,175.0,,Right,24,M,['LW'],4700000.0,EUR,2819,Villarreal,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+843678,Santi Comesaña,1996-10-05,29.0,Spain,,187.0,,Both,14,M,['MC'],8400000.0,EUR,2819,Villarreal,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2238900,Carlos Maciá,2008-09-01,17.0,Spain,,190.0,,Right,26,M,['MC'],2900000.0,EUR,2819,Villarreal,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1087359,Renato Veiga,2003-07-29,23.0,Portugal,,190.0,83.0,Left,12,D,['DC'],29000000.0,EUR,2819,Villarreal,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+873189,Juan Foyth,1998-01-12,28.0,Argentina,,187.0,77.0,Right,8,D,"['DR', 'DC']",8600000.0,EUR,2819,Villarreal,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1468046,Santiago Mouriño,2002-02-13,24.0,Uruguay,,186.0,76.0,Right,15,D,"['DR', 'DC']",19400000.0,EUR,2819,Villarreal,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1136721,Willy Kambwala,2004-08-25,21.0,DR Congo,,192.0,,Right,5,D,['DC'],3100000.0,EUR,2819,Villarreal,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1184541,Alexander Freeman,2004-08-09,22.0,USA,,188.0,,Right,3,D,['DR'],9200000.0,EUR,2819,Villarreal,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1396048,Carlos Romero,2001-10-29,24.0,Spain,,174.0,,Left,16,D,['DL'],24000000.0,EUR,2819,Villarreal,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+911853,Logan Costa,2001-04-01,25.0,Cape Verde,,188.0,,Right,2,D,['DC'],14600000.0,EUR,2819,Villarreal,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+986245,Sergi Cardona,1999-07-08,27.0,Spain,,186.0,,Left,23,D,['DL'],8600000.0,EUR,2819,Villarreal,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1525863,Pau Navarro,2005-04-25,21.0,Spain,,185.0,,Right,6,D,"['DC', 'DR']",14600000.0,EUR,2819,Villarreal,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2270731,Moussa Diallo,2007-01-01,19.0,Senegal,,,,Right,33,D,['DC'],,,2819,Villarreal,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1066603,Luiz Júnior,2001-01-14,25.0,Brazil,,192.0,,Left,1,G,['GK'],12400000.0,EUR,2819,Villarreal,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+37096,Péter Gulácsi,1990-05-06,36.0,Hungary,,190.0,83.0,Right,25,G,['GK'],970000.0,EUR,2819,Villarreal,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1407702,Rubén Gómez,2002-01-24,24.0,Spain,,185.0,,Right,35,G,['GK'],390000.0,EUR,2819,Villarreal,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+827064,Arnaut Danjuma,1997-01-31,29.0,Netherlands,,178.0,,Right,7,F,"['ST', 'LW']",2800000.0,EUR,2828,Valencia,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+754710,Umar Sadiq,1997-02-02,29.0,Nigeria,,192.0,75.0,Right,6,F,['ST'],3900000.0,EUR,2828,Valencia,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+909119,Hugo Duro,1999-11-10,26.0,Spain,,180.0,,Left,9,F,['ST'],11600000.0,EUR,2828,Valencia,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+873947,Dani Raba,1995-10-29,30.0,Spain,,184.0,,Left,19,F,"['RW', 'MR', 'ST']",1200000.0,EUR,2828,Valencia,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1580022,David Otorbi,2007-10-16,18.0,Spain,,180.0,,Right,27,F,['RW'],465000.0,EUR,2828,Valencia,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+990232,Alberto Mari,2001-07-11,25.0,Spain,,183.0,,Right,19,F,['ST'],660000.0,EUR,2828,Valencia,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1967732,Aimar Blazquez,2006-03-19,20.0,Spain,,194.0,,Right,37,F,['ST'],92000.0,EUR,2828,Valencia,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+933780,Aliou Dieng,1997-10-16,28.0,Mali,,184.0,,Right,15,M,"['MC', 'DM']",3100000.0,EUR,2828,Valencia,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+609752,Guido Rodríguez,1994-04-12,32.0,Argentina,,185.0,80.0,Right,2,M,"['MC', 'DM']",4200000.0,EUR,2828,Valencia,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1122610,Javier Guerra,2003-05-13,23.0,Spain,,187.0,,Right,8,M,"['MC', 'DM']",26000000.0,EUR,2828,Valencia,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+826948,Pepelu,1998-08-11,28.0,Spain,,185.0,73.0,Right,18,M,"['MC', 'DM']",7300000.0,EUR,2828,Valencia,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1476200,Ryunosuke Sato,2006-10-16,19.0,Japan,,171.0,,Right,39,M,['RW'],2100000.0,EUR,2828,Valencia,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+998950,Diego López,2002-05-13,24.0,Spain,,172.0,,Right,16,M,"['LW', 'ML']",9600000.0,EUR,2828,Valencia,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+845693,André Almeida,2000-05-30,26.0,Portugal,,176.0,62.0,Right,10,M,"['MC', 'AM']",6200000.0,EUR,2828,Valencia,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+900433,Luis Rioja,1993-10-16,32.0,Spain,,173.0,,Left,11,M,"['MR', 'LW', 'RW']",1900000.0,EUR,2828,Valencia,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+857482,Filip Ugrinić,1999-01-05,27.0,Switzerland,,185.0,84.0,Right,23,M,"['MC', 'AM']",5700000.0,EUR,2828,Valencia,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+790833,Sergi Canós,1997-02-02,29.0,Spain,,173.0,75.0,Right,7,M,"['LW', 'ML', 'MR']",630000.0,EUR,2828,Valencia,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1926094,Jaume Durá,2008-05-15,18.0,Spain,,175.0,,Right,93,M,,96000.0,EUR,2828,Valencia,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2468733,Aaron Mayol,2008-04-03,18.0,Spain,,,,,33,M,,47000.0,EUR,2828,Valencia,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+797306,Mouctar Diakhaby,1996-12-19,29.0,Guinea,,192.0,74.0,Right,4,D,['DC'],1500000.0,EUR,2828,Valencia,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+227922,José Luis Gayà,1995-05-25,31.0,Spain,,172.0,64.0,Left,14,D,['DL'],4300000.0,EUR,2828,Valencia,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+996928,César Tárrega,2002-02-26,24.0,Spain,,193.0,,Right,5,D,['DC'],9300000.0,EUR,2828,Valencia,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+151138,Dimitri Foulquier,1993-03-23,33.0,Guadeloupe,,183.0,79.0,Right,20,D,['DR'],980000.0,EUR,2828,Valencia,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+996929,Jesús Vázquez,2003-01-02,23.0,Spain,,182.0,,Left,21,D,['DL'],4200000.0,EUR,2828,Valencia,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+913695,José Copete,1999-10-10,26.0,Spain,,190.0,,Left,3,D,['DC'],4500000.0,EUR,2828,Valencia,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+876255,Justin De Haas,2000-02-01,26.0,Netherlands,,192.0,,Left,12,D,['DC'],7700000.0,EUR,2828,Valencia,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1881587,Amos Wanjala,2006-03-28,20.0,Kenya,,,,,32,D,['DC'],54000.0,EUR,2828,Valencia,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1563953,Iker Cordoba,2005-11-11,20.0,Spain,,190.0,,Left,36,D,['DC'],485000.0,EUR,2828,Valencia,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2109734,Rodrigo Gamón,2007-01-01,19.0,Spain,,,,,31,D,,190000.0,EUR,2828,Valencia,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+97951,Stole Dimitrievski,1993-12-25,32.0,North Macedonia,,188.0,81.0,Right,1,G,['GK'],2100000.0,EUR,2828,Valencia,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+914744,Cristian Rivero,1998-03-21,28.0,Spain,,188.0,,Right,13,G,['GK'],94000.0,EUR,2828,Valencia,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1464650,Vicent Abril,2005-02-15,21.0,Spain,,187.0,,Right,28,G,['GK'],205000.0,EUR,2828,Valencia,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+175753,Mariano Díaz,1993-08-01,33.0,Dominican Republic,,180.0,79.0,Right,9,F,['ST'],285000.0,EUR,2885,Deportivo Alavés,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+831253,Toni Martínez,1997-06-30,29.0,Spain,,180.0,70.0,Right,11,F,['ST'],7300000.0,EUR,2885,Deportivo Alavés,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+814385,Lucas Boyé,1996-02-28,30.0,Argentina,,183.0,81.0,Right,15,F,['ST'],5300000.0,EUR,2885,Deportivo Alavés,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1639543,Aitor Mañas,2003-01-05,23.0,Spain,,185.0,,Left,34,F,['ST'],570000.0,EUR,2885,Deportivo Alavés,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2398123,Izei Hernandez,2007-02-02,19.0,Spain,,181.0,,,32,F,,205000.0,EUR,254356,Deportivo Alavés B,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1082968,Abderrahman Rebbach,1998-08-11,28.0,Algeria,,176.0,,Right,21,M,['LW'],2400000.0,EUR,2885,Deportivo Alavés,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+855832,Antonio Blanco,2000-07-23,26.0,Spain,,176.0,,Right,8,M,"['MC', 'DM']",9700000.0,EUR,2885,Deportivo Alavés,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+794937,Carles Aleñá,1998-01-05,28.0,Spain,,180.0,73.0,Left,10,M,"['MC', 'ML']",2800000.0,EUR,2885,Deportivo Alavés,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+138383,Denis Suárez,1994-01-06,32.0,Spain,,176.0,69.0,Right,4,M,['MC'],1100000.0,EUR,2885,Deportivo Alavés,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1014118,Miguel Rodríguez,2003-04-29,23.0,Spain,,179.0,,Left,22,M,"['RW', 'ST']",4099999.0,EUR,2885,Deportivo Alavés,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1084381,Pablo Ibáñez,1998-01-01,28.0,Spain,,179.0,,Right,19,M,"['MC', 'DM']",4099999.0,EUR,2885,Deportivo Alavés,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+891931,Ander Guevara,1997-07-07,29.0,Spain,,180.0,,Right,6,M,"['MC', 'DM']",2700000.0,EUR,2885,Deportivo Alavés,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1513222,Ángel Pérez,2002-08-29,23.0,Spain,,183.0,,Left,7,M,['MR'],2800000.0,EUR,2885,Deportivo Alavés,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1522234,Selu Diallo,2003-10-01,22.0,Guinea,,187.0,,Right,28,M,['MC'],365000.0,EUR,2885,Deportivo Alavés,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+788142,Mikel Rodriguez,2002-04-03,24.0,Spain,,175.0,,Right,8,M,"['MC', 'DM']",720000.0,EUR,2885,Deportivo Alavés,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1119693,Tomás Mendes,2004-11-21,21.0,Guinea-Bissau,,179.0,,Right,30,M,,520000.0,EUR,2885,Deportivo Alavés,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1403364,Youssef Enriquez,2005-10-07,20.0,Morocco,,170.0,,Right,3,D,"['DL', 'ML']",4300000.0,EUR,2885,Deportivo Alavés,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+879875,Facundo Garcés,1999-09-05,26.0,Argentina,,191.0,82.0,Right,2,D,['DC'],1300000.0,EUR,2885,Deportivo Alavés,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1116570,Nicolás Valentini,2001-04-06,25.0,Argentina,,184.0,79.0,Left,14,D,['DC'],3100000.0,EUR,2885,Deportivo Alavés,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+896073,Nahuel Tenaglia,1996-02-21,30.0,Argentina,,182.0,71.0,Right,14,D,"['DR', 'DC']",3200000.0,EUR,2885,Deportivo Alavés,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+985262,Moussa Diarra,2000-11-10,25.0,Mali,,183.0,,Left,22,D,"['DC', 'DL']",1800000.0,EUR,2885,Deportivo Alavés,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+235648,Jonny Otto,1994-03-03,32.0,Spain,,175.0,70.0,Both,17,D,['DR'],2100000.0,EUR,2885,Deportivo Alavés,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+873717,Carlos Benavídez,1998-03-30,28.0,Uruguay,,185.0,76.0,Right,23,D,"['MC', 'DM']",960000.0,EUR,2885,Deportivo Alavés,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+999178,Ville Koski,2002-01-27,24.0,Finland,,185.0,,Right,16,D,['DC'],1600000.0,EUR,2885,Deportivo Alavés,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1001967,Hugo Novoa,2003-01-24,23.0,Spain,,182.0,,Right,16,D,['DR'],725000.0,EUR,2885,Deportivo Alavés,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+101156,Nikola Maraš,1995-12-19,30.0,Serbia,,189.0,,Right,12,D,['DC'],620000.0,EUR,2885,Deportivo Alavés,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1606695,Xanet Olaiz,2005-07-18,21.0,Spain,,183.0,,Left,35,D,,210000.0,EUR,254356,Deportivo Alavés B,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1855438,Álvaro García,2005-09-15,20.0,Spain,,192.0,,,26,D,,190000.0,EUR,254356,Deportivo Alavés B,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+369004,Antonio Sivera,1996-08-11,30.0,Spain,,184.0,75.0,Right,1,G,['GK'],5600000.0,EUR,2885,Deportivo Alavés,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+990659,Jesús Owono,2001-03-01,25.0,Equatorial Guinea,,183.0,67.0,Both,13,G,['GK'],935000.0,EUR,2885,Deportivo Alavés,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+965822,Adrián Rodríguez,2000-12-12,25.0,Argentina,,195.0,,Right,31,G,['GK'],185000.0,EUR,2885,Deportivo Alavés,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1440572,Grégoire Swiderski,2005-10-05,20.0,Canada,,187.0,72.0,Right,31,G,,240000.0,EUR,254356,Deportivo Alavés B,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+37318,Ante Budimir,1991-07-22,35.0,Croatia,,190.0,75.0,Left,17,F,['ST'],2600000.0,EUR,2820,Osasuna,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+997280,Raúl García de Haro,2000-11-03,25.0,Spain,,192.0,,Right,9,F,['ST'],3100000.0,EUR,2820,Osasuna,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1086346,Iker Benito,2002-08-10,24.0,Spain,,176.0,,Right,2,F,['LW'],1500000.0,EUR,2820,Osasuna,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+591132,Kike Barja,1997-04-04,29.0,Spain,,178.0,69.0,Right,11,F,"['LW', 'RW']",1500000.0,EUR,2820,Osasuna,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1917868,Asier Bonel,2008-01-17,18.0,Spain,,180.0,,Right,19,F,['ST'],290000.0,EUR,24328,Osasuna B,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+980383,Raúl Moro,2002-12-05,23.0,Spain,,169.0,,Right,18,M,['LW'],3300000.0,EUR,2820,Osasuna,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+985329,Aimar Oroz,2001-11-27,24.0,Spain,,177.0,,Right,10,M,"['AM', 'MC']",6900000.0,EUR,2820,Osasuna,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+260031,Rubén García,1993-07-14,33.0,Spain,,171.0,72.0,Left,14,M,['RW'],1700000.0,EUR,2820,Osasuna,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+976141,Jon Moncayola,1998-05-13,28.0,Spain,,182.0,73.0,Right,7,M,"['MC', 'DM']",7300000.0,EUR,2820,Osasuna,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+187313,Lucas Torró,1994-07-19,32.0,Spain,,190.0,77.0,Right,6,M,"['MC', 'DM']",2700000.0,EUR,2820,Osasuna,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+149370,Moi Gómez,1994-06-23,32.0,Spain,,174.0,65.0,Right,16,M,"['MC', 'LW']",1600000.0,EUR,2820,Osasuna,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1094517,Jonathan Dubasin,2000-02-02,26.0,Spain,,180.0,,Right,17,M,['RW'],4300000.0,EUR,2820,Osasuna,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1119586,Iker Muñoz,2002-11-05,23.0,Spain,,179.0,,Right,8,M,"['MC', 'DM']",1800000.0,EUR,2820,Osasuna,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1916249,Anai Morales,2006-01-01,20.0,Spain,,,,,20,M,,390000.0,EUR,24328,Osasuna B,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1512107,Mauro Echegoyen,2005-03-03,21.0,Spain,,177.0,,,26,M,"['MC', 'DM']",215000.0,EUR,24328,Osasuna B,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1067582,Enzo Boyomo,2001-10-07,24.0,Cameroon,,181.0,,Right,22,D,['DC'],14600000.0,EUR,2820,Osasuna,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+900792,Alejandro Catena,1994-10-28,31.0,Spain,,194.0,,Right,24,D,['DC'],2700000.0,EUR,2820,Osasuna,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+842419,Valentin Rosier,1996-08-19,29.0,France,,175.0,70.0,Right,19,D,['DR'],3100000.0,EUR,2820,Osasuna,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1010165,Abel Bretones,2000-08-21,25.0,Spain,,188.0,,Left,23,D,['DL'],3400000.0,EUR,2820,Osasuna,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+944225,Jorge Herrando,2001-02-28,25.0,Spain,,192.0,,Left,5,D,['DC'],3200000.0,EUR,2820,Osasuna,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1399702,Asier Osambela,2004-10-30,21.0,Spain,,186.0,,Right,29,D,"['MC', 'AM']",1000000.0,EUR,2820,Osasuna,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1495856,Iñigo Arguibide,2005-04-19,21.0,Spain,,178.0,,Right,41,D,['DR'],850000.0,EUR,2820,Osasuna,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2428013,Kepa Sarango,2007-06-07,19.0,Spain,,190.0,,Right,36,D,['DR'],49000.0,EUR,24328,Osasuna B,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1917864,Unai Santos,2005-11-03,20.0,Spain,,180.0,,Right,35,D,['DC'],105000.0,EUR,24328,Osasuna B,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+294377,Sergio Herrera,1993-05-06,33.0,Spain,,192.0,82.0,Right,1,G,['GK'],2600000.0,EUR,2820,Osasuna,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+99516,Aitor Fernández,1991-05-03,35.0,Spain,,182.0,78.0,Right,13,G,['GK'],465000.0,EUR,2820,Osasuna,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2030379,Rafa Fernandez,2004-05-02,22.0,Spain,,187.0,,Left,32,G,['GK'],105000.0,EUR,24328,Osasuna B,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1884145,Christantus Uche,2003-05-19,23.0,Nigeria,,190.0,84.0,Both,12,F,"['ST', 'MC']",13200000.0,EUR,2859,Getafe,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+973536,Martín Satriano,2001-02-20,25.0,Uruguay,,187.0,,Right,10,F,['ST'],10600000.0,EUR,2859,Getafe,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+604954,Borja Mayoral,1997-04-05,29.0,Spain,,182.0,,Right,9,F,['ST'],6300000.0,EUR,2859,Getafe,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+96369,Juanmi,1993-05-20,33.0,Spain,,169.0,63.0,Right,7,F,"['LW', 'ST']",910000.0,EUR,2859,Getafe,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1398518,Álex Sancris,1997-01-18,29.0,Spain,,181.0,,Both,18,F,"['MR', 'RW']",1400000.0,EUR,2859,Getafe,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1154549,Mario Martín,2004-03-05,22.0,Spain,,177.0,72.0,Right,6,M,"['MC', 'DM']",10700000.0,EUR,2859,Getafe,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+793988,Orel Mangala,1998-03-18,28.0,Belgium,,178.0,79.0,Right,23,M,"['MC', 'DM']",8600000.0,EUR,2859,Getafe,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+869931,Yvan Neyou,1997-01-03,29.0,Cameroon,,180.0,,Right,4,M,"['MC', 'DM']",1900000.0,EUR,2859,Getafe,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1088565,Ramón Terrats,2000-10-18,25.0,Spain,,179.0,,Left,8,M,['MC'],3200000.0,EUR,2859,Getafe,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+353154,Javier Muñoz,1995-02-28,31.0,Spain,,179.0,,Right,14,M,"['MC', 'AM']",1100000.0,EUR,2859,Getafe,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1101232,Abdel Abqar,1999-03-10,27.0,Morocco,,188.0,,Right,3,D,['DC'],3300000.0,EUR,2859,Getafe,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+307702,Djené,1991-12-31,34.0,Togo,,178.0,,Both,2,D,['DC'],1500000.0,EUR,2859,Getafe,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1101751,Saba Sazonov,2002-02-01,24.0,Georgia,,194.0,,Right,,D,['DC'],825000.0,EUR,2859,Getafe,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1392092,Sebastián Boselli,2003-12-04,22.0,Uruguay,,183.0,,Right,15,D,['DC'],1500000.0,EUR,2859,Getafe,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1108450,Zaid Romero,1999-12-15,26.0,Argentina,,192.0,,Left,24,D,"['DC', 'DL']",2400000.0,EUR,2859,Getafe,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1457536,Andrés García,2003-02-07,23.0,Spain,,183.0,,Right,21,D,['DR'],6500000.0,EUR,2859,Getafe,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1918369,Davinchi,2007-10-16,18.0,Spain,,182.0,,Left,16,D,['DL'],910000.0,EUR,2859,Getafe,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+53739,Kiko Femenía,1991-02-02,35.0,Spain,,176.0,61.0,Right,17,D,['DR'],740000.0,EUR,2859,Getafe,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1924859,Jean Ives Valou,2005-12-22,20.0,Côte d'Ivoire,,188.0,,Left,27,D,['DC'],550000.0,EUR,2859,Getafe,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+851226,Juan Berrocal,1999-02-05,27.0,Spain,,187.0,,Both,4,D,['DC'],1500000.0,EUR,2859,Getafe,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+604258,David Soria,1993-04-04,33.0,Spain,,192.0,85.0,Right,13,G,['GK'],2700000.0,EUR,2859,Getafe,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+826047,Jiří Letáček,1999-01-09,27.0,Czechia,,196.0,,Right,1,G,['GK'],1900000.0,EUR,2859,Getafe,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+785989,Borja Iglesias,1993-01-17,33.0,Spain,,187.0,80.0,Right,7,F,['ST'],2900000.0,EUR,2821,Celta Vigo,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+19356,Iago Aspas,1987-08-01,39.0,Spain,,176.0,67.0,Left,10,F,"['ST', 'RW']",1500000.0,EUR,2821,Celta Vigo,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+949962,Ferran Jutglà,1999-02-01,27.0,Spain,,175.0,,Right,9,F,"['ST', 'LW']",10700000.0,EUR,2821,Celta Vigo,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1173575,Jones El-Abdellaoui,2006-01-12,20.0,Morocco,,184.0,72.0,Right,39,F,['RW'],8400000.0,EUR,2821,Celta Vigo,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1398524,Pablo Durán,2001-05-25,25.0,Spain,,176.0,,Right,18,F,['ST'],4099999.0,EUR,2821,Celta Vigo,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+962890,Ilaix Moriba,2003-01-19,23.0,Guinea,,183.0,,Right,6,M,"['MC', 'DM']",13700000.0,EUR,2821,Celta Vigo,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1126779,Williot Swedberg,2004-02-01,22.0,Sweden,,185.0,,Right,19,M,"['LW', 'MC']",18700000.0,EUR,2821,Celta Vigo,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+158615,Matías Vecino,1991-08-24,34.0,Uruguay,,187.0,83.0,Right,15,M,"['MC', 'DM']",1100000.0,EUR,2821,Celta Vigo,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1397355,Hugo Cuenca,2005-01-08,21.0,Paraguay,,183.0,77.0,Left,30,M,['RW'],310000.0,EUR,2821,Celta Vigo,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+286167,Aleix Febas,1996-02-02,30.0,Spain,,168.0,57.0,Right,14,M,"['MC', 'DM']",5200000.0,EUR,2821,Celta Vigo,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+794950,Carles Pérez,1998-02-16,28.0,Spain,,172.0,,Left,7,M,"['RW', 'MR']",1700000.0,EUR,2821,Celta Vigo,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1154935,Hugo Álvarez,2003-07-02,23.0,Spain,,176.0,,Right,23,M,['ML'],7800000.0,EUR,2821,Celta Vigo,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1002764,Sergio Carreira,2000-10-13,25.0,Spain,,170.0,,Right,5,M,"['MR', 'ML', 'DR']",11500000.0,EUR,2821,Celta Vigo,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1008259,Javier Rueda,2002-05-08,24.0,Spain,,176.0,,Right,17,M,"['DR', 'MR']",6200000.0,EUR,2821,Celta Vigo,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1398526,Miguel Román,2002-12-26,23.0,Spain,,178.0,,Right,16,M,"['MC', 'DM']",14400000.0,EUR,2821,Celta Vigo,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+996931,Hugo González,2003-02-07,23.0,Spain,,181.0,,Right,30,M,['MR'],720000.0,EUR,2821,Celta Vigo,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1916256,Andrés Antañón,2007-01-22,19.0,Spain,,183.0,,Right,36,M,['MC'],535000.0,EUR,24336,Celta Fortuna,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1858279,Hugo Burcio,2006-10-31,19.0,Spain,,187.0,,Right,31,M,"['MC', 'DM']",480000.0,EUR,24336,Celta Fortuna,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+69408,Marcos Alonso,1990-12-28,35.0,Spain,,188.0,84.0,Left,20,D,"['DC', 'DL']",1300000.0,EUR,2821,Celta Vigo,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+825133,Javi Galán,1994-11-19,31.0,Spain,,172.0,70.0,Left,20,D,['DL'],1700000.0,EUR,2821,Celta Vigo,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1529051,Abdoulaye Faye,2004-09-22,21.0,Senegal,,191.0,,Left,25,D,"['DC', 'DL']",4200000.0,EUR,2821,Celta Vigo,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+360718,Carl Starfelt,1995-06-01,31.0,Sweden,,185.0,80.0,Right,2,D,['DC'],4099999.0,EUR,2821,Celta Vigo,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1526627,Javi Rodríguez,2003-06-26,23.0,Spain,,178.0,,Right,32,D,"['DR', 'DC']",17500000.0,EUR,2821,Celta Vigo,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1012410,Alvaro Núñez,2000-07-07,26.0,Spain,,174.0,,Right,14,D,"['DR', 'MR']",3900000.0,EUR,2821,Celta Vigo,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1145100,Yoel Lago,2004-03-25,22.0,Spain,,185.0,,Right,29,D,['DC'],3700000.0,EUR,2821,Celta Vigo,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1630975,Manu Fernández,2001-04-23,25.0,Spain,,185.0,,Right,12,D,['DC'],1400000.0,EUR,2821,Celta Vigo,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1991007,Anxo Rodríguez,2007-03-10,19.0,Spain,,185.0,,Right,26,D,['DC'],515000.0,EUR,24336,Celta Fortuna,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+815890,Altay Bayındır,1998-04-14,28.0,Türkiye,,198.0,,Right,1,G,['GK'],4900000.0,EUR,2821,Celta Vigo,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+815202,Ionuț Radu,1997-05-28,29.0,Romania,,188.0,70.0,Right,13,G,['GK'],8700000.0,EUR,2821,Celta Vigo,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+848980,Iván Villar,1997-07-09,29.0,Spain,,183.0,76.0,Right,1,G,['GK'],960000.0,EUR,2821,Celta Vigo,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+875890,Chidera Ejuke,1998-01-02,28.0,Nigeria,,176.0,72.0,Right,21,F,"['LW', 'RW']",3700000.0,EUR,2833,Sevilla,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1142351,Robbie Ure,2004-02-26,22.0,Scotland,,189.0,,Right,9,F,['ST'],4800000.0,EUR,2833,Sevilla,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1018190,Isaac Romero,2000-05-18,26.0,Spain,,184.0,,Left,7,F,['ST'],5200000.0,EUR,2833,Sevilla,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1468090,Alfon González,1999-05-04,27.0,Spain,,172.0,60.0,Right,17,F,"['LW', 'AM']",3300000.0,EUR,2833,Sevilla,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2445140,Manuel Ángel Castillo,2008-06-11,18.0,Spain,,177.0,,Right,28,F,['DL'],215000.0,EUR,7762,Sevilla Atlético,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1602608,Jesús Acuña,2006-07-06,20.0,Spain,,172.0,,Right,17,F,,27000.0,EUR,7762,Sevilla Atlético,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+872919,Rubén Vargas,1998-08-05,28.0,Switzerland,,179.0,64.0,Right,11,M,"['LW', 'AM']",13900000.0,EUR,2833,Sevilla,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+960006,Lucien Agoumé,2002-02-09,24.0,France,,185.0,,Right,18,M,"['MC', 'DM']",15500000.0,EUR,2833,Sevilla,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+997033,Peque Fernández,2002-10-04,23.0,Spain,,168.0,,Right,14,M,['AM'],3300000.0,EUR,2833,Sevilla,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1534422,Oso,2003-07-09,23.0,Spain,,183.0,,Left,36,M,['DL'],10500000.0,EUR,2833,Sevilla,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+788141,Jon Guridi,1995-02-28,31.0,Spain,,179.0,64.0,Left,18,M,"['AM', 'MC']",1700000.0,EUR,2833,Sevilla,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1142094,Manu Bueno,2004-07-27,22.0,Spain,,178.0,,Left,28,M,"['MC', 'DM']",1500000.0,EUR,2833,Sevilla,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1402929,Ibra Sow,2007-01-26,19.0,Senegal,,184.0,,Right,17,M,['LW'],195000.0,EUR,7762,Sevilla Atlético,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1892023,Nico Guillén,2008-01-30,18.0,Spain,,190.0,,Left,38,M,['MC'],1100000.0,EUR,7762,Sevilla Atlético,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2509247,Miguel Ángel Sierra Ortega,2004-07-14,22.0,Spain,,181.0,71.0,Left,29,M,['RW'],330000.0,EUR,7762,Sevilla Atlético,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+818986,Gabriel Suazo,1997-08-09,29.0,Chile,,178.0,69.0,Left,12,D,"['DL', 'ML']",6600000.0,EUR,2833,Sevilla,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+840951,Marcão,1996-06-05,30.0,Brazil,,185.0,75.0,Left,23,D,['DC'],2600000.0,EUR,2833,Sevilla,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1015240,José Ángel Carmona,2002-01-29,24.0,Spain,,183.0,,Right,2,D,['DR'],11100000.0,EUR,2833,Sevilla,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1097719,Kike Salas,2002-04-22,24.0,Spain,,186.0,,Left,4,D,"['DC', 'DL']",15400000.0,EUR,2833,Sevilla,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1035988,Arouna Sangante,2002-04-12,24.0,Senegal,,189.0,,Right,93,D,"['DC', 'DR']",7700000.0,EUR,2833,Sevilla,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+928672,Adrià Pedrosa,1998-05-13,28.0,Spain,,176.0,69.0,Left,3,D,['DL'],2700000.0,EUR,2833,Sevilla,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+949707,Juan Iglesias,1998-07-03,28.0,Spain,,185.0,,Right,21,D,['DR'],4800000.0,EUR,2833,Sevilla,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+941464,Federico Gattoni,1999-02-16,27.0,Argentina,,183.0,,Right,22,D,"['DC', 'DR']",720000.0,EUR,2833,Sevilla,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1402990,Julio Díaz,2005-01-10,21.0,Spain,,174.0,,Left,34,D,['DL'],1400000.0,EUR,2833,Sevilla,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+252815,Fábio Cardoso,1994-04-19,32.0,Portugal,,187.0,75.0,Right,15,D,['DC'],1400000.0,EUR,2833,Sevilla,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1428699,Andres Castrin,2003-05-26,23.0,Spain,,188.0,,Right,32,D,['DC'],6500000.0,EUR,2833,Sevilla,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1402720,Iker Muñoz,2004-01-05,22.0,Spain,,186.0,,Right,41,D,['DC'],195000.0,EUR,7762,Sevilla Atlético,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1493226,Fran González,2005-06-24,21.0,Spain,,199.0,,Right,26,G,['GK'],2700000.0,EUR,2833,Sevilla,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+138149,Odysseas Vlachodimos,1994-04-26,32.0,Greece,,191.0,77.0,Right,1,G,['GK'],3200000.0,EUR,2833,Sevilla,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1089222,Rafa Romero,2003-08-06,23.0,Spain,,190.0,,Left,33,G,['GK'],52000.0,EUR,7762,Sevilla Atlético,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1000150,Zito Luvumbo,2002-03-09,24.0,Angola,,171.0,65.0,Left,11,F,['ST'],3100000.0,EUR,2826,Mallorca,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+146852,Abdón Prats,1992-12-17,33.0,Spain,,181.0,79.0,Left,9,F,['ST'],860000.0,EUR,2826,Mallorca,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1914318,Marc Domenech,2006-01-01,20.0,Spain,,182.0,,Left,30,F,['MC'],1100000.0,EUR,2826,Mallorca,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1142255,Josep Cerdà,2003-02-04,23.0,Spain,,175.0,70.0,Right,21,F,['LW'],2100000.0,EUR,2826,Mallorca,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+941238,Adrian Fuentes,1996-07-17,30.0,Spain,,188.0,,Right,18,F,['ST'],965000.0,EUR,2826,Mallorca,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1442147,Aimar Peñalver,2004-01-06,22.0,Spain,,190.0,,Right,36,F,,52000.0,EUR,2826,Mallorca,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1082981,Pablo Torre,2003-04-03,23.0,Spain,,173.0,,Right,20,M,"['AM', 'MC']",4900000.0,EUR,2826,Mallorca,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+110783,Sergi Darder,1993-12-22,32.0,Spain,,180.0,71.0,Right,10,M,"['MC', 'AM']",2800000.0,EUR,2826,Mallorca,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+826004,Manu Morlanes,1999-01-12,27.0,Spain,,178.0,,Right,8,M,"['MC', 'DM']",2200000.0,EUR,2826,Mallorca,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1018516,Daniel Luna,2003-05-07,23.0,Colombia,,178.0,61.0,Left,29,M,['RW'],570000.0,EUR,2826,Mallorca,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1484974,Justin-Noel Kalumba,2004-12-25,21.0,France,,182.0,,Right,30,M,['DL'],775000.0,EUR,2826,Mallorca,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+949722,Antonio Sánchez,1997-04-22,29.0,Spain,,179.0,,Right,6,M,"['MC', 'MR']",,,2826,Mallorca,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1157382,Alex Sala,2001-04-09,25.0,Spain,,185.0,,Right,23,M,"['MC', 'DM']",1000000.0,EUR,2826,Mallorca,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1099344,Antoniu Roca,2002-09-05,23.0,Spain,,180.0,,Right,15,M,['MR'],1600000.0,EUR,2826,Mallorca,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+910023,Arnau Puigmal,2001-01-10,25.0,Spain,,173.0,,Right,2,M,['RW'],1400000.0,EUR,2826,Mallorca,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1905699,Jan Salas,2005-08-10,21.0,Spain,,182.0,,Right,28,M,,485000.0,EUR,2826,Mallorca,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2415824,Jandro García,2006-02-23,20.0,Spain,,188.0,,,39,M,,24000.0,EUR,2826,Mallorca,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+344847,Johan Mojica,1992-08-21,33.0,Colombia,,185.0,73.0,Left,22,D,['DL'],1400000.0,EUR,2826,Mallorca,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+300522,Martin Valjent,1995-12-11,30.0,Slovakia,,187.0,70.0,Right,24,D,['DC'],3200000.0,EUR,2826,Mallorca,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+807116,Antonio Raíllo,1991-10-08,34.0,Spain,,186.0,77.0,Right,21,D,['DC'],1100000.0,EUR,2826,Mallorca,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+879543,Mateu Morey,2000-03-02,26.0,Spain,,171.0,,Right,2,D,['DR'],1400000.0,EUR,2826,Mallorca,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+828239,Toni Lato,1997-11-21,28.0,Spain,,173.0,64.0,Left,3,D,['DL'],1300000.0,EUR,2826,Mallorca,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1605225,Aboubaka Soumahoro,2005-02-04,21.0,France,,184.0,,Right,16,D,['DC'],1300000.0,EUR,2826,Mallorca,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1513896,David López,2003-02-03,23.0,Spain,,195.0,,Right,4,D,['DC'],1300000.0,EUR,2826,Mallorca,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2269442,Luis Orejuela,2007-01-01,19.0,Spain,,181.0,,,29,D,,,,2826,Mallorca,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2588613,Miguel Calatayud,2006-04-26,20.0,Spain,,181.0,,Right,44,D,,,,34997,Mallorca B,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+908714,Arnau Tenas,2001-05-30,25.0,Spain,,185.0,,Right,1,G,['GK'],4400000.0,EUR,2826,Mallorca,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+996903,Lucas Bergström,2002-09-05,23.0,Finland,,206.0,,Right,13,G,['GK'],1500000.0,EUR,2826,Mallorca,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+19013,Iván Cuéllar,1984-05-27,42.0,Spain,,187.0,76.0,Left,25,G,['GK'],110000.0,EUR,2826,Mallorca,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1010465,Nil Torreguitart,2001-09-21,24.0,Spain,,188.0,,Right,38,G,,155000.0,EUR,2826,Mallorca,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+174105,Jefté Betancor,1993-07-06,33.0,Spain,,186.0,78.0,Right,21,F,['ST'],455000.0,EUR,6577,UD Las Palmas,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+110781,Jesé Rodríguez,1993-02-26,33.0,Spain,,178.0,73.0,Right,10,F,['ST'],290000.0,EUR,6577,UD Las Palmas,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1520998,Adam Arvelo,2005-05-31,21.0,Spain,,176.0,,Left,29,F,,52000.0,EUR,6577,UD Las Palmas,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2578119,Rafael Cruz,2009-10-22,16.0,Spain,,,,Right,32,F,,,,263535,Las Palmas C,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2045614,Elias Romero,2004-05-11,22.0,Spain,,179.0,,Right,41,F,,160000.0,EUR,24369,Las Palmas Atlético,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+188407,Sandro Ramírez,1995-07-09,31.0,Spain,,175.0,71.0,Right,19,M,['ST'],470000.0,EUR,6577,UD Las Palmas,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+905350,Taisei Miyashiro,2000-05-26,26.0,Japan,,179.0,67.0,Right,18,M,['MC'],2300000.0,EUR,6577,UD Las Palmas,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1640614,Jeremía Recoba,2003-10-08,22.0,Uruguay,,176.0,,Right,9,M,['LW'],1000000.0,EUR,6577,UD Las Palmas,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1636036,Aboubacar Bassinga,2005-07-13,21.0,Burkina Faso,,178.0,,Left,26,M,['RW'],290000.0,EUR,6577,UD Las Palmas,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+964985,Kirian Rodríguez,1996-03-05,30.0,Spain,,180.0,,Right,20,M,"['MC', 'DM']",930000.0,EUR,6577,UD Las Palmas,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+933426,Enzo Loiodice,2000-11-27,25.0,France,,176.0,,Left,12,M,"['MC', 'DM']",1200000.0,EUR,6577,UD Las Palmas,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1440403,Edward Cedeño,2003-07-05,23.0,Panama,,188.0,,Right,18,M,['MC'],290000.0,EUR,6577,UD Las Palmas,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+916654,Manuel Fuster,1997-10-22,28.0,Spain,,169.0,,Right,14,M,['ML'],2600000.0,EUR,6577,UD Las Palmas,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1130503,Ale García,2003-03-19,23.0,Spain,,179.0,,Right,22,M,['ST'],1600000.0,EUR,6577,UD Las Palmas,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1584944,Mateo Acimovic,2007-10-05,18.0,Slovenia,,,,Left,45,M,['RW'],53000.0,EUR,24369,Las Palmas Atlético,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+857227,Sergio Ruiz,1994-12-16,31.0,Spain,,171.0,,Right,20,M,"['MC', 'DM']",825000.0,EUR,6577,UD Las Palmas,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1513452,Iñaki González,2004-07-27,22.0,Spain,,179.0,,Right,26,M,['MC'],210000.0,EUR,6577,UD Las Palmas,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2333469,Iván Medina,2004-03-03,22.0,Spain,,181.0,,,38,M,,155000.0,EUR,6577,UD Las Palmas,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2294701,Aimar Dominguez Rodriguez,2007-01-01,19.0,Spain,,,,,,M,,,,154812,Las Palmas U19,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+960401,Marvin Park,2000-03-07,26.0,Spain,,177.0,,Right,2,D,"['DR', 'RW']",1100000.0,EUR,6577,UD Las Palmas,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+885683,Nicholas Opoku,1997-08-11,29.0,Ghana,,190.0,,Both,,D,['DC'],1500000.0,EUR,6577,UD Las Palmas,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1183625,Giovanni Bonfanti,2003-01-17,23.0,Italy,,187.0,,Left,94,D,"['DC', 'DL']",3900000.0,EUR,6577,UD Las Palmas,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+914848,Alex Suárez,1993-01-01,33.0,Spain,,179.0,,Right,4,D,"['DC', 'DR']",450000.0,EUR,6577,UD Las Palmas,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1513451,Juanma Herzog,2004-05-13,22.0,Spain,,186.0,,Right,15,D,['DC'],1500000.0,EUR,6577,UD Las Palmas,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1031499,Viti Rozada,1997-09-16,28.0,Spain,,171.0,,Right,17,D,['DR'],1600000.0,EUR,6577,UD Las Palmas,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1893819,Valentin Pezzolesi,2007-04-16,19.0,Spain,,180.0,,Right,27,D,['DR'],245000.0,EUR,6577,UD Las Palmas,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+992504,Enrique Clemente,1999-03-04,27.0,Spain,,184.0,,Left,5,D,"['DL', 'DC']",2100000.0,EUR,6577,UD Las Palmas,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1594169,Andrés Rodríguez,2002-05-31,24.0,Spain,,190.0,,Right,15,D,['DR'],225000.0,EUR,6577,UD Las Palmas,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2333468,Carlos Navarro,2004-01-30,22.0,Spain,,191.0,,Left,31,D,,145000.0,EUR,6577,UD Las Palmas,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2543366,Victor Villote,2004-01-01,22.0,Spain,,,,,42,D,,,,24369,Las Palmas Atlético,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+855922,Dinko Horkaš,1999-03-10,27.0,Croatia,,189.0,,Right,1,G,['GK'],4600000.0,EUR,6577,UD Las Palmas,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+847993,José Antonio Caro,1994-05-03,32.0,Spain,,184.0,73.0,Left,13,G,['GK'],290000.0,EUR,6577,UD Las Palmas,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2178495,Adrián Suárez,2005-05-28,21.0,Spain,,185.0,74.0,Right,35,G,,,,6577,UD Las Palmas,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+981604,Alemão,1998-04-01,28.0,Brazil,,182.0,,Right,9,F,['ST'],4400000.0,EUR,2818,Rayo Vallecano,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+900003,Jorge de Frutos,1996-11-30,29.0,Spain,,173.0,,Right,19,F,"['RW', 'ST']",10900000.0,EUR,2818,Rayo Vallecano,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+910024,Sergio Camello,2001-02-10,25.0,Spain,,177.0,,Right,10,F,['ST'],3300000.0,EUR,2818,Rayo Vallecano,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+932764,Randy Nteka,1997-12-06,28.0,Angola,,190.0,,Left,11,F,['ST'],1000000.0,EUR,2818,Rayo Vallecano,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+138387,Raúl de Tomás,1994-10-17,31.0,Spain,,181.0,74.0,Right,9,F,['ST'],440000.0,EUR,2818,Rayo Vallecano,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+913679,Pathé Ismaël Ciss,1994-03-16,32.0,Senegal,,183.0,71.0,Right,6,M,"['MC', 'DM']",1600000.0,EUR,2818,Rayo Vallecano,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+899982,Isi Palazón,1994-12-27,31.0,Spain,,169.0,71.0,Left,7,M,['AM'],3000000.0,EUR,2818,Rayo Vallecano,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+345111,Álvaro García,1992-10-27,33.0,Spain,,168.0,58.0,Both,18,M,"['LW', 'ML']",1500000.0,EUR,2818,Rayo Vallecano,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+900669,Pedro Díaz,1998-06-05,28.0,Spain,,180.0,,Right,4,M,"['MC', 'DM']",2900000.0,EUR,2818,Rayo Vallecano,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+588566,Unai López,1995-10-30,30.0,Spain,,169.0,64.0,Right,17,M,"['MC', 'DM']",2600000.0,EUR,2818,Rayo Vallecano,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+900008,Óscar Valentín,1994-08-20,31.0,Spain,,177.0,,Right,23,M,"['MC', 'DM']",1900000.0,EUR,2818,Rayo Vallecano,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+966637,Fran Pérez,2002-09-09,23.0,Spain,,176.0,,Right,21,M,"['RW', 'MR']",2300000.0,EUR,2818,Rayo Vallecano,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+965031,Andrei Rațiu,1998-06-20,28.0,Romania,,183.0,,Right,2,D,['DR'],16700000.0,EUR,2818,Rayo Vallecano,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1458073,Nobel Mendy,2004-08-16,21.0,Senegal,,187.0,,Left,32,D,['DC'],7700000.0,EUR,2818,Rayo Vallecano,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+88528,Florian Lejeune,1991-05-20,35.0,France,,190.0,81.0,Right,24,D,['DC'],1700000.0,EUR,2818,Rayo Vallecano,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1010421,Pep Chavarría,1998-04-10,28.0,Spain,,174.0,,Left,3,D,['DL'],9700000.0,EUR,2818,Rayo Vallecano,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+850035,Luiz Felipe,1997-03-22,29.0,Italy,,187.0,79.0,Right,,D,['DC'],2100000.0,EUR,2818,Rayo Vallecano,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+152446,Iván Balliu,1992-01-01,34.0,Albania,,175.0,68.0,Right,20,D,['DR'],1100000.0,EUR,2818,Rayo Vallecano,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1120947,Jozhua Vertrouwd,2004-08-21,21.0,Netherlands,,188.0,,Left,33,D,"['DC', 'DL']",2100000.0,EUR,2818,Rayo Vallecano,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+358910,Augusto Batalla,1996-04-30,30.0,Argentina,,186.0,80.0,Right,13,G,['GK'],5800000.0,EUR,2818,Rayo Vallecano,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+965832,Dani Cárdenas,1997-03-28,29.0,Spain,,185.0,,Right,1,G,['GK'],1700000.0,EUR,2818,Rayo Vallecano,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1430667,Urko Izeta,1999-09-29,26.0,Spain,,175.0,,Right,19,F,['ST'],1500000.0,EUR,4488,Cádiz,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1200744,Jeronimo Domina,2005-10-17,20.0,Argentina,,171.0,72.0,Right,37,F,['ST'],1400000.0,EUR,4488,Cádiz,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1064299,Francisco Mwepu,2000-02-29,26.0,Zambia,,178.0,,Right,15,F,['ST'],105000.0,EUR,4488,Cádiz,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1929542,Alvaro Garcia-Pascual,2002-07-21,24.0,Spain,,190.0,,Right,23,F,['ST'],1300000.0,EUR,4488,Cádiz,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1547308,Efe Ugiagbe,2004-06-11,22.0,Nigeria,,178.0,,Right,7,F,['LW'],550000.0,EUR,4488,Cádiz,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1484981,Vladyslav Kopotun,2000-10-21,25.0,Ukraine,,181.0,,Right,17,F,['ST'],310000.0,EUR,4488,Cádiz,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2141294,Ismael Alvarez Martin,2007-10-18,18.0,Spain,,175.0,,,36,F,,220000.0,EUR,263796,Cádiz B,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1526564,Pablo Arana,2006-02-11,20.0,Spain,,178.0,,Right,39,F,,46000.0,EUR,857559,Cádiz C,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1531384,Antonio Cordero,2006-11-14,19.0,Spain,,178.0,,Right,16,M,['LW'],2100000.0,EUR,4488,Cádiz,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+96370,Suso,1993-11-19,32.0,Spain,,176.0,70.0,Left,11,M,"['RW', 'AM']",580000.0,EUR,4488,Cádiz,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+921355,Iuri Tabatadze,1999-11-29,26.0,Georgia,,183.0,,Left,12,M,"['LW', 'RW', 'ML']",1300000.0,EUR,4488,Cádiz,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1432130,Moussa Diakité,2003-11-04,22.0,Mali,,189.0,,Right,5,M,"['MC', 'DM']",1100000.0,EUR,4488,Cádiz,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1614682,Dilan Zárate,2007-08-01,19.0,Spain,,180.0,,Both,23,M,['MC'],540000.0,EUR,4488,Cádiz,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+846446,Rominigue Kouamé,1996-12-17,29.0,Mali,,177.0,68.0,Left,3,M,"['MC', 'DM']",635000.0,EUR,4488,Cádiz,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+825750,Javi Ontiveros,1997-09-09,28.0,Spain,,172.0,72.0,Right,22,M,['ML'],775000.0,EUR,4488,Cádiz,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1216080,Damián Rodríguez,2003-03-17,23.0,Spain,,180.0,,Left,14,M,"['MC', 'DM']",1900000.0,EUR,4488,Cádiz,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+96373,José Campaña,1993-05-31,33.0,Spain,,179.0,72.0,Right,20,M,['MC'],290000.0,EUR,2869,AD Ceuta,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1489420,Jose Antonio de la Rosa,2004-07-28,22.0,Spain,,174.0,,Right,19,M,['LW'],1000000.0,EUR,4488,Cádiz,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1484945,Ibon Sánchez,2004-03-08,22.0,Spain,,177.0,,Left,8,M,['AM'],655000.0,EUR,4488,Cádiz,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1432276,Joaquín González,2000-10-14,25.0,Spain,,185.0,,Right,24,M,['MC'],205000.0,EUR,4488,Cádiz,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1865387,Borja Vázquez,2005-01-18,21.0,Spain,,186.0,,Right,30,M,['LW'],205000.0,EUR,263796,Cádiz B,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2397318,José Andújar,2005-01-12,21.0,Spain,,180.0,,,,M,,52000.0,EUR,4488,Cádiz,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1143405,Bojan Kovačević,2004-05-22,22.0,Serbia,,193.0,,Right,14,D,['DC'],1000000.0,EUR,4488,Cádiz,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1119678,Sergio Arribas,2003-02-10,23.0,Spain,,185.0,,Left,38,D,['DC'],435000.0,EUR,4488,Cádiz,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1017339,Javi Castro,2000-09-13,25.0,Spain,,183.0,,Right,23,D,['DC'],1600000.0,EUR,4488,Cádiz,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1120453,Kenan Toibibou,2004-12-09,21.0,Comoros,,184.0,,Right,23,D,['DC'],390000.0,EUR,4488,Cádiz,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1084456,Cristian Gutiérrez,2000-11-30,25.0,Spain,,177.0,70.0,Left,23,D,['DL'],775000.0,EUR,4488,Cádiz,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1001830,Iker Recio,2001-06-17,25.0,Spain,,185.0,,Left,6,D,['DC'],755000.0,EUR,4488,Cádiz,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2010515,Juan Díaz,2006-05-24,20.0,Spain,,,,Right,34,D,['DR'],330000.0,EUR,4488,Cádiz,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1137816,Beñat de Jesús,2002-01-22,24.0,Spain,,178.0,,Right,,D,['DR'],215000.0,EUR,4488,Cádiz,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2405224,Noah Ukwuije,2007-12-11,18.0,France,,,,,35,D,['DC'],95000.0,EUR,263796,Cádiz B,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2049321,Roberto Rosado,2008-02-07,18.0,Spain,,182.0,,Left,32,D,,,,302013,Cádiz U19,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2665824,Manuel Rivera,2009-03-30,17.0,,,,,,33,D,,,,4488,Cádiz,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+786969,Jokin Ezkieta,1996-08-17,29.0,Spain,,193.0,,Right,1,G,['GK'],2300000.0,EUR,4488,Cádiz,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1011486,Victor Wehbi Aznar,2002-10-17,23.0,Brazil,,189.0,,Right,13,G,['GK'],1200000.0,EUR,4488,Cádiz,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+138390,David Gil,1994-01-11,32.0,Spain,,183.0,80.0,Right,1,G,['GK'],360000.0,EUR,4488,Cádiz,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2050080,Ruben Dominguez,2005-06-08,21.0,Spain,,188.0,,Left,32,G,['GK'],52000.0,EUR,263796,Cádiz B,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1485295,Thalys,2005-02-22,21.0,Brazil,,183.0,74.0,Left,9,F,['ST'],3900000.0,EUR,2858,Almería,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+873630,Ibrahima Kone,1999-06-16,27.0,Mali,,190.0,,Left,23,F,['ST'],290000.0,EUR,2858,Almería,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+914212,Miguel de la Fuente,1999-09-03,26.0,Spain,,182.0,,Right,24,F,['ST'],2100000.0,EUR,2858,Almería,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+966836,Álex Sola,1999-06-09,27.0,Spain,,178.0,,Right,20,F,"['RW', 'DR']",1600000.0,EUR,2858,Almería,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1160969,Brian Cipenga,1998-03-11,28.0,DR Congo,,169.0,,Right,15,M,['LW'],3100000.0,EUR,2858,Almería,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1580030,Quim Junyent,2007-03-25,19.0,Spain,,171.0,,Both,33,M,['MC'],110000.0,EUR,2858,Almería,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+997203,Sergio Arribas,2001-09-30,24.0,Spain,,174.0,,Left,11,M,['AM'],18800000.0,EUR,2858,Almería,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+914014,Iddrisu Baba,1996-01-22,30.0,Ghana,,182.0,,Right,14,M,"['MC', 'DM']",930000.0,EUR,5152,FK Partizan,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+775699,André Horta,1996-11-07,29.0,Portugal,,174.0,70.0,Right,10,M,"['MC', 'DM']",1000000.0,EUR,2858,Almería,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+252857,Léo Baptistão,1992-08-26,33.0,Brazil,,181.0,72.0,Right,12,M,"['RW', 'ST']",470000.0,EUR,2858,Almería,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+346516,Adrián Embarba,1992-05-07,34.0,Spain,,173.0,66.0,Right,23,M,"['LW', 'RW']",455000.0,EUR,2858,Almería,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+359742,Mikel Vesga,1993-04-08,33.0,Spain,,191.0,84.0,Left,19,M,"['MC', 'DM']",1200000.0,EUR,2858,Almería,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+989878,Nicolás Melamed,2001-04-11,25.0,Spain,,173.0,,Right,10,M,['LW'],2700000.0,EUR,2858,Almería,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1152889,Stefan Džodić,2005-03-15,21.0,Serbia,,185.0,,Right,29,M,"['MC', 'DM']",2300000.0,EUR,2858,Almería,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+966804,Jon Morcillo,1998-09-15,27.0,Spain,,183.0,,Left,7,M,"['ML', 'LW']",1900000.0,EUR,2858,Almería,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+848080,Pozo,1999-02-22,27.0,Spain,,174.0,,Right,17,M,"['DR', 'RW']",1600000.0,EUR,2858,Almería,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1131043,Gui,2002-04-17,24.0,Portugal,,183.0,,Right,8,M,['MC'],620000.0,EUR,2858,Almería,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+168745,Rodrigo Ely,1993-11-03,32.0,Brazil,,188.0,83.0,Right,5,D,['DC'],480000.0,EUR,2858,Almería,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1020897,Federico Bonini,2001-08-05,25.0,Italy,,185.0,,Left,18,D,"['DC', 'DR']",2900000.0,EUR,2858,Almería,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+913455,Chumi,1999-03-02,27.0,Spain,,186.0,,Right,21,D,['DC'],775000.0,EUR,2858,Almería,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+273227,Álex Muñoz,1994-07-30,32.0,Spain,,185.0,74.0,Left,3,D,"['DL', 'DC']",845000.0,EUR,2858,Almería,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1014492,Daijiro Chirino,2002-01-24,24.0,Curacao,,185.0,,Right,22,D,"['DR', 'DC']",1600000.0,EUR,2858,Almería,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+831014,Nélson Monte,1995-07-30,31.0,Portugal,,187.0,80.0,Right,4,D,['DC'],485000.0,EUR,2858,Almería,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+69385,Jorge Pulido,1991-04-08,35.0,Spain,,186.0,72.0,Right,2,D,['DC'],390000.0,EUR,2858,Almería,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1507525,Andrej Popovic,2006-04-25,20.0,Serbia,,193.0,,Left,26,D,['DC'],160000.0,EUR,44321,Almería B,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1395903,Marcos Luna,2003-04-05,23.0,Spain,,183.0,,Right,16,D,['DR'],485000.0,EUR,2858,Almería,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2058130,Pedro Cedillo,2007-06-18,19.0,Spain,,192.0,,Left,32,D,['DC'],215000.0,EUR,44321,Almería B,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+139925,Fernando Martínez,1990-06-10,36.0,Spain,,185.0,79.0,Right,,G,['GK'],105000.0,EUR,2858,Almería,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+31406,Andrés Fernández,1986-12-17,39.0,Spain,,190.0,82.0,Right,1,G,['GK'],110000.0,EUR,2858,Almería,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1177477,Bruno Iribarne,2004-08-18,21.0,Spain,,191.0,85.0,Right,31,G,['GK'],190000.0,EUR,2858,Almería,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1211004,Jesus López,2002-08-01,24.0,Spain,,187.0,,Right,30,G,,52000.0,EUR,44321,Almería B,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+929894,Alejandro Marqués,2000-08-04,26.0,Venezuela,,189.0,81.0,Both,,F,['ST'],1500000.0,EUR,33779,Granada,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+824130,José Manuel Arnáiz,1995-04-15,31.0,Spain,,175.0,70.0,Right,11,F,"['LW', 'ST']",825000.0,EUR,33779,Granada,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1142260,Jorge Pascual,2003-04-09,23.0,Spain,,183.0,,Left,19,F,['ST'],1700000.0,EUR,33779,Granada,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1526648,Sergio Rodelas,2004-12-01,21.0,Spain,,168.0,,Left,26,F,['LW'],875000.0,EUR,33779,Granada,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2644805,Rayan Zinebi,2007-03-18,19.0,Morocco,,189.0,,Right,37,F,,,,115065,Recreativo Granada,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2445389,Owen Emeka,2009-04-18,17.0,Spain,,,,,,F,,,,115065,Recreativo Granada,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2665822,Chinaza,,,,,,,,,F,,,,33779,Granada,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+326471,Gerard Gumbau,1994-12-18,31.0,Spain,,187.0,77.0,Left,15,M,"['MC', 'DM']",1200000.0,EUR,33779,Granada,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+259339,Rubén Alcaraz,1991-05-01,35.0,Spain,,180.0,76.0,Right,4,M,['MC'],280000.0,EUR,33779,Granada,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+938270,Abdoul Kader Bamba,1994-05-25,32.0,France,,176.0,,Right,,M,"['LW', 'AM']",980000.0,EUR,33779,Granada,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+996933,Pedro Alemañ,2002-03-21,24.0,Spain,,182.0,,Left,8,M,['MC'],1600000.0,EUR,33779,Granada,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2216661,Mario Jimenez Gambin,2007-02-13,19.0,Spain,,173.0,,,27,M,,,,33779,Granada,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2445394,Dylan Rodríguez,2007-01-01,19.0,Spain,,,,,32,M,,,,33779,Granada,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2222615,Manuel Maza,2007-01-01,19.0,Spain,,,,,,M,,,,299640,Granada CF U19,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1547525,Oscar Naasei,2005-01-01,21.0,Ghana,,185.0,,Right,28,D,"['DC', 'DR']",1500000.0,EUR,33779,Granada,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1099804,Baïla Diallo,2001-06-24,25.0,Senegal,,176.0,,Left,22,D,['DL'],845000.0,EUR,33779,Granada,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+855837,Diego Pampín,2000-03-15,26.0,Spain,,173.0,,Left,6,D,['DL'],1100000.0,EUR,33779,Granada,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+998748,Manuel Lama,2001-02-12,25.0,Spain,,192.0,,Right,5,D,['DC'],1500000.0,EUR,33779,Granada,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+927409,Sergio López,1999-04-08,27.0,Spain,,179.0,,Right,2,D,['DR'],1300000.0,EUR,33779,Granada,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1142091,Diego Hormigo,2003-04-16,23.0,Spain,,182.0,,Left,3,D,['DL'],290000.0,EUR,33779,Granada,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1165007,Pau Casadesús,2003-01-01,23.0,Spain,,182.0,,Right,2,D,['DR'],310000.0,EUR,33779,Granada,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2337435,Juanjo Flores,2007-01-28,19.0,Spain,,189.0,,Right,36,D,['DC'],,,115065,Recreativo Granada,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2445388,Bourama Dembelé,2008-04-25,18.0,Spain,,,,,39,D,,,,115065,Recreativo Granada,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2613140,Pablo Jimenez Valverde,2007-07-05,19.0,Spain,,178.0,,Right,42,D,,,,115065,Recreativo Granada,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2665820,Juan José Flores Castro,,,Spain,,,,,,D,,,,33779,Granada,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+2665819,Ángelo García Hidalgo,2006-01-27,20.0,Spain,,,,,,D,,,,33779,Granada,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1108577,Alberto Flores,2003-11-10,22.0,Spain,,187.0,,Left,31,G,['GK'],320000.0,EUR,33779,Granada,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+129865,Raúl Lizoain,1991-01-27,35.0,Spain,,186.0,78.0,Left,,G,['GK'],145000.0,EUR,33779,Granada,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25
+1948926,Íker García Chico,2006-04-02,20.0,Spain,,184.0,,Right,34,G,,,,115065,Recreativo Granada,ESP,2023-2024,datafc_sofascore,2026-08-11 16:52:25

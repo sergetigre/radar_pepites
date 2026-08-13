@@ -1,0 +1,45 @@
+﻿tournament_id,season_id,player_name,player_id,team_name,team_id,saves,goalsPrevented,rating,minutesPlayed,appearances,accuratePasses,accurateLongBalls,accurateLongBallsPercentage,yellowCards,redCards,_league_id,_season,_source,_scraped_at
+8,42409,Édgar Badía,811557,Elche,2846,139,8.95,6.98,3240,36,627,237,47.31,2,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Jeremías Ledesma,341097,Cádiz,4488,135,0.18,7.17,3060,34,455,256,33.29,2,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Fernando Martínez,139925,Almería,2858,133,0.61,6.92,3294,37,714,246,39.94,3,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,David Soria,604258,Getafe,2859,124,1.36,6.97,3420,38,512,420,45.11,3,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Jordi Masip,128600,Real Valladolid,2831,105,5.13,7.06,2508,28,558,176,38.85,4,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Giorgi Mamardashvili,930997,Valencia,2828,105,-1.35,6.82,3420,38,563,198,35.17,3,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Álex Remiro,791773,Real Sociedad,2824,100,-1.76,6.99,3420,38,803,292,45.84,1,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Stole Dimitrievski,97951,Rayo Vallecano,2818,95,-3.3,6.76,3325,37,492,160,27.78,4,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Predrag Rajković,188107,Mallorca,2826,94,-0.32,6.88,3240,36,593,345,41.52,3,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Paulo Gazzaniga,164343,Girona FC,24264,93,8.6,6.9,2520,28,645,177,39.78,4,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Thibaut Courtois,70988,Real Madrid,2829,90,1.48,7.13,2790,31,789,121,46.18,0,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Marc-André Ter Stegen,88625,FC Barcelona,2817,84,6.07,7.15,3348,38,1010,261,56.99,0,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Rui Silva,253809,Real Betis,2816,73,1.54,6.93,2340,26,491,202,42.26,2,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Unai Simón,797291,Athletic Club,2825,70,-4.52,6.79,2745,31,543,167,40.63,2,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Yassine Bounou,360938,Sevilla,2833,67,-2.51,6.68,2152,25,627,160,42.22,2,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Jan Oblak,69768,Atlético Madrid,2836,61,2.32,6.93,2493,28,426,148,35.32,1,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Pepe Reina,26937,Villarreal,2819,61,1.99,6.86,1980,22,574,102,40.0,2,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Aitor Fernández,99516,Osasuna,2820,59,-0.25,7.07,1890,21,431,212,44.73,1,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Fernando Pacheco,144501,Espanyol,2814,59,-5.7,6.83,1530,17,356,153,48.73,0,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Sergio Herrera,294377,Osasuna,2820,49,-0.88,6.86,1530,17,332,175,44.76,3,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Gerónimo Rulli,128383,Villarreal,2819,46,2.7,7.31,1260,14,396,70,47.95,1,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Marko Dmitrović,94527,Sevilla,2833,44,-1.21,7.0,1268,15,227,116,33.62,2,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Agustín Marchesín,47339,Celta Vigo,2821,44,-7.71,6.76,1710,19,375,126,41.72,3,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Iván Villar,848980,Celta Vigo,2821,38,-1.67,6.68,1710,19,318,94,35.34,0,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Ivo Grbić,283847,Atlético Madrid,2836,36,2.03,6.92,931,12,172,56,35.0,3,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Claudio Bravo,13249,Real Betis,2816,35,2.06,7.15,1080,12,191,78,33.77,2,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Álvaro Fernández,852412,Espanyol,2814,34,-2.55,6.65,999,11,195,111,47.44,1,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Sergio Asenjo,41011,Real Valladolid,2831,31,-4.07,6.58,900,10,188,68,37.36,0,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Benjamin Lecomte,123207,Espanyol,2814,29,-3.55,6.69,900,10,156,81,47.09,1,1,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Juan Carlos,83708,Girona FC,24264,26,-1.13,6.58,900,10,238,41,46.59,0,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,David Gil,138390,Cádiz,4488,18,1.37,7.38,360,4,51,33,34.74,0,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Julen Agirrezabala,1014412,Athletic Club,2825,13,-0.33,6.81,675,8,139,42,38.53,0,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Andriy Lunin,857574,Real Madrid,2829,12,-2.47,6.81,630,7,169,20,48.78,0,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Dominik Greif,791046,Mallorca,2826,5,-0.76,6.8,90,1,21,19,55.88,0,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Axel Werner,250219,Elche,2846,5,-1.55,6.4,180,2,43,9,36.0,0,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Leo Román,1131909,Mallorca,2826,4,0.11,7.7,90,1,26,10,45.45,0,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Alvaro Aceves,1112734,Real Valladolid,2831,3,0.13,7.1,12,1,4,1,50.0,0,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Diego Mariño,69379,Almería,2858,3,-0.58,6.5,45,1,6,2,66.67,0,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Filip Jørgensen,962053,Villarreal,2819,3,-0.68,6.35,180,2,40,4,40.0,0,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Iñaki Peña,794949,FC Barcelona,2817,2,-0.57,6.2,72,2,20,2,50.0,0,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Joan García,930267,Espanyol,2814,1,-1.16,5.8,90,1,22,3,42.86,0,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Diego López,4697,Rayo Vallecano,2818,1,-2.33,5.65,99,2,17,1,14.29,0,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Antonio Gomis,1156733,Atlético Madrid,2836,0,-0.36,6.2,11,1,0,0,0.0,0,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56
+8,42409,Arnau Tenas,908714,FC Barcelona,2817,0,,0.0,0,0,0,0,0.0,1,0,ESP,2022-2023,datafc_sofascore,2026-08-12 06:59:56

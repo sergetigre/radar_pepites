@@ -18,6 +18,11 @@ from pathlib import Path
 
 import datafc
 import pandas as pd
+from datafc.exceptions import DataNotAvailableError
+from datafc.sofascore._parsers import parse_league_player_stats_records
+from datafc.sofascore.fetch_league_player_stats_data import _validate_lps_params
+from datafc.utils._client import SofascoreClient
+from datafc.utils._config import API_URLS
 
 # ── Chemins absolus ────────────────────────────────────────────────────────────
 ROOT       = Path(__file__).resolve().parents[2]
@@ -75,6 +80,63 @@ KEEPER_METRICS = [
 REQUEST_DELAY_SEC = 3.0
 RATE_LIMIT        = 2.0
 RETRY_WAIT_SEC    = 30.0
+
+
+# ── Correctif pagination datafc (bug lib v2.8.0/2.9.0) ──────────────────────────
+# datafc.league_player_stats_data() pagine avec "&page=N" dans l'URL, mais
+# l'API Sofascore ignore ce paramètre et renvoie systématiquement la page 1
+# (vérifié empiriquement : page=1/2/3 renvoient le même 1er joueur). Résultat :
+# la lib boucle 5x sur la même page pour atteindre max_players=500, produisant
+# 500 lignes dont seulement 100 uniques. L'API respecte en revanche "&offset=N"
+# (confirmé : offset=0/100/200 renvoient bien des joueurs différents).
+# On reproduit ici league_player_stats_data() à l'identique, seule la
+# construction de l'URL change (offset au lieu de page).
+def _build_lps_url_offset(base, tournament_id, season_id, page_size, order,
+                          accumulation, fields_param, offset, position):
+    url = (
+        f"{base}/api/v1/unique-tournament/{tournament_id}"
+        f"/season/{season_id}/statistics"
+        f"?limit={page_size}&order={order}&accumulation={accumulation}"
+        f"&fields={fields_param}&offset={offset}"
+    )
+    if position is not None:
+        url += f"&filters=position.in.{position}"
+    return url
+
+
+def league_player_stats_data_fixed(tournament_id, season_id, order="-rating",
+                                    accumulation="total", fields=None, position=None,
+                                    max_players=1000, rate_limit=2.0):  # 1000 = plafond sécurisé (700 joueurs max par ligue par saison), toujours surchargé par les appels
+    selected_fields, fields_param = _validate_lps_params(accumulation, position, fields, order)
+    page_size = min(max_players, 100)
+    records = []
+    offset = 0
+    base = API_URLS["sofascore"]
+
+    with SofascoreClient(rate_limit=rate_limit) as client:
+        while len(records) < max_players:
+            url = _build_lps_url_offset(
+                base, tournament_id, season_id, page_size, order, accumulation,
+                fields_param, offset, position,
+            )
+            data = client.get(url)
+            page_records = parse_league_player_stats_records(
+                data, tournament_id, season_id, selected_fields
+            )
+            if not page_records:
+                break
+            records.extend(page_records)
+            total_pages  = data.get("pages", 1)
+            current_page = data.get("page", 1)
+            if current_page >= total_pages or len(records) >= max_players:
+                break
+            offset += page_size
+
+    if not records:
+        raise DataNotAvailableError(
+            f"No player stats found for tournament_id={tournament_id}, season_id={season_id}."
+        )
+    return pd.DataFrame(records).head(max_players)
 
 
 # ── Logging ────────────────────────────────────────────────────────────────────
@@ -198,13 +260,13 @@ def scrape_one(league_id: str, saison: str,
     logger.info(f"  → Joueurs de champ (tournament={tid}, season={season_id})")
 
     def fetch_players():
-        return datafc.league_player_stats_data(
+        return league_player_stats_data_fixed(
             tournament_id=tid,
             season_id=season_id,
             order="-rating",
             fields=FIELD_PLAYER_METRICS,
             accumulation="total",
-            max_players=500,
+            max_players=1000,  # 1000 = plafond sécurisé (700 joueurs max par ligue par saison)
             rate_limit=RATE_LIMIT,
         )
 
@@ -230,14 +292,14 @@ def scrape_one(league_id: str, saison: str,
     logger.info(f"  → Gardiens (tournament={tid}, season={season_id})")
 
     def fetch_keepers():
-        return datafc.league_player_stats_data(
+        return league_player_stats_data_fixed(
             tournament_id=tid,
             season_id=season_id,
             order="-saves",
             fields=KEEPER_METRICS,
             accumulation="total",
             position="G",
-            max_players=100,
+            max_players=100,  # 100 = suffisant pour les gardiens (max ~60 GK par ligue)
             rate_limit=RATE_LIMIT,
         )
 

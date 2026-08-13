@@ -1,0 +1,50 @@
+﻿tournament_id,season_id,player_name,player_id,team_name,team_id,saves,goalsPrevented,rating,minutesPlayed,appearances,accuratePasses,accurateLongBalls,accurateLongBallsPercentage,yellowCards,redCards,_league_id,_season,_source,_scraped_at
+238,42655,Kosuke Nakamura,155775,Portimonense SAD,3026,137,,7.23,2700,30,687,234,40.63,3,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Paulo Vítor,861003,Chaves,3025,117,,7.18,2700,30,577,172,40.57,4,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Jhonatan,798688,Rio Ave,3036,109,,7.07,2880,32,562,162,38.39,3,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Luiz Júnior,1066603,Famalicão,49531,108,,7.03,2970,33,560,227,42.83,3,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Dani Figueira,862060,Estoril Praia,4500,105,,6.98,2856,32,709,170,40.96,2,1,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Ignacio de Arruabarrena,789933,FC Arouca,25777,103,,7.28,2699,30,512,207,38.91,5,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Ricardo Batista,9668,Casa Pia,36365,100,,7.17,2790,31,548,183,34.72,5,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Fabijan Buntić,827377,Vizela,5136,97,,6.94,2970,33,457,141,37.01,3,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Andrew,947893,Gil Vicente,3010,96,,7.3,2130,24,571,140,44.3,1,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Rafael Bracali,44676,Boavista,2995,83,,6.83,2520,28,428,169,39.67,2,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Gabriel Batista,822526,Santa Clara,3011,83,,6.75,2340,26,464,260,44.22,2,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Matheus,603946,Sporting Braga,2999,81,,7.09,2874,32,789,227,45.77,4,1,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Bruno Varela,138895,Vitória SC,3009,73,,7.01,2430,27,512,232,40.7,4,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Diogo Costa,843115,FC Porto,3002,63,,6.95,2970,33,857,242,49.09,1,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Antonio Adán,59623,Sporting CP,3001,63,,6.86,2790,31,723,106,41.9,3,1,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Marafona,59715,Paços de Ferreira,3003,61,,6.89,1427,16,260,121,43.84,5,1,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Odysseas Vlachodimos,138149,Benfica,3006,55,,6.97,3058,34,536,112,47.86,2,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Marcelo Carné,243463,CS Marítimo,3007,45,,6.83,1260,14,261,58,33.33,4,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Stanislav Kritsyuk,236158,Gil Vicente,3010,40,,7.15,930,11,253,73,54.89,2,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Miguel Silva,587354,CS Marítimo,3007,30,,6.55,720,8,128,50,29.94,1,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Jordi,794840,Paços de Ferreira,3003,23,,6.77,540,6,82,21,22.34,1,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Marco Pereira,44630,Santa Clara,3011,22,,6.8,720,8,173,58,44.96,1,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Matouš Trmal,909632,CS Marítimo,3007,21,,7.17,540,6,111,23,34.33,0,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Igor Vekič,943735,Paços de Ferreira,3003,17,,6.36,820,10,187,74,52.11,0,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Samuel,552170,FC Porto,3002,16,,7.48,360,4,76,27,36.49,1,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Lucas Paes,931473,Casa Pia,36365,14,,7.35,180,2,32,10,29.41,0,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Celton Biai,976399,Vitória SC,3009,12,,6.44,450,5,79,30,36.59,0,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Rodrigo Nascimento,1128775,Chaves,3025,11,,6.7,358,4,46,15,29.41,0,1,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Pedro Silva,357724,Estoril Praia,4500,10,,6.7,202,3,47,11,34.38,1,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Ze Pedro,855688,Paços de Ferreira,3003,10,,6.2,270,3,56,13,43.33,1,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Giorgi Makaridze,31325,CS Marítimo,3007,9,,6.4,540,6,134,33,38.37,1,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,César Dutra,158269,Boavista,2995,7,,6.42,450,5,66,23,41.07,0,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Emilijus Zubas,52011,FC Arouca,25777,6,,6.63,270,3,56,29,46.77,1,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Pedro Rafael Oliveira,1395098,Vitória SC,3009,6,,6.4,180,2,23,9,33.33,1,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Luiz Felipe,928228,Vizela,5136,5,,7.3,90,1,10,4,30.77,1,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,João Gonçalves,987596,Boavista,2995,5,,6.6,90,1,15,1,12.5,0,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Magrão,1083070,Rio Ave,3036,5,,6.45,180,2,34,9,50.0,0,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Thiago,358544,FC Arouca,25777,4,,6.9,90,1,14,4,66.67,0,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Ivan Zlobin,788203,Famalicão,49531,3,,6.7,90,1,21,13,38.24,0,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Tiago Sá,344159,Sporting Braga,2999,2,,6.5,174,3,43,9,56.25,1,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Franco Israel,1084846,Sporting CP,3001,1,,6.47,270,3,77,10,52.63,0,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,João Bravim,1067193,Casa Pia,36365,1,,6.4,90,1,11,3,33.33,0,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Samuel Soares,983550,Benfica,3006,1,,0.0,2,1,3,1,50.0,0,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Cláudio Ramos,116372,FC Porto,3002,0,,6.7,90,1,19,3,100.0,1,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Lukáš Horníček,963744,Sporting Braga,2999,0,,6.5,17,1,3,1,50.0,0,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Ricardo Fernandes,845676,Santa Clara,3011,0,,0.0,0,0,0,0,0.0,1,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Brian Araújo,990450,Gil Vicente,3010,0,,0.0,0,0,0,0,0.0,0,1,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,João Valido,973352,FC Arouca,25777,0,,0.0,1,1,1,1,100.0,0,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15
+238,42655,Gonçalo Pinto,1397563,Chaves,3025,0,,0.0,1,1,1,1,25.0,0,0,POR,2022-2023,datafc_sofascore,2026-08-12 07:02:15

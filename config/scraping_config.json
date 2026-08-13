@@ -1,5 +1,5 @@
 {
-  "saisons": ["2022-2023", "2023-2024", "2024-2025", "2025-2026"],
+  "saisons": ["2023-2024", "2024-2025", "2025-2026"],
   "ligues": {
     "ENG": { "nom": "Premier League",       "actif": true  },
     "ESP": { "nom": "La Liga",              "actif": true  },

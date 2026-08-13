@@ -1,0 +1,46 @@
+﻿tournament_id,season_id,player_name,player_id,team_name,team_id,saves,goalsPrevented,rating,minutesPlayed,appearances,accuratePasses,accurateLongBalls,accurateLongBallsPercentage,yellowCards,redCards,_league_id,_season,_source,_scraped_at
+52,77805,Ivo Grbić,283847,Fatih Karagümrük,4954,117,2.07,7.22,2880,32,820,166,39.06,3,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Muhammed Şengezer,827418,Başakşehir FK,3086,105,5.3,7.39,2970,33,938,245,40.03,1,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Bilal Bayazit,825850,Kayserispor,3072,102,-3.04,7.03,2520,28,569,219,41.48,5,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Mateusz Lis,798375,Göztepe,3054,94,3.45,7.05,3060,34,351,284,33.41,3,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Yahia Fofana,877977,Çaykur Rizespor,3064,89,-2.42,6.79,2430,27,547,165,37.76,2,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Andreas Gianniotis,236746,Kasımpaşa,6063,87,-3.14,6.88,2970,33,700,223,36.2,4,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Julián Cuesta,217110,Antalyaspor,3056,81,1.64,7.13,1800,20,376,149,39.01,4,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,André Onana,787498,Trabzonspor,3051,78,0.75,7.11,2527,29,743,194,45.54,3,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Ricardo Velho,845792,Gençlerbirliği,7802,76,6.3,7.13,2070,23,380,151,33.33,0,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Uğurcan Çakır,754330,Galatasaray,3061,76,7.69,7.12,2610,29,854,193,44.27,4,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Ersin Destanoğlu,913656,Beşiktaş JK,3050,72,-0.26,6.98,2250,25,502,113,42.48,4,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Okan Kocuk,190179,Samsunspor,3053,72,-5.24,6.85,2790,31,588,144,38.3,3,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Zafer Görgen,930907,Gaziantep FK,5138,72,-1.58,6.78,1800,20,408,79,29.48,3,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Marcos Felipe,358524,Eyüpspor,7040,61,0.22,7.1,1710,19,494,158,45.14,0,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Ertuğrul Taşkıran,105974,Alanyaspor,6362,58,4.34,7.05,1800,20,304,74,42.53,2,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Bahadır Han Güngördü,807289,Konyaspor,3085,57,1.67,6.94,1980,22,456,138,38.66,3,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Ederson,254491,Fenerbahçe,3052,55,1.13,6.92,2132,24,466,131,45.17,6,1,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Jankat Yılmaz,1210422,Eyüpspor,7040,51,3.2,7.29,1260,14,325,98,33.68,3,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Burak Bozan,934201,Gaziantep FK,5138,45,-3.91,6.63,1234,14,217,51,22.67,2,1,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Abdullah Yiğiter,827515,Antalyaspor,3056,37,-1.2,6.54,1260,14,265,99,33.22,3,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Deniz Ertaş,1195772,Konyaspor,3085,36,-0.5,6.78,1075,12,235,84,37.84,3,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Paulo Victor,34142,Alanyaspor,6362,35,0.83,7.01,1260,14,248,65,34.57,3,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Aleksandar Jovanović,800971,Kocaelispor,3065,32,-0.73,6.78,1575,18,335,133,41.18,3,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Erhan Erentürk,997705,Gençlerbirliği,7802,24,2.59,7.09,630,7,94,47,33.1,2,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Mert Günok,39573,Fenerbahçe,3052,24,-4.51,6.48,1105,13,184,41,32.54,1,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Erdem Canpolat,1066726,Çaykur Rizespor,3064,22,-0.56,6.74,630,7,93,36,29.27,3,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Gökhan Değirmenci,60317,Kocaelispor,3065,21,-2.48,6.97,855,10,182,74,46.84,1,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Serhat Öztaşdelen,1102775,Kocaelispor,3065,17,0.29,6.9,630,7,123,40,36.7,0,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Günay Güvenç,103457,Galatasaray,3061,14,-0.63,6.82,738,9,232,42,51.22,2,1,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Onurcan Piri,213542,Kayserispor,3072,13,-3.1,6.7,360,4,75,31,44.29,1,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Tarık Çetin,913985,Fenerbahçe,3052,9,0.95,7.45,180,2,42,8,33.33,1,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,İrfan Can Eğribayat,594618,Samsunspor,3053,9,-5.43,6.62,540,6,137,44,51.16,0,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Gökhan Akkan,225012,Gençlerbirliği,7802,7,-2.26,6.43,360,4,66,28,31.46,1,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Ali Emre Yanar,840297,Kasımpaşa,6063,5,0.74,7.4,90,1,18,11,52.38,0,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Batuhan Şen,867595,Galatasaray,3061,5,0.17,7.1,69,2,22,4,40.0,0,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Deniz Eren Dönmezer,1550760,Kayserispor,3072,4,0.5,6.75,180,2,36,3,20.0,0,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Devis Vásquez,925285,Beşiktaş JK,3050,3,0.46,7.8,90,1,29,0,0.0,0,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Furkan Bekleviç,934507,Fatih Karagümrük,4954,3,-0.53,6.6,180,2,48,6,21.43,0,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Onuralp Çevikkan,1417078,Trabzonspor,3051,3,-0.87,6.4,90,1,22,2,40.0,0,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Egemen Aydin,1892942,Konyaspor,3085,2,0.27,6.8,9,1,3,1,50.0,0,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Dominik Livaković,190419,Fenerbahçe,3052,2,0.03,6.6,90,1,17,3,27.27,0,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Ahmet Doğan Yıldırım,1907056,Trabzonspor,3051,2,-0.04,6.1,83,1,15,9,31.03,1,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Deniz Dilmen,1065508,Başakşehir FK,3086,1,0.08,7.4,90,1,24,3,23.08,0,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Sokratis Dioudis,173933,Gaziantep FK,5138,1,0.05,7.0,23,1,9,5,55.56,0,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27
+52,77805,Berke Özer,847494,Eyüpspor,7040,1,-0.86,6.6,90,1,30,7,58.33,0,0,TUR,2025-2026,datafc_sofascore,2026-08-12 07:04:27

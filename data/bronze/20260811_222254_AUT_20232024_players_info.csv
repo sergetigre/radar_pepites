@@ -1,0 +1,324 @@
+﻿player_id,player_name,date_of_birth,age,nationality,nationality_id,height,weight,preferred_foot,jersey_number,position,position_detailed,market_value,market_currency,team_id,team_name,_league_id,_season,_source,_scraped_at
+1009285,Szymon Włodarczyk,2003-01-05,23.0,Poland,,189.0,,Right,17,F,['ST'],815000.0,EUR,2051,SK Sturm Graz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1152505,Nelson Weiper,2005-03-17,21.0,Germany,,192.0,,Right,44,F,['ST'],7400000.0,EUR,2051,SK Sturm Graz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1387712,Leon Grgić,2006-01-22,20.0,Croatia,,189.0,,Both,9,F,['ST'],2700000.0,EUR,2051,SK Sturm Graz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1516047,Amady Camara,2005-05-28,21.0,Mali,,180.0,,Left,36,F,['ST'],875000.0,EUR,2051,SK Sturm Graz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1513332,Axel Kayombo,2006-02-25,20.0,DR Congo,,186.0,80.0,Right,11,F,['LW'],1400000.0,EUR,2051,SK Sturm Graz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1024876,Seedy Jatta,2003-03-18,23.0,Norway,,180.0,,Right,20,F,['ST'],1100000.0,EUR,2051,SK Sturm Graz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+877845,Maurice Malone,2000-08-17,25.0,Germany,,184.0,,Left,77,F,['ST'],960000.0,EUR,2051,SK Sturm Graz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1212322,Belmin Beganović,2004-09-09,21.0,Austria,,183.0,,Left,26,F,['LW'],910000.0,EUR,2051,SK Sturm Graz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1131565,Simon Seidl,2002-09-04,23.0,Austria,,172.0,,Right,19,F,['AM'],1100000.0,EUR,2051,SK Sturm Graz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+797994,Otar Kiteishvili,1996-03-26,30.0,Georgia,,170.0,65.0,Both,10,M,"['AM', 'MC']",5000000.0,EUR,2051,SK Sturm Graz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1423454,Filip Rózga,2006-08-07,20.0,Poland,,176.0,,Left,8,M,['AM'],3000000.0,EUR,2051,SK Sturm Graz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1142147,Ryan Fosso,2002-06-17,24.0,Cameroon,,183.0,,Right,80,M,"['MC', 'DM']",1800000.0,EUR,2051,SK Sturm Graz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1831170,Luca Weinhandl,2009-01-11,17.0,Austria,,190.0,,Right,39,M,['MC'],5200000.0,EUR,2051,SK Sturm Graz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1403124,Emran Soglo,2005-07-11,21.0,England,,178.0,,Left,18,M,['DL'],760000.0,EUR,2051,SK Sturm Graz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+280565,Jon Gorenc Stanković,1996-01-14,30.0,Slovenia,,190.0,78.0,Right,4,M,"['MC', 'DM']",2300000.0,EUR,2051,SK Sturm Graz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1006081,Gizo Mamageishvili,2003-01-15,23.0,Georgia,,181.0,,Right,15,M,['RW'],1200000.0,EUR,2051,SK Sturm Graz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1488043,Jacob Hödl,2007-01-31,19.0,Austria,,175.0,,Left,43,M,['MC'],5400000.0,EUR,2051,SK Sturm Graz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1129553,Julian Halwachs,2003-01-25,23.0,Austria,,188.0,,Right,40,M,['MC'],165000.0,EUR,2103,Sturm Graz II,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+799651,Jurgen Heil,1997-04-04,29.0,Austria,,176.0,,,28,M,['DR'],720000.0,EUR,2051,SK Sturm Graz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1500291,Arjan Malić,2005-08-28,20.0,Bosnia & Herzegovina,,186.0,,Right,23,D,"['DR', 'DC']",1900000.0,EUR,2051,SK Sturm Graz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1099285,Jeyland Mitchell,2004-09-29,21.0,Costa Rica,,187.0,,Right,2,D,"['DC', 'DR']",2900000.0,EUR,2051,SK Sturm Graz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1499054,Luís Balbo,2006-03-28,20.0,Venezuela,,177.0,,Left,27,D,['DL'],3100000.0,EUR,2051,SK Sturm Graz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1500275,Petar Petrović,2005-07-13,21.0,Serbia,,190.0,,Both,21,D,['DC'],1600000.0,EUR,2051,SK Sturm Graz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+557878,Albert Vallci,1995-07-02,31.0,Austria,,191.0,,Both,5,D,['DC'],775000.0,EUR,2051,SK Sturm Graz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+962270,Paul Koller,2002-02-22,24.0,Austria,,186.0,,Left,30,D,"['DC', 'DL']",1400000.0,EUR,2051,SK Sturm Graz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1017135,Niklas Geyrhofer,2000-02-11,26.0,Austria,,188.0,,Right,35,D,['DC'],680000.0,EUR,2051,SK Sturm Graz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1101753,Daniil Khudyakov,2004-01-09,22.0,Russia,,194.0,,Right,53,G,['GK'],1700000.0,EUR,2051,SK Sturm Graz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+886066,Ammar Helac,1998-06-13,28.0,Austria,,190.0,,Right,22,G,['GK'],215000.0,EUR,2051,SK Sturm Graz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1213797,Elias Lorenz,2006-03-27,20.0,Austria,,194.0,,Right,41,G,['GK'],170000.0,EUR,2051,SK Sturm Graz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1632411,Christoph Wiener-Pucher,2006-10-08,19.0,Austria,,186.0,,Right,32,G,,69000.0,EUR,2103,Sturm Graz II,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1139103,Karim Konaté,2004-03-21,22.0,Côte d'Ivoire,,178.0,,Right,19,F,['ST'],10900000.0,EUR,2046,Red Bull Salzburg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+259803,Haris Tabaković,1994-06-20,32.0,Bosnia & Herzegovina,,196.0,90.0,Right,9,F,['ST'],3600000.0,EUR,2046,Red Bull Salzburg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1652719,Gaoussou Diakite,2005-09-26,20.0,Mali,,182.0,,Right,30,F,"['ST', 'AM']",3100000.0,EUR,2046,Red Bull Salzburg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1805062,Edmund Baidoo,2006-01-30,20.0,Ghana,,174.0,,Right,20,F,"['ST', 'RW']",7700000.0,EUR,2046,Red Bull Salzburg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+909958,Yorbe Vertessen,2001-01-08,25.0,Belgium,,176.0,,Right,11,F,['ST'],4500000.0,EUR,2046,Red Bull Salzburg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1542696,Aboubacar Camara,2006-09-30,19.0,Burkina Faso,,169.0,,Both,33,F,['ST'],850000.0,EUR,2046,Red Bull Salzburg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1566219,Enrique Aguilar,2007-01-27,19.0,Switzerland,,183.0,,Right,43,F,['AM'],1600000.0,EUR,2046,Red Bull Salzburg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1548899,Bartosz Mazurek,2007-01-03,19.0,Poland,,180.0,,Right,15,M,['MC'],4300000.0,EUR,2046,Red Bull Salzburg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+987818,Maurits Kjaergaard,2003-06-26,23.0,Denmark,,192.0,,Left,14,M,['MC'],7400000.0,EUR,2046,Red Bull Salzburg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1185273,Sota Kitano,2004-08-13,21.0,Japan,,172.0,,Right,8,M,['AM'],6200000.0,EUR,2046,Red Bull Salzburg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1012657,Lucas Gourna-Douath,2003-08-05,23.0,France,,185.0,,Right,29,M,"['MC', 'DM']",5600000.0,EUR,2046,Red Bull Salzburg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1929671,Johannes Moser,2008-01-16,18.0,Austria,,179.0,,Right,27,M,['MC'],1100000.0,EUR,2046,Red Bull Salzburg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1468564,Soumaïla Diabaté,2004-11-22,21.0,Mali,,168.0,,Right,5,M,"['MC', 'DM']",7500000.0,EUR,2046,Red Bull Salzburg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1135854,Mamady Diambou,2002-11-11,23.0,Mali,,176.0,,Right,35,M,"['MC', 'DM']",1400000.0,EUR,2046,Red Bull Salzburg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1084933,Damir Redzic,2003-03-23,23.0,Hungary,,179.0,,Left,23,M,['RW'],4099999.0,EUR,2046,Red Bull Salzburg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+862008,Abubakr Barry,2000-07-02,26.0,Gambia,,190.0,,Right,32,M,"['MC', 'DM']",2800000.0,EUR,2046,Red Bull Salzburg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1892686,Yerwin Sulbaran,2008-03-03,18.0,Venezuela,,176.0,64.0,Left,29,M,['MR'],1900000.0,EUR,2046,Red Bull Salzburg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1185565,Zétény Jánó,2005-03-13,21.0,Austria,,167.0,,Right,18,M,"['AM', 'MC']",380000.0,EUR,2046,Red Bull Salzburg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1981976,Filip Matijašević,2008-03-04,18.0,Serbia,,175.0,,Right,28,M,['AM'],4200000.0,EUR,2046,Red Bull Salzburg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+998938,Justin Omoregie,2003-09-21,22.0,Austria,,189.0,,Left,36,M,['MC'],390000.0,EUR,2046,Red Bull Salzburg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1142249,Frans Krätzig,2003-01-14,23.0,Germany,,177.0,,Left,13,D,"['DL', 'ML']",2600000.0,EUR,2046,Red Bull Salzburg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1154597,Anrie Chase,2004-03-24,22.0,Japan,,187.0,,Right,91,D,['DC'],1900000.0,EUR,2046,Red Bull Salzburg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+876860,Aleksa Terzić,1999-08-17,26.0,Serbia,,184.0,,Left,3,D,['DL'],2600000.0,EUR,2046,Red Bull Salzburg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1049465,Kévin Boma,2002-11-20,23.0,Togo,,193.0,,Right,44,D,"['DC', 'DR']",6400000.0,EUR,2046,Red Bull Salzburg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1424607,John Mellberg,2006-07-30,20.0,Sweden,,188.0,,Left,4,D,['DC'],1800000.0,EUR,2046,Red Bull Salzburg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+113920,Stefan Lainer,1992-08-27,33.0,Austria,,176.0,71.0,Right,22,D,"['DR', 'MR']",825000.0,EUR,2046,Red Bull Salzburg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1140597,Hendry Blank,2004-08-21,21.0,Germany,,189.0,71.0,Left,34,D,['DC'],1300000.0,EUR,2046,Red Bull Salzburg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1138150,Nikolas Veratschnig,2003-01-24,23.0,Austria,,178.0,,Right,18,D,"['DR', 'MR']",2300000.0,EUR,2046,Red Bull Salzburg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1135938,Leandro Morgalla,2004-09-13,21.0,Germany,,186.0,,Right,39,D,"['DR', 'DC']",3200000.0,EUR,2046,Red Bull Salzburg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1152499,Tim Drexler,2005-03-06,21.0,Germany,,185.0,,Right,21,D,"['DC', 'DR']",3200000.0,EUR,2046,Red Bull Salzburg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+883466,Dominik Schmid,1998-03-10,28.0,Switzerland,,182.0,70.0,Right,31,D,['DL'],2900000.0,EUR,2046,Red Bull Salzburg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1567317,Valentin Zabransky,2007-02-02,19.0,Austria,,194.0,,Both,47,D,['DC'],545000.0,EUR,2046,Red Bull Salzburg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+845024,Christian Früchtl,2000-01-28,26.0,Germany,,193.0,71.0,Left,1,G,['GK'],1000000.0,EUR,2046,Red Bull Salzburg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1474199,Christian Zawieschitzky,2007-05-02,19.0,Austria,,184.0,,Left,52,G,['GK'],1000000.0,EUR,2046,Red Bull Salzburg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1215061,Moses Usor,2002-02-05,24.0,Nigeria,,181.0,,Left,8,F,"['RW', 'ST']",6500000.0,EUR,2058,LASK,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1068299,Samuel Adeniran,1998-09-29,27.0,USA,,196.0,,Left,7,F,['ST'],2900000.0,EUR,2058,LASK,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1104216,Christoph Lang,2002-01-07,24.0,Austria,,178.0,,Both,27,F,"['AM', 'RW', 'ST']",725000.0,EUR,2058,LASK,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1397899,Ramiz Harakate,2002-07-13,24.0,France,,180.0,,Left,22,F,['ST'],1600000.0,EUR,2058,LASK,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+935308,Robert Ljubičić,1999-07-14,27.0,Croatia,,178.0,,Left,10,M,"['DL', 'MC', 'DM', 'AM']",2900000.0,EUR,2058,LASK,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+931742,George Bello,2002-01-22,24.0,USA,,170.0,72.0,Left,2,M,"['DL', 'ML']",3200000.0,EUR,2058,LASK,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+961672,Melayro Bogarde,2002-05-28,24.0,Suriname,,184.0,,Right,6,M,"['MC', 'DM', 'DC', 'DR']",3800000.0,EUR,2058,LASK,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+147776,Alessandro Schöpf,1994-02-07,32.0,Austria,,178.0,73.0,Both,18,M,"['MC', 'DM']",775000.0,EUR,2058,LASK,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1009833,Krystof Daněk,2003-01-05,23.0,Czechia,,182.0,,Left,9,M,['AM'],2100000.0,EUR,2058,LASK,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+282093,Sascha Horvath,1996-08-22,29.0,Austria,,164.0,60.0,Right,30,M,"['MC', 'DM']",1900000.0,EUR,2058,LASK,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1148949,Art Smakaj,2003-02-04,23.0,Kosovo,,185.0,,Right,5,M,"['MC', 'DM']",570000.0,EUR,2058,LASK,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+787543,Florian Flecker,1995-10-29,30.0,Austria,,173.0,,Right,29,M,"['MR', 'RW']",515000.0,EUR,2058,LASK,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+978952,Kasper Jørgensen,1999-11-07,26.0,Denmark,,185.0,,Right,20,M,"['DR', 'MR']",4300000.0,EUR,2058,LASK,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+841802,Andrés Andrade,1998-10-16,27.0,Panama,,187.0,,Left,16,D,"['DC', 'DL']",2400000.0,EUR,2058,LASK,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+974020,Xavier Mbuyamba,2001-12-31,24.0,Netherlands,,195.0,,Right,4,D,['DC'],1400000.0,EUR,2058,LASK,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1103553,Yvan Dibango,2002-03-10,24.0,Cameroon,,184.0,,Left,25,D,['DL'],1200000.0,EUR,2058,LASK,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1199402,Alemão,2002-11-06,23.0,Brazil,,194.0,87.0,Right,43,D,['DC'],2300000.0,EUR,2058,LASK,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+2214471,Manoël Verhaeghe,2008-03-25,18.0,DR Congo,,187.0,,Right,21,D,['DC'],1200000.0,EUR,2058,LASK,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1435912,Miguel Freckleton,2003-08-06,23.0,England,,193.0,,Left,3,D,"['DC', 'DR', 'DL']",215000.0,EUR,2058,LASK,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+2190878,Cheikne Kebe,2005-11-26,20.0,Mali,,,,,52,D,,260000.0,EUR,2058,LASK,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1031170,Lukas Jungwirth,2004-04-30,22.0,Austria,,193.0,,Right,1,G,['GK'],3100000.0,EUR,2058,LASK,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+355480,Tobias Schützenauer,1997-05-19,29.0,Austria,,180.0,70.0,Both,33,G,['GK'],235000.0,EUR,2058,LASK,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1566223,Fabian Schillinger,2007-05-24,19.0,Austria,,191.0,,Right,50,G,,,,2058,LASK,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+962283,Yusuf Demir,2003-06-02,23.0,Austria,,173.0,,Left,22,F,"['RW', 'AM']",930000.0,EUR,2055,SK Rapid Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+995069,Tonni Adamsen,1994-11-15,31.0,Denmark,,180.0,,Left,8,F,['ST'],1400000.0,EUR,2055,SK Rapid Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1897251,Nikolaus Wurmbrand,2006-01-05,20.0,Austria,,173.0,,Both,15,F,['LW'],5300000.0,EUR,2055,SK Rapid Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+927279,Marco Tilio,2001-08-23,24.0,Australia,,170.0,,Left,7,F,"['LW', 'RW']",485000.0,EUR,2055,SK Rapid Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+843039,Ercan Kara,1996-01-03,30.0,Austria,,192.0,,Right,9,F,['ST'],875000.0,EUR,2055,SK Rapid Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+2223536,Moulaye Haïdara,2006-08-01,20.0,Mali,,,,,43,F,['ST'],290000.0,EUR,2055,SK Rapid Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+895631,Claudy Mbuyi,1999-06-03,27.0,France,,183.0,,Right,71,F,['ST'],1300000.0,EUR,2055,SK Rapid Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1951674,Daniel Nunoo,2006-08-20,19.0,Ghana,,175.0,70.0,Right,54,F,['ST'],515000.0,EUR,2055,SK Rapid Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+996734,Tobias Fjeld Gulliksen,2003-07-09,23.0,Norway,,177.0,,Right,17,M,"['AM', 'LW']",2100000.0,EUR,2055,SK Rapid Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1173222,Romeo Amane,2003-02-20,23.0,Côte d'Ivoire,,176.0,,Right,29,M,"['MC', 'DM']",4800000.0,EUR,2055,SK Rapid Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1517711,Martin Ndzie,2003-01-16,23.0,Cameroon,,188.0,,Left,14,M,"['MC', 'DM']",935000.0,EUR,2055,SK Rapid Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+997198,Andrija Radulović,2002-07-03,24.0,Montenegro,,177.0,,Left,49,M,['RW'],825000.0,EUR,2055,SK Rapid Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1199192,Petter Nosakhare Dahl,2003-10-22,22.0,Norway,,180.0,,Right,10,M,['LW'],2400000.0,EUR,2055,SK Rapid Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1006268,Matthias Seidl,2001-01-24,25.0,Austria,,175.0,,Right,18,M,"['MC', 'AM', 'DM']",2400000.0,EUR,2055,SK Rapid Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+138146,Louis Schaub,1994-12-29,31.0,Austria,,177.0,70.0,Left,21,M,"['AM', 'MC']",380000.0,EUR,2055,SK Rapid Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1064835,Moritz Oswald,2002-01-05,24.0,Austria,,171.0,,Right,28,M,"['MC', 'DM']",330000.0,EUR,2055,SK Rapid Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1146280,Nicolas Bajlicz,2004-07-08,22.0,Austria,,173.0,68.0,Right,30,M,"['MC', 'DM']",830000.0,EUR,2055,SK Rapid Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1423473,Lorenz Szladits,2006-11-10,19.0,Austria,,178.0,,Right,44,M,['MC'],270000.0,EUR,2055,SK Rapid Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+921140,Bendegúz Bolla,1999-11-22,26.0,Hungary,,179.0,,Right,77,D,"['DR', 'MR']",2900000.0,EUR,2055,SK Rapid Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1397914,Kouadio Ange Ahoussou,2003-12-22,22.0,Côte d'Ivoire,,194.0,,Left,20,D,['DC'],2400000.0,EUR,2055,SK Rapid Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+989887,Serge-Philippe Raux-Yao,1999-05-30,27.0,France,,196.0,83.0,Left,6,D,['DC'],3700000.0,EUR,2055,SK Rapid Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+978405,Jonas Auer,2000-08-05,26.0,Austria,,182.0,,Left,23,D,['DL'],430000.0,EUR,2055,SK Rapid Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+878471,Nenad Cvetković,1996-01-06,30.0,Serbia,,194.0,,Right,55,D,['DC'],1300000.0,EUR,2055,SK Rapid Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1391308,Furkan Demir,2004-11-29,21.0,Türkiye,,165.0,67.0,Right,61,D,['MR'],735000.0,EUR,2055,SK Rapid Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1149220,Jakob Schöller,2005-12-09,20.0,Austria,,194.0,,Right,4,D,['DC'],1900000.0,EUR,2055,SK Rapid Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+827688,Jannes Horn,1997-02-06,29.0,Germany,,186.0,77.0,Left,38,D,"['DL', 'DC']",1200000.0,EUR,2055,SK Rapid Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1566213,Eaden Roka,2007-09-03,18.0,Austria,,175.0,,Right,2,D,['DR'],290000.0,EUR,2055,SK Rapid Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1141517,Dominic Vincze,2004-03-01,22.0,Austria,,188.0,,,53,D,['DC'],875000.0,EUR,2055,SK Rapid Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+918421,Niklas Hedl,2001-03-17,25.0,Austria,,188.0,,Right,1,G,['GK'],1300000.0,EUR,2055,SK Rapid Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+355478,Paul Gartler,1997-03-10,29.0,Austria,,185.0,80.0,Right,25,G,['GK'],485000.0,EUR,2055,SK Rapid Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1120312,Benjamin Göschl,2005-11-16,20.0,Austria,,188.0,,,51,G,['GK'],195000.0,EUR,2055,SK Rapid Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1198430,Jed Drew,2003-08-29,22.0,Australia,,176.0,,Right,11,F,['RW'],420000.0,EUR,2075,TSV Hartberg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+818049,Lukas Fridrikas,1997-12-30,28.0,Austria,,180.0,,Right,30,F,['ST'],360000.0,EUR,2075,TSV Hartberg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1402689,Chilohem Onuoha,2005-05-07,21.0,Germany,,188.0,,Both,70,F,['ST'],195000.0,EUR,2075,TSV Hartberg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1896883,Marco Hoffmann,2003-11-08,22.0,Austria,,182.0,,,22,F,['ST'],480000.0,EUR,2075,TSV Hartberg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1122374,Angelo Gattermayer,2002-06-06,24.0,Austria,,182.0,,Right,7,F,"['ST', 'RW']",565000.0,EUR,2075,TSV Hartberg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1513174,Matthias Postl,2005-09-29,20.0,Austria,,185.0,,Right,8,F,,23000.0,EUR,2075,TSV Hartberg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1837247,Agustín Urrutia,2004-04-23,22.0,Argentina,,180.0,77.0,Right,9,F,['ST'],155000.0,EUR,2075,TSV Hartberg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+2039969,David Korherr,2002-06-24,24.0,Austria,,,,,77,F,,140000.0,EUR,2075,TSV Hartberg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1423477,Oliver Lukić,2006-09-22,19.0,Croatia,,188.0,,Right,10,M,['MC'],1000000.0,EUR,2075,TSV Hartberg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+924369,Youba Diarra,1998-03-24,28.0,Mali,,178.0,,Right,5,M,"['MC', 'DM']",320000.0,EUR,2075,TSV Hartberg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1032333,Benjamin Markuš,2001-01-30,25.0,Slovenia,,185.0,,Right,4,M,"['DM', 'MC']",1100000.0,EUR,2075,TSV Hartberg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1149346,Luca Pazourek,2005-02-04,21.0,Austria,,178.0,,Right,2,M,['DR'],460000.0,EUR,2075,TSV Hartberg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+95691,Tobias Kainz,1992-10-31,33.0,Austria,,174.0,68.0,Right,23,M,"['MC', 'DM']",205000.0,EUR,2075,TSV Hartberg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1212231,Jonas Karner,2004-09-28,21.0,Austria,,,,,17,M,['MC'],105000.0,EUR,2075,TSV Hartberg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1488061,Paul Bratschko,2005-10-14,20.0,Austria,,,,,20,M,,97000.0,EUR,2075,TSV Hartberg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1129709,Florian Gerstl,2002-12-17,23.0,Austria,,183.0,,Left,28,M,,,,2075,TSV Hartberg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+2202165,Nikolaus Feldhofer,2006-11-03,19.0,Austria,,,,Right,95,M,,,,2075,TSV Hartberg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1566275,Magnus Dalpiaz,2007-02-20,19.0,Austria,,184.0,,Right,16,D,['DC'],245000.0,EUR,2075,TSV Hartberg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1484314,Konstantin Schopp,2005-12-30,20.0,Austria,,186.0,,Right,27,D,['DC'],620000.0,EUR,2075,TSV Hartberg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1384232,Fabian Wilfinger,2003-08-27,22.0,Austria,,178.0,,,18,D,['DC'],775000.0,EUR,2075,TSV Hartberg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+2189273,Habib Anas Coulibaly,2003-11-11,22.0,Côte d'Ivoire,,186.0,,Left,6,D,['DC'],390000.0,EUR,2075,TSV Hartberg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+183685,Lukas Spendlhofer,1993-06-02,33.0,Austria,,187.0,82.0,Right,19,D,"['DC', 'DR']",215000.0,EUR,2075,TSV Hartberg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1048206,Paul Komposch,2001-05-13,25.0,Austria,,187.0,,Right,14,D,['DC'],580000.0,EUR,2075,TSV Hartberg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1134236,Ármin Pécsi,2005-02-24,21.0,Hungary,,190.0,,Right,91,G,['GK'],825000.0,EUR,2075,TSV Hartberg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1006952,Luka Marić,2002-07-19,24.0,Austria,,184.0,,Right,21,G,['GK'],105000.0,EUR,2075,TSV Hartberg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1513171,Harald Postl,2005-09-29,20.0,Austria,,,,,44,G,,26000.0,EUR,2075,TSV Hartberg,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1988985,Dino Delic,2008-09-08,17.0,Austria,,182.0,,Left,23,F,['ST'],260000.0,EUR,43254,Austria Klagenfurt,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1912931,Mateo Lekaj,2006-01-28,20.0,Croatia,,170.0,,Left,18,F,,,,43254,Austria Klagenfurt,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+2250091,Din Delic,2007-11-24,18.0,Bosnia & Herzegovina,,,,,70,F,,,,43254,Austria Klagenfurt,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1148968,Aleks Ristic,2005-09-09,20.0,Slovenia,,,,Right,9,F,['ST'],160000.0,EUR,43254,Austria Klagenfurt,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1122375,Daniel Kalajdžić,2000-11-24,25.0,Austria,,190.0,,Left,,F,['ST'],72000.0,EUR,43254,Austria Klagenfurt,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+2668797,Fabian Rötzer,2009-03-21,17.0,Austria,,,,,,F,,,,43254,Austria Klagenfurt,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1108088,Daniel Owusu,2003-01-25,23.0,Ghana,,183.0,,Right,,M,['ST'],97000.0,EUR,43254,Austria Klagenfurt,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1138164,Jaka Kasnik,2001-11-09,24.0,Slovenia,,,,Right,47,M,['MC'],79000.0,EUR,43254,Austria Klagenfurt,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+835922,Florian Jaritz,1997-10-18,28.0,Austria,,163.0,,Both,7,M,['LW'],145000.0,EUR,43254,Austria Klagenfurt,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+844451,Alexander Ranacher,1998-11-20,27.0,Austria,,175.0,,Right,13,M,"['DR', 'MC']",205000.0,EUR,43254,Austria Klagenfurt,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1989007,Sebastian Pschernig,2005-09-20,20.0,Austria,,179.0,,Right,16,M,['MC'],190000.0,EUR,43254,Austria Klagenfurt,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1989010,Tristan Schoppitsch,2006-10-03,19.0,Austria,,175.0,,Both,66,M,,120000.0,EUR,43254,Austria Klagenfurt,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1988991,Jakob Oberguggenberger,2008-06-25,18.0,Austria,,,,,,M,,,,43254,Austria Klagenfurt,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1989002,Moritz Tatschl,2007-08-21,18.0,Austria,,,,,27,M,,,,43254,Austria Klagenfurt,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+2668802,Emilian Sauper,2009-08-29,16.0,Austria,,,,,,M,,,,43254,Austria Klagenfurt,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1513129,Julian Brandner,2004-11-09,21.0,Austria,,,,,,M,,,,43254,Austria Klagenfurt,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1508228,Matthias Dollinger,2005-04-13,21.0,Austria,,174.0,,Left,19,D,['DL'],165000.0,EUR,43254,Austria Klagenfurt,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1109454,Luka Verbic,2001-11-29,24.0,Slovenia,,186.0,,Left,,D,"['DC', 'DL']",71000.0,EUR,43254,Austria Klagenfurt,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1988988,Florian Weiss,1999-08-06,27.0,Austria,,,,Right,2,D,,,,43254,Austria Klagenfurt,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1988980,Anej Saric,2008-04-20,18.0,Slovenia,,,,,,D,,,,43254,Austria Klagenfurt,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+2668638,Michael Tributsch,2009-02-02,17.0,Austria,,,,,,D,,,,43254,Austria Klagenfurt,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+2668713,Tom Pfeiffer,2007-11-27,18.0,Austria,,,,,,D,,,,43254,Austria Klagenfurt,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+165033,Manuel Kuttin,1993-12-17,32.0,Austria,,195.0,94.0,Right,1,G,['GK'],92000.0,EUR,43254,Austria Klagenfurt,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1886697,Alexander Turkin,2006-11-09,19.0,Austria,,189.0,,,57,G,['GK'],155000.0,EUR,43254,Austria Klagenfurt,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1988992,Kevin Zesch,2007-10-06,18.0,Austria,,,,,12,G,,,,43254,Austria Klagenfurt,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+940280,Nico Grubor,2000-07-20,26.0,Austria,,192.0,,Both,,G,['GK'],26000.0,EUR,43254,Austria Klagenfurt,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1002319,Noah Botic,2002-01-11,24.0,Australia,,183.0,,Right,9,F,['ST'],575000.0,EUR,2203,FK Austria Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+591588,Johannes Eggestein,1998-05-08,28.0,Germany,,183.0,75.0,Right,19,F,['ST'],2400000.0,EUR,2203,FK Austria Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+869709,Manprit Sarkaria,1996-08-26,29.0,Austria,,179.0,,Left,11,F,['ST'],580000.0,EUR,2203,FK Austria Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1090054,Julian Hettwer,2003-06-15,23.0,Germany,,184.0,,Right,20,F,"['RW', 'LW']",875000.0,EUR,2203,FK Austria Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1032039,Kelvin Boateng,2000-03-24,26.0,Ghana,,184.0,,Right,14,F,['ST'],580000.0,EUR,2203,FK Austria Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1149208,Sanel Saljic,2005-11-27,20.0,Austria,,177.0,,Left,10,F,['RW'],1900000.0,EUR,2203,FK Austria Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1127195,Moritz Wels,2004-09-25,21.0,Austria,,186.0,,Left,37,F,"['AM', 'MC']",825000.0,EUR,2203,FK Austria Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1923335,Abdoulaye Kante,2005-05-15,21.0,Côte d'Ivoire,,170.0,65.0,Right,47,F,,210000.0,EUR,2203,FK Austria Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1002355,Lee Tae-seok,2002-07-28,24.0,South Korea,,174.0,69.0,Left,17,M,"['DL', 'ML']",2100000.0,EUR,2203,FK Austria Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+2325627,Hasan Deshishku,2008-02-23,18.0,Austria,,182.0,,Left,74,M,['RW'],280000.0,EUR,2203,FK Austria Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1019285,Lee Kang-hee,2001-08-24,24.0,South Korea,,191.0,72.0,Right,16,M,"['MC', 'DC', 'DM']",475000.0,EUR,2203,FK Austria Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1929639,Vasilije Markovic,2008-05-12,18.0,Austria,,182.0,,Right,7,M,['MC'],2900000.0,EUR,2203,FK Austria Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1825903,Philipp Maybach,2007-12-14,18.0,Austria,,182.0,,Right,6,M,"['MC', 'DM']",2400000.0,EUR,2203,FK Austria Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+799456,Manfred Fischer,1995-08-06,31.0,Austria,,179.0,72.0,Right,30,M,"['DM', 'MC', 'AM']",755000.0,EUR,2203,FK Austria Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+126858,Reinhold Ranftl,1992-01-24,34.0,Austria,,179.0,75.0,Right,26,M,"['MR', 'DR']",315000.0,EUR,2203,FK Austria Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1064210,Florian Wustinger,2003-07-21,23.0,Austria,,176.0,,Right,22,M,['MC'],360000.0,EUR,2203,FK Austria Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+37313,Aleksandar Dragović,1991-03-06,35.0,Austria,,184.0,76.0,Both,15,D,['DC'],635000.0,EUR,2203,FK Austria Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1217910,Buhari Ibrahim,2001-10-08,24.0,Nigeria,,190.0,,Right,3,D,['DC'],1500000.0,EUR,2203,FK Austria Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+874842,Johannes Handl,1998-05-07,28.0,Austria,,196.0,,Both,46,D,"['DC', 'DR']",435000.0,EUR,2203,FK Austria Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+336377,Philipp Wiesinger,1994-05-23,32.0,Austria,,182.0,74.0,Both,28,D,"['DC', 'DR']",435000.0,EUR,2203,FK Austria Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1403010,Matteo Schablas,2005-03-14,21.0,Austria,,180.0,,Right,21,D,['DL'],435000.0,EUR,2203,FK Austria Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1925482,Jonas Feddersen,2007-01-21,19.0,Germany,,191.0,,Left,4,D,['DC'],215000.0,EUR,2203,FK Austria Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1967263,Daniel Nnodim,2007-12-06,18.0,Germany,,187.0,,Right,40,D,['DR'],290000.0,EUR,2203,FK Austria Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1967259,Valentin Toifl,2005-05-21,21.0,Austria,,197.0,,,44,D,['DC'],245000.0,EUR,2203,FK Austria Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+66340,Samuel Sahin-Radlinger,1992-11-07,33.0,Austria,,198.0,94.0,Right,1,G,['GK'],495000.0,EUR,2203,FK Austria Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+869699,Mirko Kos,1997-04-12,29.0,Austria,,183.0,,Right,99,G,['GK'],270000.0,EUR,2203,FK Austria Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1149214,Kenan Jusic,2005-05-10,21.0,Austria,,191.0,,Left,32,G,['GK'],215000.0,EUR,2203,FK Austria Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+575804,Lukas Wedl,1995-10-19,30.0,Austria,,185.0,80.0,Right,13,G,['GK'],78000.0,EUR,2203,FK Austria Wien,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+862484,Giacomo Vrioni,1998-10-15,27.0,Albania,,188.0,73.0,Left,9,F,['ST'],625000.0,EUR,2076,Wolfsberger AC,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1423479,Phillip Verhounig,2006-01-05,20.0,Austria,,185.0,,Both,23,F,['ST'],330000.0,EUR,2076,Wolfsberger AC,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1444568,Sankara Karamoko,2003-11-09,22.0,Côte d'Ivoire,,178.0,,Right,49,F,['ST'],935000.0,EUR,2076,Wolfsberger AC,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+50126,Markus Pink,1991-02-24,35.0,Austria,,188.0,87.0,Right,32,F,['ST'],165000.0,EUR,2076,Wolfsberger AC,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1548130,Mickael Dosso,2005-02-26,21.0,Denmark,,176.0,,Right,24,F,['RW'],165000.0,EUR,2076,Wolfsberger AC,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1514236,Marco Schabauer,2005-10-21,20.0,Austria,,,,,17,F,['MC'],190000.0,EUR,2076,Wolfsberger AC,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+281271,Donis Avdijaj,1996-08-25,29.0,Kosovo,,173.0,69.0,Right,10,M,"['LW', 'AM', 'ST']",530000.0,EUR,2076,Wolfsberger AC,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1006067,Otar Mamageishvili,2003-01-15,23.0,Georgia,,180.0,,Right,19,M,"['MC', 'DM']",735000.0,EUR,2076,Wolfsberger AC,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1146072,Boris Matić,2004-08-19,21.0,Serbia,,180.0,,Right,2,M,"['DR', 'MR']",1300000.0,EUR,2076,Wolfsberger AC,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1894380,Emmanuel Agyemang,2004-01-03,22.0,Ghana,,180.0,,Left,34,M,"['MC', 'DM']",730000.0,EUR,2076,Wolfsberger AC,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1406143,Veljko Vukojević,2006-08-22,19.0,Serbia,,178.0,,Right,22,M,['MR'],265000.0,EUR,2076,Wolfsberger AC,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1031171,Marco Sulzner,2003-07-02,23.0,Austria,,189.0,,Right,30,M,"['MC', 'DM']",645000.0,EUR,2076,Wolfsberger AC,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+244141,René Renner,1993-11-29,32.0,Austria,,181.0,69.0,Left,77,M,"['DL', 'ML']",315000.0,EUR,2076,Wolfsberger AC,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+141205,Simon Piesinger,1992-05-13,34.0,Austria,,194.0,84.0,Right,8,M,"['DM', 'MC', 'DC']",210000.0,EUR,2076,Wolfsberger AC,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1391307,Aaron Sky Schwarz,2004-03-20,22.0,Austria,,180.0,,Right,11,M,['ML'],210000.0,EUR,2076,Wolfsberger AC,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+941055,Thorsten Schriebl,1998-11-24,27.0,Austria,,175.0,,Right,20,M,"['MC', 'DM']",435000.0,EUR,2076,Wolfsberger AC,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1126745,Luca Hassler,2003-12-13,22.0,Austria,,176.0,,Left,7,M,['MC'],270000.0,EUR,2076,Wolfsberger AC,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1973767,Michael Schweiger,2005-08-25,20.0,Austria,,184.0,,Right,18,M,,,,2076,Wolfsberger AC,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1655334,Adama Drame,2005-01-05,21.0,Côte d'Ivoire,,189.0,,Right,25,D,['DC'],155000.0,EUR,2076,Wolfsberger AC,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1406116,David Đurić,2006-03-19,20.0,Serbia,,174.0,,Left,70,D,['DL'],205000.0,EUR,2076,Wolfsberger AC,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1801585,Cheick Mamadou Diabate,2004-01-01,22.0,Côte d'Ivoire,,188.0,,Right,15,D,['DC'],1100000.0,EUR,2076,Wolfsberger AC,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+799723,Raffael Behounek,1997-04-16,29.0,Austria,,187.0,,Right,6,D,['DC'],570000.0,EUR,2076,Wolfsberger AC,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1928493,Austin Harrison Uzondu,,,Nigeria,,,,Left,3,D,['DL'],,,214300,Ikorodu City,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+843630,Nicolas Wimmer,1995-03-15,31.0,Austria,,190.0,,Left,37,D,"['DC', 'DL']",725000.0,EUR,2076,Wolfsberger AC,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+989751,Fabian Wohlmuth,2002-06-25,24.0,Austria,,188.0,,Right,31,D,"['MR', 'DR']",720000.0,EUR,2076,Wolfsberger AC,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1988994,Matteo Kitz,2007-01-20,19.0,Austria,,190.0,,Right,35,D,['DC'],260000.0,EUR,2076,Wolfsberger AC,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+962268,Nikolas Polster,2002-07-07,24.0,Austria,,188.0,,Right,12,G,['GK'],2100000.0,EUR,2076,Wolfsberger AC,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+942888,Lukas Gütlbauer,2000-12-06,25.0,Austria,,191.0,,Right,1,G,['GK'],465000.0,EUR,2076,Wolfsberger AC,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1049106,David Skubl,2001-09-18,24.0,Austria,,184.0,,Right,21,G,,105000.0,EUR,2076,Wolfsberger AC,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1116507,Srđan Hrstić,2003-07-18,23.0,Serbia,,192.0,,Right,19,F,['ST'],525000.0,EUR,4856,SCR Altach,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1009557,Ousmane Diawara,1998-12-01,27.0,Mali,,187.0,,Right,10,F,['ST'],455000.0,EUR,4856,SCR Altach,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+843668,Marko Raguž,1998-06-10,28.0,Austria,,192.0,72.0,Both,9,F,['ST'],190000.0,EUR,4856,SCR Altach,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1875495,Shingo Nakano,2004-12-26,21.0,Japan,,180.0,,Right,11,F,['ST'],230000.0,EUR,4856,SCR Altach,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1994381,Erkin Yalcin,2004-06-14,22.0,Austria,,182.0,,Left,20,F,,245000.0,EUR,4856,SCR Altach,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+865653,Vesel Demaku,2000-02-05,26.0,Kosovo,,179.0,72.0,Right,6,M,"['MC', 'DM']",485000.0,EUR,4856,SCR Altach,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1830848,Salif Tietietta,2004-11-29,21.0,Burkina Faso,,173.0,,Right,24,M,,94000.0,EUR,4856,SCR Altach,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+878510,Patrick Greil,1996-09-08,29.0,Austria,,179.0,,Right,18,M,"['AM', 'MC']",855000.0,EUR,4856,SCR Altach,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+962272,Benjamin Böckle,2002-06-17,24.0,Austria,,182.0,,Left,37,M,"['DL', 'ML']",680000.0,EUR,4856,SCR Altach,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1462089,Yann Massombo,2000-02-12,26.0,France,,186.0,,Left,28,M,['MC'],880000.0,EUR,4856,SCR Altach,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1198077,Niklas Niehoff,2004-08-20,21.0,Germany,,187.0,,Right,29,M,['RW'],620000.0,EUR,4856,SCR Altach,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1064761,Denizcan Cosgun,2002-02-16,24.0,Austria,,177.0,,Right,7,M,['MC'],320000.0,EUR,4856,SCR Altach,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+254015,Mike-Steven Bähre,1995-08-10,31.0,Germany,,177.0,70.0,Right,8,M,"['MC', 'DM']",415000.0,EUR,4856,SCR Altach,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1513828,Yanis Eisschill,2005-10-13,20.0,Austria,,186.0,,Right,22,M,"['MC', 'DM']",270000.0,EUR,4856,SCR Altach,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+2237454,Adrian Vonbrul,2008-01-13,18.0,Austria,,,,,34,M,,,,4856,SCR Altach,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1922595,Henrique Bell,2007-07-09,19.0,Brazil,,191.0,,Left,4,D,,,,4856,SCR Altach,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+66285,Benedikt Zech,1990-11-03,35.0,Austria,,186.0,77.0,Right,23,D,['DC'],120000.0,EUR,4856,SCR Altach,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1402975,Filip Milojevic,2005-02-09,21.0,Austria,,191.0,85.0,Right,27,D,"['DC', 'DR']",1000000.0,EUR,4856,SCR Altach,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1104233,Rassa Rahmani,1999-12-14,26.0,Sweden,,186.0,,Left,16,D,['DL'],265000.0,EUR,4856,SCR Altach,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+138124,Lukas Jäger,1994-02-12,32.0,Austria,,183.0,76.0,Right,17,D,"['MC', 'DM', 'DC']",185000.0,EUR,4856,SCR Altach,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1423468,Jakob Brandtner,2006-03-02,20.0,Austria,,177.0,,Left,21,D,['DL'],330000.0,EUR,4856,SCR Altach,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+109453,Dejan Stojanović,1993-07-19,33.0,Austria,,196.0,89.0,Left,1,G,['GK'],470000.0,EUR,4856,SCR Altach,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+865546,Daniel Antosch,2000-03-07,26.0,Austria,,190.0,,Right,31,G,['GK'],205000.0,EUR,4856,SCR Altach,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1423478,Paul Piffer,2006-04-08,20.0,Austria,,182.0,,Right,33,G,,81000.0,EUR,4856,SCR Altach,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1083176,Elias Scherf,2003-05-11,23.0,Austria,,186.0,,Right,30,G,['GK'],91000.0,EUR,4856,SCR Altach,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+314304,Ronivaldo,1989-03-24,37.0,Austria,,173.0,76.0,Right,9,F,['ST'],185000.0,EUR,2113,FC Blau Weiss Linz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1064215,Romeo Vučić,2003-01-30,23.0,Austria,,186.0,,Right,11,F,['ST'],270000.0,EUR,2113,FC Blau Weiss Linz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1064296,Filip Ristanić,2004-01-30,22.0,Austria,,181.0,,Right,10,F,['ST'],155000.0,EUR,2113,FC Blau Weiss Linz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1567342,Mauro Hämmerle,2007-10-17,18.0,Austria,,,,Left,24,F,['ST'],195000.0,EUR,2113,FC Blau Weiss Linz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1902136,Jacob Collmann,2001-06-23,25.0,Germany,,191.0,,,33,F,,48000.0,EUR,2113,FC Blau Weiss Linz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1142207,Anton Tsarenko,2004-06-17,22.0,Ukraine,,162.0,,Right,30,M,"['AM', 'MC']",290000.0,EUR,2113,FC Blau Weiss Linz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1394185,Erik Weinhauer,2001-01-23,25.0,Germany,,171.0,,Both,7,M,,160000.0,EUR,2113,FC Blau Weiss Linz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+336675,Dominik Frieser,1993-09-09,32.0,Austria,,176.0,76.0,Right,28,M,"['RW', 'MR']",265000.0,EUR,2113,FC Blau Weiss Linz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+822493,Karim Conte,1999-08-25,26.0,Guinea,,171.0,,Left,8,M,"['MC', 'DM']",275000.0,EUR,2113,FC Blau Weiss Linz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1387925,Felix Ruschke,2003-03-08,23.0,Germany,,185.0,,Right,29,M,['ML'],215000.0,EUR,2113,FC Blau Weiss Linz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1010027,Thomas Schiestl,2002-08-31,23.0,Austria,,179.0,,Left,27,M,['MC'],160000.0,EUR,2113,FC Blau Weiss Linz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1393043,Nico Grimbs,2004-02-19,22.0,Germany,,184.0,,Right,5,M,['MC'],110000.0,EUR,2544,1. FC Schweinfurt 05,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+2190974,Felix Gerstmayer,2004-05-24,22.0,Austria,,178.0,,Right,21,M,,,,2113,FC Blau Weiss Linz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1103904,Dario Kreiker,2003-01-07,23.0,Austria,,185.0,,Right,47,M,['ML'],280000.0,EUR,2113,FC Blau Weiss Linz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1929653,Lukas Fabian,2008-01-02,18.0,Austria,,,,,20,M,,,,2113,FC Blau Weiss Linz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+940276,Alem Pašić,1997-08-23,28.0,Slovenia,,194.0,,Right,17,D,"['DC', 'DR', 'MC', 'DM']",530000.0,EUR,2113,FC Blau Weiss Linz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+827461,Manuel Maranda,1997-07-09,29.0,Austria,,188.0,75.0,Right,15,D,['DC'],460000.0,EUR,2113,FC Blau Weiss Linz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+335863,Fabio Strauss,1994-08-06,32.0,Austria,,195.0,84.0,Right,2,D,"['DC', 'DL', 'DR']",220000.0,EUR,2113,FC Blau Weiss Linz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1129639,David Riegler,2002-12-17,23.0,Austria,,185.0,,Right,22,D,"['DC', 'DR']",290000.0,EUR,2113,FC Blau Weiss Linz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1411829,Matthias Wetschka,2005-02-08,21.0,Austria,,195.0,,Right,32,D,,94000.0,EUR,2113,FC Blau Weiss Linz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+917003,Marcel Kostenbauer,2001-08-26,24.0,Austria,,186.0,,Right,12,G,['GK'],77000.0,EUR,2113,FC Blau Weiss Linz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1149202,Valentin Oelz,2005-04-24,21.0,Austria,,192.0,,,1,G,['GK'],105000.0,EUR,2113,FC Blau Weiss Linz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+825965,Christopher Giuliani,1999-07-05,27.0,Austria,,187.0,79.0,Left,26,G,['GK'],110000.0,EUR,2113,FC Blau Weiss Linz,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+935076,Nikolai Frederiksen,2000-05-18,26.0,Denmark,,180.0,,Left,8,F,"['ST', 'AM']",970000.0,EUR,5405,WSG Tirol,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1212153,Ademola Ola-Adebomi,2003-09-03,22.0,England,,195.0,89.0,Left,9,F,['ST'],405000.0,EUR,5405,WSG Tirol,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+862767,Thomas Sabitzer,2000-10-12,25.0,Austria,,176.0,,Right,10,F,['ST'],275000.0,EUR,5405,WSG Tirol,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1014556,Michael Olakigbe,2004-04-25,22.0,England,,180.0,,Right,17,F,['RW'],485000.0,EUR,5405,WSG Tirol,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+66214,Lukas Hinterseer,1991-03-28,35.0,Austria,,192.0,84.0,Right,16,F,['ST'],92000.0,EUR,5405,WSG Tirol,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+164221,Thomas Goiginger,1993-03-15,33.0,Austria,,181.0,69.0,Right,36,F,"['RW', 'LW', 'AM']",240000.0,EUR,5405,WSG Tirol,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+816237,Murat Satin,1996-08-30,29.0,Austria,,177.0,,,11,M,"['MC', 'DM']",310000.0,EUR,5405,WSG Tirol,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1929395,Mazou Bambara,2005-07-29,21.0,Burkina Faso,,,,,15,M,,105000.0,EUR,5405,WSG Tirol,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+901912,Quincy Butler,2001-09-01,24.0,USA,,170.0,63.0,Right,7,M,['MR'],380000.0,EUR,5405,WSG Tirol,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+355288,Husein Balić,1996-02-15,30.0,Austria,,183.0,75.0,Right,18,M,"['LW', 'ST']",93000.0,EUR,5405,WSG Tirol,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1385793,Marc Striednig,2006-02-27,20.0,Austria,,186.0,,Right,6,M,"['MC', 'DM']",220000.0,EUR,5405,WSG Tirol,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1980123,Raphael Gschösser,2006-04-20,20.0,Austria,,173.0,,Right,32,M,,,,5405,WSG Tirol,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1994391,David Falkner,2007-06-10,19.0,Austria,,,,Right,22,M,,77000.0,EUR,5405,WSG Tirol,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1065156,Marco Boras,2001-11-28,24.0,Croatia,,198.0,,Right,23,D,"['DC', 'DR']",860000.0,EUR,5405,WSG Tirol,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1476460,Drew Murray,2005-10-27,20.0,USA,,191.0,75.0,Right,5,D,['DC'],165000.0,EUR,5405,WSG Tirol,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1168503,David Kubatta,2003-10-29,22.0,Germany,,195.0,,Left,14,D,"['DC', 'DL']",410000.0,EUR,5405,WSG Tirol,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+791091,David Gugganig,1997-02-10,29.0,Austria,,190.0,65.0,Left,3,D,"['DC', 'DL']",290000.0,EUR,5405,WSG Tirol,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+910518,Nemanja Čelić,1999-04-26,27.0,Austria,,185.0,74.0,Left,43,D,['MC'],205000.0,EUR,5405,WSG Tirol,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1129536,David Jaunegg,2003-02-28,23.0,Austria,,189.0,,Right,27,D,['DC'],185000.0,EUR,5405,WSG Tirol,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1216256,Michael Neuner,2006-10-12,19.0,Austria,,179.0,,Left,31,D,,,,5405,WSG Tirol,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1493202,Salko Hamzić,2006-09-17,19.0,Austria,,190.0,,Left,1,G,['GK'],435000.0,EUR,5405,WSG Tirol,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+2297224,Julian Margreiter,2009-11-05,16.0,Austria,,,,,35,G,,,,5405,WSG Tirol,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+870127,Alexander Eckmayr,1999-07-06,27.0,Austria,,186.0,,Right,13,G,['GK'],160000.0,EUR,5405,WSG Tirol,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+2668000,Felix Libiseller,2007-02-26,19.0,Austria,,,,,34,G,,,,5405,WSG Tirol,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+2129166,Precious Benjamin,2006-10-01,19.0,Nigeria,,182.0,,Right,14,F,['ST'],265000.0,EUR,2062,SC Austria Lustenau,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1129537,Dominik Weixelbraun,2003-12-17,22.0,Austria,,180.0,,Left,11,F,"['RW', 'ST']",390000.0,EUR,2062,SC Austria Lustenau,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1394703,Antonio Verinac,2004-12-27,21.0,Croatia,,193.0,,Right,39,F,,190000.0,EUR,2062,SC Austria Lustenau,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1006388,Lenn Jastremski,2001-01-24,25.0,Germany,,190.0,,Both,9,F,['ST'],205000.0,EUR,2062,SC Austria Lustenau,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+827457,Albin Gashi,1997-01-25,29.0,Austria,,183.0,72.0,Both,17,F,"['LW', 'MC']",285000.0,EUR,2062,SC Austria Lustenau,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1889447,Melih Akbulut,2006-04-10,20.0,Austria,,,,Right,54,F,,105000.0,EUR,2062,SC Austria Lustenau,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1940528,Lord Afrifa,2006-06-05,20.0,Ghana,,180.0,,Right,20,M,['MC'],170000.0,EUR,2062,SC Austria Lustenau,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1156339,Dion Kacuri,2004-02-11,22.0,Switzerland,,188.0,,Left,8,M,['MC'],650000.0,EUR,2062,SC Austria Lustenau,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+121551,Danilo Soares,1991-10-29,34.0,Brazil,,170.0,72.0,Left,3,M,"['DL', 'ML']",315000.0,EUR,2062,SC Austria Lustenau,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1122641,Sacha Delaye,2002-04-23,24.0,France,,171.0,,Right,19,M,['MC'],290000.0,EUR,2062,SC Austria Lustenau,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1889448,Seydou Diarra,2004-09-01,21.0,Mali,,178.0,,Right,24,M,['RW'],195000.0,EUR,2062,SC Austria Lustenau,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1494084,Haris Ismailcebioglu,2003-09-19,22.0,Austria,,175.0,,Both,61,M,['MC'],170000.0,EUR,2062,SC Austria Lustenau,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1886701,Ibrahim Ouattara,2004-06-26,22.0,Côte d'Ivoire,,176.0,,Right,10,M,['ML'],120000.0,EUR,2062,SC Austria Lustenau,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+111023,Pius Grabher,1993-08-11,33.0,Austria,,170.0,57.0,Left,23,M,"['MC', 'DM']",180000.0,EUR,2062,SC Austria Lustenau,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1893024,Chukwu Emmanuel,2006-11-07,19.0,Nigeria,,190.0,,Right,15,D,['DC'],230000.0,EUR,2062,SC Austria Lustenau,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1213439,Robin Voisine,2002-04-07,24.0,France,,188.0,,Left,18,D,['DC'],285000.0,EUR,2062,SC Austria Lustenau,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1048746,Lukas Ibertsberger,2003-08-06,23.0,Austria,,181.0,,Right,26,D,['DL'],205000.0,EUR,2062,SC Austria Lustenau,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+121622,Matthias Maak,1992-05-12,34.0,Austria,,192.0,88.0,Right,31,D,['DC'],91000.0,EUR,2062,SC Austria Lustenau,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+827462,Fabian Gmeiner,1997-01-27,29.0,Austria,,177.0,71.0,Both,7,D,['DR'],260000.0,EUR,2062,SC Austria Lustenau,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1174090,Niklas Pertlwieser,2003-11-23,22.0,Austria,,184.0,,Left,29,D,['DC'],235000.0,EUR,2062,SC Austria Lustenau,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+2640203,Novak Rajic,2008-09-27,17.0,Austria,,,,Right,,D,,,,2062,SC Austria Lustenau,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+190825,Domenik Schierl,1994-07-20,32.0,Austria,,184.0,82.0,Left,27,G,['GK'],230000.0,EUR,2062,SC Austria Lustenau,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1897272,Phillip Bohm,2002-02-12,24.0,Germany,,,,Right,30,G,['GK'],77000.0,EUR,2062,SC Austria Lustenau,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54
+1889446,Frederic Flatz,2006-08-25,19.0,Australia,,,,,33,G,,,,2062,SC Austria Lustenau,AUT,2023-2024,datafc_sofascore,2026-08-11 20:22:54

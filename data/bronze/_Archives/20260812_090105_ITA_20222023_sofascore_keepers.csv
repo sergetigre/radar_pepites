@@ -1,0 +1,49 @@
+﻿tournament_id,season_id,player_name,player_id,team_name,team_id,saves,goalsPrevented,rating,minutesPlayed,appearances,accuratePasses,accurateLongBalls,accurateLongBallsPercentage,yellowCards,redCards,_league_id,_season,_source,_scraped_at
+23,42415,Lorenzo Montipò,253391,Hellas Verona,2701,134,-7.65,6.94,3420,38,641,383,45.54,3,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Michele Di Gregorio,844609,Monza,2729,121,0.85,7.02,3330,37,917,249,41.92,0,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Bartłomiej Drągowski,329519,Spezia,2735,117,-9.59,6.87,3038,35,672,196,35.19,1,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Łukasz Skorupski,44906,Bologna,2685,116,0.08,6.9,3330,37,752,202,44.99,4,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Wladimiro Falcone,256667,Lecce,2689,113,-2.3,6.93,3420,38,455,231,29.39,2,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Marco Carnesecchi,865646,Cremonese,2761,107,-2.08,6.98,2430,27,432,186,33.1,1,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Ivan Provedel,308182,Lazio,2699,100,2.64,7.11,3412,38,900,301,56.05,1,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Guglielmo Vicario,553606,Empoli,2705,97,2.07,7.05,2784,31,773,183,34.92,3,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Vanja Milinković-Savić,356160,Torino,2696,96,-4.89,6.93,3420,38,930,325,32.63,4,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Marco Silvestri,43970,Udinese,2695,91,0.88,6.83,3420,38,774,176,41.12,0,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Emil Audero,318603,Sampdoria,2711,84,-6.41,6.95,2250,25,515,209,41.55,1,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Rui Patrício,17737,AS Roma,2702,74,-7.21,6.73,3150,35,556,172,45.87,1,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Guillermo Ochoa,15497,Us Salernitana 1919,2710,73,2.65,6.95,1800,20,395,161,33.82,1,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Alex Meret,592794,SSC Napoli,2714,69,1.01,6.97,3060,34,697,118,52.44,0,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Wojciech Szczęsny,50490,Juventus,2687,68,0.17,7.0,2473,28,498,157,50.32,0,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Juan Musso,263651,Atalanta,2686,64,-5.1,6.88,2078,24,364,124,40.26,1,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Andrea Consigli,38618,Sassuolo,2793,64,-15.88,6.57,3150,35,946,273,48.92,0,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,André Onana,787498,Inter,2697,62,-4.55,6.99,2160,24,722,147,44.68,1,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Pietro Terracciano,136856,Fiorentina,2693,62,-4.65,6.73,2610,29,703,239,49.38,1,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Luigi Sepe,46714,Us Salernitana 1919,2710,60,4.52,6.96,1530,17,358,110,35.48,3,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Ionuț Radu,815202,Cremonese,2761,46,2.78,7.1,810,9,188,50,31.45,0,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Marco Sportiello,176301,Atalanta,2686,43,-1.3,6.77,1340,15,278,64,40.0,0,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Mike Maignan,191210,AC Milan,2692,42,-0.57,6.89,1979,22,557,111,46.84,0,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Ciprian Tătărușanu,44453,AC Milan,2692,41,-5.02,6.84,1440,16,363,127,52.05,0,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Nicola Ravaglia,130802,Sampdoria,2711,41,-4.67,6.8,810,9,168,56,34.15,0,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Samir Handanović,2949,Inter,2697,35,-2.98,6.93,1235,14,457,71,59.17,0,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Mattia Perin,79645,Juventus,2687,33,4.27,7.19,947,11,211,39,31.97,0,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Martin Turk,1083104,Sampdoria,2711,21,-0.3,7.08,360,4,75,41,45.56,0,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Pierluigi Gollini,329175,SSC Napoli,2714,18,-1.17,7.09,630,7,191,51,49.51,0,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Samuele Perisan,794784,Empoli,2705,15,-1.54,6.76,630,7,135,35,40.7,0,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Jeroen Zoet,40963,Spezia,2735,10,-1.17,6.76,335,5,62,25,30.86,1,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Michele Cerofolini,869273,Fiorentina,2693,8,0.44,6.98,450,5,121,37,44.05,0,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Mile Svilar,793986,AS Roma,2702,7,-0.09,6.67,270,3,36,16,36.36,1,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Salvatore Sirigu,18954,Fiorentina,2693,5,0.96,8.1,90,1,19,9,47.37,0,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Mouhamadou Sarr,954291,Cremonese,2761,5,-0.1,6.85,180,2,51,19,50.0,0,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Simone Perilli,253369,Hellas Verona,2701,4,0.75,7.7,90,1,10,6,20.0,0,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Francesco Bardi,80203,Bologna,2685,4,0.63,7.6,90,1,13,6,60.0,0,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Alessandro Russo,918862,Sassuolo,2793,4,-0.22,6.0,90,1,35,4,23.53,0,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Gianluca Pegolo,43985,Sassuolo,2793,3,0.24,6.35,180,2,54,13,52.0,0,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Alex Cordaz,43872,Inter,2697,2,0.51,7.0,25,1,8,2,22.22,0,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Vincenzo Fiorillo,28378,Us Salernitana 1919,2710,2,-0.05,6.3,90,1,13,8,50.0,0,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Alessio Cragno,148740,Monza,2729,2,-1.23,5.8,90,1,25,2,50.0,0,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Petar Zovko,1067207,Spezia,2735,1,-0.34,6.3,72,1,19,7,33.33,0,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Federico Marchetti,41445,Spezia,2735,1,-0.55,6.0,65,1,12,3,42.86,0,1,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Francesco Rossi,80074,Atalanta,2686,0,,6.7,10,1,3,0,0.0,0,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Samir Ujkani,27991,Empoli,2705,0,-0.75,6.0,10,1,2,0,0.0,0,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Luís Maximiano,845797,Lazio,2699,0,,3.0,6,1,2,2,66.67,0,1,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05
+23,42415,Antonio Mirante,27955,AC Milan,2692,0,,0.0,1,1,4,1,100.0,0,0,ITA,2022-2023,datafc_sofascore,2026-08-12 07:01:05

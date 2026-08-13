@@ -1,0 +1,375 @@
+﻿player_id,player_name,date_of_birth,age,nationality,nationality_id,height,weight,preferred_foot,jersey_number,position,position_detailed,market_value,market_currency,team_id,team_name,_league_id,_season,_source,_scraped_at
+20993,Jack Cork,1989-06-25,37.0,England,,185.0,70.0,Right,,M,"['MC', 'DM']",745000.0,EUR,36550,Burnley U21,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+25522,Marco Mancosu,1988-08-22,37.0,Italy,,177.0,75.0,Right,,M,"['AM', 'MC']",,,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+33000,Georgios Tzavellas,1987-11-26,38.0,Greece,,183.0,72.0,Left,,D,['DC'],,,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+96702,Giannelli Imbula,1992-09-12,33.0,DR Congo,,183.0,78.0,Left,,M,"['MC', 'DM', 'AM']",,,1083487,Wolf Pack FC,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+100578,John Egan,1992-10-20,33.0,Ireland,,185.0,75.0,Right,15,D,['DC'],970000.0,EUR,96,Hull City,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+130493,Erkan Degismez,1986-08-27,39.0,Türkiye,,180.0,,Right,,M,['DM'],24000.0,EUR,44352,Torbalıspor,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+137635,Josip Vuković,1992-05-02,34.0,Croatia,,186.0,,Right,44,M,"['MC', 'DM']",110000.0,EUR,3080,Sakaryaspor,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+139502,Ahmed Musa,1992-10-14,33.0,Nigeria,,170.0,65.0,Right,7,F,"['LW', 'RW']",375000.0,EUR,134276,Kano Pillars,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+141655,Víctor Díaz,1988-06-12,38.0,Spain,,183.0,72.0,Right,,D,"['DC', 'DR']",,,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+152887,Mijo Caktaš,1992-05-08,34.0,Croatia,,178.0,68.0,Right,10,M,['AM'],160000.0,EUR,43918,NK Dugopolje,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+157871,Aias Aosman,1994-10-21,31.0,Syria,,175.0,75.0,Both,,M,"['AM', 'MC']",120000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+185995,Paul Dummett,1991-09-26,34.0,Wales,,183.0,77.0,Left,,D,"['DL', 'DC']",,,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+190403,Deni Milošević,1995-03-09,31.0,Bosnia & Herzegovina,,182.0,73.0,Right,,M,['AM'],105000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+204300,Massimo Luongo,1992-09-25,33.0,Australia,,174.0,75.0,Both,,M,"['MC', 'DM']",290000.0,EUR,25,Millwall,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+231764,Jota,1993-03-07,33.0,Portugal,,177.0,72.0,Right,,M,['MC'],79000.0,EUR,391587,AD Machico,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+280087,Luca Garritano,1994-02-11,32.0,Italy,,172.0,65.0,Right,,M,['MC'],285000.0,EUR,25137,Monopoli,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+288439,Gideon Jung,1994-09-12,31.0,Germany,,189.0,76.0,Right,21,D,"['DC', 'DR']",310000.0,EUR,2546,Alemannia Aachen,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+308054,Wylan Cyprien,1995-01-28,31.0,France,,181.0,74.0,Right,25,M,"['MC', 'DM']",265000.0,EUR,5395,Maccabi Netanya,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+311396,Gastón Pereiro,1995-06-11,31.0,Uruguay,,188.0,76.0,Left,26,F,"['ST', 'MC']",275000.0,EUR,3224,Juventud de Las Piedras,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+315916,Renzo Saravia,1993-06-16,33.0,Argentina,,178.0,,Right,,D,"['DR', 'DC']",1300000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+316406,Antonio Puertas,1992-02-21,34.0,Spain,,183.0,72.0,Right,7,M,['RW'],515000.0,EUR,2848,Albacete Balompié,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+335887,Filip Jagiełło,1997-08-08,29.0,Poland,,182.0,75.0,Both,24,M,"['MC', 'AM']",1100000.0,EUR,3121,Lech Poznań,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+347450,Joseba Zaldúa,1992-06-24,34.0,Spain,,176.0,70.0,Right,,D,['DR'],190000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+348088,Luigi Canotto,1994-05-19,32.0,Italy,,178.0,,Both,10,M,['RW'],205000.0,EUR,2698,Perugia,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+350882,Alessio Iovine,1991-02-01,35.0,Italy,,174.0,,Right,,D,"['MR', 'DR']",,,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+357976,Douglas Tanque,1993-10-27,32.0,Brazil,,188.0,92.0,Left,99,F,['ST'],480000.0,EUR,388264,Iğdır FK,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+361326,Patrick Roberts,1997-02-05,29.0,England,,167.0,58.0,Left,16,M,['RW'],4099999.0,EUR,9,Birmingham City,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+368146,Marcus Harness,1996-02-24,30.0,Ireland,,182.0,70.0,Right,10,M,['AM'],775000.0,EUR,59,Huddersfield Town,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+370932,Fred Onyedinma,1996-11-24,29.0,Nigeria,,185.0,70.0,Right,44,M,"['RW', 'LW']",660000.0,EUR,62,Wycombe Wanderers,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+387116,Pelly Ruddock Mpanzu,1993-07-17,33.0,DR Congo,,175.0,63.0,Right,17,M,"['MC', 'DM']",340000.0,EUR,63,Cambridge United,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+553454,Racine Coly,1995-12-08,30.0,Senegal,,185.0,76.0,Left,,D,"['DL', 'DC']",120000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+558522,Anthony Briançon,1994-11-29,31.0,France,,185.0,79.0,Right,23,D,['DC'],360000.0,EUR,1685,Pau FC,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+580750,Jérôme Onguene,1997-12-22,28.0,Cameroon,,186.0,80.0,Right,25,D,['DC'],260000.0,EUR,25856,FC Petrolul Ploiești,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+588996,Philipe Sampaio,1994-11-11,31.0,Brazil,,191.0,84.0,Right,,D,['DC'],240000.0,EUR,342775,Athletic Club,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+788975,Eslem Öztürk,1997-12-01,28.0,Türkiye,,177.0,70.0,Right,10,M,"['AM', 'MC', 'DM']",46000.0,EUR,56313,Kırklarelispor,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+789958,Yordan Osorio,1994-05-10,32.0,Venezuela,,189.0,,Right,71,D,['DC'],570000.0,EUR,6111,Deportes Tolima,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+794545,Damien Mouchamps,1996-01-10,30.0,Belgium,,169.0,,Right,13,D,['ST'],205000.0,EUR,389226,RFC Liège,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+794943,Daniel Cabrera Morer,1998-02-05,28.0,Spain,,169.0,,Right,,D,['DR'],190000.0,EUR,254151,Unionistas de Salamanca CF,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+795133,Dries Saddiki,1996-08-09,30.0,Morocco,,179.0,70.0,Right,,M,"['MC', 'DM']",205000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+795257,Kevin Vázquez,1993-03-23,33.0,Spain,,173.0,,Right,23,D,['DR'],280000.0,EUR,1903,Þór Akureyri,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+801391,Kenedy,1996-02-08,30.0,Brazil,,182.0,77.0,Left,29,M,['RW'],680000.0,EUR,1936,CF Pachuca,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+803678,George Edmundson,1997-08-31,28.0,England,,191.0,75.0,Right,25,D,"['DC', 'DL']",620000.0,EUR,36,Middlesbrough,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+813645,Álvaro Lemos,1993-03-30,33.0,Spain,,175.0,,Right,,D,['DR'],210000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+815131,Ahmet Sağat,1996-05-27,30.0,Germany,,187.0,,Both,,F,['ST'],205000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+822594,Julián Chicco,1998-01-13,28.0,Argentina,,181.0,79.0,Right,14,M,"['MC', 'DM']",465000.0,EUR,6342,Asteras Aktor,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+826147,Dennis Adeniran,1999-01-02,27.0,England,,180.0,74.0,Right,,M,"['MC', 'DM']",130000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+826189,Davide Bettella,2000-04-07,26.0,Italy,,185.0,78.0,Right,6,D,"['DC', 'DR']",290000.0,EUR,7935,Pescara,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+826654,Óscar Pinchi,1996-06-16,30.0,Spain,,173.0,62.0,Right,28,M,"['LW', 'RW']",205000.0,EUR,852868,CD Extremadura,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+826809,Alberk Koç,1997-02-15,29.0,Türkiye,,181.0,,Left,70,D,['DL'],145000.0,EUR,7041,Fethiyespor,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+830485,Osman Kakay,1997-08-25,28.0,Sierra Leone,,180.0,72.0,Right,29,D,"['DR', 'DC', 'MR']",235000.0,EUR,168476,FC Košice,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+831510,Veljko Birmančević,1998-03-05,28.0,Serbia,,177.0,,Right,14,F,['RW'],3400000.0,EUR,2218,AC Sparta Praha,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+833744,Eric Veiga,1997-02-18,29.0,Luxembourg,,183.0,72.0,Left,18,D,"['DL', 'DC']",180000.0,EUR,38989,Atert Bissen,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+844687,Nicolas Orye,1998-08-31,27.0,Belgium,,193.0,,Right,,F,['ST'],190000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+845165,Daniel Popa,1995-07-14,31.0,Romania,,186.0,,Right,,F,['ST'],320000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+857229,Oier Luengo,1997-11-11,28.0,Spain,,185.0,,Right,15,D,"['DC', 'DR']",640000.0,EUR,2854,Burgos Club de Fútbol,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+857471,Pierre-Yves Hamel,1994-02-03,32.0,France,,185.0,67.0,Right,,F,['ST'],290000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+859022,Till Cissokho,2000-02-08,26.0,France,,200.0,,Left,3,D,['DC'],370000.0,EUR,2242,HJK,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+859266,Triantafyllos Pasalidis,1996-07-18,30.0,Greece,,185.0,76.0,Right,20,D,['DC'],480000.0,EUR,5761,GS Niki Volou,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+860683,Marc Gual,1996-03-13,30.0,Spain,,184.0,75.0,Right,28,F,['ST'],435000.0,EUR,5172,Kairat Almaty,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+862464,Antonio Candela,2000-04-27,26.0,Italy,,182.0,,Right,26,D,"['MR', 'DR']",760000.0,EUR,2796,Catanzaro,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+863172,Aksel Aktaş,1999-07-15,27.0,Türkiye,,177.0,,Left,,M,"['MC', 'DM', 'AM']",54000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+874481,Mamadou Coulibaly,1999-02-03,27.0,Senegal,,183.0,75.0,Right,,M,['MC'],530000.0,EUR,2803,Foggia,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+874861,Theo Pierrot,1994-01-01,32.0,France,,185.0,80.0,Right,,M,"['MC', 'DM']",97000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+878671,Raul Opruț,1998-01-04,28.0,Romania,,184.0,78.0,Left,31,D,['DL'],1800000.0,EUR,3292,FC Dinamo București,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+878705,Rhian Brewster,2000-04-01,26.0,England,,180.0,,Right,10,F,['ST'],2600000.0,EUR,27,Derby County,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+888930,Dani Gómez,1998-07-30,28.0,Spain,,177.0,70.0,Right,,F,['ST'],775000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+892423,Manuel Namora,1998-02-12,28.0,Portugal,,180.0,73.0,Left,,F,['ST'],69000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+904669,Tonio Teklić,1999-09-09,26.0,Croatia,,182.0,,Left,91,M,['AM'],470000.0,EUR,296730,Mardin 1969 Spor,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+904995,Theo Epailly,1999-02-10,27.0,France,,178.0,,Right,,F,['LW'],410000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+906038,Mamadou Traore,2002-04-03,24.0,Mali,,170.0,,Left,,M,['ML'],105000.0,EUR,312565,FK Minija Kretinga,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+908715,Sergi Rosanas,2001-01-29,25.0,Spain,,172.0,,Right,,D,['DR'],54000.0,EUR,77401,AE Prat,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+913732,Javi Martínez,1999-12-22,26.0,Spain,,180.0,,Right,,M,"['MC', 'AM']",760000.0,EUR,47321,CD Eldense,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+914749,Sergio Lozano,1999-03-24,27.0,Spain,,175.0,,Right,21,M,"['MC', 'ML']",1400000.0,EUR,7691,Jagiellonia Białystok,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+924149,Jaime Sierra,1998-03-18,28.0,Spain,,175.0,,Right,6,M,"['MC', 'DM']",365000.0,EUR,36952,Qəbələ FK,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+926412,Gil van Moerzeke,1998-01-28,28.0,Belgium,,190.0,73.0,Right,,F,"['ST', 'DR']",310000.0,EUR,230280,FC Lebbeke,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+927312,Marco Sala,1999-06-04,27.0,Italy,,182.0,,Left,3,M,"['ML', 'DL']",440000.0,EUR,2730,US Avellino 1912,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+928333,Armin Hodžić,2000-02-29,26.0,Bosnia & Herzegovina,,188.0,,Right,55,M,"['MC', 'DM']",215000.0,EUR,5240,FK Željezničar,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+941378,Ahmet Sivri,1999-07-06,27.0,Türkiye,,185.0,,Right,17,F,"['ST', 'LW', 'RW']",220000.0,EUR,297101,Erzincan Spor Kulübü,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+943278,Frantzdy Pierrot,1995-03-29,31.0,Haiti,,194.0,,Right,14,F,['ST'],1400000.0,EUR,3250,AEK Athens,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+945279,Naoufel Khacef,1997-10-27,28.0,Algeria,,179.0,,Left,24,D,"['DL', 'ML']",1200000.0,EUR,42207,CR Belouizdad,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+946006,Marvin Çuni,2001-07-10,25.0,Albania,,188.0,,Right,17,F,['ST'],485000.0,EUR,2416,NK Olimpija Ljubljana,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+947458,Sofiane Sidi Ali,1995-07-14,31.0,France,,175.0,,Right,41,F,"['RW', 'LW']",91000.0,EUR,362117,Olympique de Marseille 2,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+950339,Benjamin Mbunga-Kimpioka,2000-02-21,26.0,Sweden,,183.0,,Right,,F,['ST'],365000.0,EUR,6342,Asteras Aktor,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+954888,Kaio Jorge,2002-01-24,24.0,Brazil,,182.0,,Right,19,F,['ST'],24000000.0,EUR,1954,Cruzeiro,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+961935,Janne-Pekka Laine,2001-01-25,25.0,Finland,,184.0,,Right,14,M,"['MC', 'DM']",210000.0,EUR,2247,Inter Turku,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+964756,Yunus Bahadir,2002-08-07,24.0,Türkiye,,170.0,,Right,2,D,['DR'],465000.0,EUR,6366,Keçiörengücü,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+972823,Yair Mena,2000-06-28,26.0,Colombia,,176.0,69.0,Left,16,M,['RW'],55000.0,EUR,32672,Ferroviário,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+973977,İzzet Topatar,2001-10-17,24.0,Türkiye,,177.0,,Right,52,F,,,,524449,Yalova FK 77 SK,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+975373,Tiago Reis,1999-08-14,26.0,Brazil,,183.0,,Right,23,F,['ST'],385000.0,EUR,148072,Atlético Petróleos de Luanda,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+976367,Oleksandr Syrota,2000-06-11,26.0,Ukraine,,193.0,,Left,34,D,['DC'],1000000.0,EUR,3305,Dynamo Kyiv,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+980649,Myles Peart-Harris,2002-09-18,23.0,England,,187.0,,Right,,M,"['AM', 'LW']",875000.0,EUR,36,Middlesbrough,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+984742,Mesut Can Tunalı,2001-07-08,25.0,Türkiye,,,,Right,,M,['MC'],140000.0,EUR,485451,Adana 01 FK,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+985726,Victor Parada,2002-04-04,24.0,Spain,,184.0,,Left,33,D,"['DL', 'DC']",3900000.0,EUR,2323,FC Spartak Moscow,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+999296,Selim Dilli,1998-05-26,28.0,Türkiye,,177.0,,Left,25,M,['MC'],170000.0,EUR,7034,Muğlaspor,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1000015,Emmanuel Ekong,2002-06-25,24.0,Sweden,,176.0,,Right,11,F,['ST'],490000.0,EUR,1892,Malmö FF,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1000449,Amadou Diallo,2003-02-15,23.0,England,,166.0,,Right,16,F,['LW'],205000.0,EUR,5224,KF Skënderbeu,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1002399,Daniel Cabral,2002-05-14,24.0,Brazil,,174.0,,Right,6,M,['MC'],180000.0,EUR,32476,Paide Linnameeskond,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1003319,Selimcan Temel,2000-05-27,26.0,Türkiye,,173.0,,Left,,M,"['DM', 'MC', 'AM']",155000.0,EUR,829847,Malatya Yeşilyurt Belediyespor,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1004239,Adrià Bosch,2001-06-09,25.0,Spain,,190.0,,Right,4,D,['DC'],270000.0,EUR,2877,Hércules CF,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1004342,Tyler Onyango,2003-03-04,23.0,England,,190.0,,Right,,M,['MC'],380000.0,EUR,12,Sheffield Wednesday,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1006105,Nikoloz Ugrekhelidze,2003-08-15,22.0,Georgia,,190.0,,Left,4,D,['DC'],270000.0,EUR,5171,Dinamo Tbilisi,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1006147,Anis Ben Slimane,2001-03-16,25.0,Tunisia,,188.0,,Both,20,M,"['MC', 'AM']",4099999.0,EUR,263,Norwich City,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1006858,Karol Czubak,2000-01-25,26.0,Poland,,193.0,,Right,10,F,['ST'],2600000.0,EUR,7915,Motor Lublin,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1008651,Alperen Kuyubaşı,2000-05-26,26.0,Türkiye,,186.0,,Right,2,D,['DC'],105000.0,EUR,297098,1461 Trabzon,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1009692,Florent Shehu,2002-05-17,24.0,Switzerland,,184.0,,Left,6,F,['AM'],23000.0,EUR,44480,NK Opatija,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1010513,Jordi Martín,2001-01-05,25.0,Spain,,174.0,,Left,,D,"['LW', 'RW']",425000.0,EUR,47321,CD Eldense,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1010620,Gabriel Santos,1999-03-16,27.0,Brazil,,185.0,,Right,90,F,['ST'],205000.0,EUR,189422,Seoul E-Land FC,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1012415,Ronnie Edwards,2003-03-28,23.0,England,,183.0,,Right,5,D,['DC'],5300000.0,EUR,1,Queens Park Rangers,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1012653,Félix Nzouango Bikien,2003-01-07,23.0,France,,188.0,,Right,99,D,['DC'],165000.0,EUR,3244,AO Egaleo,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1013987,Jay Stansfield,2002-11-24,23.0,England,,187.0,,Right,28,F,"['ST', 'AM']",19100000.0,EUR,9,Birmingham City,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1014171,Isaac Asante,2002-08-29,23.0,Belgium,,178.0,,Right,34,M,['MC'],330000.0,EUR,192763,FK Panevėžys,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1016473,Adem Eren Kabak,2000-12-12,25.0,Türkiye,,185.0,,Right,16,M,['DM'],440000.0,EUR,296730,Mardin 1969 Spor,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1018197,Unai Ropero,2001-11-20,24.0,Spain,,188.0,,Right,42,M,['RW'],525000.0,EUR,2843,Racing de Ferrol,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1018547,Thiago Borbas,2002-04-07,24.0,Uruguay,,186.0,69.0,Right,18,F,['ST'],3300000.0,EUR,1977,Atlético Mineiro,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1018684,Joel Bagan,2001-09-03,24.0,Ireland,,183.0,,Left,3,D,['DL'],920000.0,EUR,61,Cardiff City,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1031566,Ibrahima Kébé,2000-08-01,26.0,Mali,,180.0,,Right,17,M,"['MC', 'DM']",260000.0,EUR,308176,FK IMT Beograd,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1049860,Antwoine Hackford,2004-03-20,22.0,England,,177.0,,Right,16,F,['ST'],325000.0,EUR,23957,AFC Wimbledon,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1063358,Berat Kalkan,2003-03-02,23.0,North Macedonia,,171.0,,Right,,F,,49000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1066318,Jeremy Udenhout,2003-05-19,23.0,Netherlands,,182.0,,Right,8,D,['DC'],,,34731,Excelsior Maassluis,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1068581,Leonardo Cerri,2003-03-04,23.0,Italy,,198.0,,Both,39,F,['ST'],470000.0,EUR,1671,Grenoble Foot 38,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1068891,Jose Salinas,2000-09-30,25.0,Spain,,178.0,,Left,12,D,"['DL', 'ML']",1800000.0,EUR,2830,Málaga CF,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1069694,William Simba,2001-03-26,25.0,Belgium,,194.0,,Right,40,M,['MC'],160000.0,EUR,2931,Royal Excelsior Virton,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1082215,Javier Martón,1999-05-06,27.0,Spain,,180.0,,Right,20,F,['ST'],1500000.0,EUR,2839,Eibar,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1082393,Tuğbey Akgün,2003-04-09,23.0,Türkiye,,177.0,,Right,,M,"['MC', 'DM']",54000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1082894,Michael Ndiweni,2003-12-02,22.0,England,,174.0,,Right,9,F,['ST'],195000.0,EUR,329947,Florida Gulf Coast Eagles,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1083020,Alfie Pond,2004-02-12,22.0,England,,191.0,,Right,15,D,['DC'],265000.0,EUR,68,Chesterfield,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1083997,Ayman Kassimi,2001-10-08,24.0,Belgium,,175.0,,Left,,M,['MR'],97000.0,EUR,34083,Hougang United,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1084416,Joel Jorquera,2000-08-19,25.0,Spain,,171.0,,Right,19,M,['ML'],260000.0,EUR,4487,Real Murcia,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1084572,Kubilay Koylu,1999-05-04,27.0,Türkiye,,177.0,,Right,,F,,81000.0,EUR,800178,Bursa Nilüfer FK,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1084867,Emirhan Delibaş,2003-01-01,23.0,Türkiye,,184.0,,Left,,F,['RW'],26000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1085371,Jorge Aguirre,2000-01-04,26.0,Cuba,,183.0,,Right,9,F,['ST'],560000.0,EUR,25787,Torreense,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1085710,Onur Arı,2001-03-04,25.0,Türkiye,,195.0,,Left,9,F,['ST'],130000.0,EUR,117198,Beykoz Anadolu Spor A.Ş.,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1085724,Justin Munezero,2001-04-23,25.0,Belgium,,180.0,,Left,27,D,,105000.0,EUR,35076,Patro Eisden Maasmechelen,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1086448,Viktor Đukanović,2004-01-29,22.0,Montenegro,,184.0,,Right,34,F,"['LW', 'ST']",2200000.0,EUR,1923,ETO FC Győr,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1086992,Gino Infantino,2003-05-19,23.0,Argentina,,178.0,,Left,32,M,['MC'],375000.0,EUR,3216,Argentinos Juniors,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1087360,Samuel Lobato,2001-10-19,24.0,Portugal,,183.0,,Right,88,M,['MC'],425000.0,EUR,5962,Qarabağ FK,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1087476,Abu Kamara,2003-07-21,23.0,England,,183.0,,Left,17,M,"['RW', 'LW']",2400000.0,EUR,2,Portsmouth,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1087749,Jonas Rouhi,2004-01-07,22.0,Sweden,,183.0,,Left,40,D,"['DL', 'ML']",2100000.0,EUR,2745,Carrarese,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1089161,Miguel Ángel Brau,2001-12-27,24.0,Spain,,183.0,,Left,33,D,['DL'],1000000.0,EUR,11,Coventry City,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1092013,Hasan Yesilyurt,2000-08-18,25.0,Türkiye,,179.0,,Right,,M,['DM'],540000.0,EUR,4952,Sarıyer,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1094793,Loris Mouyokolo,2001-05-22,25.0,France,,194.0,,Right,24,D,['DC'],1200000.0,EUR,7517,Baltika Kaliningrad,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1095023,Marco Pellegrino,2002-07-18,24.0,Argentina,,184.0,,Left,26,D,['DC'],3400000.0,EUR,3202,Boca Juniors,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1096284,Ahmet Kağan Malatyalı,2003-07-10,23.0,Türkiye,,180.0,,Right,,D,,82000.0,EUR,117186,68 Aksarayspor,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1096447,Kaide Gordon,2004-10-05,21.0,England,,173.0,,Left,99,F,['RW'],830000.0,EUR,36556,Liverpool U21,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1099074,Kaine Kesler-Hayden,2002-10-23,23.0,England,,175.0,,Right,20,D,"['MR', 'DR']",3200000.0,EUR,11,Coventry City,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1101663,Benoit Bruggeman,1997-02-05,29.0,Belgium,,,,Left,7,M,['LW'],290000.0,EUR,389226,RFC Liège,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1103929,Fran Pereira,2002-02-06,24.0,Portugal,,185.0,,Right,23,M,['MC'],210000.0,EUR,79903,SU Sintrense,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1106573,Jhon Solís,2004-10-03,21.0,Colombia,,186.0,,Right,14,M,"['MC', 'DM']",4900000.0,EUR,9,Birmingham City,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1108451,Tadeo Allende,1999-02-20,27.0,Argentina,,185.0,,Right,21,M,"['RW', 'MR']",3900000.0,EUR,337602,Inter Miami CF,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1110138,Alvaro Leiva,2004-12-28,21.0,Spain,,173.0,68.0,Right,46,M,"['AM', 'RW', 'LW']",525000.0,EUR,5069,Real Madrid Castilla U21,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1110159,Xander Severina,2001-04-12,25.0,Curacao,,185.0,,Left,34,M,['RW'],620000.0,EUR,267828,Sabah FK,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1113799,Lewis Warrington,2002-10-10,23.0,England,,182.0,,Right,25,M,"['DM', 'MC']",230000.0,EUR,51,Tranmere Rovers,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1117102,Rômulo,2004-01-31,22.0,Brazil,,182.0,79.0,Right,47,D,['DC'],430000.0,EUR,1977,Atlético Mineiro,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1120373,Eneko Ortiz,2003-05-26,23.0,Spain,,193.0,,Left,3,D,['DL'],190000.0,EUR,24338,Villarreal B U23,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1121370,Federico Accornero,2004-02-05,22.0,Italy,,,,Right,80,M,['LW'],380000.0,EUR,258972,Trento,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1122588,Lander Pinillos,2003-10-06,22.0,Spain,,178.0,,,28,M,,210000.0,EUR,254356,Deportivo Alavés B,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1126845,Achraf Laaziri,2003-07-08,23.0,Morocco,,177.0,,Left,36,D,['DL'],275000.0,EUR,87180,Ittihad Tanger,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1127323,Sada Diallo,2001-07-09,25.0,Mali,,185.0,,Left,28,F,['MC'],,,76431,Interclube Luanda,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1127857,Mathis Riou,2001-01-19,25.0,France,,188.0,,Right,,D,['DC'],330000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1131129,Andre Seruca,2000-10-29,25.0,Portugal,,191.0,,Right,50,M,['MC'],145000.0,EUR,3294,FCV Farul Constanța,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1134270,Ömer Faruk Gümüş,2003-07-07,23.0,Türkiye,,175.0,,Left,88,M,,105000.0,EUR,492388,Çorluspor 1947,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1134642,Jorge Moreno,2001-07-25,25.0,Spain,,184.0,,Right,,D,"['DC', 'DR']",515000.0,EUR,2822,CD Tenerife,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1134729,Luke Harris,2005-04-03,21.0,Wales,,177.0,,Right,38,M,['AM'],930000.0,EUR,36548,Fulham U21,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1134758,Raúl Torrente,2001-09-10,24.0,Spain,,193.0,,Left,16,D,['DC'],2400000.0,EUR,2032,GNK Dinamo Zagreb,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1136045,Güvenç Usta,2004-04-01,22.0,Türkiye,,180.0,,Left,53,D,,115000.0,EUR,24750,Vanspor FK,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1136325,Rareș Burnete,2004-01-31,22.0,Romania,,185.0,,Right,9,F,['ST'],480000.0,EUR,2760,Südtirol,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1136777,Leslie Bamona Lubelu,1993-04-24,33.0,DR Congo,,,,Right,45,M,['RW'],,,38989,Atert Bissen,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1137081,Jasper Van Oudenhove,1998-11-03,27.0,Belgium,,178.0,,Left,,M,['MC'],180000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1137733,Nicola Pintus,2005-05-25,21.0,Italy,,189.0,,Right,23,D,['DC'],360000.0,EUR,117356,Pianese,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1138089,Ali Sühan Demirel,2003-01-02,23.0,Türkiye,,182.0,,Right,,F,,73000.0,EUR,3090,Şanlıurfaspor,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1138421,Mason Burstow,2003-08-04,23.0,England,,187.0,,Right,48,F,['ST'],2900000.0,EUR,12,Sheffield Wednesday,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1141169,Clinton Nsiala,2004-01-17,22.0,France,,182.0,,Left,19,D,['DC'],390000.0,EUR,2351,Rangers,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1142596,Salim El Jebari,2004-02-05,22.0,Morocco,,174.0,,Right,30,F,"['LW', 'ST']",390000.0,EUR,2850,Córdoba,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1142909,Tunahan Samdanli,2005-03-18,21.0,Türkiye,,185.0,,Right,41,M,,52000.0,EUR,228909,Kırıkkale FK,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1145644,Manuel Serrano Salazar,2004-03-20,22.0,Spain,,175.0,,Left,51,D,['DC'],570000.0,EUR,5069,Real Madrid Castilla U21,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1145956,Muhammet Berkay Tekke,2003-06-05,23.0,Türkiye,,186.0,,Right,97,F,,27000.0,EUR,170406,Beyoğlu Yeni Çarşı FAŞ,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1146145,Daniel Gore,2004-09-26,21.0,England,,170.0,,Right,44,M,"['MC', 'DM']",960000.0,EUR,36380,Manchester United U21,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1149141,Luca Monticelli,2005-02-12,21.0,Belgium,,,,Right,92,M,['ST'],390000.0,EUR,826806,Hellas Verona U20,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1149209,Mücahit Ibrahimoglu,2005-03-09,21.0,Austria,,172.0,,,,M,['MC'],140000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1149293,Vincent Burlet,2005-09-23,20.0,Belgium,,180.0,,Left,28,M,['DL'],825000.0,EUR,4901,KS Cracovia,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1153335,Sergi Domínguez,2005-04-01,21.0,Spain,,191.0,,Right,36,D,['DC'],8600000.0,EUR,2032,GNK Dinamo Zagreb,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1153345,Xavi Moreno,2004-11-05,21.0,Spain,,175.0,,Left,8,M,,310000.0,EUR,24335,CE Sabadell,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1163081,Jacopo Bacci,2005-06-19,21.0,Italy,,173.0,,Right,21,M,"['DM', 'MC']",775000.0,EUR,2741,Padova,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1163947,Gonzalo Calçada,2001-07-25,25.0,Spain,,181.0,,Right,28,F,,205000.0,EUR,202074,Rayo Majadahonda,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1167540,Habraão,2001-06-26,25.0,Brazil,,184.0,,Right,28,D,['DC'],775000.0,EUR,1959,Sport Recife,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1170458,Alberto Dadie,2002-07-20,24.0,Spain,,170.0,,Right,,D,['DR'],330000.0,EUR,2854,Burgos Club de Fútbol,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1170628,Rafael Alcobia,2003-06-22,23.0,Portugal,,187.0,,Right,76,D,['DC'],190000.0,EUR,74475,Vitória SC B,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1174167,Théo Gécé,2001-03-14,25.0,Belgium,,,,Right,,M,"['MC', 'DM']",205000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1174764,Gustavo Marques,2001-10-09,24.0,Brazil,,189.0,,Right,16,D,['DC'],4900000.0,EUR,1999,Red Bull Bragantino,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1175945,Bob Murphy Omoregbe,2003-11-05,22.0,Italy,,185.0,,Right,7,F,['LW'],340000.0,EUR,25787,Torreense,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1177165,Hayrullah Erkip,2003-06-20,23.0,Türkiye,,175.0,,Left,22,F,,23000.0,EUR,170410,Etimesgut Belediyespor,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1179148,Rayane Belaid,2005-11-02,20.0,Spain,,175.0,,Right,29,M,"['AM', 'MC']",565000.0,EUR,24326,Atlético Madrileño,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1182710,Raúl Chasco,2003-09-13,22.0,Spain,,177.0,,Left,,D,['DL'],160000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1185603,Kaden Rodney,2004-10-07,21.0,England,,189.0,,Right,,M,"['MC', 'DM', 'DR']",195000.0,EUR,68804,Muaither SC,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1186812,Finley Munroe,2005-02-08,21.0,England,,181.0,,Left,15,M,['DL'],260000.0,EUR,67,Blackpool,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1195740,Ayman Aiki,2005-06-25,21.0,France,,178.0,,Right,25,F,['LW'],245000.0,EUR,1655,Bastia,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1196046,Konstantinos Kostoulas,2005-02-07,21.0,Greece,,185.0,,Right,5,D,"['DC', 'DR']",825000.0,EUR,3241,OFI Crete,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1210418,Emir Tintiş,2004-01-12,22.0,Türkiye,,187.0,,Left,3,D,['DL'],215000.0,EUR,297098,1461 Trabzon,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1211632,Wesley,2005-03-05,21.0,Brazil,,180.0,,Right,20,M,['LW'],4099999.0,EUR,1954,Cruzeiro,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1211830,Sidi Bane,2004-01-14,22.0,Senegal,,184.0,,Right,24,D,['DC'],980000.0,EUR,1673,Stade Lavallois,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1213236,Abde Raihani,2004-02-03,22.0,Morocco,,187.0,,Right,89,F,['ST'],220000.0,EUR,68804,Muaither SC,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1216053,Mateusz Kowalski,2005-07-21,21.0,Poland,,195.0,,Right,,F,['ST'],180000.0,EUR,391723,Dolomiti Bellunesi,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1218081,Raimane Daou,2004-11-20,21.0,Comoros,,182.0,,Right,27,M,['MC'],,,362117,Olympique de Marseille 2,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1218307,Hiiro Komori,2000-08-06,26.0,Japan,,177.0,,Right,17,F,['ST'],870000.0,EUR,3145,Urawa Red Diamonds,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1385003,Zinho Hoffmann,2003-05-09,23.0,Brazil,,177.0,,Right,99,M,,49000.0,EUR,292677,Portimonense U23,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1387352,Jeppe Corfitzen,2004-12-29,21.0,Denmark,,179.0,,Left,,F,['RW'],140000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1388307,Jordi Altena,2003-12-04,22.0,Netherlands,,179.0,,Right,23,D,['DR'],620000.0,EUR,2353,Heart of Midlothian,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1388593,Nathan Huygevelde,2004-01-23,22.0,Belgium,,185.0,,Right,35,M,,48000.0,EUR,527029,Union Saint-Gilloise U23,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1390214,Mehmet Ali Büyüksayar,2004-05-08,22.0,Türkiye,,166.0,,Right,42,F,,82000.0,EUR,485451,Adana 01 FK,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1390279,Daouda Traore,2006-07-22,20.0,France,,186.0,,Right,66,M,['MC'],430000.0,EUR,1672,Le Mans,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1390614,Gorka Rivera,2004-08-01,22.0,Spain,,175.0,,Left,30,D,,105000.0,EUR,254151,Unionistas de Salamanca CF,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1391111,Jimi Tauriainen,2004-03-09,22.0,Finland,,188.0,,Left,19,M,['MC'],205000.0,EUR,1297,AC Horsens,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1391825,Will Lankshear,2005-04-20,21.0,England,,189.0,,Right,7,F,['ST'],6800000.0,EUR,36,Middlesbrough,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1394242,Clayton Sampaio,2000-04-04,26.0,Brazil,,187.0,,Right,20,D,['DC'],650000.0,EUR,1966,Internacional,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1394568,Isaac Monteiro,2004-03-04,22.0,Portugal,,193.0,,Right,44,D,,105000.0,EUR,44881,Caldas SC,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1394920,Nuno Matos,2004-10-04,21.0,Portugal,,181.0,,Right,62,D,['DC'],,,74473,SC Braga B,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1394950,Zack Nelson,2004-09-24,21.0,England,,183.0,,,10,M,['MC'],635000.0,EUR,23957,AFC Wimbledon,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1396500,Léandro Rousseau,2003-07-07,23.0,Belgium,,185.0,,Right,9,F,['ST'],1100000.0,EUR,35076,Patro Eisden Maasmechelen,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1397478,João Costa,2005-03-28,21.0,Portugal,,178.0,,Left,67,M,['RW'],2300000.0,EUR,1954,Cruzeiro,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1398550,Dominic Sadi,2003-09-02,22.0,England,,174.0,,Left,10,M,['RW'],730000.0,EUR,25736,FK Novi Pazar,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1401840,Edson Mucuana,2003-12-12,22.0,Mozambique,,167.0,,Right,50,F,,53000.0,EUR,44881,Caldas SC,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1402787,Shumaira Mheuka,2007-10-20,18.0,England,,183.0,,Right,62,F,['ST'],2900000.0,EUR,36539,Chelsea U21,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1402936,Carlos Ballestero,2004-04-24,22.0,Spain,,178.0,,Both,30,D,,97000.0,EUR,254356,Deportivo Alavés B,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1403063,Zain Silcott-Duberry,2005-07-09,21.0,England,,177.0,,Right,11,F,['MR'],190000.0,EUR,103,Rochdale,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1403130,James Rowswell,2006-07-13,20.0,England,,188.0,,Right,76,D,['DR'],1000000.0,EUR,77865,Tottenham U21,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1405926,Mathieu Acapandié,2004-12-14,21.0,Madagascar,,182.0,,Right,22,D,['DR'],680000.0,EUR,2036,HNK Hajduk Split,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1405999,Hugo Boutsingkham,2003-01-20,23.0,Thailand,,172.0,,Left,23,D,,80000.0,EUR,40661,Port FC,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1407658,Chaim El Djebali,2004-02-07,22.0,Tunisia,,170.0,,Right,23,M,['AM'],77000.0,EUR,59638,US Monastir,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1409087,Ben Parkinson,2005-03-10,21.0,England,,183.0,,Right,7,D,['ST'],155000.0,EUR,2363,Falkirk FC,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1410195,Gonçalo Moreira,2006-01-03,20.0,Portugal,,170.0,,Right,77,M,['RW'],2000000.0,EUR,74465,SL Benfica B U21,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1415001,Roman Dixon,2004-12-26,21.0,England,,175.0,,Right,,D,['DR'],140000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1415021,Djakaridja Junior Traoré,1998-08-02,28.0,Côte d'Ivoire,,193.0,,Right,9,F,['ST'],93000.0,EUR,285539,Persiraja Banda Aceh,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1417030,Burak Ingenç,2006-04-14,20.0,Türkiye,,175.0,,Left,30,M,,54000.0,EUR,44355,Menemen FK,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1417051,Gökdeniz Gürpüz,2006-02-25,20.0,Türkiye,,178.0,,Right,,M,['MC'],260000.0,EUR,2554,1. FC Saarbrücken,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1417936,João Pinto,2002-08-31,23.0,Portugal,,181.0,,Both,17,M,['MC'],180000.0,EUR,3017,Penafiel,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1423452,Daniel Mikołajewski,2006-01-24,20.0,Poland,,184.0,,Right,19,F,['ST'],1900000.0,EUR,2453,FC Luzern,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1425060,Eder Garcia,2004-01-04,22.0,Spain,,181.0,,Right,49,M,"['MC', 'DM']",1000000.0,EUR,2850,Córdoba,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1426625,Ethan Wheatley,2006-01-20,20.0,England,,187.0,,Right,36,F,['ST'],260000.0,EUR,36380,Manchester United U21,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1428969,Yasin Yağız Dilek,2005-05-09,21.0,Türkiye,,190.0,,Left,34,D,,120000.0,EUR,170406,Beyoğlu Yeni Çarşı FAŞ,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1429059,Hugo Solozábal,2003-02-07,23.0,Spain,,187.0,,Right,34,M,,195000.0,EUR,324871,FC Andorra,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1430809,Diego Morcillo,2003-06-18,23.0,Spain,,185.0,79.0,Right,18,F,,185000.0,EUR,2841,Real Jaén,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1431926,Antonin Cartillier,2004-06-23,22.0,France,,176.0,,Left,29,M,['DL'],270000.0,EUR,6925,Rodez AF,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1441150,Melle Witteveen,2003-06-24,23.0,Netherlands,,174.0,,Right,25,M,,94000.0,EUR,6480,HHC Hardenberg,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1442013,Hannes Vernemmen,2005-01-08,21.0,Belgium,,,,,54,D,['DC'],185000.0,EUR,76451,KAA Gent Reserve U23,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1457821,David Ankeye,2002-05-22,24.0,Nigeria,,191.0,,Right,21,F,['ST'],660000.0,EUR,282203,FK Železničar Pančevo,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1459633,Rafael Pontelo,2003-01-22,23.0,Brazil,,191.0,78.0,Left,45,D,['DC'],96000.0,EUR,111127,FK Radnik Surdulica,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1459763,Felipe Lima,2006-04-17,20.0,Brazil,,186.0,,Both,56,F,,185000.0,EUR,74465,SL Benfica B U21,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1462138,Mohamed Soumah,2003-03-15,23.0,Guinea,,188.0,,Right,2,D,['DC'],745000.0,EUR,1793,IK Sirius,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1462307,Christos Papadopoulos,2004-11-01,21.0,Greece,,188.0,,Right,74,M,['AM'],560000.0,EUR,5063,APO Levadiakos,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1464640,Álvaro Santos,2005-01-01,21.0,Spain,,,,Right,21,M,['LW'],735000.0,EUR,24326,Atlético Madrileño,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1465821,Matteo Heremans,2006-01-08,20.0,Belgium,,,,,80,M,,,,76459,Oud-Heverlee Leuven Banqup Academy U23,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1469659,Bi Yameogo,2004-12-17,21.0,Côte d'Ivoire,,184.0,,Right,,D,['DC'],185000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1470012,Eliot Bujupi,2006-07-03,20.0,Kosovo,,187.0,,Left,52,F,['ST'],390000.0,EUR,2522,VfB Stuttgart II U21,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1470784,Francisco Reyes Marizan,2006-03-28,20.0,Dominican Republic,,178.0,,Right,35,D,,53000.0,EUR,484545,FC Volendam U21,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1474708,Umut Mert Toy,2004-05-08,22.0,Türkiye,,188.0,,Left,,D,,120000.0,EUR,3090,Şanlıurfaspor,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1474846,Junior Ajayi,2004-09-11,21.0,Côte d'Ivoire,,183.0,,Right,72,F,['ST'],310000.0,EUR,53857,Casertana,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1477340,Maat Daniel Caprini,2006-02-11,20.0,Italy,,180.0,,Right,63,F,['LW'],1900000.0,EUR,2742,Cesena,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1478262,Yefrei Rodriguez,2005-05-11,21.0,Colombia,,185.0,,Right,88,F,['ST'],270000.0,EUR,21831,UD Oliveirense,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1479378,Mate Simicic,2005-04-11,21.0,Croatia,,193.0,,Right,32,M,,,,421123,SL16 Football Campus U23,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1482463,Juan Arango,2006-06-27,20.0,Venezuela,,184.0,,Left,32,F,['LW'],91000.0,EUR,368693,Girona B,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1485292,Pedro Felipe,2004-05-23,22.0,Brazil,,190.0,84.0,Right,44,D,['DC'],1500000.0,EUR,2835,Real Racing Club,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1485371,Deivid Washington,2005-06-05,21.0,Brazil,,186.0,73.0,Right,36,F,['ST'],3100000.0,EUR,36539,Chelsea U21,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1489408,Matheus Machado,2003-03-13,23.0,Brazil,,188.0,,Left,10,F,['ST'],330000.0,EUR,56023,Al-Fateh,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1489949,Leonardo Mendicino,2006-06-24,20.0,Italy,,182.0,,Right,44,M,"['MC', 'DM']",680000.0,EUR,485323,Atalanta U23,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1491660,José Luis Pérez,2004-03-12,22.0,Spain,,183.0,,Right,37,F,['ST'],190000.0,EUR,43753,Getafe B,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1493213,Marciano,2004-04-03,22.0,Guinea-Bissau,,185.0,79.0,Right,34,M,['ST'],160000.0,EUR,44321,Almería B,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1493712,Pape Youssou Niang,2003-03-23,23.0,Senegal,,193.0,,Right,26,M,['MC'],120000.0,EUR,384329,AJEL de Rufisque,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1495553,Gerson Sousa,2002-05-10,24.0,Portugal,,176.0,,Right,10,M,"['RW', 'LW']",760000.0,EUR,120224,AE Kifisia,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1502936,Amadou Diallo,2005-02-12,21.0,,,,,,67,M,,,,2918,Oud-Heverlee Leuven,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1510878,Manu,2005-11-09,20.0,Angola,,175.0,70.0,Right,18,F,['LW'],,,7295,Radomiak Radom,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1511774,Emir Mustafa Vuruşaner,2005-04-08,21.0,Türkiye,,,,Left,18,D,,52000.0,EUR,55601,Küçükçekmece SF,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1511908,Ange-Loïc N'gatta,2003-12-11,22.0,Côte d'Ivoire,,175.0,,Right,22,D,,110000.0,EUR,1671,Grenoble Foot 38,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1513467,Aaron Malouda,2005-11-30,20.0,France,,183.0,,Right,17,M,['LW'],930000.0,EUR,2501,Basel,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1516599,Endika Buján,2003-01-16,23.0,Spain,,170.0,,Left,48,M,['RW'],285000.0,EUR,2843,Racing de Ferrol,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1520940,Nunzio Engwanda,2007-12-01,18.0,Belgium,,,,Right,71,D,['DC'],870000.0,EUR,421120,RSCA Futures U23,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1520990,Oscar Olivier,2007-06-11,19.0,Belgium,,,,Right,,D,['DR'],515000.0,EUR,76459,Oud-Heverlee Leuven Banqup Academy U23,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1521036,Emirhan Yiğit,2006-04-30,20.0,Türkiye,,179.0,,Left,42,F,['RW'],110000.0,EUR,244448,Kasımpaşa U19,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1521046,Baran Sarka,2001-06-11,25.0,Netherlands,,176.0,,Right,,M,['MC'],195000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1521208,Luc Netten,2004-04-12,22.0,Netherlands,,191.0,,Right,17,D,,48000.0,EUR,2994,FC Eindhoven,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1521616,Adnan Aktaş,2006-11-10,19.0,Türkiye,,182.0,,Left,13,D,,53000.0,EUR,485443,Aliağa FK,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1526535,Lorenzo Aguado,2002-09-19,23.0,Spain,,177.0,,Right,2,D,['DR'],580000.0,EUR,2848,Albacete Balompié,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1528310,Tiago Leite,2000-07-31,26.0,Portugal,,185.0,,Right,79,F,['ST'],220000.0,EUR,3030,Felgueiras,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1533725,Diego Pugno,2006-07-07,20.0,Italy,,179.0,,Right,9,F,['ST'],375000.0,EUR,46160,Jong Ajax,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1535581,Lander Astiazaran,2006-04-07,20.0,Spain,,178.0,,Both,44,M,['RW'],2600000.0,EUR,24360,Real Sociedad B,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1537177,Christ Letono,2004-04-25,22.0,Cameroon,,198.0,,Right,37,F,['ST'],145000.0,EUR,305165,Stade Reims II,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1541908,Naziru Shuabiu,2004-02-10,22.0,Nigeria,,184.0,,Right,19,F,['ST'],,,38665,FC Tirsense,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1542759,Ivan Corralejo,2007-03-01,19.0,Spain,,176.0,,,50,M,['AM'],53000.0,EUR,24358,Betis Deportivo,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1550822,Asier Hierro,2005-05-06,21.0,Spain,,190.0,,Right,31,F,['ST'],910000.0,EUR,24324,Athletic Club B U21,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1561756,Paco Sanz,2004-11-15,21.0,Spain,,188.0,,Right,36,D,,140000.0,EUR,254356,Deportivo Alavés B,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1563578,Taufik Seidu,2008-01-20,18.0,Spain,,187.0,74.0,Right,28,M,['MC'],,,1119104,Atletico Madrid C,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1565348,Joe Knight,2005-09-21,20.0,England,,,,,26,M,"['MC', 'DM']",105000.0,EUR,133,Stevenage,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1567333,Nikoloz Chikovani,2007-06-21,19.0,Georgia,,188.0,,Right,71,F,['LW'],140000.0,EUR,77863,Watford U21,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1568920,Bera Ceken,2005-08-18,20.0,Türkiye,,178.0,,Left,,F,,24000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1586632,Michael Bresser,2007-04-24,19.0,Netherlands,,187.0,,Right,24,D,['DC'],340000.0,EUR,46168,Jong PSV Eindhoven,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1590944,Rio Robbemond,2005-01-05,21.0,Netherlands,,179.0,,Right,56,M,['AM'],375000.0,EUR,46161,Jong AZ Alkmaar,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1594156,Jeremy Jorge,2003-02-09,23.0,Spain,,165.0,,Right,23,F,['ML'],155000.0,EUR,202074,Rayo Majadahonda,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1594525,Bakary Haidara,2005-06-01,21.0,Côte d'Ivoire,,185.0,,Right,,D,['DC'],155000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1605227,Aingeru Olabarrieta,2005-11-14,20.0,Spain,,182.0,,Left,33,F,['RW'],855000.0,EUR,24324,Athletic Club B U21,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1605334,Jorge Karseladze,2005-03-18,21.0,Georgia,,175.0,,Right,23,D,,105000.0,EUR,3041,Lion City Sailors,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1606630,Enzo Sternal,2007-05-28,19.0,France,,174.0,68.0,Right,28,M,['AM'],745000.0,EUR,421120,RSCA Futures U23,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1614687,Diego Aguado,2007-02-07,19.0,Spain,,185.0,,Left,27,D,['DL'],5500000.0,EUR,5069,Real Madrid Castilla U21,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1617764,Ejike Opara,2005-07-05,21.0,Nigeria,,180.0,,Right,33,F,['ST'],970000.0,EUR,74475,Vitória SC B,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1617909,Berhan Deniz,2004-11-25,21.0,Türkiye,,,,Right,,F,,81000.0,EUR,422064,Söke 1970 Spor,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1618510,Hüseyin Maldar,2007-01-26,19.0,Türkiye,,175.0,,Right,66,F,['DR'],775000.0,EUR,3055,Bursaspor,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1631412,Kauan Gomes,2005-04-26,21.0,Brazil,,176.0,,Right,,D,['DR'],,,3037,SC Covilhã,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1634355,Mohamed Bechikh,2005-07-13,21.0,Algeria,,183.0,,Right,37,F,,105000.0,EUR,1671,Grenoble Foot 38,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1634358,Gino Caoki,2004-07-17,22.0,France,,178.0,,Right,15,D,,23000.0,EUR,1663,Nîmes Olympique,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1634359,Royce Openda,2002-04-21,24.0,Gabon,,164.0,,Right,35,F,,110000.0,EUR,1685,Pau FC,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1652682,Irsan Muric,2005-04-11,21.0,Belgium,,190.0,,,82,F,,49000.0,EUR,224607,KFC Houtvenne,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1657026,Rodrigo Abajas,2003-12-05,22.0,Spain,,186.0,,Left,,D,['DL'],190000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1799243,Hugo Nunes,2002-02-15,24.0,Portugal,,187.0,,Right,46,M,['DM'],105000.0,EUR,3015,Académica Coimbra,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1837194,Baran Vardar,2005-06-02,21.0,Türkiye,,191.0,,Right,,D,,53000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1838644,Christian Frangella,2006-11-25,19.0,Italy,,,,,33,M,['MC'],290000.0,EUR,826807,Sassuolo U20,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1858304,Batuhan Özgan,2007-01-05,19.0,Türkiye,,182.0,,Right,35,D,,55000.0,EUR,485444,Erciyes 38 FSK,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1858820,Gerardo Fusco,2005-05-18,21.0,Italy,,188.0,,Right,82,F,['ST'],310000.0,EUR,6361,Cavese,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1860333,Sjors-Lowis Hermsen,2006-06-12,20.0,Netherlands,,175.0,,,27,F,,,,76325,Jong Fortuna Sittard U21,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1860387,Bunyamin Cetinkaya,2009-09-08,16.0,Türkiye,,,,,,F,,,,244448,Kasımpaşa U19,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1865384,Enes Gökcek,2007-04-30,19.0,Türkiye,,178.0,,Right,46,D,,,,241836,Kayserispor U19,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1865900,Samet Duyur,2009-08-12,17.0,Türkiye,,184.0,,Left,,F,,24000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1892154,Papa Demba Ndior,2004-12-31,21.0,Senegal,,,,Right,45,F,,160000.0,EUR,930679,Karşıyaka SK,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1892604,Daan van Reeuwijk,2007-05-09,19.0,Netherlands,,188.0,,Right,3,D,,,,2969,RBC Roosendaal,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1893878,Elton Yeboah,2005-03-25,21.0,Ghana,,185.0,,Left,36,M,,145000.0,EUR,116075,Koninklijke Lierse Sportkring,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1894037,Soumaela Traoré,2004-08-01,22.0,France,,189.0,,Right,,D,,,,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1899501,Jake Evans,2008-06-04,18.0,England,,175.0,,Left,35,F,['ST'],180000.0,EUR,69,Cheltenham Town,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1899611,Nehemiah Oriola,2007-06-11,19.0,England,,,,,58,F,['RW'],195000.0,EUR,169150,Brighton & Hove Albion U21,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1901947,Mehmet Kaya,2004-09-17,21.0,Türkiye,,190.0,,Right,,D,,23000.0,EUR,5844,Sportfreunde Lotte,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1906695,Tomás Silva,2006-05-25,20.0,Portugal,,175.0,,Left,75,D,,110000.0,EUR,1121228,Boavista FC SAD,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1907260,Gui Beleza,2006-12-09,19.0,Portugal,,181.0,70.0,Left,16,M,['MC'],,,426138,Gil Vicente U23,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1916795,Hasip Korkmazyürek,2003-05-01,23.0,Türkiye,,179.0,,Right,,M,,53000.0,EUR,327662,Isparta 32 Spor,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1925480,Ilane Touré,2006-08-04,20.0,France,,180.0,,Right,49,D,['DR'],280000.0,EUR,293450,AS Monaco U21,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1936487,Ibrahim Halilou,2005-02-24,21.0,Cameroon,,188.0,,Right,5,D,,105000.0,EUR,305409,Olympique Lyonnais 2,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1948048,Simon Cara,2005-03-31,21.0,France,,182.0,,Right,9,M,,48000.0,EUR,39126,FC Versailles 78,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1952393,Pierre Mounguengue,2008-01-03,18.0,France,,182.0,,Right,99,F,['ST'],1900000.0,EUR,3305,Dynamo Kyiv,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1961096,Martim Guedes,2008-11-05,17.0,Portugal,,170.0,,Right,50,M,['MC'],91000.0,EUR,74475,Vitória SC B,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1970813,Abdul Ouedraogo,2005-11-28,20.0,Côte d'Ivoire,,189.0,,Right,,D,['DC'],205000.0,EUR,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1974226,Yvan Zaddy,2006-05-01,20.0,Côte d'Ivoire,,,,Right,41,F,,,,361741,Auxerre 2,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1981257,Ahmet Tirpanci,2007-03-19,19.0,Türkiye,,,,Left,36,D,,,,327705,Yeni Mersin İdman Yurdu AŞ,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1982282,Burak Arslan,2005-06-23,21.0,Türkiye,,,,Right,88,M,,,,485444,Erciyes 38 FSK,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1990563,Yilmaz Cin,2008-07-11,18.0,Türkiye,,185.0,,Right,99,F,['ST'],105000.0,EUR,326516,Sivasspor U19,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+1998104,Ugo Lamare El Kadmiri,2007-06-25,19.0,Morocco,,192.0,,Left,70,F,,95000.0,EUR,362117,Olympique de Marseille 2,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+2007717,Joel Drakes-Thomas,2009-06-09,17.0,England,,180.0,,Right,86,M,['MR'],1400000.0,EUR,77869,Crystal Palace U21,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+2014314,Alexander De Ridder,2008-05-06,18.0,Belgium,,185.0,,Right,64,M,"['MC', 'DM']",930000.0,EUR,421120,RSCA Futures U23,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+2019102,Cagan Tas,2006-11-06,19.0,Türkiye,,,,,27,F,,,,485448,Bornova 1877,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+2019420,Ismail Zobu,2006-11-15,19.0,Türkiye,,178.0,,Right,,M,,,,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+2023409,Remy Rees-Dottin,2006-03-06,20.0,England,,174.0,,Right,50,F,,310000.0,EUR,322204,Bournemouth U21,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+2025660,Amin Laoukili,2005-01-14,21.0,Netherlands,,,,,47,M,,,,76325,Jong Fortuna Sittard U21,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+2032380,Arturo Rodríguez,2006-08-05,20.0,Spain,,173.0,,Left,37,F,,23000.0,EUR,24369,Las Palmas Atlético,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+2033811,Henrick Do Marcolino,2006-03-21,20.0,France,,179.0,,Right,69,F,,,,397891,Stade Rennais 2,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+2046131,Diogo Pereira,2003-05-04,23.0,Portugal,,189.0,,Right,28,M,['DC'],90000.0,EUR,207139,Amarante FC,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+2056436,Berk Can Yildizli,2005-06-19,21.0,Türkiye,,181.0,,Right,99,F,,52000.0,EUR,56313,Kırklarelispor,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+2058687,Orseer Achihi,,,Nigeria,,,,Right,76,F,,,,262662,Royal Antwerp U23,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+2059250,Téo Barišić,2004-09-30,21.0,Croatia,,185.0,67.0,Right,28,D,['DR'],730000.0,EUR,2039,HNK Rijeka,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+2063957,Kai Jansen,2007-05-29,19.0,Netherlands,,183.0,,Both,32,M,,,,390133,SC Heerenveen U21,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+2077096,Lucas Rosier,2007-03-11,19.0,France,,177.0,,,12,F,,,,397891,Stade Rennais 2,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+2119573,Abdurrahman Burak Sayin,2006-08-23,19.0,Netherlands,,180.0,,Both,36,M,,,,76325,Jong Fortuna Sittard U21,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+2124873,Abdramane Ouedraogo,2006-10-11,19.0,Burkina Faso,,,,,33,F,,,,421123,SL16 Football Campus U23,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+2128089,Ali Demirbilek,2009-01-05,17.0,Türkiye,,175.0,,Right,19,F,['LW'],270000.0,EUR,243800,Fenerbahçe U19,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+2128605,Yigithan Cubukcu,2008-09-09,17.0,Türkiye,,170.0,,Right,82,M,,105000.0,EUR,242120,Trabzonspor U19,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+2148732,Beytullah Gezer,2004-01-09,22.0,Türkiye,,,,,15,,,,,170412,Adana Demirspor U21,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+2161820,José Carlo González,2006-03-27,20.0,Spain,,,,,36,M,,24000.0,EUR,24369,Las Palmas Atlético,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+2203341,Ryan Adewusi,2005-02-04,21.0,Belgium,,183.0,,Right,37,F,,105000.0,EUR,169272,Royal Knokke FC,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+2205650,Cheveyo Mul-Balentien,2006-12-18,19.0,Suriname,,189.0,,,25,F,,970000.0,EUR,530559,Milan Futuro U23,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+2266256,Martin Bley,2006-01-23,20.0,Burkina Faso,,,,,34,M,,,,1110453,FC Lorient B,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+2290299,Mohamed Yassine Azzouz,2007-05-17,19.0,Morocco,,,,,60,M,,,,76459,Oud-Heverlee Leuven Banqup Academy U23,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+2338038,Antonio Gil,2008-01-08,18.0,Portugal,,181.0,,Left,92,M,,,,74473,SC Braga B,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+2361972,Tarik Hamamioglu,2008-06-30,18.0,Netherlands,,,,,22,F,,,,933151,FC Twente Heracles U19,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+2404778,Esat Yusuf Narin,2007-03-22,19.0,Türkiye,,,,Left,94,M,,47000.0,EUR,261155,Kocaelispor U19,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+2430329,Daniel Semedo,2003-10-25,22.0,Portugal,,177.0,78.0,Right,35,M,,97000.0,EUR,1110453,FC Lorient B,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+2465040,Ilai Grootfaam ,2010-03-15,16.0,Netherlands,,,,Left,,M,,,,241802,No team,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+2466062,Adjani Mujangi Bia,2010-05-29,16.0,Belgium,,,,,40,M,,,,1212025,RSC Anderlecht U17,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+2486668,Omer Cobanoglu,2007-07-04,19.0,Türkiye,,,,Right,25,M,,,,234243,Konyaspor U19,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+2494206,Ahmet Dagdevir,2007-01-01,19.0,Türkiye,,,,Right,34,M,,52000.0,EUR,327705,Yeni Mersin İdman Yurdu AŞ,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+2494208,Enes Seven,2007-02-21,19.0,Türkiye,,,,,35,F,,,,234243,Konyaspor U19,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
+2502049,Loris Pirotte,2008-12-08,17.0,Belgium,,,,,,M,,,,76451,KAA Gent Reserve U23,GAP,GAP,datafc_sofascore,2026-08-12 10:15:29
