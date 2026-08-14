@@ -38,10 +38,16 @@ recherche = st.text_input(
 if recherche:
     df = df[df["joueur"].str.contains(recherche, case=False, na=False)]
 
+# Rang dynamique : recalculé selon le classement affiché (après filtres
+# sidebar + recherche), plutôt que rang_global qui est figé sur toute la
+# population U23 et ne bouge pas quand on filtre.
+df = df.sort_values("score_corrige", ascending=False, na_position="last").reset_index(drop=True)
+df["rang_dynamique"] = df.index + 1
+
 tab_classement, tab_graphiques = st.tabs(["📋 Classement", "📊 Graphiques"])
 
 COLONNES_AFFICHEES = {
-    "rang_global":  "Rang",
+    "rang_dynamique": "Rang",
     "joueur":       "Joueur",
     "equipe":       "Équipe",
     "ligue":        "Ligue",

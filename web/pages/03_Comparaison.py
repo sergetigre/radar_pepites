@@ -1,7 +1,8 @@
 import streamlit as st
 import pandas as pd
-from utils.db import search_joueurs, get_joueur_fiche
+from utils.db import get_joueur_fiche
 from utils.sidebar import render_sidebar
+from utils.search import player_searchbox
 from utils.charts import radar_compare, RADAR_LABELS
 from utils.components import stat_checkbox_selector
 from utils.styles import inject_css, icon, render_html
@@ -25,16 +26,14 @@ render_html(f"""
 
 
 def select_player_col(key_prefix):
-    nom = st.text_input("Rechercher", key=f"{key_prefix}_nom", placeholder="Ex: Saka")
-    if not nom:
+    """Sélection joueur + saison via autocomplete live."""
+    joueur_id, saison, label = player_searchbox(
+        key=f"{key_prefix}_searchbox",
+        placeholder="Ex: Saka",
+    )
+    if not joueur_id:
         return None, None
-    df = search_joueurs(nom)
-    if df.empty:
-        st.warning("Joueur non trouvé.")
-        return None, None
-    sel = st.selectbox("Sélectionner", df["joueur_saison"], key=f"{key_prefix}_sel")
-    row = df[df["joueur_saison"] == sel].iloc[0]
-    return str(row["joueur_id"]), row["saison_id"]
+    return joueur_id, saison
 
 
 col_a, col_sep, col_b = st.columns([5, 1, 5])

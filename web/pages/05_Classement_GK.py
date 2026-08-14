@@ -35,7 +35,13 @@ recherche = st.text_input(
 if recherche and "player_name" in df.columns:
     df = df[df["player_name"].str.contains(recherche, case=False, na=False)]
 
+# Rang dynamique : recalculé selon le classement affiché (après filtres
+# sidebar + recherche), sur le même critère de tri que la requête (arrêts/90).
+df = df.sort_values("saves_p90", ascending=False, na_position="last").reset_index(drop=True)
+df["rang_dynamique"] = df.index + 1
+
 COLONNES_GK = {
+    "rang_dynamique": "Rang",
     "player_name": "Gardien", "team_name": "Équipe",
     "ligue_id": "Ligue", "age_actuel": "Âge",
     "saves_p90": "Arrêts/90", "goals_prevented_ss": "Buts évités",

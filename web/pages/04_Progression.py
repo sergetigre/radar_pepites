@@ -1,6 +1,7 @@
 import streamlit as st
-from utils.db import search_joueurs, get_progression_joueur
+from utils.db import get_progression_joueur
 from utils.sidebar import render_sidebar
+from utils.search import player_searchbox
 from utils.charts import line_progression, bar_progression
 from utils.styles import inject_css, icon, render_html
 
@@ -20,35 +21,21 @@ render_html(f"""
     </p>
 """)
 
-nom = st.text_input(
-    "Rechercher un joueur",
+joueur_id, _saison_sel, label = player_searchbox(
+    key="progression_search",
     placeholder="Ex : Saka, Wirtz, Yamal...",
 )
 
-if not nom:
-    st.info("Tapez le nom d'un joueur pour afficher sa progression.")
+if not joueur_id:
+    st.info("Tapez le nom d'un joueur pour afficher sa progression (2 lettres min.).")
     st.stop()
 
-df_search = search_joueurs(nom)
-if df_search.empty:
-    st.warning(f"Aucun joueur trouvé pour '{nom}'.")
-    st.stop()
-
-joueurs_uniques = df_search.drop_duplicates(subset=["joueur_id"])
-if len(joueurs_uniques) > 1:
-    options = (joueurs_uniques["joueur"] + " (" + joueurs_uniques["equipe"] + ")").tolist()
-    sel_joueur = st.selectbox("Plusieurs joueurs correspondent — précisez", options)
-    idx = options.index(sel_joueur)
-    joueur_id = str(joueurs_uniques.iloc[idx]["joueur_id"])
-else:
-    joueur_id = str(joueurs_uniques.iloc[0]["joueur_id"])
+nom_joueur = label.split(" — ")[0] if label else "Joueur"
 
 df_prog = get_progression_joueur(joueur_id)
 if df_prog.empty:
     st.warning("Aucune donnée de progression disponible.")
     st.stop()
-
-nom_joueur = df_search.iloc[0]["joueur"]
 
 saisons_dispo = df_prog["saison_courte"].tolist()
 saisons_sel = st.multiselect(

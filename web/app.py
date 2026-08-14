@@ -117,33 +117,19 @@ if not df_ligue.empty:
     for i, (_, row) in enumerate(df_ligue.iterrows()):
         with cols[i % 5]:
             color = row.get("couleur_hex") or "#2DAD7E"
-            if st.button(
-                f"⚽ {row['joueur']}",
-                key=f"btn_{row['joueur_id']}_{i}",
-                use_container_width=True,
-            ):
-                st.session_state["prefill_joueur"]    = row["joueur"]
-                st.session_state["prefill_joueur_id"] = row["joueur_id"]
-                st.session_state["prefill_saison"]    = saison
-                st.switch_page("pages/02_Radar_Joueur.py")
-
+            href = f"/Radar_Joueur?joueur_id={row['joueur_id']}&saison={saison}"
             render_html(f"""
-                <div class="card card-accent"
-                     style="border-left-color:{color};
-                            margin-top:-8px;">
-                    <div style="font-size:0.65rem; color:#8A8A8A;
-                                text-transform:uppercase;
-                                letter-spacing:1px;">
-                        {row['ligue']}
+                <a href="{href}" target="_self" class="player-card-link">
+                    <div class="card card-accent player-mini-card"
+                         style="border-left-color:{color};">
+                        <div class="pmc-name">⚽ {row['joueur']}</div>
+                        <div class="pmc-league">{row['ligue']}</div>
+                        <div class="pmc-details">
+                            {row['equipe']} · {row['poste_id']} · {row['age']} ans
+                        </div>
+                        <span class="score-badge-sm">★ {row['score_corrige']:.1f}</span>
                     </div>
-                    <div style="font-size:0.8rem; color:#8A8A8A;">
-                        {row['equipe']} · {row['poste_id']}
-                        · {row['age']} ans
-                    </div>
-                    <span class="score-badge-sm">
-                        ★ {row['score_corrige']:.1f}
-                    </span>
-                </div>
+                </a>
             """)
 else:
     st.caption("Aucune donnée pour ces filtres.")

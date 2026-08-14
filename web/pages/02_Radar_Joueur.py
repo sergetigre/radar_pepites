@@ -1,8 +1,8 @@
 import streamlit as st
 import pandas as pd
-from utils.db import (search_joueurs, get_joueur_fiche,
-                      get_profils_similaires)
+from utils.db import get_joueur_fiche, get_profils_similaires, get_saisons
 from utils.sidebar import render_sidebar
+from utils.search import player_searchbox
 from utils.charts import radar_single
 from utils.components import (
     render_player_header, render_terrain_svg,
@@ -25,46 +25,51 @@ render_html(f"""
     </h1>
 """)
 
-prefill_nom    = st.session_state.get("prefill_joueur", "")
-prefill_id     = st.session_state.get("prefill_joueur_id", "")
+saisons = get_saisons()
 
-nom = st.text_input(
-    "Rechercher un joueur",
-    value=prefill_nom,
-    placeholder="Ex : Saka, Wirtz, Yamal...",
-)
+# Pré-remplissage : priorité aux paramètres d'URL (carte du Tableau de
+# bord, clic direct), sinon barre de recherche live (navigation libre,
+# ou arrivée depuis Explorer via session_state).
+qp = st.query_params
+qp_joueur_id = qp.get("joueur_id")
+qp_saison    = qp.get("saison")
 
-if not nom:
-    st.info("Tapez le nom d'un joueur pour afficher son profil.")
-    st.stop()
+if qp_joueur_id:
+    df_fiche = get_joueur_fiche(qp_joueur_id, qp_saison or saisons[0])
+    st.query_params.clear()
 
-df_search = search_joueurs(nom)
-if df_search.empty:
-    st.warning(f"Aucun joueur trouvé pour '{nom}'.")
-    st.stop()
+    if df_fiche.empty:
+        st.warning("Données non disponibles pour cette sélection.")
+        st.stop()
 
-options = df_search["joueur_saison"].tolist()
-default_idx = 0
-if prefill_id:
-    matches = df_search[df_search["joueur_id"].astype(str) == str(prefill_id)]
-    if not matches.empty:
-        default_idx = df_search.index.get_loc(matches.index[0])
+    row       = df_fiche.iloc[0]
+    poste     = row.get("poste_id") or row.get("poste_principal", "CM") or "CM"
+    joueur_id = qp_joueur_id
+    saison    = qp_saison or saisons[0]
 
-sel = st.selectbox("Sélectionner", options, index=default_idx)
-row_sel = df_search[df_search["joueur_saison"] == sel].iloc[0]
-joueur_id = str(row_sel["joueur_id"])
-saison    = row_sel["saison_id"]
+else:
+    prefill_nom = st.session_state.get("prefill_joueur", "")
 
-for k in ["prefill_joueur","prefill_joueur_id","prefill_saison"]:
-    st.session_state.pop(k, None)
+    joueur_id, saison, label = player_searchbox(
+        key="radar_joueur_search",
+        placeholder="Ex : Saka, Wirtz, Yamal...",
+        default_searchterm=prefill_nom,
+    )
 
-df_fiche = get_joueur_fiche(joueur_id, saison)
-if df_fiche.empty:
-    st.warning("Données non disponibles pour cette sélection.")
-    st.stop()
+    if not joueur_id:
+        st.info("Tapez le nom d'un joueur pour afficher son profil (2 lettres min.).")
+        st.stop()
 
-row   = df_fiche.iloc[0]
-poste = row.get("poste_id") or row.get("poste_principal", "CM") or "CM"
+    for k in ["prefill_joueur", "prefill_joueur_id", "prefill_saison"]:
+        st.session_state.pop(k, None)
+
+    df_fiche = get_joueur_fiche(joueur_id, saison)
+    if df_fiche.empty:
+        st.warning("Données non disponibles pour cette sélection.")
+        st.stop()
+
+    row   = df_fiche.iloc[0]
+    poste = row.get("poste_id") or row.get("poste_principal", "CM") or "CM"
 
 render_player_header(row)
 

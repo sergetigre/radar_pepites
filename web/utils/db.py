@@ -117,7 +117,7 @@ def search_joueurs(nom: str, saison: str = "") -> pd.DataFrame:
         SELECT DISTINCT
             joueur_id, joueur, equipe, ligue, ligue_id,
             poste_id, age, score_corrige, saison_id,
-            CONCAT(joueur, ' — ', saison_id) as joueur_saison
+            CONCAT(joueur, ' — ', equipe, ' — ', saison_id) as joueur_saison
         FROM gold.vue_score_pepite_ranking
         WHERE LOWER(joueur) LIKE LOWER(:pattern)
         ORDER BY joueur, saison_id DESC
@@ -253,7 +253,7 @@ def search_gk(nom: str) -> pd.DataFrame:
         SELECT DISTINCT
             f.joueur_id, j.nom_complet as joueur,
             e.nom_complet as equipe, f.ligue_id, f.saison_id,
-            CONCAT(j.nom_complet, ' — ', f.saison_id) as joueur_saison
+            CONCAT(j.nom_complet, ' — ', e.nom_complet, ' — ', f.saison_id) as joueur_saison
         FROM public.fact_stats f
         JOIN public.dim_joueurs j ON f.joueur_id = j.joueur_id
         JOIN public.dim_equipes e ON f.equipe_id = e.equipe_id

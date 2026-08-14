@@ -48,12 +48,17 @@ def inject_css() -> str:
         color: #FFFFFF;
     }
 
+    /* ── Masquer la navigation native Streamlit (doublon avec le nav custom) */
+    [data-testid="stSidebarNav"] {
+        display: none;
+    }
+
     /* ── Nav item ────────────────────────────────────── */
     .nav-item {
         display: flex;
         align-items: center;
         gap: 10px;
-        padding: 9px 14px;
+        padding: 9px 8px;
         border-radius: 8px;
         margin: 2px 0;
         font-size: 0.9rem;
@@ -87,7 +92,7 @@ def inject_css() -> str:
         text-transform: uppercase;
         letter-spacing: 2px;
         color: #8A8A8A;
-        padding: 14px 14px 6px 14px;
+        padding: 14px 8px 6px 8px;
         margin-top: 4px;
     }
 
@@ -105,6 +110,40 @@ def inject_css() -> str:
     .card:hover {
         border-color: #2DAD7E;
         transition: border-color 0.2s;
+    }
+
+    /* ── Carte pépite cliquable (lien enveloppant) ───────────────────── */
+    a.player-card-link {
+        text-decoration: none;
+        display: block;
+    }
+    .player-mini-card {
+        cursor: pointer;
+        transition: border-color 0.2s, transform 0.15s;
+    }
+    .player-mini-card:hover {
+        border-color: #2DAD7E;
+        transform: translateY(-2px);
+    }
+    .player-mini-card .pmc-name {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        font-weight: 700;
+        color: #FFFFFF;
+        font-size: 0.95rem;
+        margin-bottom: 8px;
+    }
+    .player-mini-card .pmc-league {
+        font-size: 0.65rem;
+        color: #8A8A8A;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+    }
+    .player-mini-card .pmc-details {
+        font-size: 0.8rem;
+        color: #8A8A8A;
+        margin: 4px 0 10px 0;
     }
 
     /* ── Score badge ─────────────────────────────────── */
@@ -271,10 +310,57 @@ def inject_css() -> str:
         font-weight: 700;
     }
 
+    /* ── Style du composant streamlit-searchbox (autocomplete) ──────── */
+    div[data-baseweb="select"] {
+        background: #111111 !important;
+        border-radius: 8px !important;
+    }
+    div[data-baseweb="select"] > div {
+        background: #111111 !important;
+        border-color: #1A1A1A !important;
+        color: #FFFFFF !important;
+    }
+    div[data-baseweb="popover"] ul {
+        background: #111111 !important;
+        border: 1px solid #2DAD7E !important;
+    }
+    div[data-baseweb="popover"] li {
+        color: #FFFFFF !important;
+    }
+    div[data-baseweb="popover"] li:hover {
+        background: #1A1A1A !important;
+        color: #2DAD7E !important;
+    }
+
     /* ── Masquer éléments Streamlit ──────────────────── */
     #MainMenu { visibility: hidden; }
     footer    { visibility: hidden; }
     header    { visibility: hidden; }
+
+    /* ── Empêcher la sidebar de se refermer automatiquement (mobile/tablette) */
+    [data-testid="stSidebar"] {
+        transform: none !important;
+        visibility: visible !important;
+        min-width: 260px !important;
+        max-width: 280px !important;
+    }
+    [data-testid="stSidebar"][aria-expanded="false"] {
+        transform: none !important;
+        margin-left: 0 !important;
+        visibility: visible !important;
+    }
+    /* Le contenu principal garde sa marge comme si la sidebar était toujours
+       ouverte, pour éviter tout chevauchement avec le panneau forcé visible */
+    [data-testid="stAppViewContainer"] > .main {
+        margin-left: 0 !important;
+    }
+
+    /* Réduire légèrement la police des checkboxes de ligues pour accueillir
+       les noms complets sans retour à la ligne */
+    [data-testid="stSidebar"] .stCheckbox label p {
+        font-size: 0.78rem !important;
+        line-height: 1.2;
+    }
 
     /* ── Boutons ─────────────────────────────────────── */
     .stButton button {

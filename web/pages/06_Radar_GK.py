@@ -1,6 +1,7 @@
 import streamlit as st
-from utils.db import search_gk, get_gk_fiche
+from utils.db import get_gk_fiche
 from utils.sidebar import render_sidebar
+from utils.search import gk_searchbox
 from utils.charts import radar_single
 from utils.components import (
     render_player_header, render_terrain_svg,
@@ -23,34 +24,16 @@ render_html(f"""
 """)
 
 prefill_nom = st.session_state.get("prefill_gk", "")
-prefill_id  = st.session_state.get("prefill_gk_id", "")
 
-nom = st.text_input(
-    "Rechercher un gardien",
-    value=prefill_nom,
+joueur_id, saison, label = gk_searchbox(
+    key="radar_gk_search",
     placeholder="Ex : Donnarumma junior...",
+    default_searchterm=prefill_nom,
 )
 
-if not nom:
-    st.info("Tapez le nom d'un gardien pour afficher son profil.")
+if not joueur_id:
+    st.info("Tapez le nom d'un gardien pour afficher son profil (2 lettres min.).")
     st.stop()
-
-df_search = search_gk(nom)
-if df_search.empty:
-    st.warning(f"Aucun gardien trouvé pour '{nom}'.")
-    st.stop()
-
-options = df_search["joueur_saison"].tolist()
-default_idx = 0
-if prefill_id:
-    matches = df_search[df_search["joueur_id"].astype(str) == str(prefill_id)]
-    if not matches.empty:
-        default_idx = df_search.index.get_loc(matches.index[0])
-
-sel = st.selectbox("Sélectionner", options, index=default_idx)
-row_sel = df_search[df_search["joueur_saison"] == sel].iloc[0]
-joueur_id = str(row_sel["joueur_id"])
-saison    = row_sel["saison_id"]
 
 for k in ["prefill_gk", "prefill_gk_id"]:
     st.session_state.pop(k, None)

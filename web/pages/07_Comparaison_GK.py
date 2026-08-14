@@ -1,7 +1,8 @@
 import streamlit as st
 import pandas as pd
-from utils.db import search_gk, get_gk_fiche
+from utils.db import get_gk_fiche
 from utils.sidebar import render_sidebar
+from utils.search import gk_searchbox
 from utils.charts import radar_compare, RADAR_AXES
 from utils.styles import inject_css, icon, render_html
 
@@ -20,16 +21,13 @@ render_html(f"""
 
 
 def select_gk_col(key_prefix):
-    nom = st.text_input("Rechercher", key=f"{key_prefix}_nom", placeholder="Ex: Donnarumma")
-    if not nom:
+    joueur_id, saison, label = gk_searchbox(
+        key=f"{key_prefix}_searchbox",
+        placeholder="Ex: Donnarumma",
+    )
+    if not joueur_id:
         return None, None
-    df = search_gk(nom)
-    if df.empty:
-        st.warning("Gardien non trouvé.")
-        return None, None
-    sel = st.selectbox("Sélectionner", df["joueur_saison"], key=f"{key_prefix}_sel")
-    row = df[df["joueur_saison"] == sel].iloc[0]
-    return str(row["joueur_id"]), row["saison_id"]
+    return joueur_id, saison
 
 
 col_a, col_sep, col_b = st.columns([5, 1, 5])

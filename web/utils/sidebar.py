@@ -124,7 +124,7 @@ def render_sidebar(page_active: str = "") -> dict:
             lid     = row["ligue_id"]
             default = st.session_state.get(f"l_{lid}", True)
             val     = st.checkbox(
-                row["nom_court"], value=default, key=f"l_{lid}"
+                row["nom_complet"], value=default, key=f"l_{lid}"
             )
             if val:
                 ligues_sel.append(lid)
