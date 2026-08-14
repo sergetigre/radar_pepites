@@ -1,85 +1,130 @@
 import streamlit as st
+import pandas as pd
+from utils.db import (search_joueurs, get_joueur_fiche,
+                      get_profils_similaires)
+from utils.sidebar import render_sidebar
+from utils.charts import radar_single
+from utils.components import (
+    render_player_header, render_terrain_svg,
+    render_pct_bars, render_strengths_weaknesses,
+    render_similar_players,
+)
+from utils.styles import inject_css, icon, render_html
 
-from utils.charts import COLORS, radar_chart
-from utils.db import get_joueur_radar, get_saisons, search_joueurs
-from utils.styles import inject_css
-
-st.set_page_config(page_title="Radar — RadarPépites", layout="wide")
+st.set_page_config(
+    page_title="Radar Joueur · RadarPépites",
+    page_icon="📊", layout="wide",
+)
 st.markdown(inject_css(), unsafe_allow_html=True)
-st.title("📊 Profil Radar d'un Joueur")
 
-saisons = get_saisons()
-saison  = st.sidebar.selectbox("Saison", saisons)
+render_sidebar(page_active="radar")
 
-nom = st.text_input("Rechercher un joueur", placeholder="Ex: Saka, Wirtz, Yamal...")
+render_html(f"""
+    <h1 style="font-size:1.8rem; font-weight:800; margin-bottom:20px;">
+        {icon('radar', 28)} Radar Joueur
+    </h1>
+""")
+
+prefill_nom    = st.session_state.get("prefill_joueur", "")
+prefill_id     = st.session_state.get("prefill_joueur_id", "")
+
+nom = st.text_input(
+    "Rechercher un joueur",
+    value=prefill_nom,
+    placeholder="Ex : Saka, Wirtz, Yamal...",
+)
 
 if not nom:
-    st.info("Tapez le nom d'un joueur pour afficher son radar.")
+    st.info("Tapez le nom d'un joueur pour afficher son profil.")
     st.stop()
 
-df_search = search_joueurs(nom, saison)
-
+df_search = search_joueurs(nom)
 if df_search.empty:
-    st.warning(f"Aucun joueur trouvé pour '{nom}' en {saison}.")
+    st.warning(f"Aucun joueur trouvé pour '{nom}'.")
     st.stop()
 
-joueur_sel = st.selectbox("Sélectionner le joueur", df_search["joueur"].tolist())
-row_sel    = df_search[df_search["joueur"] == joueur_sel].iloc[0]
+options = df_search["joueur_saison"].tolist()
+default_idx = 0
+if prefill_id:
+    matches = df_search[df_search["joueur_id"].astype(str) == str(prefill_id)]
+    if not matches.empty:
+        default_idx = df_search.index.get_loc(matches.index[0])
 
-if row_sel["poste_id"] == "GK":
-    st.warning(
-        "Le radar percentile n'est pas disponible pour les gardiens "
-        "(les métriques gardien — arrêts, buts évités... — ne sont pas "
-        "encore intégrées à cette vue). Consulte la page **Gardiens** "
-        "pour le classement complet des portiers U23."
-    )
+sel = st.selectbox("Sélectionner", options, index=default_idx)
+row_sel = df_search[df_search["joueur_saison"] == sel].iloc[0]
+joueur_id = str(row_sel["joueur_id"])
+saison    = row_sel["saison_id"]
+
+for k in ["prefill_joueur","prefill_joueur_id","prefill_saison"]:
+    st.session_state.pop(k, None)
+
+df_fiche = get_joueur_fiche(joueur_id, saison)
+if df_fiche.empty:
+    st.warning("Données non disponibles pour cette sélection.")
     st.stop()
 
-df_radar = get_joueur_radar(str(row_sel["joueur_id"]), saison)
+row   = df_fiche.iloc[0]
+poste = row.get("poste_id") or row.get("poste_principal", "CM") or "CM"
 
-if df_radar.empty:
-    st.warning("Données radar non disponibles pour ce joueur sur cette saison.")
-    st.stop()
+render_player_header(row)
 
-row_radar = df_radar.iloc[0]
-poste     = row_radar.get("poste_principal") or row_sel["poste_id"]
+col_terrain, col_radar, col_sim = st.columns([1, 2, 1], gap="large")
 
-fig = radar_chart(row=row_radar, poste=poste, color=COLORS["primary"],
-                   title=f"{joueur_sel} — {saison}", show_moyenne=True)
-
-if fig is None:
-    st.warning(f"Radar non disponible pour le poste {poste}.")
-    st.stop()
-
-col_info, col_radar = st.columns([1, 2])
-
-with col_info:
-    st.markdown(f"""
-        <div class="player-card">
-            <div class="ligue-header">{row_radar.get('ligue', '')}</div>
-            <h2>{joueur_sel}</h2>
-            <p>🏟️ {row_radar.get('team_name', '')}</p>
-            <p>📍 Poste : <strong>{poste}</strong></p>
-            <p>⏱️ Minutes (saison) : {int(row_sel['minutes'] or 0):,}</p>
+with col_terrain:
+    render_html(f"""
+        <div style="font-size:0.65rem; font-weight:700;
+                    text-transform:uppercase; letter-spacing:2px;
+                    color:#8A8A8A; margin-bottom:10px;">
+            {icon('sports_soccer', 14)} Position
         </div>
-    """, unsafe_allow_html=True)
-
-    st.markdown("### Métriques clés /90 min")
-    metriques = {
-        "⚽ xG/90":           row_radar.get("xg_p90"),
-        "🎯 Buts/90":        row_radar.get("goals_p90"),
-        "🅰️ Assists/90":     row_radar.get("assists_p90"),
-        "🔑 Passes clés/90": row_radar.get("key_passes_p90"),
-        "🏃 Dribbles/90":    row_radar.get("dribbles_p90"),
-        "⚔️ Tacles/90":      row_radar.get("tackles_p90"),
-    }
-    for label, val in metriques.items():
-        if val is not None:
-            st.metric(label, f"{float(val):.3f}")
+        <div class="pitch-container">
+            {render_terrain_svg(poste, width=150)}
+        </div>
+        <div style="text-align:center; font-size:0.8rem;
+                    color:#2DAD7E; margin-top:8px;
+                    font-weight:600;">
+            {poste}
+        </div>
+    """)
 
 with col_radar:
+    color = row.get("couleur_hex") or "#2DAD7E"
+    nom_court = row.get("nom_court") or row.get("nom_complet", "Joueur")
+    fig = radar_single(row, poste, name=nom_court, color=color)
     st.plotly_chart(fig, use_container_width=True)
-    st.caption(
-        "Les percentiles sont calculés par rapport aux joueurs "
-        "du même poste avec ≥ 450 minutes jouées."
-    )
+
+with col_sim:
+    df_sim = get_profils_similaires(joueur_id, saison, poste)
+    render_similar_players(df_sim)
+
+st.markdown("---")
+st.markdown(f"#### {icon('bar_chart')} Percentiles par catégorie", unsafe_allow_html=True)
+
+CATS = {
+    "⚽ Offensif": {
+        "Buts/90":    row.get("pct_goals_p90"),
+        "xG/90":      row.get("pct_xg_p90"),
+        "Assists/90": row.get("pct_assists_p90"),
+        "xAG/90":     row.get("pct_xag_p90"),
+        "Tirs/90":    row.get("pct_shots_p90"),
+    },
+    "🎯 Passes": {
+        "Key Passes/90":  row.get("pct_key_passes_p90"),
+        "Précision pass": row.get("pct_passes_pct"),
+        "Dribbles/90":    row.get("pct_dribbles_p90"),
+    },
+    "🛡️ Défense": {
+        "Tacles/90":       row.get("pct_tackles_p90"),
+        "Interceptions/90":row.get("pct_interceptions_p90"),
+        "Dégagements/90":  row.get("pct_degagements_p90"),
+        "Duels aériens":   row.get("pct_duels_aeriens_pct"),
+    },
+}
+
+c1, c2, c3 = st.columns(3, gap="large")
+for col_ui, (cat_label, metrics) in zip([c1,c2,c3], CATS.items()):
+    with col_ui:
+        render_pct_bars(metrics, title=cat_label)
+
+st.markdown("---")
+render_strengths_weaknesses(row)

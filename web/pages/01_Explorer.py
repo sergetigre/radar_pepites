@@ -1,82 +1,88 @@
 import streamlit as st
+import pandas as pd
+from utils.db import get_classement
+from utils.sidebar import render_sidebar
+from utils.charts import scatter_xg_buts
+from utils.styles import inject_css, icon, render_html
 
-from utils.db import get_classement, get_ligues, get_postes, get_saisons
-from utils.styles import inject_css
-
-st.set_page_config(page_title="Explorer — RadarPépites", layout="wide")
+st.set_page_config(
+    page_title="Explorer · RadarPépites",
+    page_icon="🔍", layout="wide",
+)
 st.markdown(inject_css(), unsafe_allow_html=True)
 
-# ── Sidebar filtres ────────────────────────────────────────────
-with st.sidebar:
-    saisons = get_saisons()
-    saison  = st.selectbox("Saison", saisons)
+filtres = render_sidebar(page_active="explorer")
+saison, ligues, postes = filtres["saison"], filtres["ligues"], filtres["postes"]
+min_min, age_max       = filtres["min_min"], filtres["age_max"]
 
-    df_ligues  = get_ligues()
-    ligues_opt = df_ligues["nom_complet"].tolist()
-    ligues_sel = st.multiselect("Ligues", ligues_opt, default=ligues_opt)
-    ligues_ids = df_ligues[df_ligues["nom_complet"].isin(ligues_sel)]["ligue_id"].tolist()
+render_html(f"""
+    <h1 style="font-size:1.8rem; font-weight:800; margin-bottom:20px;">
+        {icon('search', 28)} Explorer
+    </h1>
+""")
 
-    df_postes  = get_postes()
-    postes_opt = df_postes[df_postes["poste_id"] != "GK"]["poste_id"].tolist()
-    postes_sel = st.multiselect("Postes", postes_opt, default=postes_opt)
-
-    age_max = st.slider("Âge maximum", 16, 23, 23)
-    min_min = st.slider("Minutes minimum", 90, 1800, 450, step=90)
-
-# ── Contenu ───────────────────────────────────────────────────
-st.title("🔍 Explorer les Pépites U23")
-
-df = get_classement(saison, ligues_ids, postes_sel, age_max, min_min)
-
-if df.empty:
-    st.warning("Aucun joueur trouvé avec ces filtres.")
+if not ligues or not postes:
+    st.warning("Sélectionnez au moins une ligue et un poste dans les filtres.")
     st.stop()
 
-c1, c2, c3 = st.columns(3)
-c1.metric("Joueurs trouvés", len(df))
-c2.metric("Score moyen", f"{df['score_corrige'].mean():.1f}")
-c3.metric("Score max", f"{df['score_corrige'].max():.1f}")
+df = get_classement(saison, ligues, postes, age_max, min_min)
 
-st.markdown("---")
-st.subheader(f"Classement Score Pépite — {saison}")
+if df.empty:
+    st.info("Aucun joueur ne correspond aux filtres actuels.")
+    st.stop()
 
-df_display = df[[
-    "rang_global", "joueur", "poste_id", "ligue",
-    "equipe", "age", "score_corrige", "score_pepite",
-    "xg_p90", "buts_p90", "assists_p90",
-    "key_passes_p90", "dribbles_p90",
-    "tackles_p90", "interceptions_p90",
-    "minutes", "rating_reference",
-]].rename(columns={
-    "rang_global":       "Rang",
-    "joueur":            "Joueur",
-    "poste_id":          "Poste",
-    "ligue":             "Ligue",
-    "equipe":            "Équipe",
-    "age":               "Âge",
-    "score_corrige":     "Score ★",
-    "score_pepite":      "Score brut",
-    "xg_p90":            "xG/90",
-    "buts_p90":          "Buts/90",
-    "assists_p90":       "Ast/90",
-    "key_passes_p90":    "KP/90",
-    "dribbles_p90":      "Drib/90",
-    "tackles_p90":       "Tac/90",
-    "interceptions_p90": "Int/90",
-    "minutes":           "Minutes",
-    "rating_reference":  "Rating réf.",
-})
-
-st.dataframe(
-    df_display,
-    use_container_width=True,
-    hide_index=True,
-    column_config={
-        "Score ★": st.column_config.ProgressColumn(
-            "Score ★", min_value=0, max_value=100, format="%.1f",
-        ),
-    },
+recherche = st.text_input(
+    "🔍 Recherche rapide",
+    placeholder="Filtrer par nom de joueur...",
 )
+if recherche:
+    df = df[df["joueur"].str.contains(recherche, case=False, na=False)]
 
-csv = df_display.to_csv(index=False).encode("utf-8")
-st.download_button("⬇️ Télécharger CSV", csv, f"radarpepites_{saison}.csv", "text/csv")
+tab_classement, tab_graphiques = st.tabs(["📋 Classement", "📊 Graphiques"])
+
+COLONNES_AFFICHEES = {
+    "rang_global":  "Rang",
+    "joueur":       "Joueur",
+    "equipe":       "Équipe",
+    "ligue":        "Ligue",
+    "poste_id":     "Poste",
+    "age":          "Âge",
+    "score_corrige":"Score ★",
+    "xg_p90":       "xG/90",
+    "buts_p90":     "Buts/90",
+    "minutes":      "Minutes",
+}
+
+with tab_classement:
+    df_aff = df[list(COLONNES_AFFICHEES.keys())].rename(columns=COLONNES_AFFICHEES)
+
+    event = st.dataframe(
+        df_aff,
+        use_container_width=True,
+        hide_index=True,
+        on_select="rerun",
+        selection_mode="single-row",
+        key="explorer_table",
+    )
+
+    csv = df_aff.to_csv(index=False).encode("utf-8")
+    st.download_button(
+        "⬇️ Exporter en CSV", csv,
+        file_name=f"radarpepites_classement_{saison}.csv",
+        mime="text/csv",
+    )
+
+    if event.selection and event.selection.get("rows"):
+        idx_sel = event.selection["rows"][0]
+        row_sel = df.iloc[idx_sel]
+        st.session_state["prefill_joueur"]    = row_sel["joueur"]
+        st.session_state["prefill_joueur_id"] = row_sel["joueur_id"]
+        st.session_state["prefill_saison"]    = saison
+        st.switch_page("pages/02_Radar_Joueur.py")
+
+with tab_graphiques:
+    df_g = df.dropna(subset=["xg_p90","buts_p90"])
+    if not df_g.empty:
+        st.plotly_chart(scatter_xg_buts(df_g), use_container_width=True)
+    else:
+        st.caption("Données insuffisantes pour le graphique.")
