@@ -1,0 +1,44 @@
+2026-08-14 02:15:02,001 [INFO] =================================================================
+2026-08-14 02:15:02,001 [INFO]   RadarPepites - Gold Builder - Score Pepite
+2026-08-14 02:15:02,001 [INFO]   Demarrage : 2026-08-14 02:15:02
+2026-08-14 02:15:02,002 [INFO] =================================================================
+2026-08-14 02:15:02,002 [INFO] Preparation des colonnes Score Pepite...
+2026-08-14 02:15:02,468 [INFO]   Colonnes creees / verifiees
+2026-08-14 02:15:03,024 [INFO]   16051 lignes lues depuis public.fact_stats
+2026-08-14 02:15:03,381 [INFO]   Percentiles calcules pour 18 metriques
+2026-08-14 02:15:03,813 [INFO]   Score Pepite calcule pour 11197 joueurs
+2026-08-14 02:15:03,832 [INFO]   Rangs calcules
+2026-08-14 02:15:03,836 [INFO]   Chargement de 16051 lignes dans tmp_score_pepite...
+2026-08-14 02:15:07,099 [INFO]   16051 lignes mises a jour dans fact_stats
+2026-08-14 02:15:07,206 [INFO]   Vue gold.vue_score_pepite_ranking creee
+2026-08-14 02:15:07,428 [INFO] 
+=================================================================
+2026-08-14 02:15:07,429 [INFO]   VERIFICATION FINALE
+2026-08-14 02:15:07,429 [INFO] =================================================================
+2026-08-14 02:15:07,429 [INFO]   Total fact_stats    : 16052
+2026-08-14 02:15:07,429 [INFO]   Avec Score Pepite   : 11197
+2026-08-14 02:15:07,429 [INFO]   U23 avec Score      : 3690
+2026-08-14 02:15:07,429 [INFO] 
+=== TOP 10 PEPITES U23 — 2024-2025 ===
+2026-08-14 02:15:07,448 [INFO]  rang         joueur poste_id          ligue              equipe  score_pepite  score_corrige  xg_p90  buts_p90  age
+    1  Michael Olise       RW     Bundesliga   FC Bayern München          96.3           92.5   0.374     0.460   23
+    2    Bukayo Saka       RW Premier League             Arsenal          91.4           91.4   0.355     0.311   23
+    5   Lamine Yamal       RW        La Liga        FC Barcelona          89.7           87.9   0.309     0.283   17
+    2  Florian Wirtz       AM     Bundesliga Bayer 04 Leverkusen          90.8           87.2   0.359     0.382   21
+    3   Fermín López       AM        La Liga        FC Barcelona          88.8           87.0   0.407     0.430   21
+    6  Karim Adeyemi       RW     Bundesliga   Borussia Dortmund          90.3           86.7   0.341     0.436   22
+    8   Hugo Ekitiké       FW     Bundesliga Eintracht Frankfurt          90.4           86.7   0.757     0.524   22
+    1    Luka Tunjić       MF     Eredivisie     Fortuna Sittard         100.0           86.0   0.148     0.187   19
+    4    Cole Palmer       AM Premier League             Chelsea          85.3           85.3   0.486     0.423   22
+    1 Michael Kayode       RB Premier League           Brentford          83.3           83.3   0.035     0.000   20
+2026-08-14 02:15:07,452 [INFO] 
+=== TOP 5 GARDIENS U23 — 2024-2025 ===
+2026-08-14 02:15:07,456 [INFO]  rang            joueur      ligue                equipe  score_pepite  score_corrige  age
+    9       Joan García    La Liga              Espanyol          79.3           77.7   23
+   12     Senne Lammens Pro League      Royal Antwerp FC          92.6           76.9   22
+   13       Kauã Santos Bundesliga   Eintracht Frankfurt          79.9           76.7   21
+   22   Lucas Chevalier    Ligue 1                 Lille          77.7           71.5   23
+   30 Martin Delavallée Pro League RC Sporting Charleroi          84.8           70.4   20
+2026-08-14 02:15:07,456 [INFO] =================================================================
+2026-08-14 02:15:07,457 [INFO] 
+  Termine en 0m 5s

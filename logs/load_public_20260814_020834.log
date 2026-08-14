@@ -1,0 +1,5 @@
+2026-08-14 02:08:34,383 [INFO] Log : C:\Users\serge\Documents\02_DEV_PROJETS\radar_pepites\logs\load_public_20260814_020834.log
+2026-08-14 02:08:34,446 [INFO] [7/7] players_combined + keepers_combined -> public.fact_stats
+2026-08-14 02:08:36,463 [INFO]   17249 lignes à upserter (joueurs + gardiens)
+2026-08-14 02:14:29,209 [INFO]   [OK] 17249 lignes
+2026-08-14 02:14:29,254 [INFO] Termine : fact_stats repropage avec les 10 nouvelles colonnes.

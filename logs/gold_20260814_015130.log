@@ -1,0 +1,179 @@
+2026-08-14 01:51:30,143 [INFO] =================================================================
+2026-08-14 01:51:30,145 [INFO]   RadarPepites - Gold Builder - Score Pepite
+2026-08-14 01:51:30,146 [INFO]   Demarrage : 2026-08-14 01:51:30
+2026-08-14 01:51:30,149 [INFO] =================================================================
+2026-08-14 01:51:30,150 [INFO] Preparation des colonnes Score Pepite...
+2026-08-14 01:51:31,530 [INFO]   Colonnes creees / verifiees
+2026-08-14 01:51:31,649 [ERROR] ERREUR FATALE : Execution failed on sql '
+        SELECT
+            f.stat_id, f.joueur_id, f.ligue_id, f.saison_id,
+            f.poste_id, f.est_u23, f.minutes, f.minutes_p90,
+            f.matchs_joues, f.matchs_titulaire,
+            f.buts_p90, f.passes_dec_p90, f.xg_p90, f.xag_p90,
+            f.tirs_p90, f.tirs_cadres_p90,
+            f.dribbles_p90, f.key_passes_p90,
+            f.tackles_p90, f.interceptions_p90,
+            f.degagements_p90, f.duels_aeriens_pct, f.passes_pct,
+            f.saves_p90, f.goals_prevented, f.save_pct,
+            f.clean_sheets_pct, f.long_balls_pct,
+            f.rating
+        FROM public.fact_stats f
+        WHERE f.poste_id IS NOT NULL
+    ': (psycopg2.errors.UndefinedColumn) column f.dribbles_p90 does not exist
+LINE 8:             f.dribbles_p90, f.key_passes_p90,
+                    ^
+HINT:  Perhaps you meant to reference the column "f.dribbles_pct".
+
+[SQL: 
+        SELECT
+            f.stat_id, f.joueur_id, f.ligue_id, f.saison_id,
+            f.poste_id, f.est_u23, f.minutes, f.minutes_p90,
+            f.matchs_joues, f.matchs_titulaire,
+            f.buts_p90, f.passes_dec_p90, f.xg_p90, f.xag_p90,
+            f.tirs_p90, f.tirs_cadres_p90,
+            f.dribbles_p90, f.key_passes_p90,
+            f.tackles_p90, f.interceptions_p90,
+            f.degagements_p90, f.duels_aeriens_pct, f.passes_pct,
+            f.saves_p90, f.goals_prevented, f.save_pct,
+            f.clean_sheets_pct, f.long_balls_pct,
+            f.rating
+        FROM public.fact_stats f
+        WHERE f.poste_id IS NOT NULL
+    ]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-08-14 01:51:31,670 [ERROR] Traceback (most recent call last):
+  File "C:\Users\serge\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\sqlalchemy\engine\base.py", line 1969, in _exec_single_context
+    self.dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor, str_statement, effective_parameters, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\serge\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\sqlalchemy\engine\default.py", line 952, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.errors.UndefinedColumn: column f.dribbles_p90 does not exist
+LINE 8:             f.dribbles_p90, f.key_passes_p90,
+                    ^
+HINT:  Perhaps you meant to reference the column "f.dribbles_pct".
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\serge\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\pandas\io\sql.py", line 1679, in execute
+    return execute_function(sql, *args)
+  File "C:\Users\serge\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\sqlalchemy\engine\base.py", line 1781, in exec_driver_sql
+    ret = self._execute_context(
+        dialect,
+    ...<5 lines>...
+        distilled_parameters,
+    )
+  File "C:\Users\serge\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\sqlalchemy\engine\base.py", line 1848, in _execute_context
+    return self._exec_single_context(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        dialect, context, statement, parameters
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\serge\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\sqlalchemy\engine\base.py", line 1988, in _exec_single_context
+    self._handle_dbapi_exception(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        e, str_statement, effective_parameters, cursor, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\serge\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\sqlalchemy\engine\base.py", line 2365, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "C:\Users\serge\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\sqlalchemy\engine\base.py", line 1969, in _exec_single_context
+    self.dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor, str_statement, effective_parameters, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\serge\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\sqlalchemy\engine\default.py", line 952, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+sqlalchemy.exc.ProgrammingError: (psycopg2.errors.UndefinedColumn) column f.dribbles_p90 does not exist
+LINE 8:             f.dribbles_p90, f.key_passes_p90,
+                    ^
+HINT:  Perhaps you meant to reference the column "f.dribbles_pct".
+
+[SQL: 
+        SELECT
+            f.stat_id, f.joueur_id, f.ligue_id, f.saison_id,
+            f.poste_id, f.est_u23, f.minutes, f.minutes_p90,
+            f.matchs_joues, f.matchs_titulaire,
+            f.buts_p90, f.passes_dec_p90, f.xg_p90, f.xag_p90,
+            f.tirs_p90, f.tirs_cadres_p90,
+            f.dribbles_p90, f.key_passes_p90,
+            f.tackles_p90, f.interceptions_p90,
+            f.degagements_p90, f.duels_aeriens_pct, f.passes_pct,
+            f.saves_p90, f.goals_prevented, f.save_pct,
+            f.clean_sheets_pct, f.long_balls_pct,
+            f.rating
+        FROM public.fact_stats f
+        WHERE f.poste_id IS NOT NULL
+    ]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\serge\Documents\02_DEV_PROJETS\radar_pepites\etl\load\gold_builder.py", line 473, in run
+    df = load_fact_stats()
+  File "C:\Users\serge\Documents\02_DEV_PROJETS\radar_pepites\etl\load\gold_builder.py", line 209, in load_fact_stats
+    df = pd.read_sql(query, engine)
+  File "C:\Users\serge\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\pandas\io\sql.py", line 730, in read_sql
+    return pandas_sql.read_query(
+           ~~~~~~~~~~~~~~~~~~~~~^
+        sql,
+        ^^^^
+    ...<6 lines>...
+        dtype=dtype,
+        ^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\serge\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\pandas\io\sql.py", line 1856, in read_query
+    result = self.execute(sql, params)
+  File "C:\Users\serge\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\pandas\io\sql.py", line 1681, in execute
+    raise DatabaseError(f"Execution failed on sql '{sql}': {exc}") from exc
+pandas.errors.DatabaseError: Execution failed on sql '
+        SELECT
+            f.stat_id, f.joueur_id, f.ligue_id, f.saison_id,
+            f.poste_id, f.est_u23, f.minutes, f.minutes_p90,
+            f.matchs_joues, f.matchs_titulaire,
+            f.buts_p90, f.passes_dec_p90, f.xg_p90, f.xag_p90,
+            f.tirs_p90, f.tirs_cadres_p90,
+            f.dribbles_p90, f.key_passes_p90,
+            f.tackles_p90, f.interceptions_p90,
+            f.degagements_p90, f.duels_aeriens_pct, f.passes_pct,
+            f.saves_p90, f.goals_prevented, f.save_pct,
+            f.clean_sheets_pct, f.long_balls_pct,
+            f.rating
+        FROM public.fact_stats f
+        WHERE f.poste_id IS NOT NULL
+    ': (psycopg2.errors.UndefinedColumn) column f.dribbles_p90 does not exist
+LINE 8:             f.dribbles_p90, f.key_passes_p90,
+                    ^
+HINT:  Perhaps you meant to reference the column "f.dribbles_pct".
+
+[SQL: 
+        SELECT
+            f.stat_id, f.joueur_id, f.ligue_id, f.saison_id,
+            f.poste_id, f.est_u23, f.minutes, f.minutes_p90,
+            f.matchs_joues, f.matchs_titulaire,
+            f.buts_p90, f.passes_dec_p90, f.xg_p90, f.xag_p90,
+            f.tirs_p90, f.tirs_cadres_p90,
+            f.dribbles_p90, f.key_passes_p90,
+            f.tackles_p90, f.interceptions_p90,
+            f.degagements_p90, f.duels_aeriens_pct, f.passes_pct,
+            f.saves_p90, f.goals_prevented, f.save_pct,
+            f.clean_sheets_pct, f.long_balls_pct,
+            f.rating
+        FROM public.fact_stats f
+        WHERE f.poste_id IS NOT NULL
+    ]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+

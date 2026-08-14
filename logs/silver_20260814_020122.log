@@ -1,0 +1,6 @@
+2026-08-14 02:01:22,025 [INFO] Log : C:\Users\serge\Documents\02_DEV_PROJETS\radar_pepites\logs\silver_20260814_020122.log
+2026-08-14 02:01:22,065 [INFO] [3/7] Construction silver.players_combined
+2026-08-14 02:07:53,331 [INFO]   [OK] players_combined — 16260 lignes upsertées
+2026-08-14 02:07:53,378 [INFO] [6/7] Construction silver.keepers_combined
+2026-08-14 02:08:18,264 [INFO]   [OK] keepers_combined — 1200 lignes upsertées
+2026-08-14 02:08:18,266 [INFO] Termine : players_combined + keepers_combined regeneres avec les nouvelles colonnes.

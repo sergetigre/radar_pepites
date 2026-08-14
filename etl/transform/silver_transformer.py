@@ -695,6 +695,7 @@ def build_players_combined(engine, logger: logging.Logger):
             ps.shots_on_target_p90, ps.key_passes_p90,
             ps.tackles_p90, ps.interceptions_p90,
             ps.successful_dribbles / NULLIF(ps.minutes_played, 0) * 90 AS dribbles_p90,
+            ps.clearances / NULLIF(ps.minutes_played, 0) * 90 AS degagements_p90,
             pi.annee_naissance AS born, pi.date_naissance, pi.is_u23,
             pi.nationalite_id, pi.poste_principal, pi.pied_dominant, pi.taille_cm
         FROM silver.players_sofascore ps
@@ -770,7 +771,7 @@ def build_players_combined(engine, logger: logging.Logger):
         "goals_fb","assists_fb","shots_fb","shots_on_target_fb",
         "tackles_won_fb","interceptions_fb","aerial_won_pct_fb","minutes_fb",
         "goals_p90","assists_p90","xg_p90","xa_p90","shots_p90",
-        "key_passes_p90","tackles_p90","interceptions_p90","dribbles_p90",
+        "key_passes_p90","tackles_p90","interceptions_p90","dribbles_p90","degagements_p90",
         "has_fbref_data","has_sofascore_data","date_maj",
     ]
     df_out = df_merged
@@ -793,7 +794,7 @@ def build_players_combined(engine, logger: logging.Logger):
              goals_fb, assists_fb, shots_fb, shots_on_target_fb,
              tackles_won_fb, interceptions_fb, aerial_won_pct_fb, minutes_fb,
              goals_p90, assists_p90, xg_p90, xa_p90, shots_p90,
-             key_passes_p90, tackles_p90, interceptions_p90, dribbles_p90,
+             key_passes_p90, tackles_p90, interceptions_p90, dribbles_p90, degagements_p90,
              has_fbref_data, has_sofascore_data, date_maj)
         VALUES
             (:player_id_ss, :player_name, :born, :date_naissance, :is_u23,
@@ -806,7 +807,7 @@ def build_players_combined(engine, logger: logging.Logger):
              :goals_fb, :assists_fb, :shots_fb, :shots_on_target_fb,
              :tackles_won_fb, :interceptions_fb, :aerial_won_pct_fb, :minutes_fb,
              :goals_p90, :assists_p90, :xg_p90, :xa_p90, :shots_p90,
-             :key_passes_p90, :tackles_p90, :interceptions_p90, :dribbles_p90,
+             :key_passes_p90, :tackles_p90, :interceptions_p90, :dribbles_p90, :degagements_p90,
              :has_fbref_data, :has_sofascore_data, :date_maj)
         ON CONFLICT (player_id_ss, saison_id, team_id) DO UPDATE SET
             player_name             = EXCLUDED.player_name,
@@ -849,6 +850,7 @@ def build_players_combined(engine, logger: logging.Logger):
             tackles_p90             = EXCLUDED.tackles_p90,
             interceptions_p90       = EXCLUDED.interceptions_p90,
             dribbles_p90            = EXCLUDED.dribbles_p90,
+            degagements_p90         = EXCLUDED.degagements_p90,
             has_fbref_data          = EXCLUDED.has_fbref_data,
             has_sofascore_data      = EXCLUDED.has_sofascore_data,
             date_maj                = EXCLUDED.date_maj
@@ -1075,7 +1077,7 @@ def build_keepers_combined(engine, logger: logging.Logger):
                 ks.rating AS rating_ss,
                 ks.minutes_played AS minutes_ss,
                 ks.appearances AS appearances_ss,
-                ks.saves_p90,
+                ks.saves_p90, ks.accurate_long_balls_pct AS long_balls_pct,
                 pi.annee_naissance AS born, pi.date_naissance, pi.is_u23, pi.nationalite_id
             FROM silver.keepers_sofascore ks
             LEFT JOIN silver.players_info pi ON ks.player_id_ss = pi.player_id_ss
@@ -1112,7 +1114,7 @@ def build_keepers_combined(engine, logger: logging.Logger):
         "team_name","team_id","ligue_id","saison_id",
         "saves_ss","goals_prevented_ss","rating_ss","minutes_ss","appearances_ss",
         "saves_fb","save_pct_fb","goals_against_fb","goals_against_p90_fb",
-        "clean_sheets_fb","clean_sheets_pct_fb","pk_saved_fb","saves_p90",
+        "clean_sheets_fb","clean_sheets_pct_fb","pk_saved_fb","saves_p90","long_balls_pct",
         "has_fbref_data","has_sofascore_data","date_maj",
     ]
     for c in silver_cols:
@@ -1126,14 +1128,14 @@ def build_keepers_combined(engine, logger: logging.Logger):
              team_name, team_id, ligue_id, saison_id,
              saves_ss, goals_prevented_ss, rating_ss, minutes_ss, appearances_ss,
              saves_fb, save_pct_fb, goals_against_fb, goals_against_p90_fb,
-             clean_sheets_fb, clean_sheets_pct_fb, pk_saved_fb, saves_p90,
+             clean_sheets_fb, clean_sheets_pct_fb, pk_saved_fb, saves_p90, long_balls_pct,
              has_fbref_data, has_sofascore_data, date_maj)
         VALUES
             (:player_id_ss, :player_name, :born, :date_naissance, :is_u23, :nationalite_id,
              :team_name, :team_id, :ligue_id, :saison_id,
              :saves_ss, :goals_prevented_ss, :rating_ss, :minutes_ss, :appearances_ss,
              :saves_fb, :save_pct_fb, :goals_against_fb, :goals_against_p90_fb,
-             :clean_sheets_fb, :clean_sheets_pct_fb, :pk_saved_fb, :saves_p90,
+             :clean_sheets_fb, :clean_sheets_pct_fb, :pk_saved_fb, :saves_p90, :long_balls_pct,
              :has_fbref_data, :has_sofascore_data, :date_maj)
         ON CONFLICT (player_id_ss, saison_id, team_id) DO UPDATE SET
             player_name         = EXCLUDED.player_name,
@@ -1154,6 +1156,7 @@ def build_keepers_combined(engine, logger: logging.Logger):
             clean_sheets_pct_fb = EXCLUDED.clean_sheets_pct_fb,
             pk_saved_fb         = EXCLUDED.pk_saved_fb,
             saves_p90           = EXCLUDED.saves_p90,
+            long_balls_pct      = EXCLUDED.long_balls_pct,
             has_fbref_data      = EXCLUDED.has_fbref_data,
             has_sofascore_data  = EXCLUDED.has_sofascore_data,
             date_maj            = EXCLUDED.date_maj
