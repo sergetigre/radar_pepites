@@ -10,6 +10,7 @@ from utils.styles import inject_css, icon, render_html
 st.set_page_config(
     page_title="Comparaison · RadarPépites",
     page_icon="⚖️", layout="wide",
+    initial_sidebar_state="expanded",
 )
 st.markdown(inject_css(), unsafe_allow_html=True)
 

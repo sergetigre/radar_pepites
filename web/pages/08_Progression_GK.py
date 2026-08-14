@@ -8,6 +8,7 @@ from utils.styles import inject_css, icon, render_html
 st.set_page_config(
     page_title="Progression GK · RadarPépites",
     page_icon="📈", layout="wide",
+    initial_sidebar_state="expanded",
 )
 st.markdown(inject_css(), unsafe_allow_html=True)
 render_sidebar(page_active="gk_prog")

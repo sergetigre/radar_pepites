@@ -336,6 +336,12 @@ def inject_css() -> str:
     #MainMenu { visibility: hidden; }
     footer    { visibility: hidden; }
     header    { visibility: hidden; }
+    /* Le bouton pour rouvrir la sidebar une fois repliée vit dans ce même
+       <header> masqué ci-dessus — sans cette ligne, impossible de la
+       rouvrir une fois fermée. */
+    [data-testid="stExpandSidebarButton"] {
+        visibility: visible !important;
+    }
 
     /* Réduire légèrement la police des checkboxes de ligues pour accueillir
        les noms complets sans retour à la ligne */
@@ -366,24 +372,16 @@ def inject_css() -> str:
         [data-testid="stSidebar"] {
             min-width: 100% !important;
         }
-        .player-name { font-size: 1.3rem; }
-
-        /* Empêcher la sidebar de se refermer automatiquement sur mobile/
-           tablette (ex: après un clic sur un bouton "Tout"/"Aucun" qui
-           déclenche un rerun). Uniquement sous ce breakpoint : au-delà,
-           on laisse le bouton natif de réduction fonctionner normalement. */
-        [data-testid="stSidebar"] {
-            transform: none !important;
-            visibility: visible !important;
-        }
+        /* Streamlit masque la sidebar repliée avec un décalage fixe
+           (-300px), calibré pour sa largeur desktop (~280px). Sur mobile
+           elle fait 100% de l'écran (ci-dessus), donc ce décalage fixe ne
+           suffit plus à la sortir entièrement de l'écran — on le remplace
+           par un décalage relatif à sa propre largeur, qui reste correct
+           quelle que soit la taille d'écran. */
         [data-testid="stSidebar"][aria-expanded="false"] {
-            transform: none !important;
-            margin-left: 0 !important;
-            visibility: visible !important;
+            transform: translateX(-100%) !important;
         }
-        [data-testid="stAppViewContainer"] > .main {
-            margin-left: 0 !important;
-        }
+        .player-name { font-size: 1.3rem; }
     }
 
     </style>
