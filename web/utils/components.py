@@ -140,15 +140,18 @@ def render_terrain_svg(poste: str, width: int = 160) -> str:
     Mini terrain SVG avec le poste mis en évidence.
     Retourne le HTML à injecter (via render_html côté appelant).
     """
+    # Terrain 100x140, ligne médiane à y=70, but adverse en haut (FW proche
+    # de y=5-25) : l'équipe attaque vers y=0. Les défenseurs doivent donc
+    # rester nettement sous y=70 (dans leur moitié), pas dessus.
     POSITIONS = {
-        "GK":  (50, 88),
-        "CB":  (50, 70), "LB": (20, 70), "RB": (80, 70),
-        "DM":  (50, 55),
-        "CM":  (50, 42), "LM": (20, 42), "RM": (80, 42),
-        "AM":  (50, 30),
-        "LW":  (18, 20), "RW": (82, 20),
-        "FW":  (50, 12),
-        "MF":  (50, 42), "DF": (50, 70),
+        "GK":  (50, 122),
+        "CB":  (50, 100), "LB": (18, 100), "RB": (82, 100),
+        "DM":  (50, 80),
+        "CM":  (50, 60), "LM": (18, 60), "RM": (82, 60),
+        "AM":  (50, 40),
+        "LW":  (15, 25), "RW": (85, 25),
+        "FW":  (50, 15),
+        "MF":  (50, 60), "DF": (50, 100),
     }
 
     px, py = POSITIONS.get(poste, (50, 50))
