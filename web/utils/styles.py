@@ -39,9 +39,20 @@ def inject_css() -> str:
     /* ── Sidebar ─────────────────────────────────────── */
     [data-testid="stSidebar"] {
         background: #0D0D0D;
-        min-width: 260px !important;
-        max-width: 280px !important;
         border-right: 1px solid #1A1A1A;
+    }
+    /* min/max-width uniquement à l'état déplié ET au-delà du breakpoint
+       mobile : les appliquer sans condition empêche le contenu principal
+       de récupérer l'espace libéré quand la sidebar est repliée (elle
+       garde sa largeur réservée dans le layout flex même si le transform
+       la déplace hors écran) ; le media query évite aussi que cette règle
+       (plus spécifique que la règle mobile min-width:100%) l'emporte sur
+       elle par spécificité CSS. */
+    @media (min-width: 769px) {
+        [data-testid="stSidebar"][aria-expanded="true"] {
+            min-width: 260px !important;
+            max-width: 280px !important;
+        }
     }
     [data-testid="stSidebar"] .stCheckbox label {
         font-size: 0.82rem;
