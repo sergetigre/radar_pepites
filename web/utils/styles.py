@@ -337,24 +337,6 @@ def inject_css() -> str:
     footer    { visibility: hidden; }
     header    { visibility: hidden; }
 
-    /* ── Empêcher la sidebar de se refermer automatiquement (mobile/tablette) */
-    [data-testid="stSidebar"] {
-        transform: none !important;
-        visibility: visible !important;
-        min-width: 260px !important;
-        max-width: 280px !important;
-    }
-    [data-testid="stSidebar"][aria-expanded="false"] {
-        transform: none !important;
-        margin-left: 0 !important;
-        visibility: visible !important;
-    }
-    /* Le contenu principal garde sa marge comme si la sidebar était toujours
-       ouverte, pour éviter tout chevauchement avec le panneau forcé visible */
-    [data-testid="stAppViewContainer"] > .main {
-        margin-left: 0 !important;
-    }
-
     /* Réduire légèrement la police des checkboxes de ligues pour accueillir
        les noms complets sans retour à la ligne */
     [data-testid="stSidebar"] .stCheckbox label p {
@@ -385,6 +367,23 @@ def inject_css() -> str:
             min-width: 100% !important;
         }
         .player-name { font-size: 1.3rem; }
+
+        /* Empêcher la sidebar de se refermer automatiquement sur mobile/
+           tablette (ex: après un clic sur un bouton "Tout"/"Aucun" qui
+           déclenche un rerun). Uniquement sous ce breakpoint : au-delà,
+           on laisse le bouton natif de réduction fonctionner normalement. */
+        [data-testid="stSidebar"] {
+            transform: none !important;
+            visibility: visible !important;
+        }
+        [data-testid="stSidebar"][aria-expanded="false"] {
+            transform: none !important;
+            margin-left: 0 !important;
+            visibility: visible !important;
+        }
+        [data-testid="stAppViewContainer"] > .main {
+            margin-left: 0 !important;
+        }
     }
 
     </style>
