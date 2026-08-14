@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 from utils.db import get_joueur_fiche, get_profils_similaires, get_saisons
-from utils.sidebar import render_sidebar
+from utils.sidebar import render_filters
 from utils.search import player_searchbox
 from utils.charts import radar_single
 from utils.components import (
@@ -9,16 +9,9 @@ from utils.components import (
     render_pct_bars, render_strengths_weaknesses,
     render_similar_players,
 )
-from utils.styles import inject_css, icon, render_html
+from utils.styles import icon, render_html
 
-st.set_page_config(
-    page_title="Radar Joueur · RadarPépites",
-    page_icon="📊", layout="wide",
-    initial_sidebar_state="expanded",
-)
-st.markdown(inject_css(), unsafe_allow_html=True)
-
-render_sidebar(page_active="radar")
+render_filters()
 
 render_html(f"""
     <h1 style="font-size:1.8rem; font-weight:800; margin-bottom:20px;">

@@ -1,16 +1,9 @@
 import streamlit as st
 from utils.db import get_classement_gk
-from utils.sidebar import render_sidebar
-from utils.styles import inject_css, icon, render_html
+from utils.sidebar import render_filters
+from utils.styles import icon, render_html
 
-st.set_page_config(
-    page_title="Classement GK · RadarPépites",
-    page_icon="🧤", layout="wide",
-    initial_sidebar_state="expanded",
-)
-st.markdown(inject_css(), unsafe_allow_html=True)
-
-filtres = render_sidebar(page_active="gk_list")
+filtres = render_filters()
 saison, ligues, min_min = filtres["saison"], filtres["ligues"], filtres["min_min"]
 
 render_html(f"""

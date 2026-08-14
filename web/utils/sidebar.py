@@ -22,28 +22,28 @@ FAMILLES_POSTES = {
 
 ALL_POSTES = [p for f in FAMILLES_POSTES.values() for p in f]
 
+# (chemin de page, label, icône Material, en-tête de section)
+# Les icônes utilisent le shortcode natif :material/xxx: de st.page_link —
+# st.page_link gère lui-même la mise en avant de la page active.
 NAV_ITEMS = [
-    # (icon_name, label, path, key, section)
-    ("dashboard",     "Tableau de bord", "/",                  "dashboard", None),
-    (None, None, None, None, "JOUEURS DE CHAMP"),
-    ("search",        "Explorer",        "/Explorer",           "explorer", None),
-    ("radar",         "Radar Joueur",    "/Radar_Joueur",       "radar",    None),
-    ("compare_arrows","Comparaison",     "/Comparaison",        "compare",  None),
-    ("trending_up",   "Progression",     "/Progression",        "progress", None),
-    (None, None, None, None, "GARDIENS"),
-    ("format_list_bulleted","Classement GK","/Classement_GK",  "gk_list",  None),
-    ("radar",         "Radar GK",        "/Radar_GK",           "gk_radar", None),
-    ("compare_arrows","Comparaison GK",  "/Comparaison_GK",     "gk_compare",None),
-    ("trending_up",   "Progression GK",  "/Progression_GK",     "gk_prog",  None),
+    ("pages/00_Tableau_de_bord.py", "Tableau de bord", "dashboard", None),
+    (None, None, None, "JOUEURS DE CHAMP"),
+    ("pages/01_Explorer.py",       "Explorer",       "search",               None),
+    ("pages/02_Radar_Joueur.py",   "Radar Joueur",   "radar",                None),
+    ("pages/03_Comparaison.py",    "Comparaison",    "compare_arrows",       None),
+    ("pages/04_Progression.py",    "Progression",    "trending_up",          None),
+    (None, None, None, "GARDIENS"),
+    ("pages/05_Classement_GK.py",  "Classement GK",  "format_list_bulleted", None),
+    ("pages/06_Radar_GK.py",       "Radar GK",       "radar",                None),
+    ("pages/07_Comparaison_GK.py", "Comparaison GK", "compare_arrows",       None),
+    ("pages/08_Progression_GK.py", "Progression GK", "trending_up",          None),
 ]
 
 
-def render_sidebar(page_active: str = "") -> dict:
-    """
-    Sidebar complète :
-    logo + navigation groupée + filtres globaux persistants.
-    Retourne un dict des filtres actifs.
-    """
+def render_nav():
+    """Navigation sidebar (logo + liens). Appelée une seule fois depuis
+    app.py, avant st.navigation(...).run() — reste donc affichée sur
+    toutes les pages sans se recharger."""
     with st.sidebar:
 
         render_html("""
@@ -62,28 +62,21 @@ def render_sidebar(page_active: str = "") -> dict:
 
         render_html('<div style="border-top:1px solid #1A1A1A; margin:0 0 8px 0;"></div>')
 
-        for icon_name, label, path, key, section in NAV_ITEMS:
-
-            if icon_name is None:
+        for path, label, icon_name, section in NAV_ITEMS:
+            if path is None:
                 render_html(f'<div class="nav-section">{section}</div>')
                 continue
-
-            is_active = (key == page_active)
-            active_cls = "active" if is_active else ""
-            ic = icon(icon_name, size=18,
-                      color="#000000" if is_active else "#8A8A8A")
-
-            render_html(f"""
-                <a href="{path}" target="_self"
-                   class="nav-item {active_cls}">
-                    {ic}
-                    <span>{label}</span>
-                </a>
-            """)
+            st.page_link(path, label=label, icon=f":material/{icon_name}:")
 
         render_html('<div style="border-top:1px solid #1A1A1A; margin:12px 0 4px 0;"></div>')
 
-        # ── Filtres globaux ────────────────────────────────
+
+def render_filters() -> dict:
+    """Filtres globaux persistants (saison, ligues, postes, minutes, âge).
+    Appelée par chaque page, en dessous de la nav déjà affichée par app.py.
+    Retourne un dict des filtres actifs."""
+    with st.sidebar:
+
         render_html(f"""
             <div style="font-size:0.65rem; font-weight:700;
                         text-transform:uppercase; letter-spacing:2px;

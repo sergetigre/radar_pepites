@@ -1,18 +1,11 @@
 import streamlit as st
 import pandas as pd
 from utils.db import get_classement
-from utils.sidebar import render_sidebar
+from utils.sidebar import render_filters
 from utils.charts import scatter_xg_buts
-from utils.styles import inject_css, icon, render_html
+from utils.styles import icon, render_html
 
-st.set_page_config(
-    page_title="Explorer · RadarPépites",
-    page_icon="🔍", layout="wide",
-    initial_sidebar_state="expanded",
-)
-st.markdown(inject_css(), unsafe_allow_html=True)
-
-filtres = render_sidebar(page_active="explorer")
+filtres = render_filters()
 saison, ligues, postes = filtres["saison"], filtres["ligues"], filtres["postes"]
 min_min, age_max       = filtres["min_min"], filtres["age_max"]
 

@@ -64,38 +64,35 @@ def inject_css() -> str:
         display: none;
     }
 
-    /* ── Nav item ────────────────────────────────────── */
-    .nav-item {
-        display: flex;
-        align-items: center;
+    /* ── Nav item (st.page_link) ─────────────────────── */
+    /* st.page_link rend un <a data-testid="stPageLink-NavLink"> avec une
+       classe CSS-in-JS (hash emotion) qui change entre page active/inactive
+       — trop instable pour cibler l'état actif directement en CSS. On se
+       repose donc sur le léger fond gris que Streamlit applique déjà
+       nativement à la page active, et on se contente de recolorer texte
+       et icône pour coller au thème (par défaut : bleu-violet Streamlit). */
+    [data-testid="stSidebar"] [data-testid="stPageLink-NavLink"] {
         gap: 10px;
-        padding: 9px 8px;
+        padding: 9px 8px !important;
         border-radius: 8px;
         margin: 2px 0;
-        font-size: 0.9rem;
-        font-weight: 500;
-        transition: all 0.15s ease;
-        cursor: pointer;
+        transition: background 0.15s ease;
     }
-    /* Spécificité renforcée : le style de lien par défaut de Streamlit
-       (bleu souligné, injecté sur [data-testid="stMarkdownContainer"] a)
-       l'emporte sinon sur .nav-item seul. */
-    [data-testid="stSidebar"] a.nav-item,
-    [data-testid="stSidebar"] a.nav-item:visited {
+    [data-testid="stSidebar"] [data-testid="stPageLink-NavLink"]:hover {
+        background: #111111 !important;
+    }
+    [data-testid="stSidebar"] [data-testid="stPageLink-NavLink"] p {
+        font-size: 0.9rem !important;
+        font-weight: 500 !important;
+        color: #DADADA !important;
+    }
+    [data-testid="stSidebar"] [data-testid="stPageLink-NavLink"] [data-testid="stIconMaterial"] {
         color: #8A8A8A !important;
-        text-decoration: none !important;
+        font-size: 18px !important;
     }
-    [data-testid="stSidebar"] a.nav-item:hover {
-        background: #111111;
+    [data-testid="stSidebar"] [data-testid="stPageLink-NavLink"]:hover p,
+    [data-testid="stSidebar"] [data-testid="stPageLink-NavLink"]:hover [data-testid="stIconMaterial"] {
         color: #FFFFFF !important;
-    }
-    [data-testid="stSidebar"] a.nav-item.active {
-        background: #2DAD7E;
-        color: #000000 !important;
-        font-weight: 700;
-    }
-    .nav-item.active .material-icons-outlined {
-        color: #000000 !important;
     }
     .nav-section {
         font-size: 0.65rem;
