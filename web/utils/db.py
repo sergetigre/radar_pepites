@@ -265,23 +265,29 @@ def get_classement_gk(saison: str, ligues: list, min_min: int) -> pd.DataFrame:
 
 
 @st.cache_data(ttl=1800)
-def resolve_gk_joueur_id(nom: str, ligue_id: str, saison: str) -> str | None:
-    """Pont entre gold.vue_top_u23_gk (identifiant sofascore player_id_ss)
-    et fact_stats (identifiant interne joueur_id, attendu par get_gk_fiche) —
-    les deux espaces d'ID ne sont pas interchangeables, donc on résout par
-    nom + ligue + saison plutôt que par ID direct."""
+def get_top_gk_score(saison: str, ligue_id: str, min_min: int,
+                     age_max: int = 23, n: int = 10) -> pd.DataFrame:
+    """Top gardiens U23 par Score Pépite pour une ligue, sourcé directement
+    de fact_stats (pas gold.vue_top_u23_gk, dont l'identifiant sofascore
+    player_id_ss n'est pas compatible avec joueur_id/get_gk_fiche) — donne
+    à la fois le vrai joueur_id (utilisable pour un lien Radar GK) et le
+    score_pepite_corrige, absent de vue_top_u23_gk."""
     stmt = text("""
-        SELECT f.joueur_id
+        SELECT f.joueur_id, j.nom_complet AS joueur, e.nom_complet AS equipe,
+               f.age, f.score_pepite_corrige AS score_corrige
         FROM public.fact_stats f
         JOIN public.dim_joueurs j ON f.joueur_id = j.joueur_id
-        WHERE f.poste_id = 'GK' AND f.ligue_id = :ligue_id
-          AND f.saison_id = :saison AND LOWER(j.nom_complet) = LOWER(:nom)
-        LIMIT 1
+        JOIN public.dim_equipes e ON f.equipe_id = e.equipe_id
+        WHERE f.poste_id = 'GK' AND f.est_u23 = TRUE AND f.ligue_id = :ligue_id
+          AND f.saison_id = :saison AND f.minutes >= :min_min
+          AND f.age <= :age_max
+        ORDER BY f.score_pepite_corrige DESC NULLS LAST
+        LIMIT :n
     """)
-    df = pd.read_sql(stmt, get_engine(), params={
-        "nom": nom, "ligue_id": ligue_id, "saison": saison,
+    return pd.read_sql(stmt, get_engine(), params={
+        "saison": saison, "ligue_id": ligue_id, "min_min": min_min,
+        "age_max": age_max, "n": n,
     })
-    return df["joueur_id"].iloc[0] if not df.empty else None
 
 
 @st.cache_data(ttl=1800)

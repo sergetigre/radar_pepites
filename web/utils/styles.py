@@ -309,21 +309,48 @@ def inject_css() -> str:
     .stat-counter.full { background: #2DAD7E; color: #000; }
 
     /* ── Tabs ────────────────────────────────────────── */
-    .stTabs [data-baseweb="tab-list"] {
+    /* Le composant st.tabs de cette version de Streamlit est basé sur
+       react-aria (role="tablist" / [data-testid="stTab"]), pas sur les
+       anciens attributs data-baseweb — cibler data-baseweb ne matchait
+       donc plus rien et laissait les onglets au style par défaut. */
+    [data-testid="stTabs"] [role="tablist"] {
         background: #111111;
-        border-radius: 10px;
-        padding: 4px;
+        border-radius: 12px;
+        padding: 5px;
         gap: 4px;
+        overflow-x: auto;
     }
-    .stTabs [data-baseweb="tab"] {
-        border-radius: 8px;
+    [data-testid="stTab"] {
+        border-radius: 9px;
+        padding: 9px 20px;
+        cursor: pointer;
+        transition: background 0.15s ease;
+    }
+    [data-testid="stTab"] [data-testid="stMarkdownContainer"] p {
         color: #8A8A8A;
-        padding: 8px 20px;
+        font-size: 0.85rem;
+        font-weight: 600;
+        white-space: nowrap;
+        margin: 0;
+        transition: color 0.15s ease;
     }
-    .stTabs [aria-selected="true"] {
-        background: #2DAD7E !important;
-        color: #000000 !important;
+    [data-testid="stTab"]:hover {
+        background: rgba(255,255,255,0.06);
+    }
+    [data-testid="stTab"]:hover [data-testid="stMarkdownContainer"] p {
+        color: #FFFFFF;
+    }
+    [data-testid="stTab"][aria-selected="true"] {
+        background: #2DAD7E;
+    }
+    [data-testid="stTab"][aria-selected="true"] [data-testid="stMarkdownContainer"] p {
+        color: #000000;
         font-weight: 700;
+    }
+    /* Indicateur de soulignement natif (react-aria) : redondant et
+       visuellement en conflit avec le style pilule ci-dessus. */
+    [data-testid="stTab"] .react-aria-SelectionIndicator {
+        display: none;
     }
 
     /* ── Style du composant streamlit-searchbox (autocomplete) ──────── */

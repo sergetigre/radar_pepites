@@ -1,9 +1,6 @@
 import streamlit as st
 import pandas as pd
-from utils.db import (
-    get_ligues, get_saisons, get_classement, get_classement_gk,
-    resolve_gk_joueur_id,
-)
+from utils.db import get_ligues, get_saisons, get_classement, get_top_gk_score
 from utils.sidebar import render_filters
 from utils.styles import icon, render_html
 
@@ -60,6 +57,7 @@ POSTE_LABELS = {
 }
 
 df = get_classement(saison, [ligue_id], POSTES_ORDER, age_max, min_min)
+df_gk_top = get_top_gk_score(saison, ligue_id, min_min, age_max, n=3)
 
 if df.empty:
     st.info("Aucune donnée pour ce championnat avec les filtres actuels.")
@@ -82,49 +80,59 @@ def top_n_poste(poste: str, n: int = 3) -> pd.DataFrame:
     )
 
 
+def render_poste_rows(df_sub: pd.DataFrame, url_base: str):
+    """Liste compacte joueur/score/équipe, pour une colonne de la grille poste."""
+    if df_sub.empty:
+        st.caption("Aucune donnée")
+        return
+    rows_html = []
+    for rank, (_, row) in enumerate(df_sub.iterrows()):
+        medal = "🥇" if rank == 0 else "🔁"
+        href = f"{url_base}?joueur_id={row['joueur_id']}&saison={saison}"
+        rows_html.append(f"""
+            <a href="{href}" target="_self" style="text-decoration:none;">
+                <div style="padding:6px 2px; border-bottom:1px solid #1A1A1A;">
+                    <div style="display:flex; justify-content:space-between;
+                                align-items:baseline; gap:6px;">
+                        <span style="font-weight:700; color:#FFFFFF;
+                                    font-size:0.82rem; white-space:nowrap;
+                                    overflow:hidden; text-overflow:ellipsis;">
+                            {medal} {row['joueur']}
+                        </span>
+                        <span style="color:#2DAD7E; font-weight:700;
+                                    font-size:0.76rem; white-space:nowrap;">
+                            ★ {row['score_corrige']:.1f}
+                        </span>
+                    </div>
+                    <div style="color:#8A8A8A; font-size:0.7rem; margin-top:1px;">
+                        {row['equipe']} · {row['age']} ans
+                    </div>
+                </div>
+            </a>
+        """)
+    render_html("".join(rows_html))
+
+
+def render_poste_header(label: str):
+    render_html(f"""
+        <div style="font-size:0.7rem; font-weight:700;
+                    text-transform:uppercase; letter-spacing:1.5px;
+                    color:#8A8A8A; margin:16px 0 4px 0;
+                    border-bottom:1px solid #1A1A1A; padding-bottom:4px;">
+            {label}
+        </div>
+    """)
+
+
 cols_postes = st.columns(3)
 for i, poste in enumerate(POSTES_ORDER):
-    df_poste = top_n_poste(poste, 3)
     with cols_postes[i % 3]:
-        render_html(f"""
-            <div style="font-size:0.7rem; font-weight:700;
-                        text-transform:uppercase; letter-spacing:1.5px;
-                        color:#8A8A8A; margin:16px 0 4px 0;
-                        border-bottom:1px solid #1A1A1A; padding-bottom:4px;">
-                {POSTE_LABELS[poste]}
-            </div>
-        """)
+        render_poste_header(POSTE_LABELS[poste])
+        render_poste_rows(top_n_poste(poste, 3), "/Radar_Joueur")
 
-        if df_poste.empty:
-            st.caption("Aucune donnée")
-            continue
-
-        rows_html = []
-        for rank, (_, row) in enumerate(df_poste.iterrows()):
-            medal = "🥇" if rank == 0 else "🔁"
-            href = f"/Radar_Joueur?joueur_id={row['joueur_id']}&saison={saison}"
-            rows_html.append(f"""
-                <a href="{href}" target="_self" style="text-decoration:none;">
-                    <div style="padding:6px 2px; border-bottom:1px solid #1A1A1A;">
-                        <div style="display:flex; justify-content:space-between;
-                                    align-items:baseline; gap:6px;">
-                            <span style="font-weight:700; color:#FFFFFF;
-                                        font-size:0.82rem; white-space:nowrap;
-                                        overflow:hidden; text-overflow:ellipsis;">
-                                {medal} {row['joueur']}
-                            </span>
-                            <span style="color:#2DAD7E; font-weight:700;
-                                        font-size:0.76rem; white-space:nowrap;">
-                                ★ {row['score_corrige']:.1f}
-                            </span>
-                        </div>
-                        <div style="color:#8A8A8A; font-size:0.7rem; margin-top:1px;">
-                            {row['equipe']} · {row['age']} ans
-                        </div>
-                    </div>
-                </a>
-            """)
-        render_html("".join(rows_html))
+with cols_postes[len(POSTES_ORDER) % 3]:
+    render_poste_header("Gardien")
+    render_poste_rows(df_gk_top, "/Radar_GK")
 
 st.markdown("---")
 
@@ -203,10 +211,6 @@ st.markdown("---")
 st.markdown(f"### {icon('sports_soccer')} Onze type proposé", unsafe_allow_html=True)
 st.caption("Formation 4-3-3 — le meilleur profil disponible à chaque poste.")
 
-df_gk = get_classement_gk(saison, [ligue_id], min_min)
-gk_top = df_gk.sort_values("saves_p90", ascending=False).head(1) if not df_gk.empty else pd.DataFrame()
-
-
 def onze_card(nom, sous_texte, score=None, href=None):
     score_html = f'<span class="score-badge-sm">★ {score:.1f}</span>' if score is not None else ""
     inner = f"""
@@ -240,16 +244,13 @@ def ligne_formation(titre, cartes_html):
     """)
 
 
-# Gardien — gold.vue_top_u23_gk expose player_id_ss (identifiant sofascore),
-# pas joueur_id (celui de fact_stats attendu par get_gk_fiche/Radar GK) : on
-# résout le vrai joueur_id par nom+ligue+saison pour pouvoir tout de même
-# proposer un lien vers sa fiche.
-if not gk_top.empty:
-    g = gk_top.iloc[0]
-    nom_gk = g.get("player_name", "—")
-    gk_joueur_id = resolve_gk_joueur_id(nom_gk, ligue_id, saison) if nom_gk != "—" else None
-    href_gk = f"/Radar_GK?joueur_id={gk_joueur_id}&saison={saison}" if gk_joueur_id else None
-    cartes = [onze_card(nom_gk, g.get("team_name", ""), href=href_gk)]
+# Gardien — df_gk_top est sourcé de fact_stats (get_top_gk_score), donc
+# joueur_id est directement compatible avec Radar GK et score_corrige
+# est le vrai Score Pépite, pas besoin de résolution d'ID séparée.
+if not df_gk_top.empty:
+    g = df_gk_top.iloc[0]
+    href_gk = f"/Radar_GK?joueur_id={g['joueur_id']}&saison={saison}"
+    cartes = [onze_card(g["joueur"], g["equipe"], g["score_corrige"], href_gk)]
 else:
     cartes = [onze_card("—", "Gardien indisponible")]
 ligne_formation(f"{icon('sports_handball',14)} Gardien", cartes)
