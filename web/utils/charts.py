@@ -249,7 +249,7 @@ def line_progression(
         yaxis=dict(title="Valeur /90 min",
                    gridcolor="#1A1A1A",
                    zeroline=True,
-                   zerolinecolor="#2DAD7E22"),
+                   zerolinecolor="rgba(45,173,126,0.13)"),
         height=420,
         legend=dict(bgcolor="#111111", bordercolor="#1A1A1A"),
         **LAYOUT_BASE,
