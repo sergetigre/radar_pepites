@@ -1,6 +1,9 @@
 import streamlit as st
 import pandas as pd
-from utils.db import get_ligues, get_saisons, get_classement, get_classement_gk
+from utils.db import (
+    get_ligues, get_saisons, get_classement, get_classement_gk,
+    resolve_gk_joueur_id,
+)
 from utils.sidebar import render_filters
 from utils.styles import icon, render_html
 
@@ -45,10 +48,14 @@ with col_saison:
 ligue_id = ligue_options[ligue_nom]
 couleur_ligue = df_ligues[df_ligues["ligue_id"] == ligue_id]["couleur_hex"].iloc[0] or "#2DAD7E"
 
-POSTES_ORDER = ["FW", "LW", "RW", "AM", "CM", "DM", "CB", "LB", "RB"]
+# DM (Milieu défensif) volontairement absent : aucun joueur n'est jamais
+# classé DM dans la base actuelle (le pipeline de classification des
+# postes fait retomber tous les DM sur CM avant chargement — problème
+# identifié, pas encore corrigé). Formation à 2 CM + 1 AM en attendant.
+POSTES_ORDER = ["FW", "LW", "RW", "AM", "CM", "CB", "LB", "RB"]
 POSTE_LABELS = {
     "FW": "Avant-centre", "LW": "Ailier gauche", "RW": "Ailier droit",
-    "AM": "Milieu offensif", "CM": "Milieu central", "DM": "Milieu défensif",
+    "AM": "Milieu offensif", "CM": "Milieu central",
     "CB": "Défenseur central", "LB": "Latéral gauche", "RB": "Latéral droit",
 }
 
@@ -233,12 +240,16 @@ def ligne_formation(titre, cartes_html):
     """)
 
 
-# Gardien — pas de lien cliquable : gold.vue_top_u23_gk expose player_id_ss
-# (identifiant sofascore), pas joueur_id (celui de fact_stats attendu par
-# get_gk_fiche/Radar GK) — les deux espaces d'ID ne sont pas interchangeables.
+# Gardien — gold.vue_top_u23_gk expose player_id_ss (identifiant sofascore),
+# pas joueur_id (celui de fact_stats attendu par get_gk_fiche/Radar GK) : on
+# résout le vrai joueur_id par nom+ligue+saison pour pouvoir tout de même
+# proposer un lien vers sa fiche.
 if not gk_top.empty:
     g = gk_top.iloc[0]
-    cartes = [onze_card(g.get("player_name", "—"), g.get("team_name", ""))]
+    nom_gk = g.get("player_name", "—")
+    gk_joueur_id = resolve_gk_joueur_id(nom_gk, ligue_id, saison) if nom_gk != "—" else None
+    href_gk = f"/Radar_GK?joueur_id={gk_joueur_id}&saison={saison}" if gk_joueur_id else None
+    cartes = [onze_card(nom_gk, g.get("team_name", ""), href=href_gk)]
 else:
     cartes = [onze_card("—", "Gardien indisponible")]
 ligne_formation(f"{icon('sports_handball',14)} Gardien", cartes)
@@ -262,8 +273,8 @@ cartes_def = [
 ]
 ligne_formation(f"{icon('shield',14)} Défense", cartes_def)
 
-# Milieu (DM, CM, AM)
-cartes_mil = [carte_poste("DM"), carte_poste("CM"), carte_poste("AM")]
+# Milieu (2 CM + 1 AM — pas de DM classé dans la base actuelle)
+cartes_mil = [carte_poste("CM", 0), carte_poste("CM", 1), carte_poste("AM")]
 ligne_formation(f"{icon('sync_alt',14)} Milieu", cartes_mil)
 
 # Attaque (LW, FW, RW)

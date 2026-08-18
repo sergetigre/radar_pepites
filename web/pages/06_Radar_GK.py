@@ -1,5 +1,5 @@
 import streamlit as st
-from utils.db import get_gk_fiche
+from utils.db import get_gk_fiche, get_saisons
 from utils.sidebar import render_filters
 from utils.search import gk_searchbox
 from utils.charts import radar_single
@@ -17,27 +17,47 @@ render_html(f"""
     </h1>
 """)
 
-prefill_nom = st.session_state.get("prefill_gk", "")
+saisons = get_saisons()
 
-joueur_id, saison, label = gk_searchbox(
-    key="radar_gk_search",
-    placeholder="Ex : Donnarumma junior...",
-    default_searchterm=prefill_nom,
-)
+# Pré-remplissage : priorité aux paramètres d'URL (carte Championnats/
+# Tableau de bord, clic direct), sinon barre de recherche live — même
+# logique que 02_Radar_Joueur.py.
+qp = st.query_params
+qp_joueur_id = qp.get("joueur_id")
+qp_saison    = qp.get("saison")
 
-if not joueur_id:
-    st.info("Tapez le nom d'un gardien pour afficher son profil (2 lettres min.).")
-    st.stop()
+if qp_joueur_id:
+    df_fiche = get_gk_fiche(qp_joueur_id, qp_saison or saisons[0])
+    st.query_params.clear()
 
-for k in ["prefill_gk", "prefill_gk_id"]:
-    st.session_state.pop(k, None)
+    if df_fiche.empty:
+        st.warning("Données non disponibles pour cette sélection.")
+        st.stop()
 
-df_fiche = get_gk_fiche(joueur_id, saison)
-if df_fiche.empty:
-    st.warning("Données non disponibles pour cette sélection.")
-    st.stop()
+    row = df_fiche.iloc[0]
 
-row = df_fiche.iloc[0]
+else:
+    prefill_nom = st.session_state.get("prefill_gk", "")
+
+    joueur_id, saison, label = gk_searchbox(
+        key="radar_gk_search",
+        placeholder="Ex : Donnarumma junior...",
+        default_searchterm=prefill_nom,
+    )
+
+    if not joueur_id:
+        st.info("Tapez le nom d'un gardien pour afficher son profil (2 lettres min.).")
+        st.stop()
+
+    for k in ["prefill_gk", "prefill_gk_id"]:
+        st.session_state.pop(k, None)
+
+    df_fiche = get_gk_fiche(joueur_id, saison)
+    if df_fiche.empty:
+        st.warning("Données non disponibles pour cette sélection.")
+        st.stop()
+
+    row = df_fiche.iloc[0]
 
 render_player_header(row, is_gk=True)
 

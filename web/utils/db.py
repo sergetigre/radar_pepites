@@ -265,6 +265,26 @@ def get_classement_gk(saison: str, ligues: list, min_min: int) -> pd.DataFrame:
 
 
 @st.cache_data(ttl=1800)
+def resolve_gk_joueur_id(nom: str, ligue_id: str, saison: str) -> str | None:
+    """Pont entre gold.vue_top_u23_gk (identifiant sofascore player_id_ss)
+    et fact_stats (identifiant interne joueur_id, attendu par get_gk_fiche) —
+    les deux espaces d'ID ne sont pas interchangeables, donc on résout par
+    nom + ligue + saison plutôt que par ID direct."""
+    stmt = text("""
+        SELECT f.joueur_id
+        FROM public.fact_stats f
+        JOIN public.dim_joueurs j ON f.joueur_id = j.joueur_id
+        WHERE f.poste_id = 'GK' AND f.ligue_id = :ligue_id
+          AND f.saison_id = :saison AND LOWER(j.nom_complet) = LOWER(:nom)
+        LIMIT 1
+    """)
+    df = pd.read_sql(stmt, get_engine(), params={
+        "nom": nom, "ligue_id": ligue_id, "saison": saison,
+    })
+    return df["joueur_id"].iloc[0] if not df.empty else None
+
+
+@st.cache_data(ttl=1800)
 def search_gk(nom: str) -> pd.DataFrame:
     """Recherche gardien par nom (public.fact_stats, poste_id='GK')."""
     stmt = text("""
