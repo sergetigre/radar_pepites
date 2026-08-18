@@ -104,6 +104,14 @@ def inject_css() -> str:
         margin-top: 4px;
     }
 
+    /* ── Ligne de classement (diagramme à barres horizontal) ─────────── */
+    .bar-row {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        padding: 8px 4px;
+    }
+
     /* ── Cards ───────────────────────────────────────── */
     .card {
         background: #111111;

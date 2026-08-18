@@ -1,11 +1,14 @@
 import streamlit as st
 import pandas as pd
-from utils.db import get_ligues, get_classement, get_classement_gk
+from utils.db import get_ligues, get_saisons, get_classement, get_classement_gk
 from utils.sidebar import render_filters
 from utils.styles import icon, render_html
 
-filtres = render_filters()
-saison  = filtres["saison"]
+# Cette page a ses propres sélecteurs de championnat ET de saison (ci-dessous) —
+# la sélection ne se fait pas dans la sidebar, donc on grise Saison/Ligues/
+# Postes pour ne pas laisser croire qu'ils affectent la page. Minutes/Âge
+# restent actifs : ils sont réellement utilisés comme filtres ici.
+filtres = render_filters(disable_saison=True, disable_ligues=True, disable_postes=True)
 min_min = filtres["min_min"]
 age_max = filtres["age_max"]
 
@@ -19,16 +22,26 @@ render_html(f"""
     </p>
 """)
 
-# ── Sélection du championnat (indépendante des checkboxes multi-ligues
-# de la sidebar — ici on veut UNE seule ligue à la fois) ──────────────
+# ── Sélection du championnat + de la saison, indépendante des filtres
+# globaux de la sidebar — ici on veut UNE ligue et UNE saison à la fois ──
 df_ligues = get_ligues()
 ligue_options = dict(zip(df_ligues["nom_complet"], df_ligues["ligue_id"]))
+saisons = get_saisons()
 
-ligue_nom = st.selectbox(
-    "🌍 Choisir un championnat",
-    list(ligue_options.keys()),
-    key="championnat_select",
-)
+col_ligue, col_saison = st.columns([2, 1])
+with col_ligue:
+    ligue_nom = st.selectbox(
+        "🌍 Choisir un championnat",
+        list(ligue_options.keys()),
+        key="championnat_select",
+    )
+with col_saison:
+    saison = st.selectbox(
+        "📅 Saison",
+        saisons,
+        key="championnat_saison_select",
+    )
+
 ligue_id = ligue_options[ligue_nom]
 couleur_ligue = df_ligues[df_ligues["ligue_id"] == ligue_id]["couleur_hex"].iloc[0] or "#2DAD7E"
 
@@ -69,7 +82,8 @@ for i, poste in enumerate(POSTES_ORDER):
         render_html(f"""
             <div style="font-size:0.7rem; font-weight:700;
                         text-transform:uppercase; letter-spacing:1.5px;
-                        color:#8A8A8A; margin:14px 0 8px 0;">
+                        color:#8A8A8A; margin:16px 0 4px 0;
+                        border-bottom:1px solid #1A1A1A; padding-bottom:4px;">
                 {POSTE_LABELS[poste]}
             </div>
         """)
@@ -78,36 +92,32 @@ for i, poste in enumerate(POSTES_ORDER):
             st.caption("Aucune donnée")
             continue
 
+        rows_html = []
         for rank, (_, row) in enumerate(df_poste.iterrows()):
-            is_titulaire = (rank == 0)
-            label = "🥇 Titulaire" if is_titulaire else f"🔁 Doublure {rank}"
-            accent_class = "card-accent" if is_titulaire else ""
+            medal = "🥇" if rank == 0 else "🔁"
             href = f"/Radar_Joueur?joueur_id={row['joueur_id']}&saison={saison}"
-
-            render_html(f"""
-                <a href="{href}" target="_self" class="player-card-link">
-                    <div class="card {accent_class} player-mini-card"
-                         style="padding:10px 12px; margin-bottom:6px;
-                                border-left-color:{couleur_ligue};">
-                        <div style="font-size:0.65rem; color:#8A8A8A;
-                                    text-transform:uppercase;
-                                    letter-spacing:1px;">
-                            {label}
+            rows_html.append(f"""
+                <a href="{href}" target="_self" style="text-decoration:none;">
+                    <div style="padding:6px 2px; border-bottom:1px solid #1A1A1A;">
+                        <div style="display:flex; justify-content:space-between;
+                                    align-items:baseline; gap:6px;">
+                            <span style="font-weight:700; color:#FFFFFF;
+                                        font-size:0.82rem; white-space:nowrap;
+                                        overflow:hidden; text-overflow:ellipsis;">
+                                {medal} {row['joueur']}
+                            </span>
+                            <span style="color:#2DAD7E; font-weight:700;
+                                        font-size:0.76rem; white-space:nowrap;">
+                                ★ {row['score_corrige']:.1f}
+                            </span>
                         </div>
-                        <div style="font-weight:700; color:#FFFFFF;
-                                    font-size:0.9rem; margin:2px 0;">
-                            {row['joueur']}
-                        </div>
-                        <div style="font-size:0.72rem; color:#8A8A8A;
-                                    margin-bottom:6px;">
+                        <div style="color:#8A8A8A; font-size:0.7rem; margin-top:1px;">
                             {row['equipe']} · {row['age']} ans
                         </div>
-                        <span class="score-badge-sm">
-                            ★ {row['score_corrige']:.1f}
-                        </span>
                     </div>
                 </a>
             """)
+        render_html("".join(rows_html))
 
 st.markdown("---")
 
@@ -137,30 +147,46 @@ for tab, (cat_label, (col, col_label)) in zip(tabs, CATEGORIES.items()):
             st.caption("Données insuffisantes.")
             continue
 
+        valeur_max = top5[col].max() or 1
+        rows_html = []
         for rank, (_, row) in enumerate(top5.iterrows(), start=1):
             medal = {1: "🥇", 2: "🥈", 3: "🥉"}.get(rank, f"{rank}.")
+            pct = max(6, round(row[col] / valeur_max * 100))
             href = f"/Radar_Joueur?joueur_id={row['joueur_id']}&saison={saison}"
-            render_html(f"""
+            rows_html.append(f"""
                 <a href="{href}" target="_self" style="text-decoration:none;">
-                    <div class="card" style="padding:10px 14px;
-                                margin-bottom:6px; display:flex;
-                                justify-content:space-between;
-                                align-items:center;">
-                        <div>
-                            <span style="font-size:1rem;">{medal}</span>
-                            <span style="font-weight:600; color:#FFFFFF;
-                                        margin-left:6px;">{row['joueur']}</span>
-                            <span style="font-size:0.78rem; color:#8A8A8A;
-                                        margin-left:6px;">
+                    <div style="padding:0;">
+                    <div class="bar-row">
+                        <div style="min-width:28px; text-align:center;
+                                    font-size:0.9rem;">{medal}</div>
+                        <div style="flex:0 0 200px; min-width:0;">
+                            <div style="font-weight:700; color:#FFFFFF;
+                                        font-size:0.85rem; white-space:nowrap;
+                                        overflow:hidden; text-overflow:ellipsis;">
+                                {row['joueur']}
+                            </div>
+                            <div style="color:#8A8A8A; font-size:0.7rem;
+                                        white-space:nowrap; overflow:hidden;
+                                        text-overflow:ellipsis;">
                                 {row['equipe']} · {row['poste_id']}
-                            </span>
+                            </div>
                         </div>
-                        <span style="color:#2DAD7E; font-weight:700;">
-                            {row[col]:.2f} {col_label}
-                        </span>
+                        <div style="flex:1; height:10px; background:#1A1A1A;
+                                    border-radius:5px; overflow:hidden;">
+                            <div style="width:{pct}%; height:100%;
+                                        background:linear-gradient(90deg,#2DAD7E,#5DCBA0);
+                                        border-radius:5px;"></div>
+                        </div>
+                        <div style="min-width:64px; text-align:right;
+                                    font-weight:700; color:#FFFFFF;
+                                    font-size:0.82rem; white-space:nowrap;">
+                            {row[col]:.2f}
+                        </div>
+                    </div>
                     </div>
                 </a>
             """)
+        render_html("".join(rows_html))
 
 st.markdown("---")
 

@@ -74,9 +74,18 @@ def render_nav():
         render_html('<div style="border-top:1px solid #1A1A1A; margin:12px 0 4px 0;"></div>')
 
 
-def render_filters() -> dict:
+def render_filters(disable_saison: bool = False, disable_ligues: bool = False,
+                   disable_postes: bool = False) -> dict:
     """Filtres globaux persistants (saison, ligues, postes, minutes, âge).
     Appelée par chaque page, en dessous de la nav déjà affichée par app.py.
+
+    Les pages qui gèrent leur propre sélection (ex. Championnats, qui a son
+    propre sélecteur de ligue/saison indépendant) peuvent griser les
+    contrôles correspondants via disable_saison/disable_ligues/disable_postes
+    — évite qu'une sélection ici donne l'impression, à tort, d'affecter la
+    page. Les widgets grisés gardent leur valeur (utilisée ailleurs dans
+    l'app), ils sont juste non interactifs sur la page courante.
+
     Retourne un dict des filtres actifs."""
     with st.sidebar:
 
@@ -92,7 +101,8 @@ def render_filters() -> dict:
         saison_def  = st.session_state.get("filtre_saison", saisons[0])
         saison_idx  = saisons.index(saison_def) if saison_def in saisons else 0
         saison      = st.selectbox(
-            "Saison", saisons, index=saison_idx, key="filtre_saison"
+            "Saison", saisons, index=saison_idx, key="filtre_saison",
+            disabled=disable_saison,
         )
 
         df_ligues   = get_ligues()
@@ -106,11 +116,11 @@ def render_filters() -> dict:
         """)
 
         ca, cb = st.columns(2)
-        if ca.button("Tout", key="all_l", use_container_width=True):
+        if ca.button("Tout", key="all_l", use_container_width=True, disabled=disable_ligues):
             for lid in all_ligue_ids:
                 st.session_state[f"l_{lid}"] = True
             st.rerun()
-        if cb.button("Aucun", key="none_l", use_container_width=True):
+        if cb.button("Aucun", key="none_l", use_container_width=True, disabled=disable_ligues):
             for lid in all_ligue_ids:
                 st.session_state[f"l_{lid}"] = False
             st.rerun()
@@ -120,7 +130,8 @@ def render_filters() -> dict:
             lid     = row["ligue_id"]
             default = st.session_state.get(f"l_{lid}", True)
             val     = st.checkbox(
-                row["nom_complet"], value=default, key=f"l_{lid}"
+                row["nom_complet"], value=default, key=f"l_{lid}",
+                disabled=disable_ligues,
             )
             if val:
                 ligues_sel.append(lid)
@@ -133,11 +144,11 @@ def render_filters() -> dict:
         """)
 
         cc, cd = st.columns(2)
-        if cc.button("Tout", key="all_p", use_container_width=True):
+        if cc.button("Tout", key="all_p", use_container_width=True, disabled=disable_postes):
             for p in ALL_POSTES:
                 st.session_state[f"p_{p}"] = True
             st.rerun()
-        if cd.button("Aucun", key="none_p", use_container_width=True):
+        if cd.button("Aucun", key="none_p", use_container_width=True, disabled=disable_postes):
             for p in ALL_POSTES:
                 st.session_state[f"p_{p}"] = False
             st.rerun()
@@ -148,7 +159,8 @@ def render_filters() -> dict:
                 for code, label in codes.items():
                     default = st.session_state.get(f"p_{code}", True)
                     val     = st.checkbox(
-                        label, value=default, key=f"p_{code}"
+                        label, value=default, key=f"p_{code}",
+                        disabled=disable_postes,
                     )
                     if val:
                         postes_sel.append(code)
