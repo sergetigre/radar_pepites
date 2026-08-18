@@ -1,7 +1,7 @@
 import streamlit as st
 from utils.db import get_progression_gk
 from utils.sidebar import render_filters
-from utils.search import gk_searchbox
+from utils.search import gk_progression_searchbox
 from utils.charts import line_progression, bar_progression
 from utils.styles import icon, render_html
 
@@ -13,7 +13,7 @@ render_html(f"""
     </h1>
 """)
 
-joueur_id, _saison_sel, label = gk_searchbox(
+joueur_id, nom_gk = gk_progression_searchbox(
     key="progression_gk_search",
     placeholder="Ex : Donnarumma junior...",
 )
@@ -21,8 +21,6 @@ joueur_id, _saison_sel, label = gk_searchbox(
 if not joueur_id:
     st.info("Tapez le nom d'un gardien pour afficher sa progression (2 lettres min.).")
     st.stop()
-
-nom_gk = label.split(" — ")[0] if label else "Gardien"
 
 df_prog = get_progression_gk(joueur_id)
 if df_prog.empty:

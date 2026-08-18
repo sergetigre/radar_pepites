@@ -1,7 +1,7 @@
 import streamlit as st
 from utils.db import get_progression_joueur
 from utils.sidebar import render_filters
-from utils.search import player_searchbox
+from utils.search import player_progression_searchbox
 from utils.charts import line_progression, bar_progression
 from utils.styles import icon, render_html
 
@@ -16,7 +16,7 @@ render_html(f"""
     </p>
 """)
 
-joueur_id, _saison_sel, label = player_searchbox(
+joueur_id, nom_joueur = player_progression_searchbox(
     key="progression_search",
     placeholder="Ex : Saka, Wirtz, Yamal...",
 )
@@ -24,8 +24,6 @@ joueur_id, _saison_sel, label = player_searchbox(
 if not joueur_id:
     st.info("Tapez le nom d'un joueur pour afficher sa progression (2 lettres min.).")
     st.stop()
-
-nom_joueur = label.split(" — ")[0] if label else "Joueur"
 
 df_prog = get_progression_joueur(joueur_id)
 if df_prog.empty:

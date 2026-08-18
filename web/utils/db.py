@@ -127,6 +127,24 @@ def search_joueurs(nom: str, saison: str = "") -> pd.DataFrame:
 
 
 @st.cache_data(ttl=1800)
+def search_joueurs_unique(nom: str) -> pd.DataFrame:
+    """Recherche joueur par nom, un seul résultat par joueur_id (toutes
+    saisons confondues) — pour Progression, où on choisit un joueur, pas
+    une saison précise."""
+    stmt = text("""
+        SELECT joueur_id, joueur FROM (
+            SELECT DISTINCT ON (joueur_id) joueur_id, joueur, saison_id
+            FROM gold.vue_score_pepite_ranking
+            WHERE LOWER(joueur) LIKE LOWER(:pattern)
+            ORDER BY joueur_id, saison_id DESC
+        ) t
+        ORDER BY joueur
+        LIMIT 30
+    """)
+    return pd.read_sql(stmt, get_engine(), params={"pattern": f"%{nom}%"})
+
+
+@st.cache_data(ttl=1800)
 def get_joueur_fiche(joueur_id: str, saison: str) -> pd.DataFrame:
     """Fiche complète d'un joueur de champ (public.fact_stats + dims)."""
     stmt = text("""
@@ -259,6 +277,25 @@ def search_gk(nom: str) -> pd.DataFrame:
         JOIN public.dim_equipes e ON f.equipe_id = e.equipe_id
         WHERE f.poste_id = 'GK' AND LOWER(j.nom_complet) LIKE LOWER(:pattern)
         ORDER BY j.nom_complet, f.saison_id DESC
+        LIMIT 30
+    """)
+    return pd.read_sql(stmt, get_engine(), params={"pattern": f"%{nom}%"})
+
+
+@st.cache_data(ttl=1800)
+def search_gk_unique(nom: str) -> pd.DataFrame:
+    """Recherche gardien par nom, un seul résultat par joueur_id (toutes
+    saisons confondues) — pour Progression GK."""
+    stmt = text("""
+        SELECT joueur_id, joueur FROM (
+            SELECT DISTINCT ON (f.joueur_id)
+                f.joueur_id, j.nom_complet as joueur, f.saison_id
+            FROM public.fact_stats f
+            JOIN public.dim_joueurs j ON f.joueur_id = j.joueur_id
+            WHERE f.poste_id = 'GK' AND LOWER(j.nom_complet) LIKE LOWER(:pattern)
+            ORDER BY f.joueur_id, f.saison_id DESC
+        ) t
+        ORDER BY joueur
         LIMIT 30
     """)
     return pd.read_sql(stmt, get_engine(), params={"pattern": f"%{nom}%"})
