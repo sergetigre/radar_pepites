@@ -1,0 +1,288 @@
+import streamlit as st
+import pandas as pd
+from utils.db import get_ligues, get_classement, get_classement_gk
+from utils.sidebar import render_filters
+from utils.styles import icon, render_html
+
+filtres = render_filters()
+saison  = filtres["saison"]
+min_min = filtres["min_min"]
+age_max = filtres["age_max"]
+
+render_html(f"""
+    <h1 style="font-size:1.8rem; font-weight:800; margin-bottom:4px;">
+        {icon('emoji_events', 28)} Championnats
+    </h1>
+    <p style="color:#8A8A8A; font-size:0.9rem; margin-bottom:20px;">
+        Analyse détaillée d'un championnat : meilleurs profils par poste,
+        classements par catégorie, onze type et pépites sous-cotées.
+    </p>
+""")
+
+# ── Sélection du championnat (indépendante des checkboxes multi-ligues
+# de la sidebar — ici on veut UNE seule ligue à la fois) ──────────────
+df_ligues = get_ligues()
+ligue_options = dict(zip(df_ligues["nom_complet"], df_ligues["ligue_id"]))
+
+ligue_nom = st.selectbox(
+    "🌍 Choisir un championnat",
+    list(ligue_options.keys()),
+    key="championnat_select",
+)
+ligue_id = ligue_options[ligue_nom]
+couleur_ligue = df_ligues[df_ligues["ligue_id"] == ligue_id]["couleur_hex"].iloc[0] or "#2DAD7E"
+
+POSTES_ORDER = ["FW", "LW", "RW", "AM", "CM", "DM", "CB", "LB", "RB"]
+POSTE_LABELS = {
+    "FW": "Avant-centre", "LW": "Ailier gauche", "RW": "Ailier droit",
+    "AM": "Milieu offensif", "CM": "Milieu central", "DM": "Milieu défensif",
+    "CB": "Défenseur central", "LB": "Latéral gauche", "RB": "Latéral droit",
+}
+
+df = get_classement(saison, [ligue_id], POSTES_ORDER, age_max, min_min)
+
+if df.empty:
+    st.info("Aucune donnée pour ce championnat avec les filtres actuels.")
+    st.stop()
+
+st.markdown("---")
+
+# ══════════════════════════════════════════════════════════════════
+# SECTION 1 — Meilleurs joueurs par poste (titulaire + 2 doublures)
+# ══════════════════════════════════════════════════════════════════
+st.markdown(f"### {icon('star')} Meilleurs joueurs par poste", unsafe_allow_html=True)
+st.caption("Titulaire + 2 doublures proposées, par poste, selon le Score Pépite.")
+
+
+def top_n_poste(poste: str, n: int = 3) -> pd.DataFrame:
+    return (
+        df[df["poste_id"] == poste]
+        .sort_values("score_corrige", ascending=False)
+        .head(n)
+    )
+
+
+cols_postes = st.columns(3)
+for i, poste in enumerate(POSTES_ORDER):
+    df_poste = top_n_poste(poste, 3)
+    with cols_postes[i % 3]:
+        render_html(f"""
+            <div style="font-size:0.7rem; font-weight:700;
+                        text-transform:uppercase; letter-spacing:1.5px;
+                        color:#8A8A8A; margin:14px 0 8px 0;">
+                {POSTE_LABELS[poste]}
+            </div>
+        """)
+
+        if df_poste.empty:
+            st.caption("Aucune donnée")
+            continue
+
+        for rank, (_, row) in enumerate(df_poste.iterrows()):
+            is_titulaire = (rank == 0)
+            label = "🥇 Titulaire" if is_titulaire else f"🔁 Doublure {rank}"
+            accent_class = "card-accent" if is_titulaire else ""
+            href = f"/Radar_Joueur?joueur_id={row['joueur_id']}&saison={saison}"
+
+            render_html(f"""
+                <a href="{href}" target="_self" class="player-card-link">
+                    <div class="card {accent_class} player-mini-card"
+                         style="padding:10px 12px; margin-bottom:6px;
+                                border-left-color:{couleur_ligue};">
+                        <div style="font-size:0.65rem; color:#8A8A8A;
+                                    text-transform:uppercase;
+                                    letter-spacing:1px;">
+                            {label}
+                        </div>
+                        <div style="font-weight:700; color:#FFFFFF;
+                                    font-size:0.9rem; margin:2px 0;">
+                            {row['joueur']}
+                        </div>
+                        <div style="font-size:0.72rem; color:#8A8A8A;
+                                    margin-bottom:6px;">
+                            {row['equipe']} · {row['age']} ans
+                        </div>
+                        <span class="score-badge-sm">
+                            ★ {row['score_corrige']:.1f}
+                        </span>
+                    </div>
+                </a>
+            """)
+
+st.markdown("---")
+
+# ══════════════════════════════════════════════════════════════════
+# SECTION 2 — Classements Top 5 par catégorie de qualité
+# ══════════════════════════════════════════════════════════════════
+st.markdown(f"### {icon('leaderboard')} Top 5 par catégorie", unsafe_allow_html=True)
+st.caption("Les 5 joueurs les plus performants du championnat sur chaque qualité.")
+
+CATEGORIES = {
+    "⚽ Buteurs":     ("buts_p90",         "Buts/90"),
+    "🎯 Passeurs":    ("assists_p90",      "Assists/90"),
+    "🏃 Dribbleurs":  ("dribbles_p90",     "Dribbles/90"),
+    "🛡️ Défenseurs": ("tackles_p90",      "Tacles/90"),
+    "🧠 Créateurs":   ("key_passes_p90",   "Passes clés/90"),
+}
+
+tabs = st.tabs(list(CATEGORIES.keys()))
+for tab, (cat_label, (col, col_label)) in zip(tabs, CATEGORIES.items()):
+    with tab:
+        top5 = (
+            df.dropna(subset=[col])
+            .sort_values(col, ascending=False)
+            .head(5)
+        )
+        if top5.empty:
+            st.caption("Données insuffisantes.")
+            continue
+
+        for rank, (_, row) in enumerate(top5.iterrows(), start=1):
+            medal = {1: "🥇", 2: "🥈", 3: "🥉"}.get(rank, f"{rank}.")
+            href = f"/Radar_Joueur?joueur_id={row['joueur_id']}&saison={saison}"
+            render_html(f"""
+                <a href="{href}" target="_self" style="text-decoration:none;">
+                    <div class="card" style="padding:10px 14px;
+                                margin-bottom:6px; display:flex;
+                                justify-content:space-between;
+                                align-items:center;">
+                        <div>
+                            <span style="font-size:1rem;">{medal}</span>
+                            <span style="font-weight:600; color:#FFFFFF;
+                                        margin-left:6px;">{row['joueur']}</span>
+                            <span style="font-size:0.78rem; color:#8A8A8A;
+                                        margin-left:6px;">
+                                {row['equipe']} · {row['poste_id']}
+                            </span>
+                        </div>
+                        <span style="color:#2DAD7E; font-weight:700;">
+                            {row[col]:.2f} {col_label}
+                        </span>
+                    </div>
+                </a>
+            """)
+
+st.markdown("---")
+
+# ══════════════════════════════════════════════════════════════════
+# SECTION 3 — Onze type (4-3-3)
+# ══════════════════════════════════════════════════════════════════
+st.markdown(f"### {icon('sports_soccer')} Onze type proposé", unsafe_allow_html=True)
+st.caption("Formation 4-3-3 — le meilleur profil disponible à chaque poste.")
+
+df_gk = get_classement_gk(saison, [ligue_id], min_min)
+gk_top = df_gk.sort_values("saves_p90", ascending=False).head(1) if not df_gk.empty else pd.DataFrame()
+
+
+def onze_card(nom, sous_texte, score=None, href=None):
+    score_html = f'<span class="score-badge-sm">★ {score:.1f}</span>' if score is not None else ""
+    inner = f"""
+        <div class="card" style="padding:8px 12px; text-align:center;
+                    min-width:110px;">
+            <div style="font-weight:700; color:#FFFFFF; font-size:0.82rem;">
+                {nom}
+            </div>
+            <div style="font-size:0.68rem; color:#8A8A8A; margin:2px 0 6px 0;">
+                {sous_texte}
+            </div>
+            {score_html}
+        </div>
+    """
+    if href:
+        return f'<a href="{href}" target="_self" style="text-decoration:none;">{inner}</a>'
+    return inner
+
+
+def ligne_formation(titre, cartes_html):
+    render_html(f"""
+        <div style="font-size:0.65rem; font-weight:700;
+                    text-transform:uppercase; letter-spacing:2px;
+                    color:#8A8A8A; margin:16px 0 8px 0;">
+            {titre}
+        </div>
+        <div style="display:flex; gap:10px; flex-wrap:wrap;
+                    justify-content:center;">
+            {''.join(cartes_html)}
+        </div>
+    """)
+
+
+# Gardien — pas de lien cliquable : gold.vue_top_u23_gk expose player_id_ss
+# (identifiant sofascore), pas joueur_id (celui de fact_stats attendu par
+# get_gk_fiche/Radar GK) — les deux espaces d'ID ne sont pas interchangeables.
+if not gk_top.empty:
+    g = gk_top.iloc[0]
+    cartes = [onze_card(g.get("player_name", "—"), g.get("team_name", ""))]
+else:
+    cartes = [onze_card("—", "Gardien indisponible")]
+ligne_formation(f"{icon('sports_handball',14)} Gardien", cartes)
+
+
+# Défense (LB, CB, CB, RB)
+def carte_poste(poste, idx=0):
+    tops = top_n_poste(poste, 2)
+    if tops.empty or idx >= len(tops):
+        return onze_card("—", POSTE_LABELS[poste])
+    r = tops.iloc[idx]
+    href = f"/Radar_Joueur?joueur_id={r['joueur_id']}&saison={saison}"
+    return onze_card(r["joueur"], f"{r['equipe']}", r["score_corrige"], href)
+
+
+cartes_def = [
+    carte_poste("LB"),
+    carte_poste("CB", 0),
+    carte_poste("CB", 1),
+    carte_poste("RB"),
+]
+ligne_formation(f"{icon('shield',14)} Défense", cartes_def)
+
+# Milieu (DM, CM, AM)
+cartes_mil = [carte_poste("DM"), carte_poste("CM"), carte_poste("AM")]
+ligne_formation(f"{icon('sync_alt',14)} Milieu", cartes_mil)
+
+# Attaque (LW, FW, RW)
+cartes_att = [carte_poste("LW"), carte_poste("FW"), carte_poste("RW")]
+ligne_formation(f"{icon('bolt',14)} Attaque", cartes_att)
+
+st.markdown("---")
+
+# ══════════════════════════════════════════════════════════════════
+# SECTION 4 — Pépites sous-cotées
+# ══════════════════════════════════════════════════════════════════
+st.markdown(f"### {icon('diamond')} Pépites sous-cotées", unsafe_allow_html=True)
+st.caption(
+    "Score Pépite élevé (top 20% du championnat) mais temps de jeu "
+    "encore en dessous de la médiane — potentiel pas encore pleinement exploité."
+)
+
+seuil_score = df["score_corrige"].quantile(0.80)
+mediane_minutes = df["minutes"].median()
+
+pepites = (
+    df[(df["score_corrige"] >= seuil_score) & (df["minutes"] < mediane_minutes)]
+    .sort_values("score_corrige", ascending=False)
+    .head(6)
+)
+
+if pepites.empty:
+    st.info("Aucune pépite sous-cotée identifiée avec les filtres actuels.")
+else:
+    cols_pep = st.columns(3)
+    for i, (_, row) in enumerate(pepites.iterrows()):
+        with cols_pep[i % 3]:
+            href = f"/Radar_Joueur?joueur_id={row['joueur_id']}&saison={saison}"
+            render_html(f"""
+                <a href="{href}" target="_self" class="player-card-link">
+                    <div class="card card-accent player-mini-card"
+                         style="border-left-color:#5DCBA0;">
+                        <div class="pmc-name">💎 {row['joueur']}</div>
+                        <div class="pmc-league">{row['poste_id']} · {row['equipe']}</div>
+                        <div class="pmc-details">
+                            {row['age']} ans · {int(row['minutes'])} min jouées
+                        </div>
+                        <span class="score-badge-sm">
+                            ★ {row['score_corrige']:.1f}
+                        </span>
+                    </div>
+                </a>
+            """)

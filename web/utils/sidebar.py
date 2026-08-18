@@ -28,16 +28,19 @@ ALL_POSTES = [p for f in FAMILLES_POSTES.values() for p in f]
 NAV_ITEMS = [
     ("pages/00_Tableau_de_bord.py", "Tableau de bord", "dashboard", None),
     (None, None, None, "JOUEURS DE CHAMP"),
-    ("pages/01_Explorer.py",       "Explorer",       "search",               None),
     ("pages/02_Radar_Joueur.py",   "Radar Joueur",   "radar",                None),
     ("pages/03_Comparaison.py",    "Comparaison",    "compare_arrows",       None),
     ("pages/04_Progression.py",    "Progression",    "trending_up",          None),
     (None, None, None, "GARDIENS"),
-    ("pages/05_Classement_GK.py",  "Classement GK",  "format_list_bulleted", None),
     ("pages/06_Radar_GK.py",       "Radar GK",       "radar",                None),
     ("pages/07_Comparaison_GK.py", "Comparaison GK", "compare_arrows",       None),
     ("pages/08_Progression_GK.py", "Progression GK", "trending_up",          None),
+    (None, None, None, "CHAMPIONNATS"),
+    ("pages/09_Championnats.py",   "Championnats",   "emoji_events",         None),
 ]
+# 01_Explorer.py et 05_Classement_GK.py restent dans le projet tels quels,
+# simplement retirés du menu (masqués) — toujours joignables par URL directe
+# (voir app.py, qui les garde enregistrées dans st.navigation()).
 
 
 def render_nav():

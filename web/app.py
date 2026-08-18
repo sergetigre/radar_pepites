@@ -19,10 +19,13 @@ classement_gk  = st.Page("pages/05_Classement_GK.py",    title="Classement GK")
 radar_gk       = st.Page("pages/06_Radar_GK.py",         title="Radar GK")
 comparaison_gk = st.Page("pages/07_Comparaison_GK.py",   title="Comparaison GK")
 progression_gk = st.Page("pages/08_Progression_GK.py",   title="Progression GK")
+championnats   = st.Page("pages/09_Championnats.py",     title="Championnats")
 
+# explorer et classement_gk restent enregistrées (joignables par URL directe)
+# même si elles ont été retirées du menu (voir utils/sidebar.py::NAV_ITEMS).
 pg = st.navigation(
     [dashboard, explorer, radar_joueur, comparaison, progression,
-     classement_gk, radar_gk, comparaison_gk, progression_gk],
+     classement_gk, radar_gk, comparaison_gk, progression_gk, championnats],
     position="hidden",
 )
 
