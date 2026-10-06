@@ -28,15 +28,27 @@ load_dotenv(Path(__file__).parent.parent.parent / "config" / ".env")
 
 
 def get_database_url() -> str:
+    url = None
     try:
         if "DATABASE_URL" in st.secrets:
-            return st.secrets["DATABASE_URL"]
+            url = st.secrets["DATABASE_URL"]
     except Exception:
         pass
-    url = os.getenv("DATABASE_URL")
+    if not url:
+        url = os.getenv("DATABASE_URL")
     if not url:
         st.error("DATABASE_URL introuvable (ni st.secrets, ni config/.env).")
         st.stop()
+
+    # Force le dialecte psycopg (v3, paquet "psycopg[binary]") plutôt que le
+    # psycopg2 par défaut de SQLAlchemy pour une URL postgresql:// nue —
+    # psycopg2-binary n'a pas toujours de wheel précompilé disponible pour
+    # la version de Python de l'environnement de déploiement, ce qui causait
+    # un ModuleNotFoundError au démarrage sur Streamlit Cloud.
+    if url.startswith("postgresql://"):
+        url = "postgresql+psycopg://" + url[len("postgresql://"):]
+    elif url.startswith("postgres://"):
+        url = "postgresql+psycopg://" + url[len("postgres://"):]
     return url
 
 
