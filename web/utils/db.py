@@ -182,8 +182,8 @@ def get_joueur_fiche(joueur_id: str, saison: str) -> pd.DataFrame:
             f.rating, f.has_fbref_data, f.has_sofascore_data,
             j.nom_complet, j.nom_court, j.date_naissance,
             j.nationalite_principale, j.poste_principal, j.poste_detail,
-            j.pied_dominant, j.taille_cm,
-            e.nom_complet as equipe,
+            j.pied_dominant, j.taille_cm, j.player_id_ss,
+            e.nom_complet as equipe, e.team_id_ss,
             l.nom_complet as ligue, l.nom_court as ligue_court, l.couleur_hex,
             s.saison_courte
         FROM public.fact_stats f
@@ -358,8 +358,8 @@ def get_gk_fiche(joueur_id: str, saison: str) -> pd.DataFrame:
             f.score_rang_ligue, f.score_rang_global,
             f.has_fbref_data, f.has_sofascore_data,
             j.nom_complet, j.nom_court, j.date_naissance,
-            j.nationalite_principale, j.pied_dominant, j.taille_cm,
-            e.nom_complet as equipe,
+            j.nationalite_principale, j.pied_dominant, j.taille_cm, j.player_id_ss,
+            e.nom_complet as equipe, e.team_id_ss,
             l.nom_complet as ligue, l.nom_court as ligue_court, l.couleur_hex,
             s.saison_courte
         FROM public.fact_stats f

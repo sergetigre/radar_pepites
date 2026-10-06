@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
 from utils.styles import icon, render_html
+from utils.media import flag_emoji, player_photo_url, team_logo_url, ligue_logo_url
 
 COLORS = {
     "green": "#2DAD7E", "green_dark": "#1A8A5A",
@@ -72,11 +73,26 @@ def render_player_header(row: pd.Series, is_gk: bool = False):
     pied     = row.get("pied_dominant", "—")
     equipe   = row.get("equipe", "—")
     ligue    = row.get("ligue", "—")
+    ligue_id = row.get("ligue_id")
     score    = row.get("score_pepite_corrige") or row.get("score_pepite")
     rang_l   = row.get("score_rang_ligue", "—")
     rang_g   = row.get("score_rang_global", "—")
     color    = row.get("couleur_hex") or COLORS["green"]
     poste    = row.get("poste_id") or row.get("poste_principal", "") or ("GK" if is_gk else "")
+
+    photo_url = player_photo_url(row.get("player_id_ss"))
+    club_url  = team_logo_url(row.get("team_id_ss"))
+    ligue_url = ligue_logo_url(ligue_id)
+    flag      = flag_emoji(nat)
+
+    photo_html = (
+        f'<img src="{photo_url}" class="player-photo" '
+        f'onerror="this.style.display=\'none\';">'
+        if photo_url else
+        '<div class="player-photo"></div>'
+    )
+    club_logo_html  = f'<img src="{club_url}" class="club-logo" onerror="this.style.display=\'none\';">' if club_url else ""
+    ligue_logo_html = f'<img src="{ligue_url}" class="club-logo" onerror="this.style.display=\'none\';">' if ligue_url else ""
 
     score_html = ""
     if score is not None and pd.notna(score):
@@ -97,7 +113,7 @@ def render_player_header(row: pd.Series, is_gk: bool = False):
     badges = ""
     for label, val in [
         (f"{icon('cake')} {age} ans",    age != "—"),
-        (f"{icon('flag')} {nat}",        nat != "—"),
+        (f'<span class="flag-emoji">{flag}</span>{nat}' if flag else f"{icon('flag')} {nat}", nat != "—"),
         (f"{icon('height')} {taille} cm", taille not in ["—", None]),
         (f"{icon('sports_soccer')} {pied}", pied not in ["—", None]),
         (f"{icon('location_on')} {poste}", bool(poste)),
@@ -109,14 +125,17 @@ def render_player_header(row: pd.Series, is_gk: bool = False):
         <div class="player-header">
             <div style="display:flex; justify-content:space-between;
                         align-items:flex-start; flex-wrap:wrap; gap:16px;">
-                <div style="flex:1; min-width:200px;">
-                    <div style="font-size:0.75rem; color:{color};
-                                font-weight:700; text-transform:uppercase;
-                                letter-spacing:1px; margin-bottom:6px;">
-                        {equipe} · {ligue}
+                <div style="display:flex; gap:16px; flex:1; min-width:200px;">
+                    {photo_html}
+                    <div>
+                        <div style="font-size:0.75rem; color:{color};
+                                    font-weight:700; text-transform:uppercase;
+                                    letter-spacing:1px; margin-bottom:6px;">
+                            {club_logo_html}{equipe} · {ligue_logo_html}{ligue}
+                        </div>
+                        <div class="player-name">{nom}</div>
+                        <div style="margin:10px 0;">{badges}</div>
                     </div>
-                    <div class="player-name">{nom}</div>
-                    <div style="margin:10px 0;">{badges}</div>
                 </div>
                 {score_html}
             </div>

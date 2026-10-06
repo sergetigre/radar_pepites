@@ -230,6 +230,26 @@ def inject_css() -> str:
         font-size: 0.9rem;
         color: #8A8A8A;
     }
+    .player-photo {
+        width: 72px;
+        height: 72px;
+        border-radius: 50%;
+        object-fit: cover;
+        background: #1A1A1A;
+        border: 2px solid #1A1A1A;
+        flex-shrink: 0;
+    }
+    .club-logo {
+        width: 18px;
+        height: 18px;
+        object-fit: contain;
+        vertical-align: middle;
+        margin-right: 4px;
+    }
+    .flag-emoji {
+        font-size: 1rem;
+        margin-right: 2px;
+    }
     .player-badge {
         display: inline-block;
         background: #1A1A1A;
