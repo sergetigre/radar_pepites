@@ -1,0 +1,22 @@
+﻿tournament_id,season_id,player_name,player_id,team_name,team_id,saves,goalsPrevented,rating,minutesPlayed,appearances,accuratePasses,accurateLongBalls,accurateLongBallsPercentage,yellowCards,redCards,_league_id,_season,_source,_scraped_at
+238,97436,Ignacio de Arruabarrena,789933,FC Arouca,25777,27,2.87,7.63,630,7,183,21,25.93,1,0,POR,2026-2027,datafc_sofascore,2026-10-06 13:37:28
+238,97436,Ewerton,978674,Académico Viseu FC,3022,27,1.78,7.61,630,7,202,66,51.97,0,0,POR,2026-2027,datafc_sofascore,2026-10-06 13:37:28
+238,97436,Renato Marin,1524396,CD Nacional,3013,26,-2.19,6.89,630,7,125,35,33.02,0,0,POR,2026-2027,datafc_sofascore,2026-10-06 13:37:28
+238,97436,Matheus Mendes,1018555,FC Alverca,190328,23,-0.68,6.61,630,7,116,27,30.68,1,0,POR,2026-2027,datafc_sofascore,2026-10-06 13:37:28
+238,97436,Ennio Van Der Gouw,1005270,Rio Ave,3036,21,-1.13,7.02,540,6,194,42,34.71,0,0,POR,2026-2027,datafc_sofascore,2026-10-06 13:37:28
+238,97436,Léo Linck,1119887,CF Estrela Amadora,3035,21,-1.21,6.7,630,7,189,36,35.29,0,0,POR,2026-2027,datafc_sofascore,2026-10-06 13:37:28
+238,97436,André Ferreira,788197,Moreirense,3014,21,-4.02,6.49,630,7,117,34,23.13,0,0,POR,2026-2027,datafc_sofascore,2026-10-06 13:37:28
+238,97436,Alfonso Pastor,872868,CS Marítimo,3007,20,-1.69,6.57,540,6,115,31,30.39,0,0,POR,2026-2027,datafc_sofascore,2026-10-06 13:37:28
+238,97436,Joel Robles,93796,Estoril Praia,4500,15,1.11,7.1,630,7,144,49,37.69,0,0,POR,2026-2027,datafc_sofascore,2026-10-06 13:37:28
+238,97436,Lazar Carević,886204,Famalicão,49531,15,-1.75,6.74,630,7,166,22,32.84,0,0,POR,2026-2027,datafc_sofascore,2026-10-06 13:37:28
+238,97436,Diogo Costa,843115,FC Porto,3002,14,1.2,7.21,630,7,186,25,39.06,0,0,POR,2026-2027,datafc_sofascore,2026-10-06 13:37:28
+238,97436,Lucas França,832672,Santa Clara,3011,13,-0.19,7.0,630,7,130,38,39.18,1,0,POR,2026-2027,datafc_sofascore,2026-10-06 13:37:28
+238,97436,Rui Silva,253809,Sporting CP,3001,13,-2.56,6.74,630,7,194,22,45.83,0,0,POR,2026-2027,datafc_sofascore,2026-10-06 13:37:28
+238,97436,Ivan Mandić,1067290,Casa Pia,36365,12,-0.28,7.17,241,3,40,28,31.11,2,0,POR,2026-2027,datafc_sofascore,2026-10-06 13:37:28
+238,97436,Oliwier Zych,1009362,Vitória SC,3009,11,-1.52,6.69,630,7,140,39,40.21,0,0,POR,2026-2027,datafc_sofascore,2026-10-06 13:37:28
+238,97436,André Gomes,1139990,Casa Pia,36365,11,-2.67,6.5,389,5,118,18,27.69,0,0,POR,2026-2027,datafc_sofascore,2026-10-06 13:37:28
+238,97436,Samuel Soares,983550,Benfica,3006,10,-0.53,6.97,630,7,129,33,60.0,0,0,POR,2026-2027,datafc_sofascore,2026-10-06 13:37:28
+238,97436,Lucão,981586,Gil Vicente,3010,9,-0.34,6.87,540,6,157,27,36.49,2,0,POR,2026-2027,datafc_sofascore,2026-10-06 13:37:28
+238,97436,Bernardo Fontes,1394935,Sporting Braga,2999,9,-1.87,6.53,540,6,102,10,15.63,0,0,POR,2026-2027,datafc_sofascore,2026-10-06 13:37:28
+238,97436,Vitor Hugo,1105598,Rio Ave,3036,5,1.09,8.7,90,1,27,4,44.44,0,0,POR,2026-2027,datafc_sofascore,2026-10-06 13:37:28
+238,97436,Francisco Vieites,929975,CS Marítimo,3007,3,-0.41,7.3,90,1,18,15,57.69,0,0,POR,2026-2027,datafc_sofascore,2026-10-06 13:37:28

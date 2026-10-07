@@ -1,0 +1,24 @@
+﻿tournament_id,season_id,player_name,player_id,team_name,team_id,saves,goalsPrevented,rating,minutesPlayed,appearances,accuratePasses,accurateLongBalls,accurateLongBallsPercentage,yellowCards,redCards,_league_id,_season,_source,_scraped_at
+34,96127,Anthony Lopes,48535,Angers,1684,26,2.09,8.28,450,5,184,44,57.14,0,0,FRA,2026-2027,datafc_sofascore,2026-10-06 13:36:45
+34,96127,Jeffrey De Lange,803034,Olympique de Marseille,1641,23,5.15,8.02,450,5,128,17,37.78,0,0,FRA,2026-2027,datafc_sofascore,2026-10-06 13:36:45
+34,96127,Filip Jørgensen,962053,RC Strasbourg,1659,21,-1.26,7.14,450,5,193,38,42.7,1,0,FRA,2026-2027,datafc_sofascore,2026-10-06 13:36:45
+34,96127,Lukáš Hrádecký,15219,AS Monaco,1653,19,3.06,7.9,450,5,101,26,46.43,1,0,FRA,2026-2027,datafc_sofascore,2026-10-06 13:36:45
+34,96127,Lionel Mpasi Nzau,599192,Le Havre,1662,19,1.49,7.57,269,3,75,22,41.51,1,0,FRA,2026-2027,datafc_sofascore,2026-10-06 13:36:45
+34,96127,Berke Özer,847494,Lille,1643,17,1.6,7.62,450,5,136,27,33.33,0,0,FRA,2026-2027,datafc_sofascore,2026-10-06 13:36:45
+34,96127,Mamadou Diop,1440545,Auxerre,1646,17,-2.87,6.44,450,5,52,17,23.94,0,0,FRA,2026-2027,datafc_sofascore,2026-10-06 13:36:45
+34,96127,Robin Risser,1387161,RC Lens,1648,16,-0.23,7.06,450,5,146,22,44.9,0,0,FRA,2026-2027,datafc_sofascore,2026-10-06 13:36:45
+34,96127,Patrick Beach,1177240,Troyes,1652,16,1.07,7.06,450,5,51,27,31.76,0,0,FRA,2026-2027,datafc_sofascore,2026-10-06 13:36:45
+34,96127,Yehvann Diouf,845183,Nice,1661,16,0.58,6.98,450,5,168,21,30.43,0,0,FRA,2026-2027,datafc_sofascore,2026-10-06 13:36:45
+34,96127,Brice Samba,164055,Stade Rennais,1658,15,0.22,7.63,360,4,109,27,47.37,0,0,FRA,2026-2027,datafc_sofascore,2026-10-06 13:36:45
+34,96127,Egil Selvik,798176,Stade Brestois,1715,15,-1.33,7.12,450,5,100,40,44.44,0,0,FRA,2026-2027,datafc_sofascore,2026-10-06 13:36:45
+34,96127,Guillaume Restes,1154630,Toulouse,1681,14,1.35,7.8,341,4,131,13,46.43,0,0,FRA,2026-2027,datafc_sofascore,2026-10-06 13:36:45
+34,96127,Yvon Mvogo,149656,Lorient,1656,14,-0.04,6.94,450,5,139,30,36.59,0,0,FRA,2026-2027,datafc_sofascore,2026-10-06 13:36:45
+34,96127,Dominik Greif,791046,Olympique Lyonnais,1649,13,1.26,7.73,360,4,129,24,57.14,0,0,FRA,2026-2027,datafc_sofascore,2026-10-06 13:36:45
+34,96127,Nicolas Kocik,802148,Le Mans,1672,10,0.42,7.2,261,3,78,34,39.08,0,0,FRA,2026-2027,datafc_sofascore,2026-10-06 13:36:45
+34,96127,Matvey Safonov,800749,Paris Saint-Germain,1644,10,-0.68,6.92,450,5,82,10,34.48,0,0,FRA,2026-2027,datafc_sofascore,2026-10-06 13:36:45
+34,96127,Kevin Trapp,38440,Paris FC,6070,10,0.03,6.9,450,5,160,20,32.26,0,0,FRA,2026-2027,datafc_sofascore,2026-10-06 13:36:45
+34,96127,Ewan Hatfout,1007935,Le Mans,1672,5,-0.19,6.47,189,3,60,19,43.18,0,0,FRA,2026-2027,datafc_sofascore,2026-10-06 13:36:45
+34,96127,Nicolas Lemaitre,792630,Stade Rennais,1658,3,0.45,7.3,90,1,11,2,28.57,0,0,FRA,2026-2027,datafc_sofascore,2026-10-06 13:36:45
+34,96127,Gauthier Gallon,340561,Le Havre,1662,3,-0.71,6.85,181,3,54,12,75.0,0,0,FRA,2026-2027,datafc_sofascore,2026-10-06 13:36:45
+34,96127,Mathys Niflore,1479500,Toulouse,1681,3,-0.25,6.45,109,2,25,3,75.0,0,0,FRA,2026-2027,datafc_sofascore,2026-10-06 13:36:45
+34,96127,Rémy Descamps,788180,Olympique Lyonnais,1649,2,0.44,7.4,90,1,30,7,41.18,0,0,FRA,2026-2027,datafc_sofascore,2026-10-06 13:36:45

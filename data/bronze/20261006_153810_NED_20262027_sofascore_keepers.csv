@@ -1,0 +1,26 @@
+﻿tournament_id,season_id,player_name,player_id,team_name,team_id,saves,goalsPrevented,rating,minutesPlayed,appearances,accuratePasses,accurateLongBalls,accurateLongBallsPercentage,yellowCards,redCards,_league_id,_season,_source,_scraped_at
+37,96143,Kilian Nikièma,1149858,ADO Den Haag,2966,38,-0.63,7.7,630,7,222,70,44.87,0,0,NED,2026-2027,datafc_sofascore,2026-10-06 13:38:10
+37,96143,Ronald Koeman Jr,268701,SC Telstar,2972,35,4.62,8.26,630,7,207,101,44.3,2,0,NED,2026-2027,datafc_sofascore,2026-10-06 13:38:10
+37,96143,Jasper Schendelaar,856636,PEC Zwolle,2971,32,-2.58,7.1,630,7,182,45,33.09,0,0,NED,2026-2027,datafc_sofascore,2026-10-06 13:38:10
+37,96143,Mattijs Branderhorst,146871,Fortuna Sittard,2957,29,2.37,7.41,630,7,117,56,29.63,0,0,NED,2026-2027,datafc_sofascore,2026-10-06 13:38:10
+37,96143,Vasilis Barkas,347726,FC Utrecht,2948,28,-8.28,5.75,540,6,137,45,33.09,1,0,NED,2026-2027,datafc_sofascore,2026-10-06 13:38:10
+37,96143,Etienne Vaessen,809408,FC Groningen,2951,27,-0.74,7.46,630,7,195,85,38.99,1,0,NED,2026-2027,datafc_sofascore,2026-10-06 13:38:10
+37,96143,Thijs Jansen,1087782,SC Cambuur,2970,23,-2.9,7.04,630,7,159,51,29.48,0,0,NED,2026-2027,datafc_sofascore,2026-10-06 13:38:10
+37,96143,Stijn van Gassel,367118,Excelsior,2967,22,-0.57,7.1,630,7,205,88,40.0,0,0,NED,2026-2027,datafc_sofascore,2026-10-06 13:38:10
+37,96143,Bernt Klaverboer,1195719,SC Heerenveen,2964,20,-1.09,7.19,630,7,238,49,36.84,0,0,NED,2026-2027,datafc_sofascore,2026-10-06 13:38:10
+37,96143,Marc-André Ter Stegen,88625,AFC Ajax,2953,18,0.14,7.55,540,6,183,52,59.77,0,0,NED,2026-2027,datafc_sofascore,2026-10-06 13:38:10
+37,96143,Matěj Kovář,927366,PSV Eindhoven,2952,18,-1.58,6.96,630,7,174,43,45.74,0,0,NED,2026-2027,datafc_sofascore,2026-10-06 13:38:10
+37,96143,Michael Brouwer,252027,Sparta Rotterdam,2960,18,-1.75,6.48,360,4,83,28,28.57,0,0,NED,2026-2027,datafc_sofascore,2026-10-06 13:38:10
+37,96143,Kjetil Haug,792318,Go Ahead Eagles,2979,18,-5.31,6.36,630,7,206,49,34.03,0,0,NED,2026-2027,datafc_sofascore,2026-10-06 13:38:10
+37,96143,Lars Unnerstall,94835,FC Twente,2955,16,0.05,7.15,540,6,119,31,40.79,0,0,NED,2026-2027,datafc_sofascore,2026-10-06 13:38:10
+37,96143,Maxime Delanghe,909953,Willem II Tilburg,2961,16,-1.73,6.65,360,4,84,27,30.68,0,0,NED,2026-2027,datafc_sofascore,2026-10-06 13:38:10
+37,96143,Tjark Ernst,1019319,Feyenoord,2959,13,-2.17,6.89,630,7,159,38,40.43,0,0,NED,2026-2027,datafc_sofascore,2026-10-06 13:38:10
+37,96143,Jari De Busser,837072,AZ Alkmaar,2950,10,0.12,7.09,630,7,175,44,43.56,0,0,NED,2026-2027,datafc_sofascore,2026-10-06 13:38:10
+37,96143,Filip Bednarek,139149,Sparta Rotterdam,2960,10,-1.13,6.58,360,4,111,22,29.33,0,0,NED,2026-2027,datafc_sofascore,2026-10-06 13:38:10
+37,96143,Karst de Leeuw,2019834,Willem II Tilburg,2961,9,-0.21,7.45,180,2,42,26,40.0,0,0,NED,2026-2027,datafc_sofascore,2026-10-06 13:38:10
+37,96143,Nikolas Polster,962268,NEC Nijmegen,2962,9,-0.01,7.03,225,3,88,25,37.31,0,0,NED,2026-2027,datafc_sofascore,2026-10-06 13:38:10
+37,96143,Gonzalo Crettaz,990798,NEC Nijmegen,2962,7,-0.17,6.4,405,5,131,27,27.84,0,0,NED,2026-2027,datafc_sofascore,2026-10-06 13:38:10
+37,96143,Maarten Paes,843250,AFC Ajax,2953,3,0.41,6.9,90,1,19,1,25.0,0,0,NED,2026-2027,datafc_sofascore,2026-10-06 13:38:10
+37,96143,Thomas Didillon,339809,Willem II Tilburg,2961,3,0.0,6.9,68,1,16,9,37.5,0,0,NED,2026-2027,datafc_sofascore,2026-10-06 13:38:10
+37,96143,Wouter Van der Steen,137941,Willem II Tilburg,2961,3,0.06,6.6,22,1,3,0,0.0,0,0,NED,2026-2027,datafc_sofascore,2026-10-06 13:38:10
+37,96143,Joël Drommel,610396,FC Twente,2955,2,-0.31,6.8,90,1,25,6,42.86,0,0,NED,2026-2027,datafc_sofascore,2026-10-06 13:38:10

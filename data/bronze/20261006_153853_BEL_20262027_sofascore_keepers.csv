@@ -1,0 +1,25 @@
+﻿tournament_id,season_id,player_name,player_id,team_name,team_id,saves,goalsPrevented,rating,minutesPlayed,appearances,accuratePasses,accurateLongBalls,accurateLongBallsPercentage,yellowCards,redCards,_league_id,_season,_source,_scraped_at
+38,96616,Taishi Brandon Nozawa,1002358,Royal Antwerp FC,2889,30,-1.25,7.37,630,7,129,38,39.18,0,0,BEL,2026-2027,datafc_sofascore,2026-10-06 13:38:53
+38,96616,Léo Kokubo,997020,Sint-Truidense VV,2895,27,0.35,7.11,630,7,215,38,45.24,1,0,BEL,2026-2027,datafc_sofascore,2026-10-06 13:38:53
+38,96616,Matthias Pieklak,1405437,Lommel SK,5046,25,1.67,7.27,630,7,171,27,30.34,0,0,BEL,2026-2027,datafc_sofascore,2026-10-06 13:38:53
+38,96616,Johannes Schenk,1022459,SK Beveren,4859,23,2.45,7.36,572,7,144,48,42.48,0,1,BEL,2026-2027,datafc_sofascore,2026-10-06 13:38:53
+38,96616,Louis Bostyn,145093,SV Zulte Waregem,2933,22,1.75,7.43,585,7,114,56,50.0,0,0,BEL,2026-2027,datafc_sofascore,2026-10-06 13:38:53
+38,96616,Andreas Jungdal,963038,KVC Westerlo,2893,22,-2.85,6.67,630,7,141,25,24.04,0,0,BEL,2026-2027,datafc_sofascore,2026-10-06 13:38:53
+38,96616,Yann Sommer,16206,Club Brugge KV,2888,21,3.7,7.4,630,7,248,24,43.64,0,0,BEL,2026-2027,datafc_sofascore,2026-10-06 13:38:53
+38,96616,Dani van den Heuvel,1049432,Oud-Heverlee Leuven,2918,21,1.69,7.27,630,7,155,38,38.0,0,0,BEL,2026-2027,datafc_sofascore,2026-10-06 13:38:53
+38,96616,Marcos Hernán Peano,789394,RAAL La Louvière,368506,20,-0.36,6.73,622,7,166,45,36.59,0,1,BEL,2026-2027,datafc_sofascore,2026-10-06 13:38:53
+38,96616,Nacho Miras,1010556,KV Mechelen,5044,19,-1.58,7.0,630,7,152,42,40.38,0,0,BEL,2026-2027,datafc_sofascore,2026-10-06 13:38:53
+38,96616,Marko Ilić,843151,KV Kortrijk,4858,19,-1.49,6.92,540,6,97,42,37.17,0,0,BEL,2026-2027,datafc_sofascore,2026-10-06 13:38:53
+38,96616,Lucca Brughmans,1529975,KRC Genk,2890,19,-3.71,6.79,630,7,145,49,45.79,0,0,BEL,2026-2027,datafc_sofascore,2026-10-06 13:38:53
+38,96616,Davy Roef,156663,KAA Gent,2903,18,0.26,7.13,630,7,155,40,43.01,0,0,BEL,2026-2027,datafc_sofascore,2026-10-06 13:38:53
+38,96616,Matthieu Epolo,1121943,Standard Liège,2901,18,-0.37,6.89,630,7,134,51,36.96,2,0,BEL,2026-2027,datafc_sofascore,2026-10-06 13:38:53
+38,96616,Colin Coosemans,122399,RSC Anderlecht,2900,17,0.63,7.44,630,7,216,36,43.37,0,0,BEL,2026-2027,datafc_sofascore,2026-10-06 13:38:53
+38,96616,Mohamed Koné,1131009,RC Sporting Charleroi,2898,17,1.69,7.43,540,6,141,46,43.4,0,0,BEL,2026-2027,datafc_sofascore,2026-10-06 13:38:53
+38,96616,Gaëtan Coucke,794989,Cercle Brugge,2929,16,-2.58,6.69,630,7,114,31,30.1,0,0,BEL,2026-2027,datafc_sofascore,2026-10-06 13:38:53
+38,96616,Hervé Koffi,867299,Royale Union Saint-Gilloise,4860,15,2.04,7.53,540,6,121,39,54.17,1,0,BEL,2026-2027,datafc_sofascore,2026-10-06 13:38:53
+38,96616,Josua Lusamba Tshiolola,1446171,SK Beveren,4859,3,0.08,8.0,54,1,19,5,33.33,0,0,BEL,2026-2027,datafc_sofascore,2026-10-06 13:38:53
+38,96616,Brent Gabriel,861977,SV Zulte Waregem,2933,3,0.41,7.1,45,1,2,0,0.0,0,0,BEL,2026-2027,datafc_sofascore,2026-10-06 13:38:53
+38,96616,Patrik Sigurdur Gunnarsson,879496,KV Kortrijk,4858,3,0.4,6.6,90,1,25,7,70.0,0,0,BEL,2026-2027,datafc_sofascore,2026-10-06 13:38:53
+38,96616,Vic Chambaere,1108599,Royale Union Saint-Gilloise,4860,2,-0.66,7.2,90,1,20,8,42.11,0,0,BEL,2026-2027,datafc_sofascore,2026-10-06 13:38:53
+38,96616,Martin Delavallée,1141106,RC Sporting Charleroi,2898,0,,6.5,90,1,17,2,15.38,0,0,BEL,2026-2027,datafc_sofascore,2026-10-06 13:38:53
+38,96616,Théo Radelet,1566318,RAAL La Louvière,368506,0,-0.54,6.5,13,1,6,4,100.0,0,0,BEL,2026-2027,datafc_sofascore,2026-10-06 13:38:53

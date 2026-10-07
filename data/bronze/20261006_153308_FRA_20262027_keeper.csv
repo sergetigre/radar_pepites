@@ -1,0 +1,24 @@
+﻿league,season,team,player,nation,pos,age,born,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_GA,Performance_GA90,Performance_SoTA,Performance_Saves,Performance_Save%,Performance_W,Performance_D,Performance_L,Performance_CS,Performance_CS%,Penalty Kicks_PKatt,Penalty Kicks_PKA,Penalty Kicks_PKsv,Penalty Kicks_PKm,Penalty Kicks_Save%,_league_id,_season,_stat_type,_source,_scraped_at
+FRA-Ligue 1,2627,Angers,Anthony Lopes,POR,GK,36-005,1990,5,5,450,5.0,5,1.0,31,26,83.9,2,1,2,2,40,0,0,0,0,,FRA,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:33:08
+FRA-Ligue 1,2627,Auxerre,Mamadou Diop,MTN,GK,26-276,2000,5,5,450,5.0,12,2.4,29,17,58.6,2,0,3,1,20,2,2,0,0,0,FRA,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:33:08
+FRA-Ligue 1,2627,Brest,Egil Selvik,NOR,GK,29-068,1997,5,5,450,5.0,8,1.6,23,15,65.2,1,2,2,0,0,1,1,0,0,0,FRA,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:33:08
+FRA-Ligue 1,2627,Le Havre,Gauthier Gallon,FRA,GK,33-166,1993,3,2,181,2.0,3,1.49,6,3,50.0,0,1,1,1,50,1,1,0,0,0,FRA,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:33:08
+FRA-Ligue 1,2627,Le Havre,Lionel Mpasi,COD,GK,32-066,1994,3,3,269,3.0,4,1.34,23,19,82.6,0,1,2,0,0,1,1,0,0,0,FRA,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:33:08
+FRA-Ligue 1,2627,Le Mans,Ewan Hatfout,FRA,GK,26-188,2000,3,2,190,2.1,4,1.89,9,5,55.6,0,2,0,0,0,1,1,0,0,0,FRA,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:33:08
+FRA-Ligue 1,2627,Le Mans,Nicolas Kocik,FRA,GK,28-063,1998,3,3,260,2.9,5,1.73,15,10,66.7,1,1,1,0,0,0,0,0,0,,FRA,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:33:08
+FRA-Ligue 1,2627,Lens,Robin Risser,FRA,GK,21-308,2004,5,5,450,5.0,9,1.8,26,17,65.4,1,1,3,0,0,1,1,0,0,0,FRA,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:33:08
+FRA-Ligue 1,2627,Lille,Berke Özer,TUR,GK,26-134,2000,5,5,450,5.0,4,0.8,21,17,81.0,3,1,1,3,60,0,0,0,0,,FRA,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:33:08
+FRA-Ligue 1,2627,Lorient,Yvon Mvogo,SUI,GK,32-122,1994,5,5,450,5.0,6,1.2,20,14,70.0,1,2,2,2,40,1,1,0,0,0,FRA,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:33:08
+FRA-Ligue 1,2627,Lyon,Dominik Greif,SVK,GK,29-183,1997,4,4,360,4.0,2,0.5,15,13,86.7,2,2,0,2,50,0,0,0,0,,FRA,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:33:08
+FRA-Ligue 1,2627,Lyon,Rémy Descamps,FRA,GK,30-103,1996,1,1,90,1.0,0,0.0,2,2,100.0,1,0,0,1,100,0,0,0,0,,FRA,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:33:08
+FRA-Ligue 1,2627,Marseille,Jeffrey De Lange,NED,GK,28-188,1998,5,5,450,5.0,8,1.6,31,23,74.2,1,0,4,1,20,1,1,0,0,0,FRA,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:33:08
+FRA-Ligue 1,2627,Monaco,Lukáš Hrádecký,FIN,GK,36-316,1989,5,5,450,5.0,3,0.6,22,19,86.4,4,1,0,2,40,0,0,0,0,,FRA,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:33:08
+FRA-Ligue 1,2627,Nice,Yehvann Diouf,SEN,GK,26-324,1999,5,5,450,5.0,6,1.2,22,16,72.7,1,2,2,1,20,1,1,0,0,0,FRA,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:33:08
+FRA-Ligue 1,2627,Paris FC,Kevin Trapp,GER,GK,36-090,1990,5,5,450,5.0,3,0.6,13,10,76.9,3,2,0,3,60,0,0,0,0,,FRA,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:33:08
+FRA-Ligue 1,2627,Paris SG,Matvei Safonov,RUS,GK,27-223,1999,5,5,450,5.0,7,1.4,18,10,61.1,2,2,1,1,20,0,0,0,0,,FRA,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:33:08
+FRA-Ligue 1,2627,Rennes,Brice Samba,FRA,GK,32-164,1994,4,4,360,4.0,7,1.75,22,15,68.2,2,1,1,1,25,0,0,0,0,,FRA,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:33:08
+FRA-Ligue 1,2627,Rennes,Nicolas Lemaître,FRA,GK,29-267,1997,1,1,90,1.0,2,2.0,5,3,60.0,1,0,0,0,0,1,1,0,0,0,FRA,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:33:08
+FRA-Ligue 1,2627,Strasbourg,Filip Jørgensen,DEN,GK,24-173,2002,5,5,450,5.0,10,2.0,31,21,67.7,2,1,2,0,0,2,2,0,0,0,FRA,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:33:08
+FRA-Ligue 1,2627,Toulouse,Guillaume Restes,FRA,GK,21-209,2005,4,4,340,3.8,6,1.59,20,14,70.0,1,1,2,0,0,0,0,0,0,,FRA,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:33:08
+FRA-Ligue 1,2627,Toulouse,Mathys Niflore,FRA,GK,19-218,2007,2,1,110,1.2,3,2.45,6,3,50.0,0,1,0,0,0,0,0,0,0,,FRA,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:33:08
+FRA-Ligue 1,2627,Troyes,Patrick Beach,AUS,GK,23-061,2003,5,5,450,5.0,11,2.2,27,16,59.3,1,1,3,1,20,0,0,0,0,,FRA,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:33:08

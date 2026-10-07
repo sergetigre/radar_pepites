@@ -1,0 +1,28 @@
+﻿tournament_id,season_id,player_name,player_id,team_name,team_id,saves,goalsPrevented,rating,minutesPlayed,appearances,accuratePasses,accurateLongBalls,accurateLongBallsPercentage,yellowCards,redCards,_league_id,_season,_source,_scraped_at
+23,95836,Wladimiro Falcone,256667,Lecce,2689,27,1.42,7.68,450,5,84,38,33.04,1,0,ITA,2026-2027,datafc_sofascore,2026-10-06 13:36:09
+23,95836,Marco Carnesecchi,865646,Atalanta,2686,25,2.08,7.58,450,5,127,32,40.0,0,0,ITA,2026-2027,datafc_sofascore,2026-10-06 13:36:09
+23,95836,Christos Mandas,913762,Lazio,2699,21,3.44,7.86,450,5,123,22,32.84,0,0,ITA,2026-2027,datafc_sofascore,2026-10-06 13:36:09
+23,95836,Edoardo Corvi,990411,Parma,2690,21,1.19,7.56,450,5,135,30,41.67,0,0,ITA,2026-2027,datafc_sofascore,2026-10-06 13:36:09
+23,95836,Arijanet Murić,888971,Sassuolo,2793,21,0.08,7.48,450,5,125,31,52.54,0,0,ITA,2026-2027,datafc_sofascore,2026-10-06 13:36:09
+23,95836,Lorenzo Palmisani,1134623,Frosinone,2801,21,2.98,7.34,450,5,53,26,24.76,0,0,ITA,2026-2027,datafc_sofascore,2026-10-06 13:36:09
+23,95836,Maduka Okoye,891656,Udinese,2695,20,1.74,7.68,450,5,116,35,44.87,0,0,ITA,2026-2027,datafc_sofascore,2026-10-06 13:36:09
+23,95836,Elia Caprile,947954,Cagliari,2719,19,2.6,7.88,450,5,121,25,34.25,0,0,ITA,2026-2027,datafc_sofascore,2026-10-06 13:36:09
+23,95836,Filip Stanković,986355,Venezia,2688,17,-0.81,7.18,450,5,188,38,42.7,0,0,ITA,2026-2027,datafc_sofascore,2026-10-06 13:36:09
+23,95836,David De Gea,69378,Fiorentina,2693,14,-2.17,6.7,450,5,65,33,38.37,1,0,ITA,2026-2027,datafc_sofascore,2026-10-06 13:36:09
+23,95836,Mike Maignan,191210,AC Milan,2692,13,1.81,7.28,450,5,133,20,35.71,0,0,ITA,2026-2027,datafc_sofascore,2026-10-06 13:36:09
+23,95836,Mile Svilar,793986,AS Roma,2702,13,1.09,7.18,450,5,110,18,29.51,0,0,ITA,2026-2027,datafc_sofascore,2026-10-06 13:36:09
+23,95836,Justin Bijlow,556696,Genoa,2713,13,-2.99,6.46,450,5,164,27,29.35,0,0,ITA,2026-2027,datafc_sofascore,2026-10-06 13:36:09
+23,95836,Josep Martínez,845291,Inter,2697,12,-2.0,6.66,450,5,150,20,46.51,0,0,ITA,2026-2027,datafc_sofascore,2026-10-06 13:36:09
+23,95836,Alex Meret,592794,SSC Napoli,2714,11,-0.16,7.0,270,3,64,21,43.75,0,0,ITA,2026-2027,datafc_sofascore,2026-10-06 13:36:09
+23,95836,Guglielmo Vicario,553606,Juventus,2687,9,-0.21,6.98,449,5,103,18,45.0,0,0,ITA,2026-2027,datafc_sofascore,2026-10-06 13:36:09
+23,95836,Łukasz Skorupski,44906,Bologna,2685,9,-2.17,6.48,360,4,82,17,42.5,0,0,ITA,2026-2027,datafc_sofascore,2026-10-06 13:36:09
+23,95836,Jean Butez,599114,Como,2704,8,-0.82,6.9,360,4,98,19,35.19,0,0,ITA,2026-2027,datafc_sofascore,2026-10-06 13:36:09
+23,95836,Noel Törnqvist,1014583,Monza,2729,7,0.47,7.7,90,1,20,8,29.63,0,0,ITA,2026-2027,datafc_sofascore,2026-10-06 13:36:09
+23,95836,Lucas Perri,871290,Torino,2696,7,-0.74,6.53,270,3,81,23,28.75,0,0,ITA,2026-2027,datafc_sofascore,2026-10-06 13:36:09
+23,95836,Diego Mascardi,1471046,Torino,2696,7,-0.99,6.4,180,2,49,7,26.92,0,0,ITA,2026-2027,datafc_sofascore,2026-10-06 13:36:09
+23,95836,Vanja Milinković-Savić,356160,SSC Napoli,2714,5,0.17,7.3,180,2,61,13,44.83,0,0,ITA,2026-2027,datafc_sofascore,2026-10-06 13:36:09
+23,95836,Demba Thiam,861818,Monza,2729,4,-2.21,6.13,270,3,52,15,30.61,0,0,ITA,2026-2027,datafc_sofascore,2026-10-06 13:36:09
+23,95836,Robert Sánchez,920546,Como,2704,3,0.01,6.8,90,1,19,6,42.86,0,0,ITA,2026-2027,datafc_sofascore,2026-10-06 13:36:09
+23,95836,Massimo Pessina,1530540,Bologna,2685,3,-0.44,6.6,90,1,25,10,58.82,0,0,ITA,2026-2027,datafc_sofascore,2026-10-06 13:36:09
+23,95836,Semuel Pizzignacco,923820,Monza,2729,1,-2.45,4.1,90,1,13,5,33.33,0,0,ITA,2026-2027,datafc_sofascore,2026-10-06 13:36:09
+23,95836,Mattia Perin,79645,Juventus,2687,0,,6.5,8,1,1,0,0.0,0,0,ITA,2026-2027,datafc_sofascore,2026-10-06 13:36:09

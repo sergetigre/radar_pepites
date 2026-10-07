@@ -1,0 +1,427 @@
+﻿league,season,team,player,nation,pos,age,born,90s,Performance_CrdY,Performance_CrdR,Performance_2CrdY,Performance_Fls,Performance_Fld,Performance_Off,Performance_Crs,Performance_Int,Performance_TklW,Performance_PKwon,Performance_PKcon,Performance_OG,_league_id,_season,_stat_type,_source,_scraped_at
+ENG-Premier League,2627,Arsenal,Ben White,ENG,DF,28-363,1997,3.5,0,0,0,2,3,1,11,3,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Arsenal,Bruno Guimarães,BRA,MF,28-324,1997,1.4,0,0,0,0,6,0,1,2,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Arsenal,Bukayo Saka,ENG,MF,25-031,2001,4.6,0,0,0,2,15,4,18,3,6,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Arsenal,Christos Tzolis,GRE,MF,24-249,2002,4.0,2,0,0,2,8,1,13,2,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Arsenal,Cristhian Mosquera,ESP,DF,22-101,2004,1.9,0,0,0,1,0,0,0,2,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Arsenal,David Raya,ESP,GK,31-021,1995,5.0,0,0,0,0,2,0,0,0,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Arsenal,Declan Rice,ENG,MF,27-265,1999,4.6,1,0,0,4,0,1,15,5,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Arsenal,Eberechi Eze,ENG,"FW,MF",28-099,1998,1.0,0,0,0,0,4,0,1,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Arsenal,Ezri Konsa,ENG,DF,28-348,1997,3.1,0,0,0,4,5,2,0,4,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Arsenal,Gabriel Magalhães,BRA,DF,28-291,1997,5.0,2,0,0,5,5,0,1,6,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Arsenal,Jurriën Timber,NED,DF,25-111,2001,1.2,0,0,0,1,2,1,0,0,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Arsenal,Kai Havertz,GER,FW,27-117,1999,4.9,1,0,0,6,9,9,2,3,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Arsenal,Martin Ødegaard,NOR,MF,27-293,1998,4.2,0,0,0,2,6,0,6,1,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Arsenal,Martín Zubimendi,ESP,MF,27-246,1999,1.0,0,0,0,3,0,0,0,4,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Arsenal,Max Dowman,ENG,MF,16-279,2009,0.1,0,0,0,0,0,0,1,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Arsenal,Mikel Merino,ESP,MF,30-106,1996,0.9,1,0,0,4,2,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Arsenal,Myles Lewis-Skelly,ENG,MF,20-010,2006,3.0,0,0,0,8,7,0,0,2,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Arsenal,Noni Madueke,ENG,"FW,MF",24-210,2002,0.3,0,0,0,0,0,0,1,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Arsenal,Piero Hincapié,ECU,DF,24-270,2002,0.4,0,0,0,0,0,0,1,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Arsenal,Riccardo Calafiori,ITA,DF,24-140,2002,4.6,0,0,0,3,1,1,3,1,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Arsenal,Viktor Gyökeres,SWE,"FW,MF",28-124,1998,0.3,0,0,0,4,1,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Aston Villa,Aaron Wan-Bissaka,COD,DF,28-314,1997,1.7,0,0,0,1,1,0,1,7,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Aston Villa,Alejandro Garnacho,ARG,MF,22-097,2004,0.4,0,0,0,0,0,1,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Aston Villa,Alysson,BRA,MF,20-154,2006,1.0,1,0,0,1,1,0,0,0,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Aston Villa,Boubacar Kamara,FRA,MF,26-317,1999,4.9,0,0,0,9,7,0,1,2,7,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Aston Villa,Emi Buendía,ARG,"MF,FW",29-285,1996,4.5,0,0,0,4,7,1,9,4,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Aston Villa,George Hemmings,ENG,MF,19-216,2007,3.3,0,0,0,6,0,1,2,0,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Aston Villa,Ian Maatsen,NED,DF,24-210,2002,3.7,1,0,0,5,0,0,6,6,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Aston Villa,Ibrahim Mbaye,SEN,FW,18-255,2008,0.4,0,0,0,2,0,0,1,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Aston Villa,Johan Manzambi,SUI,MF,20-357,2005,1.1,0,0,0,0,2,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Aston Villa,John McGinn,SCO,MF,31-353,1994,4.8,2,0,0,6,14,0,19,5,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Aston Villa,João Gomes,BRA,MF,25-236,2001,1.4,1,1,0,4,2,0,0,3,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Aston Villa,Lamare Bogarde,NED,"DF,MF",22-274,2004,0.2,0,0,0,0,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Aston Villa,Marco Bizot,NED,GK,35-210,1991,1.0,0,0,0,0,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Aston Villa,Matteo Ruggeri,ITA,DF,24-087,2002,1.3,0,0,0,0,1,0,4,6,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Aston Villa,Matty Cash,POL,DF,29-060,1997,3.3,2,0,0,6,6,0,1,1,5,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Aston Villa,Nicolas Jackson,SEN,FW,25-108,2001,3.2,2,0,0,2,2,3,3,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Aston Villa,Pau Torres,ESP,DF,29-263,1997,2.1,0,0,0,2,1,0,1,1,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Aston Villa,Ross Barkley,ENG,MF,32-305,1993,3.4,0,0,0,4,4,0,0,0,5,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Aston Villa,Tammy Abraham,ENG,FW,29-004,1997,0.8,0,0,0,0,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Aston Villa,Tyrone Mings,ENG,DF,33-207,1993,2.9,1,0,0,2,2,0,0,1,3,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Aston Villa,Victor Lindelöf,SWE,DF,32-081,1994,5.0,0,0,0,1,0,0,0,1,0,,,1,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Aston Villa,Zion Suzuki,JPN,GK,24-046,2002,4.0,0,0,0,0,2,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Bournemouth,Adam Smith,ENG,DF,35-160,1991,4.8,3,0,0,7,8,0,4,4,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Bournemouth,Adrien Truffert,FRA,DF,24-320,2001,5.0,1,0,0,11,3,1,21,7,6,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Bournemouth,Alex Scott,ENG,MF,23-046,2003,4.9,1,0,0,4,17,0,15,8,5,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Bournemouth,Alex Tóth,HUN,MF,20-348,2005,0.2,0,0,0,0,0,0,0,0,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Bournemouth,António Silva,POR,DF,22-341,2003,5.0,2,0,0,3,1,0,0,8,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Bournemouth,Ben Gannon-Doak,SCO,MF,20-329,2005,0.2,0,0,0,0,0,0,3,0,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Bournemouth,Daniel Jebbison,CAN,FW,23-054,2003,0.4,0,0,0,0,2,0,2,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Bournemouth,David Brooks,WAL,"FW,MF",29-090,1997,0.5,1,0,0,3,1,1,1,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Bournemouth,Evanilson,BRA,FW,27-000,1999,4.7,1,0,0,9,10,5,2,4,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Bournemouth,James Hill,ENG,DF,24-269,2002,5.0,1,0,0,5,3,1,1,7,5,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Bournemouth,Justin Kluivert,NED,MF,27-154,1999,3.3,1,0,0,5,5,0,4,2,3,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Bournemouth,Lewis Cook,ENG,MF,29-245,1997,2.0,1,0,0,2,0,0,0,4,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Bournemouth,Marcus Tavernier,ENG,MF,27-198,1999,4.7,2,0,0,3,8,0,24,0,6,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Bournemouth,Rayan,BRA,MF,20-064,2006,4.8,0,0,0,1,5,0,10,2,3,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Bournemouth,Ryan Christie,SCO,MF,31-226,1995,1.2,0,0,0,0,0,1,1,3,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Bournemouth,Tyler Adams,USA,MF,27-234,1999,3.1,0,0,0,6,3,0,1,7,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Bournemouth,Álvaro Rodríguez,URU,FW,22-084,2004,0.1,0,0,0,1,1,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Bournemouth,Đorđe Petrović,SRB,GK,26-363,1999,5.0,0,0,0,0,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brentford,Aaron Hickey,SCO,DF,24-118,2002,1.7,0,0,0,3,4,0,3,2,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brentford,Callum Wilson,ENG,FW,34-221,1992,0.2,0,0,0,1,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brentford,Caoimhín Kelleher,IRL,GK,27-317,1998,5.0,0,0,0,0,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brentford,Dango Ouattara,BFA,MF,24-237,2002,2.0,0,0,0,6,3,1,4,3,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brentford,El Hadji Malick Diouf,SEN,"DF,MF",21-282,2004,0.5,0,0,0,0,1,0,2,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brentford,Fabio Carvalho,POR,"FW,MF",24-037,2002,0.0,0,0,0,0,0,0,1,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brentford,Igor Thiago,BRA,FW,25-102,2001,4.9,2,0,0,7,2,0,2,0,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brentford,Jaidon Anthony,ENG,MF,26-309,1999,3.0,1,0,0,5,2,2,8,0,3,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brentford,Jannik Schuster,AUT,DF,20-143,2006,2.8,0,0,0,4,2,0,0,0,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brentford,Keane Lewis-Potter,ENG,DF,25-226,2001,4.5,0,0,0,9,2,1,24,4,3,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brentford,Kevin Schade,GER,MF,24-313,2001,5.0,0,0,0,2,8,0,1,1,6,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brentford,Kristoffer Ajer,NOR,DF,28-172,1998,5.0,1,0,0,4,3,0,0,7,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brentford,Mamadou Sangare,MLI,MF,24-102,2002,3.6,2,0,0,9,5,0,2,7,7,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brentford,Mathias Jensen,DEN,MF,30-278,1996,0.7,0,0,0,3,0,0,5,0,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brentford,Michael Kayode,ITA,DF,22-088,2004,3.3,0,0,0,4,4,0,7,5,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brentford,Mikkel Damsgaard,DEN,MF,26-095,2000,3.2,0,0,0,1,3,1,20,2,3,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brentford,Nathan Collins,IRL,DF,25-159,2001,2.2,1,0,0,2,3,1,0,2,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brentford,Rico Henry,JAM,"DF,MF",29-090,1997,0.0,0,0,0,0,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brentford,Vitaly Janelt,GER,MF,28-149,1998,5.0,3,0,0,9,2,0,11,16,10,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brentford,Yehor Yarmoliuk,UKR,MF,22-219,2004,2.4,1,0,0,3,1,0,6,2,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brighton,Bart Verbruggen,NED,GK,24-049,2002,5.0,0,0,0,0,1,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brighton,Charalampos Kostoulas,GRE,FW,19-129,2007,3.9,1,0,0,5,6,4,4,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brighton,Chema,ESP,MF,21-164,2005,1.2,0,0,0,4,0,0,0,2,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brighton,Costinha,POR,"DF,MF",26-194,2000,0.8,1,0,0,3,2,0,2,2,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brighton,Diego Gómez,PAR,MF,23-193,2003,4.8,0,0,0,6,0,2,11,4,7,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brighton,Ferdi Kadioglu,TUR,DF,26-364,1999,3.7,1,0,0,2,4,0,4,1,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brighton,Georginio Rutter,FRA,FW,24-169,2002,1.2,0,0,0,0,0,2,1,0,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brighton,Ibrahim Osman,GHA,"FW,MF",21-311,2004,0.5,0,0,0,1,2,0,3,0,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brighton,Jack Hinshelwood,ENG,MF,21-178,2005,0.7,0,0,0,0,2,0,0,0,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brighton,Lewis Dunk,ENG,DF,34-319,1991,4.0,1,0,0,4,2,0,2,2,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brighton,Luka Vušković,CRO,DF,19-224,2007,4.9,0,0,0,7,6,0,2,3,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brighton,Malick Yalcouye,CIV,MF,20-322,2005,2.6,0,0,0,3,4,0,5,0,3,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brighton,Mats Wieffer,NED,DF,26-324,1999,1.7,0,0,0,1,3,0,5,5,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brighton,Matt O'Riley,DEN,MF,25-319,2000,0.1,0,0,0,0,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brighton,Maxim De Cuyper,BEL,MF,25-288,2000,4.7,2,0,0,7,4,3,26,2,6,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brighton,Michael Svoboda,AUT,DF,27-356,1998,0.1,0,0,0,0,0,0,0,0,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brighton,Olivier Boscagli,FRA,"DF,MF",28-322,1997,4.8,1,0,0,9,8,0,20,7,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brighton,Pascal Groß,GER,MF,35-113,1991,5.0,2,0,0,8,0,0,36,4,5,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brighton,Pascal Struijk,NED,DF,27-056,1999,1.1,1,0,0,0,1,0,0,0,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brighton,Promise David,CAN,FW,25-095,2001,0.3,1,0,0,2,0,1,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brighton,Yasin Ayari,SWE,MF,23-000,2003,3.7,1,0,0,2,3,0,0,2,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Brighton,Zadok Yohanna,NGA,FW,19-099,2007,0.1,0,0,0,1,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Chelsea,Cole Palmer,ENG,MF,24-153,2002,4.9,1,0,0,4,7,1,5,1,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Chelsea,Danny Welbeck,ENG,FW,35-314,1990,1.0,0,0,0,1,0,1,0,0,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Chelsea,Emiliano Martínez,ARG,GK,34-034,1992,4.0,0,0,0,0,3,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Chelsea,Enzo Fernández,ARG,MF,25-262,2001,0.3,0,0,0,0,1,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Chelsea,Estêvão Willian,BRA,MF,19-165,2007,0.3,0,0,0,0,1,0,2,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Chelsea,Geovany Quenda,POR,MF,19-159,2007,0.3,0,0,0,0,0,1,2,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Chelsea,Jordan Henderson,ENG,MF,36-111,1990,1.0,0,0,0,0,0,0,10,0,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Chelsea,Jorrel Hato,NED,"MF,DF",20-213,2006,2.9,0,0,0,1,2,1,0,2,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Chelsea,Joshua Acheampong,ENG,DF,20-154,2006,2.5,0,0,0,2,1,1,1,1,5,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Chelsea,João Pedro,BRA,FW,25-010,2001,4.0,1,0,0,5,12,0,3,0,1,,,1,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Chelsea,Levi Colwill,ENG,DF,23-222,2003,3.8,1,0,0,2,1,0,0,4,3,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Chelsea,Mahdi Jazuli,ENG,MF,16-273,2010,0.0,0,0,0,0,0,0,0,0,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Chelsea,Malo Gusto,FRA,"MF,DF",23-140,2003,3.0,0,0,0,1,0,0,12,4,3,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Chelsea,Maxence Lacroix,FRA,DF,26-183,2000,4.1,1,0,0,3,2,0,0,6,5,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Chelsea,Moisés Caicedo,ECU,MF,24-338,2001,0.2,0,0,0,0,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Chelsea,Morgan Rogers,ENG,MF,24-072,2002,4.9,1,0,0,5,7,1,7,0,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Chelsea,Pedro Neto,POR,MF,26-211,2000,3.7,0,0,0,5,1,0,21,5,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Chelsea,Pep Chavarría,ESP,MF,28-179,1998,2.3,0,0,0,3,2,0,8,3,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Chelsea,Reece James,ENG,MF,26-302,1999,3.3,1,0,0,3,2,0,15,3,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Chelsea,Robert Sánchez,ESP,GK,28-322,1997,1.0,0,0,0,0,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Chelsea,Roméo Lavia,BEL,MF,22-273,2004,2.9,1,0,0,2,5,0,0,6,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Chelsea,Valentín Barco,ARG,MF,22-075,2004,1.3,1,0,0,2,4,0,3,4,3,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Chelsea,Wesley Fofana,FRA,DF,25-293,2000,3.5,1,0,0,4,6,0,1,11,5,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Coventry City,Aurèle Amenda,SUI,DF,23-067,2003,4.0,1,0,0,6,0,0,0,3,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Coventry City,Bobby Thomas,ENG,DF,25-249,2001,4.9,0,0,0,5,8,1,1,7,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Coventry City,Brandon Thomas-Asante,GHA,"MF,FW",27-281,1998,2.5,0,0,0,0,9,0,3,9,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Coventry City,Caleb Yirenkyi,GHA,MF,20-264,2006,3.0,1,0,0,9,4,0,3,2,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Coventry City,Carl Rushworth,ENG,GK,25-096,2001,5.0,0,0,0,0,1,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Coventry City,Ellis Simms,ENG,FW,25-274,2001,1.2,0,0,0,2,1,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Coventry City,Ephron Mason-Clark,JAM,MF,27-042,1999,2.6,0,0,0,7,4,3,9,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Coventry City,Ethan Pinnock,JAM,DF,33-130,1993,3.1,1,0,0,1,0,0,1,4,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Coventry City,Frank Onyeka,NGA,MF,28-278,1998,3.5,0,0,0,7,6,0,1,6,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Coventry City,Gustavo Hamer,NED,MF,29-104,1997,0.4,0,0,0,3,0,0,1,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Coventry City,Jack Rudoni,ENG,MF,26-133,2000,3.3,0,0,0,5,5,0,14,3,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Coventry City,Jay Dasilva,WAL,"MF,DF",28-167,1998,4.9,0,0,0,2,0,0,11,4,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Coventry City,Joël Latibeaudière,JAM,"DF,MF",26-273,2000,0.0,0,0,0,0,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Coventry City,Loum Tchaouna,FRA,MF,23-028,2003,2.4,0,0,0,1,3,1,12,0,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Coventry City,Matt Grimes,ENG,MF,31-083,1995,4.9,0,0,0,3,5,0,17,2,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Coventry City,Milan van Ewijk,NED,"MF,DF",26-028,2000,4.0,1,0,0,4,2,0,4,5,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Coventry City,Sidiki Cherif,FRA,FW,19-295,2006,0.3,0,0,0,0,1,1,0,1,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Coventry City,Stephen Mfuni,ENG,DF,18-236,2008,1.0,0,0,0,1,0,0,0,1,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Coventry City,Taiwo Awoniyi,NGA,FW,29-055,1997,2.6,0,1,0,3,2,3,0,1,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Coventry City,Tatsuhiro Sakamoto,JPN,"FW,MF",29-349,1996,0.4,0,0,0,0,0,0,3,0,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Coventry City,Victor Torp,DEN,MF,27-068,1999,0.6,0,0,0,1,0,0,5,1,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Crystal Palace,Adam Wharton,ENG,MF,22-242,2004,4.8,1,0,0,1,10,0,7,7,5,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Crystal Palace,Anan Khalaili,ISR,MF,22-033,2004,4.2,1,0,0,4,1,1,12,6,12,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Crystal Palace,Axel Disasi,FRA,DF,28-209,1998,1.5,0,1,0,3,0,0,0,6,3,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Crystal Palace,Ben Chilwell,ENG,"DF,MF",29-289,1996,0.3,0,0,0,0,2,0,1,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Crystal Palace,Chadi Riad,MAR,DF,23-111,2003,0.8,0,0,0,2,0,0,0,1,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Crystal Palace,Chris Richards,USA,DF,26-192,2000,5.0,1,0,0,2,0,0,2,7,6,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Crystal Palace,Daichi Kamada,JPN,MF,30-062,1996,4.9,1,0,0,1,7,3,6,2,9,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Crystal Palace,Daniel Muñoz,COL,MF,30-133,1996,0.6,0,0,0,1,0,0,0,1,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Crystal Palace,Darío Osorio,CHI,"FW,MF",22-255,2004,0.0,0,0,0,0,0,1,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Crystal Palace,Dean Henderson,ENG,GK,29-208,1997,3.0,0,0,0,0,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Crystal Palace,Dwight McNeil,ENG,MF,26-318,1999,0.9,0,0,0,1,0,0,0,1,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Crystal Palace,Eddie Nketiah,ENG,"MF,FW",27-129,1999,1.9,0,0,0,3,1,1,0,1,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Crystal Palace,Evann Guessand,CIV,"FW,MF",25-097,2001,0.6,0,0,0,2,0,0,1,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Crystal Palace,Honest Ahanor,ITA,DF,18-225,2008,1.0,0,0,0,2,5,0,1,1,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Crystal Palace,Ismaila Sarr,SEN,"FW,MF",28-223,1998,0.1,0,0,0,0,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Crystal Palace,Jaydee Canvot,FRA,DF,20-069,2006,4.0,0,0,0,2,1,1,1,7,6,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Crystal Palace,Jean-Philippe Mateta,FRA,FW,29-100,1997,0.7,0,0,0,2,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Crystal Palace,Jefferson Lerma,COL,"DF,MF",31-346,1994,0.6,1,0,0,2,1,0,0,1,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Crystal Palace,Jørgen Strand Larsen,NOR,FW,26-242,2000,3.3,0,0,0,4,3,1,0,0,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Crystal Palace,Quinten Timber,NED,MF,25-111,2001,2.8,0,0,0,4,6,0,2,2,6,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Crystal Palace,Takehiro Tomiyasu,JPN,DF,27-335,1998,2.1,0,0,0,2,2,0,4,5,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Crystal Palace,Tyrick Mitchell,ENG,MF,27-035,1999,4.7,0,0,0,3,0,0,11,2,7,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Crystal Palace,Walter Benítez,ARG,GK,33-260,1993,2.0,0,0,0,0,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Crystal Palace,Will Hughes,ENG,MF,31-172,1995,0.3,0,0,0,0,0,0,2,0,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Crystal Palace,Yéremy Pino,ESP,MF,23-351,2002,3.4,1,0,0,5,7,2,17,1,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Crystal Palace,Zavier Gozo,USA,MF,19-198,2007,0.3,0,0,0,1,0,1,1,0,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Crystal Palace,Óscar Mingueza,ESP,"DF,MF",27-146,1999,0.2,0,0,0,1,0,0,0,0,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Everton,Ainsley Maitland-Niles,ENG,DF,29-038,1997,2.0,0,0,0,0,1,0,4,1,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Everton,Beto,GNB,FW,28-248,1998,0.4,0,0,0,0,0,0,1,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Everton,Brennan Johnson,WAL,MF,25-136,2001,2.7,1,0,0,5,1,4,7,3,5,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Everton,Carlos Alcaraz,ARG,MF,23-310,2002,0.1,1,0,0,1,0,0,0,0,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Everton,Harrison Armstrong,ENG,MF,19-260,2007,4.9,2,0,0,9,2,0,1,5,6,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Everton,Hayden Hackney,ENG,MF,24-102,2002,1.6,0,0,0,2,3,0,6,1,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Everton,Iliman Ndiaye,SEN,MF,26-214,2000,2.0,0,0,0,2,1,0,2,2,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Everton,Jack Grealish,ENG,MF,31-026,1995,1.4,0,0,0,1,5,0,2,0,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Everton,Jake O'Brien,IRL,DF,25-144,2001,0.2,0,0,0,0,0,1,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Everton,James Garner,ENG,MF,25-207,2001,3.7,2,0,0,4,5,0,13,3,8,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Everton,James Tarkowski,ENG,DF,33-321,1992,5.0,0,0,0,1,8,0,1,14,9,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Everton,Jarrad Branthwaite,ENG,DF,24-101,2002,5.0,0,0,0,3,3,1,0,7,3,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Everton,Jordan Pickford,ENG,GK,32-213,1994,5.0,0,0,0,0,4,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Everton,Kiernan Dewsbury-Hall,ENG,MF,28-030,1998,5.0,1,0,0,1,8,0,21,1,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Everton,Merlin Röhl,GER,DF,24-093,2002,2.8,1,0,0,3,4,0,7,1,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Everton,Thierno Barry,FRA,FW,23-350,2002,4.6,0,0,0,3,5,0,2,2,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Everton,Tim Iroegbunam,ENG,MF,23-098,2003,0.1,0,0,0,1,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Everton,Tyler Dibling,ENG,MF,20-208,2006,0.3,0,0,0,0,0,0,1,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Everton,Tyrique George,ENG,MF,20-244,2006,3.4,0,0,0,1,5,2,9,3,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Everton,Vitaliy Mykolenko,UKR,DF,27-130,1999,5.0,1,0,0,3,3,0,11,6,11,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Fulham,Alex Iwobi,NGA,MF,30-156,1996,4.5,0,0,0,2,2,0,16,3,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Fulham,Antonee Robinson,USA,DF,29-059,1997,4.8,0,0,0,4,4,1,18,3,10,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Fulham,Bernd Leno,GER,GK,34-216,1992,5.0,0,0,0,0,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Fulham,Calvin Bassey,NGA,DF,26-279,1999,5.0,1,0,0,3,7,0,0,4,3,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Fulham,César Palacios,ESP,MF,21-329,2004,2.5,1,0,0,6,0,0,2,1,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Fulham,David Affengruber,AUT,DF,25-201,2001,2.0,0,0,0,1,0,0,0,2,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Fulham,Emile Smith Rowe,ENG,MF,26-070,2000,0.5,0,0,0,0,0,0,0,1,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Fulham,Gonzalo García,ESP,FW,22-196,2004,4.7,0,0,0,7,3,1,3,1,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Fulham,Hugo Larsson,SWE,MF,22-101,2004,0.4,0,0,0,0,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Fulham,Joachim Andersen,DEN,DF,30-128,1996,2.1,1,0,0,3,2,0,0,2,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Fulham,Jorge Cuenca,ESP,DF,26-323,1999,1.0,0,0,0,0,0,0,0,1,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Fulham,Joshua King,ENG,MF,19-276,2007,4.7,1,0,0,5,6,0,4,1,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Fulham,Kenny Tete,NED,DF,30-362,1995,0.3,1,0,0,2,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Fulham,Kevin,BRA,MF,23-275,2003,0.7,0,0,0,3,0,0,5,1,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Fulham,Oscar Bobb,NOR,MF,23-086,2003,3.8,0,0,0,2,5,0,14,5,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Fulham,Rodrigo Muniz,BRA,FW,25-155,2001,0.5,1,0,0,1,1,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Fulham,Ryan Sessegnon,ENG,"DF,FW",26-141,2000,0.6,0,0,0,0,0,0,8,2,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Fulham,Sander Berge,NOR,MF,28-234,1998,3.9,0,0,0,1,1,0,1,1,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Fulham,Shea Charles,NIR,MF,22-335,2003,3.4,0,0,0,1,3,0,2,9,3,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Fulham,Timothy Castagne,BEL,DF,30-305,1995,4.5,2,0,0,9,4,2,5,4,5,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Hull City,Bachir Belloumi,ALG,MF,24-127,2002,4.4,1,0,0,7,1,1,11,9,8,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Hull City,Brooke Norton-Cuffy,ENG,"DF,MF",22-267,2004,0.4,1,0,0,1,0,0,2,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Hull City,Cody Drameh,ENG,"DF,MF",24-302,2001,0.7,0,0,0,1,1,0,0,2,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Hull City,Elliot Stroud,SWE,MF,24-106,2002,2.8,1,0,0,6,0,0,4,2,3,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Hull City,Hidemasa Morita,JPN,MF,31-149,1995,0.5,0,0,0,0,0,0,1,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Hull City,Jens Hjertø-Dahl,NOR,MF,20-340,2005,0.1,0,0,0,0,1,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Hull City,Joe Gelhardt,ENG,"FW,MF",24-155,2002,0.1,0,0,0,0,0,0,1,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Hull City,John Egan,IRL,DF,33-351,1992,4.9,1,0,0,3,1,0,0,6,3,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Hull City,Kostas Tzolakis,GRE,GK,23-332,2002,5.0,1,0,0,0,5,0,0,1,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Hull City,Lewie Coyle,ENG,DF,30-356,1995,3.9,1,0,0,2,4,0,8,2,3,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Hull City,Liam Millar,CAN,"FW,MF",27-009,1999,0.6,1,0,0,1,1,0,0,0,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Hull City,Lucas Gourna-Douath,FRA,MF,23-062,2003,1.5,1,0,0,2,1,0,1,2,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Hull City,Lucas Herrington,AUS,DF,19-031,2007,2.2,0,0,0,1,0,0,0,2,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Hull City,Matt Crooks,ENG,MF,32-259,1994,2.3,3,0,0,5,1,0,1,0,5,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Hull City,Matt Targett,ENG,"DF,MF",31-018,1995,0.1,0,0,0,0,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Hull City,Mohamed Ali Cho,FRA,"FW,MF",22-260,2004,0.8,0,0,0,1,0,1,4,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Hull City,Nobel Mendy,SEN,DF,22-033,2004,2.8,0,0,0,3,1,1,1,3,3,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Hull City,Oliver McBurnie,SCO,FW,30-124,1996,4.9,3,0,0,7,11,0,0,1,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Hull City,Paddy McNair,NIR,"DF,MF",31-162,1995,0.3,0,0,0,0,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Hull City,Regan Slater,ENG,MF,27-025,1999,4.9,1,0,0,4,3,0,6,4,5,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Hull City,Robinio Vaz,FRA,FW,19-231,2007,0.2,0,0,0,1,2,0,1,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Hull City,Ryan Giles,ENG,DF,26-253,2000,4.9,1,0,0,1,1,0,43,4,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Hull City,Semi Ajayi,NGA,DF,32-331,1993,4.7,1,0,0,1,1,0,2,5,3,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Hull City,Sorba Thomas,WAL,MF,27-045,1999,1.3,0,0,0,1,0,1,7,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Hull City,Tim Iroegbunam,ENG,MF,23-098,2003,0.7,1,0,0,2,0,0,0,1,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Ipswich Town,Abdoul Ouattara,FRA,DF,20-349,2005,1.5,0,0,0,0,0,0,0,3,3,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Ipswich Town,Abdul Fatawu Issahaku,GHA,MF,22-212,2004,3.9,4,1,1,10,7,1,27,4,5,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Ipswich Town,Christian Walton,ENG,GK,30-331,1995,1.0,0,0,0,0,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Ipswich Town,Chuba Akpom,ENG,"FW,MF",30-362,1995,0.9,0,0,0,1,2,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Ipswich Town,Daizen Maeda,JPN,MF,28-351,1997,2.9,0,0,0,6,0,0,3,0,6,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Ipswich Town,Dara O'Shea,IRL,DF,27-216,1999,5.0,0,0,0,3,3,0,7,5,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Ipswich Town,Darnell Furlong,ENG,"DF,MF",30-340,1995,0.2,0,0,0,0,0,0,0,1,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Ipswich Town,Emersonn,BRA,FW,22-082,2004,3.5,0,0,0,1,5,2,1,0,3,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Ipswich Town,Exequiel Palacios,ARG,MF,28-001,1998,3.1,0,0,0,5,6,0,1,6,5,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Ipswich Town,Florentino Luís,POR,MF,27-048,1999,0.4,0,0,0,1,0,0,1,1,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Ipswich Town,Issa Diop,MAR,DF,29-270,1997,5.0,0,0,0,5,1,0,0,10,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Ipswich Town,Jack Clarke,ENG,MF,25-317,2000,1.9,1,0,0,2,1,0,3,2,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Ipswich Town,Jacob Greaves,ENG,DF,26-024,2000,4.0,1,0,0,2,5,1,0,2,3,,,1,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Ipswich Town,Jaden Philogene Bidace,ENG,"FW,MF",24-240,2002,0.6,0,0,0,1,1,0,3,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Ipswich Town,Julio Enciso,PAR,MF,22-256,2004,4.6,1,0,0,2,9,2,1,2,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Ipswich Town,Kasey McAteer,IRL,MF,24-318,2001,0.5,0,0,0,1,0,0,0,0,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Ipswich Town,Kjell Scherpen,NED,GK,26-256,2000,4.0,0,0,0,0,1,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Ipswich Town,Leif Davis,ENG,DF,26-279,1999,5.0,0,0,0,1,3,1,14,3,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Ipswich Town,Marcelino Núñez,CHI,MF,26-219,2000,1.6,0,0,0,1,0,0,1,1,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Ipswich Town,Saša Lukić,SRB,MF,30-054,1996,4.4,2,0,0,11,1,0,9,6,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Ipswich Town,Sindre Egeli,NOR,"FW,MF",20-107,2006,0.1,0,0,0,1,1,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Ipswich Town,Zian Flemming,NED,"FW,MF",28-066,1998,0.7,1,0,0,4,0,1,1,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Leeds United,Anton Stach,GER,MF,27-325,1998,5.0,0,0,0,10,9,0,28,11,6,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Leeds United,Ao Tanaka,JPN,MF,28-026,1998,2.8,1,0,0,4,2,2,0,2,3,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Leeds United,Brenden Aaronson,USA,MF,25-349,2000,2.2,0,0,0,1,6,0,0,0,3,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Leeds United,Daniel James,WAL,"FW,MF",28-330,1997,0.6,0,0,0,1,0,0,4,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Leeds United,Dominic Calvert-Lewin,ENG,FW,29-204,1997,4.7,3,0,0,9,4,5,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Leeds United,Ethan Ampadu,WAL,MF,26-022,2000,5.0,0,0,0,4,4,1,2,10,6,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Leeds United,Gabriel Gudmundsson,SWE,MF,27-160,1999,2.8,0,0,0,2,4,0,9,3,3,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Leeds United,Harry Wilson,WAL,MF,29-198,1997,1.6,1,0,0,3,2,2,8,2,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Leeds United,Jaka Bijol,SVN,DF,27-243,1999,1.8,0,0,0,1,1,0,1,3,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Leeds United,James Justin,ENG,"DF,MF",28-225,1998,5.0,0,0,0,3,6,0,9,8,9,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Leeds United,James Trafford,ENG,GK,23-361,2002,5.0,0,0,0,0,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Leeds United,Jayden Bogle,ENG,MF,26-071,2000,4.1,2,0,0,6,8,0,5,2,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Leeds United,Jean Mattéo Bahoya,FRA,MF,21-152,2005,0.0,0,0,0,0,1,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Leeds United,Joe Rodon,WAL,DF,28-349,1997,1.4,0,0,0,3,2,0,1,2,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Leeds United,Lukas Nmecha,GER,FW,27-296,1998,0.8,0,0,0,0,3,0,2,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Leeds United,Melvin Bard,FRA,"DF,MF",25-334,2000,0.2,0,0,0,1,0,0,0,1,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Leeds United,Nico Elvedi,SUI,DF,30-006,1996,3.6,0,0,0,1,2,0,0,4,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Leeds United,Noah Okafor,SUI,"MF,FW",26-135,2000,3.3,0,0,0,2,5,0,9,1,7,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Leeds United,Sean Longstaff,ENG,MF,28-341,1997,0.1,0,0,0,0,1,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Leeds United,Tarik Muharemovic,BIH,DF,23-220,2003,5.0,0,0,0,2,5,1,1,11,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Liverpool,Alexander Isak,SWE,FW,27-015,1999,4.6,1,0,0,1,3,4,1,1,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Liverpool,Alexis Mac Allister,ARG,MF,27-286,1998,3.4,1,0,0,5,5,0,2,2,7,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Liverpool,Alisson,BRA,GK,34-004,1992,5.0,1,0,0,1,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Liverpool,Bradley Barcola,FRA,MF,24-034,2002,1.9,0,0,0,0,0,1,2,0,3,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Liverpool,Cody Gakpo,NED,MF,27-152,1999,4.1,0,0,0,6,6,4,10,7,7,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Liverpool,Dominik Szoboszlai,HUN,MF,25-346,2000,4.9,1,0,0,10,3,1,36,4,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Liverpool,Florian Wirtz,GER,MF,23-156,2003,4.5,1,0,0,7,4,0,4,0,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Liverpool,Jeremie Frimpong,NED,DF,25-300,2000,2.0,1,0,0,2,1,1,11,1,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Liverpool,Jérémy Jacquet,FRA,DF,21-085,2005,4.6,1,0,0,5,5,0,0,8,6,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Liverpool,Kostas Tsimikas,GRE,DF,30-147,1996,0.7,0,0,0,4,0,0,5,1,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Liverpool,Lewis Koumas,WAL,"FW,MF",21-017,2005,0.3,0,0,0,0,2,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Liverpool,Milos Kerkez,HUN,DF,22-333,2003,4.3,2,0,0,9,6,0,13,2,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Liverpool,Rio Ngumoha,ENG,MF,18-038,2008,1.1,0,0,0,2,2,0,6,0,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Liverpool,Ronald Araújo,URU,DF,27-213,1999,3.2,1,0,0,2,0,0,8,2,3,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Liverpool,Ryan Gravenberch,NED,MF,24-143,2002,2.1,0,0,0,4,5,0,0,3,3,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Liverpool,Trey Nyoni,ENG,MF,19-098,2007,0.5,0,0,0,1,0,0,0,2,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Liverpool,Virgil van Dijk,NED,DF,35-090,1991,5.0,1,0,0,1,0,0,0,7,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Liverpool,Víctor Muñoz,ESP,MF,23-085,2003,2.9,1,0,0,5,8,0,8,3,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester City,Abdukodir Khusanov,UZB,DF,22-219,2004,3.0,1,0,0,2,1,0,2,3,5,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester City,Antoine Semenyo,GHA,MF,26-272,2000,5.0,0,0,0,7,6,5,14,1,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester City,Ayyoub Bouaddi,MAR,MF,19-004,2007,0.3,0,0,0,0,0,0,0,1,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester City,Elliot Anderson,ENG,MF,23-334,2002,4.6,1,0,0,6,12,0,14,9,7,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester City,Enzo Fernández,ARG,MF,25-262,2001,2.7,1,0,0,6,8,1,12,3,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester City,Erling Haaland,NOR,FW,26-077,2000,5.0,0,0,0,4,5,1,0,1,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester City,Gianluigi Donnarumma,ITA,GK,27-223,1999,5.0,0,0,0,0,1,0,0,0,0,,,1,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester City,Iliman Ndiaye,SEN,MF,26-214,2000,2.3,0,0,0,2,9,0,9,2,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester City,Jack Grealish,ENG,"FW,MF",31-026,1995,0.1,0,0,0,1,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester City,Jeremy Doku,BEL,"FW,MF",24-132,2002,0.2,0,0,0,0,0,0,1,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester City,Joško Gvardiol,CRO,DF,24-256,2002,4.8,1,0,0,3,5,0,3,5,5,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester City,Kaden Braithwaite,ENG,DF,18-240,2008,0.0,0,0,0,0,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester City,Marc Guéhi,ENG,"DF,MF",26-085,2000,5.0,0,0,0,2,5,0,0,4,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester City,Mateo Kovačić,CRO,MF,32-153,1994,0.5,0,0,0,0,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester City,Matheus Nunes,POR,DF,28-040,1998,2.4,0,0,0,1,1,1,3,2,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester City,Nico O'Reilly,ENG,MF,21-199,2005,1.8,0,0,0,3,0,0,4,1,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester City,Phil Foden,ENG,MF,26-131,2000,2.4,1,1,0,4,6,0,12,0,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester City,Rayan Cherki,FRA,MF,23-050,2003,3.4,1,0,0,5,4,0,14,1,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester City,Rico Lewis,ENG,DF,21-319,2004,0.6,0,0,0,1,2,0,2,2,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester City,Ryan Mcaidoo,ENG,FW,18-104,2008,0.1,0,0,0,0,1,0,1,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester City,Rúben Dias,POR,DF,29-145,1997,5.0,0,0,0,6,1,0,0,3,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester City,Vitor Reis,BRA,DF,20-267,2006,0.0,0,0,0,0,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester Utd,Andrey Santos,BRA,MF,22-156,2004,0.9,0,0,0,2,2,0,0,0,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester Utd,Ayden Heaven,ENG,DF,20-014,2006,1.0,0,0,0,1,2,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester Utd,Benjamin Šeško,SVN,FW,23-128,2003,0.9,0,0,0,1,0,0,1,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester Utd,Bruno Fernandes,POR,MF,32-028,1994,5.0,0,0,0,3,1,0,37,1,3,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester Utd,Bryan Mbeumo,CMR,MF,27-060,1999,5.0,1,0,0,4,5,2,25,4,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester Utd,Diogo Dalot,POR,DF,27-202,1999,3.9,1,0,0,6,2,1,9,4,5,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester Utd,Harry Maguire,ENG,DF,33-215,1993,5.0,2,0,0,7,4,0,4,6,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester Utd,Joshua Zirkzee,NED,FW,25-137,2001,0.2,0,0,0,0,0,0,1,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester Utd,Kobbie Mainoo,ENG,MF,21-170,2005,3.9,0,0,0,4,5,0,1,6,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester Utd,Leny Yoro,FRA,DF,20-327,2005,0.3,0,0,0,1,0,0,0,2,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester Utd,Lisandro Martínez,ARG,DF,28-261,1998,4.0,0,0,0,2,0,0,0,2,3,,,1,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester Utd,Luke Shaw,ENG,DF,31-086,1995,3.7,1,0,0,2,1,0,11,6,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester Utd,Marcus Rashford,ENG,MF,28-340,1997,3.9,0,0,0,2,8,5,18,1,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester Utd,Mason Mount,ENG,MF,27-269,1999,0.1,0,0,0,0,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester Utd,Matheus Cunha,BRA,FW,27-132,1999,4.5,0,0,0,5,6,0,9,1,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester Utd,Noussair Mazraoui,MAR,DF,28-326,1997,1.1,0,0,0,1,0,0,5,0,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester Utd,Patrick Dorgu,DEN,"MF,DF",21-345,2004,1.9,1,0,0,7,1,2,5,1,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester Utd,Senne Lammens,BEL,GK,24-091,2002,5.0,0,0,0,0,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester Utd,Shea Lacey,ENG,FW,19-175,2007,0.1,0,0,0,0,0,0,1,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Manchester Utd,Youri Tielemans,BEL,MF,29-152,1997,4.5,0,0,0,1,8,0,4,7,5,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Newcastle,Aladji Bamba,FRA,MF,20-084,2006,0.3,0,0,0,1,0,0,0,0,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Newcastle,Amar Dedić,BIH,DF,24-049,2002,3.6,0,0,0,6,4,0,4,1,3,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Newcastle,Anthony Elanga,SWE,MF,24-162,2002,2.6,1,0,0,3,4,0,6,0,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Newcastle,Bazoumana Touré,CIV,MF,20-218,2006,0.6,0,0,0,1,1,3,3,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Newcastle,Fabian Schär,SUI,DF,34-290,1991,0.3,0,0,0,1,0,0,1,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Newcastle,Harvey Barnes,ENG,MF,28-301,1997,5.0,0,0,0,5,10,0,11,3,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Newcastle,Jacob Murphy,ENG,MF,31-224,1995,2.0,3,0,0,2,5,0,9,0,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Newcastle,Jacob Ramsey,ENG,MF,25-131,2001,0.8,1,0,0,3,0,0,0,1,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Newcastle,Joe Willock,ENG,MF,27-047,1999,3.2,0,0,0,5,6,1,3,1,3,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Newcastle,Lewis Hall,ENG,DF,22-028,2004,5.0,0,0,0,4,6,0,21,5,9,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Newcastle,Lewis Miley,ENG,"MF,DF",20-158,2006,4.4,1,0,0,2,2,0,2,5,5,,,1,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Newcastle,Lukáš Horníček,CZE,GK,24-085,2002,5.0,1,0,0,0,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Newcastle,Malick Thiaw,GER,DF,25-059,2001,5.0,0,0,0,4,3,0,0,2,0,,,1,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Newcastle,Matias Fernandez-Pardo,BEL,"MF,FW",21-245,2005,1.8,0,0,0,2,2,2,2,0,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Newcastle,Nick Woltemade,GER,"FW,MF",24-234,2002,0.2,0,0,0,0,2,1,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Newcastle,Nicolás González,ESP,MF,24-276,2002,1.8,1,0,0,8,3,0,1,1,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Newcastle,Sean Steur,NED,MF,18-268,2008,2.5,0,0,0,1,0,0,0,1,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Newcastle,Sven Botman,NED,DF,26-267,2000,5.0,1,0,0,2,4,0,0,5,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Newcastle,Tino Livramento,ENG,"DF,MF",23-328,2002,0.4,1,0,0,1,0,0,3,0,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Newcastle,William Osula,DEN,FW,23-063,2003,0.6,0,0,0,0,0,0,0,0,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Newcastle,Yoane Wissa,COD,"FW,MF",30-033,1996,4.9,2,0,0,10,12,2,1,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Nottingham,Arnaud Kalimuendo,FRA,FW,24-259,2002,0.0,0,0,0,0,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Nottingham,Callum Hudson-Odoi,ENG,"FW,MF",25-333,2000,0.0,0,0,0,1,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Nottingham,Chris Wood,NZL,FW,34-303,1991,0.7,0,0,0,0,1,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Nottingham,Dan Ndoye,SUI,MF,25-346,2000,3.5,1,0,0,8,6,2,1,1,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Nottingham,Daniel Muñoz,COL,MF,30-133,1996,2.3,0,0,0,2,1,2,7,0,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Nottingham,Ibrahim Sangaré,CIV,MF,28-308,1997,1.2,0,0,0,2,1,0,2,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Nottingham,Igor Jesus,BRA,FW,25-223,2001,2.9,1,0,0,7,6,1,1,0,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Nottingham,Jair,BRA,DF,21-213,2005,4.0,2,0,0,6,6,0,3,3,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Nottingham,James Mcatee,ENG,MF,23-353,2002,4.6,2,0,0,7,9,0,18,1,9,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Nottingham,Liam Delap,ENG,FW,23-240,2003,3.1,2,0,0,5,4,2,2,0,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Nottingham,Luca Netz,GER,"DF,MF",23-144,2003,0.3,0,0,0,1,0,0,2,0,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Nottingham,Matz Sels,BEL,GK,34-222,1992,5.0,0,0,0,0,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Nottingham,Morgan Gibbs-White,ENG,MF,26-252,2000,5.0,0,0,0,4,8,2,23,1,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Nottingham,Murillo,BRA,DF,24-094,2002,5.0,1,0,0,9,2,0,0,7,7,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Nottingham,Neco Williams,WAL,MF,25-176,2001,5.0,0,0,0,6,9,1,25,0,11,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Nottingham,Nicolás Domínguez,ARG,MF,28-100,1998,0.0,0,0,0,0,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Nottingham,Nikola Milenković,SRB,DF,28-359,1997,3.0,1,0,0,5,2,0,0,3,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Nottingham,Ola Aina,NGA,"MF,DF",29-363,1996,3.4,2,0,0,5,4,0,8,3,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Nottingham,Ousmane Diomande,CIV,DF,22-306,2003,1.8,0,0,0,3,1,1,0,1,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Nottingham,Xaver Schlager,AUT,MF,29-008,1997,4.2,1,0,0,4,2,0,1,4,11,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Sunderland,Brian Brobbey,NED,FW,24-247,2002,4.4,1,0,0,8,9,4,1,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Sunderland,Chemsdine Talbi,MAR,MF,21-150,2005,0.4,0,0,0,1,0,1,3,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Sunderland,Chris Rigg,ENG,MF,19-110,2007,0.2,0,0,0,0,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Sunderland,Daniel Ballard,NIR,DF,27-014,1999,5.0,2,0,0,10,8,0,0,4,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Sunderland,Dayann Methalie,FRA,DF,20-233,2006,1.0,1,0,0,1,0,0,1,0,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Sunderland,Enzo Le Fée,FRA,MF,26-245,2000,4.9,0,0,0,1,9,2,13,3,5,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Sunderland,Granit Xhaka,SUI,MF,34-009,1992,5.0,2,0,0,5,10,0,26,5,6,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Sunderland,Habib Diarra,SEN,MF,22-276,2004,0.3,0,0,0,1,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Sunderland,Kevin Danso,AUT,DF,28-017,1998,3.0,0,0,0,3,3,1,1,1,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Sunderland,Luke O'Nien,ENG,DF,31-319,1994,0.7,1,0,0,2,0,0,2,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Sunderland,Malick Fofana,BEL,"FW,MF",21-189,2005,0.7,0,0,0,2,0,0,5,0,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Sunderland,Nilson Angulo,ECU,MF,23-109,2003,3.5,1,0,0,4,6,0,7,4,3,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Sunderland,Noah Sadiki,COD,MF,21-293,2004,4.6,1,0,0,3,7,0,2,3,5,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Sunderland,Nordi Mukiele,FRA,DF,28-339,1997,4.0,1,0,0,4,2,1,9,6,9,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Sunderland,Omar Alderete,PAR,DF,29-284,1996,0.3,0,0,0,0,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Sunderland,Reinildo Mandava,MOZ,DF,32-258,1994,4.0,2,1,1,8,5,0,3,9,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Sunderland,Robin Roefs,NED,GK,23-262,2003,5.0,0,0,0,0,3,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Sunderland,Romaine Mundle,ENG,MF,23-165,2003,0.0,0,0,0,0,0,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Sunderland,Thomas Meunier,BEL,"MF,DF",35-024,1991,4.4,0,0,0,3,0,0,9,4,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Sunderland,Trai Hume,NIR,MF,24-202,2002,2.3,0,0,0,4,2,0,6,1,6,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Sunderland,Wilson Isidor,HAI,"FW,MF",26-040,2000,1.3,0,0,0,5,5,1,0,1,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Tottenham,Andy Robertson,SCO,DF,32-209,1994,4.1,0,0,0,1,2,4,24,3,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Tottenham,Antonín Kinský,CZE,GK,23-207,2003,5.0,0,0,0,0,1,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Tottenham,Archie Gray,ENG,DF,20-208,2006,3.4,0,0,0,3,5,0,2,4,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Tottenham,Conor Gallagher,ENG,MF,26-242,2000,1.5,1,0,0,2,6,0,2,1,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Tottenham,Destiny Udogie,ITA,DF,23-312,2002,1.0,1,0,0,3,3,0,2,1,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Tottenham,Dominic Solanke,ENG,FW,29-022,1997,1.9,0,0,0,2,2,1,0,0,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Tottenham,James Maddison,ENG,"FW,MF",29-317,1996,0.7,0,0,0,0,3,0,4,1,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Tottenham,Jan Paul van Hecke,NED,DF,26-120,2000,5.0,1,0,0,7,5,0,4,4,5,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Tottenham,Lucas Bergvall,SWE,MF,20-246,2006,0.9,0,0,0,1,1,0,2,0,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Tottenham,Marcos Senesi,ARG,DF,29-149,1997,1.0,0,0,0,2,3,1,0,2,4,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Tottenham,Mateus Fernandes,POR,MF,22-088,2004,2.8,1,0,0,9,1,0,9,2,5,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Tottenham,Mathys Tel,FRA,MF,21-162,2005,2.9,0,0,0,4,1,0,12,0,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Tottenham,Micky van de Ven,NED,DF,25-170,2001,4.0,1,0,0,3,7,0,0,3,5,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Tottenham,Mikey Moore,ENG,MF,19-056,2007,1.0,0,0,0,0,1,1,2,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Tottenham,Mohammed Kudus,GHA,"FW,MF",26-065,2000,1.4,0,0,0,2,6,1,14,0,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Tottenham,Mykhailo Mudryk,UKR,MF,25-274,2001,0.2,0,0,0,1,1,0,1,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Tottenham,Omar Marmoush,EGY,"MF,FW",27-241,1999,3.8,0,0,0,8,4,2,3,0,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Tottenham,Pedro Porro,ESP,"DF,MF",27-023,1999,2.2,0,0,0,1,3,0,10,1,2,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Tottenham,Richarlison,BRA,FW,29-149,1997,0.7,0,0,0,2,1,0,0,0,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Tottenham,Rodrigo Bentancur,URU,MF,29-103,1997,4.1,0,0,0,9,1,0,1,6,8,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Tottenham,Sandro Tonali,ITA,MF,26-151,2000,4.7,0,0,0,2,5,2,4,4,3,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Tottenham,Sávio,BRA,MF,22-179,2004,2.7,0,0,0,4,5,0,20,2,0,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00
+ENG-Premier League,2627,Tottenham,Tosin Adarabioyo,ENG,DF,29-012,1997,0.1,0,0,0,0,0,0,0,0,1,,,0,ENG,2026-2027,misc,fbref_soccerdata,2026-10-06 13:25:00

@@ -1,0 +1,25 @@
+﻿tournament_id,season_id,player_name,player_id,team_name,team_id,saves,goalsPrevented,rating,minutesPlayed,appearances,accuratePasses,accurateLongBalls,accurateLongBallsPercentage,yellowCards,redCards,_league_id,_season,_source,_scraped_at
+17,96668,James Trafford,980643,Leeds United,34,20,0.95,7.2,450,5,123,37,34.91,0,0,ENG,2026-2027,datafc_sofascore,2026-10-06 13:34:06
+17,96668,Lukáš Horníček,963744,Newcastle United,39,19,1.22,7.4,450,5,96,21,25.3,1,0,ENG,2026-2027,datafc_sofascore,2026-10-06 13:34:06
+17,96668,Emiliano Martínez,158263,Chelsea,38,18,-0.17,7.7,360,4,71,30,37.5,0,0,ENG,2026-2027,datafc_sofascore,2026-10-06 13:34:06
+17,96668,Konstantinos Tzolakis,953414,Hull City,96,17,1.48,7.4,450,5,75,48,32.0,1,0,ENG,2026-2027,datafc_sofascore,2026-10-06 13:34:06
+17,96668,Caoimhin Kelleher,827362,Brentford,50,17,0.55,7.22,450,5,115,34,38.64,0,0,ENG,2026-2027,datafc_sofascore,2026-10-06 13:34:06
+17,96668,Senne Lammens,964753,Manchester United,35,16,-0.04,7.14,450,5,75,10,30.3,0,0,ENG,2026-2027,datafc_sofascore,2026-10-06 13:34:06
+17,96668,Bernd Leno,103335,Fulham,43,16,-0.12,6.66,450,5,154,15,20.27,0,0,ENG,2026-2027,datafc_sofascore,2026-10-06 13:34:06
+17,96668,Jordan Pickford,138530,Everton,48,15,1.55,7.22,450,5,127,30,29.13,0,0,ENG,2026-2027,datafc_sofascore,2026-10-06 13:34:06
+17,96668,Zion Suzuki,905351,Aston Villa,40,15,0.63,7.13,360,4,101,27,36.99,0,0,ENG,2026-2027,datafc_sofascore,2026-10-06 13:34:06
+17,96668,Kjell Scherpen,852394,Ipswich Town,32,15,-2.51,7.03,360,4,76,25,35.21,0,0,ENG,2026-2027,datafc_sofascore,2026-10-06 13:34:06
+17,96668,Gianluigi Donnarumma,824509,Manchester City,17,14,1.59,7.48,450,5,90,28,37.84,0,0,ENG,2026-2027,datafc_sofascore,2026-10-06 13:34:06
+17,96668,Alisson,243609,Liverpool FC,44,14,0.85,7.36,450,5,123,24,47.06,1,0,ENG,2026-2027,datafc_sofascore,2026-10-06 13:34:06
+17,96668,Bart Verbruggen,994363,Brighton & Hove Albion,30,12,2.51,7.62,450,5,153,30,42.86,0,0,ENG,2026-2027,datafc_sofascore,2026-10-06 13:34:06
+17,96668,Dean Henderson,788134,Crystal Palace,7,12,-1.45,6.8,270,3,63,8,33.33,0,0,ENG,2026-2027,datafc_sofascore,2026-10-06 13:34:06
+17,96668,Antonín Kinský,1031251,Tottenham Hotspur,33,12,-1.35,6.56,450,5,108,18,28.57,0,0,ENG,2026-2027,datafc_sofascore,2026-10-06 13:34:06
+17,96668,Matz Sels,78152,Nottingham Forest,14,11,-0.93,6.66,450,5,64,29,30.21,0,0,ENG,2026-2027,datafc_sofascore,2026-10-06 13:34:06
+17,96668,Đorđe Petrović,882604,Bournemouth,60,11,-1.01,6.6,450,5,107,25,30.86,0,0,ENG,2026-2027,datafc_sofascore,2026-10-06 13:34:06
+17,96668,David Raya,581310,Arsenal,42,9,0.09,7.22,450,5,111,37,42.53,0,0,ENG,2026-2027,datafc_sofascore,2026-10-06 13:34:06
+17,96668,Carl Rushworth,1005800,Coventry City,11,9,-1.93,6.76,450,5,113,55,37.16,0,0,ENG,2026-2027,datafc_sofascore,2026-10-06 13:34:06
+17,96668,Robin Roefs,1012928,Sunderland,41,6,-3.16,6.52,450,5,129,40,40.0,0,0,ENG,2026-2027,datafc_sofascore,2026-10-06 13:34:06
+17,96668,Walter Benítez,249859,Crystal Palace,7,5,1.69,7.7,180,2,33,11,35.48,0,0,ENG,2026-2027,datafc_sofascore,2026-10-06 13:34:06
+17,96668,Robert Sánchez,920546,Chelsea,38,4,-0.83,5.8,90,1,13,8,33.33,0,0,ENG,2026-2027,datafc_sofascore,2026-10-06 13:34:06
+17,96668,Marco Bizot,100390,Aston Villa,40,3,-0.41,6.4,90,1,18,8,42.11,0,0,ENG,2026-2027,datafc_sofascore,2026-10-06 13:34:06
+17,96668,Christian Walton,198038,Ipswich Town,32,1,0.38,7.0,90,1,27,10,27.03,0,0,ENG,2026-2027,datafc_sofascore,2026-10-06 13:34:06

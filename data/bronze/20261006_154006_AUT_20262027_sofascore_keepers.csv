@@ -1,0 +1,16 @@
+﻿tournament_id,season_id,player_name,player_id,team_name,team_id,saves,goalsPrevented,rating,minutesPlayed,appearances,accuratePasses,accurateLongBalls,accurateLongBallsPercentage,yellowCards,redCards,_league_id,_season,_source,_scraped_at
+45,97043,Salko Hamzić,1493202,WSG Tirol,5405,29,5.76,7.21,630,7,196,44,31.88,0,0,AUT,2026-2027,datafc_sofascore,2026-10-06 13:40:06
+45,97043,Ármin Pécsi,1134236,TSV Hartberg,2075,26,0.86,7.03,630,7,187,40,34.78,0,0,AUT,2026-2027,datafc_sofascore,2026-10-06 13:40:06
+45,97043,Cican Stanković,125488,Grazer AK 1902,2052,25,-0.26,6.97,630,7,148,54,45.38,0,0,AUT,2026-2027,datafc_sofascore,2026-10-06 13:40:06
+45,97043,Niklas Hedl,918421,SK Rapid Wien,2055,24,1.28,7.33,630,7,220,46,36.8,0,0,AUT,2026-2027,datafc_sofascore,2026-10-06 13:40:06
+45,97043,Lukas Gütlbauer,942888,Wolfsberger AC,2076,21,1.74,7.02,450,5,119,30,26.09,1,0,AUT,2026-2027,datafc_sofascore,2026-10-06 13:40:06
+45,97043,Andreas Leitner,138119,SV Ried,2049,21,-0.86,6.97,630,7,175,63,49.22,0,0,AUT,2026-2027,datafc_sofascore,2026-10-06 13:40:06
+45,97043,Samuel Sahin-Radlinger,66340,FK Austria Wien,2203,20,0.71,7.01,630,7,146,12,19.05,0,0,AUT,2026-2027,datafc_sofascore,2026-10-06 13:40:06
+45,97043,Domenik Schierl,190825,SC Austria Lustenau,2062,19,1.15,7.13,540,6,110,53,34.87,0,1,AUT,2026-2027,datafc_sofascore,2026-10-06 13:40:06
+45,97043,Dejan Stojanović,109453,SCR Altach,4856,18,-1.66,6.9,630,7,161,69,43.95,1,0,AUT,2026-2027,datafc_sofascore,2026-10-06 13:40:06
+45,97043,Christian Zawieschitzky,1474199,Red Bull Salzburg,2046,13,1.68,6.97,630,7,197,26,41.27,0,0,AUT,2026-2027,datafc_sofascore,2026-10-06 13:40:06
+45,97043,Daniil Khudyakov,1101753,SK Sturm Graz,2051,12,0.43,7.02,450,5,74,27,34.18,0,0,AUT,2026-2027,datafc_sofascore,2026-10-06 13:40:06
+45,97043,Lukas Jungwirth,1031170,LASK,2058,11,-0.21,6.74,630,7,138,26,32.91,0,0,AUT,2026-2027,datafc_sofascore,2026-10-06 13:40:06
+45,97043,Nikolas Polster,962268,Wolfsberger AC,2076,10,3.64,8.5,180,2,60,15,33.33,1,0,AUT,2026-2027,datafc_sofascore,2026-10-06 13:40:06
+45,97043,Ammar Helac,886066,SK Sturm Graz,2051,8,-0.19,6.65,180,2,52,4,28.57,0,0,AUT,2026-2027,datafc_sofascore,2026-10-06 13:40:06
+45,97043,Phillip Bohm,1897272,SC Austria Lustenau,2062,2,-0.89,5.9,90,1,32,11,68.75,1,0,AUT,2026-2027,datafc_sofascore,2026-10-06 13:40:06

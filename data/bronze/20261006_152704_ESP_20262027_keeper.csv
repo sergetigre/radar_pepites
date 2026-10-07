@@ -1,0 +1,28 @@
+﻿league,season,team,player,nation,pos,age,born,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_GA,Performance_GA90,Performance_SoTA,Performance_Saves,Performance_Save%,Performance_W,Performance_D,Performance_L,Performance_CS,Performance_CS%,Penalty Kicks_PKatt,Penalty Kicks_PKA,Penalty Kicks_PKsv,Penalty Kicks_PKm,Penalty Kicks_Save%,_league_id,_season,_stat_type,_source,_scraped_at
+ESP-La Liga,2627,Alavés,Antonio Sivera,ESP,GK,30-056,1996,7,7,630,7.0,6,0.86,28,22,78.6,3,2,2,3,42.9,2,1,1,0,50,ESP,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:27:04
+ESP-La Liga,2627,Athletic Club,Unai Simón,ESP,GK,29-117,1997,6,6,540,6.0,6,1.0,23,17,73.9,2,2,2,3,50.0,1,1,0,0,0,ESP,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:27:04
+ESP-La Liga,2627,Atlético Madrid,Jan Oblak,SVN,GK,33-272,1993,7,7,630,7.0,7,1.0,23,16,69.6,5,1,1,3,42.9,2,2,0,0,0,ESP,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:27:04
+ESP-La Liga,2627,Barcelona,Dominik Livaković,CRO,GK,31-270,1995,1,1,90,1.0,1,1.0,3,2,66.7,1,0,0,0,0.0,0,0,0,0,,ESP,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:27:04
+ESP-La Liga,2627,Barcelona,Joan García,ESP,GK,25-155,2001,6,6,495,5.5,5,0.91,16,11,68.8,6,0,0,3,50.0,0,0,0,0,,ESP,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:27:04
+ESP-La Liga,2627,Barcelona,Wojciech Szczęsny,POL,GK,36-171,1990,1,0,45,0.5,1,2.0,1,0,0.0,0,0,0,0,,0,0,0,0,,ESP,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:27:04
+ESP-La Liga,2627,Celta Vigo,Ionuț Radu,ROU,GK,29-131,1997,7,7,630,7.0,6,0.86,27,21,77.8,1,4,2,3,42.9,1,1,0,0,0,ESP,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:27:04
+ESP-La Liga,2627,Dep. A Coruña,Leo Román,ESP,GK,26-092,2000,7,7,630,7.0,8,1.14,31,23,74.2,2,4,1,0,0.0,1,1,0,0,0,ESP,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:27:04
+ESP-La Liga,2627,Elche,Matías Dituro,ARG,GK,39-151,1987,7,7,630,7.0,17,2.43,35,18,51.4,1,2,4,0,0.0,1,1,0,0,0,ESP,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:27:04
+ESP-La Liga,2627,Espanyol,Marko Dmitrović,SRB,GK,34-255,1992,7,7,630,7.0,10,1.43,32,22,68.8,2,1,4,2,28.6,0,0,0,0,,ESP,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:27:04
+ESP-La Liga,2627,Getafe,David Soria,ESP,GK,33-185,1993,7,7,630,7.0,7,1.0,29,22,75.9,2,2,3,2,28.6,2,1,1,0,50,ESP,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:27:04
+ESP-La Liga,2627,Levante,Mathew Ryan,AUS,GK,34-181,1992,6,6,540,6.0,12,2.0,33,21,63.6,1,2,3,2,33.3,2,1,1,0,50,ESP,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:27:04
+ESP-La Liga,2627,Málaga,Alfonso Herrero,ESP,GK,32-168,1994,7,7,630,7.0,12,1.71,40,28,70.0,0,3,4,1,14.3,1,1,0,0,0,ESP,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:27:04
+ESP-La Liga,2627,Osasuna,Aitor Fernández,ESP,GK,35-156,1991,2,2,180,2.0,5,2.5,13,8,61.5,0,1,1,0,0.0,0,0,0,0,,ESP,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:27:04
+ESP-La Liga,2627,Osasuna,Sergio Herrera,ESP,GK,33-123,1993,5,5,450,5.0,8,1.6,14,6,42.9,2,1,2,2,40.0,0,0,0,0,,ESP,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:27:04
+ESP-La Liga,2627,Racing Sant,Julen Agirrezabala,ESP,GK,25-284,2000,7,7,630,7.0,21,3.0,50,29,58.0,2,1,4,0,0.0,4,3,1,0,25,ESP,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:27:04
+ESP-La Liga,2627,Rayo Vallecano,Augusto Batalla,ARG,GK,30-159,1996,2,2,149,1.7,2,1.21,5,3,60.0,0,1,1,0,0.0,2,2,0,0,0,ESP,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:27:04
+ESP-La Liga,2627,Rayo Vallecano,Dani Cárdenas,ESP,GK,29-192,1997,3,2,211,2.3,8,3.41,16,8,50.0,1,0,1,0,0.0,0,0,0,0,,ESP,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:27:04
+ESP-La Liga,2627,Rayo Vallecano,Emil Audero,IDN,GK,29-261,1997,3,3,270,3.0,6,2.0,18,12,66.7,1,1,1,0,0.0,1,1,0,0,0,ESP,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:27:04
+ESP-La Liga,2627,Real Betis,Álvaro Vallés,ESP,GK,29-073,1997,7,7,630,7.0,7,1.0,37,30,81.1,5,1,1,4,57.1,1,0,1,0,100,ESP,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:27:04
+ESP-La Liga,2627,Real Madrid,Thibaut Courtois,BEL,GK,34-148,1992,7,7,630,7.0,8,1.14,29,21,72.4,5,0,2,1,14.3,1,1,0,0,0,ESP,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:27:04
+ESP-La Liga,2627,Real Sociedad,Unai Marrero,ESP,GK,24-362,2001,1,1,90,1.0,2,2.0,10,8,80.0,1,0,0,0,0.0,0,0,0,0,,ESP,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:27:04
+ESP-La Liga,2627,Real Sociedad,Álex Remiro,ESP,GK,31-196,1995,6,6,540,6.0,11,1.83,34,23,67.6,2,1,3,1,16.7,1,1,0,0,0,ESP,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:27:04
+ESP-La Liga,2627,Sevilla,Odysseas Vlachodimos,GRE,GK,32-163,1994,7,7,630,7.0,9,1.29,29,20,69.0,4,1,2,2,28.6,0,0,0,0,,ESP,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:27:04
+ESP-La Liga,2627,Valencia,Stole Dimitrievski,MKD,GK,32-285,1993,7,7,630,7.0,13,1.86,35,22,62.9,1,1,5,2,28.6,1,1,0,0,0,ESP,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:27:04
+ESP-La Liga,2627,Villarreal,Luiz Lúcio Reis Júnior,BRA,GK,25-265,2001,4,4,360,4.0,8,2.0,14,6,42.9,0,2,2,0,0.0,1,1,0,0,0,ESP,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:27:04
+ESP-La Liga,2627,Villarreal,Péter Gulácsi,HUN,GK,36-153,1990,3,3,270,3.0,4,1.33,14,10,71.4,2,0,1,0,0.0,0,0,0,0,,ESP,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:27:04

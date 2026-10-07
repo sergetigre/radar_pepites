@@ -1,0 +1,630 @@
+﻿player_id,player_name,date_of_birth,age,nationality,nationality_id,height,weight,preferred_foot,jersey_number,position,position_detailed,market_value,market_currency,team_id,team_name,_league_id,_season,_source,_scraped_at
+1217613,Gift Orban,2002-07-17,24.0,Nigeria,,178.0,,Right,99,F,['ST'],7300000.0,EUR,207011,Amed Sportif Faaliyetler,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+346790,Mbaye Diagne,1991-10-28,34.0,Senegal,,191.0,86.0,Right,45,F,['ST'],640000.0,EUR,207011,Amed Sportif Faaliyetler,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+966663,Samuel Ballet,2001-03-12,25.0,Switzerland,,184.0,,Both,10,F,['RW'],3800000.0,EUR,207011,Amed Sportif Faaliyetler,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1513097,Mohamed Khalil,2000-11-08,25.0,Syria,,174.0,,Right,74,F,['LW'],130000.0,EUR,207011,Amed Sportif Faaliyetler,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2216073,Muhammed Yıldırım,2005-10-10,20.0,Türkiye,,174.0,69.0,Right,19,F,,,,207011,Amed Sportif Faaliyetler,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1430696,Emrullah Ertus,2001-05-25,25.0,Türkiye,,174.0,69.0,Right,,F,,26000.0,EUR,207011,Amed Sportif Faaliyetler,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+757742,Rayan Raveloson,1997-01-16,29.0,Madagascar,,182.0,73.0,Right,22,M,"['MC', 'DM']",1100000.0,EUR,207011,Amed Sportif Faaliyetler,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+985162,Yira Collins Sor,2000-07-24,26.0,Nigeria,,174.0,,Right,11,M,"['ST', 'LW']",3900000.0,EUR,207011,Amed Sportif Faaliyetler,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+609926,Dia Saba,1992-11-18,33.0,Israel,,172.0,,Left,91,M,['AM'],670000.0,EUR,207011,Amed Sportif Faaliyetler,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1160858,Ermal Krasniqi,1998-09-07,28.0,Kosovo,,188.0,,Left,7,M,"['RW', 'LW']",970000.0,EUR,207011,Amed Sportif Faaliyetler,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1218519,Rayan Lutin,2003-01-16,23.0,Comoros,,170.0,,Left,93,M,['AM'],850000.0,EUR,207011,Amed Sportif Faaliyetler,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+797820,Gökhan Gül,1998-07-17,28.0,Germany,,180.0,75.0,Right,18,M,"['DM', 'MC', 'DC']",1200000.0,EUR,207011,Amed Sportif Faaliyetler,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1405687,Berk Kızıldemir,2006-02-11,20.0,Türkiye,,185.0,,Left,97,M,['RW'],,,207011,Amed Sportif Faaliyetler,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+226992,Furkan Soyalp,1995-06-12,31.0,Türkiye,,175.0,73.0,Right,8,M,"['MC', 'DM']",380000.0,EUR,207011,Amed Sportif Faaliyetler,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1387006,Cem Üstündag,2001-01-20,25.0,Austria,,178.0,,Right,6,M,"['MC', 'DM']",575000.0,EUR,207011,Amed Sportif Faaliyetler,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2270585,Hüseyin Ülgüt,2007-01-29,19.0,Türkiye,,,,,75,M,,,,207011,Amed Sportif Faaliyetler,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+970518,Lumbardh Dellova,1999-01-01,27.0,Kosovo,,187.0,,Right,5,D,['DC'],2100000.0,EUR,207011,Amed Sportif Faaliyetler,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1149043,Ali Turap Bülbül,2005-01-25,21.0,Türkiye,,179.0,,Right,81,D,['DR'],540000.0,EUR,207011,Amed Sportif Faaliyetler,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1935903,Amadou Cissé,2006-02-26,20.0,Guinea,,183.0,,Right,33,D,['DC'],185000.0,EUR,207011,Amed Sportif Faaliyetler,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+839675,David Robert Bates,1996-10-05,30.0,Scotland,,193.0,74.0,Right,4,D,['DC'],1600000.0,EUR,207011,Amed Sportif Faaliyetler,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+609746,Umut Meraş,1995-12-20,30.0,Türkiye,,178.0,,Left,17,D,['DL'],430000.0,EUR,207011,Amed Sportif Faaliyetler,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+840639,Mehmet Yeşil,1998-05-31,28.0,Türkiye,,188.0,,Right,21,D,['DC'],930000.0,EUR,207011,Amed Sportif Faaliyetler,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+845313,Kahraman Demirtaş,1994-03-01,32.0,Türkiye,,184.0,75.0,Left,47,D,"['DC', 'DL']",47000.0,EUR,207011,Amed Sportif Faaliyetler,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+899065,Miraç Acer,1996-08-03,30.0,Türkiye,,177.0,73.0,Right,3,D,['DC'],105000.0,EUR,207011,Amed Sportif Faaliyetler,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1989916,Berat Perçin,2005-09-20,21.0,Türkiye,,181.0,,Right,56,D,,,,207011,Amed Sportif Faaliyetler,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1618284,Erkan Sasa,2003-04-01,23.0,Türkiye,,,,Left,77,D,,26000.0,EUR,207011,Amed Sportif Faaliyetler,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+826201,Alban Lafont,1999-01-23,27.0,Côte d'Ivoire,,195.0,,Right,40,G,['GK'],2700000.0,EUR,207011,Amed Sportif Faaliyetler,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+934201,Burak Bozan,2000-08-23,26.0,Türkiye,,196.0,,Right,27,G,['GK'],550000.0,EUR,207011,Amed Sportif Faaliyetler,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+794259,Veysel Sapan,1996-01-11,30.0,Türkiye,,197.0,82.0,Right,96,G,['GK'],97000.0,EUR,207011,Amed Sportif Faaliyetler,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2725070,Muhammed Damar,2008-02-26,18.0,Türkiye,,187.0,,,95,G,,,,207011,Amed Sportif Faaliyetler,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+822471,Victor Osimhen,1998-12-29,27.0,Nigeria,,186.0,,Right,45,F,['ST'],73000000.0,EUR,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+851284,Rafael Leão,1999-06-10,27.0,Portugal,,188.0,73.0,Right,27,F,"['LW', 'ST']",38000000.0,EUR,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1407720,Deniz Gül,2004-07-02,22.0,Türkiye,,190.0,,Right,27,F,['ST'],10300000.0,EUR,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1861964,Can Armando Güner,2008-01-07,18.0,Argentina,,178.0,,Left,29,F,,485000.0,EUR,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2128081,Ada Yüzgeç,2009-04-03,17.0,Türkiye,,175.0,,Right,78,F,['ST'],95000.0,EUR,22481,Türkiye U17,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1945952,Berat Luş,2007-04-20,19.0,Türkiye,,178.0,,Right,73,F,['LW'],920000.0,EUR,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2270424,Arda Tagay,2008-02-05,18.0,Türkiye,,,,Right,51,F,,,,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2270560,Efe Gündal,2007-03-30,19.0,Türkiye,,185.0,,,78,F,,,,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2270416,Abdullah Kolazlı,2008-01-01,18.0,Türkiye,,,,,99,F,,,,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+45853,İlkay Gündoğan,1990-10-24,35.0,Germany,,180.0,,Right,20,M,"['MC', 'DM', 'AM']",1900000.0,EUR,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+293519,Leroy Sané,1996-01-11,30.0,Germany,,184.0,,Left,10,M,['RW'],16500000.0,EUR,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+913593,Gabriel Sara,1999-06-26,27.0,Brazil,,178.0,,Left,8,M,"['MC', 'DM', 'AM']",25000000.0,EUR,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+904096,Barış Alper Yılmaz,2000-05-23,26.0,Türkiye,,186.0,,Right,53,M,['LW'],32000000.0,EUR,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+307284,Mario Lemina,1993-09-01,33.0,Gabon,,184.0,85.0,Right,99,M,"['MC', 'DM']",3200000.0,EUR,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1415147,Aleksey Batrakov,2005-06-09,21.0,Russia,,173.0,,Right,83,M,"['AM', 'MC']",29000000.0,EUR,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+857738,Yunus Akgün,2000-07-07,26.0,Türkiye,,173.0,,Left,11,M,"['RW', 'AM']",16700000.0,EUR,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+754794,Lucas Torreira,1996-02-11,30.0,Uruguay,,168.0,60.0,Right,34,M,"['MC', 'DM']",9300000.0,EUR,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1048916,Lesley Ugochukwu,2004-03-26,22.0,France,,188.0,,Right,18,M,"['MC', 'DM']",21000000.0,EUR,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2119726,Renato Nhaga,2007-03-27,19.0,Guinea-Bissau,,172.0,,Right,74,M,['MC'],5800000.0,EUR,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1130115,Eyüp Aydın,2004-08-02,22.0,Türkiye,,181.0,,Left,5,M,['MC'],825000.0,EUR,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1931472,Furkan Koçak,2008-03-02,18.0,Türkiye,,176.0,,Left,68,M,,,,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2270565,Eyüp Karasu,2007-07-13,19.0,Türkiye,,178.0,,Right,67,M,['MC'],,,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2738840,Ada Karatepe,2007-01-27,19.0,USA,,180.0,,Left,58,M,,,,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2743720,Onur Kağan Yıldız,2009-02-05,17.0,Türkiye,,,,Right,76,M,,,,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+566102,Davinson Sánchez,1996-06-12,30.0,Colombia,,187.0,81.0,Right,6,D,['DC'],16500000.0,EUR,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+978285,Wilfried Singo,2000-12-25,25.0,Côte d'Ivoire,,182.0,79.0,Right,90,D,"['DC', 'DR']",18600000.0,EUR,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+355088,Roland Sallai,1997-05-22,29.0,Hungary,,182.0,69.0,Right,7,D,['DR'],12400000.0,EUR,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+897291,Ismail Jakobs,1999-08-17,27.0,Senegal,,184.0,77.0,Left,4,D,['DL'],8700000.0,EUR,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+178963,Abdülkerim Bardakcı,1994-09-07,32.0,Türkiye,,185.0,80.0,Left,42,D,['DC'],6000000.0,EUR,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+981483,Eren Elmalı,2000-07-07,26.0,Türkiye,,180.0,,Left,17,D,['DL'],5400000.0,EUR,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+138152,Kaan Ayhan,1994-11-10,31.0,Türkiye,,185.0,84.0,Right,23,D,"['DR', 'DC']",1400000.0,EUR,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1048009,El Chadaille Bitshiabu,2005-05-16,21.0,France,,196.0,,Left,3,D,['DC'],17500000.0,EUR,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1464636,Arda Ünyay,2007-01-18,19.0,Türkiye,,187.0,,Right,91,D,['DC'],970000.0,EUR,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1008884,Kazımcan Karataş,2003-01-15,23.0,Türkiye,,182.0,,Left,88,D,['DL'],2600000.0,EUR,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2270588,Kaan Bayri,2008-01-28,18.0,Türkiye,,187.0,,Left,96,D,,,,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2270418,Abdulsamet Şimşek,2008-08-08,18.0,Türkiye,,,,,97,D,,,,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2738841,Ali Esen,2009-01-24,17.0,Türkiye,,,,,93,D,,,,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+754330,Uğurcan Çakır,1996-04-05,30.0,Türkiye,,192.0,,Right,1,G,['GK'],12600000.0,EUR,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+103457,Günay Güvenç,1991-06-25,35.0,Türkiye,,187.0,77.0,Right,19,G,['GK'],210000.0,EUR,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1210422,Jankat Yılmaz,2004-08-16,22.0,Türkiye,,193.0,,Left,24,G,['GK'],2200000.0,EUR,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1405619,Enes Emre Büyük,2006-05-08,20.0,Türkiye,,188.0,,Right,70,G,,,,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1931417,Arda Yılmaz,2008-02-13,18.0,Türkiye,,187.0,,Right,60,G,['GK'],265000.0,EUR,3061,Galatasaray,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+832208,Dušan Vlahović,2000-01-28,26.0,Serbia,,190.0,78.0,Left,28,F,['ST'],31000000.0,EUR,3050,Beşiktaş JK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+135666,Leandro Trossard,1994-12-04,31.0,Belgium,,172.0,61.0,Right,19,F,['LW'],19300000.0,EUR,3050,Beşiktaş JK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1142606,Semih Kılıçsoy,2005-08-15,21.0,Türkiye,,178.0,,Right,90,F,"['ST', 'LW']",11700000.0,EUR,3050,Beşiktaş JK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1010634,Hyeon-gyu Oh,2001-04-12,25.0,South Korea,,185.0,75.0,Right,9,F,['ST'],16000000.0,EUR,3050,Beşiktaş JK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1119502,Ernest Poku,2004-01-28,22.0,Netherlands,,172.0,,Right,17,F,['RW'],21000000.0,EUR,3050,Beşiktaş JK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1524303,Mustafa Hekimoğlu,2007-04-22,19.0,Türkiye,,186.0,,Right,23,F,['ST'],5200000.0,EUR,3050,Beşiktaş JK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+918408,Can Keleş,2001-09-02,25.0,Austria,,180.0,,Left,25,F,"['RW', 'LW']",865000.0,EUR,3050,Beşiktaş JK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1992478,Ahmet Sami Bircan,2007-01-24,19.0,Türkiye,,177.0,,Right,70,F,,110000.0,EUR,3050,Beşiktaş JK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+907461,Orkun Kökçü,2000-12-29,25.0,Türkiye,,175.0,,Both,10,M,"['MC', 'DM', 'AM']",27000000.0,EUR,3050,Beşiktaş JK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1124357,Junior Olaitan,2002-05-09,24.0,Benin,,174.0,,Right,15,M,"['AM', 'LW']",6800000.0,EUR,3050,Beşiktaş JK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+787885,Wilfred Ndidi,1996-12-16,29.0,Nigeria,,186.0,80.0,Right,4,M,"['MC', 'DM']",5600000.0,EUR,3050,Beşiktaş JK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1010223,Fabio Miretti,2003-08-03,23.0,Italy,,179.0,,Right,21,M,"['MC', 'AM']",14600000.0,EUR,3050,Beşiktaş JK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+280631,Václav Černý,1997-10-17,28.0,Czechia,,182.0,63.0,Left,18,M,['RW'],7200000.0,EUR,3050,Beşiktaş JK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+800411,Milot Rashica,1996-06-28,30.0,Kosovo,,177.0,73.0,Right,7,M,['RW'],2400000.0,EUR,3050,Beşiktaş JK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+795005,Salih Özcan,1998-01-11,28.0,Türkiye,,180.0,,Right,6,M,"['MC', 'DM']",5800000.0,EUR,3050,Beşiktaş JK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1858278,İlhan Fakılı,2006-01-18,20.0,Türkiye,,180.0,,Right,29,M,['LW'],7400000.0,EUR,3050,Beşiktaş JK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+966811,Kartal Kayra Yılmaz,2000-11-04,25.0,Türkiye,,177.0,,Right,8,M,"['MC', 'DM']",1900000.0,EUR,3050,Beşiktaş JK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1195756,Fahri Ay,2005-01-01,21.0,Türkiye,,178.0,,Left,44,M,['MC'],270000.0,EUR,3050,Beşiktaş JK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1584906,Ozan Sevim,2007-01-24,19.0,Türkiye,,185.0,,Right,66,M,,,,3050,Beşiktaş JK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+839493,Amir Murillo,1996-02-11,30.0,Panama,,183.0,75.0,Right,62,D,"['DR', 'DC']",6600000.0,EUR,3050,Beşiktaş JK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1013842,Emmanuel Agbadou,1997-06-17,29.0,Côte d'Ivoire,,192.0,,Right,12,D,['DC'],14400000.0,EUR,3050,Beşiktaş JK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+895009,Emirhan Topçu,2000-10-11,25.0,Türkiye,,188.0,,Left,53,D,['DC'],8400000.0,EUR,3050,Beşiktaş JK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+892735,Tiago Djaló,2000-04-09,26.0,Portugal,,190.0,,Right,35,D,['DC'],7500000.0,EUR,3050,Beşiktaş JK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+910086,Rıdvan Yılmaz,2001-05-21,25.0,Türkiye,,174.0,,Left,33,D,['DL'],6500000.0,EUR,3050,Beşiktaş JK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1392102,Yasin Özcan,2006-04-20,20.0,Türkiye,,185.0,,Left,58,D,"['DC', 'DL']",5300000.0,EUR,3050,Beşiktaş JK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1397558,Kassoum Ouattara,2004-10-14,21.0,Côte d'Ivoire,,184.0,,Left,11,D,"['DL', 'ML']",11600000.0,EUR,3050,Beşiktaş JK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1418644,Taylan Bulut,2006-01-19,20.0,Germany,,188.0,,Right,22,D,['DR'],5200000.0,EUR,3050,Beşiktaş JK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1215071,Ümit Akdağ,2003-10-06,23.0,Romania,,192.0,,Left,50,D,"['DC', 'DL']",6400000.0,EUR,3050,Beşiktaş JK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1899886,Mustafa Yortaç,2008-03-01,18.0,Türkiye,,184.0,,Right,63,D,['DC'],,,3050,Beşiktaş JK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1584883,Cumali Gürsel,2007-07-09,19.0,Türkiye,,185.0,,Left,65,D,,,,3050,Beşiktaş JK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+584722,Alexander Nübel,1996-09-30,30.0,Germany,,193.0,85.0,Right,1,G,['GK'],9000000.0,EUR,3050,Beşiktaş JK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+947874,Doğan Alemdar,2002-10-29,23.0,Türkiye,,192.0,,Right,80,G,['GK'],1400000.0,EUR,3050,Beşiktaş JK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1417036,Emir Yaşar,2006-01-16,20.0,Türkiye,,190.0,,Right,96,G,,94000.0,EUR,3050,Beşiktaş JK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+309306,Bruno Petković,1994-09-16,32.0,Croatia,,192.0,88.0,Right,9,F,['ST'],1400000.0,EUR,3065,Kocaelispor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+793227,Dan Agyei,1997-06-01,29.0,Ghana,,183.0,,Left,7,F,"['RW', 'ST']",1300000.0,EUR,3065,Kocaelispor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1432418,Gonçalo Sousa,2006-06-30,20.0,Portugal,,186.0,,Right,11,F,['RW'],3100000.0,EUR,3065,Kocaelispor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+801280,Florian Ayé,1997-01-19,29.0,France,,184.0,70.0,Right,97,F,['ST'],1900000.0,EUR,3065,Kocaelispor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1480564,Bedirhan Yıldız,2005-01-30,21.0,Türkiye,,179.0,,Both,89,F,,26000.0,EUR,3065,Kocaelispor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2492573,Arda Ozyar,2007-04-16,19.0,Türkiye,,181.0,,Right,17,F,,53000.0,EUR,3065,Kocaelispor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+992912,Berkan Kutlu,1998-01-25,28.0,Türkiye,,186.0,,Left,10,M,"['MC', 'DM']",2300000.0,EUR,3065,Kocaelispor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+933115,Show,1999-03-06,27.0,Angola,,180.0,,Right,14,M,"['MC', 'DM']",1600000.0,EUR,3065,Kocaelispor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+996734,Tobias Fjeld Gulliksen,2003-07-09,23.0,Norway,,177.0,,Right,8,M,"['AM', 'LW']",2100000.0,EUR,3065,Kocaelispor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1156644,Mahamadou Susoho,2005-01-20,21.0,Spain,,175.0,,Right,20,M,['MC'],1000000.0,EUR,3065,Kocaelispor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+837742,Rigoberto Rivas,1998-07-31,28.0,Honduras,,178.0,,Right,99,M,"['RW', 'LW']",1000000.0,EUR,3065,Kocaelispor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+255957,Tayfur Bingöl,1993-01-11,33.0,Türkiye,,180.0,74.0,Right,75,M,['AM'],425000.0,EUR,3065,Kocaelispor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1823934,Haydar Karataş,2007-03-13,19.0,Türkiye,,173.0,,Right,19,M,,110000.0,EUR,3065,Kocaelispor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+886328,Makana Baku,1998-04-08,28.0,Germany,,177.0,,Left,32,M,"['RW', 'LW', 'ST']",775000.0,EUR,3065,Kocaelispor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+957798,Metehan Altunbaş,2003-01-07,23.0,Türkiye,,184.0,,Right,26,M,['ST'],1800000.0,EUR,3065,Kocaelispor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1942371,Ege Bilim,2006-04-14,20.0,Türkiye,,200.0,,Right,27,M,,46000.0,EUR,3065,Kocaelispor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2403618,Hulisi Destici,2008-08-06,18.0,Türkiye,,182.0,,Right,26,M,,,,3065,Kocaelispor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2404778,Esat Yusuf Narin,2007-03-22,19.0,Türkiye,,,,Left,94,M,,47000.0,EUR,3065,Kocaelispor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+143344,Massadio Haïdara,1992-12-02,33.0,Mali,,179.0,76.0,Left,21,D,"['DL', 'DC']",650000.0,EUR,3065,Kocaelispor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1091815,Emir Ortakaya,2004-06-22,22.0,Türkiye,,185.0,,Left,5,D,['DC'],550000.0,EUR,3065,Kocaelispor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+869199,Anfernee Jamal Dijksteel,1996-10-27,29.0,Suriname,,183.0,,Right,2,D,"['DR', 'DC']",1300000.0,EUR,3065,Kocaelispor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1082797,Matej Maglica,1998-09-25,28.0,Croatia,,196.0,,Left,6,D,"['DC', 'DL']",1100000.0,EUR,3065,Kocaelispor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1133520,Tanguy Zoukrou,2003-05-07,23.0,France,,189.0,,Right,4,D,['DC'],1100000.0,EUR,3065,Kocaelispor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+995383,Uğur Kaan Yıldız,2002-08-06,24.0,Türkiye,,181.0,,Right,22,D,['DR'],620000.0,EUR,3065,Kocaelispor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+957582,Muharrem Cinan,1998-05-13,28.0,Türkiye,,179.0,,Left,3,D,['DL'],290000.0,EUR,3065,Kocaelispor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+908756,Onur Öztonga,2000-01-06,26.0,Türkiye,,181.0,,Right,41,D,"['DR', 'DC']",320000.0,EUR,3065,Kocaelispor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2487649,Deniz Ceylan,2008-10-29,17.0,Türkiye,,184.0,,Right,16,D,,,,3065,Kocaelispor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2221651,Umut Can Aslan,2006-01-30,20.0,Türkiye,,,,Left,77,D,,82000.0,EUR,3065,Kocaelispor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+800971,Aleksandar Jovanović,1992-12-06,33.0,Serbia,,191.0,86.0,Right,1,G,['GK'],425000.0,EUR,3065,Kocaelispor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1102775,Serhat Öztaşdelen,2004-12-09,21.0,Türkiye,,187.0,,Right,83,G,['GK'],910000.0,EUR,3065,Kocaelispor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+213542,Onurcan Piri,1994-09-28,32.0,Türkiye,,190.0,82.0,Right,23,G,['GK'],210000.0,EUR,3065,Kocaelispor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2609976,Talha Polat,2006-11-17,19.0,Türkiye,,188.0,,Right,,G,,,,3065,Kocaelispor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+862078,Meschak Elia,1997-08-06,29.0,DR Congo,,173.0,,Right,12,F,['ST'],1600000.0,EUR,6362,Alanyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+756344,Ianis Hagi,1998-10-22,27.0,Romania,,180.0,60.0,Both,10,F,"['AM', 'RW', 'LW']",1700000.0,EUR,6362,Alanyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+791314,Hwang Ui-Jo,1992-08-28,34.0,South Korea,,186.0,,Right,16,F,"['ST', 'AM']",390000.0,EUR,6362,Alanyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1996692,Omar Ben Ali,2005-04-22,21.0,Tunisia,,187.0,,Right,9,F,['ST'],710000.0,EUR,6362,Alanyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1514612,Iván Cédric,2001-12-22,24.0,Cameroon,,187.0,,Right,19,F,['ST'],1500000.0,EUR,6362,Alanyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1618838,Arda Usluoğlu,2006-10-12,19.0,Türkiye,,189.0,,Right,17,F,['ST'],2100000.0,EUR,6362,Alanyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+996405,Ibrahim Kaya,2001-03-09,25.0,Türkiye,,184.0,,Right,7,F,['LW'],1600000.0,EUR,6362,Alanyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+991516,Veysel Unal,2001-07-03,25.0,Türkiye,,173.0,65.0,Right,71,F,"['RW', 'ST', 'LW']",46000.0,EUR,6362,Alanyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1884424,Daniel Akinlosotu,2005-11-12,20.0,Nigeria,,184.0,,Left,19,F,,,,6362,Alanyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1215919,Arda Goroglu,2006-10-05,20.0,Türkiye,,181.0,,Right,17,F,,,,6362,Alanyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1002146,Maestro,2003-08-04,23.0,Angola,,173.0,,Right,58,M,"['MC', 'DM']",6200000.0,EUR,6362,Alanyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+974075,Emre Demir,2004-01-15,22.0,Türkiye,,175.0,,Left,14,M,['LW'],480000.0,EUR,6362,Alanyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+354860,Florent Hadergjonaj,1994-07-31,32.0,Kosovo,,183.0,72.0,Right,94,M,"['DR', 'MR']",1900000.0,EUR,6362,Alanyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+851099,Paolo Fernandes,1998-08-09,28.0,Spain,,167.0,61.0,Left,22,M,"['RW', 'AM']",1000000.0,EUR,6362,Alanyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+847013,Gaius Makouta,1997-07-25,29.0,Congo Republic,,180.0,,Right,42,M,"['MC', 'DM']",2100000.0,EUR,6362,Alanyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1400494,Ruan Pereira Duarte,2005-05-03,21.0,Brazil,,172.0,,Right,11,M,['ML'],3100000.0,EUR,6362,Alanyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1084884,Yusuf Özdemir,2001-01-10,25.0,Türkiye,,181.0,,Right,88,M,"['DL', 'ML', 'LW']",2200000.0,EUR,6362,Alanyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1215110,Baran Ali Gezek,2005-08-26,21.0,Türkiye,,182.0,,Right,55,M,['MC'],1600000.0,EUR,6362,Alanyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+826836,İzzet Çelik,2004-06-20,22.0,Türkiye,,166.0,,Right,26,M,['MC'],245000.0,EUR,6362,Alanyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+897168,Enes Keskin,2001-06-03,25.0,Türkiye,,185.0,,Right,8,M,['MC'],370000.0,EUR,6362,Alanyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2085002,Yusuf Karademir,2008-01-04,18.0,Türkiye,,181.0,,Left,38,M,,46000.0,EUR,6362,Alanyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2690190,Arouna Soro,2007-07-12,19.0,Côte d'Ivoire,,175.0,,Right,32,M,,,,6362,Alanyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1494395,Yunus Efe Sarikaya,2006-04-11,20.0,Türkiye,,179.0,,Right,33,M,,92000.0,EUR,6362,Alanyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2400610,Semih Doganay,2007-02-06,19.0,Türkiye,,188.0,,Right,79,M,,,,6362,Alanyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1637930,Muhammet Ali Apaydin,2006-01-01,20.0,Türkiye,,175.0,,Right,30,M,,,,6362,Alanyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+385296,Fidan Aliti,1993-10-03,33.0,Kosovo,,182.0,,Left,5,D,['DC'],870000.0,EUR,6362,Alanyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1133301,Nuno Lima,2001-03-16,25.0,Portugal,,184.0,,Right,3,D,"['DC', 'DR']",2100000.0,EUR,6362,Alanyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+827922,Fatih Aksoy,1997-11-06,28.0,Türkiye,,189.0,,Right,20,D,"['DC', 'DR']",1100000.0,EUR,6362,Alanyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1195735,Batuhan Yavuz,2005-05-04,21.0,Türkiye,,177.0,,Right,2,D,['DR'],52000.0,EUR,6362,Alanyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1138102,Bedirhan Özyurt,2003-03-25,23.0,Türkiye,,195.0,,Right,4,D,['DC'],195000.0,EUR,6362,Alanyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2416832,Mehmet Öz,2008-02-06,18.0,Türkiye,,180.0,,Left,15,D,,,,6362,Alanyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2010040,Nejdet Nezir Bilin,2007-03-10,19.0,Türkiye,,190.0,,Left,44,D,,81000.0,EUR,6362,Alanyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2695968,Eymen Karatas,2008-03-23,18.0,Türkiye,,172.0,,Right,93,D,,,,6362,Alanyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+34142,Paulo Victor,1987-01-12,39.0,Brazil,,187.0,76.0,Left,48,G,['GK'],55000.0,EUR,6362,Alanyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1149021,Mert Furkan Bayram,2005-01-02,21.0,Türkiye,,187.0,,Right,23,G,['GK'],280000.0,EUR,6362,Alanyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1133582,Yusuf Karagöz,1999-10-05,27.0,Türkiye,,195.0,85.0,Right,99,G,['GK'],72000.0,EUR,6362,Alanyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2456080,Mahmut Can Kara,2006-01-01,20.0,Türkiye,,190.0,,Right,99,G,,,,6362,Alanyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2334065,Cihan Memik,2007-08-31,19.0,USA,,190.0,,Right,99,G,,,,6362,Alanyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+78893,Romelu Lukaku,1993-05-13,33.0,Belgium,,191.0,94.0,Left,9,F,['ST'],5800000.0,EUR,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+903324,Kerem Aktürkoğlu,1998-10-21,27.0,Türkiye,,173.0,,Right,7,F,"['LW', 'ST']",18600000.0,EUR,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+310874,Vedat Muriqi,1994-04-24,32.0,Kosovo,,194.0,92.0,Left,19,F,['ST'],6800000.0,EUR,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1102788,Dorgeles Nene,2002-12-23,23.0,Mali,,174.0,,Right,45,F,"['RW', 'LW']",21000000.0,EUR,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1536761,Amara Diouf,2008-06-07,18.0,Senegal,,175.0,,Right,,F,,825000.0,EUR,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2421366,Alaettin Ekici,2009-01-01,17.0,Türkiye,,183.0,,Right,99,F,,310000.0,EUR,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2128112,Emin Eren Sayar,2009-01-13,17.0,Türkiye,,185.0,,Left,16,F,['RW'],,,22481,Türkiye U17,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1584910,Yasir Boz,2007-10-03,19.0,Türkiye,,169.0,,Right,83,F,,,,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2442851,Selahattin Sevim,2008-07-10,18.0,Türkiye,,,,Right,68,F,,,,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2740570,Onur Kuşcu,2008-05-19,18.0,Türkiye,,,,,72,F,,,,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+942116,Mason Greenwood,2001-10-01,25.0,England,,181.0,,Both,11,M,"['RW', 'AM']",53000000.0,EUR,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+234148,N'Golo Kanté,1991-03-29,35.0,France,,169.0,,Right,91,M,"['MC', 'DM']",3900000.0,EUR,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+361004,Marco Asensio,1996-01-21,30.0,Spain,,182.0,75.0,Left,10,M,"['AM', 'RW']",12400000.0,EUR,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+852404,Mattéo Guendouzi,1999-04-14,27.0,France,,185.0,,Right,6,M,"['MC', 'DM']",26000000.0,EUR,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+226986,İrfan Can Kahveci,1995-07-15,31.0,Türkiye,,180.0,67.0,Left,17,M,['RW'],2600000.0,EUR,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+952600,İsmail Yüksek,1999-01-26,27.0,Türkiye,,183.0,,Right,5,M,"['MC', 'DM']",14000000.0,EUR,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+999396,Oğuz Aydın,2000-10-27,25.0,Türkiye,,183.0,,Right,70,M,"['RW', 'LW']",8400000.0,EUR,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+856849,Mert Hakan Yandaş,1994-08-19,32.0,Türkiye,,174.0,,Right,8,M,"['MC', 'AM', 'DM']",195000.0,EUR,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+997165,Bartuğ Elmaz,2003-02-19,23.0,Türkiye,,179.0,,Right,28,M,"['MC', 'DM']",2900000.0,EUR,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1542689,Abdou Aziz Fall,2007-02-20,19.0,Senegal,,180.0,,Right,60,M,,94000.0,EUR,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2128085,Adnan Efe Fettahoglu,2009-04-20,17.0,Türkiye,,167.0,,Left,80,M,,,,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1995430,Yigit Ekiz,2006-07-27,20.0,Türkiye,,176.0,,Right,44,M,,,,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2128097,Baran Yolaçan,2009-08-29,17.0,Türkiye,,179.0,,Right,63,M,,,,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+149663,Nathan Aké,1995-02-18,31.0,Netherlands,,180.0,75.0,Left,15,D,"['DC', 'DL']",9100000.0,EUR,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+187205,Milan Škriniar,1995-02-11,31.0,Slovakia,,187.0,,Right,37,D,['DC'],8800000.0,EUR,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+252821,Nélson Semedo,1993-11-16,32.0,Portugal,,177.0,,Right,27,D,"['DR', 'MR']",5500000.0,EUR,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1048324,Jayden Oosterwolde,2001-04-26,25.0,Netherlands,,189.0,,Left,24,D,"['DC', 'DL']",21000000.0,EUR,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1009738,Archie Brown,2002-05-28,24.0,England,,190.0,,Left,3,D,"['DL', 'ML']",17500000.0,EUR,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1473092,Kojo Peprah Oppong,2004-06-04,22.0,Ghana,,185.0,,Right,21,D,['DC'],9700000.0,EUR,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+836683,Mert Müldür,1999-04-03,27.0,Türkiye,,184.0,,Right,18,D,['DR'],7400000.0,EUR,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1085938,Levent Mercan,2000-12-10,25.0,Türkiye,,176.0,,Left,22,D,['DL'],4600000.0,EUR,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1146274,Ognjen Mimović,2004-08-17,22.0,Serbia,,180.0,,Right,77,D,['DR'],2300000.0,EUR,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1133200,Yiğit Efe Demir,2004-08-02,22.0,Türkiye,,194.0,,Right,65,D,['DC'],4200000.0,EUR,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2325510,Kamil Efe Üregen,2008-04-09,18.0,Türkiye,,194.0,,Left,67,D,,110000.0,EUR,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1584880,Boran Eliguzel,2008-01-08,18.0,Türkiye,,,,Right,85,D,['DC'],,,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2442850,Ercüment Sancakli,2008-04-10,18.0,Türkiye,,,,Right,57,D,,,,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2740568,Gökmen Özdemir,2009-03-10,17.0,Türkiye,,,,,86,D,,,,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+254491,Ederson,1993-08-17,33.0,Brazil,,188.0,,Left,31,G,['GK'],9200000.0,EUR,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+39573,Mert Günok,1989-03-01,37.0,Türkiye,,196.0,92.0,Right,34,G,['GK'],545000.0,EUR,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+913985,Tarık Çetin,1997-01-08,29.0,Türkiye,,193.0,,Right,13,G,['GK'],550000.0,EUR,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2456512,Hulusi Efe Ceylan,2008-11-20,17.0,Türkiye,,189.0,,Right,92,G,,,,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2803438,Doruk Yazici,,,Türkiye,,,,,56,G,,,,3052,Fenerbahçe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+295123,Paul Onuachu,1994-05-28,32.0,Nigeria,,201.0,84.0,Right,30,F,['ST'],6200000.0,EUR,3051,Trabzonspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1146009,Franculino Djú,2004-06-28,22.0,Guinea-Bissau,,182.0,,Left,9,F,['ST'],24000000.0,EUR,3051,Trabzonspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+999186,Aral Şimşir,2002-06-19,24.0,Türkiye,,175.0,,Right,58,F,"['ML', 'LW']",13800000.0,EUR,3051,Trabzonspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+284767,Umut Nayir,1993-06-28,33.0,Türkiye,,191.0,75.0,Right,14,F,['ST'],625000.0,EUR,3051,Trabzonspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1127335,Cihan Çanak,2005-01-24,21.0,Türkiye,,175.0,,Left,61,F,['RW'],1900000.0,EUR,3051,Trabzonspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1480626,Ali Habeşoğlu,2004-07-29,22.0,Türkiye,,190.0,,Right,99,F,['ST'],2000000.0,EUR,3051,Trabzonspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1974355,Esat Yigit Alkurt,2007-02-22,19.0,Türkiye,,182.0,,Right,91,F,,,,3051,Trabzonspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2265742,Ahmet Cemil Güren,2008-05-16,18.0,Türkiye,,,,Right,50,F,,,,242120,Trabzonspor U19,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+159665,Mohamed Salah,1992-06-15,34.0,Egypt,,175.0,,Left,10,M,['RW'],21000000.0,EUR,3051,Trabzonspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+243585,Fabinho,1993-10-23,32.0,Brazil,,187.0,,Right,6,M,"['MC', 'DM']",7300000.0,EUR,3051,Trabzonspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+924670,Ernest Muçi,2001-03-19,25.0,Albania,,180.0,,Right,7,M,"['LW', 'AM']",11700000.0,EUR,3051,Trabzonspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+195850,Ruslan Malinovskyi,1993-05-04,33.0,Ukraine,,181.0,79.0,Left,17,M,"['MC', 'AM']",2100000.0,EUR,3051,Trabzonspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+251907,Ozan Tufan,1995-03-23,31.0,Türkiye,,182.0,70.0,Right,11,M,"['MC', 'AM', 'DM']",1400000.0,EUR,3051,Trabzonspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1046446,Benjamin Bouchouari,2001-11-13,24.0,Morocco,,165.0,,Right,8,M,"['MC', 'DM']",4800000.0,EUR,3051,Trabzonspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+859021,Batista Mendy,2000-01-12,26.0,France,,191.0,,Both,3,M,"['MC', 'DM', 'DC']",4500000.0,EUR,3051,Trabzonspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1153328,Noah Saviolo,2004-03-07,22.0,Portugal,,181.0,,Right,70,M,['LW'],9100000.0,EUR,3051,Trabzonspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+97967,Okay Yokuşlu,1994-03-09,32.0,Türkiye,,190.0,79.0,Right,5,M,"['MC', 'DM']",775000.0,EUR,3051,Trabzonspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1106446,Tim Jabol-Folcarelli,1999-12-06,26.0,France,,187.0,,Right,26,M,"['MC', 'DM']",6600000.0,EUR,3051,Trabzonspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+900809,Metehan Mimaroğlu,1994-07-07,32.0,Türkiye,,178.0,,Left,77,M,['LW'],420000.0,EUR,3051,Trabzonspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+828872,Melih Kabasakal,1996-02-18,30.0,Türkiye,,178.0,,Right,57,M,"['DM', 'MC']",930000.0,EUR,3051,Trabzonspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1931486,Oğuzhan Ertem,2008-01-01,18.0,Türkiye,,176.0,,Right,90,M,['MC'],105000.0,EUR,3051,Trabzonspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2128605,Yiğithan Çubukcu,2008-09-09,18.0,Türkiye,,170.0,,Right,82,M,,105000.0,EUR,3051,Trabzonspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1117723,Sidny Lopes Cabral,2002-09-18,24.0,Cape Verde,,176.0,,Both,55,D,"['DL', 'DR']",10300000.0,EUR,3051,Trabzonspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+76265,Stefan Savić,1991-01-08,35.0,Montenegro,,186.0,80.0,Right,15,D,['DC'],430000.0,EUR,3051,Trabzonspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1481134,Chibuike Nwaiwu,2003-07-23,23.0,Nigeria,,193.0,,Right,27,D,['DC'],9100000.0,EUR,3051,Trabzonspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1513625,Wagner Pina,2002-11-03,23.0,Cape Verde,,180.0,73.0,Right,20,D,"['DR', 'MR']",11400000.0,EUR,3051,Trabzonspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+863600,Samet Akaydın,1994-03-13,32.0,Türkiye,,190.0,,Right,4,D,['DC'],1100000.0,EUR,3051,Trabzonspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+981395,Arseniy Batagov,2002-03-05,24.0,Ukraine,,185.0,,Left,44,D,['DC'],10400000.0,EUR,3051,Trabzonspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+899069,Mustafa Eskihellaç,1997-05-05,29.0,Türkiye,,175.0,,Right,19,D,['DL'],4300000.0,EUR,3051,Trabzonspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+953097,Cenk Özkaçar,2000-10-06,26.0,Türkiye,,190.0,,Left,39,D,"['DC', 'DL']",3100000.0,EUR,3051,Trabzonspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1974431,Yakuphan Sarıalioğlu,2007-01-11,19.0,Türkiye,,189.0,,Right,34,D,,,,3051,Trabzonspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1974427,Turan Deniz Tuncer,2007-01-08,19.0,Türkiye,,181.0,,Left,18,D,['DL'],245000.0,EUR,3051,Trabzonspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2180662,Murat Mert Lakot,2008-08-06,18.0,Türkiye,,185.0,,Left,33,D,,,,242120,Trabzonspor U19,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2219877,Alperen Çakıroğlu,2009-07-16,17.0,Türkiye,,,,Right,52,D,,,,242120,Trabzonspor U19,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2265739,Yağız Usta,2007-04-30,19.0,Türkiye,,187.0,,Right,18,D,,,,3051,Trabzonspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2798563,Esad Turan Uzun,2009-07-15,17.0,Türkiye,,,,Right,67,D,,,,3051,Trabzonspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+787498,André Onana,1996-04-02,30.0,Cameroon,,190.0,91.0,Right,24,G,['GK'],7400000.0,EUR,3051,Trabzonspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1417078,Onuralp Çevikkan,2006-01-02,20.0,Türkiye,,190.0,,Right,25,G,['GK'],945000.0,EUR,3051,Trabzonspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1907056,Ahmet Doğan Yıldırım,2006-11-01,19.0,Türkiye,,194.0,,Right,1,G,['GK'],190000.0,EUR,3051,Trabzonspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1974349,Erol Can Çolak,2006-01-02,20.0,Türkiye,,190.0,,Left,96,G,['GK'],,,3051,Trabzonspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+928295,Adrian Benedyczak,2000-11-24,25.0,Poland,,190.0,,Both,9,F,"['LW', 'ST']",4900000.0,EUR,6063,Kasımpaşa,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+826162,Güven Yalçın,1999-01-18,27.0,Türkiye,,184.0,,Right,50,F,"['ST', 'LW']",1100000.0,EUR,6063,Kasımpaşa,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+910091,Ali Yavuz Kol,2001-01-29,25.0,Türkiye,,175.0,,Right,7,F,['LW'],240000.0,EUR,6063,Kasımpaşa,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1521036,Emirhan Yiğit,2006-04-30,20.0,Türkiye,,179.0,,Left,42,F,['RW'],110000.0,EUR,6063,Kasımpaşa,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2635559,Stann Élysée Dalo,2007-12-07,18.0,Côte d'Ivoire,,180.0,,Right,99,F,,,,84051,USC Bassam,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1548530,Sinan Alkas,2006-11-07,19.0,Türkiye,,195.0,,Right,23,F,,135000.0,EUR,6063,Kasımpaşa,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2010186,Mecit Deniz,2007-06-29,19.0,Türkiye,,182.0,,Right,35,F,,220000.0,EUR,6063,Kasımpaşa,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1521616,Adnan Aktaş,2006-11-10,19.0,Türkiye,,182.0,,Left,13,F,,53000.0,EUR,6063,Kasımpaşa,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2287517,Muhammed Bektaş,2006-07-01,20.0,Türkiye,,186.0,,Right,99,F,,,,6063,Kasımpaşa,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1632631,Alp Efe Kilinc,2004-04-15,22.0,Türkiye,,186.0,,Right,90,F,,23000.0,EUR,6063,Kasımpaşa,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2333702,Ahmet Demirelli,2007-04-27,19.0,Türkiye,,175.0,,Right,98,F,,,,6063,Kasımpaşa,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+142619,Kerem Demirbay,1993-07-03,33.0,Germany,,185.0,72.0,Left,26,M,"['MC', 'DM']",870000.0,EUR,6063,Kasımpaşa,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+919225,Mortadha Ben Ouanes,1994-07-02,32.0,Tunisia,,182.0,,Left,12,M,"['LW', 'DL', 'RW']",950000.0,EUR,6063,Kasımpaşa,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1101362,Jesurun Rak-Sakyi,2002-10-05,24.0,Ghana,,178.0,,Left,17,M,['RW'],5600000.0,EUR,6063,Kasımpaşa,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+254979,Haris Hajradinović,1994-02-18,32.0,Bosnia & Herzegovina,,179.0,74.0,Left,10,M,['AM'],765000.0,EUR,6063,Kasımpaşa,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+796374,Fousseni Diabaté,1995-10-18,30.0,Mali,,175.0,66.0,Left,34,M,"['LW', 'RW']",775000.0,EUR,6063,Kasımpaşa,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1427156,Thiemoko Diarra,2003-04-19,23.0,Mali,,176.0,,Right,11,M,['RW'],440000.0,EUR,305165,Stade Reims II,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+932856,Andri Fannar Baldursson,2002-01-10,24.0,Iceland,,187.0,,Right,16,M,"['MC', 'DM']",3100000.0,EUR,6063,Kasımpaşa,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1145731,Marcus Rafferty,2004-10-01,22.0,Sweden,,180.0,,Right,19,M,['MC'],775000.0,EUR,6063,Kasımpaşa,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1625623,Elson Mendes,2005-09-17,21.0,Cape Verde,,176.0,,Right,51,M,"['MC', 'DM']",875000.0,EUR,6063,Kasımpaşa,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1134704,Atakan Mujde,2003-10-25,22.0,Türkiye,,182.0,,Right,8,M,['DM'],120000.0,EUR,6063,Kasımpaşa,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2010104,Emirhan Boz,2006-02-12,20.0,Türkiye,,181.0,,Right,66,M,,720000.0,EUR,6063,Kasımpaşa,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2018238,Adem Arous,2004-07-17,22.0,Tunisia,,188.0,,Right,4,D,['DC'],3900000.0,EUR,6063,Kasımpaşa,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1005347,Matei Ilie,2002-12-11,23.0,Romania,,191.0,,Left,27,D,['DC'],2400000.0,EUR,6063,Kasımpaşa,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1395701,Ayberk Karapo,2004-07-21,22.0,Türkiye,,186.0,,Right,45,D,"['DR', 'DC']",2600000.0,EUR,6063,Kasımpaşa,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+962404,Kevin Mouanga,2000-07-24,26.0,Congo Republic,,191.0,,Right,14,D,['DC'],2700000.0,EUR,6063,Kasımpaşa,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+155998,Cláudio Winck,1994-04-15,32.0,Brazil,,183.0,,Right,2,D,['DR'],740000.0,EUR,6063,Kasımpaşa,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+931743,Godfried Frimpong,1999-04-21,27.0,Netherlands,,180.0,,Left,21,D,['DL'],2200000.0,EUR,6063,Kasımpaşa,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1133228,Jakob Jessen,2004-03-05,22.0,Denmark,,184.0,,Left,5,D,['DL'],850000.0,EUR,6063,Kasımpaşa,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+124728,Kamil Ahmet Çörekçi,1992-02-01,34.0,Türkiye,,173.0,74.0,Right,22,D,['DR'],48000.0,EUR,6063,Kasımpaşa,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1498789,Taylan Utku Aydın,2006-02-10,20.0,Türkiye,,180.0,,Right,29,D,['DC'],185000.0,EUR,6063,Kasımpaşa,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2430362,Ahmet Taha Dağbaşı,2005-04-01,21.0,Türkiye,,197.0,,Right,30,D,,55000.0,EUR,6063,Kasımpaşa,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2692955,Salih Arici,2008-03-27,18.0,Türkiye,,,,Left,24,D,,,,6063,Kasımpaşa,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+236746,Andreas Gianniotis,1992-12-18,33.0,Greece,,190.0,,Right,1,G,['GK'],220000.0,EUR,6063,Kasımpaşa,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+840297,Ali Emre Yanar,1998-05-15,28.0,Türkiye,,190.0,,Right,25,G,['GK'],110000.0,EUR,6063,Kasımpaşa,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2028660,Ege Albayrak,2007-08-20,19.0,Türkiye,,191.0,,Right,61,G,,,,6063,Kasımpaşa,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1912907,Şant Kazancı,2008-12-18,17.0,Türkiye,,186.0,,Right,98,G,,,,6063,Kasımpaşa,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1131343,Ramazan Özkanli,2003-01-25,23.0,Türkiye,,190.0,82.0,Right,44,G,,46000.0,EUR,6063,Kasımpaşa,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+238394,Ali Sowe,1994-06-14,32.0,Gambia,,186.0,84.0,Right,9,F,['ST'],1100000.0,EUR,3064,Çaykur Rizespor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+979479,Gennaro Borrelli,2000-03-10,26.0,Italy,,194.0,,Right,29,F,['ST'],2900000.0,EUR,3064,Çaykur Rizespor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1504963,Iustin Doicaru,2007-02-07,19.0,Romania,,180.0,,Left,79,F,['RW'],1500000.0,EUR,3064,Çaykur Rizespor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1144096,Adedire Mebude,2004-05-28,22.0,Scotland,,179.0,,Right,11,F,['RW'],1600000.0,EUR,3064,Çaykur Rizespor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1480663,Emrecan Bulut,2002-11-26,23.0,Türkiye,,185.0,,Right,99,F,['LW'],580000.0,EUR,3064,Çaykur Rizespor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2166290,Deniz Yasar,2006-10-09,19.0,Türkiye,,,,,19,F,,71000.0,EUR,3064,Çaykur Rizespor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2436717,Mustafa Coşkun Tosun,2009-01-06,17.0,Türkiye,,,,,80,F,,145000.0,EUR,3064,Çaykur Rizespor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+906049,Ahmed Kutucu,2000-03-01,26.0,Türkiye,,181.0,,Right,23,M,"['ST', 'RW', 'LW']",2800000.0,EUR,3064,Çaykur Rizespor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+925242,Valentin Mihăilă,2000-02-02,26.0,Romania,,177.0,60.0,Right,7,M,['LW'],3600000.0,EUR,3064,Çaykur Rizespor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+284395,Qazim Laci,1996-01-19,30.0,Albania,,173.0,,Right,20,M,"['MC', 'AM', 'DM']",2600000.0,EUR,3064,Çaykur Rizespor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1008173,Ibrahim Olawoyin,1997-12-01,28.0,Nigeria,,178.0,,Right,10,M,"['MC', 'AM', 'DM']",1900000.0,EUR,3064,Çaykur Rizespor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1432130,Moussa Diakité,2003-11-04,22.0,Mali,,189.0,,Right,6,M,"['MC', 'DM']",1100000.0,EUR,3064,Çaykur Rizespor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+979109,Dal Varešanović,2001-05-23,25.0,Bosnia & Herzegovina,,177.0,,Right,8,M,['AM'],1300000.0,EUR,3064,Çaykur Rizespor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+934249,Can Bozdoğan,2001-04-05,25.0,Germany,,175.0,,Left,70,M,"['MC', 'DM']",2100000.0,EUR,3064,Çaykur Rizespor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+190197,Taylan Antalyalı,1995-01-08,31.0,Türkiye,,180.0,71.0,Right,14,M,"['DM', 'MC']",725000.0,EUR,3064,Çaykur Rizespor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1480574,Efe Gecim,2004-10-23,21.0,Türkiye,,184.0,,Right,50,M,,26000.0,EUR,3064,Çaykur Rizespor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2269972,Bayram Berk Çapoğlu,2008-07-28,18.0,Türkiye,,,,,90,M,,,,3064,Çaykur Rizespor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1412860,Emirhan Yilmaz,2004-04-21,22.0,Türkiye,,179.0,,Right,47,M,,24000.0,EUR,3064,Çaykur Rizespor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2166291,Muhammed Baltaci,2006-06-01,20.0,Türkiye,,180.0,,,96,M,,,,3064,Çaykur Rizespor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1121174,Husniddin Aliqulov,1999-04-04,27.0,Uzbekistan,,186.0,,Right,2,D,['DC'],1200000.0,EUR,3064,Çaykur Rizespor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+904759,Modibo Sagnan,1999-04-14,27.0,Mali,,187.0,71.0,Left,93,D,['DC'],2100000.0,EUR,3064,Çaykur Rizespor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+851909,Tayyip Talha Sanuç,1999-12-17,26.0,Türkiye,,188.0,,Right,5,D,['DC'],1400000.0,EUR,3064,Çaykur Rizespor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+889382,Attila Mocsi,2000-05-29,26.0,Hungary,,188.0,,Right,4,D,['DC'],2100000.0,EUR,3064,Çaykur Rizespor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1511915,Zakaria Ariss,2004-06-17,22.0,France,,178.0,,Left,17,D,['DL'],1900000.0,EUR,3064,Çaykur Rizespor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1394729,Taha Şahin,2000-10-22,25.0,Türkiye,,178.0,,Right,37,D,['DR'],3200000.0,EUR,3064,Çaykur Rizespor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1016393,Mithat Pala,2000-08-15,26.0,Türkiye,,172.0,,Right,54,D,"['DR', 'MC', 'DM', 'DL']",2800000.0,EUR,3064,Çaykur Rizespor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1550065,Siaka Bakayoko,2005-05-26,21.0,France,,188.0,,Right,21,D,['DC'],2700000.0,EUR,3064,Çaykur Rizespor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1405660,Umut Erdem,2004-02-05,22.0,Türkiye,,182.0,,Left,19,D,['DL'],660000.0,EUR,3064,Çaykur Rizespor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2327161,Yakup Ayan,2008-04-23,18.0,Türkiye,,,,,94,D,,,,3064,Çaykur Rizespor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+877977,Yahia Fofana,2000-08-21,26.0,Côte d'Ivoire,,194.0,89.0,Right,75,G,['GK'],6200000.0,EUR,3064,Çaykur Rizespor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+930907,Zafer Görgen,2000-02-21,26.0,Türkiye,,188.0,,Right,30,G,['GK'],775000.0,EUR,3064,Çaykur Rizespor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1618840,Efe Doğan,2004-08-20,22.0,Türkiye,,195.0,,Right,35,G,,155000.0,EUR,3064,Çaykur Rizespor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2419445,Eren Kilic,2008-12-17,17.0,Türkiye,,,,,12,G,,,,3064,Çaykur Rizespor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+930775,Halil Dervişoğlu,1999-12-08,26.0,Türkiye,,183.0,,Right,28,F,['ST'],660000.0,EUR,5138,Gaziantep FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+123917,Serdar Dursun,1991-10-19,34.0,Türkiye,,190.0,80.0,Right,19,F,['ST'],180000.0,EUR,5138,Gaziantep FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1199057,Sontje Hansen,2002-05-18,24.0,Curacao,,172.0,,Right,22,F,"['RW', 'LW']",3400000.0,EUR,5138,Gaziantep FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1431516,Trivante Stewart,2000-03-22,26.0,Jamaica,,183.0,,Right,9,F,['ST'],1500000.0,EUR,5138,Gaziantep FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+953954,Fuat Bavuk,2000-08-11,26.0,Türkiye,,189.0,80.0,Right,97,F,,205000.0,EUR,5138,Gaziantep FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2161813,Ali Osman Kalın,2008-03-23,18.0,Türkiye,,181.0,,Right,46,F,,53000.0,EUR,5138,Gaziantep FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2405904,Muhammet Akmelek,2009-06-06,17.0,Türkiye,,185.0,,Right,85,F,,52000.0,EUR,5138,Gaziantep FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2215854,Kuzey Bulgulu,2008-11-23,17.0,Türkiye,,,,Left,99,F,,,,5138,Gaziantep FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+984602,Kacper Kozłowski,2003-10-16,22.0,Poland,,182.0,,Right,10,M,"['AM', 'MC']",6500000.0,EUR,5138,Gaziantep FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+788971,Juninho Bacuna,1997-08-07,29.0,Curacao,,178.0,74.0,Right,7,M,"['MC', 'DM', 'AM']",1600000.0,EUR,5138,Gaziantep FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+180511,Alexandru Maxim,1990-07-08,36.0,Romania,,177.0,73.0,Right,44,M,"['AM', 'MC']",195000.0,EUR,5138,Gaziantep FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+797602,Deian Sorescu,1997-08-29,29.0,Romania,,175.0,,Right,18,M,"['MR', 'RW', 'DR']",1600000.0,EUR,5138,Gaziantep FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+958167,Drissa Camara,2002-02-18,24.0,Côte d'Ivoire,,179.0,,Right,3,M,['MC'],4099999.0,EUR,5138,Gaziantep FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1124590,Enver Kulašin,2003-09-11,23.0,Bosnia & Herzegovina,,168.0,,Right,27,M,['RW'],680000.0,EUR,5138,Gaziantep FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1528256,Karamba Gassama,2005-01-02,21.0,Gambia,,173.0,,Right,17,M,['MC'],470000.0,EUR,5138,Gaziantep FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1632791,Gidado Victor Ntino-Emo,2004-07-14,22.0,Nigeria,,181.0,,Right,8,M,['MC'],420000.0,EUR,5138,Gaziantep FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+933448,Ulrich Meleke,1999-05-24,27.0,Côte d'Ivoire,,181.0,,Right,6,M,"['MC', 'DM', 'DC']",1600000.0,EUR,5138,Gaziantep FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+859783,Ogün Özçiçek,1999-01-24,27.0,Türkiye,,172.0,,Right,61,M,"['MC', 'DM']",540000.0,EUR,5138,Gaziantep FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+909289,Mirza Cihan,2000-10-26,25.0,Türkiye,,175.0,,Right,11,M,"['LW', 'AM', 'RW']",195000.0,EUR,5138,Gaziantep FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2019097,Muhammet Taha Gunes,2006-01-01,20.0,Türkiye,,175.0,72.0,Left,93,M,,52000.0,EUR,5138,Gaziantep FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1923338,Burak Enes Yikici,2004-03-29,22.0,Türkiye,,181.0,,,85,M,,24000.0,EUR,5138,Gaziantep FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2021193,Mustafa Dogru,2005-03-01,21.0,Türkiye,,,,,86,M,,,,5138,Gaziantep FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1170197,Abakar Sylla,2002-12-25,23.0,Côte d'Ivoire,,188.0,,Left,21,D,['DC'],2400000.0,EUR,5138,Gaziantep FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+843180,Luis Pérez,1995-02-04,31.0,Spain,,173.0,,Right,2,D,['DR'],875000.0,EUR,5138,Gaziantep FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+555422,Myenty Abena,1994-12-12,31.0,Suriname,,191.0,79.0,Right,14,D,['DC'],625000.0,EUR,5138,Gaziantep FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1191140,Efe Sarıkaya,2005-11-30,20.0,Türkiye,,190.0,,Left,5,D,['DC'],245000.0,EUR,5138,Gaziantep FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+980630,Kerim Çalhanoğlu,2002-08-26,24.0,Germany,,180.0,,Left,23,D,['DL'],720000.0,EUR,5138,Gaziantep FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+169425,Nazım Sangaré,1994-05-30,32.0,Türkiye,,180.0,72.0,Right,30,D,['DR'],165000.0,EUR,5138,Gaziantep FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+904228,Arda Kızıldağ,1998-10-15,27.0,Türkiye,,187.0,,Right,4,D,"['DC', 'DR']",840000.0,EUR,5138,Gaziantep FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+962738,Sabahattin Destici,2000-06-05,26.0,Türkiye,,172.0,,Right,77,D,['DC'],260000.0,EUR,5138,Gaziantep FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2335208,Mervan Müjdeci,2008-01-01,18.0,Türkiye,,181.0,,Right,83,D,,,,5138,Gaziantep FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2010874,Mehmet Samet Kalkan,2007-06-18,19.0,Türkiye,,185.0,,Left,88,D,,,,5138,Gaziantep FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1083777,Kacper Tobiasz,2002-11-04,23.0,Poland,,191.0,,Left,25,G,['GK'],640000.0,EUR,5138,Gaziantep FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+840605,Ataberk Dadakdeniz,1999-08-05,27.0,Türkiye,,194.0,84.0,Right,35,G,['GK'],260000.0,EUR,5138,Gaziantep FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1384655,Halil Bağcı,2003-04-04,23.0,Türkiye,,194.0,80.0,Right,99,G,['GK'],53000.0,EUR,5138,Gaziantep FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2405903,Cemilhan Aslan,2008-05-07,18.0,Türkiye,,191.0,,Right,81,G,,,,5138,Gaziantep FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2166432,Yusuf Nacar,2007-01-22,19.0,Türkiye,,183.0,,Right,90,G,,,,5138,Gaziantep FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2166431,Ibrahim Kagan Alkis,2006-01-01,20.0,Türkiye,,190.0,,Right,95,G,,,,5138,Gaziantep FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+997006,Youssoufa Moukoko,2004-11-20,21.0,Germany,,179.0,,Left,14,F,['ST'],3900000.0,EUR,77629,Çorum FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+987597,Jesús Ramírez,1998-05-04,28.0,Venezuela,,187.0,75.0,Left,19,F,['ST'],6200000.0,EUR,77629,Çorum FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+180981,Mame Thiam,1992-10-09,33.0,Senegal,,185.0,85.0,Right,9,F,"['ST', 'LW']",740000.0,EUR,77629,Çorum FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1595770,Hasan Ege Akdogan,2008-03-08,18.0,Türkiye,,181.0,,Right,7,F,['ST'],410000.0,EUR,77629,Çorum FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+758876,Cengiz Ünder,1997-07-14,29.0,Türkiye,,173.0,66.0,Left,7,M,"['RW', 'AM']",2800000.0,EUR,77629,Çorum FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1149353,Ermin Mahmić,2005-03-14,21.0,Bosnia & Herzegovina,,182.0,,Right,26,M,"['AM', 'MC']",7300000.0,EUR,77629,Çorum FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1018785,Mohammed Diomande,2001-10-30,24.0,Côte d'Ivoire,,183.0,,Left,10,M,"['MC', 'DM', 'AM']",7200000.0,EUR,77629,Çorum FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+841977,Ylber Ramadani,1996-04-12,30.0,Albania,,185.0,,Right,20,M,"['MC', 'DM']",2000000.0,EUR,77629,Çorum FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+845281,Fredy,1990-03-27,36.0,Angola,,169.0,67.0,Right,16,M,"['AM', 'MC']",145000.0,EUR,77629,Çorum FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+982754,Alexandros Kyziridis,2000-09-16,26.0,Greece,,179.0,,Both,89,M,"['LW', 'ML']",3100000.0,EUR,77629,Çorum FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+997007,Göktan Gürpüz,2003-01-22,23.0,Türkiye,,178.0,,Right,21,M,['AM'],2100000.0,EUR,77629,Çorum FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+876857,Berat Özdemir,1998-05-23,28.0,Türkiye,,187.0,,Right,3,M,"['DM', 'MC']",2100000.0,EUR,77629,Çorum FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1100654,Emircan Gürlük,2003-10-15,22.0,Türkiye,,180.0,,Right,17,M,['LW'],1200000.0,EUR,77629,Çorum FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+878844,Markus Karlsbakk,2000-05-07,26.0,Norway,,180.0,,Right,8,M,"['MC', 'AM']",1900000.0,EUR,77629,Çorum FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+849329,Ahmed Ildız,1996-11-28,29.0,Türkiye,,181.0,70.0,Right,30,M,"['MC', 'DM', 'AM']",340000.0,EUR,77629,Çorum FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+836704,Atakan Akkaynak,1999-01-05,27.0,Germany,,180.0,73.0,Right,8,M,['AM'],410000.0,EUR,77629,Çorum FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2334092,Furkan Çetinkaya,2009-03-03,17.0,Türkiye,,,,Left,45,M,,,,77629,Çorum FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+758608,Çağlar Söyüncü,1996-05-23,30.0,Türkiye,,187.0,84.0,Both,2,D,['DC'],2600000.0,EUR,77629,Çorum FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+595396,Gökhan Sazdağı,1994-09-20,32.0,Türkiye,,179.0,72.0,Right,11,D,['DR'],825000.0,EUR,77629,Çorum FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1152501,Andrei Borza,2005-11-12,20.0,Romania,,180.0,73.0,Left,14,D,['DL'],2300000.0,EUR,77629,Çorum FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+974582,Hrvoje Smolčić,2000-08-17,26.0,Croatia,,181.0,,Left,6,D,"['DC', 'DL']",1800000.0,EUR,77629,Çorum FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1004278,Alexandre Penetra,2001-09-09,25.0,Portugal,,184.0,,Right,5,D,['DC'],8199999.0,EUR,77629,Çorum FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1084880,Serdar Saatçı,2003-02-14,23.0,Türkiye,,190.0,,Right,4,D,['DC'],2000000.0,EUR,77629,Çorum FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+934521,Arda Şengül,1998-12-11,27.0,Türkiye,,186.0,,Left,15,D,['DC'],640000.0,EUR,77629,Çorum FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+929956,Cemali Sertel,2000-01-06,26.0,Türkiye,,186.0,,Left,88,D,['DL'],530000.0,EUR,77629,Çorum FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+904839,Huseyin Bulut,1999-03-29,27.0,Türkiye,,176.0,71.0,Right,22,D,['DR'],470000.0,EUR,77629,Çorum FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1480688,Mustafa Emre Yalçınkaya,2002-11-25,23.0,Türkiye,,176.0,,Left,19,D,,23000.0,EUR,77629,Çorum FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+358524,Marcos Felipe,1996-04-13,30.0,Brazil,,189.0,80.0,Right,1,G,['GK'],930000.0,EUR,77629,Çorum FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+997705,Erhan Erentürk,1995-05-30,31.0,Türkiye,,190.0,85.0,Right,18,G,['GK'],190000.0,EUR,77629,Çorum FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1148973,Arif Şimşir,2005-05-31,21.0,Türkiye,,195.0,,Right,54,G,,210000.0,EUR,77629,Çorum FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+248347,Hasan Huseyin Akinay,1994-01-01,32.0,Türkiye,,182.0,,Right,27,G,['GK'],73000.0,EUR,77629,Çorum FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1480665,Mahmut Eren Güler,2004-09-29,22.0,Türkiye,,186.0,81.0,Both,33,G,,26000.0,EUR,77629,Çorum FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+791355,Eldor Shomurodov,1995-06-29,31.0,Uzbekistan,,190.0,,Right,14,F,"['ST', 'AM']",7400000.0,EUR,3086,Başakşehir FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1382235,Bertuğ Yıldırım,2002-07-12,24.0,Türkiye,,186.0,,Right,91,F,['ST'],6700000.0,EUR,3086,Başakşehir FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+187437,Davie Selke,1995-01-20,31.0,Germany,,195.0,75.0,Right,9,F,['ST'],1600000.0,EUR,3086,Başakşehir FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+916182,Ivan Brnić,2001-08-23,25.0,Croatia,,175.0,,Right,77,F,['LW'],2100000.0,EUR,3086,Başakşehir FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+869839,Umut Bozok,1996-09-19,30.0,Türkiye,,178.0,,Right,17,F,['ST'],1500000.0,EUR,3086,Başakşehir FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1148977,Batuhan Çelik,2005-01-12,21.0,Türkiye,,186.0,,Right,91,F,['ST'],980000.0,EUR,3086,Başakşehir FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1118429,Abbosbek Fayzullaev,2003-10-03,23.0,Uzbekistan,,167.0,,Right,11,M,"['LW', 'AM', 'RW']",6500000.0,EUR,3086,Başakşehir FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+888537,Andreas Skov Olsen,1999-12-29,26.0,Denmark,,187.0,,Left,70,M,['RW'],5500000.0,EUR,3086,Başakşehir FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+109779,Edin Višća,1990-02-17,36.0,Bosnia & Herzegovina,,172.0,63.0,Right,7,M,['RW'],90000.0,EUR,3086,Başakşehir FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1019026,Jakub Kałuziński,2002-10-31,23.0,Poland,,185.0,,Both,18,M,"['DM', 'MC']",2300000.0,EUR,3086,Başakşehir FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+280447,Olivier Kemen,1996-07-20,30.0,Cameroon,,177.0,,Right,8,M,"['MC', 'DM', 'AM']",1900000.0,EUR,3086,Başakşehir FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+896364,Yusuf Sarı,1998-11-20,27.0,Türkiye,,168.0,,Left,7,M,['RW'],4300000.0,EUR,3086,Başakşehir FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+806964,Berkay Özcan,1998-02-15,28.0,Türkiye,,178.0,80.0,Both,19,M,"['MC', 'AM', 'DM']",1000000.0,EUR,3086,Başakşehir FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+876782,Umut Güneş,2000-03-16,26.0,Türkiye,,177.0,,Left,20,M,"['MC', 'DM']",2900000.0,EUR,3086,Başakşehir FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+893009,Onur Ergün,1992-11-15,33.0,Türkiye,,185.0,,Right,4,M,"['MC', 'DM']",145000.0,EUR,3086,Başakşehir FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+920514,Jerome Opoku,1998-10-14,27.0,Ghana,,194.0,,Left,3,D,['DC'],7500000.0,EUR,3086,Başakşehir FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+858977,Christopher Operi,1997-04-29,29.0,Côte d'Ivoire,,182.0,,Left,21,D,['DL'],2800000.0,EUR,3086,Başakşehir FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+910043,Michał Karbownik,2001-03-13,25.0,Poland,,175.0,,Right,33,D,['DL'],1700000.0,EUR,3086,Başakşehir FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1652678,Saba Kharebashvili,2008-09-03,18.0,Georgia,,184.0,,Left,38,D,['DL'],2300000.0,EUR,3086,Başakşehir FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+997153,Emin Bayram,2003-04-02,23.0,Türkiye,,193.0,,Right,23,D,['DC'],3900000.0,EUR,3086,Başakşehir FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+142494,Onur Bulut,1994-04-16,32.0,Türkiye,,179.0,74.0,Right,6,D,['DR'],390000.0,EUR,3086,Başakşehir FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+889430,Ousseynou Ba,1995-11-11,30.0,Senegal,,192.0,84.0,Right,27,D,['DC'],1300000.0,EUR,3086,Başakşehir FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1562294,Hamza Güreler,2006-04-10,20.0,Türkiye,,192.0,,Right,15,D,['DC'],1400000.0,EUR,3086,Başakşehir FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+103912,Ömer Ali Şahiner,1992-01-02,34.0,Türkiye,,175.0,66.0,Right,42,D,['DR'],185000.0,EUR,3086,Başakşehir FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+827418,Muhammed Şengezer,1997-01-05,29.0,Türkiye,,185.0,75.0,Right,16,G,['GK'],3600000.0,EUR,3086,Başakşehir FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+30143,Volkan Babacan,1988-08-11,38.0,Türkiye,,192.0,86.0,Right,1,G,['GK'],52000.0,EUR,3086,Başakşehir FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1065508,Deniz Dilmen,2005-06-05,21.0,Türkiye,,198.0,,Left,98,G,['GK'],1100000.0,EUR,3086,Başakşehir FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1549522,Luca Stancic,2007-01-20,19.0,Türkiye,,189.0,,Right,78,G,,,,3086,Başakşehir FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1804803,Yusuf Yılmaz,2006-04-29,20.0,Türkiye,,193.0,75.0,Right,78,G,,45000.0,EUR,3086,Başakşehir FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+822710,Sekou Koita,1999-11-28,26.0,Mali,,173.0,67.0,Left,20,F,['ST'],2400000.0,EUR,7802,Gençlerbirliği,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+976410,Tiago Gouveia,2001-06-18,25.0,Portugal,,176.0,,Right,7,F,"['LW', 'RW']",3600000.0,EUR,7802,Gençlerbirliği,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1897296,Victor Orakpo,2006-01-14,20.0,Nigeria,,194.0,,Right,12,F,['LW'],390000.0,EUR,7802,Gençlerbirliği,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+905004,Pedro Mendes,1999-08-01,27.0,Portugal,,187.0,,Right,9,F,['ST'],1300000.0,EUR,7802,Gençlerbirliği,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2403602,Prince Martor,2007-07-09,19.0,Liberia,,175.0,,Right,45,F,,105000.0,EUR,7802,Gençlerbirliği,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2460557,Erk Arda Aslan,2008-11-07,17.0,Türkiye,,190.0,,Right,17,F,,,,7802,Gençlerbirliği,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2311147,Ayaz Özcan,2009-10-01,17.0,Türkiye,,186.0,,Right,99,F,,52000.0,EUR,7802,Gençlerbirliği,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+972523,Cheikh Niasse,2000-01-19,26.0,Senegal,,188.0,,Right,19,M,"['MC', 'DM']",1800000.0,EUR,7802,Gençlerbirliği,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1172372,Adama Malouda Traoré,1995-06-05,31.0,Mali,,177.0,,Left,14,M,['RW'],1600000.0,EUR,7802,Gençlerbirliği,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+135695,Salih Uçan,1994-01-06,32.0,Türkiye,,182.0,65.0,Right,48,M,"['MC', 'DM', 'AM']",845000.0,EUR,7802,Gençlerbirliği,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2434516,Ousmane Diabate,2007-09-24,19.0,Guinea,,188.0,,Right,42,M,['DM'],1100000.0,EUR,7802,Gençlerbirliği,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1153333,Rafael Luis,2005-02-18,21.0,Portugal,,186.0,,Left,83,M,"['MC', 'DM']",5300000.0,EUR,7802,Gençlerbirliği,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+965015,Franco Tongya,2002-03-13,24.0,Italy,,175.0,,Right,10,M,"['AM', 'LW']",1900000.0,EUR,7802,Gençlerbirliği,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+839110,Peter Etebo,1995-11-09,30.0,Nigeria,,176.0,70.0,Right,5,M,"['DM', 'MC']",195000.0,EUR,7802,Gençlerbirliği,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1063942,Oğulcan Ülgün,1998-05-11,28.0,Türkiye,,178.0,,Right,35,M,"['MC', 'AM', 'DM']",1100000.0,EUR,7802,Gençlerbirliği,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1618326,Göktug Erdem,2003-08-30,23.0,Türkiye,,180.0,,Right,52,M,,81000.0,EUR,7802,Gençlerbirliği,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+997155,Metehan Baltacı,2002-11-03,23.0,Türkiye,,189.0,,Right,90,D,['DC'],1500000.0,EUR,7802,Gençlerbirliği,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+807291,Pedro Pereira,1998-01-22,28.0,Portugal,,185.0,72.0,Right,13,D,"['DR', 'MR']",1100000.0,EUR,7802,Gençlerbirliği,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+234232,Kévin Rodrigues,1994-03-05,32.0,Portugal,,169.0,70.0,Left,,D,['DL'],740000.0,EUR,7802,Gençlerbirliği,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+257497,Dimitris Goutas,1994-04-04,32.0,Greece,,189.0,85.0,Right,6,D,['DC'],845000.0,EUR,7802,Gençlerbirliği,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+863277,Thalisson,1998-05-07,28.0,Brazil,,184.0,,Right,2,D,['DC'],720000.0,EUR,7802,Gençlerbirliği,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+883275,Abdurrahim Dursun,1998-12-01,27.0,Türkiye,,176.0,70.0,Left,77,D,['DL'],240000.0,EUR,7802,Gençlerbirliği,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2180673,Yiğit Hamza Aydar,2008-09-20,18.0,Türkiye,,177.0,,Left,3,D,,,,7802,Gençlerbirliği,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+904112,Fıratcan Üzüm,1999-06-04,27.0,Türkiye,,178.0,,Right,88,D,"['DR', 'MR']",220000.0,EUR,7802,Gençlerbirliği,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1431436,Arda Cagan Celik,2005-03-29,21.0,Türkiye,,184.0,,Right,44,D,,,,7802,Gençlerbirliği,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1932183,Ensar Çavuşoğlu,2002-01-01,24.0,Türkiye,,185.0,75.0,Right,53,D,['DC'],370000.0,EUR,7802,Gençlerbirliği,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1155739,Berat Can Sebat,2003-10-10,22.0,Türkiye,,182.0,,Right,22,D,,,,7802,Gençlerbirliği,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+594618,İrfan Can Eğribayat,1998-03-30,28.0,Türkiye,,193.0,,Right,70,G,['GK'],1100000.0,EUR,7802,Gençlerbirliği,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+225012,Gökhan Akkan,1995-01-01,31.0,Türkiye,,188.0,78.0,Right,23,G,['GK'],370000.0,EUR,7802,Gençlerbirliği,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2220751,Berk Deniz Çukurcu,2008-01-02,18.0,Türkiye,,189.0,,Right,19,G,,,,7802,Gençlerbirliği,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1156696,Nariman Akhundzade,2004-04-23,22.0,Azerbaijan,,185.0,,Left,90,F,"['ST', 'RW']",2100000.0,EUR,55603,Erzurumspor FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1084043,Ibrahim Diabaté,1999-11-17,26.0,Côte d'Ivoire,,185.0,,Right,19,F,['ST'],1400000.0,EUR,55603,Erzurumspor FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+386950,Gyrano Kerk,1995-12-02,30.0,Suriname,,175.0,68.0,Right,9,F,"['RW', 'ST']",2400000.0,EUR,55603,Erzurumspor FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+100908,Eren Tozlu,1990-12-27,35.0,Türkiye,,175.0,,Right,10,F,['ST'],95000.0,EUR,55603,Erzurumspor FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1387394,Gürkan Varlık,2002-05-25,24.0,Türkiye,,180.0,,Right,99,F,,26000.0,EUR,55603,Erzurumspor FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2214421,Kerem Erener,2006-04-05,20.0,Türkiye,,181.0,,Right,,F,,,,55603,Erzurumspor FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2443373,Mehmet Emin Billor,2007-09-23,19.0,Türkiye,,,,,28,F,,,,55603,Erzurumspor FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2491713,Muhammet Ali Bayrak,2008-06-25,18.0,Türkiye,,,,,88,F,,,,55603,Erzurumspor FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+904424,Elisha Owusu,1997-11-07,28.0,Ghana,,179.0,62.0,Right,42,M,"['MC', 'DM']",2700000.0,EUR,55603,Erzurumspor FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1185568,Lawrence Agyekum,2003-11-23,22.0,Ghana,,174.0,,Right,77,M,"['MC', 'DM']",1400000.0,EUR,55603,Erzurumspor FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+344009,Miguel Cardoso,1994-06-19,32.0,Portugal,,176.0,71.0,Both,20,M,"['LW', 'AM']",725000.0,EUR,55603,Erzurumspor FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+861975,Brandon Baiye,2000-12-27,25.0,Belgium,,177.0,,Right,6,M,"['DM', 'MC']",1400000.0,EUR,55603,Erzurumspor FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+997157,Mustafa Fettahoglu,2001-01-02,25.0,Türkiye,,177.0,,Right,99,M,['LW'],1600000.0,EUR,55603,Erzurumspor FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1149000,Emirhan Acar,2005-07-25,21.0,Türkiye,,185.0,77.0,Both,30,M,['MC'],630000.0,EUR,55603,Erzurumspor FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+857751,Sefa Akgün,2000-06-30,26.0,Türkiye,,173.0,,Left,8,M,"['MC', 'AM', 'DM']",1100000.0,EUR,55603,Erzurumspor FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1521223,Eren Özdemir,2003-06-26,23.0,Türkiye,,170.0,,Right,66,M,,27000.0,EUR,55603,Erzurumspor FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+858004,Nihad Mujakić,1998-04-15,28.0,Bosnia & Herzegovina,,189.0,,Left,18,D,"['DC', 'DL']",940000.0,EUR,55603,Erzurumspor FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+983059,Festy Ebosele,2002-08-02,24.0,Ireland,,180.0,,Right,2,D,"['MR', 'DR']",2700000.0,EUR,55603,Erzurumspor FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+564370,Guram Giorbelidze,1996-02-25,30.0,Georgia,,173.0,68.0,Left,15,D,"['DL', 'ML']",360000.0,EUR,55603,Erzurumspor FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1177440,Yakup Kırtay,2003-07-16,23.0,Türkiye,,187.0,,Left,3,D,"['DC', 'DL']",1600000.0,EUR,55603,Erzurumspor FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1123371,Amar Gerxhaliu,2002-04-26,24.0,Kosovo,,193.0,,Right,4,D,['DC'],825000.0,EUR,55603,Erzurumspor FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+130454,Orhan Ovacıklı,1988-11-23,37.0,Türkiye,,180.0,71.0,Right,53,D,"['DR', 'DC']",46000.0,EUR,55603,Erzurumspor FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+124643,Mustafa Yumlu,1987-09-25,39.0,Türkiye,,191.0,76.0,Right,22,D,['DC'],48000.0,EUR,55603,Erzurumspor FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1907733,Ömer Arda Kara,2007-10-31,18.0,Türkiye,,187.0,,Left,25,D,['DC'],140000.0,EUR,55603,Erzurumspor FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1009337,Cengizhan Bayrak,1999-11-15,26.0,Türkiye,,172.0,,Left,23,D,['DL'],160000.0,EUR,55603,Erzurumspor FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1431652,Emre Erdem,2002-06-21,24.0,Türkiye,,183.0,,Right,35,D,,155000.0,EUR,55603,Erzurumspor FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1215922,Enes Yigit,2003-01-01,23.0,Türkiye,,182.0,,Right,88,D,,49000.0,EUR,55603,Erzurumspor FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2443374,Yigit Baran Karaoglan,2006-02-16,20.0,Türkiye,,178.0,,Right,55,D,,,,55603,Erzurumspor FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2404815,Miraç Igit,2008-07-29,18.0,Türkiye,,,,,97,D,,,,55603,Erzurumspor FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+105974,Ertuğrul Taşkıran,1989-11-05,36.0,Türkiye,,191.0,,Right,1,G,['GK'],105000.0,EUR,55603,Erzurumspor FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+909010,Matija Orbanić,2000-05-29,26.0,Croatia,,188.0,,Left,31,G,['GK'],1100000.0,EUR,55603,Erzurumspor FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+934055,Erkan Anapa,1998-01-27,28.0,Türkiye,,187.0,,Right,17,G,['GK'],54000.0,EUR,55603,Erzurumspor FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2283613,Şerefhan Sağlık,2005-01-08,21.0,Türkiye,,195.0,,Left,96,G,,,,55603,Erzurumspor FK,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+873551,Mostafa Mohamed,1997-11-28,28.0,Egypt,,185.0,,Right,42,F,['ST'],2100000.0,EUR,3085,Konyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+927649,Jackson Muleka,1999-10-04,27.0,DR Congo,,180.0,,Right,11,F,['ST'],2900000.0,EUR,3085,Konyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+928106,Ebrima Colley,2000-02-01,26.0,Gambia,,179.0,,Right,19,F,"['RW', 'LW']",945000.0,EUR,3085,Konyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+789192,Jean-Luc Dompé,1995-08-12,31.0,France,,170.0,,Right,91,F,['LW'],1400000.0,EUR,3085,Konyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1012480,Enis Destan,2002-06-15,24.0,Türkiye,,184.0,,Right,94,F,['ST'],1900000.0,EUR,3085,Konyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2335264,Eren Yagmur,2007-03-09,19.0,Türkiye,,193.0,,Left,27,F,,55000.0,EUR,3085,Konyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2494210,Muhammed Var,2008-01-31,18.0,Türkiye,,,,Left,14,F,,,,3085,Konyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2494208,Enes Seven,2007-02-21,19.0,Türkiye,,,,,35,F,,,,3085,Konyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+355024,Enis Bardhi,1995-07-02,31.0,North Macedonia,,172.0,67.0,Right,10,M,['AM'],1600000.0,EUR,3085,Konyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+357746,Diogo Gonçalves,1997-02-06,29.0,Portugal,,178.0,67.0,Right,7,M,"['LW', 'MC']",2400000.0,EUR,3085,Konyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1434416,Rajmund Tóth,2004-04-09,22.0,Hungary,,182.0,,Right,66,M,"['MC', 'DM']",2600000.0,EUR,3085,Konyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+252207,Deniz Türüç,1993-01-29,33.0,Türkiye,,175.0,79.0,Left,9,M,['RW'],425000.0,EUR,3085,Konyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1148996,Emir Bars,2005-04-11,21.0,Türkiye,,180.0,,Right,45,M,['LW'],410000.0,EUR,3085,Konyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+310068,Marko Jevtović,1993-07-24,33.0,Serbia,,194.0,83.0,Right,8,M,"['DM', 'MC']",435000.0,EUR,3085,Konyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+998462,Melih İbrahimoğlu,2000-07-17,26.0,Türkiye,,175.0,,Both,77,M,"['MC', 'DM', 'AM']",2600000.0,EUR,3085,Konyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1149209,Mücahit Ibrahimoglu,2005-03-09,21.0,Austria,,172.0,,Right,24,M,['MC'],140000.0,EUR,3085,Konyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1467045,Mehmet Güneş,2006-07-04,20.0,Türkiye,,,,Right,44,M,['RW'],145000.0,EUR,3085,Konyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2486668,Omer Cobanoglu,2007-07-04,19.0,Türkiye,,,,Right,25,M,,,,3085,Konyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2494209,Eren Doğan,2008-11-07,17.0,Türkiye,,,,,28,M,,,,3085,Konyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+174975,Arthur Masuaku,1993-11-07,32.0,DR Congo,,179.0,70.0,Left,26,D,['DL'],1400000.0,EUR,3085,Konyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+804764,Chidozie Awaziem,1997-01-01,29.0,Nigeria,,189.0,82.0,Right,15,D,['DC'],2600000.0,EUR,3085,Konyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1482346,Da Mata,2006-03-12,20.0,Brazil,,186.0,,Right,41,D,['DC'],245000.0,EUR,3085,Konyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+929739,Rayyan Baniya,1999-02-18,27.0,Türkiye,,192.0,,Right,22,D,['DC'],970000.0,EUR,3085,Konyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+787949,Adil Demirbağ,1997-12-10,28.0,Türkiye,,185.0,,Right,4,D,['DC'],3300000.0,EUR,3085,Konyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+605548,Yhoan Andzouana,1996-12-13,29.0,Congo Republic,,179.0,69.0,Right,17,D,"['DR', 'DL']",825000.0,EUR,3085,Konyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1138095,Arif Boşluk,2003-06-06,23.0,Türkiye,,183.0,,Left,3,D,['DL'],725000.0,EUR,3085,Konyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+603902,Ahmet Oğuz,1993-01-16,33.0,Türkiye,,175.0,83.0,Right,2,D,['DR'],190000.0,EUR,3085,Konyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+904303,Uğurcan Yazğılı,1999-04-09,27.0,Türkiye,,184.0,,Right,5,D,"['DC', 'DR']",1900000.0,EUR,3085,Konyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2128093,Ata Yanık,2009-05-15,17.0,Türkiye,,182.0,,Left,16,D,['DC'],48000.0,EUR,22481,Türkiye U17,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1564544,Eric Konate,2004-12-20,21.0,Côte d'Ivoire,,,,Left,32,D,,52000.0,EUR,3085,Konyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1981257,Ahmet Tırpancı,2007-03-19,19.0,Türkiye,,,,Left,36,D,,,,3085,Konyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2494206,Ahmet Dagdevir,2007-01-01,19.0,Türkiye,,,,Right,34,D,,52000.0,EUR,3085,Konyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2494211,Tuncay Elgun,2007-03-02,19.0,Türkiye,,,,,33,D,,,,3085,Konyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2598903,Egehan Sensoy,2008-10-22,17.0,Türkiye,,,,,44,D,,,,3085,Konyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1195772,Deniz Ertaş,2005-03-20,21.0,Türkiye,,194.0,,Right,1,G,['GK'],3400000.0,EUR,3085,Konyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+807289,Bahadır Han Güngördü,1996-01-16,30.0,Türkiye,,190.0,,Right,13,G,['GK'],660000.0,EUR,3085,Konyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1892942,Egemen Aydin,2007-05-12,19.0,Türkiye,,193.0,,Right,29,G,,45000.0,EUR,3085,Konyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2166292,Emir Gündoğdu,2009-10-16,16.0,Türkiye,,190.0,,Right,66,G,,,,3085,Konyaspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+909318,Mohamed Bayo,1998-06-04,28.0,Guinea,,188.0,75.0,Right,18,F,['ST'],4800000.0,EUR,3053,Samsunspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+929631,Elayis Tavsan,2001-04-30,25.0,Netherlands,,183.0,,Left,7,F,['RW'],1400000.0,EUR,3053,Samsunspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+930697,Fatih Kaya,1999-11-12,26.0,Türkiye,,183.0,79.0,Both,14,F,"['ST', 'AM']",775000.0,EUR,3053,Samsunspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2430544,Saikuba Jarju,2007-12-09,18.0,Gambia,,180.0,,Right,30,F,['RW'],1100000.0,EUR,3053,Samsunspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2237105,Tahsin Bülbül ,2006-06-09,20.0,Türkiye,,182.0,,Right,70,F,,220000.0,EUR,3053,Samsunspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2237095,Deniz Seker,2008-07-28,18.0,Türkiye,,186.0,,Right,36,F,,,,3053,Samsunspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+942834,Cheick Tidiane Sabaly,1999-03-04,27.0,Senegal,,168.0,,Right,7,M,"['LW', 'ST']",2700000.0,EUR,3053,Samsunspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+855672,Afonso Sousa,2000-05-03,26.0,Portugal,,170.0,,Right,77,M,['AM'],1800000.0,EUR,3053,Samsunspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+954060,Tanguy Coulibaly,2001-02-18,25.0,France,,180.0,,Left,10,M,"['MR', 'ML', 'ST', 'AM', 'RW']",1300000.0,EUR,3053,Samsunspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+202032,Emre Kılınç,1994-08-23,32.0,Türkiye,,174.0,68.0,Left,11,M,"['LW', 'RW']",825000.0,EUR,3053,Samsunspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1514452,Jaures Assoumou,2002-10-17,23.0,Côte d'Ivoire,,182.0,,Right,47,M,['ST'],1900000.0,EUR,3053,Samsunspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1513104,Oskar Øhlenschlaeger,2004-04-19,22.0,Denmark,,180.0,,Both,20,M,['MC'],2200000.0,EUR,3053,Samsunspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+942060,Elliot Watt,2000-03-11,26.0,Scotland,,175.0,,Right,4,M,"['MC', 'DM']",1900000.0,EUR,3053,Samsunspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+806972,Celil Yüksel,1998-01-01,28.0,Türkiye,,165.0,,Right,5,M,"['MC', 'DM', 'AM']",1100000.0,EUR,3053,Samsunspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+980608,Samed Onur,2002-07-15,24.0,Türkiye,,175.0,,Left,8,M,"['LW', 'RW', 'AM']",955000.0,EUR,3053,Samsunspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+945548,Yalçın Kayan,1999-01-30,27.0,Türkiye,,182.0,,Left,20,M,"['DM', 'MC', 'AM']",1200000.0,EUR,3053,Samsunspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1215897,Bedirhan Çetin,2006-06-29,20.0,Türkiye,,182.0,,Right,96,M,['DC'],105000.0,EUR,3053,Samsunspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2142281,Eyup Degirmenci,2007-04-16,19.0,Türkiye,,183.0,,Right,21,M,,,,3053,Samsunspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2237108,Muhammet Talha Akyüz,2008-12-19,17.0,Türkiye,,174.0,,Right,45,M,,,,3053,Samsunspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+940827,Strahinja Eraković,2001-01-22,25.0,Serbia,,184.0,,Right,16,D,"['DC', 'DR']",5800000.0,EUR,3053,Samsunspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1133258,Josafat Mendes,2002-12-31,23.0,Sweden,,177.0,,Right,2,D,['DR'],2400000.0,EUR,3053,Samsunspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1137373,Gabriele Guarino,2004-04-14,22.0,Italy,,193.0,,Right,34,D,['DC'],3600000.0,EUR,3053,Samsunspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1161838,Igor Drapiński,2004-05-31,22.0,Poland,,186.0,,Left,3,D,"['DC', 'DL']",2300000.0,EUR,3053,Samsunspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+858266,Logi Tomasson,2000-09-13,26.0,Iceland,,182.0,,Left,17,D,"['DL', 'ML']",3800000.0,EUR,3053,Samsunspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1431471,Enes Albak,2005-05-16,21.0,Türkiye,,175.0,68.0,Left,23,D,,155000.0,EUR,3053,Samsunspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1063325,Yunus Emre Çift,2003-09-01,23.0,Türkiye,,185.0,,Right,22,D,['DC'],620000.0,EUR,3053,Samsunspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1928572,Ali Tarkan,2006-03-18,20.0,Türkiye,,185.0,,Right,66,D,,23000.0,EUR,3053,Samsunspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1605311,Haluk Mustafa Tan,2005-04-27,21.0,Türkiye,,181.0,72.0,Right,29,D,['DR'],170000.0,EUR,3053,Samsunspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+190179,Okan Kocuk,1995-07-27,31.0,Türkiye,,187.0,79.0,Right,1,G,['GK'],1900000.0,EUR,3053,Samsunspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+825850,Bilal Bayazit,1999-04-08,27.0,Türkiye,,185.0,,Right,25,G,['GK'],1600000.0,EUR,3053,Samsunspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2237096,Efe Yiğit Üstün,2008-05-07,18.0,Türkiye,,188.0,,Right,13,G,,,,3053,Samsunspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1431473,Taha Tosun,2005-04-28,21.0,Türkiye,,195.0,78.0,Right,64,G,,47000.0,EUR,3053,Samsunspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2237110,Mehmet Efe Karsli,2008-10-27,17.0,Türkiye,,185.0,,Right,12,G,,,,3053,Samsunspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1009928,Juan Santos da Silva,2002-03-07,24.0,Brazil,,176.0,,Right,9,F,['ST'],12600000.0,EUR,3054,Göztepe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1463912,André Henrique,2001-12-17,24.0,Brazil,,189.0,,Right,7,F,['ST'],3200000.0,EUR,3054,Göztepe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1522038,Ibrahim Sabra,2006-02-01,20.0,Jordan,,183.0,,Right,7,F,['ST'],455000.0,EUR,3054,Göztepe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1462989,Janderson,1999-05-06,27.0,Brazil,,189.0,,Both,39,F,['ST'],5800000.0,EUR,3054,Göztepe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+958056,Sinclair Armstrong,2003-06-22,23.0,Ireland,,182.0,,Right,22,F,['ST'],2300000.0,EUR,3054,Göztepe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+865516,Alexis Antunes,2000-07-31,26.0,Switzerland,,181.0,,Right,8,F,['AM'],1500000.0,EUR,3054,Göztepe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+800458,Efkan Bekiroğlu,1995-09-14,31.0,Türkiye,,185.0,,Right,10,F,"['AM', 'MC']",840000.0,EUR,3054,Göztepe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+952564,Gökdeniz Bayrakdar,2001-11-23,24.0,Türkiye,,181.0,,Left,17,F,"['RW', 'ST']",680000.0,EUR,3054,Göztepe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+997681,Bekir Turaç Böke,1999-06-21,27.0,Türkiye,,190.0,,Right,14,F,['ST'],1000000.0,EUR,3054,Göztepe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2572814,Yusuf Ali Şirin,2008-01-01,18.0,Türkiye,,183.0,,Right,25,F,,,,3054,Göztepe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1103597,Novatus Miroshi,2002-09-02,24.0,Tanzania,,185.0,,Left,20,M,"['MC', 'DM', 'DL', 'DC']",4600000.0,EUR,3054,Göztepe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+907667,Tino Anjorin,2001-11-23,24.0,England,,186.0,,Right,18,M,"['MC', 'AM']",4099999.0,EUR,3054,Göztepe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1186050,Alex Matos,2004-10-03,22.0,England,,175.0,,Right,6,M,"['MC', 'DM']",1100000.0,EUR,3054,Göztepe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1063395,Arda Kurtulan,2002-11-19,23.0,Türkiye,,183.0,,Right,2,M,"['MR', 'DR']",6800000.0,EUR,3054,Göztepe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+992024,Rhaldney,1998-11-20,27.0,Brazil,,184.0,,Right,5,M,"['MC', 'DM']",1100000.0,EUR,3054,Göztepe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1533919,Ege Yildirim,2007-04-18,19.0,Türkiye,,179.0,,Left,13,M,['DC'],53000.0,EUR,3054,Göztepe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+903999,Ogün Bayrak,1998-10-10,27.0,Türkiye,,175.0,,Right,16,M,"['DR', 'MR']",740000.0,EUR,3054,Göztepe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1122632,Malcom Bokele,2000-02-12,26.0,Cameroon,,193.0,,Right,26,D,"['DC', 'DL', 'DR']",5400000.0,EUR,3054,Göztepe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1101279,Taha Altıkardeş,2003-08-22,23.0,Türkiye,,188.0,,Right,4,D,"['DC', 'DR']",4099999.0,EUR,3054,Göztepe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+279541,Noah Sonko Sundberg,1996-06-06,30.0,Gambia,,186.0,79.0,Right,19,D,['DC'],820000.0,EUR,3054,Göztepe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+987088,Allan,1994-04-04,32.0,Brazil,,187.0,,Right,3,D,"['DC', 'DR']",105000.0,EUR,3054,Göztepe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1438692,Richard Akonnor,2004-02-06,22.0,United Arab Emirates,,185.0,,Left,12,D,['DL'],1600000.0,EUR,3054,Göztepe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1003161,Furkan Bayır,2000-02-09,26.0,Türkiye,,188.0,,Right,23,D,['DC'],970000.0,EUR,3054,Göztepe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+827472,Luka Gugeshashvili,1999-04-29,27.0,Georgia,,196.0,80.0,Left,25,G,['GK'],465000.0,EUR,3054,Göztepe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+964196,Arda Özçimen,2002-01-08,24.0,Türkiye,,202.0,,Right,1,G,['GK'],495000.0,EUR,3054,Göztepe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1216027,Mehmet Şamil Öztürk,2005-05-09,21.0,Türkiye,,194.0,,Right,33,G,,91000.0,EUR,3054,Göztepe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2337924,Nevzat Üzel,2007-03-07,19.0,Türkiye,,192.0,,Right,21,G,,,,3054,Göztepe,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1442017,Ahmed Abdullahi,2004-06-19,22.0,Nigeria,,181.0,,Right,29,F,['ST'],750000.0,EUR,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1000187,Yusuf Barası,2003-03-31,23.0,Türkiye,,182.0,,Right,9,F,['ST'],775000.0,EUR,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2460449,Abdou Sy,2007-12-15,18.0,Senegal,,,,Right,25,F,,90000.0,EUR,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2421733,Berke Baran,2007-02-27,19.0,Türkiye,,,,Right,63,F,,,,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2421735,Eren Aydogdu,2008-07-07,18.0,Türkiye,,178.0,,Right,38,F,,,,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2421734,Emir Yalcin,2008-02-12,18.0,Türkiye,,,,,71,F,,,,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2421739,Ridvan Canibek,2009-06-26,17.0,Türkiye,,,,,61,F,,,,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+807400,Abdelhamid Sabiri,1996-11-28,29.0,Morocco,,186.0,80.0,Both,10,M,['AM'],760000.0,EUR,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+851243,Konrad Michalak,1997-09-19,29.0,Poland,,174.0,61.0,Right,77,M,"['RW', 'LW']",530000.0,EUR,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+769163,Bilal Boutobba,1998-08-29,28.0,France,,172.0,65.0,Left,98,M,['RW'],1300000.0,EUR,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1394720,Hamza Akman,2004-09-27,22.0,Türkiye,,170.0,,Right,18,M,['MC'],390000.0,EUR,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1083138,Chandrel Massanga,1999-08-17,27.0,Congo Republic,,172.0,,Right,88,M,"['DM', 'MC']",480000.0,EUR,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+896596,Lenny Pintor,2000-08-05,26.0,France,,179.0,66.0,Right,11,M,['LW'],195000.0,EUR,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1512413,David Costa,2004-01-12,22.0,Cape Verde,,170.0,,Right,8,M,['AM'],470000.0,EUR,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+171911,Taşkın Ilter,1994-07-05,32.0,Azerbaijan,,185.0,,Right,28,M,"['MC', 'DM']",105000.0,EUR,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2266454,Christ Sadia,2007-04-11,19.0,Côte d'Ivoire,,185.0,,Left,84,M,,110000.0,EUR,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1622183,Charles-Andre Raux Yao,2001-11-15,24.0,France,,183.0,,Right,15,M,['MC'],680000.0,EUR,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+845929,Mete Demir,1998-05-13,28.0,Türkiye,,169.0,63.0,Left,70,M,['RW'],350000.0,EUR,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2049797,Erdem Çalık,2006-06-05,20.0,Türkiye,,184.0,,Right,22,M,,135000.0,EUR,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2421738,Ömer Ay,2008-06-07,18.0,Türkiye,,,,,78,M,,,,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1388003,Musa Karakas,2004-07-17,22.0,Türkiye,,174.0,,Right,53,M,,,,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2425218,Deniz Salih Aydoğdu,2008-02-18,18.0,Türkiye,,,,,56,M,,,,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+877103,Jawad El Yamiq,1992-02-29,34.0,Morocco,,190.0,83.0,Right,5,D,['DC'],290000.0,EUR,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2169895,Diabel Ndoye,2007-08-27,19.0,Senegal,,180.0,,Right,14,D,,,,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+928830,Simone Giordano,2001-12-21,24.0,Italy,,185.0,,Left,21,D,"['DL', 'ML']",680000.0,EUR,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+556774,Zak Jules,1997-07-02,29.0,Scotland,,190.0,72.0,Left,33,D,"['DC', 'DL']",330000.0,EUR,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1084164,Talha Ülvan,2001-04-20,25.0,Türkiye,,179.0,,Right,7,D,['DR'],385000.0,EUR,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+999646,Seyfettin Anıl Yaşar,2002-07-01,24.0,Türkiye,,192.0,,Left,4,D,['DC'],310000.0,EUR,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1618417,Arda Yavuz,2006-05-20,20.0,Türkiye,,180.0,,Left,3,D,,46000.0,EUR,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2404820,Berhan Satli,2006-01-14,20.0,Türkiye,,186.0,,Right,42,D,,,,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2425215,Ömer Ahmet Ceyhan,2007-08-22,19.0,Türkiye,,,,Right,44,D,,,,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2253736,Talha Akkaya,2008-04-07,18.0,Türkiye,,,,Left,57,D,,,,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2421741,Yunus Tuzluoglu,2008-11-21,17.0,Türkiye,,,,Right,64,D,,,,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1932064,Yiğit Demir,2003-02-20,23.0,Türkiye,,185.0,,Right,27,D,,155000.0,EUR,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2404822,Burak Isik,2008-03-07,18.0,Türkiye,,,,,43,D,,,,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2421737,Levent Deniz,2008-06-10,18.0,Türkiye,,,,,37,D,,,,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2421740,Samet Kalan,2008-05-07,18.0,Türkiye,,,,,62,D,,,,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+857065,Horațiu Moldovan,1998-01-20,28.0,Romania,,186.0,,Both,31,G,['GK'],1500000.0,EUR,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+1050730,Emre Bilgin,2004-02-26,22.0,Türkiye,,188.0,188.0,Left,1,G,['GK'],435000.0,EUR,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2421736,Kerim Yerlikaya,2008-06-14,18.0,Türkiye,,186.0,,Right,60,G,,,,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27
+2477769,Umut Keseci,2004-02-05,22.0,Türkiye,,189.0,,Right,31,G,,52000.0,EUR,7040,Eyüpspor,TUR,2026-2027,datafc_sofascore,2026-10-06 22:50:27

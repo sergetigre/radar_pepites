@@ -1,0 +1,25 @@
+﻿league,season,team,player,nation,pos,age,born,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_GA,Performance_GA90,Performance_SoTA,Performance_Saves,Performance_Save%,Performance_W,Performance_D,Performance_L,Performance_CS,Performance_CS%,Penalty Kicks_PKatt,Penalty Kicks_PKA,Penalty Kicks_PKsv,Penalty Kicks_PKm,Penalty Kicks_Save%,_league_id,_season,_stat_type,_source,_scraped_at
+ENG-Premier League,2627,Arsenal,David Raya,ESP,GK,31-021,1995,5,5,450,5,4,0.8,12,8,66.7,4,0,1,3,60,1,0,1,0,100,ENG,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:25:19
+ENG-Premier League,2627,Aston Villa,Marco Bizot,NED,GK,35-210,1991,1,1,90,1,4,4.0,7,3,42.9,0,0,1,0,0,0,0,0,0,,ENG,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:25:19
+ENG-Premier League,2627,Aston Villa,Zion Suzuki,JPN,GK,24-046,2002,4,4,360,4,5,1.25,20,15,75.0,1,1,2,1,25,0,0,0,0,,ENG,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:25:19
+ENG-Premier League,2627,Bournemouth,Đorđe Petrović,SRB,GK,26-363,1999,5,5,450,5,8,1.6,19,11,57.9,0,3,2,0,0,0,0,0,0,,ENG,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:25:19
+ENG-Premier League,2627,Brentford,Caoimhín Kelleher,IRL,GK,27-317,1998,5,5,450,5,4,0.8,21,17,81.0,2,3,0,2,40,1,1,0,0,0,ENG,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:25:19
+ENG-Premier League,2627,Brighton,Bart Verbruggen,NED,GK,24-049,2002,5,5,450,5,5,1.0,17,12,70.6,3,1,1,3,60,0,0,0,0,,ENG,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:25:19
+ENG-Premier League,2627,Chelsea,Emiliano Martínez,ARG,GK,34-034,1992,4,4,360,4,10,2.5,28,18,64.3,1,1,2,0,0,0,0,0,0,,ENG,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:25:19
+ENG-Premier League,2627,Chelsea,Robert Sánchez,ESP,GK,28-322,1997,1,1,90,1,2,2.0,6,4,66.7,1,0,0,0,0,0,0,0,0,,ENG,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:25:19
+ENG-Premier League,2627,Coventry City,Carl Rushworth,ENG,GK,25-096,2001,5,5,450,5,10,2.0,19,9,47.4,1,0,4,1,20,1,1,0,0,0,ENG,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:25:19
+ENG-Premier League,2627,Crystal Palace,Dean Henderson,ENG,GK,29-208,1997,3,3,270,3,8,2.67,20,12,60.0,1,0,2,0,0,0,0,0,0,,ENG,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:25:19
+ENG-Premier League,2627,Crystal Palace,Walter Benítez,ARG,GK,33-260,1993,2,2,180,2,3,1.5,8,5,62.5,0,1,1,1,50,0,0,0,0,,ENG,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:25:19
+ENG-Premier League,2627,Everton,Jordan Pickford,ENG,GK,32-213,1994,5,5,450,5,3,0.6,18,15,83.3,2,3,0,3,60,0,0,0,0,,ENG,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:25:19
+ENG-Premier League,2627,Fulham,Bernd Leno,GER,GK,34-216,1992,5,5,450,5,8,1.6,24,16,66.7,0,2,3,1,20,0,0,0,0,,ENG,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:25:19
+ENG-Premier League,2627,Hull City,Kostas Tzolakis,GRE,GK,23-332,2002,5,5,450,5,4,0.8,20,16,80.0,2,2,1,3,60,1,0,1,0,100,ENG,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:25:19
+ENG-Premier League,2627,Ipswich Town,Christian Walton,ENG,GK,30-331,1995,1,1,90,1,1,1.0,2,1,50.0,0,0,1,0,0,0,0,0,0,,ENG,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:25:19
+ENG-Premier League,2627,Ipswich Town,Kjell Scherpen,NED,GK,26-256,2000,4,4,360,4,10,2.5,25,15,60.0,2,0,2,0,0,1,1,0,0,0,ENG,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:25:19
+ENG-Premier League,2627,Leeds United,James Trafford,ENG,GK,23-361,2002,5,5,450,5,3,0.6,23,18,87.0,2,3,0,2,40,0,0,0,0,,ENG,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:25:19
+ENG-Premier League,2627,Liverpool,Alisson,BRA,GK,34-004,1992,5,5,450,5,4,0.8,18,14,77.8,2,3,0,3,60,1,1,0,0,0,ENG,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:25:19
+ENG-Premier League,2627,Manchester City,Gianluigi Donnarumma,ITA,GK,27-223,1999,5,5,450,5,5,1.0,19,14,73.7,5,0,0,2,40,0,0,0,0,,ENG,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:25:19
+ENG-Premier League,2627,Manchester Utd,Senne Lammens,BEL,GK,24-091,2002,5,5,450,5,8,1.6,24,16,66.7,1,2,2,0,0,0,0,0,0,,ENG,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:25:19
+ENG-Premier League,2627,Newcastle,Lukáš Horníček,CZE,GK,24-085,2002,5,5,450,5,9,1.8,28,19,67.9,2,2,1,1,20,1,1,0,0,0,ENG,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:25:19
+ENG-Premier League,2627,Nottingham,Matz Sels,BEL,GK,34-222,1992,5,5,450,5,5,1.0,16,11,68.8,1,2,2,1,20,0,0,0,0,,ENG,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:25:19
+ENG-Premier League,2627,Sunderland,Robin Roefs,NED,GK,23-262,2003,5,5,450,5,10,2.0,16,6,37.5,1,1,3,1,20,1,1,0,0,0,ENG,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:25:19
+ENG-Premier League,2627,Tottenham,Antonín Kinský,CZE,GK,23-207,2003,5,5,450,5,8,1.6,20,12,60.0,0,2,3,2,40,1,0,0,1,,ENG,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:25:19

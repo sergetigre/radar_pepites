@@ -29,6 +29,8 @@ from dotenv import load_dotenv
 from sqlalchemy import create_engine, text
 from sqlalchemy.engine import URL
 
+import _sofascore_uc_client  # noqa: F401 — active le patch navigateur réel (voir ce module)
+
 ROOT       = Path(__file__).resolve().parents[2]
 BRONZE_DIR = ROOT / "data" / "bronze"
 LOGS_DIR   = ROOT / "logs"

@@ -1,0 +1,546 @@
+﻿player_id,player_name,date_of_birth,age,nationality,nationality_id,height,weight,preferred_foot,jersey_number,position,position_detailed,market_value,market_currency,team_id,team_name,_league_id,_season,_source,_scraped_at
+1431770,Kevin Rodriguez,2000-03-04,26,Ecuador,,190.0,80.0,Right,13,F,['ST'],5800000.0,EUR,4860,Royale Union Saint-Gilloise,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+964764,Anouar Ait El Hadj,2002-04-20,24,Belgium,,167.0,,Right,10,F,['AM'],4500000.0,EUR,4860,Royale Union Saint-Gilloise,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1022491,Raul Florucz,2001-06-10,25,Austria,,182.0,,Left,30,F,"['RW', 'ST']",3800000.0,EUR,4860,Royale Union Saint-Gilloise,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1501702,Dylan Aquino,2005-06-04,21,Argentina,,171.0,,Right,20,F,['LW'],3600000.0,EUR,4860,Royale Union Saint-Gilloise,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1387937,Mateo Biondic,2003-07-24,23,Germany,,190.0,,Right,9,F,['ST'],1900000.0,EUR,4860,Royale Union Saint-Gilloise,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2188051,Sekou Keita,2006-05-02,20,Belgium,,,,,32,F,['ST'],,,4860,Royale Union Saint-Gilloise,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2191010,Ilan Hurtevent,2005-05-25,21,Belgium,,180.0,,Right,25,F,['AM'],485000.0,EUR,4860,Royale Union Saint-Gilloise,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1564998,Relebohile Mofokeng,2004-10-23,21,South Africa,,166.0,,Right,38,M,"['LW', 'AM']",2900000.0,EUR,4860,Royale Union Saint-Gilloise,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1000472,Adem Zorgane,2000-01-06,26,Algeria,,184.0,,Right,8,M,"['MC', 'DM']",12500000.0,EUR,4860,Royale Union Saint-Gilloise,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+812808,Darius Olaru,1998-03-03,28,Romania,,177.0,,Right,20,M,"['AM', 'MC']",4600000.0,EUR,4860,Royale Union Saint-Gilloise,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1820381,Guilherme Smith,2003-06-11,23,Brazil,,183.0,,Right,11,M,"['ML', 'ST']",4200000.0,EUR,4860,Royale Union Saint-Gilloise,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1173223,Besfort Zeneli,2002-11-21,23,Sweden,,187.0,,Right,23,M,"['MC', 'DM']",6200000.0,EUR,4860,Royale Union Saint-Gilloise,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1146316,Kamiel Van de Perre,2004-02-12,22,Belgium,,181.0,,Right,6,M,"['MC', 'DM']",7500000.0,EUR,4860,Royale Union Saint-Gilloise,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1133093,Ondrej Kricfalusi,2004-03-29,22,Czechia,,195.0,,Right,80,M,"['DC', 'DM', 'MC']",3700000.0,EUR,4860,Royale Union Saint-Gilloise,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+923972,Louis Patris,2001-06-07,25,Belgium,,187.0,,Right,27,M,"['DR', 'MR']",2400000.0,EUR,4860,Royale Union Saint-Gilloise,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+133164,Rob Schoofs,1994-03-23,32,Belgium,,179.0,68.0,Both,17,M,"['MC', 'DM']",1900000.0,EUR,4860,Royale Union Saint-Gilloise,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1103764,Ivan Pavlić,2001-11-10,24,Netherlands,,185.0,,Right,14,M,['MC'],380000.0,EUR,4860,Royale Union Saint-Gilloise,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2188052,Youssef Hamoutahar,2006-05-29,20,Belgium,,,,,39,M,,,,4860,Royale Union Saint-Gilloise,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+895327,Kevin Mac Allister,1997-11-07,28,Argentina,,175.0,70.0,Right,5,D,"['DC', 'DR']",12400000.0,EUR,4860,Royale Union Saint-Gilloise,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1897832,Massire Sylla,2005-01-07,21,Senegal,,196.0,,Right,29,D,['DC'],880000.0,EUR,4860,Royale Union Saint-Gilloise,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1922370,Nohim Chibani,2003-10-06,23,France,,189.0,,Right,4,D,['DC'],390000.0,EUR,4860,Royale Union Saint-Gilloise,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1821119,Daniel Tshilanda,2006-04-27,20,DR Congo,,183.0,,Right,43,D,['DC'],,,4860,Royale Union Saint-Gilloise,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+845558,Ross Sykes,1999-03-26,27,England,,196.0,,Right,26,D,"['DC', 'DR', 'DL']",4900000.0,EUR,4860,Royale Union Saint-Gilloise,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1104255,Denzel De Roeve,2004-08-10,22,Belgium,,175.0,,Right,21,D,['DR'],1900000.0,EUR,4860,Royale Union Saint-Gilloise,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+309460,Nikki Havenaar,1995-02-16,31,Japan,,197.0,82.0,Right,55,D,"['DC', 'DR']",550000.0,EUR,4860,Royale Union Saint-Gilloise,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+867299,Hervé Koffi,1996-10-16,29,Burkina Faso,,187.0,81.0,Right,12,G,['GK'],5600000.0,EUR,4860,Royale Union Saint-Gilloise,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1108599,Vic Chambaere,2003-01-10,23,Belgium,,190.0,,Right,1,G,['GK'],655000.0,EUR,4860,Royale Union Saint-Gilloise,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1567319,Giorgi Kavlashvili,2007-01-24,19,Georgia,,192.0,,Left,18,G,['GK'],105000.0,EUR,4860,Royale Union Saint-Gilloise,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1150090,Keo Boets,2003-12-21,22,Belgium,,189.0,,Right,99,G,,49000.0,EUR,2924,KFC Dessel Sport,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+923969,Michel Ange Balikwisha,2001-05-10,25,DR Congo,,177.0,,Right,7,F,['LW'],3300000.0,EUR,2903,KAA Gent,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1916618,Josué Vergara,2007-07-25,19,Panama,,196.0,,Right,47,F,['ST'],1500000.0,EUR,2903,KAA Gent,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1135616,Momodou Sonko,2005-01-31,21,Sweden,,176.0,,Right,11,F,['LW'],1800000.0,EUR,2903,KAA Gent,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1065233,Max Dean,2004-02-21,22,England,,178.0,,Right,21,F,['ST'],2400000.0,EUR,2903,KAA Gent,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2048955,Hyllarion Goore,2005-08-24,21,Côte d'Ivoire,,183.0,,Right,45,F,['ST'],3800000.0,EUR,2903,KAA Gent,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1485493,Moctar Diop,2005-01-06,21,Senegal,,193.0,88.0,Left,19,F,['ST'],640000.0,EUR,2903,KAA Gent,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1007528,Abdelkahar Kadri,2000-06-24,26,Algeria,,170.0,,Right,37,M,"['MC', 'AM']",2600000.0,EUR,2903,KAA Gent,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+354558,László Bénes,1997-09-09,29,Slovakia,,181.0,72.0,Left,8,M,"['MC', 'AM']",2300000.0,EUR,2903,KAA Gent,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1124749,Mathias Delorge,2004-07-31,22,Belgium,,189.0,,Left,17,M,"['MC', 'DM']",6800000.0,EUR,2903,KAA Gent,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1396529,Tibe De Vlieger,2005-11-05,20,Belgium,,182.0,,Right,27,M,"['MC', 'DM']",2700000.0,EUR,2903,KAA Gent,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1591025,Mohammed El Âdfaoui,2008-02-28,18,Belgium,,182.0,,Left,28,M,['MC'],1900000.0,EUR,2903,KAA Gent,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1459382,Aimé Omgba,2002-10-22,23,Netherlands,,183.0,,Right,10,M,['AM'],920000.0,EUR,2903,KAA Gent,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+783478,Leonardo Lopes,1998-11-30,27,Portugal,,168.0,61.0,Right,22,M,"['MC', 'DM']",2600000.0,EUR,2903,KAA Gent,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2213490,El Hadji Seck,2007-01-14,19,Senegal,,176.0,,Right,59,M,['LW'],680000.0,EUR,2903,KAA Gent,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+190401,Pieter Gerkens,1995-08-13,31,Belgium,,180.0,,Right,8,M,"['MC', 'DM', 'AM']",740000.0,EUR,2903,KAA Gent,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2213489,Abubakar Abdullahi,2006-01-27,20,Nigeria,,178.0,,Left,61,M,['RW'],645000.0,EUR,2903,KAA Gent,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1400426,Kyrell Wilson,2004-12-01,21,England,,173.0,,Right,14,M,['RW'],265000.0,EUR,2903,KAA Gent,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2399613,Abdul Ayinde,2005-07-17,21,Burkina Faso,,183.0,,Left,39,D,['DL'],570000.0,EUR,2903,KAA Gent,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+954621,Maksim Paskotsi,2003-01-19,23,Estonia,,183.0,,Right,3,D,"['DC', 'DR']",3400000.0,EUR,2903,KAA Gent,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+303634,Christian Burgess,1991-10-07,34,England,,196.0,84.0,Right,16,D,['DC'],1900000.0,EUR,2903,KAA Gent,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+997024,Tiago Araújo,2001-03-27,25,Portugal,,184.0,,Left,20,D,"['ML', 'DL']",2400000.0,EUR,2903,KAA Gent,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+842164,Siebe Van der Heyden,1998-05-30,28,Belgium,,185.0,,Left,44,D,"['DC', 'DL', 'DR']",2900000.0,EUR,2903,KAA Gent,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1046245,Matisse Samoise,2001-11-21,24,Belgium,,180.0,,Right,18,D,"['MR', 'DR']",2400000.0,EUR,2903,KAA Gent,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1214223,Mouhamed El Ngom,2000-05-12,26,Senegal,,181.0,,Right,5,D,"['DC', 'DR']",775000.0,EUR,2903,KAA Gent,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1542782,Mamadou Diallo,2007-02-21,19,Senegal,,185.0,,Right,56,D,['DC'],285000.0,EUR,2903,KAA Gent,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1425339,Gilles De Meyer,2006-09-17,20,Belgium,,179.0,,Right,35,D,['DR'],485000.0,EUR,2903,KAA Gent,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2213526,Matties Volckaert,2002-10-12,23,Belgium,,189.0,,Right,57,D,['DC'],1900000.0,EUR,2903,KAA Gent,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2259079,Lars Cooman,2003-05-15,23,Belgium,,180.0,,Left,29,D,,,,169272,Royal Knokke FC,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+156663,Davy Roef,1994-02-06,32,Belgium,,187.0,85.0,Right,33,G,['GK'],2300000.0,EUR,2903,KAA Gent,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1119871,Kjell Peersman,2004-05-21,22,Belgium,,194.0,,Right,30,G,['GK'],430000.0,EUR,2903,KAA Gent,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1046454,Tom Vandenberghe,1992-08-17,34,Belgium,,190.0,,Right,23,G,['GK'],240000.0,EUR,2903,KAA Gent,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1873014,Bas Evers,2008-12-02,17,Belgium,,193.0,,Right,31,G,['GK'],95000.0,EUR,2903,KAA Gent,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1563452,Victor De Coninck,2006-02-08,20,Belgium,,186.0,,,51,G,,,,2903,KAA Gent,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2697327,Noa Vandenabeele,2010-06-01,16,Belgium,,,,,50,G,,,,2903,KAA Gent,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1177167,Nicolò Tresoldi,2004-08-20,22,Germany,,186.0,,Right,7,F,['ST'],27000000.0,EUR,2888,Club Brugge KV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1495876,Mamadou Diakhon,2005-09-22,21,Senegal,,180.0,,Right,67,F,['LW'],7600000.0,EUR,2888,Club Brugge KV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1976732,Wisdom Mike,2008-09-24,18,Germany,,175.0,,Right,27,F,['LW'],4800000.0,EUR,2888,Club Brugge KV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1069336,Romeo Vermant,2004-01-24,22,Belgium,,184.0,,Right,17,F,['ST'],9300000.0,EUR,2888,Club Brugge KV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1542032,Andrej Vasovic,2007-10-14,18,Switzerland,,181.0,,Right,77,F,['ST'],1600000.0,EUR,2888,Club Brugge KV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1069486,Carlos Forbs,2004-03-19,22,Portugal,,169.0,,Left,9,M,"['RW', 'LW']",21000000.0,EUR,2888,Club Brugge KV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1939173,Jan Virgili,2006-07-26,20,Spain,,168.0,,Right,11,M,['LW'],13800000.0,EUR,2888,Club Brugge KV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+118085,Hans Vanaken,1992-08-24,34,Belgium,,194.0,77.0,Both,20,M,"['AM', 'MC', 'DM']",4800000.0,EUR,2888,Club Brugge KV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1939849,Tian Nai Koren,2009-07-31,17,Slovenia,,169.0,,Right,85,M,['LW'],1300000.0,EUR,2888,Club Brugge KV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+877236,Hugo Vetlesen,2000-02-28,26,Norway,,174.0,,Right,10,M,"['MC', 'DM', 'AM']",5400000.0,EUR,2888,Club Brugge KV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1130942,Félix Lemaréchal,2003-08-07,23,France,,181.0,,Right,80,M,"['AM', 'MC']",6500000.0,EUR,2888,Club Brugge KV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1089582,Freddie Potts,2003-09-12,23,England,,183.0,,Right,8,M,"['MC', 'DM']",10400000.0,EUR,2888,Club Brugge KV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1417029,Cheveyo Tsawa,2006-12-09,19,Switzerland,,183.0,,Right,16,M,"['MC', 'DM']",5800000.0,EUR,2888,Club Brugge KV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1974982,Gianluca Okon-Engstler,2009-01-24,17,Italy,,190.0,,Right,86,M,['MC'],390000.0,EUR,2888,Club Brugge KV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1067539,Lynnt Audoor,2003-10-13,22,Belgium,,184.0,,Right,62,M,"['MC', 'DM']",1500000.0,EUR,2888,Club Brugge KV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1187275,Joel Ordóñez,2004-04-21,22,Ecuador,,188.0,,Right,4,D,['DC'],36000000.0,EUR,2888,Club Brugge KV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1395881,Joaquin Seys,2005-03-28,21,Belgium,,178.0,,Left,65,D,"['DL', 'DR']",18200000.0,EUR,2888,Club Brugge KV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+248331,Brandon Mechele,1993-01-28,33,Belgium,,188.0,81.0,Both,44,D,['DC'],2700000.0,EUR,2888,Club Brugge KV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1002448,Han-Beom Lee,2002-06-17,24,South Korea,,188.0,72.0,Right,3,D,"['DC', 'DR']",2800000.0,EUR,2888,Club Brugge KV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1101258,Kyriani Sabbe,2005-01-26,21,Belgium,,176.0,,Right,64,D,['DR'],7700000.0,EUR,2888,Club Brugge KV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1162305,Matteo Dams,2004-03-09,22,Belgium,,184.0,,Left,32,D,"['DL', 'DC']",3700000.0,EUR,2888,Club Brugge KV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1104897,Jorne Spileers,2005-01-21,21,Belgium,,188.0,,Right,58,D,['DC'],3100000.0,EUR,2888,Club Brugge KV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+983041,Hugo Siquet,2002-07-09,24,Belgium,,180.0,,Right,41,D,"['DR', 'MR']",4099999.0,EUR,2888,Club Brugge KV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2267145,Samba Coulibaly,2008-04-04,18,France,,185.0,,Right,54,D,['DC'],,,2888,Club Brugge KV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1521251,Wout Verlinden,2007-01-04,19,Belgium,,187.0,,Right,93,D,['DC'],320000.0,EUR,2888,Club Brugge KV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+16206,Yann Sommer,1988-12-17,37,Switzerland,,183.0,79.0,Right,1,G,['GK'],1800000.0,EUR,2888,Club Brugge KV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+361722,Nordin Jackers,1997-09-05,29,Belgium,,185.0,72.0,Right,29,G,['GK'],1200000.0,EUR,2888,Club Brugge KV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1403045,Argus Vanden Driessche,2007-04-22,19,Belgium,,194.0,,Right,81,G,['GK'],475000.0,EUR,2888,Club Brugge KV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1403043,Axl De Corte,2006-03-24,20,Belgium,,193.0,,Left,71,G,['GK'],385000.0,EUR,2888,Club Brugge KV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1471504,Adama Bojang,2004-05-28,22,Gambia,,191.0,,Right,9,F,['ST'],1200000.0,EUR,2898,RC Sporting Charleroi,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1397883,Freddy Mbemba,2002-12-16,23,France,,175.0,,Right,20,F,['ML'],580000.0,EUR,2898,RC Sporting Charleroi,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+915567,Aurélien Scheidler,1998-06-04,28,France,,192.0,,Right,21,F,['ST'],1900000.0,EUR,2898,RC Sporting Charleroi,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+909965,Antoine Colassin,2001-02-26,25,Belgium,,188.0,,Right,25,F,['ST'],545000.0,EUR,2898,RC Sporting Charleroi,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1126852,Yassine Khalifi,2005-08-09,21,Morocco,,175.0,,Right,18,M,"['MC', 'DM']",1300000.0,EUR,2898,RC Sporting Charleroi,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1469056,Amine Boukamir,2006-10-22,19,Morocco,,172.0,,Right,6,M,"['MC', 'DM']",535000.0,EUR,2898,RC Sporting Charleroi,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1501036,Gaku Nawata,2006-07-29,20,Japan,,171.0,,Right,13,M,['AM'],135000.0,EUR,2898,RC Sporting Charleroi,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1400655,Triston Rowe,2006-10-02,20,England,,183.0,,Right,2,M,"['DR', 'MR']",1600000.0,EUR,2898,RC Sporting Charleroi,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+281283,Patrick Pflücke,1996-11-30,29,Germany,,170.0,67.0,Left,14,M,"['RW', 'AM', 'MR']",2000000.0,EUR,2898,RC Sporting Charleroi,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1198306,Jakob Napoleon Romsaas,2004-05-16,22,Norway,,187.0,,Right,8,M,"['ST', 'AM']",1100000.0,EUR,2898,RC Sporting Charleroi,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1499869,Isaac Ismaël Cissé,2006-10-10,19,Côte d'Ivoire,,175.0,,Right,19,M,['MC'],230000.0,EUR,2898,RC Sporting Charleroi,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+834261,Antoine Bernier,1997-09-10,29,Belgium,,170.0,68.0,Right,17,M,"['RW', 'LW']",1600000.0,EUR,2898,RC Sporting Charleroi,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1919319,Boubakar Dembaga,2006-06-07,20,Mali,,191.0,,Right,23,M,['MC'],,,2898,RC Sporting Charleroi,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1995006,Mory Kera,2008-06-26,18,Belgium,,189.0,,Right,51,M,,145000.0,EUR,2898,RC Sporting Charleroi,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1465818,Rafaël Teugels,2006-06-07,20,Belgium,,184.0,,Left,65,M,,,,2898,RC Sporting Charleroi,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1130602,Kevin Van Den Kerkhof,1996-03-13,30,Algeria,,190.0,,Right,3,D,"['DR', 'MR', 'RW']",1600000.0,EUR,2898,RC Sporting Charleroi,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+965265,Aiham Ousou,2000-01-09,26,Syria,,186.0,,Right,4,D,['DC'],2800000.0,EUR,2898,RC Sporting Charleroi,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1407973,Cheick Keita,2003-04-02,23,Mali,,185.0,,Right,95,D,['DC'],3800000.0,EUR,2898,RC Sporting Charleroi,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+990726,Mardochee Nzita,2000-02-24,26,Belgium,,178.0,,Left,24,D,"['DL', 'ML']",1400000.0,EUR,2898,RC Sporting Charleroi,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1898323,Massamba Sow,2004-06-12,22,France,,180.0,,Right,44,D,['DC'],365000.0,EUR,2898,RC Sporting Charleroi,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1388247,Noah Solheid,2003-07-08,23,Belgium,,191.0,,Right,33,D,['DC'],370000.0,EUR,2898,RC Sporting Charleroi,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1131009,Mohamed Koné,2002-03-07,24,Côte d'Ivoire,,186.0,,Right,30,G,['GK'],2100000.0,EUR,2898,RC Sporting Charleroi,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1141106,Martin Delavallée,2004-03-18,22,Belgium,,185.0,,Right,1,G,['GK'],1500000.0,EUR,2898,RC Sporting Charleroi,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1396237,Arthur Cremer,2000-08-17,26,Belgium,,190.0,,,16,G,,,,325741,URSL Visé,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1427166,Mihajlo Cvetković,2007-01-10,19,Serbia,,178.0,,Right,9,F,['ST'],10500000.0,EUR,2900,RSC Anderlecht,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1103080,Tawfik Bentayeb,2002-01-14,24,Morocco,,180.0,,Right,21,F,['ST'],7300000.0,EUR,2900,RSC Anderlecht,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+945479,Danylo Sikan,2001-04-16,25,Ukraine,,185.0,71.0,Right,14,F,['ST'],4300000.0,EUR,2900,RSC Anderlecht,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+867250,Adriano Bertaccini,2000-08-13,26,Belgium,,173.0,,Right,91,F,['ST'],4099999.0,EUR,2900,RSC Anderlecht,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2613189,Noa Thomas Ojea Cobiella,2009-08-10,17,Belgium,,175.0,,Left,53,F,,1000000.0,EUR,2900,RSC Anderlecht,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1101702,Mario Stroeykens,2004-09-29,22,DR Congo,,177.0,,Right,29,M,"['MC', 'AM']",4300000.0,EUR,2900,RSC Anderlecht,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1065989,Thelo Aasgaard,2002-05-02,24,Norway,,188.0,,Right,19,M,"['AM', 'MC']",2500000.0,EUR,2900,RSC Anderlecht,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+975743,Oliver Antman,2001-08-15,25,Finland,,185.0,,Right,11,M,"['RW', 'LW']",3900000.0,EUR,2900,RSC Anderlecht,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2425195,Joshua Nga Kana,2009-06-13,17,Belgium,,178.0,70.0,Right,61,M,['AM'],1200000.0,EUR,2900,RSC Anderlecht,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1173222,Romeo Amane,2003-02-20,23,Côte d'Ivoire,,176.0,,Right,8,M,"['MC', 'DM']",4800000.0,EUR,2900,RSC Anderlecht,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1142171,Lukáš Ambros,2004-06-05,22,Czechia,,182.0,,Left,18,M,"['MC', 'AM']",5200000.0,EUR,2900,RSC Anderlecht,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1862185,Jayden Onia Seke,2009-05-08,17,Belgium,,178.0,,Right,49,M,['LW'],910000.0,EUR,2900,RSC Anderlecht,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1891116,Elyess Dao,2006-11-20,19,Morocco,,183.0,,Right,22,M,['LW'],265000.0,EUR,2900,RSC Anderlecht,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1436187,Tristan Degreef,2005-01-19,21,Belgium,,177.0,,Right,83,M,"['RW', 'LW']",3100000.0,EUR,2900,RSC Anderlecht,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+964810,Ilias Koutsoupias,2001-05-10,25,Greece,,181.0,76.0,Right,30,M,['MC'],3300000.0,EUR,2900,RSC Anderlecht,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1069125,Marten Winkler,2002-10-31,23,Germany,,184.0,,Left,10,M,['RW'],2100000.0,EUR,2900,RSC Anderlecht,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+916951,Enric Llansana,2001-04-12,25,Netherlands,,183.0,,Right,24,M,"['MC', 'DM']",2100000.0,EUR,2900,RSC Anderlecht,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2524711,Noah Kalonji,2009-04-21,17,Belgium,,185.0,,Right,68,M,,520000.0,EUR,2900,RSC Anderlecht,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1440668,Ali Maamar,2005-03-23,21,Morocco,,182.0,,Right,79,D,['DR'],2600000.0,EUR,2900,RSC Anderlecht,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1397747,Ilay Camara,2003-01-18,23,Senegal,,174.0,,Right,7,D,"['DR', 'ML', 'MR']",3600000.0,EUR,2900,RSC Anderlecht,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+983066,Andrew Omobamidele,2002-06-23,24,Ireland,,188.0,,Right,12,D,['DC'],8800000.0,EUR,2900,RSC Anderlecht,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+965331,Giulian Biancone,2000-03-31,26,France,,187.0,,Right,4,D,['DC'],2300000.0,EUR,2900,RSC Anderlecht,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+138546,Ludwig Augustinsson,1994-04-21,32,Sweden,,181.0,74.0,Left,6,D,['DL'],1500000.0,EUR,2900,RSC Anderlecht,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+964759,Marco Kana,2002-08-08,24,Belgium,,183.0,,Right,55,D,"['DC', 'MC', 'DM']",3300000.0,EUR,2900,RSC Anderlecht,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+855666,Oleg Reabciuk,1998-01-16,28,Moldova,,180.0,72.0,Left,5,D,['DL'],2300000.0,EUR,2900,RSC Anderlecht,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+909964,Killian Sardella,2002-05-02,24,Belgium,,177.0,,Right,54,D,['DR'],2300000.0,EUR,2900,RSC Anderlecht,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+827504,Léo Pétrot,1997-04-15,29,France,,188.0,,Left,27,D,"['DL', 'DC']",1400000.0,EUR,2900,RSC Anderlecht,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1122698,Lucas Hey,2003-04-13,23,Denmark,,189.0,,Right,3,D,['DC'],2300000.0,EUR,2900,RSC Anderlecht,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1426633,Kaïs Barry,2006-02-08,20,Morocco,,186.0,,Right,50,D,['DC'],315000.0,EUR,2900,RSC Anderlecht,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1603768,Zoumana Keita,2005-11-16,20,Germany,,189.0,,Both,2,D,['DC'],410000.0,EUR,2900,RSC Anderlecht,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+122399,Colin Coosemans,1992-08-03,34,Belgium,,185.0,81.0,Right,26,G,['GK'],1200000.0,EUR,2900,RSC Anderlecht,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1862163,Mattis Seghers,2009-01-14,17,Belgium,,210.0,,Left,33,G,['GK'],,,1212025,RSC Anderlecht U17,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1425335,Michiel Haentjens,2006-03-23,20,Belgium,,,,,66,G,['GK'],205000.0,EUR,2900,RSC Anderlecht,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+932070,Justin Heekeren,2000-11-27,25,Germany,,194.0,,Both,32,G,['GK'],485000.0,EUR,2900,RSC Anderlecht,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1094132,Anosike Ementa,2002-05-03,24,Denmark,,202.0,,Right,18,F,['ST'],2600000.0,EUR,2933,SV Zulte Waregem,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1521617,Akpa Chukwu Hemsley,2005-07-14,21,Belgium,,189.0,79.0,Right,90,F,['ST'],365000.0,EUR,2933,SV Zulte Waregem,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1064825,Tobias Hedl,2003-01-15,23,Austria,,185.0,,Right,20,F,['ST'],370000.0,EUR,2933,SV Zulte Waregem,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1894289,Kewan Vemba,2005-07-23,21,Belgium,,188.0,,Left,53,F,,,,76471,Zulte Waregem Reserve,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1852985,Abdulmalik Musa,2005-08-17,21,Nigeria,,183.0,,Right,40,F,['LW'],77000.0,EUR,2933,SV Zulte Waregem,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+880780,Ousseynou Niang,2001-10-12,24,Senegal,,168.0,,Right,22,M,"['ML', 'LW']",5800000.0,EUR,2933,SV Zulte Waregem,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1463503,Malick Mbaye,2004-04-06,22,Senegal,,173.0,,Right,10,M,['RW'],390000.0,EUR,2933,SV Zulte Waregem,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+988839,Marley Aké,2001-01-05,25,France,,177.0,,Right,11,M,['LW'],2300000.0,EUR,2933,SV Zulte Waregem,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1468566,István Átrok,2005-12-06,20,Hungary,,181.0,,Right,21,M,['AM'],530000.0,EUR,2933,SV Zulte Waregem,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1861685,Niko Horvat,2008-07-15,18,Croatia,,180.0,75.0,Both,19,M,['AM'],,,2933,SV Zulte Waregem,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1102965,Nikola Mituljikić,2003-01-20,23,Serbia,,180.0,,Left,7,M,['RW'],435000.0,EUR,2933,SV Zulte Waregem,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1188173,Thomas Claes,2004-03-26,22,Belgium,,181.0,,Right,8,M,"['MC', 'DM', 'AM']",1500000.0,EUR,2933,SV Zulte Waregem,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1128427,Dirk Asare,2004-07-04,22,Belgium,,173.0,,Right,40,M,"['MC', 'DM']",1100000.0,EUR,2933,SV Zulte Waregem,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+907707,Serxho Ujka,1998-08-27,28,Albania,,177.0,,Right,36,M,['MC'],420000.0,EUR,2933,SV Zulte Waregem,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1927878,Tristan Panduro,2008-01-10,18,Denmark,,,,Right,25,M,,91000.0,EUR,2933,SV Zulte Waregem,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+980923,Enrique Lofolomo,2000-04-14,26,Germany,,185.0,,Both,6,M,"['MC', 'DM', 'DC']",1100000.0,EUR,2933,SV Zulte Waregem,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1404526,Wilguens Paugain,2001-08-24,25,Haiti,,180.0,75.0,Right,12,D,['DR'],825000.0,EUR,2933,SV Zulte Waregem,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2186126,Youssoupha Mbodji,2004-01-09,22,Senegal,,190.0,,Left,15,D,['DL'],1200000.0,EUR,2933,SV Zulte Waregem,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1013188,Salim Diakité,2000-06-03,26,Mali,,187.0,,Right,23,D,"['DR', 'DC']",1400000.0,EUR,2933,SV Zulte Waregem,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1506998,Yannick Cappelle,2003-07-07,23,Belgium,,180.0,,Left,55,D,['DL'],685000.0,EUR,2933,SV Zulte Waregem,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+887822,Jakob Kiilerich,2000-05-10,26,Denmark,,190.0,,Left,5,D,['DC'],925000.0,EUR,2933,SV Zulte Waregem,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+822698,Laurent Lemoine,1998-04-24,28,Belgium,,184.0,,Right,4,D,"['DC', 'DR']",825000.0,EUR,2933,SV Zulte Waregem,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1894285,Franz Tangala,2005-04-15,21,Belgium,,182.0,,Right,49,D,,,,76471,Zulte Waregem Reserve,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2607523,Mouhamadou Sall,2007-10-21,18,Senegal,,185.0,,Right,24,D,,95000.0,EUR,2933,SV Zulte Waregem,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2115926,Benoit De Jaegere,2004-04-12,22,Belgium,,189.0,,Left,45,D,['DC'],550000.0,EUR,2933,SV Zulte Waregem,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+861977,Brent Gabriel,1999-01-27,27,Belgium,,190.0,,Right,13,G,['GK'],955000.0,EUR,2933,SV Zulte Waregem,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+145093,Louis Bostyn,1993-10-04,33,Belgium,,195.0,86.0,Right,1,G,['GK'],160000.0,EUR,2933,SV Zulte Waregem,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1469723,Arnaud Dobbels,2005-02-02,21,Belgium,,186.0,,Right,42,G,,53000.0,EUR,2933,SV Zulte Waregem,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+812797,Dennis Eckert Ayensa,1997-01-09,29,Iran,,181.0,,Right,10,F,['ST'],1900000.0,EUR,2901,Standard Liège,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+796067,Andi Zeqiri,1999-06-22,27,Switzerland,,184.0,72.0,Left,9,F,['ST'],2100000.0,EUR,2901,Standard Liège,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1127801,Adnane Abid,2003-08-23,23,Belgium,,164.0,,Right,11,F,['RW'],2300000.0,EUR,2901,Standard Liège,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1047536,Bruny Nsimba,2000-04-05,26,Belgium,,181.0,,Right,77,F,['ST'],2400000.0,EUR,2901,Standard Liège,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2017474,Bernard Nguene,2006-08-04,20,Cameroon,,180.0,,Right,17,F,['RW'],905000.0,EUR,2901,Standard Liège,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1142147,Ryan Fosso,2002-06-17,24,Cameroon,,183.0,,Right,80,M,"['MC', 'DM']",1800000.0,EUR,2901,Standard Liège,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+358198,Marco Ilaimaharitra,1995-07-26,31,Madagascar,,178.0,77.0,Right,23,M,"['MC', 'DM']",760000.0,EUR,2901,Standard Liège,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+845199,Mo El Hankouri,1997-07-01,29,Morocco,,176.0,,Right,27,M,['ML'],1100000.0,EUR,2901,Standard Liège,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1398154,Salieu Drammeh,2003-03-28,23,Gambia,,175.0,,Right,15,M,"['RW', 'LW']",1100000.0,EUR,2901,Standard Liège,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+247471,Casper Nielsen,1994-04-29,32,Denmark,,182.0,71.0,Right,94,M,"['MC', 'DM']",1400000.0,EUR,2901,Standard Liège,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1444639,Rayan Touzghar,2003-10-27,22,Morocco,,180.0,,Left,84,M,['MC'],1900000.0,EUR,2901,Standard Liège,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1474721,Laurens Goemaere,2006-04-07,20,Belgium,,179.0,,Right,6,M,"['MC', 'DM']",620000.0,EUR,2901,Standard Liège,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+966263,Ibrahim Karamoko,2001-07-23,25,France,,187.0,,Right,20,M,"['MC', 'DM', 'DC']",2900000.0,EUR,2901,Standard Liège,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+988732,Alexis Trouillet,2000-12-23,25,France,,175.0,,Left,22,M,['MC'],875000.0,EUR,2901,Standard Liège,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+237048,Tobias Mohr,1995-08-24,31,Germany,,183.0,68.0,Left,7,M,"['LW', 'DL']",825000.0,EUR,2901,Standard Liège,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2419385,Charli Spoden,2008-04-08,18,Belgium,,184.0,,Right,33,M,,,,2901,Standard Liège,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2155267,James Nam,2006-08-31,20,Belgium,,,,,73,M,,93000.0,EUR,2901,Standard Liège,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1520989,Noa Sy,2007-03-25,19,Belgium,,,,,8,M,,,,2901,Standard Liège,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+880762,Marlon Fossey,1998-09-09,28,USA,,180.0,,Right,13,D,"['MR', 'DR']",3400000.0,EUR,2901,Standard Liège,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+976070,Josué Homawoo,1997-11-12,28,Togo,,191.0,,Left,24,D,"['DC', 'DL']",1900000.0,EUR,2901,Standard Liège,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1099368,Daan Dierckx,2003-02-23,23,Belgium,,192.0,,Right,29,D,['DC'],1500000.0,EUR,2901,Standard Liège,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+964757,Ibe Hautekiet,2002-04-13,24,Belgium,,188.0,,Right,25,D,['DC'],3700000.0,EUR,2901,Standard Liège,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+857458,Dimitri Lavalėe,1997-01-13,29,Belgium,,187.0,,Left,24,D,"['DC', 'DL']",1500000.0,EUR,2901,Standard Liège,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1083365,Gustav Mortensen,2004-03-19,22,Denmark,,175.0,,Left,3,D,"['DL', 'ML']",3200000.0,EUR,2901,Standard Liège,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+976265,Henry Lawrence,2001-09-21,25,England,,171.0,,Right,18,D,"['DR', 'DC', 'MR']",3900000.0,EUR,2901,Standard Liège,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1121943,Matthieu Epolo,2005-01-15,21,DR Congo,,189.0,,Right,1,G,['GK'],7200000.0,EUR,2901,Standard Liège,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+983676,Belmin Dizdarević,2001-08-09,25,Bosnia & Herzegovina,,189.0,,Right,35,G,['GK'],110000.0,EUR,2901,Standard Liège,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+190379,Lucas Pirard,1995-03-10,31,Belgium,,191.0,85.0,Right,21,G,['GK'],340000.0,EUR,2901,Standard Liège,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1137328,Norman Bassette,2004-11-09,21,Belgium,,186.0,,Left,9,F,['ST'],1500000.0,EUR,2893,KVC Westerlo,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2124293,Naoufal Bohamdi-Kamoni,2007-08-20,19,Morocco,,184.0,,Right,11,F,,470000.0,EUR,2893,KVC Westerlo,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1976070,Felix Tsimba,2006-06-22,20,Switzerland,,185.0,,Right,22,F,['ST'],580000.0,EUR,2893,KVC Westerlo,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1988985,Dino Delic,2008-09-08,18,Austria,,182.0,,Left,23,F,['ST'],260000.0,EUR,2893,KVC Westerlo,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2507039,Abdoulaye Koné,2006-02-01,20,Côte d'Ivoire,,194.0,,Right,25,F,['ST'],,,2893,KVC Westerlo,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1864715,David Amegnaglo,2005-01-28,21,Germany,,186.0,,Right,17,F,,185000.0,EUR,2893,KVC Westerlo,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2695996,Doudou Ndiaye,2008-08-31,18,Belgium,,,,,85,F,,,,2893,KVC Westerlo,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1500794,Yang Min-hyeok,2006-04-16,20,South Korea,,176.0,,Right,47,M,['ML'],3300000.0,EUR,2893,KVC Westerlo,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1536782,Pape Diong,2006-06-15,20,Senegal,,193.0,75.0,Right,26,M,['DM'],2600000.0,EUR,2893,KVC Westerlo,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1465411,Reda Laalaoui,2005-05-11,21,Morocco,,190.0,,Right,12,M,['MC'],485000.0,EUR,2893,KVC Westerlo,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1004449,Cisse Sandra,2003-12-16,22,Belgium,,183.0,,Left,14,M,['MC'],2100000.0,EUR,2893,KVC Westerlo,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1126245,Isa Sakamoto,2003-08-26,23,Japan,,174.0,,Right,13,M,"['AM', 'ST']",3800000.0,EUR,2893,KVC Westerlo,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1869028,Shunsuke Saito,2005-04-26,21,Japan,,174.0,68.0,Right,7,M,['MR'],1300000.0,EUR,2893,KVC Westerlo,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+846087,Doğucan Haspolat,2000-02-11,26,Türkiye,,177.0,75.0,Right,34,M,"['MC', 'DM']",5200000.0,EUR,2893,KVC Westerlo,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+81202,Serhiy Sydorchuk,1991-05-02,35,Ukraine,,189.0,90.0,Right,8,M,"['MC', 'DM']",240000.0,EUR,2893,KVC Westerlo,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+149796,Nikola Storm,1994-09-30,32,Belgium,,178.0,71.0,Right,10,M,['LW'],1100000.0,EUR,2893,KVC Westerlo,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1392802,Ibrahim Fofana,2003-10-02,23,Côte d'Ivoire,,178.0,,Right,45,M,"['MC', 'DM']",3200000.0,EUR,2893,KVC Westerlo,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1189294,Cameron Congreve,2004-01-24,22,Wales,,180.0,,Left,20,M,['RW'],470000.0,EUR,2893,KVC Westerlo,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+997164,Thomas Van den Keybus,2001-04-25,25,Belgium,,179.0,,Left,39,M,"['MC', 'DM']",680000.0,EUR,2893,KVC Westerlo,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+983510,Botond Balogh,2002-06-06,24,Hungary,,189.0,76.0,Right,40,D,['DC'],2300000.0,EUR,2893,KVC Westerlo,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+939399,Seiji Kimura,2001-08-24,25,Japan,,186.0,,Right,5,D,['DC'],1600000.0,EUR,2893,KVC Westerlo,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1403004,Reno Münz,2005-10-02,21,Germany,,189.0,,Left,6,D,['DC'],1700000.0,EUR,2893,KVC Westerlo,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1396102,Amando Lapage,2004-11-08,21,Belgium,,187.0,,Right,4,D,['DC'],840000.0,EUR,2893,KVC Westerlo,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1474426,Lucas Mbamba,2006-08-10,20,Belgium,,,,Right,23,D,['DR'],,,305164,Lille 2,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1831385,Michée Ndembi,2007-07-04,19,Belgium,,187.0,,Right,24,D,['DC'],270000.0,EUR,2893,KVC Westerlo,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1145225,Fabio Ferraro,2002-09-03,24,Belgium,,180.0,,Right,88,D,"['ML', 'DL']",1200000.0,EUR,2893,KVC Westerlo,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1496001,Lasse Flø,2005-10-15,20,Denmark,,186.0,,Right,2,D,['DR'],825000.0,EUR,2893,KVC Westerlo,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1970815,Dylan Ourega,2004-10-06,22,France,,183.0,,Left,28,D,['DL'],1100000.0,EUR,2893,KVC Westerlo,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+963038,Andreas Jungdal,2002-02-22,24,Denmark,,195.0,,Right,99,G,['GK'],3800000.0,EUR,2893,KVC Westerlo,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1801304,Jahnilo Wiegel,2005-03-13,21,Suriname,,195.0,,Right,1,G,,,,224607,KFC Houtvenne,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+943249,Bill Lathouwers,1999-09-18,27,Belgium,,191.0,83.0,Left,1,G,['GK'],670000.0,EUR,2893,KVC Westerlo,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1152386,Rafiu Durosinmi,2003-01-01,23,Nigeria,,192.0,,Right,17,F,['ST'],6700000.0,EUR,2890,KRC Genk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1836721,Jerry Afriyie,2006-12-10,19,Ghana,,180.0,78.0,Right,33,F,['ST'],1300000.0,EUR,2890,KRC Genk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1502620,Aaron Bibout,2004-09-09,22,Cameroon,,193.0,,Right,23,F,['ST'],3600000.0,EUR,2890,KRC Genk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+783278,Junya Ito,1993-03-09,33,Japan,,176.0,,Right,10,M,['RW'],3100000.0,EUR,2890,KRC Genk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1102659,Benjamin Tahirović,2003-03-03,23,Bosnia & Herzegovina,,191.0,,Right,4,M,"['MC', 'DM']",4400000.0,EUR,2890,KRC Genk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1396027,Ibrahima Sory Bangoura,2004-01-05,22,Guinea,,190.0,,Right,21,M,"['MC', 'DM']",5800000.0,EUR,2890,KRC Genk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1512197,Noah Adedeji-Sternberg,2005-06-19,21,Belgium,,182.0,,Right,32,M,['LW'],3900000.0,EUR,2890,KRC Genk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+845344,Daan Heymans,1999-06-15,27,Belgium,,191.0,,Right,38,M,['AM'],6500000.0,EUR,2890,KRC Genk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1105106,Ayumu Yokoyama,2003-03-04,23,Japan,,170.0,65.0,Right,30,M,['LW'],1500000.0,EUR,2890,KRC Genk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+801025,Bryan Heynen,1997-02-06,29,Belgium,,181.0,68.0,Both,8,M,"['MC', 'DM']",8700000.0,EUR,2890,KRC Genk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1035095,Jeppe Erenbjerg,2000-04-29,26,Denmark,,184.0,,Left,11,M,"['AM', 'RW']",4200000.0,EUR,2890,KRC Genk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1931420,August De Wannemacker,2008-12-25,17,Belgium,,181.0,,Right,56,M,"['MC', 'DM']",2100000.0,EUR,2890,KRC Genk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1392533,Kevin Amaro,2004-03-03,22,Uruguay,,177.0,,Right,20,M,"['DR', 'RW']",2300000.0,EUR,2890,KRC Genk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1086072,Nikolas Sattlberger,2004-01-18,22,Austria,,191.0,,Both,24,M,"['MC', 'DM']",2100000.0,EUR,2890,KRC Genk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1405449,Kenan Haroun,2006-07-05,20,Belgium,,184.0,,Right,86,M,"['MC', 'DM']",360000.0,EUR,2890,KRC Genk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+5851,Ibrahima Bangoura,1982-12-08,43,Guinea,,172.0,72.0,Right,21,M,"['RW', 'LW', 'ST']",,,2890,KRC Genk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+354046,Joris Kayembe,1994-08-08,32,DR Congo,,180.0,,Left,18,D,['DL'],1900000.0,EUR,2890,KRC Genk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1106546,Yaimar Medina,2004-11-05,21,Ecuador,,178.0,53.0,Left,19,D,['DL'],4300000.0,EUR,2890,KRC Genk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1392905,Matte Smets,2004-01-04,22,Belgium,,184.0,,Right,6,D,['DC'],11000000.0,EUR,2890,KRC Genk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1150389,Milan Roganović,2005-10-28,20,Montenegro,,182.0,,Right,25,D,['DR'],3700000.0,EUR,2890,KRC Genk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1396029,Josue Ndenge Kongolo,2006-04-13,20,Belgium,,184.0,,Right,44,D,['DC'],3300000.0,EUR,2890,KRC Genk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1472969,Christian Akpan,2005-01-29,21,Nigeria,,174.0,,Right,65,D,"['DM', 'MC']",210000.0,EUR,2890,KRC Genk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1862182,Elie Mbavu,2009-10-20,16,Belgium,,188.0,,Right,73,D,['DC'],1500000.0,EUR,2890,KRC Genk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1393681,Adrian Palacios,2004-06-07,22,Venezuela,,186.0,,Left,34,D,['DC'],825000.0,EUR,2890,KRC Genk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1501084,Yumeki Yoshinaga,2006-02-22,20,Japan,,177.0,,Left,55,D,['DL'],325000.0,EUR,421124,Jong KRC Genk U23,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1191212,Christiaan Ravych,2002-07-30,24,Belgium,,187.0,,Right,5,D,['DC'],2600000.0,EUR,2890,KRC Genk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+961902,Ken Nkuba,2002-01-21,24,Belgium,,180.0,,Right,27,D,"['MR', 'DR']",1500000.0,EUR,2890,KRC Genk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2005704,Emmanuel Jeriel Sarfo,2007-07-12,19,Belgium,,178.0,,Right,84,D,['DL'],315000.0,EUR,2890,KRC Genk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1975275,Zion Henry,2008-02-03,18,Belgium,,195.0,,Left,63,D,['DC'],160000.0,EUR,421124,Jong KRC Genk U23,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1529975,Lucca Brughmans,2008-06-27,18,Belgium,,200.0,,Right,28,G,['GK'],3900000.0,EUR,2890,KRC Genk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1566217,Emile Doucouré,2007-09-28,19,Mali,,189.0,,Right,97,G,['GK'],485000.0,EUR,2890,KRC Genk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+990025,Tobias Lawal,2000-06-07,26,Austria,,195.0,84.0,Right,26,G,['GK'],1900000.0,EUR,2890,KRC Genk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+996979,Tobe Leysen,2002-03-09,24,Belgium,,187.0,,Left,1,G,['GK'],4600000.0,EUR,2890,KRC Genk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+110777,Hendrik Van Crombrugge,1993-04-30,33,Belgium,,188.0,,Left,1,G,['GK'],955000.0,EUR,2890,KRC Genk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1490960,Moise Kaboré,2006-12-20,19,Burkina Faso,,176.0,,Right,9,F,['ST'],760000.0,EUR,4859,SK Beveren,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+931823,Victor Olatunji,1999-09-05,27,Nigeria,,191.0,,Right,17,F,['ST'],1800000.0,EUR,4859,SK Beveren,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2240752,Junior Diouf,2007-08-16,19,Senegal,,185.0,,Right,11,F,['ST'],,,4859,SK Beveren,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1046459,Lennart Mertens,1992-08-14,34,Belgium,,188.0,,Right,92,F,['ST'],330000.0,EUR,4859,SK Beveren,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+43432,Christian Brüls,1988-09-30,38,Belgium,,179.0,74.0,Right,22,F,"['ST', 'MC', 'AM']",73000.0,EUR,4859,SK Beveren,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1112797,Ilyes Najim,2002-09-10,24,France,,173.0,,Right,7,F,['LW'],320000.0,EUR,4859,SK Beveren,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1019971,Cheick Oumar Condé,2000-07-26,26,Guinea,,185.0,,Right,44,M,"['MC', 'DM']",675000.0,EUR,4859,SK Beveren,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1036004,Jearl Margaritha,2000-04-10,26,Curacao,,181.0,,Both,17,M,"['LW', 'RW']",965000.0,EUR,4859,SK Beveren,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1126518,Chris Lokesa,2004-11-07,21,Belgium,,175.0,,Right,5,M,['LW'],410000.0,EUR,4859,SK Beveren,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+578344,Arno Verschueren,1997-08-04,29,Belgium,,182.0,71.0,Right,24,M,"['AM', 'MC']",675000.0,EUR,4859,SK Beveren,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1198065,Léandre Kuavita,2004-05-31,22,Belgium,,180.0,65.0,Right,14,M,['MC'],680000.0,EUR,4859,SK Beveren,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+873401,Kurt Abrahams,1996-12-30,29,South Africa,,165.0,,Right,34,M,"['RW', 'MC']",485000.0,EUR,4859,SK Beveren,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+901895,Sieben Dewaele,1999-02-02,27,Belgium,,180.0,,Right,18,M,"['DM', 'MC']",765000.0,EUR,4859,SK Beveren,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1458280,Ferre Slegers,2004-12-01,21,Belgium,,182.0,,Left,8,M,['RW'],470000.0,EUR,4859,SK Beveren,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+846787,Guillaume De Schryver,1996-11-04,29,Belgium,,182.0,,Both,10,M,"['AM', 'MC']",625000.0,EUR,4859,SK Beveren,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2216573,Tibe Sjongers,2007-04-02,19,Belgium,,,,,97,M,,,,4859,SK Beveren,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1082963,Stephane Keller,2001-08-20,25,Cameroon,,190.0,,Right,77,D,['DC'],420000.0,EUR,4859,SK Beveren,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1469500,Cheick Oumar Konaté,2004-04-02,22,Mali,,173.0,,Right,25,D,['DR'],1300000.0,EUR,4859,SK Beveren,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1498298,Yoni Gomis,2005-09-23,21,France,,186.0,,Left,35,D,['DC'],570000.0,EUR,4859,SK Beveren,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+137719,Laurent Jans,1992-08-05,34,Luxembourg,,178.0,73.0,Right,21,D,['DR'],260000.0,EUR,4859,SK Beveren,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1149150,Noah Mawete Kinsiona,2005-10-17,20,Belgium,,186.0,,Right,26,D,"['DC', 'MC']",270000.0,EUR,4859,SK Beveren,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1401055,Jannik Thomas Robatsch,2004-12-28,21,Austria,,190.0,,Left,48,D,['DC'],515000.0,EUR,4859,SK Beveren,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+247321,Bruno Godeau,1992-05-10,34,Belgium,,190.0,82.0,Left,31,D,"['DC', 'DL']",310000.0,EUR,4859,SK Beveren,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+970366,Dominic Thompson,2000-07-26,26,England,,183.0,,Left,2,D,"['DL', 'ML']",420000.0,EUR,4859,SK Beveren,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1046455,Viktor Boone,1998-01-25,28,Belgium,,191.0,,Right,3,D,['DC'],765000.0,EUR,4859,SK Beveren,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+794982,Christophe Janssens,1998-03-08,28,Belgium,,181.0,,Left,4,D,['DL'],515000.0,EUR,4859,SK Beveren,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+100683,Dries Wuytens,1991-03-18,35,Belgium,,183.0,80.0,Right,15,D,"['DC', 'DR']",,,4859,SK Beveren,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1022459,Johannes Schenk,2003-01-13,23,Germany,,191.0,,Right,1,G,['GK'],1600000.0,EUR,4859,SK Beveren,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1446171,Josua Lusamba Tshiolola,2004-12-13,21,DR Congo,,,,,84,G,,47000.0,EUR,4859,SK Beveren,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+966476,Maxim Deman,2001-10-23,24,Belgium,,194.0,,Left,16,G,['GK'],105000.0,EUR,4859,SK Beveren,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2257617,Milan De Schutter,2003-10-23,22,Belgium,,194.0,,Right,20,G,,,,37043,Hoogstraten VV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1100965,Samed Baždar,2004-01-31,22,Bosnia & Herzegovina,,188.0,,Right,9,F,['ST'],1600000.0,EUR,2895,Sint-Truidense VV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2049801,Shion Shinkawa,2007-08-06,19,Japan,,171.0,65.0,Right,99,F,['ST'],840000.0,EUR,2895,Sint-Truidense VV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1514300,Kaito Matsuzawa,2001-02-05,25,Japan,,176.0,,Right,38,F,['LW'],825000.0,EUR,2895,Sint-Truidense VV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1493499,Oumar Diouf,2003-05-15,23,Senegal,,180.0,,Right,77,F,['ST'],1100000.0,EUR,2895,Sint-Truidense VV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1195742,Frederic Soelle Soelle,2005-12-24,20,Belgium,,190.0,,Right,19,F,['ST'],260000.0,EUR,2895,Sint-Truidense VV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1888650,Jay David Mbalanda,2007-05-03,19,Belgium,,,,Right,32,F,,165000.0,EUR,2895,Sint-Truidense VV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+963399,Nathanaël Mbuku,2002-03-16,24,DR Congo,,170.0,,Left,11,M,"['RW', 'LW']",1800000.0,EUR,2895,Sint-Truidense VV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1154586,Ilias Sebaoui,2001-10-04,25,Morocco,,180.0,,Right,10,M,['LW'],3300000.0,EUR,2895,Sint-Truidense VV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1016965,Ryotaro Araki,2002-01-29,24,Japan,,170.0,,Right,71,M,['AM'],915000.0,EUR,2895,Sint-Truidense VV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+890695,Arbnor Muja,1998-11-29,27,Albania,,179.0,,Right,7,M,"['RW', 'LW']",2600000.0,EUR,2895,Sint-Truidense VV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1186113,Nelson Ishiwatari,2005-05-10,21,Japan,,185.0,,Right,18,M,"['MC', 'DM']",730000.0,EUR,2895,Sint-Truidense VV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1546218,Ben Achour Ilyes,2007-01-09,19,Morocco,,172.0,,Left,31,M,,105000.0,EUR,2895,Sint-Truidense VV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1046241,Isaías Delpupo,2003-03-31,23,Argentina,,176.0,,Left,11,M,"['AM', 'MC']",260000.0,EUR,2895,Sint-Truidense VV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+846330,Abdoulaye Sissako,1998-05-26,28,Uganda,,186.0,,Right,8,M,"['MC', 'DM']",2200000.0,EUR,2895,Sint-Truidense VV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1402293,Ryan Merlen,2002-05-11,24,France,,188.0,,Right,14,M,"['MC', 'DM', 'AM']",1000000.0,EUR,2895,Sint-Truidense VV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1144143,Kota Takai,2004-09-04,22,Japan,,192.0,,Right,4,D,['DC'],4600000.0,EUR,2895,Sint-Truidense VV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+386958,Shogo Taniguchi,1991-07-15,35,Japan,,182.0,,Right,5,D,['DC'],775000.0,EUR,2895,Sint-Truidense VV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1002356,Taiga Hata,2002-01-20,24,Japan,,175.0,70.0,Right,3,D,"['ML', 'LW', 'DL']",2400000.0,EUR,2895,Sint-Truidense VV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+134231,Visar Musliu,1994-11-13,31,North Macedonia,,186.0,,Right,26,D,['DC'],1000000.0,EUR,2895,Sint-Truidense VV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1931557,Jeremy Kandje Mbambi,2008-05-04,18,Belgium,,183.0,,Left,27,D,['DC'],465000.0,EUR,2895,Sint-Truidense VV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1047164,Robert-Jan Vanwesemael,2002-03-26,24,Belgium,,175.0,,Right,60,D,"['DR', 'MR']",3200000.0,EUR,2895,Sint-Truidense VV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+891609,Joedrick Pupe,1997-06-04,29,Belgium,,189.0,,Left,23,D,"['DC', 'DL']",1300000.0,EUR,2895,Sint-Truidense VV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1481773,Alouis Diriken,2004-04-01,22,Belgium,,187.0,,Right,33,D,,320000.0,EUR,2895,Sint-Truidense VV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+794418,Wolke Janssens,1995-01-11,31,Belgium,,185.0,,Right,22,D,"['DC', 'DR']",270000.0,EUR,2895,Sint-Truidense VV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2683818,Rune Verheyden,2007-04-18,19,Belgium,,,,Left,39,D,,,,2895,Sint-Truidense VV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+997020,Léo Kokubo,2001-01-23,25,Japan,,193.0,,Right,16,G,['GK'],4600000.0,EUR,2895,Sint-Truidense VV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1504802,Ahmad Abu Rasen,2003-11-02,22,Saudi Arabia,,190.0,,Right,25,G,,23000.0,EUR,2895,Sint-Truidense VV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1393695,Matt Lendfers,2006-03-10,20,Belgium,,190.0,,Right,21,G,['GK'],185000.0,EUR,2895,Sint-Truidense VV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2702873,Yanis Ngoy,2008-08-24,18,Belgium,,188.0,,Right,35,G,,,,2895,Sint-Truidense VV,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1403073,Don-Angelo Konadu,2006-05-03,20,Netherlands,,184.0,,Right,9,F,['ST'],860000.0,EUR,5046,Lommel SK,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1195745,Jason van Duiven,2005-02-24,21,Netherlands,,175.0,,Right,2,F,['ST'],485000.0,EUR,5046,Lommel SK,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+73795,Ralf Seuntjens,1989-04-17,37,Netherlands,,192.0,93.0,Right,30,F,['ST'],48000.0,EUR,5046,Lommel SK,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1566186,Alexander Reumers,2007-07-27,19,Belgium,,189.0,,,73,F,,145000.0,EUR,5046,Lommel SK,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2557417,Niek Corthouts,2006-05-02,20,Belgium,,184.0,,Right,46,F,,,,5046,Lommel SK,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1146511,Sverre Nypan,2006-12-19,19,Norway,,182.0,,Both,41,M,"['MC', 'AM']",11700000.0,EUR,5046,Lommel SK,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+235404,Joey Pelupessy,1993-05-15,33,Indonesia,,182.0,63.0,Right,6,M,"['MC', 'DM']",235000.0,EUR,5046,Lommel SK,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1149147,Juho Talvitie,2005-03-25,21,Finland,,183.0,,Left,7,M,['RW'],650000.0,EUR,5046,Lommel SK,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2064854,Elijah Olaniyi Odede,2007-01-12,19,Nigeria,,175.0,,Right,12,M,['LW'],620000.0,EUR,5046,Lommel SK,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1405932,Stredair Appuah,2004-06-27,22,France,,185.0,,Left,11,M,['RW'],520000.0,EUR,5046,Lommel SK,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1121636,Đorđe Gordić,2004-11-05,21,Serbia,,188.0,,Right,22,M,"['MC', 'AM']",485000.0,EUR,5046,Lommel SK,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+794564,Lucas Schoofs,1997-01-03,29,Belgium,,186.0,,Right,15,M,['MC'],630000.0,EUR,5046,Lommel SK,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+965779,Tom Reyners,2000-04-20,26,Belgium,,169.0,,Right,10,M,"['RW', 'AM']",940000.0,EUR,5046,Lommel SK,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+328159,Nicolas Rommens,1994-12-17,31,Belgium,,183.0,,Right,8,M,"['MC', 'DM']",435000.0,EUR,5046,Lommel SK,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2687355,Lars Beirinckx,2008-06-17,18,Belgium,,187.0,,Right,60,M,,110000.0,EUR,5046,Lommel SK,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1142572,Tristan Gooijer,2004-09-02,22,Netherlands,,185.0,,Right,47,D,"['DR', 'DC']",1400000.0,EUR,5046,Lommel SK,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1402921,Isaiah Dada-Mascoll,2006-05-24,20,England,,,,,44,D,['MC'],290000.0,EUR,5046,Lommel SK,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1146313,Sam De Grand,2004-10-05,22,Netherlands,,178.0,,Left,79,D,['DL'],940000.0,EUR,5046,Lommel SK,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+989586,Shawn Adewoye,2000-06-29,26,Belgium,,183.0,,Right,4,D,['DC'],930000.0,EUR,5046,Lommel SK,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1173826,Jhon Banguera,2004-04-03,22,Colombia,,192.0,,Left,13,D,['DC'],420000.0,EUR,5046,Lommel SK,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1514602,Henry Oware,2004-04-01,22,Ghana,,184.0,,Left,34,D,['DL'],390000.0,EUR,5046,Lommel SK,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1001790,Jesper Tolinsson,2003-02-28,23,Sweden,,190.0,,Right,14,D,"['DC', 'DR']",380000.0,EUR,5046,Lommel SK,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+859899,Timothy Eyoma,2000-01-29,26,England,,180.0,,Right,3,D,"['DC', 'DR']",205000.0,EUR,5046,Lommel SK,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+339269,Dries Wouters,1997-01-28,29,Belgium,,189.0,79.0,Left,5,D,['DC'],535000.0,EUR,5046,Lommel SK,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1913556,Josias Lama,2005-03-05,21,Belgium,,184.0,,Left,25,D,,,,5046,Lommel SK,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2438564,Emile Vandecraen,2008-05-11,18,Belgium,,,,,17,D,,,,5046,Lommel SK,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1405437,Matthias Pieklak,2006-09-14,20,Belgium,,195.0,,Right,23,G,['GK'],550000.0,EUR,5046,Lommel SK,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1005578,Nikola Ivezić,2003-04-01,23,Montenegro,,190.0,,Right,1,G,['GK'],220000.0,EUR,5046,Lommel SK,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1014643,Rik Vercauteren,2001-06-08,25,Belgium,,184.0,,Right,33,G,['GK'],97000.0,EUR,5046,Lommel SK,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1386639,Ibrahim Salah,2001-08-30,25,Morocco,,185.0,,Right,77,F,['ST'],1700000.0,EUR,2889,Royal Antwerp FC,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+134248,Michael Frey,1994-07-19,32,Switzerland,,189.0,86.0,Right,9,F,['ST'],415000.0,EUR,2889,Royal Antwerp FC,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2631629,Luis Narh,2007-12-25,18,Ghana,,186.0,,Right,99,F,,1100000.0,EUR,2889,Royal Antwerp FC,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1426634,Gerard Vandeplas,2006-02-25,20,Belgium,,189.0,,,18,F,['ST'],375000.0,EUR,262662,Royal Antwerp U23,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1546047,Jeff Godelaine,2007-04-26,19,Belgium,,,,Left,29,F,,,,262662,Royal Antwerp U23,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1149127,Arthur Vermeeren,2005-02-07,21,Belgium,,180.0,,Right,48,M,"['MC', 'DM']",19400000.0,EUR,2889,Royal Antwerp FC,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1154566,Mukhammadali Urinboev,2005-04-24,21,Uzbekistan,,170.0,,Left,19,M,['ST'],430000.0,EUR,2889,Royal Antwerp FC,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1590946,Youssef Hamdaoui,2008-03-20,18,Morocco,,180.0,,Right,11,M,['AM'],,,262662,Royal Antwerp U23,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2405369,Xander Dierckx,2009-02-27,17,Belgium,,189.0,,Left,14,M,"['MC', 'DM']",2900000.0,EUR,2889,Royal Antwerp FC,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1402224,Mauricio Benitez,2004-02-03,22,Argentina,,185.0,,Right,8,M,"['MC', 'DM']",2300000.0,EUR,2889,Royal Antwerp FC,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1892676,Snayder Porozo,2007-05-12,19,Ecuador,,189.0,89.0,Right,33,M,['ST'],1000000.0,EUR,2889,Royal Antwerp FC,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2441546,Koki Ando,2007-09-22,19,Japan,,170.0,60.0,Right,33,M,,325000.0,EUR,2889,Royal Antwerp FC,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1562126,Bahmed Deuff,2006-03-09,20,Mauritania,,178.0,,Right,6,M,['MC'],,,2889,Royal Antwerp FC,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1920581,Farouck Adekami,2006-02-13,20,Côte d'Ivoire,,,,,22,M,,74000.0,EUR,262662,Royal Antwerp U23,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1002804,Thibo Somers,1999-03-16,27,Belgium,,183.0,,Right,24,M,"['MR', 'RW', 'AM']",2900000.0,EUR,2889,Royal Antwerp FC,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2631627,Carlos Mejia,2007-07-24,19,Ecuador,,176.0,,Left,80,M,['LW'],1500000.0,EUR,2889,Royal Antwerp FC,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+997118,Christopher Scott,2002-06-07,24,Germany,,174.0,,Right,10,M,"['AM', 'MC']",2100000.0,EUR,2889,Royal Antwerp FC,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+826170,Daam Foulon,1999-03-23,27,Belgium,,180.0,,Left,5,M,"['ML', 'DL']",1900000.0,EUR,2889,Royal Antwerp FC,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2602250,Modibo Fofana,2007-11-03,18,Côte d'Ivoire,,178.0,,Right,25,M,['MC'],,,262662,Royal Antwerp U23,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1465835,Andreas Verstraeten,2006-01-10,20,Belgium,,178.0,,Left,6,M,['MC'],105000.0,EUR,262662,Royal Antwerp U23,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2297227,Louie Van Gelder,2009-01-30,17,Belgium,,175.0,,Right,16,M,['MC'],,,262662,Royal Antwerp U23,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1464652,Álvaro Cortés,2005-03-17,21,Spain,,189.0,,Left,3,D,['DC'],3600000.0,EUR,2889,Royal Antwerp FC,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1470622,Yuto Tsunashima,2000-08-15,26,Japan,,188.0,,Right,4,D,"['DC', 'DR']",1600000.0,EUR,2889,Royal Antwerp FC,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1546054,Semm Renders,2007-12-16,18,Belgium,,180.0,,Right,17,D,['DR'],410000.0,EUR,262662,Royal Antwerp U23,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1047163,Rein Van Helden,2002-07-24,24,Belgium,,187.0,,Right,20,D,"['DC', 'DR']",3100000.0,EUR,2889,Royal Antwerp FC,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+943926,Maxime Busi,1999-10-14,26,Belgium,,182.0,,Right,44,D,['DR'],1400000.0,EUR,2889,Royal Antwerp FC,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1546044,Eran Tuypens,2005-12-07,20,Belgium,,181.0,,Left,27,D,['DL'],,,262662,Royal Antwerp U23,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2487802,Luca Schelfhout,2007-09-16,19,Belgium,,,,Right,28,D,,,,262662,Royal Antwerp U23,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1931394,Aaron Ibrahim,2008-08-02,18,Belgium,,,,Left,46,D,,,,262662,Royal Antwerp U23,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1002358,Taishi Brandon Nozawa,2002-12-25,23,Japan,,191.0,90.0,Right,41,G,['GK'],3400000.0,EUR,2889,Royal Antwerp FC,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+794571,Yannick Thoelen,1990-07-18,36,Belgium,,188.0,81.0,Right,15,G,['GK'],205000.0,EUR,2889,Royal Antwerp FC,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1391493,Niels Devalckeneer,2004-05-17,22,Belgium,,193.0,,Right,81,G,['GK'],93000.0,EUR,262662,Royal Antwerp U23,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1546050,Lowie Piselé,2009-09-17,17,Belgium,,,,,,G,,,,262662,Royal Antwerp U23,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1108206,Zsombor Gruber,2004-09-07,22,Hungary,,183.0,,Left,30,F,"['ST', 'RW']",1500000.0,EUR,368506,RAAL La Louvière,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+928920,Mouhamed Belkheir,1999-01-02,27,Algeria,,185.0,,Left,14,F,['ST'],470000.0,EUR,368506,RAAL La Louvière,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1414475,Mustapha Isah,2004-07-23,22,Nigeria,,175.0,,Right,11,F,['ST'],645000.0,EUR,368506,RAAL La Louvière,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1199051,Elias Filet,2002-03-06,24,France,,186.0,,Left,9,F,['ST'],620000.0,EUR,368506,RAAL La Louvière,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1396500,Léandro Rousseau,2003-07-07,23,Belgium,,185.0,,Right,90,F,['ST'],1100000.0,EUR,368506,RAAL La Louvière,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1396504,Quentin Benaets,2003-08-25,23,Belgium,,,,Right,43,F,,97000.0,EUR,368506,RAAL La Louvière,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1473182,Anas Tajaouart,2005-09-07,21,Morocco,,167.0,,Right,78,M,"['MC', 'DM']",390000.0,EUR,368506,RAAL La Louvière,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+873632,Ismaila Coulibaly,2000-12-25,25,Mali,,183.0,,Right,48,M,"['MC', 'DM']",675000.0,EUR,368506,RAAL La Louvière,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1012664,Mátyás Kovács,2003-07-07,23,Hungary,,181.0,,Right,7,M,['MR'],460000.0,EUR,368506,RAAL La Louvière,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1520987,Noah Makembo-Ntemo,2007-03-13,19,Belgium,,175.0,,Right,20,M,['ST'],93000.0,EUR,368506,RAAL La Louvière,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+867246,Thierry Lutonda,2000-10-27,25,Belgium,,167.0,,Left,5,M,"['DL', 'ML']",580000.0,EUR,368506,RAAL La Louvière,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1188133,Mame Wade,2002-10-10,23,Senegal,,192.0,,Right,10,M,['AM'],290000.0,EUR,368506,RAAL La Louvière,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+987617,Bryan Soumaré,1999-02-11,27,France,,180.0,,Left,28,M,"['AM', 'RW']",205000.0,EUR,368506,RAAL La Louvière,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1593830,Joël Ito,1998-03-27,28,Belgium,,166.0,,Right,23,M,['MC'],930000.0,EUR,368506,RAAL La Louvière,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2425212,Nolan Gillot,2002-10-31,23,France,,183.0,,Left,3,M,['DL'],470000.0,EUR,368506,RAAL La Louvière,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2642567,Timéo Kerckhofs,2008-12-09,17,Belgium,,,,,,M,,,,368506,RAAL La Louvière,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1131463,Mehdi Boukamir,2004-01-26,22,Morocco,,188.0,,Right,44,D,['DC'],465000.0,EUR,368506,RAAL La Louvière,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1506932,Marius Courcoul,2007-01-01,19,France,,182.0,,Right,29,D,['MC'],53000.0,EUR,325663,Angers II,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1167514,Yllan Okou,2002-12-23,23,France,,189.0,,Left,99,D,['DC'],2100000.0,EUR,368506,RAAL La Louvière,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+957913,Wagane Faye,1993-11-20,32,Senegal,,180.0,,Right,4,D,"['DC', 'DR']",435000.0,EUR,368506,RAAL La Louvière,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1394183,Patrick Nkoa,1999-07-11,27,Cameroon,,192.0,,Right,33,D,['DC'],720000.0,EUR,368506,RAAL La Louvière,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1416180,Siad Gourville,2000-05-25,26,France,,198.0,,Right,22,D,['DC'],775000.0,EUR,368506,RAAL La Louvière,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1170564,Djibril Lamego,2003-02-25,23,France,,183.0,,Left,25,D,"['DC', 'DL']",1500000.0,EUR,368506,RAAL La Louvière,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+989888,Shaquil Delos,1999-06-16,27,France,,179.0,,Both,18,D,"['DR', 'MR']",450000.0,EUR,368506,RAAL La Louvière,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1149294,Tiago Pereira Cardoso,2006-04-07,20,Luxembourg,,190.0,,Right,42,G,['GK'],1600000.0,EUR,368506,RAAL La Louvière,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+789394,Marcos Hernán Peano,1998-10-15,27,Argentina,,185.0,,Right,21,G,['GK'],2100000.0,EUR,368506,RAAL La Louvière,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1566318,Théo Radelet,2007-11-15,18,Belgium,,193.0,,Left,91,G,,47000.0,EUR,368506,RAAL La Louvière,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1158403,Lucas Monteiro,2005-08-04,21,Portugal,,,,Right,71,G,,90000.0,EUR,368506,RAAL La Louvière,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2033824,Abdoul Karim Traoré,2007-01-12,19,Guinea,,178.0,,Right,9,F,['ST'],1000000.0,EUR,2918,Oud-Heverlee Leuven,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1382299,Shin Yamada,2000-05-30,26,Japan,,175.0,75.0,Right,20,F,['ST'],775000.0,EUR,2918,Oud-Heverlee Leuven,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1143547,Chukwubuikem Ikwuemesi,2001-08-05,25,Nigeria,,195.0,,Right,19,F,['ST'],1100000.0,EUR,2918,Oud-Heverlee Leuven,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1405446,Robin Mirisola,2006-12-08,19,Belgium,,182.0,,Right,18,F,['ST'],3600000.0,EUR,2918,Oud-Heverlee Leuven,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+997827,Kyan Vaesen,2001-04-13,25,Belgium,,190.0,,Right,17,F,['ST'],720000.0,EUR,2918,Oud-Heverlee Leuven,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1566205,Chike Van De Ven,2007-05-28,19,Belgium,,178.0,,Right,89,F,,,,76459,Oud-Heverlee Leuven Banqup Academy U23,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1398529,Emmanuel Addai,2001-08-01,25,Ghana,,173.0,,Both,7,M,['LW'],1200000.0,EUR,2918,Oud-Heverlee Leuven,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+943881,William Balikwisha,1999-05-12,27,DR Congo,,174.0,,Right,21,M,"['MC', 'RW', 'AM']",310000.0,EUR,2918,Oud-Heverlee Leuven,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1001201,Łukasz Łakomy,2001-01-18,25,Poland,,181.0,,Left,24,M,"['MC', 'DM']",1800000.0,EUR,2918,Oud-Heverlee Leuven,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+190413,Siebe Schrijvers,1996-07-18,30,Belgium,,178.0,,Right,8,M,"['MC', 'DM']",1400000.0,EUR,2918,Oud-Heverlee Leuven,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+940558,Henok Teklab,1998-11-16,27,Eritrea,,174.0,,Right,11,M,['ML'],880000.0,EUR,2918,Oud-Heverlee Leuven,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+826172,Thibaud Verlinden,1999-07-09,27,Belgium,,173.0,65.0,Right,10,M,"['LW', 'AM']",1300000.0,EUR,2918,Oud-Heverlee Leuven,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+192268,Birger Verstraete,1994-04-16,32,Belgium,,171.0,61.0,Right,4,M,"['MC', 'DM']",860000.0,EUR,2918,Oud-Heverlee Leuven,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+959820,Óscar Gil,1998-04-26,28,Spain,,175.0,,Both,27,M,"['DR', 'MR']",775000.0,EUR,2918,Oud-Heverlee Leuven,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+983027,Wouter George,2002-03-02,24,Belgium,,172.0,,Right,6,M,"['MC', 'DM']",665000.0,EUR,2918,Oud-Heverlee Leuven,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1823933,Hasan Bulut,2007-05-18,19,Türkiye,,,,Left,42,M,['RW'],,,76459,Oud-Heverlee Leuven Banqup Academy U23,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1122524,Manuel Osifo,2003-07-31,23,Belgium,,182.0,,Right,25,M,['MC'],380000.0,EUR,2918,Oud-Heverlee Leuven,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1002383,Bryang Kayo,2002-07-27,24,USA,,185.0,,Right,48,M,['MC'],330000.0,EUR,2918,Oud-Heverlee Leuven,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2080950,Sebastian Murru,2007-03-15,19,Belgium,,,,,72,M,,,,76459,Oud-Heverlee Leuven Banqup Academy U23,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1465821,Matteo Heremans,2006-01-08,20,Belgium,,,,,80,M,,,,76459,Oud-Heverlee Leuven Banqup Academy U23,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1000292,Alessandro Fontanarosa,2003-02-07,23,Italy,,185.0,,Left,30,D,"['DC', 'DL', 'DR']",1500000.0,EUR,2918,Oud-Heverlee Leuven,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+925904,Takuya Ogiwara,1999-11-23,26,Japan,,175.0,69.0,Left,26,D,['DL'],640000.0,EUR,2918,Oud-Heverlee Leuven,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1129502,Roggerio Nyakossi,2004-01-13,22,Switzerland,,194.0,,Right,34,D,['DC'],5200000.0,EUR,2918,Oud-Heverlee Leuven,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+997206,Jamie Lawrence,2002-11-10,23,Germany,,200.0,,Right,5,D,['DC'],640000.0,EUR,2918,Oud-Heverlee Leuven,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+949101,Ewoud Pletinckx,2000-10-10,25,Belgium,,190.0,,Right,28,D,"['DC', 'DR']",1700000.0,EUR,2918,Oud-Heverlee Leuven,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1860321,Davis Opoku,2007-10-29,18,Belgium,,180.0,,Right,99,D,['DR'],775000.0,EUR,2918,Oud-Heverlee Leuven,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1157903,Viktor Damjanić,2005-11-03,20,Croatia,,197.0,,Left,15,D,['DC'],315000.0,EUR,2918,Oud-Heverlee Leuven,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+115569,Noë Dussenne,1992-04-07,34,Belgium,,191.0,80.0,Right,3,D,['DC'],310000.0,EUR,2918,Oud-Heverlee Leuven,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+823046,Thibault Vlietinck,1997-08-19,29,Belgium,,178.0,62.0,Right,77,D,"['MR', 'DR']",435000.0,EUR,2918,Oud-Heverlee Leuven,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1835475,Christ Souanga,2006-10-23,19,Belgium,,186.0,,Left,63,D,,290000.0,EUR,2918,Oud-Heverlee Leuven,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1049432,Dani van den Heuvel,2003-05-28,23,Netherlands,,184.0,,Right,1,G,['GK'],775000.0,EUR,2918,Oud-Heverlee Leuven,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1104254,Kiany Vroman,2004-01-21,22,Belgium,,185.0,,Right,13,G,['GK'],545000.0,EUR,2918,Oud-Heverlee Leuven,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1085907,Owen Jochmans,2003-01-27,23,Belgium,,185.0,,Right,61,G,,160000.0,EUR,2918,Oud-Heverlee Leuven,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2562418,Marcel Van Dijck,2008-10-10,17,Belgium,,,,Right,81,G,,,,262662,Royal Antwerp U23,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+891505,Goduine Koyalipou,2000-02-15,26,Central African Republic,,183.0,76.0,Right,10,F,['ST'],2400000.0,EUR,4858,KV Kortrijk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+356024,Thierry Ambrose,1997-03-28,29,Guadeloupe,,178.0,,Right,68,F,['ST'],1900000.0,EUR,4858,KV Kortrijk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1502941,Lennard Hens,1996-02-08,30,Belgium,,183.0,,Right,10,F,"['MC', 'AM']",410000.0,EUR,4858,KV Kortrijk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+823047,Jellert Van Landschoot,1997-08-27,29,Belgium,,176.0,57.0,Left,18,F,"['ML', 'ST', 'LW']",740000.0,EUR,4858,KV Kortrijk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1851556,Sixtus Ogbuehi,2003-03-15,23,Nigeria,,192.0,,Right,90,F,['ST'],195000.0,EUR,4858,KV Kortrijk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2721264,Anthony Philips,2009-04-07,17,Belgium,,185.0,,,70,F,,410000.0,EUR,4858,KV Kortrijk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2632096,Abdoul Diop,2005-04-20,21,Senegal,,178.0,,Right,99,F,,,,4858,KV Kortrijk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1518101,Shandre Campbell,2005-07-15,21,South Africa,,178.0,,Left,11,M,['LW'],960000.0,EUR,4858,KV Kortrijk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1064174,Nayel Mehssatou,2002-04-12,24,Chile,,172.0,,Right,8,M,"['MC', 'DM', 'MR']",1500000.0,EUR,4858,KV Kortrijk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1125634,Ken Masui,2001-04-04,25,Japan,,172.0,67.0,Right,71,M,['LW'],850000.0,EUR,4858,KV Kortrijk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1010062,Suf Podgoreanu,2002-01-20,24,Israel,,193.0,,Right,7,M,"['RW', 'LW']",670000.0,EUR,4858,KV Kortrijk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1021938,Jamie Roche,2001-04-05,25,Sweden,,191.0,,Left,24,M,['MC'],3600000.0,EUR,4858,KV Kortrijk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+122859,Brecht Dejaegere,1991-05-29,35,Belgium,,174.0,67.0,Right,19,M,"['MC', 'DM', 'AM']",290000.0,EUR,4858,KV Kortrijk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+936240,Boris Lambert,2000-04-10,26,Belgium,,187.0,,Right,35,M,"['MC', 'DM', 'DC']",775000.0,EUR,4858,KV Kortrijk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1091040,Liam De Smet,2004-04-12,22,Belgium,,174.0,,Right,6,M,"['MC', 'DM']",410000.0,EUR,4858,KV Kortrijk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1387921,Matthew Anderson,2004-01-25,22,Scotland,,176.0,,Left,3,M,"['ML', 'DL']",825000.0,EUR,4858,KV Kortrijk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1139105,Rok Štorman,2004-09-04,22,Slovenia,,185.0,,Right,17,M,"['MC', 'DM', 'AM']",970000.0,EUR,4858,KV Kortrijk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1403049,Harrison Murray-Campbell,2006-08-04,20,England,,186.0,,Right,4,D,['DC'],520000.0,EUR,4858,KV Kortrijk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1394357,James Ndjeungoue,2003-04-04,23,Cameroon,,186.0,,Left,5,D,"['DC', 'DL']",830000.0,EUR,4858,KV Kortrijk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1929417,Basile Vroninks,2006-11-20,19,Belgium,,175.0,,Right,25,D,['DR'],420000.0,EUR,4858,KV Kortrijk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2088572,Mohamed Fofana,2005-12-29,20,Côte d'Ivoire,,180.0,,Right,15,D,['DC'],245000.0,EUR,4858,KV Kortrijk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1133521,Rudy Kohon,2004-05-23,22,France,,187.0,,Right,36,D,"['DC', 'DR']",670000.0,EUR,4858,KV Kortrijk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+285943,Gilles Dewaele,1996-02-13,30,Belgium,,180.0,72.0,Right,20,D,"['DR', 'MR']",190000.0,EUR,4858,KV Kortrijk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1511918,Axel Drouhin,2000-03-18,26,France,,187.0,,Right,21,D,['DC'],1200000.0,EUR,4858,KV Kortrijk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+329415,Gilles Ruyssen,1994-06-18,32,Belgium,,186.0,,Right,22,D,"['DC', 'DR']",580000.0,EUR,4858,KV Kortrijk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2642509,Guust Lamerand,2008-03-21,18,Belgium,,,,Left,45,D,,,,4858,KV Kortrijk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+843151,Marko Ilić,1998-02-03,28,Serbia,,190.0,70.0,Right,31,G,['GK'],825000.0,EUR,4858,KV Kortrijk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+879496,Patrik Sigurdur Gunnarsson,2000-11-15,25,Iceland,,188.0,,Right,1,G,['GK'],425000.0,EUR,4858,KV Kortrijk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1187184,Ebbe De Vlaeminck,2005-11-04,20,Belgium,,184.0,,Right,13,G,['GK'],210000.0,EUR,4858,KV Kortrijk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1644378,Tristen Alliet,2005-04-19,21,Belgium,,,,,77,G,,,,4858,KV Kortrijk,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1654887,Abdoulie Manneh,2004-09-29,22,Gambia,,179.0,,Right,19,F,['LW'],2900000.0,EUR,2929,Cercle Brugge,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1154647,Lucas Michal,2005-06-22,21,France,,167.0,,Right,22,F,['ST'],3700000.0,EUR,2929,Cercle Brugge,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+822673,Dante Vanzeir,1998-04-16,28,Belgium,,175.0,,Right,13,F,['ST'],1600000.0,EUR,2929,Cercle Brugge,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1394411,Steve Ngoura,2005-02-22,21,France,,193.0,,Right,9,F,['ST'],4700000.0,EUR,2929,Cercle Brugge,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1652684,Abdoul Kader Ouattara,2005-05-26,21,Burkina Faso,,171.0,,Right,7,F,['RW'],365000.0,EUR,2929,Cercle Brugge,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1470008,Charles Herrmann,2006-01-21,20,Germany,,180.0,,Left,11,F,['RW'],830000.0,EUR,2929,Cercle Brugge,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2001165,Krys Kouassi,2007-03-08,19,France,,175.0,,Left,41,F,,190000.0,EUR,2929,Cercle Brugge,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+845136,Lazare Amani,1998-03-07,28,Côte d'Ivoire,,172.0,,Right,10,M,"['MC', 'DM']",1000000.0,EUR,2929,Cercle Brugge,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1152187,Joel Ndala,2006-05-31,20,England,,178.0,,Right,17,M,['LW'],2900000.0,EUR,2929,Cercle Brugge,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+931035,Luke Le Roux,2000-03-10,26,South Africa,,180.0,,Right,18,M,"['MC', 'DM']",840000.0,EUR,2929,Cercle Brugge,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1005686,Tayo Adaramola,2003-11-13,22,Ireland,,177.0,,Left,45,M,"['DL', 'ML']",770000.0,EUR,2929,Cercle Brugge,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1133063,Tunde Akinsola,2003-03-10,23,Nigeria,,175.0,,Left,30,M,['RW'],860000.0,EUR,2929,Cercle Brugge,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1894087,Erick Nunes,2004-02-29,22,Brazil,,180.0,84.0,Right,8,M,['MR'],580000.0,EUR,2929,Cercle Brugge,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1100320,Lukas Mondele,2004-03-29,22,Belgium,,181.0,,Left,42,M,"['MC', 'DM']",380000.0,EUR,2929,Cercle Brugge,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+94290,Hannes Van Der Bruggen,1993-04-01,33,Belgium,,180.0,,Right,28,M,"['MC', 'DM']",415000.0,EUR,2929,Cercle Brugge,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2725955,Viggo Martens,2007-01-04,19,Belgium,,172.0,,Right,71,M,['AM'],,,2929,Cercle Brugge,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1168646,Ibrahim Diakité,2003-10-31,22,Guinea,,178.0,,Right,2,D,"['DR', 'DC']",970000.0,EUR,2929,Cercle Brugge,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1994822,Royer Caicedo,2006-05-05,20,Colombia,,193.0,,Left,33,D,['DC'],1400000.0,EUR,2929,Cercle Brugge,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1847412,Emmanuel Kakou,2005-06-30,21,Côte d'Ivoire,,,,Right,5,D,['DC'],2200000.0,EUR,2929,Cercle Brugge,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1499156,Valy Konaté,2006-11-14,19,Côte d'Ivoire,,174.0,,Left,12,D,['DL'],1300000.0,EUR,2929,Cercle Brugge,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+990265,Gary Magnee,1999-10-12,26,Belgium,,173.0,,Right,15,D,"['MR', 'DR', 'ML']",2000000.0,EUR,2929,Cercle Brugge,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1397885,Geoffrey Kondo,2002-05-02,24,France,,180.0,,Left,24,D,"['DC', 'DL']",3100000.0,EUR,2929,Cercle Brugge,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1592238,Yago Lincoln,2003-01-30,23,Brazil,,190.0,,Right,3,D,['DC'],,,2022,Londrina,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1977305,Sebbe Gheerardyns,2005-01-10,21,Belgium,,,,Left,75,D,,,,76443,Cercle Brugge Reserve Youth U23,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1136884,Yann Lienard,2003-03-16,23,France,,192.0,,Right,21,G,['GK'],105000.0,EUR,2929,Cercle Brugge,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+794989,Gaëtan Coucke,1998-11-03,27,Belgium,,187.0,,Right,1,G,['GK'],775000.0,EUR,2929,Cercle Brugge,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1191211,Bas Langenbick,2003-06-15,23,Belgium,,189.0,70.0,Right,84,G,,49000.0,EUR,2929,Cercle Brugge,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1893847,Tiemen De Bel,2006-10-31,19,Belgium,,190.0,,Right,94,G,,,,76443,Cercle Brugge Reserve Youth U23,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1012925,Myron Van Brederode,2003-07-06,23,Netherlands,,172.0,,Right,9,F,"['LW', 'AM']",4900000.0,EUR,5044,KV Mechelen,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+94300,Benito Raman,1994-11-07,31,Belgium,,172.0,,Right,14,F,['ST'],755000.0,EUR,5044,KV Mechelen,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1010237,Keano Vanrafelghem,2003-08-02,23,Belgium,,171.0,,Right,27,F,['ST'],1500000.0,EUR,5044,KV Mechelen,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1158921,Bill Antonio,2002-09-03,24,Zimbabwe,,177.0,,Right,14,F,['MR'],1100000.0,EUR,5044,KV Mechelen,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1445119,Bilal Bafdili,2004-08-03,22,Belgium,,180.0,,Right,11,F,['AM'],935000.0,EUR,5044,KV Mechelen,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1409866,Maxim Kireev,2004-07-09,22,Belarus,,182.0,,Right,10,F,['ST'],730000.0,EUR,5044,KV Mechelen,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2041882,Bouke Boersma,2005-06-23,21,Netherlands,,,,Right,28,F,['ST'],2400000.0,EUR,5044,KV Mechelen,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1195764,Halil Özdemir,2005-08-18,21,Türkiye,,177.0,,Right,21,F,,410000.0,EUR,5044,KV Mechelen,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2536811,Malcolm Lohunanu-Mbasi,2008-05-11,18,Belgium,,187.0,,Right,19,F,,,,76459,Oud-Heverlee Leuven Banqup Academy U23,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2725953,Shina Ayodele,2006-06-22,20,Nigeria,,,,,16,F,,,,5044,KV Mechelen,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+135647,Dennis Praet,1994-05-14,32,Belgium,,181.0,78.0,Right,26,M,"['DM', 'MC', 'AM']",1600000.0,EUR,5044,KV Mechelen,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2084603,Amine Ouahabi,2008-07-04,18,Morocco,,185.0,,Right,40,M,['DM'],97000.0,EUR,5044,KV Mechelen,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1126520,Simion Michez,2002-02-09,24,Cameroon,,178.0,,Right,23,M,['MR'],580000.0,EUR,5044,KV Mechelen,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1392080,Thérence Koudou,2004-12-13,21,France,,178.0,,Right,7,M,"['MR', 'DR']",4300000.0,EUR,5044,KV Mechelen,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+946959,Fredrik Hammar,2001-02-26,25,Sweden,,181.0,,Right,6,M,"['MC', 'DM']",3100000.0,EUR,5044,KV Mechelen,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1166767,Dikeni Salifou,2003-06-08,23,Togo,,191.0,,Right,8,M,"['MC', 'DM']",1100000.0,EUR,5044,KV Mechelen,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1002317,Ryan Teague,2002-01-24,24,Australia,,182.0,,Left,5,M,"['MC', 'DM']",570000.0,EUR,5044,KV Mechelen,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1563509,Cedric Jan Van Meirvenne,2005-04-18,21,Belgium,,,,Right,17,M,['ML'],410000.0,EUR,5044,KV Mechelen,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2418248,Marco Decherf,2006-10-23,19,France,,188.0,,Right,30,M,,,,401944,USL Dunkerque 2,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+962625,José Marsà,2002-03-04,24,Spain,,181.0,,Left,3,D,"['DC', 'DL']",3400000.0,EUR,5044,KV Mechelen,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1097848,Leo Fuhr Hjelde,2003-08-26,23,Norway,,188.0,,Left,5,D,"['DL', 'DC']",1500000.0,EUR,5044,KV Mechelen,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1463869,Kobe Corbanie,2005-05-10,21,Belgium,,187.0,,Right,20,D,['DM'],930000.0,EUR,262662,Royal Antwerp U23,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+876232,Tommy St Jago,2000-01-03,26,Curacao,,186.0,,Right,33,D,"['DR', 'DC']",1900000.0,EUR,5044,KV Mechelen,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+947842,Mike Eerdhuijzen,2000-07-13,26,Netherlands,,194.0,,Left,44,D,['DC'],1400000.0,EUR,5044,KV Mechelen,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1407164,Gora Diouf,2003-09-20,23,Senegal,,185.0,,Left,4,D,['DC'],1400000.0,EUR,5044,KV Mechelen,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1086107,Luc Marijnissen,2003-01-09,23,Netherlands,,190.0,,Right,2,D,"['DC', 'DR']",1500000.0,EUR,5044,KV Mechelen,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2192147,Ian Struyf,2007-08-22,19,Belgium,,191.0,,Left,18,D,['DC'],375000.0,EUR,5044,KV Mechelen,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1391861,Massimo Decoene,2004-02-11,22,Belgium,,183.0,,Right,39,D,['DC'],415000.0,EUR,5044,KV Mechelen,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+877292,Ortwin De Wolf,1996-04-23,30,Belgium,,190.0,,Left,1,G,['GK'],470000.0,EUR,5044,KV Mechelen,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1010556,Nacho Miras,1997-07-19,29,Spain,,187.0,,Right,13,G,['GK'],3600000.0,EUR,5044,KV Mechelen,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+1547695,Tijn Van Ingelgom,2007-03-05,19,Belgium,,194.0,,Right,15,G,,97000.0,EUR,5044,KV Mechelen,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08
+2127057,Axel Willockx,2007-02-07,19,Belgium,,189.0,85.0,Right,32,G,,52000.0,EUR,5044,KV Mechelen,BEL,2026-2027,datafc_sofascore,2026-10-06 21:44:08

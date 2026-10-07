@@ -1,0 +1,557 @@
+﻿player_id,player_name,date_of_birth,age,nationality,nationality_id,height,weight,preferred_foot,jersey_number,position,position_detailed,market_value,market_currency,team_id,team_name,_league_id,_season,_source,_scraped_at
+328027,Serhou Guirassy,1996-03-12,30.0,Guinea,,187.0,82.0,Right,9,F,['ST'],34000000.0,EUR,2673,Borussia Dortmund,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+954076,Fábio Silva,2002-07-19,24.0,Portugal,,185.0,,Right,21,F,"['ST', 'LW']",21000000.0,EUR,2673,Borussia Dortmund,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+980628,Maximilian Beier,2002-10-17,23.0,Germany,,183.0,,Right,14,F,"['ST', 'AM']",43000000.0,EUR,2673,Borussia Dortmund,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1937835,Mathis Albert,2009-05-21,17.0,USA,,179.0,,Right,41,F,['LW'],5200000.0,EUR,2673,Borussia Dortmund,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1134083,Jobe Bellingham,2005-09-23,21.0,England,,191.0,,Right,7,M,"['MC', 'DM']",38000000.0,EUR,2673,Borussia Dortmund,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1401702,Ethan Nwaneri,2007-03-21,19.0,England,,176.0,,Left,18,M,['MC'],34000000.0,EUR,2673,Borussia Dortmund,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1468744,Konstantinos Karetsas,2007-11-19,18.0,Greece,,171.0,,Left,19,M,"['AM', 'RW']",34000000.0,EUR,2673,Borussia Dortmund,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+907463,Felix Nmecha,2000-10-10,25.0,Germany,,190.0,,Right,8,M,"['MC', 'DM']",53000000.0,EUR,2673,Borussia Dortmund,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1002007,Giannis Konstantelias,2003-03-05,23.0,Greece,,178.0,,Both,45,M,"['AM', 'LW']",20000000.0,EUR,2673,Borussia Dortmund,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+994556,Carney Chukwuemeka,2003-10-20,22.0,Austria,,185.0,,Right,17,M,"['MC', 'AM']",15400000.0,EUR,2673,Borussia Dortmund,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+133908,Marcel Sabitzer,1994-03-17,32.0,Austria,,177.0,74.0,Right,20,M,"['MC', 'DM', 'LW']",6200000.0,EUR,2673,Borussia Dortmund,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+800951,Julian Ryerson,1997-11-17,28.0,Norway,,183.0,70.0,Right,26,M,"['MR', 'DR']",24000000.0,EUR,2673,Borussia Dortmund,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1861666,Samuele Inacio,2008-04-02,18.0,Italy,,175.0,,Right,40,M,['AM'],21000000.0,EUR,2673,Borussia Dortmund,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+850816,Joey Veerman,1998-11-19,27.0,Netherlands,,185.0,,Right,25,M,"['MC', 'DM']",26000000.0,EUR,2673,Borussia Dortmund,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1021272,Daniel Svensson,2002-02-12,24.0,Sweden,,183.0,,Left,24,M,"['ML', 'DL']",20000000.0,EUR,2673,Borussia Dortmund,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1836843,Justin Lerma,2008-05-05,18.0,Ecuador,,176.0,,Right,28,M,['AM'],3100000.0,EUR,2673,Borussia Dortmund,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1957706,Enzo Duarte,2009-01-28,17.0,Luxembourg,,186.0,,Right,44,M,['MC'],1400000.0,EUR,2673,Borussia Dortmund,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+577726,Ramy Bensebaini,1995-04-16,31.0,Algeria,,186.0,75.0,Left,5,D,"['DC', 'DL']",7400000.0,EUR,2673,Borussia Dortmund,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+940871,Nico Schlotterbeck,1999-12-01,26.0,Germany,,191.0,,Left,4,D,"['DC', 'DL']",57000000.0,EUR,2673,Borussia Dortmund,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+138156,Emre Can,1994-01-12,32.0,Germany,,186.0,82.0,Right,23,D,"['MC', 'DC', 'DM']",3200000.0,EUR,2673,Borussia Dortmund,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1887796,Kauã Prates,2008-08-11,18.0,Brazil,,182.0,,Left,36,D,['DL'],10300000.0,EUR,2673,Borussia Dortmund,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+799046,Waldemar Anton,1996-07-20,30.0,Germany,,189.0,75.0,Right,3,D,"['DC', 'DR']",19700000.0,EUR,2673,Borussia Dortmund,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1137131,Filippo Mané,2005-03-08,21.0,Italy,,188.0,82.0,Right,39,D,"['DC', 'DR']",2400000.0,EUR,2673,Borussia Dortmund,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1937833,Luca Reggiani,2008-01-09,18.0,Italy,,192.0,,Right,49,D,['DC'],9700000.0,EUR,2673,Borussia Dortmund,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1471049,Joane Gadou,2007-01-17,19.0,France,,195.0,,Right,22,D,['DC'],26000000.0,EUR,2673,Borussia Dortmund,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+556866,Gregor Kobel,1997-12-06,28.0,Switzerland,,193.0,,Right,1,G,['GK'],41000000.0,EUR,2673,Borussia Dortmund,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+138491,Alexander Meyer,1991-04-13,35.0,Germany,,196.0,88.0,Right,33,G,['GK'],475000.0,EUR,2673,Borussia Dortmund,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+132607,Patrick Drewes,1993-02-04,33.0,Germany,,194.0,86.0,Right,30,G,['GK'],315000.0,EUR,2673,Borussia Dortmund,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+108579,Harry Kane,1993-07-28,33.0,England,,188.0,,Right,9,F,['ST'],65000000.0,EUR,2672,FC Bayern München,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+978838,Michael Olise,2001-12-12,24.0,France,,184.0,,Left,17,M,['RW'],173000000.0,EUR,2672,FC Bayern München,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+883537,Luis Díaz,1997-01-13,29.0,Colombia,,178.0,,Right,14,M,['LW'],76000000.0,EUR,2672,FC Bayern München,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1010231,Jamal Musiala,2003-02-26,23.0,Germany,,184.0,,Right,10,M,['AM'],97000000.0,EUR,2672,FC Bayern München,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1063767,Ismael Saibari,2001-01-28,25.0,Morocco,,185.0,,Right,34,M,"['MC', 'AM']",60000000.0,EUR,2672,FC Bayern München,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1861975,Lennart Karl,2008-02-22,18.0,Germany,,168.0,,Left,42,M,['RW'],63000000.0,EUR,2672,FC Bayern München,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+259117,Joshua Kimmich,1995-02-08,31.0,Germany,,176.0,70.0,Right,6,M,"['MC', 'DM']",38000000.0,EUR,2672,FC Bayern München,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+187433,Serge Gnabry,1995-07-14,31.0,Germany,,176.0,,Right,7,M,"['LW', 'AM']",18900000.0,EUR,2672,FC Bayern München,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1142251,Aleksandar Pavlović,2004-05-03,22.0,Germany,,186.0,,Both,45,M,"['MC', 'DM']",96000000.0,EUR,2672,FC Bayern München,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2427970,Bara Sapoko Ndiaye,2007-12-31,18.0,Senegal,,180.0,,Right,39,M,,7400000.0,EUR,2672,FC Bayern München,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1129935,Tom Bischof,2005-06-28,21.0,Germany,,176.0,,Left,8,M,"['MC', 'DM']",44000000.0,EUR,2672,FC Bayern München,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2236502,Maycon Cardozo,2008-10-10,17.0,Brazil,,165.0,,Right,49,M,,2900000.0,EUR,2672,FC Bayern München,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+843665,Alphonso Davies,2000-11-02,25.0,Canada,,185.0,69.0,Left,19,D,['DL'],39000000.0,EUR,2672,FC Bayern München,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+798583,Dayot Upamecano,1998-10-27,27.0,France,,185.0,83.0,Right,2,D,['DC'],69000000.0,EUR,2672,FC Bayern München,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+896569,Kim Min-jae,1996-11-15,29.0,South Korea,,190.0,,Right,3,D,['DC'],21000000.0,EUR,2672,FC Bayern München,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+980418,Sacha Boey,2000-09-13,26.0,France,,178.0,,Right,23,D,['DR'],9200000.0,EUR,2672,FC Bayern München,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+227672,Jonathan Tah,1996-02-11,30.0,Germany,,194.0,95.0,Right,4,D,['DC'],26000000.0,EUR,2672,FC Bayern München,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+927407,Josip Stanišić,2000-04-02,26.0,Croatia,,186.0,,Right,44,D,"['DR', 'DL', 'DC']",39000000.0,EUR,2672,FC Bayern München,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1159759,Nathaniel Brown,2003-06-16,23.0,Germany,,179.0,,Left,11,D,"['DL', 'ML']",46000000.0,EUR,2672,FC Bayern München,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+355492,Konrad Laimer,1997-05-27,29.0,Austria,,180.0,72.0,Right,27,D,['DR'],31000000.0,EUR,2672,FC Bayern München,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+873106,Hiroki Itō,1999-05-12,27.0,Japan,,188.0,81.0,Left,21,D,"['DC', 'DL']",19800000.0,EUR,2672,FC Bayern München,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+8959,Manuel Neuer,1986-03-27,40.0,Germany,,193.0,,Right,1,G,['GK'],4099999.0,EUR,2672,FC Bayern München,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1130647,Jonas Urbig,2003-08-08,23.0,Germany,,189.0,,Both,40,G,['GK'],19600000.0,EUR,2672,FC Bayern München,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+26768,Sven Ulreich,1988-08-03,38.0,Germany,,192.0,84.0,Right,26,G,['GK'],515000.0,EUR,2672,FC Bayern München,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1019321,Igor Matanović,2003-03-31,23.0,Croatia,,197.0,,Right,31,F,['ST'],29000000.0,EUR,2538,SC Freiburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1391315,Keisuke Goto,2005-06-03,21.0,Japan,,191.0,,Right,42,F,['ST'],9300000.0,EUR,2538,SC Freiburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1131002,Derry Scherhant,2002-11-10,23.0,Germany,,184.0,,Right,7,F,['LW'],19400000.0,EUR,2538,SC Freiburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+280009,Lucas Höler,1994-07-10,32.0,Germany,,184.0,,Right,9,F,"['ST', 'AM']",2900000.0,EUR,2538,SC Freiburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1481911,Mateo Zelic,2006-11-11,19.0,Germany,,181.0,,Left,90,F,,160000.0,EUR,5889,SC Freiburg II U23,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1864726,Leon Catak,2005-07-12,21.0,Germany,,180.0,,Right,9,F,,120000.0,EUR,5889,SC Freiburg II U23,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2217898,Bismark Adomah,2007-04-17,19.0,France,,190.0,,Right,,F,,95000.0,EUR,5889,SC Freiburg II U23,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1508537,Cyriaque Irié,2005-06-20,21.0,Burkina Faso,,184.0,,Left,22,M,['RW'],8199999.0,EUR,2538,SC Freiburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1020422,Yuito Suzuki,2001-10-25,24.0,Japan,,175.0,66.0,Right,14,M,['AM'],29000000.0,EUR,2538,SC Freiburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+171961,Vincenzo Grifo,1993-04-07,33.0,Italy,,181.0,72.0,Right,32,M,['LW'],3700000.0,EUR,2538,SC Freiburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+836711,Jan-Niklas Beste,1999-01-04,27.0,Germany,,177.0,,Left,19,M,"['RW', 'LW']",10800000.0,EUR,2538,SC Freiburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+882019,Florent Muslija,1998-07-06,28.0,Kosovo,,172.0,65.0,Right,23,M,"['AM', 'MC', 'ML', 'LW']",1900000.0,EUR,2538,SC Freiburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1030211,Rihito Yamamoto,2001-12-12,24.0,Japan,,179.0,65.0,Left,20,M,"['MC', 'DM']",7400000.0,EUR,2538,SC Freiburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+990209,Yannick Engelhardt,2001-02-07,25.0,Germany,,184.0,,Right,16,M,"['MC', 'DM']",11100000.0,EUR,2538,SC Freiburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+569784,Maximilian Eggestein,1996-12-08,29.0,Germany,,181.0,75.0,Right,8,M,"['MC', 'DM']",10500000.0,EUR,2538,SC Freiburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+914755,Patrick Osterhage,2000-02-01,26.0,Germany,,183.0,,Left,6,M,"['MC', 'DM']",11600000.0,EUR,2538,SC Freiburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2217897,Rouven Tarnutzer,2007-07-24,19.0,Switzerland,,181.0,,Right,39,M,,470000.0,EUR,2538,SC Freiburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1131339,Jordy Makengo,2001-08-02,25.0,DR Congo,,191.0,,Left,33,D,['DL'],9700000.0,EUR,2538,SC Freiburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+142259,Matthias Ginter,1994-01-19,32.0,Germany,,189.0,89.0,Right,28,D,['DC'],4800000.0,EUR,2538,SC Freiburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+979820,Philipp Treu,2000-12-03,25.0,Germany,,172.0,,Right,29,D,"['ML', 'DR']",19100000.0,EUR,2538,SC Freiburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+576266,Philipp Lienhart,1996-07-11,30.0,Austria,,189.0,81.0,Right,3,D,['DC'],9600000.0,EUR,2538,SC Freiburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1195724,Berkay Yılmaz,2005-02-25,21.0,Türkiye,,182.0,,Left,27,D,['DL'],6300000.0,EUR,2538,SC Freiburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1131337,Maximilian Rosenfelder,2003-02-10,23.0,Germany,,186.0,,Right,37,D,['DC'],6300000.0,EUR,2538,SC Freiburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1596573,Bruno Ogbus,2005-12-17,20.0,Switzerland,,188.0,,Right,43,D,['DC'],14000000.0,EUR,2538,SC Freiburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+142231,Christian Günter,1993-02-28,33.0,Germany,,184.0,,Left,30,D,['DL'],1900000.0,EUR,2538,SC Freiburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+142525,Lukas Kübler,1992-08-30,34.0,Germany,,183.0,73.0,Right,17,D,['DR'],1500000.0,EUR,2538,SC Freiburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+103442,Anthony Jung,1991-11-03,34.0,Germany,,186.0,83.0,Left,5,D,"['DC', 'ML', 'DR', 'DL']",580000.0,EUR,2538,SC Freiburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1083390,Mio Backhaus,2004-04-16,22.0,Germany,,194.0,,Right,1,G,['GK'],14400000.0,EUR,2538,SC Freiburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+842858,Florian Müller,1997-11-13,28.0,Germany,,190.0,85.0,Left,21,G,['GK'],1200000.0,EUR,2538,SC Freiburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+174341,Jannik Huth,1994-04-15,32.0,Germany,,185.0,80.0,Right,24,G,['GK'],435000.0,EUR,2538,SC Freiburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1926087,Théodore Pizarro,2008-06-13,18.0,Switzerland,,190.0,,Right,,G,['GK'],,,5889,SC Freiburg II U23,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+345035,Steve Mounié,1994-09-29,32.0,Benin,,190.0,83.0,Right,15,F,['ST'],1500000.0,EUR,2600,FC Augsburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+111483,Michael Gregoritsch,1994-04-18,32.0,Austria,,193.0,87.0,Left,11,F,['ST'],1600000.0,EUR,2600,FC Augsburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1215904,Rodrigo Ribeiro,2005-04-28,21.0,Portugal,,185.0,,Right,9,F,['ST'],3900000.0,EUR,2600,FC Augsburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+822877,Alexis Claude-Maurice,1998-06-06,28.0,France,,174.0,,Right,20,F,['AM'],16200000.0,EUR,2600,FC Augsburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1996846,Uchenna Ogundu,2006-05-12,20.0,Nigeria,,188.0,,Right,39,F,['ST'],4200000.0,EUR,2600,FC Augsburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2303925,Amar Selimovic,2009-01-08,17.0,Austria,,,,Right,34,F,,,,43724,FC Augsburg U19,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1142248,Arijon Ibrahimović,2005-12-11,20.0,Germany,,176.0,,Right,21,M,['LW'],10500000.0,EUR,2600,FC Augsburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+929620,Fabian Rieder,2002-02-16,24.0,Switzerland,,181.0,,Left,32,M,"['AM', 'MC']",13800000.0,EUR,2600,FC Augsburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1390682,Mert Kömür,2005-07-17,21.0,Germany,,183.0,,Both,10,M,['AM'],11600000.0,EUR,2600,FC Augsburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+927340,Han-Noah Massengo,2001-07-06,25.0,Congo Republic,,175.0,,Right,4,M,"['MC', 'DM']",8199999.0,EUR,2600,FC Augsburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1129365,Anton Kade,2004-01-17,22.0,Germany,,179.0,,Right,30,M,"['RW', 'LW']",10300000.0,EUR,2600,FC Augsburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+254119,Marius Wolf,1995-05-27,31.0,Germany,,187.0,73.0,Right,27,M,"['MR', 'DR']",2300000.0,EUR,2600,FC Augsburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+877842,Yannik Keitel,2000-02-15,26.0,Germany,,186.0,,Both,14,M,"['MC', 'DM']",1900000.0,EUR,2600,FC Augsburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1901001,Faik Sakar,2008-01-14,18.0,Germany,,174.0,,Right,23,M,,205000.0,EUR,2600,FC Augsburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+860461,Robin Fellhauer,1998-01-21,28.0,Germany,,185.0,,Right,19,M,"['MC', 'DM']",3700000.0,EUR,2600,FC Augsburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1049177,Tim Breithaupt,2002-02-07,24.0,Germany,,192.0,,Right,18,M,"['MC', 'DM']",740000.0,EUR,2600,FC Augsburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1540234,Sima Suso,2005-05-28,21.0,Germany,,189.0,,Left,8,M,['DM'],2700000.0,EUR,2600,FC Augsburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1861987,Tim Schnitzer,2008-02-07,18.0,Germany,,185.0,,,37,M,,525000.0,EUR,2600,FC Augsburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1606792,Abdulai Juma Bah,2006-04-11,20.0,Sierra Leone,,195.0,,Right,35,D,['DC'],10400000.0,EUR,2600,FC Augsburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1019333,Young-woo Seol,1998-12-05,27.0,South Korea,,181.0,72.0,Right,7,D,['DR'],6700000.0,EUR,2600,FC Augsburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1597260,Noahkai Banks,2006-12-01,19.0,Germany,,193.0,,Right,40,D,"['DC', 'DR']",19400000.0,EUR,2600,FC Augsburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+963198,Chrislain Matsima,2002-05-15,24.0,France,,192.0,,Right,5,D,"['DC', 'DR']",21000000.0,EUR,2600,FC Augsburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1864760,Hennes Behrens,2005-01-19,21.0,Germany,,174.0,,Right,16,D,['DL'],5200000.0,EUR,2600,FC Augsburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+146853,Jeffrey Gouweleeuw,1991-07-10,35.0,Netherlands,,187.0,78.0,Right,6,D,['DC'],1000000.0,EUR,2600,FC Augsburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1128792,Calvin Brackelmann,1999-08-22,27.0,Germany,,196.0,,Left,2,D,"['DC', 'DL']",3200000.0,EUR,2600,FC Augsburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2303928,Milo Adleff,2008-10-05,18.0,Germany,,,,,44,D,,,,43724,FC Augsburg U19,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2631849,Ben Exner,2010-06-30,16.0,Germany,,,,Right,,D,,,,43724,FC Augsburg U19,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+947986,Nediljko Labrović,1999-10-10,26.0,Croatia,,196.0,88.0,Right,22,G,['GK'],2100000.0,EUR,2600,FC Augsburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+822564,Finn Dahmen,1998-03-27,28.0,Germany,,188.0,,Right,1,G,['GK'],12500000.0,EUR,2600,FC Augsburg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1893891,Tobias Jager,2005-02-01,21.0,Germany,,194.0,,,45,G,,120000.0,EUR,70944,FC Augsburg II,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1407524,Ibrahim Maza,2005-11-24,20.0,Algeria,,181.0,,Right,30,F,"['AM', 'MC']",41000000.0,EUR,2681,Bayer 04 Leverkusen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+978521,Victor Okoh Boniface,2000-12-23,25.0,Nigeria,,193.0,,Right,22,F,['ST'],5500000.0,EUR,2681,Bayer 04 Leverkusen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1394353,Eliesse Ben Seghir,2005-02-16,21.0,Morocco,,178.0,,Right,29,F,"['AM', 'LW']",21000000.0,EUR,2681,Bayer 04 Leverkusen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+280609,Patrik Schick,1996-01-24,30.0,Czechia,,191.0,73.0,Left,14,F,['ST'],16600000.0,EUR,2681,Bayer 04 Leverkusen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2029648,Christian Kofane,2006-07-26,20.0,Cameroon,,189.0,,Right,35,F,['ST'],41000000.0,EUR,2681,Bayer 04 Leverkusen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1215906,Afonso Moreira,2005-03-19,21.0,Portugal,,175.0,,Right,9,F,['LW'],18400000.0,EUR,2681,Bayer 04 Leverkusen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+920379,Nathan Tella,1999-07-05,27.0,Nigeria,,173.0,,Right,23,F,"['AM', 'RW']",15800000.0,EUR,2681,Bayer 04 Leverkusen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+846445,Martin Terrier,1997-03-04,29.0,France,,184.0,71.0,Right,11,F,"['LW', 'AM', 'ST']",7400000.0,EUR,2681,Bayer 04 Leverkusen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+142390,Jonas Hofmann,1992-07-14,34.0,Germany,,176.0,70.0,Right,7,F,"['AM', 'RW']",1600000.0,EUR,2681,Bayer 04 Leverkusen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2111739,Ndjicoura Bomba,2008-03-12,18.0,Mali,,188.0,,,9,F,['ST'],1600000.0,EUR,2681,Bayer 04 Leverkusen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+255239,Lucas Vázquez,1991-07-01,35.0,Spain,,173.0,70.0,Right,17,M,['DR'],1600000.0,EUR,2681,Bayer 04 Leverkusen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+975798,Malik Tillman,2002-05-28,24.0,USA,,186.0,,Right,10,M,"['AM', 'MC', 'LW']",27000000.0,EUR,2681,Bayer 04 Leverkusen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+855817,Moussa Diaby,1999-07-07,27.0,France,,170.0,,Left,19,M,['RW'],26000000.0,EUR,2681,Bayer 04 Leverkusen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1003012,Ezequiel Fernández,2002-07-25,24.0,Argentina,,178.0,,Left,6,M,"['MC', 'DM']",21000000.0,EUR,2681,Bayer 04 Leverkusen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+796047,Aleix García,1997-06-28,29.0,Spain,,173.0,61.0,Right,24,M,"['MC', 'DM']",21000000.0,EUR,2681,Bayer 04 Leverkusen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1961762,Kennet Eichhorn,2009-07-27,17.0,Germany,,186.0,,Right,18,M,['DM'],21000000.0,EUR,2681,Bayer 04 Leverkusen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1568522,Montrell Culbreath,2007-08-29,19.0,Germany,,172.0,,Right,42,M,['RW'],15600000.0,EUR,2681,Bayer 04 Leverkusen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1489216,Naba Mensah,2007-05-08,19.0,Germany,,,,Both,45,M,['MC'],,,2681,Bayer 04 Leverkusen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+883262,Edmond Tapsoba,1999-02-02,27.0,Burkina Faso,,193.0,,Right,12,D,"['DC', 'DL']",37000000.0,EUR,2681,Bayer 04 Leverkusen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1002033,Guéla Doué,2002-10-17,23.0,Côte d'Ivoire,,187.0,,Right,20,D,"['DR', 'DC']",21000000.0,EUR,2681,Bayer 04 Leverkusen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1003339,Jarell Quansah,2003-01-29,23.0,England,,190.0,,Right,4,D,"['DC', 'DR']",53000000.0,EUR,2681,Bayer 04 Leverkusen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+860307,Facundo Medina,1999-05-28,27.0,Argentina,,184.0,76.0,Left,2,D,"['DC', 'DL']",19900000.0,EUR,2681,Bayer 04 Leverkusen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+908716,Miguel Gutiérrez,2001-07-27,25.0,Spain,,180.0,,Left,3,D,"['DL', 'ML']",24000000.0,EUR,2681,Bayer 04 Leverkusen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+168903,Robert Andrich,1994-09-22,32.0,Germany,,189.0,78.0,Right,8,D,"['MC', 'DM', 'DC']",6200000.0,EUR,2681,Bayer 04 Leverkusen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1006489,Loïc Badé,2000-04-11,26.0,France,,191.0,,Right,5,D,['DC'],19400000.0,EUR,2681,Bayer 04 Leverkusen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1138778,Tim Oermann,2003-10-06,23.0,Germany,,187.0,76.0,Right,15,D,"['DC', 'DR']",4099999.0,EUR,2681,Bayer 04 Leverkusen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+171919,Mark Flekken,1993-06-13,33.0,Netherlands,,194.0,74.0,Both,1,G,['GK'],6400000.0,EUR,2681,Bayer 04 Leverkusen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+96832,Janis Blaswich,1991-05-02,35.0,Germany,,193.0,86.0,Right,28,G,['GK'],650000.0,EUR,2681,Bayer 04 Leverkusen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+142471,Niklas Lomb,1993-07-28,33.0,Germany,,188.0,84.0,Right,36,G,['GK'],240000.0,EUR,2681,Bayer 04 Leverkusen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1012235,Ransford Yeboah Königsdörffer,2001-09-13,25.0,Ghana,,182.0,,Right,11,F,['ST'],4700000.0,EUR,2556,1. FSV Mainz 05,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+352544,Sheraldo Becker,1995-02-09,31.0,Suriname,,180.0,75.0,Right,23,F,['ST'],1500000.0,EUR,2556,1. FSV Mainz 05,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+822340,Phillip Tietz,1997-07-09,29.0,Germany,,190.0,81.0,Right,9,F,['ST'],3800000.0,EUR,2556,1. FSV Mainz 05,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+975800,Benedict Hollerbach,2001-05-17,25.0,Germany,,181.0,,Right,17,F,"['ST', 'AM']",7500000.0,EUR,2556,1. FSV Mainz 05,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2112003,Alynho Haidara,2008-07-26,18.0,Côte d'Ivoire,,190.0,,Right,39,F,['ST'],,,2556,1. FSV Mainz 05,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1028307,Kaishu Sano,2000-12-30,25.0,Japan,,176.0,,Right,6,M,"['DM', 'MC']",42000000.0,EUR,2556,1. FSV Mainz 05,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+949062,Silas,1998-10-06,28.0,DR Congo,,189.0,,Right,26,M,"['RW', 'MR']",2100000.0,EUR,2556,1. FSV Mainz 05,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+537552,Jae-sung Lee,1992-08-10,34.0,South Korea,,180.0,70.0,Left,7,M,"['AM', 'MC']",2100000.0,EUR,2556,1. FSV Mainz 05,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+327755,Nadiem Amiri,1996-10-27,29.0,Germany,,180.0,73.0,Right,10,M,"['MC', 'DM']",15500000.0,EUR,2556,1. FSV Mainz 05,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+980621,Paul Nebel,2002-10-10,23.0,Germany,,169.0,,Both,8,M,"['AM', 'MC']",17200000.0,EUR,2556,1. FSV Mainz 05,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+988639,Eric Martel,2002-04-29,24.0,Germany,,186.0,,Right,5,M,"['MC', 'DM', 'DC']",8199999.0,EUR,2556,1. FSV Mainz 05,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+157377,Silvan Widmer,1993-03-05,33.0,Switzerland,,182.0,79.0,Right,30,M,"['MR', 'DR']",730000.0,EUR,2556,1. FSV Mainz 05,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+138126,Phillipp Mwene,1994-01-29,32.0,Austria,,170.0,66.0,Right,2,M,['ML'],1600000.0,EUR,2556,1. FSV Mainz 05,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1028306,Sota Kawasaki,2001-07-30,25.0,Japan,,171.0,,Right,24,M,['MC'],1800000.0,EUR,2556,1. FSV Mainz 05,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1175898,Otto Ruoppi,2006-01-31,20.0,Finland,,180.0,,Right,20,M,['AM'],1000000.0,EUR,2556,1. FSV Mainz 05,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+846471,Anthony Caci,1997-07-01,29.0,France,,184.0,70.0,Right,19,M,"['MR', 'ML']",6800000.0,EUR,2556,1. FSV Mainz 05,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+893962,Lennard Maloney,1999-10-08,26.0,USA,,187.0,,Right,15,M,"['DM', 'MC', 'DC']",2600000.0,EUR,2556,1. FSV Mainz 05,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2192458,Jeremiah Debrah,2009-01-06,17.0,Germany,,,,Right,38,M,,,,43722,1. FSV Mainz 05 U19,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1548910,Kacper Potulski,2007-10-19,18.0,Poland,,195.0,,Right,48,D,['DC'],16600000.0,EUR,2556,1. FSV Mainz 05,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1130119,Fabio Gruber,2002-09-03,24.0,Peru,,188.0,,Right,3,D,['DC'],2900000.0,EUR,2556,1. FSV Mainz 05,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+355486,Stefan Posch,1997-05-14,29.0,Austria,,188.0,76.0,Right,4,D,"['DR', 'DC']",6200000.0,EUR,2556,1. FSV Mainz 05,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+152206,Dominik Kohr,1994-01-31,32.0,Germany,,183.0,79.0,Right,31,D,"['DC', 'DR', 'DL']",1900000.0,EUR,2556,1. FSV Mainz 05,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+97926,Danny da Costa,1993-07-13,33.0,Germany,,186.0,85.0,Right,21,D,"['DC', 'DR', 'MR']",1100000.0,EUR,2556,1. FSV Mainz 05,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+106662,Stefan Bell,1991-08-24,35.0,Germany,,192.0,86.0,Right,16,D,"['DC', 'DR']",620000.0,EUR,2556,1. FSV Mainz 05,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2650701,Rael Nakuzola,2007-04-28,19.0,Germany,,191.0,,Left,47,D,,,,2556,1. FSV Mainz 05,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1995791,Domenic Köppel,2008-05-13,18.0,Germany,,,,Right,,D,,,,43722,1. FSV Mainz 05 U19,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+174345,Robin Zentner,1994-10-28,31.0,Germany,,193.0,96.0,Right,27,G,['GK'],2400000.0,EUR,2556,1. FSV Mainz 05,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+134778,Alexander Schwolow,1992-06-02,34.0,Germany,,189.0,83.0,Both,1,G,['GK'],465000.0,EUR,2556,1. FSV Mainz 05,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1131885,Maximilian Kinzig,2003-12-04,22.0,Germany,,188.0,,Right,40,G,,155000.0,EUR,2556,1. FSV Mainz 05,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2802430,Daris Agovic,,,,,,,,,,,,,2556,1. FSV Mainz 05,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2802431,David Mensah Osei,,,,,,,,,,,,,2556,1. FSV Mainz 05,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2802432,Fynn Hillbrunner,,,,,,,,,,,,,2556,1. FSV Mainz 05,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1134578,Cole Campbell,2006-02-20,20.0,USA,,170.0,,Left,39,F,['RW'],5700000.0,EUR,2598,SV 07 Elversberg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1017574,Noel Futkeu,2002-12-06,23.0,Germany,,183.0,,Right,9,F,['ST'],7300000.0,EUR,2598,SV 07 Elversberg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1432398,David Mokwa,2004-05-03,22.0,France,,181.0,,Left,42,F,['ST'],3800000.0,EUR,2598,SV 07 Elversberg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+842212,Luca Pfeiffer,1996-08-20,30.0,Germany,,196.0,,Right,16,F,['ST'],480000.0,EUR,2598,SV 07 Elversberg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+254133,Luca Schnellbacher,1994-05-06,32.0,Germany,,183.0,70.0,Right,24,F,['ST'],480000.0,EUR,2598,SV 07 Elversberg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2069061,Raif Adam,2005-09-07,21.0,Germany,,188.0,,Left,15,F,,480000.0,EUR,2598,SV 07 Elversberg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1469995,Noah Darvich,2006-09-25,20.0,Germany,,184.0,,Left,10,M,"['AM', 'RW']",3800000.0,EUR,2598,SV 07 Elversberg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1414916,Francis Onyeka,2007-04-29,19.0,Germany,,186.0,,Left,40,M,['AM'],10600000.0,EUR,2598,SV 07 Elversberg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1153365,Maurice Krattenmacher,2005-08-11,21.0,Germany,,180.0,,Both,7,M,['AM'],3200000.0,EUR,2598,SV 07 Elversberg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+960017,Lukas Petkov,2000-11-01,25.0,Bulgaria,,183.0,,Both,25,M,['RW'],4700000.0,EUR,2598,SV 07 Elversberg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+942336,Łukasz Poręba,2000-03-13,26.0,Poland,,179.0,,Right,8,M,"['MC', 'DM']",2600000.0,EUR,2598,SV 07 Elversberg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+817978,Amara Condé,1997-01-06,29.0,Germany,,173.0,,Right,6,M,"['MC', 'DM']",830000.0,EUR,2598,SV 07 Elversberg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+887457,Tom Zimmerschied,1998-09-22,28.0,Germany,,180.0,,Right,29,M,['LW'],1600000.0,EUR,2598,SV 07 Elversberg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1131347,Frederik Schmahl,2002-12-21,23.0,Germany,,183.0,,Right,17,M,['MC'],820000.0,EUR,2598,SV 07 Elversberg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+900264,Nicholas Mickelson,1999-07-24,27.0,Thailand,,179.0,80.0,Right,2,D,"['DR', 'DL']",970000.0,EUR,2598,SV 07 Elversberg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+254411,Jan Gyamerah,1995-06-18,31.0,Ghana,,184.0,76.0,Right,30,D,['DR'],760000.0,EUR,2598,SV 07 Elversberg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1215028,Felix Keidel,2003-06-14,23.0,Germany,,178.0,,Right,43,D,"['MC', 'DL']",4900000.0,EUR,2598,SV 07 Elversberg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+846398,Maximilian Rohr,1995-06-27,31.0,Germany,,195.0,,Both,31,D,['DC'],765000.0,EUR,2598,SV 07 Elversberg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+964603,Luca Sirch,1999-06-14,27.0,Germany,,185.0,,Both,26,D,"['DC', 'DR']",2300000.0,EUR,2598,SV 07 Elversberg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+997175,Lasse Günther,2003-03-21,23.0,Germany,,183.0,,Left,21,D,['DL'],2300000.0,EUR,2598,SV 07 Elversberg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+990105,Lukas Finn Pinckert,2000-01-22,26.0,Germany,,189.0,,Right,19,D,['DC'],2300000.0,EUR,2598,SV 07 Elversberg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+787816,Florian Yves Le Joncour,1995-02-03,31.0,France,,192.0,82.0,Left,3,D,['DC'],480000.0,EUR,2598,SV 07 Elversberg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1393424,Luis Seifert,2004-01-26,22.0,Germany,,185.0,,Right,4,D,,205000.0,EUR,2598,SV 07 Elversberg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1131080,Nicolas Kristof,1999-12-20,26.0,Austria,,186.0,,Both,20,G,['GK'],2300000.0,EUR,2598,SV 07 Elversberg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+142470,Tim Boss,1993-06-28,33.0,Germany,,185.0,,Both,28,G,['GK'],215000.0,EUR,2598,SV 07 Elversberg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2478053,Elias Etringer,2007-11-24,18.0,Germany,,191.0,,Right,12,G,,,,2598,SV 07 Elversberg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+26767,Frank Lehmann,1989-04-29,37.0,Germany,,192.0,73.0,Right,1,G,['GK'],97000.0,EUR,2598,SV 07 Elversberg,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+132645,Niclas Füllkrug,1993-02-09,33.0,Germany,,188.0,78.0,Right,10,F,['ST'],3700000.0,EUR,2534,SV Werder Bremen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2198657,Kenny Quetant,2006-07-17,20.0,Haiti,,187.0,,Right,19,F,['ST'],3100000.0,EUR,2534,SV Werder Bremen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+352290,Cédric Itten,1996-12-27,29.0,Switzerland,,189.0,81.0,Right,26,F,['ST'],1600000.0,EUR,2534,SV Werder Bremen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1067120,Eren Dinkçi,2001-12-13,24.0,Türkiye,,188.0,,Right,18,F,['RW'],5400000.0,EUR,2534,SV Werder Bremen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1166832,Keke Topp,2004-03-25,22.0,Germany,,192.0,,Right,9,F,['ST'],3100000.0,EUR,2534,SV Werder Bremen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+815612,Marco Grüll,1998-07-06,28.0,Austria,,182.0,,Both,17,F,"['LW', 'ST']",5400000.0,EUR,2534,SV Werder Bremen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1005343,Justin Njinmah,2000-11-15,25.0,Germany,,185.0,,Right,11,F,"['ST', 'RW']",5300000.0,EUR,2534,SV Werder Bremen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1864786,Salim Musah,2006-02-22,20.0,Germany,,198.0,75.0,Right,29,F,['ST'],2100000.0,EUR,2534,SV Werder Bremen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2639511,Karlo Šimić,2007-06-10,19.0,Croatia,,180.0,,Left,10,F,['ST'],,,2577,SV Werder Bremen II U23,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2160258,Paul Erevbenagie,2007-08-19,19.0,Germany,,182.0,,Both,38,F,,1500000.0,EUR,2534,SV Werder Bremen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1534055,Jakob Wiehe,2007-03-12,19.0,Germany,,187.0,,Both,,F,,,,2577,SV Werder Bremen II U23,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1174761,Arthur,2003-03-17,23.0,Brazil,,173.0,,Right,13,M,"['DR', 'MR']",7400000.0,EUR,2534,SV Werder Bremen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+138150,Mitchell Weiser,1994-04-21,32.0,Germany,,176.0,67.0,Right,8,M,['MR'],2700000.0,EUR,2534,SV Werder Bremen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1141977,Dariusz Stalmach,2005-12-08,20.0,Poland,,182.0,,Both,23,M,"['MC', 'DM']",1600000.0,EUR,2534,SV Werder Bremen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+893586,Ludovit Reis,2000-06-01,26.0,Netherlands,,178.0,,Right,15,M,['MC'],3100000.0,EUR,2534,SV Werder Bremen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+996940,Youri Regeer,2003-08-18,23.0,Netherlands,,177.0,,Right,44,M,"['MC', 'DM']",4700000.0,EUR,2534,SV Werder Bremen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+830142,Jens Stage,1996-11-08,29.0,Denmark,,187.0,81.0,Right,6,M,"['MC', 'DM']",14400000.0,EUR,2534,SV Werder Bremen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1137584,Chuki,2004-04-29,22.0,Spain,,176.0,,Left,20,M,['AM'],8700000.0,EUR,2534,SV Werder Bremen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1165722,Skelly Alvero,2002-05-04,24.0,France,,202.0,,Right,28,M,"['MC', 'DM']",1900000.0,EUR,2534,SV Werder Bremen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+826171,Senne Lynen,1999-02-19,27.0,Belgium,,182.0,,Right,14,M,"['DM', 'MC']",7300000.0,EUR,2534,SV Werder Bremen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1823917,Darwin Soylu,2007-03-23,19.0,Türkiye,,176.0,65.0,Left,34,M,,,,2534,SV Werder Bremen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1961612,Arian Romers,2007-02-26,19.0,Morocco,,,,,6,M,,,,2577,SV Werder Bremen II U23,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1584952,Noah Weißbach,2007-02-02,19.0,Slovenia,,180.0,,Right,30,M,['MC'],,,2577,SV Werder Bremen II U23,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+982315,Moussa Ndiaye,2002-06-18,24.0,Senegal,,181.0,,Left,16,D,['DL'],3900000.0,EUR,2534,SV Werder Bremen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+825771,Marco Friedl,1998-03-16,28.0,Austria,,187.0,71.0,Left,32,D,['DC'],10600000.0,EUR,2534,SV Werder Bremen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1173623,Oskar Wójcik,2003-07-21,23.0,Poland,,191.0,,Right,3,D,['DC'],5400000.0,EUR,2534,SV Werder Bremen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+933398,Felix Agu,1999-09-27,27.0,Nigeria,,180.0,,Right,27,D,['ML'],4700000.0,EUR,2534,SV Werder Bremen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+960114,Olivier Deman,2000-04-06,26.0,Belgium,,181.0,,Left,2,D,"['ML', 'DL']",3400000.0,EUR,2534,SV Werder Bremen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+851254,Amos Pieper,1998-01-17,28.0,Germany,,191.0,84.0,Right,5,D,"['DC', 'DR']",3900000.0,EUR,2534,SV Werder Bremen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+229544,Niklas Stark,1995-04-14,31.0,Germany,,190.0,81.0,Right,4,D,"['DC', 'DR']",2300000.0,EUR,2534,SV Werder Bremen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1568521,Mick Schmetgens,2007-09-09,19.0,Germany,,190.0,,Right,33,D,['DC'],3300000.0,EUR,2534,SV Werder Bremen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1830894,Mats Heitmann,2006-02-11,20.0,Germany,,195.0,,,46,D,,115000.0,EUR,2534,SV Werder Bremen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2160257,Luca Hocker,2007-06-01,19.0,Germany,,180.0,,Right,35,D,,135000.0,EUR,2534,SV Werder Bremen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1864919,Paul Bellmann,2005-03-04,21.0,Germany,,,,,0,D,,97000.0,EUR,2577,SV Werder Bremen II U23,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+991591,Karl Hein,2002-04-13,24.0,Estonia,,193.0,,Right,1,G,['GK'],3900000.0,EUR,2534,SV Werder Bremen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+282073,Alexander Schlager,1996-02-01,30.0,Austria,,184.0,78.0,Right,30,G,['GK'],1400000.0,EUR,2534,SV Werder Bremen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1466561,Stefan Smarkalev,2007-05-14,19.0,Bulgaria,,188.0,,Right,37,G,,145000.0,EUR,2534,SV Werder Bremen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+94411,Markus Kolke,1990-08-18,36.0,Germany,,187.0,85.0,Right,25,G,['GK'],330000.0,EUR,2534,SV Werder Bremen,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+769333,Christopher Nkunku,1997-11-14,28.0,France,,175.0,46.0,Right,28,F,"['ST', 'AM']",26000000.0,EUR,36360,RB Leipzig,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1121923,Antonio Nusa,2005-04-17,21.0,Norway,,180.0,,Right,7,F,"['LW', 'ML']",43000000.0,EUR,36360,RB Leipzig,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1414933,Marc Guiu,2006-01-04,20.0,Spain,,187.0,,Right,9,F,['ST'],11200000.0,EUR,36360,RB Leipzig,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1088896,Johan Bakayoko,2003-04-20,23.0,Belgium,,179.0,,Left,11,F,['RW'],18600000.0,EUR,36360,RB Leipzig,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1133743,Rômulo,2002-02-08,24.0,Brazil,,193.0,,Right,40,F,['ST'],32000000.0,EUR,36360,RB Leipzig,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1426577,Tidiam Gomis,2006-08-08,20.0,France,,183.0,,Right,27,F,['LW'],5300000.0,EUR,36360,RB Leipzig,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2269705,Samba Konaté,2009-02-27,17.0,France,,190.0,,Right,45,F,['ST'],970000.0,EUR,36360,RB Leipzig,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1128530,Neil El Aynaoui,2001-07-02,25.0,Morocco,,186.0,,Right,21,M,"['MC', 'DM']",29000000.0,EUR,36360,RB Leipzig,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1418623,Assan Ouédraogo,2006-05-09,20.0,Germany,,192.0,,Right,8,M,['MC'],26000000.0,EUR,36360,RB Leipzig,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1406171,Andrija Maksimović,2007-06-05,19.0,Serbia,,182.0,,Both,30,M,"['MC', 'RW']",8600000.0,EUR,36360,RB Leipzig,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1198075,Brajan Gruda,2004-05-31,22.0,Germany,,178.0,,Left,10,M,"['RW', 'AM']",29000000.0,EUR,36360,RB Leipzig,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+825956,Christoph Baumgartner,1999-08-01,27.0,Austria,,180.0,68.0,Right,14,M,"['MC', 'AM']",42000000.0,EUR,36360,RB Leipzig,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1155383,Ezechiel Banzuzi,2005-02-16,21.0,DR Congo,,191.0,,Right,6,M,"['MC', 'DM']",23000000.0,EUR,36360,RB Leipzig,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+976575,Nicolas Seiwald,2001-05-04,25.0,Austria,,179.0,,Right,13,M,"['MC', 'DM']",24000000.0,EUR,36360,RB Leipzig,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1048650,Rocco Reitz,2002-05-29,24.0,Germany,,175.0,,Both,20,M,"['MC', 'DM']",22000000.0,EUR,36360,RB Leipzig,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1900995,Viggo Gebel,2007-11-22,18.0,Germany,,175.0,,Right,47,M,['MC'],340000.0,EUR,36360,RB Leipzig,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1925472,Benno Kaltefleiter,2008-02-14,18.0,Germany,,189.0,,Right,37,M,,,,36360,RB Leipzig,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+976421,Castello Lukeba,2002-12-17,23.0,France,,184.0,,Left,23,D,['DC'],49000000.0,EUR,36360,RB Leipzig,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+856076,David Raum,1998-04-22,28.0,Germany,,180.0,75.0,Left,22,D,['DL'],27000000.0,EUR,36360,RB Leipzig,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+136924,Willi Orbán,1992-11-03,33.0,Hungary,,186.0,82.0,Right,4,D,['DC'],5500000.0,EUR,36360,RB Leipzig,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+856553,Ridle Baku,1998-04-08,28.0,Germany,,176.0,,Right,17,D,"['DR', 'MR']",12800000.0,EUR,36360,RB Leipzig,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1117223,Maxime Estève,2002-05-26,24.0,France,,192.0,,Left,3,D,['DC'],26000000.0,EUR,36360,RB Leipzig,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+319857,Benjamin Henrichs,1997-02-23,29.0,Germany,,182.0,77.0,Both,39,D,['DR'],7600000.0,EUR,36360,RB Leipzig,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+319853,Lukas Klostermann,1996-06-03,30.0,Germany,,188.0,83.0,Right,16,D,"['DC', 'DR']",3400000.0,EUR,36360,RB Leipzig,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1859949,Abdoul Kone,2005-04-22,21.0,France,,191.0,85.0,Right,2,D,['DC'],13800000.0,EUR,36360,RB Leipzig,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1146250,Max Finkgräfe,2004-03-27,22.0,Germany,,183.0,,Left,35,D,['DL'],5400000.0,EUR,36360,RB Leipzig,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+22209,Ørjan Nyland,1990-09-10,36.0,Norway,,192.0,78.0,Right,1,G,['GK'],825000.0,EUR,36360,RB Leipzig,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+934385,Maarten Vandevoordt,2002-02-26,24.0,Belgium,,192.0,,Right,26,G,['GK'],16399999.0,EUR,36360,RB Leipzig,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+148263,Leopold Zingerle,1994-04-10,32.0,Germany,,182.0,78.0,Right,25,G,['GK'],280000.0,EUR,36360,RB Leipzig,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1898148,Ayoube Amaimouni Echghouyab,2004-11-30,21.0,Morocco,,178.0,,Left,29,F,['RW'],10900000.0,EUR,2674,Eintracht Frankfurt,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1474296,Younes Ebnoutalib,2003-09-13,23.0,Germany,,191.0,,Right,11,F,['ST'],8800000.0,EUR,2674,Eintracht Frankfurt,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+939830,Jonathan Burkardt,2000-07-11,26.0,Germany,,181.0,,Right,9,F,['ST'],29000000.0,EUR,2674,Eintracht Frankfurt,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+997012,Ansgar Knauff,2002-01-10,24.0,Germany,,180.0,,Right,7,F,"['AM', 'MR']",15500000.0,EUR,2674,Eintracht Frankfurt,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1957761,Malik Pimpong,2008-01-01,18.0,Denmark,,190.0,,Right,35,F,['ST'],4300000.0,EUR,2674,Eintracht Frankfurt,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+906276,Jessic Ngankam,2000-07-20,26.0,Germany,,180.0,,Right,32,F,['ST'],720000.0,EUR,2674,Eintracht Frankfurt,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1403065,Paul Wünsch,2005-07-05,21.0,Germany,,182.0,,Left,13,F,,105000.0,EUR,2545,Eintracht Frankfurt II,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2192141,Cherif Cisse,2006-11-19,19.0,Germany,,,,,11,F,,,,2545,Eintracht Frankfurt II,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1192318,Farès Chaïbi,2002-11-28,23.0,Algeria,,183.0,,Right,8,M,"['MC', 'AM']",14500000.0,EUR,2674,Eintracht Frankfurt,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1440948,Can Uzun,2005-11-11,20.0,Türkiye,,186.0,,Right,42,M,['AM'],44000000.0,EUR,2674,Eintracht Frankfurt,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+790965,Ritsu Doan,1998-06-16,28.0,Japan,,172.0,70.0,Left,20,M,"['RW', 'MR']",15600000.0,EUR,2674,Eintracht Frankfurt,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1129862,Raphael Onyedika,2001-04-19,25.0,Nigeria,,184.0,,Right,25,M,"['MC', 'DM']",24000000.0,EUR,2674,Eintracht Frankfurt,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+66518,Mario Götze,1992-06-03,34.0,Germany,,176.0,75.0,Right,27,M,"['AM', 'MC']",3100000.0,EUR,2674,Eintracht Frankfurt,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1410926,Noël Aséko,2005-11-22,20.0,Germany,,178.0,,Right,15,M,"['MC', 'DM']",12400000.0,EUR,2674,Eintracht Frankfurt,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1149113,Oscar Højlund,2005-01-04,21.0,Denmark,,184.0,,Right,6,M,"['MC', 'DM']",14600000.0,EUR,2674,Eintracht Frankfurt,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1977245,Love Arrhov,2008-05-17,18.0,Sweden,,178.0,,Right,31,M,['AM'],5200000.0,EUR,2674,Eintracht Frankfurt,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+40239,Timothy Chandler,1990-03-29,36.0,USA,,186.0,84.0,Right,22,M,['MR'],375000.0,EUR,2674,Eintracht Frankfurt,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1842919,Lawrence Setordjie,2008-07-15,18.0,Ghana,,166.0,,Right,48,M,['AM'],110000.0,EUR,2545,Eintracht Frankfurt II,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1861965,Christian Prenaj,2008-01-16,18.0,Germany,,176.0,,Both,17,M,,,,2545,Eintracht Frankfurt II,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2184173,Collin Owusu Etse,2005-07-13,21.0,Germany,,195.0,,Right,22,M,,,,2545,Eintracht Frankfurt II,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+581302,Robin Koch,1996-07-17,30.0,Germany,,190.0,82.0,Right,4,D,['DC'],10800000.0,EUR,2674,Eintracht Frankfurt,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1501641,Keita Kosugi,2006-03-18,20.0,Japan,,172.0,,Left,26,D,['DL'],6800000.0,EUR,2674,Eintracht Frankfurt,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1403018,Elias Baum,2005-10-26,20.0,Germany,,180.0,,Right,2,D,['DR'],3900000.0,EUR,2674,Eintracht Frankfurt,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1048569,Nnamdi Collins,2004-01-10,22.0,Germany,,191.0,,Right,34,D,"['DC', 'DR']",18500000.0,EUR,2674,Eintracht Frankfurt,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+988907,Lilian Brassier,1999-11-02,26.0,France,,184.0,,Left,3,D,['DC'],10800000.0,EUR,2674,Eintracht Frankfurt,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2115909,Otavio,2005-11-25,20.0,Brazil,,193.0,,Left,5,D,['DC'],1600000.0,EUR,2674,Eintracht Frankfurt,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1886360,Jeremiaha Maluze,2004-11-11,21.0,Germany,,193.0,,Right,37,D,['DC'],515000.0,EUR,2674,Eintracht Frankfurt,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2198073,Julian Etse,2006-03-23,20.0,Germany,,192.0,,Left,53,D,,105000.0,EUR,2674,Eintracht Frankfurt,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1134203,Kauã Santos,2003-04-11,23.0,Brazil,,196.0,83.0,Right,40,G,['GK'],6500000.0,EUR,2674,Eintracht Frankfurt,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+980626,Noah Atubolu,2002-05-25,24.0,Germany,,190.0,,Right,1,G,['GK'],17500000.0,EUR,2674,Eintracht Frankfurt,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2006785,Amil Šiljević,2007-01-19,19.0,Bosnia & Herzegovina,,192.0,,Right,39,G,['GK'],370000.0,EUR,2674,Eintracht Frankfurt,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+27214,Jens Grahl,1988-09-22,38.0,Germany,,193.0,88.0,Right,33,G,['GK'],210000.0,EUR,2674,Eintracht Frankfurt,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+14990,Edin Džeko,1986-03-17,40.0,Bosnia & Herzegovina,,193.0,84.0,Both,10,F,['ST'],905000.0,EUR,2530,FC Schalke 04,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+786186,Hwang Hee-chan,1996-01-26,30.0,South Korea,,177.0,77.0,Right,7,F,"['ST', 'LW']",2700000.0,EUR,2530,FC Schalke 04,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+861980,Moussa Sylla,1999-11-25,26.0,Mali,,181.0,,Left,9,F,['ST'],5200000.0,EUR,2530,FC Schalke 04,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+902381,Junior Adamu,2001-06-06,25.0,Austria,,183.0,,Right,20,F,['ST'],1900000.0,EUR,2530,FC Schalke 04,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+168943,Kenan Karaman,1994-03-05,32.0,Türkiye,,189.0,83.0,Right,19,F,"['AM', 'ST']",1700000.0,EUR,2530,FC Schalke 04,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1149078,Emil Højlund,2005-01-04,21.0,Denmark,,185.0,,Right,15,F,['ST'],530000.0,EUR,2530,FC Schalke 04,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+862011,Bryan Lasme,1998-11-14,27.0,France,,194.0,76.0,Right,11,F,"['ST', 'RW']",565000.0,EUR,2530,FC Schalke 04,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1424192,Jean-Paul Ndiaye,2006-08-24,20.0,Germany,,184.0,,Right,52,F,,27000.0,EUR,260007,FC Schalke 04 II U23,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+962877,Adil Aouchiche,2002-07-15,24.0,Algeria,,181.0,,Right,24,M,"['AM', 'MC']",3800000.0,EUR,2530,FC Schalke 04,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1083338,Soufiane El-Faouzi,2002-07-13,24.0,Morocco,,178.0,,Both,23,M,"['MC', 'DM']",9800000.0,EUR,2530,FC Schalke 04,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+904994,Eric Ebimbe,2000-11-21,25.0,Cameroon,,183.0,,Right,29,M,"['MR', 'MC']",6500000.0,EUR,2530,FC Schalke 04,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+869883,Dejan Ljubičić,1997-10-08,28.0,Austria,,186.0,74.0,Both,21,M,"['MC', 'DM']",3300000.0,EUR,2530,FC Schalke 04,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+981067,Satoshi Tanaka,2002-08-13,24.0,Japan,,175.0,67.0,Left,13,M,"['DM', 'MC']",4200000.0,EUR,2530,FC Schalke 04,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1195734,Vitalie Becker,2005-03-03,21.0,Germany,,179.0,,Left,33,M,['ML'],3100000.0,EUR,2530,FC Schalke 04,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+872358,Ron Schallenberg,1998-10-06,28.0,Germany,,183.0,,Right,6,M,"['MC', 'DM', 'DC']",1900000.0,EUR,2530,FC Schalke 04,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1510769,Max Grüger,2005-05-24,21.0,Germany,,185.0,,Right,37,M,['MC'],1100000.0,EUR,2530,FC Schalke 04,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1046188,Adrian Gantenbein,2001-04-18,25.0,Switzerland,,183.0,,Right,17,M,['DR'],850000.0,EUR,2530,FC Schalke 04,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2255221,Luca Vozar,2007-05-06,19.0,Germany,,173.0,,Left,38,M,,,,2530,FC Schalke 04,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+789714,Finn Porath,1997-02-23,29.0,Germany,,179.0,68.0,Right,27,M,"['MC', 'ML', 'AM', 'MR']",855000.0,EUR,2530,FC Schalke 04,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2267716,Ayman Emran Gulasi,2006-05-05,20.0,Türkiye,,176.0,,Right,34,M,,115000.0,EUR,260007,FC Schalke 04 II U23,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+579254,Janik Bachmann,1996-05-06,30.0,Germany,,196.0,84.0,Right,14,M,"['MC', 'AM', 'DM']",450000.0,EUR,2530,FC Schalke 04,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1510760,Edion Gashi ,2006-01-22,20.0,Kosovo,,173.0,,Both,,M,['MC'],120000.0,EUR,260007,FC Schalke 04 II U23,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+831488,Nikola Katić,1996-10-10,29.0,Bosnia & Herzegovina,,194.0,80.0,Right,25,D,['DC'],2200000.0,EUR,2530,FC Schalke 04,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+377118,Robin Gosens,1994-07-05,32.0,Germany,,183.0,76.0,Left,8,D,"['ML', 'DL']",4099999.0,EUR,2530,FC Schalke 04,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+794962,Maximilian Wöber,1998-02-04,28.0,Austria,,188.0,84.0,Left,39,D,"['DC', 'DL']",2700000.0,EUR,2530,FC Schalke 04,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1195798,Mertcan Ayhan,2006-09-08,20.0,Türkiye,,190.0,,Right,43,D,['DC'],8199999.0,EUR,2530,FC Schalke 04,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+852096,Hasan Kuruçay,1997-08-31,29.0,Türkiye,,187.0,,Right,4,D,"['DC', 'DL']",2100000.0,EUR,2530,FC Schalke 04,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+814735,Timo Becker,1997-03-25,29.0,Germany,,186.0,,Right,5,D,"['DR', 'DC', 'MR']",1500000.0,EUR,2530,FC Schalke 04,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1915284,Steve Noode,2005-06-02,21.0,Cameroon,,187.0,,Left,4,D,,120000.0,EUR,260007,FC Schalke 04 II U23,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1510770,Mika Khadr,2006-02-21,20.0,Germany,,193.0,,Right,45,D,,95000.0,EUR,260007,FC Schalke 04 II U23,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+174135,Loris Karius,1993-06-22,33.0,Germany,,190.0,75.0,Right,1,G,['GK'],825000.0,EUR,2530,FC Schalke 04,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+121908,Kevin Müller,1991-03-15,35.0,Germany,,190.0,91.0,Right,22,G,['GK'],280000.0,EUR,2530,FC Schalke 04,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1510765,Johannes Siebeking,2006-03-02,20.0,Germany,,193.0,,Both,36,G,,120000.0,EUR,2530,FC Schalke 04,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+991824,Rayan Philippe,2000-10-20,25.0,France,,177.0,,Left,9,F,['ST'],4099999.0,EUR,2561,SC Paderborn 07,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+826884,Steffen Tigges,1998-07-31,28.0,Germany,,195.0,,Left,27,F,['ST'],680000.0,EUR,2561,SC Paderborn 07,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+909485,Marvin Pieringer,1999-10-04,27.0,Germany,,189.0,,Right,18,F,['ST'],2700000.0,EUR,2561,SC Paderborn 07,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+246431,Sven Michel,1990-07-15,36.0,Germany,,178.0,75.0,Left,11,F,['ST'],310000.0,EUR,2561,SC Paderborn 07,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+907685,Oliver Batista Meier,2001-02-16,25.0,Germany,,178.0,,Right,7,F,"['ST', 'AM']",1500000.0,EUR,2561,SC Paderborn 07,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1167764,Stefano Marino,2004-03-12,22.0,Germany,,186.0,,Right,30,F,['ST'],965000.0,EUR,2561,SC Paderborn 07,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1864750,Ruben Müller,2005-08-24,21.0,Germany,,179.0,,Right,2,F,['AM'],1100000.0,EUR,2561,SC Paderborn 07,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+878628,Sebastian Klaas,1998-06-30,28.0,Germany,,180.0,,Both,26,F,"['MC', 'AM', 'DM']",875000.0,EUR,2561,SC Paderborn 07,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2334132,Lasse Eickel,2008-02-28,18.0,Germany,,187.0,,Right,32,F,,160000.0,EUR,2561,SC Paderborn 07,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1129940,Gabriel Vidović,2003-12-01,22.0,Croatia,,180.0,,Right,40,M,['LW'],3100000.0,EUR,2561,SC Paderborn 07,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1152486,Laurin Ulrich,2005-01-31,21.0,Germany,,180.0,,Right,28,M,['MC'],3200000.0,EUR,2561,SC Paderborn 07,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2216257,Luka Đurić,2003-06-18,23.0,Bosnia & Herzegovina,,181.0,73.0,Right,8,M,['MC'],855000.0,EUR,2561,SC Paderborn 07,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1199101,Santiago Castañeda,2004-11-13,21.0,USA,,188.0,70.0,Right,5,M,"['MC', 'DM']",5200000.0,EUR,2561,SC Paderborn 07,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1604187,Deniz Zeitler,2006-12-13,19.0,Germany,,181.0,,Both,38,M,"['ST', 'LW']",4099999.0,EUR,2561,SC Paderborn 07,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+981788,Laurin Curda,2001-10-30,24.0,Germany,,181.0,,Right,17,M,"['MR', 'DR', 'DC']",2800000.0,EUR,2561,SC Paderborn 07,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+820465,Raphael Obermair,1996-04-01,30.0,Philippines,,182.0,,Right,23,M,"['MR', 'ML']",1300000.0,EUR,2561,SC Paderborn 07,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+940567,Timur Gayret,1998-08-08,28.0,Germany,,176.0,,Left,44,M,['MC'],410000.0,EUR,2561,SC Paderborn 07,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2020672,Clemens Lippmann,2006-06-29,20.0,Germany,,183.0,,Right,29,M,['ML'],435000.0,EUR,2561,SC Paderborn 07,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+800448,Tom Baack,1999-03-13,27.0,Germany,,180.0,70.0,Right,6,M,['MC'],565000.0,EUR,2561,SC Paderborn 07,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2076815,Niklas Mohr,2004-07-23,22.0,Germany,,179.0,,Left,24,M,,465000.0,EUR,2561,SC Paderborn 07,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+844131,Felix Götze,1998-02-11,28.0,Germany,,185.0,78.0,Right,20,D,['DC'],2100000.0,EUR,2561,SC Paderborn 07,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1083387,Mattes Hansen,2004-05-15,22.0,Germany,,183.0,,Right,22,D,"['DC', 'MC', 'DM']",2700000.0,EUR,2561,SC Paderborn 07,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1137717,Tjark Lasse Scheller,2002-01-12,24.0,Germany,,192.0,,Both,25,D,"['DC', 'DR']",2700000.0,EUR,2561,SC Paderborn 07,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1152342,Jano Ter-Horst,2002-06-19,24.0,Germany,,181.0,,Right,21,D,['DR'],1200000.0,EUR,2561,SC Paderborn 07,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+930702,Marcel Hoffmeier,1999-07-15,27.0,Germany,,180.0,,Right,33,D,"['DC', 'DR', 'DL']",1100000.0,EUR,2561,SC Paderborn 07,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1517850,Jonah Sticker,2004-05-08,22.0,Germany,,180.0,,Right,3,D,['DL'],700000.0,EUR,2561,SC Paderborn 07,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1407863,Nyamekye Awortwie-Grant,2000-08-07,26.0,Germany,,193.0,,Right,4,D,['DC'],390000.0,EUR,2561,SC Paderborn 07,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1401913,Tristan Zobel,2003-10-04,23.0,Germany,,195.0,,Left,38,D,['DC'],205000.0,EUR,2561,SC Paderborn 07,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1048651,Nahuel Noll,2003-03-17,23.0,Germany,,188.0,,Both,15,G,['GK'],1900000.0,EUR,2561,SC Paderborn 07,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+795006,Markus Schubert,1998-06-12,28.0,Germany,,186.0,82.0,Right,1,G,['GK'],515000.0,EUR,2561,SC Paderborn 07,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1515934,Florian Pruhs,2006-02-06,20.0,Germany,,190.0,,Right,31,G,,145000.0,EUR,2561,SC Paderborn 07,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1403192,Mikey Moore,2007-08-11,19.0,England,,180.0,,Right,47,F,['LW'],18500000.0,EUR,2671,1. FC Köln,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1601596,Reigan Heskey,2008-01-18,18.0,England,,184.0,75.0,Right,11,F,['LW'],2200000.0,EUR,2671,1. FC Köln,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+905381,Thijs Dallinga,2000-08-03,26.0,Netherlands,,190.0,,Right,27,F,['ST'],9800000.0,EUR,2671,1. FC Köln,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+877544,Ragnar Ache,1998-07-28,28.0,Germany,,182.0,77.0,Right,9,F,['ST'],9400000.0,EUR,2671,1. FC Köln,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+319861,Luca Waldschmidt,1996-05-19,30.0,Germany,,181.0,75.0,Left,7,F,"['AM', 'ST']",1800000.0,EUR,2671,1. FC Köln,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+378340,Marius Bülter,1993-03-29,33.0,Germany,,188.0,,Right,30,F,"['LW', 'ML', 'ST']",1900000.0,EUR,2671,1. FC Köln,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+858600,Imad Rondić,1999-02-16,27.0,Bosnia & Herzegovina,,188.0,,Right,15,F,['ST'],690000.0,EUR,2671,1. FC Köln,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+591706,Ellyes Skhiri,1995-05-10,31.0,Tunisia,,185.0,,Right,6,M,"['MC', 'DM']",5200000.0,EUR,2671,1. FC Köln,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1800475,Said El Mala,2006-08-26,20.0,Germany,,185.0,,Right,10,M,['LW'],52000000.0,EUR,2671,1. FC Köln,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1112327,Ísak Bergmann Jóhannesson,2003-03-23,23.0,Iceland,,180.0,,Left,8,M,"['MC', 'DM', 'AM']",8400000.0,EUR,2671,1. FC Köln,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1411105,Paul Okon-Engstler,2005-01-24,21.0,Australia,,186.0,,Left,23,M,"['MC', 'DM']",1100000.0,EUR,2671,1. FC Köln,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+921033,Linton Maina,1999-06-23,27.0,Germany,,173.0,55.0,Right,37,M,"['LW', 'RW']",3300000.0,EUR,2671,1. FC Köln,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+930272,Tom Krauß,2001-06-22,25.0,Germany,,182.0,72.0,Right,5,M,"['MC', 'DM']",4700000.0,EUR,2671,1. FC Köln,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1010726,Jan Uwe Thielmann,2002-05-26,24.0,Germany,,178.0,,Right,29,M,"['DR', 'RW', 'MR']",4500000.0,EUR,2671,1. FC Köln,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+839898,Alessio Castro-Montes,1997-05-17,29.0,Belgium,,175.0,,Right,17,M,['MR'],2700000.0,EUR,2671,1. FC Köln,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1418648,Fayssal Harchaoui,2006-01-15,20.0,Germany,,175.0,,Right,34,M,['MC'],185000.0,EUR,2525,1. FC Köln II U23,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1426231,Gil Matteo Neves,2008-02-09,18.0,Portugal,,189.0,,Right,16,M,['MC'],,,2671,1. FC Köln,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1898169,Etienne Borie,2006-04-20,20.0,Germany,,,,Both,22,M,,49000.0,EUR,2525,1. FC Köln II U23,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+357584,Borna Sosa,1998-01-21,28.0,Croatia,,187.0,76.0,Left,3,D,"['DL', 'ML']",2700000.0,EUR,2671,1. FC Köln,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+844942,Gideon Mensah,1998-07-18,28.0,Ghana,,177.0,64.0,Left,14,D,['DL'],3700000.0,EUR,2671,1. FC Köln,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1402924,Jahmai Simpson-Pusey,2005-11-04,20.0,England,,187.0,,Right,22,D,['DC'],9300000.0,EUR,2671,1. FC Köln,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+827473,Luka Lochoshvili,1998-05-29,28.0,Georgia,,191.0,88.0,Left,24,D,"['DC', 'DL']",4600000.0,EUR,2671,1. FC Köln,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1014493,Rav van den Berg,2004-07-07,22.0,Netherlands,,190.0,,Right,33,D,['DC'],5200000.0,EUR,2671,1. FC Köln,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1855407,Malek El Mala,2005-04-02,21.0,Germany,,193.0,,Right,19,D,,240000.0,EUR,2671,1. FC Köln,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+387220,Timo Hübers,1996-07-20,30.0,Germany,,190.0,82.0,Right,4,D,['DC'],1400000.0,EUR,2671,1. FC Köln,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1020206,Sebastian Sebulonsen,2000-01-27,26.0,Norway,,187.0,,Right,28,D,"['DR', 'MR']",5100000.0,EUR,2671,1. FC Köln,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+965950,Joel Schmied,1998-09-23,28.0,Switzerland,,188.0,,Right,2,D,['DC'],3100000.0,EUR,2671,1. FC Köln,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2245361,David Fürst,2007-04-02,19.0,DR Congo,,185.0,,Right,49,D,,,,2525,1. FC Köln II U23,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2361994,Assad Kotay Fofana,2008-08-12,18.0,Togo,,194.0,,Right,5,D,['DC'],,,2525,1. FC Köln II U23,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2245378,Jonathan Friemel,2007-04-17,19.0,Germany,,,,Left,39,D,['DL'],,,2671,1. FC Köln,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1952390,Martin James,2008-02-14,18.0,France,,186.0,,Right,21,G,['GK'],,,2671,1. FC Köln,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+187185,Marvin Schwäbe,1995-04-25,31.0,Germany,,189.0,86.0,Right,1,G,['GK'],3200000.0,EUR,2671,1. FC Köln,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+41615,Ron-Robert Zieler,1989-02-12,37.0,Germany,,188.0,83.0,Right,20,G,['GK'],455000.0,EUR,2671,1. FC Köln,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+840352,Matthias Köbbing,1997-05-28,29.0,Germany,,196.0,87.0,Both,44,G,['GK'],97000.0,EUR,2671,1. FC Köln,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+67647,Andrej Kramarić,1991-06-19,35.0,Croatia,,177.0,73.0,Right,27,F,['AM'],2700000.0,EUR,2569,TSG Hoffenheim,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1010117,Fisnik Asllani,2002-08-08,24.0,Kosovo,,191.0,,Both,11,F,['ST'],31000000.0,EUR,2569,TSG Hoffenheim,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+963801,Adam Hložek,2002-07-25,24.0,Czechia,,186.0,,Right,10,F,"['ST', 'AM']",10300000.0,EUR,2569,TSG Hoffenheim,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1418703,Max Moerstedt,2006-01-15,20.0,Germany,,194.0,,Right,9,F,['ST'],7600000.0,EUR,2569,TSG Hoffenheim,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1180758,Adam Daghim,2005-09-28,21.0,Denmark,,186.0,,Left,14,F,"['ST', 'RW']",14100000.0,EUR,2569,TSG Hoffenheim,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1014290,Tim Lemperle,2002-02-05,24.0,Germany,,186.0,,Right,19,F,['ST'],15300000.0,EUR,2569,TSG Hoffenheim,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1637689,Nathan De Cat,2008-07-19,18.0,Belgium,,192.0,,Right,17,M,"['MC', 'DM']",25000000.0,EUR,2569,TSG Hoffenheim,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1185359,Bambasé Conté,2003-07-07,23.0,Germany,,178.0,,Left,20,M,['AM'],6600000.0,EUR,2569,TSG Hoffenheim,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+987504,Patrick Wimmer,2001-05-30,25.0,Austria,,182.0,,Right,8,M,['LW'],11100000.0,EUR,2569,TSG Hoffenheim,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1493305,Leon Avdullahu,2004-02-23,22.0,Kosovo,,185.0,,Right,7,M,"['MC', 'DM']",33000000.0,EUR,2569,TSG Hoffenheim,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+916946,Wouter Burger,2001-02-16,25.0,Netherlands,,190.0,,Left,18,M,"['MC', 'DM']",21000000.0,EUR,2569,TSG Hoffenheim,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+978062,Alexander Prass,2001-05-26,25.0,Austria,,180.0,,Left,22,M,"['MC', 'ML']",8700000.0,EUR,2569,TSG Hoffenheim,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2077300,Cajetan Lenz,2006-06-16,20.0,Germany,,190.0,,Right,32,M,"['DM', 'MC']",9600000.0,EUR,2569,TSG Hoffenheim,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1838178,Luis Engelns,2007-03-11,19.0,Germany,,188.0,,Right,16,M,"['MC', 'DM']",4400000.0,EUR,2569,TSG Hoffenheim,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+857740,Ozan Kabak,2000-03-25,26.0,Türkiye,,185.0,,Right,5,D,"['DC', 'DR']",14600000.0,EUR,2569,TSG Hoffenheim,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+138024,Vladimír Coufal,1992-08-22,34.0,Czechia,,179.0,76.0,Right,34,D,"['DR', 'MR']",2400000.0,EUR,2569,TSG Hoffenheim,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+790977,Koki Machida,1997-08-25,29.0,Japan,,190.0,70.0,Left,28,D,"['DC', 'DL', 'DR']",5800000.0,EUR,2569,TSG Hoffenheim,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1000269,Albian Hajdari,2003-05-18,23.0,Kosovo,,189.0,,Left,21,D,"['DC', 'DL']",24000000.0,EUR,2569,TSG Hoffenheim,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1387012,Mats Rots,2006-03-11,20.0,Netherlands,,190.0,,Left,39,D,['DL'],14900000.0,EUR,2569,TSG Hoffenheim,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+828571,Bernardo,1995-05-14,31.0,Brazil,,186.0,76.0,Left,13,D,"['DL', 'DC']",3700000.0,EUR,2569,TSG Hoffenheim,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+957615,Robin Hranáč,2000-01-29,26.0,Czechia,,189.0,,Right,2,D,"['DC', 'DR']",10900000.0,EUR,2569,TSG Hoffenheim,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+944899,Valentin Gendrey,2000-06-21,26.0,France,,179.0,,Right,15,D,['DR'],6300000.0,EUR,2569,TSG Hoffenheim,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1885630,Sean Dulic,2005-01-05,21.0,Germany,,187.0,,Both,4,D,['DC'],1200000.0,EUR,2569,TSG Hoffenheim,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1861981,Natnael Abraha,2008-03-14,18.0,Germany,,179.0,,Right,29,D,['DR'],435000.0,EUR,2569,TSG Hoffenheim,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+40244,Oliver Baumann,1990-06-02,36.0,Germany,,185.0,82.0,Right,1,G,['GK'],2700000.0,EUR,2569,TSG Hoffenheim,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+943550,Luca Philipp,2000-11-28,25.0,Germany,,192.0,,Right,37,G,['GK'],705000.0,EUR,2569,TSG Hoffenheim,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1196091,Lukas Petersson,2004-02-09,22.0,Iceland,,193.0,,Right,36,G,['GK'],570000.0,EUR,2569,TSG Hoffenheim,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+794298,Deniz Undav,1996-07-19,30.0,Germany,,179.0,,Both,26,F,"['ST', 'AM']",20000000.0,EUR,2677,VfB Stuttgart,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+878081,Ermedin Demirović,1998-03-25,28.0,Bosnia & Herzegovina,,184.0,,Right,9,F,['ST'],20000000.0,EUR,2677,VfB Stuttgart,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1150938,Leo Sauer,2005-12-16,20.0,Slovakia,,184.0,,Right,44,F,['LW'],14000000.0,EUR,2677,VfB Stuttgart,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1127790,Dženan Pejčinović,2005-02-15,21.0,Germany,,188.0,,Left,17,F,['ST'],16399999.0,EUR,2677,VfB Stuttgart,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+983540,Tiago Tomás,2002-06-16,24.0,Portugal,,180.0,,Right,8,F,"['ST', 'LW']",14600000.0,EUR,2677,VfB Stuttgart,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2190082,Tim van der Leij,2006-03-06,20.0,Netherlands,,193.0,,Right,9,F,['ST'],440000.0,EUR,2522,VfB Stuttgart II U21,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1799680,Oliver Rolke,2005-01-06,21.0,Germany,,192.0,,Right,11,F,['ST'],185000.0,EUR,2522,VfB Stuttgart II U21,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1126569,Bilal El Khannouss,2004-05-10,22.0,Morocco,,180.0,,Right,11,M,['AM'],32000000.0,EUR,2677,VfB Stuttgart,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+901882,Angelo Stiller,2001-04-04,25.0,Germany,,183.0,,Left,6,M,"['MC', 'DM']",46000000.0,EUR,2677,VfB Stuttgart,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+990201,Jamie Leweling,2001-02-26,25.0,Germany,,184.0,,Both,18,M,"['RW', 'LW', 'MR']",37000000.0,EUR,2677,VfB Stuttgart,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+891510,Chris Führich,1998-01-09,28.0,Germany,,178.0,,Right,10,M,"['LW', 'ML', 'AM']",11600000.0,EUR,2677,VfB Stuttgart,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+801030,Atakan Karazor,1996-10-13,29.0,Türkiye,,190.0,80.0,Right,16,M,"['MC', 'DM']",8800000.0,EUR,2677,VfB Stuttgart,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+861981,Nikolas Nartey,2000-02-22,26.0,Denmark,,185.0,80.0,Left,28,M,"['MC', 'DM', 'AM']",10300000.0,EUR,2677,VfB Stuttgart,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1146132,Justin Diehl,2004-11-27,21.0,Germany,,174.0,,Right,31,M,['LW'],1100000.0,EUR,2677,VfB Stuttgart,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+253993,Grischa Prömel,1995-01-09,31.0,Germany,,182.0,75.0,Both,21,M,"['MC', 'DM']",3600000.0,EUR,2677,VfB Stuttgart,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1418665,Jarzinho Malanga,2006-07-10,20.0,Germany,,179.0,,Right,43,M,['LW'],1600000.0,EUR,2677,VfB Stuttgart,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1566307,Yanik Spalt,2007-09-03,19.0,Austria,,176.0,,Left,47,M,['DM'],3900000.0,EUR,2677,VfB Stuttgart,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1961772,Ertugrul Yigit,2009-01-08,17.0,Germany,,180.0,,Right,39,M,['MC'],775000.0,EUR,2677,VfB Stuttgart,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1925489,Lauri Penna,2006-07-02,20.0,Germany,,185.0,,Right,7,M,['AM'],430000.0,EUR,2522,VfB Stuttgart II U21,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2722884,Malik Mosrati,2009-12-12,16.0,Germany,,,,,20,M,,,,43732,VfB Stuttgart U19,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+788949,Maximilian Mittelstädt,1997-03-18,29.0,Germany,,178.0,69.0,Left,7,D,['DL'],19800000.0,EUR,2677,VfB Stuttgart,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1418649,Finn Jeltsch,2006-07-17,20.0,Germany,,188.0,,Both,29,D,"['DC', 'DR']",32000000.0,EUR,2677,VfB Stuttgart,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+826205,Dan Zagadou,1999-06-03,27.0,France,,196.0,90.0,Left,23,D,"['DC', 'DL']",1900000.0,EUR,2677,VfB Stuttgart,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+906278,Josha Vagnoman,2000-12-11,25.0,Germany,,186.0,,Right,4,D,"['DR', 'MR']",10300000.0,EUR,2677,VfB Stuttgart,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+863271,Jeff Chabot,1998-02-12,28.0,Germany,,194.0,89.0,Left,24,D,['DC'],15500000.0,EUR,2677,VfB Stuttgart,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1979970,Ameen Al-Dakhil,2002-03-06,24.0,Belgium,,185.0,,Right,2,D,"['DC', 'DR']",3100000.0,EUR,2677,VfB Stuttgart,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1127823,Luca Jaquez,2003-06-02,23.0,Switzerland,,187.0,,Right,14,D,['DC'],10700000.0,EUR,2677,VfB Stuttgart,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+962898,Leonidas Stergiou,2002-03-03,24.0,Switzerland,,180.0,,Right,20,D,"['DC', 'DR']",2700000.0,EUR,2677,VfB Stuttgart,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1009334,Lorenz Assignon,2000-06-22,26.0,France,,179.0,,Right,22,D,"['DR', 'MR']",8700000.0,EUR,2677,VfB Stuttgart,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+916943,Ramon Hendriks,2001-07-18,25.0,Netherlands,,189.0,,Left,3,D,"['DC', 'DL']",24000000.0,EUR,2677,VfB Stuttgart,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1405444,Joyeux Masanka Bungi,2007-01-24,19.0,Belgium,,186.0,,Left,24,D,['DL'],430000.0,EUR,2522,VfB Stuttgart II U21,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1597286,Maximilian Herwerth ,2006-02-09,20.0,Germany,,191.0,,Left,37,D,['DC'],840000.0,EUR,2677,VfB Stuttgart,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1995789,Collin Schramm,2008-05-03,18.0,Germany,,179.0,,Right,23,D,,,,2522,VfB Stuttgart II U21,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1195736,Dennis Seimen,2005-12-01,20.0,Germany,,191.0,,Left,41,G,['GK'],9500000.0,EUR,2677,VfB Stuttgart,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+152463,Fabian Bredlow,1995-03-02,31.0,Germany,,191.0,84.0,Right,1,G,['GK'],725000.0,EUR,2677,VfB Stuttgart,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+930339,Stefan Drljača,1999-04-20,27.0,Germany,,191.0,,Right,46,G,['GK'],280000.0,EUR,2677,VfB Stuttgart,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+222770,Marius Funk,1996-01-01,30.0,Germany,,187.0,88.0,Right,33,G,['GK'],290000.0,EUR,2677,VfB Stuttgart,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+865057,Patson Daka,1998-10-09,27.0,Zambia,,185.0,,Right,27,F,['ST'],2900000.0,EUR,2676,Hamburger SV,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+894396,Terem Moffi,1999-05-25,27.0,Nigeria,,188.0,,Left,9,F,['ST'],8199999.0,EUR,2676,Hamburger SV,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+135264,Yussuf Poulsen,1994-06-15,32.0,Denmark,,193.0,78.0,Right,15,F,['ST'],935000.0,EUR,2676,Hamburger SV,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1568535,Otto Stange,2007-02-09,19.0,Germany,,185.0,,Right,19,F,['ST'],5300000.0,EUR,2676,Hamburger SV,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1862226,Alexander Røssing-Lelesiit,2007-01-20,19.0,Norway,,184.0,,Right,38,F,['LW'],4700000.0,EUR,2676,Hamburger SV,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2609699,Thierry Sedlatschek,2009-04-03,17.0,Germany,,,,,,F,,,,43695,Hamburger SV U19,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+904835,Fábio Vieira,2000-05-30,26.0,Portugal,,170.0,,Left,20,M,"['MC', 'RW', 'DM', 'AM']",16600000.0,EUR,2676,Hamburger SV,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1129527,Bilal Nadir,2003-11-27,22.0,Morocco,,178.0,,Right,4,M,['MC'],8300000.0,EUR,2676,Hamburger SV,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+901892,Albert Sambi Lokonga,1999-10-22,26.0,Belgium,,183.0,,Right,6,M,"['MC', 'DM']",12400000.0,EUR,2676,Hamburger SV,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1000263,Albert Grønbæk,2001-05-23,25.0,Denmark,,176.0,,Right,11,M,"['MC', 'AM']",5300000.0,EUR,2676,Hamburger SV,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+798303,Miro Muheim,1998-03-24,28.0,Switzerland,,182.0,77.0,Left,28,M,"['DL', 'ML']",5300000.0,EUR,2676,Hamburger SV,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1158529,Martin Adeline,2003-12-02,22.0,France,,180.0,,Right,5,M,"['AM', 'MC']",9200000.0,EUR,2676,Hamburger SV,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+842526,Bakery Jatta,1998-06-06,28.0,Gambia,,184.0,79.0,Right,18,M,"['RW', 'MR']",1000000.0,EUR,2676,Hamburger SV,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1064305,Nicolai Remberg,2000-06-19,26.0,Germany,,187.0,,Right,21,M,"['MC', 'DM']",8400000.0,EUR,2676,Hamburger SV,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+989203,Immanuel Pherai,2001-04-25,25.0,Suriname,,175.0,,Right,10,M,"['AM', 'MC']",1300000.0,EUR,2676,Hamburger SV,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1467703,Kofi Jeremy Amoako,2005-05-06,21.0,Germany,,186.0,86.0,Right,22,M,"['MC', 'DM']",3800000.0,EUR,2676,Hamburger SV,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1546408,Kelvin Ojo,2007-03-19,19.0,Germany,,183.0,,Right,46,M,,68000.0,EUR,2676,Hamburger SV,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1134470,Zakaria El Ouahdi,2001-12-31,24.0,Morocco,,172.0,,Right,7,D,['DR'],13000000.0,EUR,2676,Hamburger SV,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1031283,David Møller Wolfe,2002-04-23,24.0,Norway,,185.0,,Left,3,D,['DL'],11000000.0,EUR,2676,Hamburger SV,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+973564,Nicolás Capaldo,1998-09-14,28.0,Argentina,,178.0,,Right,24,D,"['MC', 'DR', 'DC']",8400000.0,EUR,2676,Hamburger SV,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+880748,Mario Vušković,2001-11-16,24.0,Croatia,,189.0,,Right,44,D,['DC'],4700000.0,EUR,2676,Hamburger SV,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+826167,Sebastiaan Bornauw,1999-03-22,27.0,Belgium,,190.0,,Right,33,D,"['DC', 'DR']",7800000.0,EUR,2676,Hamburger SV,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+801003,Jordan Torunarigha,1997-08-07,29.0,Nigeria,,189.0,77.0,Left,23,D,"['DC', 'DL']",4099999.0,EUR,2676,Hamburger SV,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+999030,Warmed Omari,2000-04-23,26.0,Comoros,,185.0,,Right,17,D,['DC'],3900000.0,EUR,2676,Hamburger SV,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1995000,Louis Lemke,2009-10-08,16.0,Germany,,182.0,,Left,37,D,['ML'],320000.0,EUR,2676,Hamburger SV,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2204961,Shafiq Nandja,2007-01-15,19.0,Germany,,184.0,,Right,43,D,,530000.0,EUR,2676,Hamburger SV,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1409359,Joel Agyekum,2005-03-08,21.0,Germany,,190.0,,Right,39,D,,145000.0,EUR,2676,Hamburger SV,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2524633,Jason Dean Bissi Mouelle,2008-02-21,18.0,Germany,,201.0,,Right,48,D,,,,2676,Hamburger SV,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1030355,Sander Tangvik,2002-11-29,23.0,Norway,,193.0,,Right,12,G,['GK'],2300000.0,EUR,2676,Hamburger SV,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+113442,Daniel Fernandes,1992-11-13,33.0,Portugal,,188.0,81.0,Right,1,G,['GK'],1300000.0,EUR,2676,Hamburger SV,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1489167,Fernando Dickes,2007-10-13,18.0,Germany,,192.0,,Left,41,G,['GK'],285000.0,EUR,2676,Hamburger SV,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2193787,Colin Poppelbaum,2006-09-05,20.0,Germany,,193.0,,Right,99,G,,70000.0,EUR,2531,Hamburger SV II U23,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1090010,Marin Ljubičić,2002-02-28,24.0,Croatia,,183.0,,Right,27,F,['ST'],1800000.0,EUR,2547,1. FC Union Berlin,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+927405,Woo-Yeong Jeong,1999-09-20,27.0,South Korea,,179.0,,Right,11,F,"['AM', 'RW']",3700000.0,EUR,2547,1. FC Union Berlin,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+848074,Emmanuel Latte Lath,1999-01-01,27.0,Côte d'Ivoire,,180.0,75.0,Right,29,F,['ST'],10400000.0,EUR,2547,1. FC Union Berlin,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+953767,Andrej Ilić,2000-04-03,26.0,Serbia,,189.0,,Right,23,F,['ST'],8300000.0,EUR,2547,1. FC Union Berlin,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1513469,Livan Burcu,2004-09-28,22.0,Türkiye,,178.0,,Right,9,F,['LW'],4200000.0,EUR,2547,1. FC Union Berlin,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+608362,Oliver Burke,1997-04-07,29.0,Scotland,,188.0,75.0,Right,7,F,['ST'],2900000.0,EUR,2547,1. FC Union Berlin,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2311163,Linus Guther,2010-04-08,16.0,Germany,,175.0,,Right,49,F,,1000000.0,EUR,2547,1. FC Union Berlin,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1989789,Mekhi Gray,2007-02-19,19.0,Germany,,194.0,,Right,19,F,,,,2547,1. FC Union Berlin,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+877302,András Schäfer,1999-04-13,27.0,Hungary,,179.0,67.0,Both,13,M,"['MC', 'DM']",4099999.0,EUR,2547,1. FC Union Berlin,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+886737,Derrick Köhn,1999-02-04,27.0,Ghana,,180.0,,Left,17,M,"['ML', 'DL']",4200000.0,EUR,2547,1. FC Union Berlin,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+149479,Rani Khedira,1994-01-27,32.0,Tunisia,,188.0,,Right,8,M,"['DM', 'MC']",2100000.0,EUR,2547,1. FC Union Berlin,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+850891,Michel Aebischer,1997-01-06,29.0,Switzerland,,182.0,74.0,Right,20,M,"['MC', 'DM']",4200000.0,EUR,2547,1. FC Union Berlin,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+327863,Robert Skov,1996-05-20,30.0,Denmark,,183.0,79.0,Left,24,M,"['ML', 'MR']",1900000.0,EUR,2547,1. FC Union Berlin,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1198074,Aljoscha Kemlein,2004-08-02,22.0,Germany,,185.0,,Right,6,M,"['MC', 'DM']",11000000.0,EUR,2547,1. FC Union Berlin,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+865520,Kastriot Imeri,2000-06-27,26.0,Switzerland,,173.0,73.0,Right,30,M,"['MC', 'AM']",2100000.0,EUR,2547,1. FC Union Berlin,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+48557,Christopher Trimmel,1987-02-24,39.0,Austria,,189.0,80.0,Right,28,M,"['MR', 'DR']",555000.0,EUR,2547,1. FC Union Berlin,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+800252,Tim Skarke,1996-09-07,30.0,Germany,,179.0,70.0,Right,21,M,"['RW', 'MR', 'ST']",1500000.0,EUR,2547,1. FC Union Berlin,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+168985,Janik Haberer,1994-04-02,32.0,Germany,,187.0,78.0,Right,19,M,"['MC', 'DM', 'MR']",2100000.0,EUR,2547,1. FC Union Berlin,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1534058,Julien Friedrich,2006-11-12,19.0,Germany,,176.0,,Left,38,M,,130000.0,EUR,2547,1. FC Union Berlin,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+791642,Josip Juranović,1995-08-16,31.0,Croatia,,173.0,68.0,Right,18,D,"['DR', 'MR']",2200000.0,EUR,2547,1. FC Union Berlin,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+792142,Felix Uduokhai,1997-09-09,29.0,Germany,,193.0,78.0,Left,2,D,['DC'],3200000.0,EUR,2547,1. FC Union Berlin,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1086547,Leopold Querfeld,2003-12-20,22.0,Austria,,190.0,,Right,14,D,['DC'],18900000.0,EUR,2547,1. FC Union Berlin,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1210666,Tom Alexander Rothe,2004-10-29,21.0,Germany,,192.0,,Left,15,D,"['ML', 'DL']",10300000.0,EUR,2547,1. FC Union Berlin,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1103765,Zeno Van Den Bosch,2003-07-06,23.0,Belgium,,191.0,,Right,4,D,"['DC', 'DR']",6300000.0,EUR,2547,1. FC Union Berlin,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+904991,Stanley Nsoki,1999-04-09,27.0,France,,184.0,,Left,34,D,"['DC', 'DL', 'DR']",1800000.0,EUR,2547,1. FC Union Berlin,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+254449,Marvin Friedrich,1995-12-13,30.0,Germany,,193.0,80.0,Right,5,D,"['DC', 'DR']",1900000.0,EUR,2547,1. FC Union Berlin,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1534045,Andrik Markgraf,2006-09-07,20.0,Germany,,172.0,,Left,3,D,,310000.0,EUR,2547,1. FC Union Berlin,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+137692,Frederik Rønnow,1992-08-04,34.0,Denmark,,188.0,76.0,Right,1,G,['GK'],2100000.0,EUR,2547,1. FC Union Berlin,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+842718,Matheo Raab,1998-12-18,27.0,Germany,,186.0,,Right,31,G,['GK'],560000.0,EUR,2547,1. FC Union Berlin,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+148167,Carl Klaus,1994-01-16,32.0,Germany,,189.0,,Right,25,G,['GK'],335000.0,EUR,2547,1. FC Union Berlin,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+228981,Tim Kleindienst,1995-08-31,31.0,Germany,,194.0,82.0,Right,11,F,['ST'],7700000.0,EUR,2527,Borussia M'gladbach,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+877835,Nicolas-Gerrit Kühn,2000-01-01,26.0,Germany,,174.0,,Left,19,F,['RW'],9400000.0,EUR,2527,Borussia M'gladbach,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+925910,Shuto Machino,1999-09-30,27.0,Japan,,185.0,77.0,Both,18,F,['ST'],3900000.0,EUR,2527,Borussia M'gladbach,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+798175,Isac Lidberg,1998-09-08,28.0,Sweden,,185.0,82.0,Right,3,F,['ST'],5300000.0,EUR,2527,Borussia M'gladbach,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2276906,Iaia Manco Danfa,2007-04-06,19.0,Guinea-Bissau,,188.0,,Right,39,F,,245000.0,EUR,2527,Borussia M'gladbach,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1995809,Wael Mohya,2008-12-31,17.0,Germany,,176.0,,Right,36,M,['AM'],18700000.0,EUR,2527,Borussia M'gladbach,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1019312,Jens Castrop,2003-07-29,23.0,South Korea,,177.0,,Right,17,M,"['MC', 'AM']",9300000.0,EUR,2527,Borussia M'gladbach,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1142210,Hugo Bolin,2003-07-24,23.0,Sweden,,179.0,,Right,38,M,['ML'],7800000.0,EUR,2527,Borussia M'gladbach,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+837205,Florian Neuhaus,1997-03-16,29.0,Germany,,185.0,68.0,Right,10,M,"['MC', 'DM', 'AM']",2700000.0,EUR,2527,Borussia M'gladbach,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+95381,Kevin Stöger,1993-08-27,33.0,Austria,,175.0,70.0,Left,7,M,"['AM', 'MC']",1900000.0,EUR,2527,Borussia M'gladbach,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+280453,Franck Honorat,1996-08-11,30.0,France,,180.0,70.0,Right,9,M,"['RW', 'MR']",6500000.0,EUR,2527,Borussia M'gladbach,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+876858,Robin Hack,1998-08-27,28.0,Germany,,176.0,69.0,Right,25,M,['LW'],6500000.0,EUR,2527,Borussia M'gladbach,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1009161,Enzo Leopold,2000-07-21,26.0,Germany,,174.0,,Right,8,M,"['MC', 'DM']",4200000.0,EUR,2527,Borussia M'gladbach,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1184035,Zento Uno,2003-11-20,22.0,Japan,,176.0,72.0,Right,47,M,"['MC', 'DM']",970000.0,EUR,2527,Borussia M'gladbach,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1861977,Mathieu Nguefack ,2008-05-14,18.0,Germany,,175.0,,Both,34,M,,1600000.0,EUR,2527,Borussia M'gladbach,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1925476,Fritz Fleck,2007-05-30,19.0,Germany,,170.0,,Left,27,M,,280000.0,EUR,2527,Borussia M'gladbach,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+2332823,Samin Mujevic,2009-07-05,17.0,Sweden,,191.0,,Right,15,M,,,,5811,Borussia Mönchengladbach II U23,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+583806,Kevin Diks,1996-10-06,30.0,Indonesia,,186.0,84.0,Right,4,D,"['DC', 'DL']",4800000.0,EUR,2527,Borussia M'gladbach,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+790989,Ko Itakura,1997-01-27,29.0,Japan,,189.0,75.0,Right,6,D,['DC'],8400000.0,EUR,2527,Borussia M'gladbach,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1002920,Joe Scally,2002-12-31,23.0,USA,,184.0,67.0,Right,29,D,['DR'],6600000.0,EUR,2527,Borussia M'gladbach,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+897334,Daiki Hashioka,1999-05-17,27.0,Japan,,185.0,73.0,Right,14,D,"['MR', 'DR', 'DC']",1500000.0,EUR,2527,Borussia M'gladbach,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1130067,Fabio Chiarodia,2005-06-05,21.0,Italy,,186.0,,Left,2,D,['DC'],2900000.0,EUR,2527,Borussia M'gladbach,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1823942,Jan Leszczyński,2007-04-12,19.0,Poland,,191.0,,Both,5,D,['DC'],645000.0,EUR,2527,Borussia M'gladbach,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+904852,Yukhym Konoplya,1999-08-26,27.0,Ukraine,,180.0,,Right,22,D,['DR'],5400000.0,EUR,2527,Borussia M'gladbach,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+1083382,Lukas Ullrich,2004-03-16,22.0,Germany,,177.0,,Left,26,D,['DL'],6200000.0,EUR,2527,Borussia M'gladbach,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+939880,Philipp Sander,1998-02-21,28.0,Germany,,185.0,,Right,16,D,"['MC', 'DM', 'DC']",4200000.0,EUR,2527,Borussia M'gladbach,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+997178,David Herold,2003-02-20,23.0,Germany,,185.0,,Left,20,D,"['DL', 'ML']",4300000.0,EUR,2527,Borussia M'gladbach,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+800255,Lion Schweers,1996-04-01,30.0,Germany,,188.0,89.0,Both,25,D,['DC'],170000.0,EUR,5811,Borussia Mönchengladbach II U23,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+578166,Moritz Nicolas,1997-10-21,28.0,Germany,,193.0,87.0,Right,1,G,['GK'],7700000.0,EUR,2527,Borussia M'gladbach,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+94312,Daniel Batz,1991-01-12,35.0,Germany,,189.0,84.0,Right,33,G,['GK'],370000.0,EUR,2527,Borussia M'gladbach,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+972510,Jan Olschowsky,2001-11-18,24.0,Germany,,182.0,,Right,23,G,['GK'],465000.0,EUR,2527,Borussia M'gladbach,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40
+8772,Tobias Sippel,1988-03-22,38.0,Germany,,180.0,78.0,Right,21,G,['GK'],290000.0,EUR,2527,Borussia M'gladbach,GER,2026-2027,datafc_sofascore,2026-10-06 16:46:40

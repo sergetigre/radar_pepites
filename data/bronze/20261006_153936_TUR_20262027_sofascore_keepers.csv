@@ -1,0 +1,26 @@
+﻿tournament_id,season_id,player_name,player_id,team_name,team_id,saves,goalsPrevented,rating,minutesPlayed,appearances,accuratePasses,accurateLongBalls,accurateLongBallsPercentage,yellowCards,redCards,_league_id,_season,_source,_scraped_at
+52,98080,İrfan Can Eğribayat,594618,Gençlerbirliği,7802,35,3.55,8.0,540,6,134,57,49.57,0,0,TUR,2026-2027,datafc_sofascore,2026-10-06 13:39:36
+52,98080,Okan Kocuk,190179,Samsunspor,3053,24,-2.18,6.77,540,6,129,30,34.88,0,0,TUR,2026-2027,datafc_sofascore,2026-10-06 13:39:36
+52,98080,Paulo Victor,34142,Alanyaspor,6362,23,2.69,7.73,540,6,87,42,35.29,0,0,TUR,2026-2027,datafc_sofascore,2026-10-06 13:39:36
+52,98080,André Onana,787498,Trabzonspor,3051,22,3.97,7.75,540,6,202,40,34.19,2,0,TUR,2026-2027,datafc_sofascore,2026-10-06 13:39:36
+52,98080,Yahia Fofana,877977,Çaykur Rizespor,3064,22,-0.78,7.7,540,6,140,51,48.11,0,0,TUR,2026-2027,datafc_sofascore,2026-10-06 13:39:36
+52,98080,Marcos Felipe,358524,Çorum FK,77629,22,-3.34,6.72,540,6,172,30,40.0,0,0,TUR,2026-2027,datafc_sofascore,2026-10-06 13:39:36
+52,98080,Serhat Öztaşdelen,1102775,Kocaelispor,3065,19,2.77,7.37,540,6,107,39,30.23,0,0,TUR,2026-2027,datafc_sofascore,2026-10-06 13:39:36
+52,98080,Andreas Gianniotis,236746,Kasımpaşa,6063,17,0.0,7.1,540,6,168,47,39.17,0,0,TUR,2026-2027,datafc_sofascore,2026-10-06 13:39:36
+52,98080,Alban Lafont,826201,Amed Sportif Faaliyetler,207011,17,-1.31,6.77,540,6,142,25,36.23,2,0,TUR,2026-2027,datafc_sofascore,2026-10-06 13:39:36
+52,98080,Ederson,254491,Fenerbahçe,3052,16,1.18,7.44,450,5,123,29,42.03,1,0,TUR,2026-2027,datafc_sofascore,2026-10-06 13:39:36
+52,98080,Horațiu Moldovan,857065,Eyüpspor,7040,16,-2.44,6.32,495,6,149,26,28.89,0,0,TUR,2026-2027,datafc_sofascore,2026-10-06 13:39:36
+52,98080,Muhammed Şengezer,827418,Başakşehir FK,3086,13,0.66,7.25,360,4,153,33,44.0,0,0,TUR,2026-2027,datafc_sofascore,2026-10-06 13:39:36
+52,98080,Kacper Tobiasz,1083777,Gaziantep FK,5138,13,0.49,7.12,540,6,123,59,46.09,0,0,TUR,2026-2027,datafc_sofascore,2026-10-06 13:39:36
+52,98080,Bahadır Han Güngördü,807289,Konyaspor,3085,12,0.54,7.55,338,4,103,39,49.37,0,0,TUR,2026-2027,datafc_sofascore,2026-10-06 13:39:36
+52,98080,Deniz Ertaş,1195772,Konyaspor,3085,12,-1.37,6.53,202,3,69,25,49.02,0,0,TUR,2026-2027,datafc_sofascore,2026-10-06 13:39:36
+52,98080,Ertuğrul Taşkıran,105974,Erzurumspor FK,55603,10,-0.54,7.05,360,4,77,28,31.82,0,0,TUR,2026-2027,datafc_sofascore,2026-10-06 13:39:36
+52,98080,Alexander Nübel,584722,Beşiktaş JK,3050,10,-2.99,6.63,540,6,166,22,44.0,0,0,TUR,2026-2027,datafc_sofascore,2026-10-06 13:39:36
+52,98080,Luka Gugeshashvili,827472,Göztepe,3054,9,-3.77,6.13,315,4,40,32,28.57,0,0,TUR,2026-2027,datafc_sofascore,2026-10-06 13:39:36
+52,98080,Uğurcan Çakır,754330,Galatasaray,3061,8,-2.52,6.92,450,5,143,20,50.0,0,0,TUR,2026-2027,datafc_sofascore,2026-10-06 13:39:36
+52,98080,Arda Özçimen,964196,Göztepe,3054,6,-0.35,6.57,225,3,25,22,32.35,0,0,TUR,2026-2027,datafc_sofascore,2026-10-06 13:39:36
+52,98080,Deniz Dilmen,1065508,Başakşehir FK,3086,5,-0.94,6.9,180,2,64,22,42.31,0,0,TUR,2026-2027,datafc_sofascore,2026-10-06 13:39:36
+52,98080,Emre Bilgin,1050730,Eyüpspor,7040,3,-0.7,5.9,45,1,11,1,33.33,0,0,TUR,2026-2027,datafc_sofascore,2026-10-06 13:39:36
+52,98080,Jankat Yılmaz,1210422,Galatasaray,3061,2,-0.24,6.2,90,1,20,7,28.0,0,0,TUR,2026-2027,datafc_sofascore,2026-10-06 13:39:36
+52,98080,Matija Orbanić,909010,Erzurumspor FK,55603,2,-1.54,5.75,180,2,47,9,42.86,0,0,TUR,2026-2027,datafc_sofascore,2026-10-06 13:39:36
+52,98080,Tarık Çetin,913985,Fenerbahçe,3052,1,-0.06,6.5,90,1,23,2,66.67,0,0,TUR,2026-2027,datafc_sofascore,2026-10-06 13:39:36

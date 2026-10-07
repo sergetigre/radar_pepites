@@ -5,7 +5,7 @@ RadarPépites — Pipeline complet Bronze → Silver
 Étapes :
   [1/4] etl/extract/fbref_scraper_all.py      — FBref Big 5
   [2/4] etl/extract/datafc_scraper_all.py     — Sofascore 10 ligues
-  [3/4] etl/extract/datafc_players_info.py    — Profils joueurs Sofascore
+  [3/4] etl/extract/datafc_players_info_all.py — Profils joueurs Sofascore
   [4/4] etl/transform/silver_transformer.py   — ETL Bronze → Silver
 
 Usage :
@@ -24,7 +24,7 @@ from datetime import datetime
 from pathlib import Path
 
 # ── Chemins ────────────────────────────────────────────────────────────────────
-ROOT     = Path(__file__).resolve().parent
+ROOT     = Path(__file__).resolve().parents[2]
 EXTRACT  = ROOT / "etl" / "extract"
 TRANSFORM = ROOT / "etl" / "transform"
 LOGS_DIR = ROOT / "logs"
@@ -33,7 +33,7 @@ LOGS_DIR.mkdir(parents=True, exist_ok=True)
 STEPS = [
     ("fbref",     "1/4", EXTRACT   / "fbref_scraper_all.py"),
     ("sofascore", "2/4", EXTRACT   / "datafc_scraper_all.py"),
-    ("profiles",  "3/4", EXTRACT   / "datafc_players_info.py"),
+    ("profiles",  "3/4", EXTRACT   / "datafc_players_info_all.py"),
     ("silver",    "4/4", TRANSFORM / "silver_transformer.py"),
 ]
 

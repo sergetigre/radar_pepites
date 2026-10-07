@@ -40,14 +40,19 @@ LOGS_DIR.mkdir(parents=True, exist_ok=True)
 
 load_dotenv(ROOT / "config" / ".env")
 
-# Année de référence pour le calcul is_u23 (né après 2002 → U23 en 2025/26)
-U23_BIRTH_YEAR = 2002
+# Année de référence pour le calcul is_u23 (né après 2003 → U23 en 2026/27).
+# N'affecte PAS fact_stats.est_u23 (colonne Postgres GENERATED ALWAYS AS
+# (age <= 23), calculée automatiquement depuis l'âge réel par saison — le
+# vrai flag U23 utilisé par l'app) : ce champ-ci n'alimente que le is_u23
+# cru de silver.players_combined, non consommé en aval.
+U23_BIRTH_YEAR = 2003
 
 SAISON_MAP = {
     "2022-2023": "22/23",
     "2023-2024": "23/24",
     "2024-2025": "24/25",
     "2025-2026": "25/26",
+    "2026-2027": "26/27",
 }
 
 STAT_TYPES_FIELD  = ["standard", "shooting", "playing_time", "misc"]

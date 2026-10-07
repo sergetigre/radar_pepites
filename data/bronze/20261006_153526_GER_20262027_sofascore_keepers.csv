@@ -1,0 +1,22 @@
+﻿tournament_id,season_id,player_name,player_id,team_name,team_id,saves,goalsPrevented,rating,minutesPlayed,appearances,accuratePasses,accurateLongBalls,accurateLongBallsPercentage,yellowCards,redCards,_league_id,_season,_source,_scraped_at
+35,97464,Loris Karius,174135,FC Schalke 04,2530,23,2.58,7.95,360,4,50,29,28.16,1,0,GER,2026-2027,datafc_sofascore,2026-10-06 13:35:26
+35,97464,Moritz Nicolas,578166,Borussia M'gladbach,2527,22,-1.14,6.68,360,4,89,30,43.48,0,0,GER,2026-2027,datafc_sofascore,2026-10-06 13:35:26
+35,97464,Finn Dahmen,822564,FC Augsburg,2600,21,3.65,8.13,360,4,97,25,28.74,0,0,GER,2026-2027,datafc_sofascore,2026-10-06 13:35:26
+35,97464,Noah Atubolu,980626,Eintracht Frankfurt,2674,21,0.03,7.28,360,4,75,17,28.81,0,0,GER,2026-2027,datafc_sofascore,2026-10-06 13:35:26
+35,97464,Frederik Rønnow,137692,1. FC Union Berlin,2547,18,-4.44,6.6,270,3,71,13,33.33,0,0,GER,2026-2027,datafc_sofascore,2026-10-06 13:35:26
+35,97464,Maarten Vandevoordt,934385,RB Leipzig,36360,16,0.23,7.5,360,4,110,22,47.83,0,0,GER,2026-2027,datafc_sofascore,2026-10-06 13:35:26
+35,97464,Fabian Bredlow,152463,VfB Stuttgart,2677,15,0.26,7.63,360,4,107,28,35.9,0,0,GER,2026-2027,datafc_sofascore,2026-10-06 13:35:26
+35,97464,Marvin Schwäbe,187185,1. FC Köln,2671,15,-1.7,7.05,360,4,115,35,42.68,0,0,GER,2026-2027,datafc_sofascore,2026-10-06 13:35:26
+35,97464,Nahuel Noll,1048651,SC Paderborn 07,2561,14,1.37,7.75,360,4,143,49,39.84,0,0,GER,2026-2027,datafc_sofascore,2026-10-06 13:35:26
+35,97464,Daniel Fernandes,113442,Hamburger SV,2676,13,-3.44,6.68,360,4,146,36,47.37,0,0,GER,2026-2027,datafc_sofascore,2026-10-06 13:35:26
+35,97464,Gregor Kobel,556866,Borussia Dortmund,2673,12,0.05,6.98,360,4,82,28,33.33,0,0,GER,2026-2027,datafc_sofascore,2026-10-06 13:35:26
+35,97464,Oliver Baumann,40244,TSG Hoffenheim,2569,11,-1.31,7.3,360,4,114,31,44.93,0,0,GER,2026-2027,datafc_sofascore,2026-10-06 13:35:26
+35,97464,Karl Hein,991591,SV Werder Bremen,2534,11,-1.08,7.03,360,4,97,21,42.86,0,0,GER,2026-2027,datafc_sofascore,2026-10-06 13:35:26
+35,97464,Nicolas Kristof,1131080,SV 07 Elversberg,2598,9,-0.29,7.33,360,4,155,27,34.62,1,0,GER,2026-2027,datafc_sofascore,2026-10-06 13:35:26
+35,97464,Mark Flekken,171919,Bayer 04 Leverkusen,2681,9,-0.98,6.83,360,4,95,15,40.54,0,0,GER,2026-2027,datafc_sofascore,2026-10-06 13:35:26
+35,97464,Manuel Neuer,8959,FC Bayern München,2672,6,0.95,7.53,270,3,77,23,53.49,0,0,GER,2026-2027,datafc_sofascore,2026-10-06 13:35:26
+35,97464,Mio Backhaus,1083390,SC Freiburg,2538,6,-0.18,6.88,360,4,109,28,45.9,1,0,GER,2026-2027,datafc_sofascore,2026-10-06 13:35:26
+35,97464,Alexander Schwolow,134778,1. FSV Mainz 05,2556,5,0.46,7.45,180,2,34,15,35.71,1,0,GER,2026-2027,datafc_sofascore,2026-10-06 13:35:26
+35,97464,Robin Zentner,174345,1. FSV Mainz 05,2556,2,-0.28,6.75,180,2,43,11,42.31,0,0,GER,2026-2027,datafc_sofascore,2026-10-06 13:35:26
+35,97464,Jonas Urbig,1130647,FC Bayern München,2672,0,-0.12,6.9,90,1,37,9,64.29,0,0,GER,2026-2027,datafc_sofascore,2026-10-06 13:35:26
+35,97464,Matheo Raab,842718,1. FC Union Berlin,2547,0,-1.25,5.2,90,1,17,1,6.67,0,0,GER,2026-2027,datafc_sofascore,2026-10-06 13:35:26

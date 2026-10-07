@@ -1,0 +1,395 @@
+﻿league,season,team,player,nation,pos,age,born,90s,Performance_CrdY,Performance_CrdR,Performance_2CrdY,Performance_Fls,Performance_Fld,Performance_Off,Performance_Crs,Performance_Int,Performance_TklW,Performance_PKwon,Performance_PKcon,Performance_OG,_league_id,_season,_stat_type,_source,_scraped_at
+FRA-Ligue 1,2627,Angers,Amine El Ouazzani,MAR,FW,25-083,2001,4.2,0,0,0,5,7,1,0,1,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Angers,Amine Sbai,MAR,MF,25-335,2000,4.7,0,0,0,3,8,1,22,2,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Angers,Anthony Bermont,FRA,MF,21-238,2005,1.9,1,0,0,5,4,2,1,2,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Angers,Anthony Lopes,POR,GK,36-005,1990,5.0,0,0,0,0,0,0,0,0,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Angers,Bane Diatta,FRA,MF,18-101,2008,1.4,0,0,0,0,5,0,1,1,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Angers,Branco van den Boomen,NED,MF,31-077,1995,5.0,1,0,0,3,3,0,50,1,6,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Angers,Carlens Arcus,HAI,DF,30-100,1996,3.6,0,0,0,2,0,0,11,4,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Angers,Haris Belkebla,ALG,MF,32-251,1994,0.2,0,0,0,1,1,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Angers,Harouna Djibirin,CMR,FW,19-335,2006,1.1,0,0,0,2,3,1,5,2,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Angers,Jacques Ekomie,GAB,DF,23-048,2003,1.0,0,0,0,2,0,0,3,2,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Angers,Jim Allevinah,GAB,MF,31-221,1995,4.0,1,0,0,5,11,1,15,2,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Angers,Jordan Lefort,MTN,DF,33-058,1993,5.0,1,0,0,8,5,0,7,6,2,,,1,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Angers,Joseph Kalulu,FRA,DF,21-311,2004,4.0,1,0,0,2,5,0,10,4,6,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Angers,Lilian Raolisoa,FRA,DF,26-112,2000,1.3,0,0,0,0,2,0,10,7,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Angers,Louis Mouton,FRA,MF,24-125,2002,0.0,0,0,0,0,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Angers,Marius Louer,FRA,MF,19-209,2007,0.0,0,0,0,0,0,0,0,1,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Angers,Ousmane Camara,MLI,DF,23-214,2003,5.0,1,0,0,2,1,0,0,7,5,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Angers,Prosper Peter,NGA,FW,19-058,2007,1.8,1,0,0,2,7,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Angers,Usman Simbakoli,FRA,FW,25-170,2001,0.8,1,0,0,5,3,0,1,1,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Angers,Yassin Belkhdim,FRA,MF,24-234,2002,4.9,1,0,0,7,4,0,8,9,7,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Auxerre,Aristide Zossou,CIV,FW,21-114,2005,1.3,0,0,0,2,0,0,5,1,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Auxerre,Arthur Piedfort,BEL,MF,21-247,2005,4.2,1,0,0,4,3,0,7,8,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Auxerre,Axel Tuanzebe,COD,DF,28-326,1997,2.0,0,0,0,3,2,0,0,2,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Auxerre,Cameron Archer,ENG,FW,25-077,2001,2.8,0,0,0,5,1,2,1,1,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Auxerre,Christ Makosso,CGO,DF,22-150,2004,3.4,1,1,0,4,1,0,3,9,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Auxerre,Clément Akpa,CIV,DF,24-316,2001,5.0,1,0,0,7,8,0,4,6,5,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Auxerre,Danny Loader,CMR,"FW,MF",26-039,2000,4.5,0,0,0,5,5,1,4,1,8,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Auxerre,Elikya Legros,FRA,DF,18-122,2008,1.6,1,0,0,3,0,0,0,3,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Auxerre,Fredrik Oppegard,NOR,MF,24-060,2002,2.3,0,0,0,3,1,0,2,4,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Auxerre,Josué Casimir,HAI,"FW,MF",25-012,2001,0.3,0,0,0,1,0,1,1,0,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Auxerre,Kévin Danois,FRA,MF,22-100,2004,5.0,1,0,0,10,8,0,6,5,9,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Auxerre,Lamfia Dioubaté,FRA,MF,19-078,2007,0.4,1,0,0,1,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Auxerre,Lamine Sy,SEN,"DF,MF",24-057,2002,5.0,0,0,0,9,2,0,16,7,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Auxerre,Lasso Coulibaly,CIV,MF,23-352,2002,0.2,0,0,0,0,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Auxerre,Mamadou Diop,MTN,GK,26-276,2000,5.0,0,0,0,0,0,0,0,1,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Auxerre,Naouirou Ahamada,FRA,MF,24-191,2002,3.2,0,0,0,0,2,0,5,1,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Auxerre,Pierre Ekwah Elimby,FRA,MF,24-264,2002,0.4,0,0,0,1,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Auxerre,Rayan Kwedi Mandengue,CMR,FW,20-273,2006,0.6,1,0,0,7,2,0,2,2,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Auxerre,Romain Faivre,FRA,FW,28-084,1998,2.4,0,0,0,2,2,2,12,0,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Auxerre,Rémy Labeau Lascary,GLP,"FW,MF",23-217,2003,2.7,0,0,0,3,2,2,1,3,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Auxerre,Sinaly Diomande,CIV,DF,25-180,2001,2.0,1,0,0,3,3,0,0,4,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Auxerre,Theo Bair,CAN,FW,27-040,1999,0.2,0,0,0,0,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Brest,Axel Camblan,FRA,FW,23-037,2003,0.2,0,0,0,0,0,0,2,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Brest,Bradley Locko,FRA,DF,24-153,2002,5.0,1,0,0,3,10,0,15,7,11,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Brest,Djylian N'Guessan,FRA,FW,18-037,2008,0.3,0,0,0,2,1,0,0,0,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Brest,Egil Selvik,NOR,GK,29-068,1997,5.0,0,0,0,0,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Brest,Gautier Lloris,FRA,DF,31-080,1995,3.8,0,0,0,1,3,0,0,9,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Brest,Giovani Versini,FRA,MF,22-202,2004,1.6,0,0,0,3,3,0,10,2,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Brest,Hugo Magnetti,FRA,MF,28-129,1998,3.0,0,0,0,3,4,0,2,7,7,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Brest,Joris Chotard,FRA,MF,25-012,2001,4.8,0,0,0,6,2,0,33,9,5,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Brest,Joseph Nonge,BEL,MF,21-144,2005,1.4,0,0,0,2,3,0,2,2,4,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Brest,Justin Bourgault,FRA,FW,21-022,2005,0.0,0,0,0,0,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Brest,Kamory Doumbia,MLI,MF,23-230,2003,4.5,2,0,0,6,10,1,0,5,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Brest,Kenny Lala,MTQ,DF,35-003,1991,4.2,1,0,0,2,5,0,18,2,4,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Brest,Lucas Tousart,FRA,DF,29-160,1997,1.6,0,0,0,2,2,0,0,2,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Brest,Luck Zogbé,CIV,DF,21-196,2005,0.8,0,0,0,2,1,0,3,4,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Brest,Ludovic Ajorque,FRA,FW,32-223,1994,4.9,1,0,0,13,9,4,2,0,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Brest,Mama Samba Baldé,GNB,MF,30-334,1995,1.5,0,0,0,2,4,0,4,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Brest,Mamady Diambou,MLI,MF,23-329,2002,1.1,0,0,0,3,1,0,0,0,6,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Brest,Mathis Lainé,FRA,DF,19-190,2007,0.2,0,0,0,0,4,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Brest,Noah Edjouma,FRA,FW,21-002,2005,0.3,0,0,0,0,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Brest,Pathé Mboup,SEN,MF,22-352,2003,4.4,1,0,0,20,7,4,4,4,5,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Brest,Raphael Le Guen,FRA,DF,20-035,2006,5.0,0,0,0,2,1,0,0,4,4,,,1,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Brest,Romain Del Castillo,FRA,MF,30-191,1996,1.5,0,0,0,3,1,2,14,2,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Havre,Ahmed Touba,ALG,DF,28-208,1998,4.0,1,0,0,5,0,0,0,13,5,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Havre,Amir Richardson,MAR,MF,24-255,2002,4.9,1,0,0,8,7,1,2,8,7,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Havre,Ayumu Seko,JPN,DF,26-121,2000,5.0,1,0,0,7,2,0,1,7,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Havre,Daren Mosengo,FRA,MF,20-056,2006,0.1,0,0,0,0,2,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Havre,Djibril Ouziad,FRA,"MF,DF",17-162,2009,2.5,0,0,0,3,8,0,17,5,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Havre,Elias Jelert,DEN,"MF,DF",23-116,2003,3.1,0,0,0,2,0,0,17,2,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Havre,Enzo Koffi Vinette,FRA,FW,20-216,2006,1.4,0,0,0,1,6,0,13,2,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Havre,Fodé Doucouré,MLI,MF,25-245,2001,1.1,2,0,0,3,1,0,3,4,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Havre,Gauthier Gallon,FRA,GK,33-166,1993,2.0,0,0,0,0,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Havre,Hakim Dongopandji,FRA,FW,19-227,2007,0.0,0,0,0,0,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Havre,Ismaïl Bouneb,FRA,MF,20-121,2006,0.2,0,0,0,1,0,0,4,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Havre,Josh Maja,NGA,FW,27-283,1998,3.0,0,0,0,5,4,1,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Havre,Junior Mwanga,FRA,"DF,MF",23-148,2003,2.7,0,1,0,2,1,1,1,4,4,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Havre,Kaito Mizuta,JPN,MF,26-181,2000,1.7,0,0,0,4,2,1,15,0,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Havre,Lionel Mpasi,COD,GK,32-066,1994,3.0,1,0,0,1,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Havre,Mbwana Samatta,TAN,"FW,MF",33-287,1992,4.7,0,0,0,4,4,2,3,2,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Havre,Rassoul Ndiaye,SEN,MF,24-299,2001,2.6,0,0,0,3,5,1,30,2,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Havre,Rayan Fofana,CIV,MF,20-236,2006,1.4,0,0,0,2,8,0,4,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Havre,Simon Ebonog,CMR,MF,22-051,2004,4.8,0,0,0,11,10,0,5,11,6,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Havre,Sota Nakamura,JPN,FW,23-356,2002,1.8,1,0,0,3,0,1,11,1,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Havre,Timothee Pembele,FRA,"MF,DF",24-027,2002,2.3,0,0,0,6,1,1,5,3,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Havre,Vincent Sasso,FRA,DF,35-232,1991,1.8,1,0,0,2,0,0,1,2,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Havre,Yanis Zouaoui,ALG,MF,28-163,1998,0.4,0,0,0,1,1,0,5,1,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Mans,Adil Bourabaa,ALG,MF,21-211,2005,4.4,1,0,0,6,5,0,7,5,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Mans,Alexandre Lauray,FRA,MF,29-202,1997,3.2,3,0,0,8,2,0,8,8,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Mans,Antoine Rabillard,FRA,MF,31-014,1995,1.8,0,0,0,1,3,3,3,4,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Mans,Bilal Brahimi,ALG,"FW,MF",26-206,2000,0.5,0,0,0,0,1,0,2,1,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Mans,Dame Guèye,SEN,FW,31-055,1995,3.3,0,0,0,4,1,3,3,3,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Mans,Daouda Traoré,FRA,MF,20-076,2006,0.3,0,0,0,2,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Mans,Djibril Sidibé,FRA,DF,34-069,1992,1.5,1,1,0,4,3,0,0,0,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Mans,Erwan Colas,FRA,MF,29-167,1997,0.3,0,0,0,0,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Mans,Ewan Hatfout,FRA,GK,26-188,2000,2.1,0,0,0,0,2,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Mans,Habib Diallo,SEN,FW,31-110,1995,1.3,1,0,0,4,4,0,1,1,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Mans,Harold Voyer,MTQ,DF,29-194,1997,4.0,1,0,0,4,0,0,2,6,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Mans,Jean Vercruysse,FRA,MF,26-095,2000,2.5,1,0,0,7,3,0,5,3,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Mans,Louis Mafouta,CTA,FW,32-096,1994,4.7,0,0,0,5,5,0,0,0,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Mans,Lucas Bretelle,FRA,MF,24-172,2002,2.5,0,0,0,5,7,0,2,6,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Mans,Lucas Buadés,FRA,MF,28-282,1997,2.0,0,0,0,1,8,0,7,1,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Mans,Lucas Calodat,FRA,MF,24-242,2002,3.1,0,0,0,2,2,0,11,6,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Mans,Milan Robin,FRA,MF,26-316,1999,0.1,0,0,0,0,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Mans,Nicolas Kocik,FRA,GK,28-063,1998,2.9,0,0,0,0,1,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Mans,Noa Boisse,FRA,DF,20-259,2006,3.5,2,0,0,7,1,1,1,3,5,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Mans,Rayan Bamba,FRA,"MF,DF",22-175,2004,4.0,0,0,0,6,1,1,15,6,8,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Mans,Raúl Torrente,ESP,DF,25-025,2001,0.8,0,0,0,2,0,0,0,0,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Mans,Samuel Yohou,FRA,DF,35-061,1991,2.2,0,0,0,1,1,0,0,2,4,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Mans,Théo Eyoum,FRA,DF,24-272,2002,2.0,0,0,0,2,0,0,0,2,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Mans,William Harhouz,FRA,FW,26-280,1999,0.2,0,0,0,0,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Le Mans,Yasser Larouci,ALG,MF,25-278,2001,1.7,0,0,0,1,3,0,6,2,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lens,Abdallah Sima,SEN,"FW,MF",25-111,2001,4.2,0,0,0,7,7,2,4,4,4,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lens,Amadou Haidara,MLI,MF,28-248,1998,2.2,0,0,0,1,2,0,0,3,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lens,Andrija Bulatović,MNE,MF,19-283,2006,1.9,1,0,0,3,3,0,8,4,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lens,Florian Sotoca,FRA,"FW,MF",35-346,1990,0.3,0,0,0,0,0,1,1,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lens,Florian Thauvin,FRA,MF,33-253,1993,5.0,2,0,0,3,6,1,50,3,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lens,Franjo Ivanović,CRO,MF,23-005,2003,2.0,1,0,0,4,4,1,0,2,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lens,Ismaëlo Ganiou,FRA,DF,21-206,2005,2.9,0,0,0,1,2,0,2,5,5,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lens,Jean-Clair Todibo,FRA,DF,26-280,1999,0.9,0,0,0,4,0,0,0,0,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lens,Jonathan Gradit,FRA,DF,33-316,1992,1.1,0,0,0,1,3,0,0,1,1,,,1,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lens,Junior Kadile,COD,MF,23-294,2002,0.8,0,0,0,1,0,0,1,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lens,Kyllian Antonio,FRA,DF,18-275,2008,3.0,0,0,0,1,7,0,2,3,4,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lens,Maik Nawrocki,POL,DF,25-241,2001,1.7,0,0,0,1,0,0,0,3,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lens,Matthieu Udol,FRA,"DF,MF",30-200,1996,4.3,0,0,0,4,4,0,9,5,6,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lens,Mezian Soares,POR,MF,16-332,2009,1.2,0,0,0,0,1,1,1,1,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lens,Michał Skóraś,POL,MF,26-233,2000,3.0,1,0,0,5,9,1,13,4,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lens,Mickaël Cuisance,FRA,MF,27-051,1999,3.4,1,0,0,4,1,0,2,4,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lens,Odsonne Édouard,FRA,FW,28-263,1998,1.3,0,0,0,1,1,0,1,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lens,Robin Risser,FRA,GK,21-308,2004,5.0,0,0,0,0,1,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lens,Ruben Aguilar,FRA,MF,33-163,1993,3.1,1,0,0,8,1,1,11,8,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lens,Saud Abdulhamid,KSA,MF,27-080,1999,0.7,0,0,0,1,1,0,0,2,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lens,Souleymane Sagnan,FRA,DF,21-153,2005,2.7,2,1,1,2,1,0,2,5,8,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lens,Thorgan Hazard,BEL,MF,33-191,1993,1.8,0,0,0,3,3,1,4,0,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lens,Yassine Titraoui,ALG,MF,23-072,2003,2.7,1,0,0,2,5,0,0,6,5,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lille,Alexsandro Ribeiro,BRA,DF,27-058,1999,5.0,0,0,0,4,5,0,0,3,6,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lille,Ayase Ueda,JPN,FW,28-026,1998,2.2,0,0,0,7,0,1,0,0,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lille,Basar Onal,TUR,MF,22-092,2004,2.3,0,0,0,2,5,1,5,0,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lille,Benjamin André,FRA,MF,36-064,1990,2.4,1,0,0,6,5,1,2,2,8,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lille,Berke Özer,TUR,GK,26-134,2000,5.0,0,0,0,0,3,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lille,Calvin Verdonk,IDN,DF,29-163,1997,0.8,0,0,0,1,0,0,0,0,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lille,Dilane Bakwa,FRA,MF,24-041,2002,1.9,0,0,0,2,3,0,8,2,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lille,Ethan Mbappé,FRA,MF,19-281,2006,2.9,0,0,0,2,6,0,6,1,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lille,Félix Correia,POR,MF,25-257,2001,1.0,0,0,0,2,1,2,0,3,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lille,Gaëtan Perrin,FRA,"FW,MF",30-121,1996,0.9,0,0,0,1,0,0,0,0,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lille,Hákon Haraldsson,ISL,MF,23-179,2003,4.1,1,0,0,6,6,1,6,3,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lille,Isaac Cossier,FRA,DF,19-310,2006,0.2,0,0,0,0,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lille,Maurits Kjærgaard,DEN,MF,23-102,2003,0.6,1,0,0,1,0,0,0,0,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lille,Nabil Bentaleb,ALG,MF,31-316,1994,4.6,0,0,0,2,5,0,2,4,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lille,Nathan Ngoy,BEL,DF,23-118,2003,5.0,0,0,0,5,5,0,0,7,4,,,1,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lille,Ngal'Ayel Mukau,COD,MF,21-337,2004,2.8,0,0,0,3,0,0,0,3,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lille,Olivier Giroud,FRA,FW,40-006,1986,2.8,1,0,0,1,2,4,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lille,Osame Sahraoui,MAR,MF,25-117,2001,1.1,0,0,0,0,4,0,0,2,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lille,Romain Perraud,FRA,DF,29-014,1997,4.3,2,0,0,4,4,0,10,4,4,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lille,Tiago Santos,POR,DF,24-075,2002,5.0,0,0,0,4,13,1,18,5,4,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lorient,Alec Georgen,FRA,DF,28-019,1998,0.2,0,0,0,0,0,0,1,1,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lorient,Arsène Kouassi,BFA,MF,22-025,2004,5.0,1,0,0,3,7,0,10,4,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lorient,Arthur Avom,CMR,MF,21-295,2004,3.5,1,0,0,4,4,0,4,8,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lorient,Dembo Sylla,GUI,DF,23-330,2002,4.8,0,0,0,3,8,0,8,14,4,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lorient,Gabin Bernardeau,FRA,MF,20-255,2006,3.6,0,0,0,3,8,0,14,1,4,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lorient,Ibrahima Baldé,FRA,FW,23-262,2003,1.7,0,0,0,4,1,1,0,1,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lorient,Isak Jensen,DEN,"FW,MF",22-287,2003,1.0,0,0,0,0,2,2,9,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lorient,Jean-Victor Makengo,FRA,MF,28-116,1998,4.6,1,0,0,5,16,0,2,1,5,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lorient,Mamadou Koné,CIV,FW,19-320,2006,2.8,0,0,0,7,5,0,0,2,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lorient,Montassar Talbi,TUN,DF,28-133,1998,5.0,0,0,0,1,2,0,0,5,4,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lorient,Nathaniel Adjei,GHA,DF,24-046,2002,4.8,1,0,0,3,6,0,1,12,6,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lorient,Noah Cadiou,GLP,MF,27-345,1998,4.9,0,0,0,4,5,0,1,4,6,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lorient,Noah Mbamba,BEL,MF,21-274,2005,1.6,0,0,0,3,5,0,0,3,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lorient,Nosa Edward Obaretin,ITA,DF,23-253,2003,0.2,0,0,0,1,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lorient,Panos Katseris,GRE,MF,25-093,2001,2.0,1,0,0,1,2,0,16,4,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lorient,Souleymane Faye,SEN,FW,23-240,2003,0.7,0,0,0,1,3,0,1,1,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lorient,Théo Le Bris,FRA,MF,24-005,2002,3.0,0,0,0,3,2,0,12,7,5,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lorient,Tosin Aiyegun,BEN,"FW,MF",28-102,1998,0.5,0,0,0,0,0,1,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lorient,Yvon Mvogo,SUI,GK,32-122,1994,5.0,0,0,0,0,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lyon,Abner,BRA,DF,26-132,2000,3.1,0,0,0,3,3,0,6,1,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lyon,Clinton Mata,ANG,DF,33-333,1992,1.0,0,0,0,0,3,0,0,1,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lyon,Corentin Tolisso,FRA,MF,32-064,1994,4.2,0,0,0,4,10,1,9,7,4,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lyon,Dominik Greif,SVK,GK,29-183,1997,4.0,0,0,0,0,1,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lyon,Ernest Nuamah,GHA,MF,22-339,2003,3.4,0,0,0,5,5,0,16,1,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lyon,Felix Bacher,AUT,DF,25-346,2000,4.9,1,0,0,3,3,1,1,1,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lyon,Julien Duranville,BEL,FW,20-154,2006,0.7,0,0,0,0,1,0,2,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lyon,Kaïl Boudache,FRA,"MF,FW",20-113,2006,2.2,0,0,0,2,5,3,7,1,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lyon,Keito Nakamura,JPN,"FW,MF",26-070,2000,0.3,0,0,0,0,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lyon,Khalis Merah,FRA,MF,19-224,2007,0.6,0,0,0,1,0,0,0,1,4,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lyon,Loïs Openda,BEL,FW,26-232,2000,3.7,1,0,0,4,9,4,2,0,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lyon,Mads Bidstrup,DEN,MF,25-223,2001,4.2,0,0,0,5,5,0,2,5,10,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lyon,Malick Fofana,BEL,"FW,MF",21-189,2005,0.6,0,0,0,1,2,0,7,0,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lyon,Mathys De Carvalho,FRA,MF,21-158,2005,0.8,0,0,0,0,1,0,0,0,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lyon,Mohamed Ouédraogo,BFA,DF,23-277,2003,1.0,0,0,0,2,1,0,1,4,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lyon,Moussa Niakhaté,SEN,DF,30-212,1996,4.0,1,0,0,5,2,1,1,8,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lyon,Nicolás Tagliafico,ARG,DF,34-036,1992,0.9,0,0,0,1,1,0,1,2,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lyon,Noah Nartey,DEN,MF,21-001,2005,1.3,2,0,0,3,1,0,1,1,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lyon,Pavel Šulc,CZE,MF,25-281,2000,2.9,1,0,0,4,2,0,1,0,4,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lyon,Ruben Kluivert,NED,DF,25-138,2001,0.1,0,0,0,0,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lyon,Rémi Himbert,FRA,FW,18-219,2008,0.7,0,0,0,3,1,0,0,1,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lyon,Rémy Descamps,FRA,GK,30-103,1996,1.0,0,0,0,0,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lyon,Tanner Tessmann,USA,MF,25-012,2001,0.5,1,0,0,2,1,0,0,0,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lyon,Tyler Morton,ENG,MF,23-340,2002,4.1,1,0,0,5,3,0,10,3,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Lyon,Zachary Athekame,SUI,DF,21-297,2004,5.0,1,0,0,6,6,0,21,3,5,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Marseille,Amine Gouiri,ALG,FW,26-232,2000,5.0,0,0,0,1,3,1,1,0,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Marseille,Amine Harit,MAR,MF,29-110,1997,4.6,1,0,0,1,9,1,10,6,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Marseille,Angel Gomes,ENG,MF,26-036,2000,4.1,1,0,0,6,4,0,10,3,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Marseille,CJ Egan-Riley,ENG,DF,23-277,2003,4.8,0,0,0,2,4,0,0,8,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Marseille,Derek Cornelius,CAN,"DF,FW",28-315,1997,0.3,0,0,0,1,0,0,0,1,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Marseille,Emerson Palmieri,ITA,DF,32-064,1994,4.9,0,0,0,3,7,0,17,6,4,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Marseille,Faris Pemi Moumbagna,CMR,FW,26-097,2000,0.2,0,0,0,1,0,1,1,0,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Marseille,Geoffrey Kondogbia,CTA,DF,33-233,1993,1.5,0,0,0,1,1,0,0,3,5,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Marseille,Himad Abdelli,ALG,MF,26-323,1999,4.2,1,0,0,4,2,1,2,1,4,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Marseille,Igor Paixão,BRA,MF,26-100,2000,3.1,1,0,0,6,6,1,9,0,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Marseille,Jeffrey De Lange,NED,GK,28-188,1998,5.0,0,0,0,0,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Marseille,Kelyann Bezahaf,FRA,DF,20-143,2006,0.1,0,0,0,0,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Marseille,Keyliane Abdallah,FRA,FW,20-184,2006,1.4,1,0,0,3,2,0,13,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Marseille,Nayef Aguerd,MAR,DF,30-190,1996,3.3,1,0,0,2,0,0,0,3,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Marseille,Neal Maupay,FRA,FW,30-053,1996,1.3,0,0,0,0,1,0,2,1,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Marseille,Pierre Højbjerg,DEN,MF,31-062,1995,5.0,0,0,0,6,2,0,3,9,7,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Marseille,Quinten Timber,NED,MF,25-111,2001,0.5,0,0,0,2,1,0,3,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Marseille,Tadjidine Mmadi,FRA,FW,19-217,2007,0.2,0,0,0,1,1,0,3,1,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Marseille,Timothy Weah,USA,DF,26-226,2000,4.8,3,1,1,8,5,0,8,2,5,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Marseille,Tochukwu Nnadi,NGA,MF,23-098,2003,0.4,0,0,0,0,1,0,0,0,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Marseille,Ulisses Garcia,SUI,"DF,MF",30-268,1996,0.1,0,0,0,0,0,0,3,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Monaco,Aleksandr Golovin,RUS,MF,30-129,1996,4.8,2,0,0,5,2,0,15,2,4,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Monaco,Anis Soubeir,FRA,MF,19-129,2007,0.9,0,0,0,2,1,0,0,2,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Monaco,Christian Mawissa,FRA,DF,21-171,2005,0.0,0,0,0,0,0,0,0,1,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Monaco,Denis Zakaria,SUI,MF,29-320,1996,4.8,1,0,0,6,3,1,2,4,5,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Monaco,Edan Diop,FRA,MF,22-039,2004,0.7,0,0,0,0,0,0,0,1,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Monaco,Eric Dier,ENG,DF,32-264,1994,5.0,0,0,0,4,0,0,0,4,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Monaco,Flávio Nazinho,POR,DF,23-078,2003,4.9,1,0,0,6,4,0,16,9,5,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Monaco,Folarin Balogun,USA,FW,25-095,2001,0.2,0,0,0,1,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Monaco,Ilane Touré,FRA,MF,20-063,2006,0.1,0,0,0,0,0,0,0,1,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Monaco,Jordan Teze,NED,"DF,MF",27-006,1999,0.4,1,0,0,0,0,0,0,1,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Monaco,Lamine Camara,SEN,MF,22-278,2004,5.0,2,0,0,7,11,0,8,8,17,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Monaco,Lukáš Hrádecký,FIN,GK,36-316,1989,5.0,1,0,0,0,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Monaco,Mamadou Coulibaly,FRA,MF,22-168,2004,2.3,0,0,0,2,7,1,2,4,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Monaco,Mathys Detourbet,FRA,MF,19-160,2007,0.6,0,0,0,0,1,0,1,0,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Monaco,Matthis Abline,FRA,FW,23-192,2003,1.9,0,0,0,1,3,2,2,2,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Monaco,Mika Biereth,DEN,FW,23-240,2003,0.5,0,0,0,0,2,1,1,0,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Monaco,Mohammed Salisu,GHA,DF,27-172,1999,0.0,0,0,0,0,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Monaco,Oumar Konaté,CIV,FW,19-154,2007,0.1,0,0,0,1,1,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Monaco,Pape Cabral,FRA,MF,19-259,2007,0.2,0,0,0,0,1,0,0,0,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Monaco,Paris Brunner,GER,FW,20-233,2006,4.3,0,0,0,5,5,8,1,0,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Monaco,Sadibou Sané,SEN,DF,22-118,2004,5.0,0,0,0,4,3,0,1,2,4,,,1,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Monaco,Safouane Benzahra,NED,MF,18-049,2008,0.0,0,0,0,0,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Monaco,Stanis Idumbo,BEL,MF,21-099,2005,3.6,0,0,0,2,4,1,5,1,4,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Monaco,Thilo Kehrer,GER,DF,30-015,1996,0.0,0,0,0,0,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Monaco,Vanderson,BRA,DF,25-107,2001,4.5,1,0,0,9,3,0,13,10,8,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Nice,Aboulaye Camara,MTN,MF,18-238,2008,0.1,0,0,0,0,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Nice,Ali Abdi,TUN,"DF,MF",32-290,1993,0.6,0,0,0,2,0,0,1,1,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Nice,Alidu Seidu,GHA,DF,26-124,2000,0.4,0,0,0,1,0,0,0,1,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Nice,Antoine Mendy,SEN,DF,22-132,2004,1.4,0,0,0,1,2,0,0,2,4,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Nice,Axel Witsel,BEL,MF,37-267,1989,3.5,0,0,0,2,3,0,0,6,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Nice,Djelan Morana,FRA,FW,18-154,2008,0.1,0,0,0,0,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Nice,Djibril Coulibaly,FRA,MF,17-322,2008,4.8,1,0,0,10,5,0,0,4,4,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Nice,Elye Wahi,CIV,FW,23-277,2003,3.1,1,0,0,1,6,6,1,1,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Nice,Everton Pereira,FRA,MF,19-177,2007,1.2,0,0,0,3,2,0,0,1,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Nice,Gauthier Hein,FRA,MF,30-060,1996,4.3,0,0,0,3,1,1,21,1,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Nice,Hamza Koutoune,MAR,DF,20-019,2006,0.2,0,0,0,3,0,0,1,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Nice,Hicham Boudaoui,ALG,MF,27-013,1999,0.1,0,0,0,0,0,0,0,1,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Nice,Isak Jansson,SWE,"FW,MF",24-248,2002,0.3,0,0,0,0,2,0,1,0,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Nice,Jonathan Clauss,FRA,MF,34-011,1992,4.7,0,0,0,2,1,0,43,2,5,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Nice,Melvin Bard,FRA,MF,25-334,2000,1.9,0,0,0,1,2,1,5,1,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Nice,Mohamed Abdelmonem,EGY,DF,27-247,1999,3.8,1,0,0,2,2,0,2,6,6,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Nice,Mohamed Ali Cho,FRA,"FW,MF",22-260,2004,0.3,0,0,0,2,0,1,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Nice,Mohamed Amoura,ALG,MF,26-150,2000,2.1,1,0,0,3,2,0,2,1,5,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Nice,Nathan N'Goumou,CMR,"MF,FW",26-206,2000,1.7,0,0,0,0,2,3,3,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Nice,Niels Nkounkou,FRA,MF,25-339,2000,2.4,0,0,0,2,2,0,8,6,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Nice,Sofiane Diop,MAR,MF,26-119,2000,2.8,0,0,0,2,2,0,8,3,4,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Nice,Xavier Mandza Tsiendi,FRA,DF,17-183,2009,5.0,1,0,0,2,3,0,4,10,6,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Nice,Yehvann Diouf,SEN,GK,26-324,1999,5.0,0,0,0,1,1,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Nice,Youssouf Ndayishimiye,BDI,DF,27-344,1998,4.6,2,0,0,3,4,1,1,8,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Nice,Zoumana Diallo,FRA,FW,21-246,2005,0.7,1,0,0,3,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris FC,Adama Camara,MLI,"DF,MF",29-353,1996,5.0,0,0,0,5,3,1,1,3,9,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris FC,Diego Coppola,ITA,DF,22-282,2003,5.0,1,0,0,3,1,0,0,7,5,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris FC,Hamari Traoré,MLI,DF,34-252,1992,2.7,1,0,0,4,3,0,1,1,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris FC,Ilan Kebbal,ALG,MF,28-089,1998,4.5,0,0,0,8,8,1,16,2,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris FC,Jonathan Ikone,FRA,"FW,MF",28-157,1998,0.3,0,0,0,2,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris FC,Kevin Trapp,GER,GK,36-090,1990,5.0,0,0,0,0,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris FC,Lassine Sinayoko,MLI,FW,26-302,1999,4.8,1,0,0,6,9,4,1,7,6,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris FC,Luca Koleosho,ITA,MF,22-021,2004,3.2,1,0,0,7,2,1,4,2,4,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris FC,Maxime Lopez,FRA,MF,28-306,1997,4.2,1,0,0,5,1,0,3,6,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris FC,Moses Simon,NGA,MF,31-086,1995,1.5,0,0,0,1,1,0,6,2,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris FC,Moustapha Mbow,SEN,DF,26-212,2000,2.0,0,0,0,2,1,0,0,0,3,,,1,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris FC,Omar Sissoko,FRA,MF,20-049,2006,0.1,0,0,0,1,1,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris FC,Otavio Ataide,BRA,DF,24-168,2002,1.9,1,0,0,2,1,0,0,3,4,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris FC,Pablo Pagis,FRA,MF,23-281,2002,4.0,0,0,0,6,5,1,14,3,5,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris FC,Patrick Zabi,CIV,MF,20-012,2006,0.5,0,0,0,3,1,0,1,2,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris FC,Pierre Lees-Melou,FRA,MF,33-134,1993,5.0,0,0,0,5,7,0,3,7,13,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris FC,Rudy Matondo,FRA,MF,18-207,2008,1.7,1,0,0,2,1,0,0,0,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris FC,Samir Chergui,ALG,DF,27-242,1999,3.0,0,0,0,6,0,0,0,7,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris FC,Thibault De Smet,BEL,"DF,MF",28-123,1998,0.4,1,0,0,1,2,0,0,0,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris FC,Vincent Marchetti,FRA,"DF,MF",29-094,1997,0.1,0,0,0,0,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris SG,Achraf Hakimi,MAR,DF,27-336,1998,3.4,1,0,0,0,5,1,12,3,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris SG,Dro Fernández,ESP,MF,18-267,2008,0.5,1,0,0,1,1,0,0,1,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris SG,Désiré Doué,FRA,FW,21-125,2005,3.3,0,0,0,4,10,4,9,2,9,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris SG,Fabián Ruiz Peña,ESP,MF,30-186,1996,3.3,1,0,0,2,2,0,5,3,4,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris SG,Ferran Torres,ESP,FW,26-219,2000,2.8,0,0,0,0,3,2,3,2,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris SG,João Neves,POR,MF,22-009,2004,3.7,0,0,0,5,4,0,1,7,6,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris SG,Khvicha Kvaratskhelia,GEO,FW,25-236,2001,3.1,0,0,0,1,3,4,10,2,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris SG,Lucas Beraldo,BRA,MF,22-316,2003,1.1,0,0,0,0,1,0,0,0,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris SG,Lucas Digne,FRA,"DF,MF",33-078,1993,0.2,0,0,0,0,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris SG,Lucas Hernández,FRA,DF,30-234,1996,1.3,1,0,0,1,0,0,0,1,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris SG,Maghnes Akliouche,FRA,FW,24-223,2002,2.5,0,0,0,4,1,0,1,4,6,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris SG,Marquinhos,BRA,DF,32-145,1994,5.0,1,0,0,4,2,1,0,1,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris SG,Matvei Safonov,RUS,GK,27-223,1999,5.0,0,0,0,0,2,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris SG,Mika Godts,BEL,"FW,MF",21-121,2005,1.4,0,0,0,2,4,1,7,0,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris SG,Nuno Mendes,POR,DF,24-109,2002,2.0,1,0,0,2,6,0,6,0,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris SG,Ousmane Dembélé,FRA,FW,29-144,1997,2.3,0,0,0,0,0,2,17,1,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris SG,Senny Mayulu,FRA,MF,20-142,2006,0.2,0,0,0,1,0,0,1,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris SG,Vitinha,POR,MF,26-235,2000,4.8,1,0,0,2,1,0,7,5,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris SG,Warren Zaïre-Emery,FRA,"DF,MF",20-212,2006,4.2,0,0,0,2,3,0,6,1,4,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Paris SG,Willian Pacho,ECU,DF,24-355,2001,5.0,0,0,0,1,1,0,0,5,6,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Rennes,Abdelhamid Ait Boudlal,MAR,DF,20-173,2006,3.0,1,0,0,2,1,0,0,8,6,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Rennes,Adrien Thomasson,FRA,MF,32-300,1993,4.2,1,0,0,9,7,0,23,6,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Rennes,Anthony Rouault,FRA,DF,25-130,2001,2.0,0,0,0,0,0,0,0,1,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Rennes,Arnaud Nordin,FRA,MF,28-111,1998,1.0,0,0,0,2,1,0,4,1,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Rennes,Boulaye Dia,SEN,FW,29-324,1996,0.8,0,0,0,1,0,0,0,2,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Rennes,Brice Samba,FRA,GK,32-164,1994,4.0,0,0,0,0,0,0,0,0,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Rennes,Bryan Reynolds,USA,DF,25-100,2001,0.5,0,0,0,2,0,0,2,0,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Rennes,Charlie Cresswell,ENG,DF,24-050,2002,5.0,1,0,0,4,5,0,1,2,5,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Rennes,Eliezer Mayenda,ESP,MF,21-151,2005,1.1,0,0,0,1,3,0,1,1,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Rennes,Esteban Lepaul,FRA,FW,26-171,2000,4.2,1,0,0,2,3,1,0,2,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Rennes,Henrick Do Marcolino,GAB,FW,20-199,2006,0.1,0,0,0,0,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Rennes,Issa Soumaré,SEN,"MF,FW",25-361,2000,2.4,1,0,0,4,5,1,3,2,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Rennes,Ludovic Blas,FRA,MF,28-279,1997,2.4,0,0,0,4,2,1,10,2,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Rennes,Mahamadou Nagida,CMR,DF,21-100,2005,2.5,0,0,0,2,4,0,10,8,5,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Rennes,Mahdi Camara,FRA,MF,28-098,1998,3.3,0,0,0,6,5,0,4,2,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Rennes,Musa Al-Taamari,JOR,"MF,FW",29-118,1997,3.1,1,0,0,3,2,2,8,1,4,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Rennes,Nicolas Lemaître,FRA,GK,29-267,1997,1.0,0,0,0,0,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Rennes,Przemysław Frankowski,POL,DF,31-177,1995,4.5,1,0,0,11,4,0,9,6,9,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Rennes,Quentin Merlin,FRA,DF,24-143,2002,2.5,1,0,0,6,3,0,10,6,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Rennes,Sebastian Szymański,POL,MF,27-149,1999,2.5,0,0,0,1,2,0,13,2,5,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Rennes,Valentin Rongier,FRA,MF,31-303,1994,4.8,1,0,0,6,5,0,3,6,9,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Strasbourg,Abdoul Coulibaly,GER,DF,19-136,2007,0.3,0,0,0,0,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Strasbourg,Andrew Omobamidele,IRL,DF,24-105,2002,2.0,0,0,0,1,0,0,0,4,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Strasbourg,Conrad Harder,DEN,FW,21-182,2005,0.8,0,0,0,1,0,0,2,2,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Strasbourg,Dario Essugo,POR,MF,21-206,2005,1.1,0,0,0,0,7,0,0,1,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Strasbourg,Diogo Lobão,POR,MF,20-259,2006,4.3,1,0,0,8,2,1,3,4,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Strasbourg,Fabio Baldé,POR,MF,21-078,2005,0.1,0,0,0,0,0,1,1,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Strasbourg,Filip Jørgensen,DEN,GK,24-173,2002,5.0,1,0,0,0,2,0,0,0,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Strasbourg,Genesis Antwi,SWE,DF,19-148,2007,4.9,0,0,0,3,1,0,10,6,9,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Strasbourg,Gessime Yassine,MAR,"FW,MF",20-318,2005,4.8,2,0,0,10,15,0,8,4,9,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Strasbourg,Gio Reyna,USA,MF,23-327,2002,3.4,0,0,0,2,4,0,1,2,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Strasbourg,Guéla Doué,CIV,DF,23-354,2002,1.0,0,0,0,1,0,0,2,1,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Strasbourg,Ismaël Doukouré,FRA,DF,23-074,2003,2.8,0,0,0,3,3,0,0,3,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Strasbourg,Jacobo Ortega,ESP,FW,20-130,2006,3.3,0,0,0,8,2,1,3,0,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Strasbourg,Jeyland Mitchell,CRC,DF,22-007,2004,4.0,1,0,0,2,0,1,0,7,5,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Strasbourg,Joaquín Martínez Gauna,ESP,DF,23-089,2003,3.0,0,0,0,1,7,0,7,5,4,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Strasbourg,Lucas Høgsberg,DEN,DF,20-105,2006,2.0,0,0,0,2,0,0,0,1,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Strasbourg,Mateo Del Blanco,ARG,DF,22-340,2003,0.1,0,0,0,1,0,0,0,0,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Strasbourg,Pape Demba Diop,SEN,MF,23-032,2003,3.5,2,0,0,5,4,0,1,7,7,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Strasbourg,Samir El Mourabet,MAR,MF,21-000,2005,1.5,0,1,0,2,0,0,3,2,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Strasbourg,Samuel Amo-Ameyaw,ENG,MF,20-080,2006,1.6,1,0,0,5,2,0,6,2,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Strasbourg,Sebastian Nanasi,SWE,"FW,MF",24-143,2002,4.2,0,0,0,3,0,0,8,1,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Strasbourg,Sekou Mara,FRA,FW,24-068,2002,0.8,1,0,0,1,1,0,0,0,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Strasbourg,Yaya Diémé,SEN,FW,18-355,2007,0.0,0,0,0,0,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Toulouse,Alexis Vossah,FRA,MF,18-209,2008,1.7,0,0,0,2,2,0,0,3,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Toulouse,Casper Tengstedt,DEN,FW,26-127,2000,1.6,0,0,0,1,1,3,1,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Toulouse,Christ Tapé,CIV,DF,20-218,2006,4.9,1,0,0,8,3,0,9,5,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Toulouse,Cristian Cásseres Jr.,VEN,MF,26-259,2000,5.0,1,0,0,10,10,0,18,4,17,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Toulouse,Guillaume Restes,FRA,GK,21-209,2005,3.8,0,0,0,0,2,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Toulouse,Ilyas Azizi,FRA,MF,18-173,2008,2.7,0,0,0,8,5,0,7,0,5,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Toulouse,Ismail Diallo,FRA,DF,23-044,2003,1.6,0,0,0,1,3,1,4,0,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Toulouse,Jacen Russell-Rowe,CAN,FW,24-023,2002,3.8,0,0,0,5,1,1,3,1,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Toulouse,Julián Vignolo,ARG,MF,19-303,2006,1.9,0,0,0,5,3,0,8,0,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Toulouse,Mark McKenzie,USA,DF,27-223,1999,5.0,0,0,0,7,4,0,0,5,5,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Toulouse,Mathis Saka,FRA,FW,20-016,2006,0.1,0,0,0,1,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Toulouse,Mathys Niflore,FRA,GK,19-218,2007,1.2,0,0,0,0,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Toulouse,Niklas Schmidt,GER,MF,28-219,1998,2.4,2,0,0,4,0,0,9,2,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Toulouse,Niko Sigur,CAN,MF,23-027,2003,1.5,1,0,0,3,4,0,1,3,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Toulouse,Rafik Messali,FRA,DF,23-161,2003,2.7,0,0,0,7,4,0,12,5,4,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Toulouse,Rasmus Nicolaisen,DEN,DF,29-204,1997,3.0,1,0,0,4,2,0,0,4,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Toulouse,Santiago Hidalgo,ARG,"MF,FW",21-231,2005,2.3,1,0,0,5,4,1,2,1,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Toulouse,Seny Koumbassa,FRA,DF,19-108,2007,2.1,1,0,0,5,1,0,0,2,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Toulouse,Sion Oppong,SWE,FW,19-011,2007,0.9,0,0,0,0,3,1,0,0,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Toulouse,Thomas Jørgensen,DEN,MF,21-006,2005,4.9,0,0,0,5,5,1,12,4,4,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Toulouse,Yann Gboho,CIV,MF,25-265,2001,1.9,0,0,0,3,6,1,2,2,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Troyes,Adrien Monfray,FRA,DF,35-290,1990,5.0,0,0,0,1,4,0,1,8,13,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Troyes,Alexandre Phliponeau,FRA,MF,26-253,2000,0.2,0,0,0,1,1,0,0,1,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Troyes,Anis Ouzenadji,FRA,DF,19-336,2006,5.0,0,0,0,5,12,0,19,6,8,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Troyes,Antoine Mille,FRA,MF,29-053,1997,3.9,1,0,0,9,3,1,21,2,6,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Troyes,Dermane Karim,TOG,MF,22-284,2003,3.1,0,0,0,8,3,0,2,2,4,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Troyes,Hugo Picard,FRA,MF,23-150,2003,3.5,0,0,0,3,2,2,26,3,4,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Troyes,Iron Gomis,FRA,MF,26-332,1999,3.0,1,0,0,7,4,0,2,2,5,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Troyes,Junior Diaz,CIV,DF,23-075,2003,5.0,2,0,0,6,1,0,0,6,4,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Troyes,Jérémy Le Douaron,FRA,FW,28-168,1998,2.2,0,0,0,3,4,2,1,0,2,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Troyes,Kandet Diawara,GUI,"MF,FW",26-238,2000,2.4,0,0,0,2,6,3,14,1,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Troyes,Lucas Maronnier,FRA,DF,26-211,2000,2.6,0,0,0,4,3,2,11,3,6,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Troyes,Merwan Ifnaoui,FRA,"MF,FW",27-349,1998,2.6,0,0,0,1,2,0,11,1,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Troyes,Mouhamed Diop,SEN,MF,26-006,2000,4.6,1,0,0,4,4,0,0,5,6,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Troyes,Noah Donkor,FRA,DF,19-315,2006,1.7,0,0,0,3,2,0,4,2,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Troyes,Patrick Beach,AUS,GK,23-061,2003,5.0,0,0,0,0,1,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Troyes,Renaud Ripart,FRA,FW,33-206,1993,3.0,0,0,0,2,7,2,2,1,3,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Troyes,Timothée Nkada,FRA,MF,27-078,1999,1.1,0,0,0,0,1,0,2,0,1,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Troyes,Yacouba Koné,CIV,FW,19-107,2007,0.4,0,0,0,1,0,0,0,0,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50
+FRA-Ligue 1,2627,Troyes,Yvann Titi,FRA,DF,20-154,2006,0.6,0,0,0,0,1,0,4,1,0,,,0,FRA,2026-2027,misc,fbref_soccerdata,2026-10-06 13:32:50

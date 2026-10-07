@@ -1,0 +1,656 @@
+﻿player_id,player_name,date_of_birth,age,nationality,nationality_id,height,weight,preferred_foot,jersey_number,position,position_detailed,market_value,market_currency,team_id,team_name,_league_id,_season,_source,_scraped_at
+256219,Paulo Dybala,1993-11-15,32,Argentina,,177.0,73.0,Left,21,F,"['AM', 'ST']",5200000.0,EUR,2702,AS Roma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+803039,Donyell Malen,1999-01-19,27,Netherlands,,176.0,75.0,Right,14,F,"['ST', 'RW']",48000000.0,EUR,2702,AS Roma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1082406,Matías Soulé,2003-04-15,23,Argentina,,182.0,,Left,18,F,['AM'],36000000.0,EUR,2702,AS Roma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1116577,Santiago Castro,2004-09-18,22,Argentina,,178.0,76.0,Right,9,F,['ST'],29000000.0,EUR,2702,AS Roma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+555540,Lorenzo Pellegrini,1996-06-19,30,Italy,,186.0,70.0,Both,7,F,"['AM', 'MC']",8400000.0,EUR,2702,AS Roma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1923599,Antonio Arena,2009-02-10,17,Italy,,188.0,,Left,68,F,['ST'],4200000.0,EUR,2702,AS Roma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1134200,Wesley,2003-09-06,23,Brazil,,178.0,,Right,43,M,"['DR', 'ML']",43000000.0,EUR,2702,AS Roma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+974087,Manu Koné,2001-05-17,25,France,,186.0,,Right,17,M,"['MC', 'DM']",56000000.0,EUR,2702,AS Roma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1410240,Rodrigo Mora,2007-05-05,19,Portugal,,168.0,,Right,86,M,"['MC', 'AM']",40000000.0,EUR,2702,AS Roma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1175821,Niccolò Pisilli,2004-09-23,22,Italy,,180.0,,Right,61,M,"['MC', 'DM']",31000000.0,EUR,2702,AS Roma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+186855,Bryan Cristante,1995-03-03,31,Italy,,186.0,78.0,Right,4,M,"['MC', 'DM']",7700000.0,EUR,2702,AS Roma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+982778,Devyne Rensch,2003-01-18,23,Netherlands,,182.0,,Both,2,M,"['DR', 'MR']",7900000.0,EUR,2702,AS Roma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+100389,Marten de Roon,1991-03-29,35,Netherlands,,185.0,76.0,Right,15,M,"['MC', 'DM']",3100000.0,EUR,2702,AS Roma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1955992,Emanuele Lulli,2007-08-17,19,Italy,,184.0,,Right,77,M,['DR'],8600000.0,EUR,2702,AS Roma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1524408,Muhammed Bah,2007-02-24,19,Gambia,,181.0,,Right,69,M,"['MC', 'DM']",775000.0,EUR,2702,AS Roma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+831799,Nahuel Molina,1998-04-06,28,Argentina,,175.0,69.0,Right,20,D,"['DR', 'MR']",14600000.0,EUR,2702,AS Roma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+848287,Evan Ndicka,1999-08-20,27,Côte d'Ivoire,,190.0,,Left,5,D,"['DC', 'DL']",34000000.0,EUR,2702,AS Roma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+928236,Leonardo Balerdi,1999-01-26,27,Argentina,,188.0,,Right,26,D,['DC'],16399999.0,EUR,2702,AS Roma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1184855,Konstantinos Koulierakis,2003-11-28,22,Greece,,188.0,,Left,3,D,['DC'],19300000.0,EUR,2702,AS Roma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+611210,Gianluca Mancini,1996-04-17,30,Italy,,190.0,77.0,Right,23,D,"['DC', 'DR']",14600000.0,EUR,2702,AS Roma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+353130,Mario Hermoso,1995-06-18,31,Spain,,184.0,74.0,Left,22,D,"['DC', 'DL', 'DR']",6600000.0,EUR,2702,AS Roma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1384847,Daniele Ghilardi,2003-01-06,23,Italy,,189.0,,Right,87,D,"['DC', 'DR']",19700000.0,EUR,2702,AS Roma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+793986,Mile Svilar,1999-08-27,27,Serbia,,189.0,,Right,99,G,['GK'],33000000.0,EUR,2702,AS Roma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+925285,Devis Vásquez,1998-05-12,28,Colombia,,195.0,,Right,32,G,['GK'],725000.0,EUR,2702,AS Roma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+329175,Pierluigi Gollini,1995-03-18,31,Italy,,194.0,80.0,Right,95,G,['GK'],830000.0,EUR,2702,AS Roma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1652568,Giorgio De Marzi,2007-04-18,19,USA,,186.0,,Right,70,G,['GK'],93000.0,EUR,2702,AS Roma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+823984,Lautaro Martínez,1997-08-22,29,Argentina,,175.0,,Right,10,F,['ST'],80000000.0,EUR,2697,Inter,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+791702,Marcus Thuram,1997-08-06,29,France,,192.0,80.0,Right,9,F,['ST'],52000000.0,EUR,2697,Inter,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1086223,Ange-Yoan Bonny,2003-10-25,22,Côte d'Ivoire,,189.0,,Right,14,F,['ST'],34000000.0,EUR,2697,Inter,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1156616,Pio Esposito,2005-06-28,21,Italy,,189.0,,Right,94,F,['ST'],53000000.0,EUR,2697,Inter,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1401674,Richi Agbonifo,2006-01-08,20,Italy,,177.0,,Right,10,F,['MR'],580000.0,EUR,1110631,Inter U23,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+135700,Hakan Çalhanoğlu,1994-02-08,32,Türkiye,,178.0,,Right,20,M,"['DM', 'MC']",16700000.0,EUR,2697,Inter,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+363856,Nicolò Barella,1997-02-07,29,Italy,,175.0,54.0,Right,23,M,['MC'],54000000.0,EUR,2697,Inter,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+138605,Piotr Zieliński,1994-05-20,32,Poland,,180.0,75.0,Both,7,M,"['MC', 'DM']",10300000.0,EUR,2697,Inter,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+927353,Curtis Jones,2001-01-30,25,England,,185.0,,Right,21,M,"['MC', 'DM']",33000000.0,EUR,2697,Inter,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+284361,Federico Dimarco,1997-11-10,28,Italy,,174.0,75.0,Left,32,M,['ML'],48000000.0,EUR,2697,Inter,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1048889,Andy Diouf,2003-05-17,23,France,,187.0,,Left,17,M,"['MC', 'DM']",32000000.0,EUR,2697,Inter,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1091303,Petar Sučić,2003-10-25,22,Croatia,,184.0,,Right,8,M,"['MC', 'DM']",49000000.0,EUR,2697,Inter,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+37151,Henrikh Mkhitaryan,1989-01-21,37,Armenia,,178.0,75.0,Both,22,M,['MC'],2900000.0,EUR,2697,Inter,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+977679,Luís Henrique,2001-12-14,24,Brazil,,181.0,,Right,11,M,"['MR', 'LW']",24000000.0,EUR,2697,Inter,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1153957,Aleksandar Stanković,2005-08-03,21,Serbia,,187.0,,Right,5,M,"['MC', 'DM']",31000000.0,EUR,2697,Inter,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1000701,Iwo Kaczmarski,2004-04-16,22,Poland,,183.0,,Right,7,M,"['MC', 'DM']",630000.0,EUR,1110631,Inter U23,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1464644,Leonardo Bovo,2005-05-07,21,Italy,,187.0,,Right,14,M,['MC'],480000.0,EUR,1110631,Inter U23,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1910563,Matteo Venturini,2006-08-15,20,Italy,,182.0,,Right,16,M,['MC'],310000.0,EUR,1110631,Inter U23,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+383560,Manuel Akanji,1995-07-19,31,Switzerland,,187.0,85.0,Right,25,D,"['DC', 'DR']",15500000.0,EUR,2697,Inter,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+152077,John Stones,1994-05-28,32,England,,188.0,70.0,Right,6,D,['DC'],10900000.0,EUR,2697,Inter,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+826188,Alessandro Bastoni,1999-04-13,27,Italy,,190.0,81.0,Left,95,D,"['DC', 'DR']",61000000.0,EUR,2697,Inter,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+945798,Djed Spence,2000-08-09,26,England,,184.0,,Right,24,D,"['DL', 'DR']",41000000.0,EUR,2697,Inter,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+787505,Benjamin Pavard,1996-03-28,30,France,,186.0,76.0,Right,28,D,"['DC', 'DR']",12700000.0,EUR,2697,Inter,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+929199,Carlos Augusto,1999-01-07,27,Brazil,,184.0,,Left,30,D,"['ML', 'DC', 'DR']",22000000.0,EUR,2697,Inter,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+906275,Yann Bisseck,2000-11-29,25,Germany,,194.0,,Right,31,D,"['DC', 'DR']",47000000.0,EUR,2697,Inter,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1910548,Gabriele Garonetti,2006-01-01,20,Italy,,186.0,,Right,80,D,['DC'],77000.0,EUR,1110631,Inter U23,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+845291,Josep Martínez,1998-05-27,28,Spain,,191.0,,Right,1,G,['GK'],10500000.0,EUR,2697,Inter,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+308182,Ivan Provedel,1994-03-17,32,Italy,,194.0,72.0,Right,49,G,['GK'],2800000.0,EUR,2697,Inter,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+301162,Raffaele Di Gennaro,1993-10-03,33,Italy,,188.0,80.0,Right,12,G,['GK'],325000.0,EUR,2697,Inter,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+293581,Mattia Zaccagni,1995-06-16,31,Italy,,176.0,68.0,Right,10,F,['LW'],6800000.0,EUR,2699,Lazio,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+804909,Albert Guðmundsson,1997-06-15,29,Iceland,,178.0,75.0,Right,80,F,"['ST', 'AM']",10900000.0,EUR,2699,Lazio,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+976381,Gustav Isaksen,2001-04-19,25,Denmark,,181.0,,Left,11,F,['RW'],16399999.0,EUR,2699,Lazio,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+826198,Andrea Pinamonti,1999-05-19,27,Italy,,185.0,72.0,Right,9,F,['ST'],15500000.0,EUR,2699,Lazio,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1017649,Matteo Cancellieri,2002-02-12,24,Italy,,185.0,,Left,22,F,['RW'],7200000.0,EUR,2699,Lazio,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1069244,Tijjani Noslin,1999-07-07,27,Netherlands,,177.0,,Right,14,F,"['RW', 'ST']",7200000.0,EUR,2699,Lazio,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1154880,Flavio Sulejmani,2006-03-20,20,Albania,,,,Right,9,F,['ST'],740000.0,EUR,826821,Lazio U20,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1525567,Federico Serra,2006-01-03,20,Italy,,184.0,,Right,63,F,['ST'],410000.0,EUR,2699,Lazio,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2072659,Tommaso Montano,2007-09-20,19,Italy,,,,Left,21,F,,,,826821,Lazio U20,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+835600,Davide Frattesi,1999-09-22,27,Italy,,178.0,74.0,Right,16,M,['MC'],20000000.0,EUR,2699,Lazio,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+959806,Kenneth Taylor,2002-05-16,24,Netherlands,,182.0,,Left,12,M,['MC'],26000000.0,EUR,2699,Lazio,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1389689,Reda Belahyane,2004-06-01,22,Morocco,,173.0,53.0,Right,21,M,"['MC', 'DM']",6600000.0,EUR,2699,Lazio,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+910121,Fisayo Dele-Bashiru,2001-02-06,25,Nigeria,,186.0,,Right,7,M,"['AM', 'MC']",6500000.0,EUR,2699,Lazio,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+937324,Nicolò Rovella,2001-12-04,24,Italy,,179.0,,Both,6,M,"['MC', 'DM']",25000000.0,EUR,2699,Lazio,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1100354,Romano Floriani Mussolini,2003-01-27,23,Italy,,188.0,,Right,15,M,"['MR', 'DR']",2600000.0,EUR,2699,Lazio,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1466806,Adrian Przyborek,2007-01-01,19,Poland,,184.0,,Right,28,M,"['AM', 'RW']",6200000.0,EUR,2699,Lazio,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+317301,Danilo Cataldi,1994-08-06,32,Italy,,180.0,70.0,Right,32,M,"['MC', 'DM']",3700000.0,EUR,2699,Lazio,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2216006,Bruno Galassi,2007-02-08,19,Argentina,,184.0,,Right,8,M,,92000.0,EUR,2699,Lazio,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1547464,Valerio Farcomeni,2006-01-18,20,Italy,,176.0,,Right,71,M,['MC'],92000.0,EUR,2699,Lazio,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2052539,Mattia Santagostino Baldi,2007-05-29,19,Italy,,178.0,,Right,6,M,['MC'],24000.0,EUR,826821,Lazio U20,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1881181,Giorgio Canali,2007-12-25,18,Italy,,177.0,,Right,19,M,['ML'],,,826821,Lazio U20,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2045965,Francesco Gatto,2007-06-04,19,Italy,,172.0,,Left,16,M,,46000.0,EUR,826821,Lazio U20,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1940781,Matteo Morelli,2009-03-20,17,Italy,,,,Right,26,M,,,,1089712,Lazio U17,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+944973,Nuno Tavares,2000-01-26,26,Portugal,,185.0,,Left,17,D,"['DL', 'ML']",12600000.0,EUR,2699,Lazio,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+954836,Josip Šutalo,2000-02-28,26,Croatia,,190.0,,Right,37,D,['DC'],13100000.0,EUR,2699,Lazio,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+826186,Luca Pellegrini,1999-03-07,27,Italy,,178.0,72.0,Left,3,D,['DL'],2900000.0,EUR,2699,Lazio,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+556960,Mohamed Fares,1996-02-15,30,Algeria,,183.0,75.0,Left,93,D,"['ML', 'DL']",515000.0,EUR,2699,Lazio,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+830803,Danilho Doekhi,1998-06-30,28,Netherlands,,190.0,,Right,5,D,"['DC', 'DR']",13900000.0,EUR,2699,Lazio,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+267619,Adam Marušić,1992-10-17,33,Montenegro,,185.0,81.0,Right,77,D,['DR'],2700000.0,EUR,2699,Lazio,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+855663,Diogo Leite,1999-01-23,27,Portugal,,188.0,80.0,Left,2,D,"['DC', 'DL', 'DR']",11600000.0,EUR,2699,Lazio,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1160559,Oliver Provstgaard,2003-06-04,23,Denmark,,194.0,,Left,25,D,"['DC', 'DL']",21000000.0,EUR,2699,Lazio,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+273405,Manuel Lazzari,1993-11-29,32,Italy,,173.0,67.0,Right,29,D,['DR'],2200000.0,EUR,2699,Lazio,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+797290,Alfonso Pedraza,1996-04-09,30,Spain,,184.0,73.0,Left,23,D,['DL'],2400000.0,EUR,2699,Lazio,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1470920,Filipe Bordon,2005-06-24,21,Brazil,,193.0,,Right,33,D,['DC'],730000.0,EUR,2699,Lazio,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2030204,Ricardo Bordon,2006-11-02,19,Brazil,,194.0,,Right,33,D,['DC'],205000.0,EUR,2699,Lazio,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2013577,Federico Ciucci,2008-09-15,18,Italy,,190.0,,Right,4,D,"['DC', 'DR']",,,826821,Lazio U20,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+913762,Christos Mandas,2001-09-17,25,Greece,,189.0,75.0,Right,35,G,['GK'],10300000.0,EUR,2699,Lazio,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1518983,Edoardo Motta,2005-01-13,21,Italy,,194.0,,Right,40,G,['GK'],8300000.0,EUR,2699,Lazio,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+984095,Alessio Furlanetto,2002-02-07,24,Italy,,191.0,,Right,55,G,['GK'],365000.0,EUR,2699,Lazio,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1472205,Davide Renzetti,2006-06-09,20,Italy,,194.0,,Right,47,G,['GK'],140000.0,EUR,2699,Lazio,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2034862,Nicolo Pannozzo,2008-03-25,18,Italy,,187.0,,Left,72,G,['GK'],,,826821,Lazio U20,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+970928,Daniel Maldini,2001-10-11,24,Italy,,187.0,,Right,70,F,"['AM', 'ST']",9600000.0,EUR,2719,Cagliari,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2049928,Paul Mendy,2007-01-13,19,Senegal,,196.0,,Left,31,F,['ST'],6700000.0,EUR,2719,Cagliari,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+788061,M'bala Nzola,1996-08-18,30,Angola,,185.0,,Left,18,F,['ST'],2400000.0,EUR,2719,Cagliari,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1031548,Alieu Fadera,2001-11-03,24,Gambia,,181.0,,Right,39,F,"['LW', 'ML']",4600000.0,EUR,2719,Cagliari,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1035619,Kevin Carlos Omoruyi,2001-04-10,25,Spain,,188.0,,Right,9,F,['ST'],4200000.0,EUR,2719,Cagliari,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+975811,Mattia Felici,2001-04-17,25,Italy,,180.0,,Right,17,F,['ML'],2600000.0,EUR,2719,Cagliari,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1615784,Yael Trepy,2006-01-01,20,France,,191.0,,Left,19,F,['ST'],1900000.0,EUR,2719,Cagliari,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1861673,Alessandro Sugamele,2007-02-22,19,Italy,,185.0,,Left,35,F,['ST'],97000.0,EUR,2719,Cagliari,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1384651,Yanis Massolin,2002-09-20,24,France,,197.0,,Left,79,M,['MC'],4300000.0,EUR,2719,Cagliari,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1417034,Alessandro Romano,2006-06-17,20,Italy,,180.0,,Left,4,M,"['MC', 'DM']",14600000.0,EUR,2719,Cagliari,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+545780,Harry Winks,1996-02-02,30,England,,178.0,,Right,6,M,"['MC', 'DM']",2300000.0,EUR,2719,Cagliari,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1012179,Jacopo Fazzini,2003-03-16,23,Italy,,178.0,,Right,10,M,"['MC', 'AM']",8199999.0,EUR,2719,Cagliari,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+928777,Michel Adopo,2000-07-19,26,France,,187.0,,Right,8,M,['MC'],6800000.0,EUR,2719,Cagliari,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1910527,Joseph Liteta,2006-02-22,20,Zambia,,175.0,,Right,27,M,"['MC', 'DM']",3800000.0,EUR,2719,Cagliari,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+287057,Roberto Gagliardini,1994-04-07,32,Italy,,188.0,77.0,Right,21,M,"['MC', 'DM']",1200000.0,EUR,2719,Cagliari,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+328109,Alessandro Deiola,1995-08-01,31,Italy,,189.0,66.0,Right,14,M,['MC'],1400000.0,EUR,2719,Cagliari,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1019953,Riccardo Ciervo,2002-04-01,24,Italy,,190.0,,Right,20,M,['MR'],1900000.0,EUR,2719,Cagliari,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1151647,Ivan Sulev,2006-01-01,20,Bulgaria,,180.0,,Right,32,M,['MC'],205000.0,EUR,2719,Cagliari,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1899742,Demi Akarakiri,2008-09-16,18,England,,190.0,,Right,30,M,['MC'],,,2719,Cagliari,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+928889,Giuseppe Aurelio,2000-03-22,26,Italy,,185.0,,Left,24,M,"['ML', 'DL']",860000.0,EUR,2719,Cagliari,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+360396,Yerry Mina,1994-09-23,32,Colombia,,195.0,72.0,Right,26,D,['DC'],2300000.0,EUR,2719,Cagliari,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+905347,Yukinari Sugawara,2000-06-28,26,Japan,,179.0,,Right,28,D,"['DR', 'MR']",5000000.0,EUR,2719,Cagliari,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1485391,Juan Rodríguez,2005-05-30,21,Uruguay,,190.0,,Left,15,D,['DC'],13200000.0,EUR,2719,Cagliari,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+964153,Adam Obert,2002-08-23,24,Slovakia,,186.0,,Left,33,D,"['DL', 'DC']",8199999.0,EUR,2719,Cagliari,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+945448,Zé Pedro,1997-06-06,29,Portugal,,187.0,73.0,Right,2,D,"['DC', 'DR']",3200000.0,EUR,2719,Cagliari,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1123175,Riyad Idrissi,2005-06-13,21,Italy,,182.0,,Left,3,D,['DL'],4099999.0,EUR,2719,Cagliari,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1392774,Raphael Kofler,2005-04-26,21,Italy,,193.0,,Right,22,D,"['DC', 'DR']",5300000.0,EUR,2719,Cagliari,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1798927,Nicola Grandu,2006-07-15,20,Italy,,181.0,,Right,36,D,['DR'],280000.0,EUR,2719,Cagliari,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+947954,Elia Caprile,2001-08-25,25,Italy,,191.0,,Right,1,G,['GK'],14100000.0,EUR,2719,Cagliari,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+363380,Alen Sherri,1997-12-15,28,Albania,,196.0,,Left,12,G,['GK'],775000.0,EUR,2719,Cagliari,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+795926,Boris Radunović,1996-05-26,30,Serbia,,193.0,,Right,23,G,['GK'],485000.0,EUR,2719,Cagliari,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+817957,Christian Pulišić,1998-09-18,28,USA,,177.0,,Right,11,F,"['RW', 'LW', 'AM', 'ST']",38000000.0,EUR,2692,AC Milan,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+934510,Gonçalo Ramos,2001-06-20,25,Portugal,,185.0,,Right,9,F,['ST'],46000000.0,EUR,2692,AC Milan,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1520771,Francesco Camarda,2008-03-10,18,Italy,,189.0,81.0,Right,73,F,['ST'],15500000.0,EUR,2692,AC Milan,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1169409,Alphadjo Cissè,2006-10-22,19,Italy,,181.0,,Right,70,F,"['MC', 'AM']",21000000.0,EUR,2692,AC Milan,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+15466,Luka Modrić,1985-09-09,41,Croatia,,173.0,,Right,14,M,"['MC', 'DM']",3800000.0,EUR,2692,AC Milan,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+822470,Samuel Chukwueze,1999-05-22,27,Nigeria,,172.0,,Left,21,M,['RW'],21000000.0,EUR,2692,AC Milan,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+805465,Pervis Estupiñán,1998-01-21,28,Ecuador,,175.0,69.0,Left,2,M,"['DL', 'ML']",11100000.0,EUR,2692,AC Milan,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+250737,Adrien Rabiot,1995-04-03,31,France,,191.0,,Left,12,M,"['MC', 'AM', 'DM']",17300000.0,EUR,2692,AC Milan,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1142233,Diego Moreira,2004-08-06,22,Belgium,,179.0,,Left,22,M,"['ML', 'RW']",44000000.0,EUR,2692,AC Milan,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+901891,Alexis Saelemaekers,1999-06-27,27,Belgium,,180.0,,Right,56,M,"['MR', 'LW']",18700000.0,EUR,2692,AC Milan,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+284441,Ruben Loftus-Cheek,1996-01-23,30,England,,191.0,88.0,Right,8,M,"['MC', 'AM']",9000000.0,EUR,2692,AC Milan,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1390489,Davide Bartesaghi,2005-12-29,20,Italy,,193.0,,Left,33,M,"['DL', 'ML', 'DC']",20000000.0,EUR,2692,AC Milan,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1034082,Ardon Jashari,2002-07-30,24,Switzerland,,180.0,,Left,30,M,"['MC', 'DM']",21000000.0,EUR,2692,AC Milan,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1090963,Omari Hutchinson,2003-10-29,22,England,,174.0,,Left,20,M,"['RW', 'AM']",28000000.0,EUR,2692,AC Milan,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+983815,Yunus Musah,2002-11-29,23,USA,,178.0,,Right,80,M,"['MC', 'DM']",18600000.0,EUR,2692,AC Milan,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1000366,Warren Bondo,2003-09-15,23,France,,177.0,,Right,38,M,"['MC', 'DM']",3800000.0,EUR,2692,AC Milan,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1622149,Christian Comotto,2008-04-25,18,Italy,,183.0,,Right,28,M,['MC'],5500000.0,EUR,2692,AC Milan,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+965893,Strahinja Pavlović,2001-05-24,25,Serbia,,194.0,,Left,31,D,"['DC', 'DR', 'DL']",38000000.0,EUR,2692,AC Milan,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+788255,Fikayo Tomori,1997-12-19,28,England,,185.0,75.0,Right,23,D,"['DC', 'DR']",15700000.0,EUR,2692,AC Milan,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1001828,Koni De Winter,2002-06-12,24,Belgium,,191.0,,Right,5,D,"['DC', 'DR']",24000000.0,EUR,2692,AC Milan,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+826195,Matteo Gabbia,1999-10-21,26,Italy,,185.0,78.0,Right,46,D,['DC'],17500000.0,EUR,2692,AC Milan,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+965828,Mario Gila,2000-08-29,26,Spain,,185.0,,Right,34,D,['DC'],31000000.0,EUR,2692,AC Milan,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1034303,Filippo Terracciano,2003-02-08,23,Italy,,181.0,,Right,42,D,"['DR', 'DC', 'MR']",4600000.0,EUR,2692,AC Milan,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1983939,Valeri Ivanov Vladimirov ,2008-06-04,18,Bulgaria,,190.0,,Right,35,D,['DC'],825000.0,EUR,2692,AC Milan,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1899999,Sankhoun Diawara,2006-01-12,20,France,,188.0,,Left,13,D,['DC'],2100000.0,EUR,2692,AC Milan,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+191210,Mike Maignan,1995-07-03,31,France,,190.0,80.0,Right,16,G,['GK'],22000000.0,EUR,2692,AC Milan,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1403294,Lorenzo Torriani,2005-01-31,21,Italy,,197.0,,Right,96,G,['GK'],770000.0,EUR,2692,AC Milan,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+136856,Pietro Terracciano,1990-03-08,36,Italy,,193.0,85.0,Right,1,G,['GK'],960000.0,EUR,2692,AC Milan,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1445228,Farès Ghedjemis,2002-09-06,24,Algeria,,183.0,,Left,7,F,['RW'],6800000.0,EUR,2801,Frosinone,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+970969,Daniel Bîrligea,2000-04-19,26,Romania,,181.0,,Right,11,F,['ST'],4200000.0,EUR,2801,Frosinone,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1140001,Giorgi Kvernadze,2003-02-07,23,Georgia,,183.0,,Right,17,F,"['LW', 'ST']",7800000.0,EUR,2801,Frosinone,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1121578,Antonio Raimondo,2004-03-18,22,Italy,,185.0,,Left,9,F,['ST'],4099999.0,EUR,2801,Frosinone,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+918481,Tomáš Bobček,2001-09-08,25,Slovakia,,185.0,,Right,89,F,['ST'],10500000.0,EUR,2801,Frosinone,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1164381,Seydou Fini,2006-06-02,20,Italy,,178.0,,Left,40,F,['RW'],3400000.0,EUR,2801,Frosinone,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2228828,Alessandro Castroreale,2009-05-30,17,Italy,,184.0,,,,F,,,,170874,Frosinone U20,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+830127,Romano Schmid,2000-01-27,26,Austria,,168.0,73.0,Right,10,M,"['AM', 'MC']",16500000.0,EUR,2801,Frosinone,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+839487,Giacomo Calò,1997-05-02,29,Italy,,178.0,74.0,Right,14,M,"['MC', 'DM']",2300000.0,EUR,2801,Frosinone,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1082407,Luis Hasa,2004-01-06,22,Albania,,172.0,,Right,70,M,"['MC', 'DM']",4400000.0,EUR,2801,Frosinone,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+869888,Alessio Zerbin,1999-03-03,27,Italy,,182.0,77.0,Right,24,M,"['LW', 'MR']",2200000.0,EUR,2801,Frosinone,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+186719,Florian Grillitsch,1995-08-07,31,Austria,,187.0,,Right,27,M,"['MC', 'DM', 'DC']",2600000.0,EUR,2801,Frosinone,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1021104,Anouar El Azzouzi,2001-05-29,25,Morocco,,181.0,,Right,34,M,"['MC', 'DM', 'DC']",1600000.0,EUR,2801,Frosinone,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+970998,Patrizio Masini,2001-01-27,25,Italy,,182.0,,Right,73,M,"['MC', 'DM']",4800000.0,EUR,2801,Frosinone,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+915280,Ben Lhassine Kone,2000-03-14,26,Côte d'Ivoire,,172.0,,Left,4,M,"['MC', 'DM']",485000.0,EUR,2801,Frosinone,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1493209,Matteo Cichella,2005-10-04,21,Italy,,169.0,,Right,16,M,"['MC', 'DM']",4600000.0,EUR,2801,Frosinone,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+595900,Francesco Gelli,1996-10-15,29,Italy,,173.0,74.0,Right,96,M,['MC'],520000.0,EUR,2801,Frosinone,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1952114,Leonardo Taddei,2009-10-29,16,,,,,,,M,,,,241802,No team,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2800406,Matteo Marchetti,2009-02-15,17,Italy,,,,,,M,,,,170874,Frosinone U20,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2800413,Valerio Esposito,2009-05-26,17,Italy,,,,,,M,,,,170874,Frosinone U20,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1393731,Omar Fayed,2003-07-04,23,Egypt,,189.0,,Right,74,D,"['DC', 'DR']",560000.0,EUR,2801,Frosinone,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+876860,Aleksa Terzić,1999-08-17,27,Serbia,,184.0,,Left,71,D,['DL'],2600000.0,EUR,2801,Frosinone,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1106257,Anthony Oyono,2001-04-12,25,Gabon,,179.0,,Right,20,D,['DR'],2200000.0,EUR,2801,Frosinone,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1103548,Enzo Tchato Mbiayi,2002-11-23,23,Cameroon,,180.0,,Right,90,D,['DR'],2600000.0,EUR,2801,Frosinone,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1394498,Gabriele Bracaglia,2003-07-19,23,Italy,,185.0,,Left,79,D,"['DL', 'DC']",3600000.0,EUR,2801,Frosinone,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1009363,Ilario Monterisi,2001-12-19,24,Italy,,190.0,,Right,30,D,"['DC', 'DR']",2700000.0,EUR,2801,Frosinone,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+187423,Kevin Akpoguma,1995-04-19,31,Nigeria,,192.0,85.0,Right,25,D,"['DC', 'DR', 'DL']",1400000.0,EUR,2801,Frosinone,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1425050,Gabriele Calvani,2004-01-12,22,Italy,,184.0,,Right,3,D,"['DC', 'DR']",5500000.0,EUR,2801,Frosinone,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1118232,Wisdom Amey,2005-08-11,21,Italy,,187.0,,Right,5,D,"['DC', 'DR']",865000.0,EUR,2801,Frosinone,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1001847,Giorgio Cittadini,2002-04-18,24,Italy,,184.0,,Right,2,D,['DC'],1600000.0,EUR,2801,Frosinone,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2220269,Filippo Colafrancesco,2008-01-20,18,Italy,,,,Left,,D,,,,1168440,Frosinone U18,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2800393,Giordano Greco,2009-04-24,17,Italy,,,,,,D,,,,1168440,Frosinone U18,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2292548,Alessandro Grande,2009-01-02,17,Italy,,,,,,D,,,,241802,No team,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1134623,Lorenzo Palmisani,2004-06-12,22,Italy,,196.0,,Right,22,G,['GK'],5600000.0,EUR,2801,Frosinone,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1068715,Sebastiano Desplanches,2003-03-11,23,Italy,,188.0,,Left,91,G,['GK'],1000000.0,EUR,2801,Frosinone,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1155425,Eldin Lolic,2004-05-15,22,Bosnia & Herzegovina,,194.0,,Right,12,G,['GK'],53000.0,EUR,2801,Frosinone,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+170885,Matteo Pisseri,1991-11-21,34,Italy,,188.0,80.0,Right,12,G,['GK'],155000.0,EUR,2801,Frosinone,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2220272,Tommaso Capanna,2008-10-15,17,Italy,,,,Right,,G,,,,1168440,Frosinone U18,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1149011,Kenan Yıldız,2005-05-04,21,Türkiye,,187.0,,Both,10,F,"['LW', 'AM']",72000000.0,EUR,2687,Juventus,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+980623,Nick Woltemade,2002-02-14,24,Germany,,198.0,,Right,27,F,['ST'],54000000.0,EUR,2687,Juventus,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+871706,Randal Kolo Muani,1998-12-05,27,France,,187.0,73.0,Right,9,F,['ST'],18200000.0,EUR,2687,Juventus,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+979222,Francisco Conceição,2002-12-13,23,Portugal,,166.0,,Left,7,F,"['RW', 'AM']",28000000.0,EUR,2687,Juventus,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+161325,Arkadiusz Milik,1994-02-28,32,Poland,,186.0,78.0,Left,14,F,['ST'],1600000.0,EUR,2687,Juventus,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+887766,Edon Zhegrova,1999-03-31,27,Kosovo,,181.0,,Left,11,F,['RW'],9500000.0,EUR,2687,Juventus,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+367056,Jérémie Boga,1997-01-03,29,Côte d'Ivoire,,172.0,68.0,Right,13,F,"['LW', 'AM']",7700000.0,EUR,2687,Juventus,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1613917,Jeff Ekhator,2006-11-11,19,Italy,,188.0,,Right,18,F,['ST'],19200000.0,EUR,2687,Juventus,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2139376,Arman Durmiši,2008-06-25,18,Albania,,190.0,,Right,47,F,['ST'],1000000.0,EUR,294884,Juventus Next Gen U23,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+787634,Simone Guerra,1989-08-30,37,Italy,,178.0,70.0,Right,60,F,['ST'],120000.0,EUR,294884,Juventus Next Gen U23,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1002711,Pape Matar Sarr,2002-09-14,24,Senegal,,185.0,70.0,Right,29,M,"['MC', 'DM']",28000000.0,EUR,2687,Juventus,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+901325,Nicolás González,1998-04-06,28,Argentina,,180.0,68.0,Left,31,M,"['RW', 'LW']",23000000.0,EUR,2687,Juventus,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1425366,Kerim Alajbegović,2007-09-21,19,Bosnia & Herzegovina,,185.0,,Both,17,M,['LW'],29000000.0,EUR,2687,Juventus,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+867887,Douglas Luiz,1998-05-09,28,Brazil,,175.0,65.0,Right,12,M,"['MC', 'DM']",19200000.0,EUR,2687,Juventus,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+904832,Khéphren Thuram,2001-03-26,25,France,,191.0,,Right,19,M,"['MC', 'DM']",33000000.0,EUR,2687,Juventus,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+363860,Manuel Locatelli,1998-01-08,28,Italy,,185.0,,Right,5,M,"['DM', 'MC']",24000000.0,EUR,2687,Juventus,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+881931,Weston McKennie,1998-08-28,28,USA,,180.0,84.0,Right,22,M,"['AM', 'MC', 'MR']",31000000.0,EUR,2687,Juventus,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+803033,Teun Koopmeiners,1998-02-28,28,Netherlands,,183.0,,Left,8,M,"['AM', 'MC', 'DM']",13200000.0,EUR,2687,Juventus,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+917048,Andrea Cambiaso,2000-02-20,26,Italy,,181.0,,Both,20,M,"['DL', 'ML']",15900000.0,EUR,2687,Juventus,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1920401,Thomas Corigliano,2009-01-20,17,Italy,,178.0,,Left,52,M,['AM'],,,1089495,Juventus U17,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1521253,Grady Makiobo Makiobo,2007-05-11,19,Belgium,,187.0,,Right,49,M,['MC'],195000.0,EUR,294884,Juventus Next Gen U23,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1904247,Luca Amaradio,2005-08-15,21,Italy,,180.0,,Left,51,M,['AM'],185000.0,EUR,294884,Juventus Next Gen U23,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1989649,Davide Marchisio,2009-08-31,17,Italy,,173.0,,Right,57,M,,,,1089495,Juventus U17,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1210834,Diego Ripani,2005-09-12,21,Italy,,181.0,,Both,56,M,"['MC', 'DM']",230000.0,EUR,294884,Juventus Next Gen U23,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1989648,Alessandro Brancato,2009-08-21,17,Italy,,,,Left,55,M,,,,1089495,Juventus U17,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+885197,Gleison Bremer,1997-03-18,29,Brazil,,188.0,,Right,3,D,['DC'],33000000.0,EUR,2687,Juventus,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+965330,Pierre Kalulu,2000-06-05,26,France,,183.0,69.0,Right,15,D,"['DC', 'DR']",31000000.0,EUR,2687,Juventus,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+818481,Jhon Lucumí,1998-06-26,28,Colombia,,185.0,,Left,26,D,['DC'],23000000.0,EUR,2687,Juventus,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1128063,Federico Gatti,1998-06-24,28,Italy,,190.0,,Right,4,D,"['DC', 'DR']",13200000.0,EUR,2687,Juventus,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+988037,Juan Cabal,2001-01-08,25,Colombia,,185.0,,Left,32,D,"['DL', 'DC']",7200000.0,EUR,2687,Juventus,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+893008,Zeki Çelik,1997-02-17,29,Türkiye,,180.0,,Right,2,D,"['DR', 'MR', 'DC']",14500000.0,EUR,2687,Juventus,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+865167,Lloyd Kelly,1998-10-06,28,England,,191.0,,Left,6,D,"['DC', 'DL']",24000000.0,EUR,2687,Juventus,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+139273,Daniele Rugani,1994-07-29,32,Italy,,188.0,82.0,Right,24,D,"['DC', 'DR']",2100000.0,EUR,2687,Juventus,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1482369,Alfonso Montero,2007-02-23,19,Uruguay,,183.0,78.0,Right,53,D,['DC'],315000.0,EUR,294884,Juventus Next Gen U23,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1910423,Niccolò Rizzo,2007-07-19,19,Italy,,192.0,86.0,Right,44,D,"['DC', 'DR']",280000.0,EUR,294884,Juventus Next Gen U23,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1613596,Josue Banewa Grelaud,2007-05-02,19,Belgium,,175.0,,Left,54,D,['ML'],190000.0,EUR,294884,Juventus Next Gen U23,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1526305,Christian Corradi,2005-02-21,21,Italy,,190.0,,Right,59,D,"['DC', 'DR']",765000.0,EUR,294884,Juventus Next Gen U23,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1397793,Federico Savio,2005-06-23,21,Italy,,180.0,,Right,58,D,"['DR', 'DC', 'MR']",380000.0,EUR,294884,Juventus Next Gen U23,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+553606,Guglielmo Vicario,1996-10-07,29,Italy,,194.0,83.0,Right,25,G,['GK'],11500000.0,EUR,2687,Juventus,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+902080,Kamil Grabara,1999-01-08,27,Poland,,195.0,,Right,1,G,['GK'],11600000.0,EUR,2687,Juventus,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+84844,Neto,1989-07-19,37,Brazil,,190.0,,Right,33,G,['GK'],845000.0,EUR,2687,Juventus,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+46420,Carlo Pinsoglio,1990-03-16,36,Italy,,194.0,77.0,Left,23,G,['GK'],195000.0,EUR,2687,Juventus,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1486464,Riccardo Radu,2007-08-07,19,Romania,,188.0,,Right,40,G,['GK'],,,294884,Juventus Next Gen U23,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1923600,Stefano Mangiapoco,2004-01-27,22,Italy,,192.0,85.0,Right,61,G,['GK'],265000.0,EUR,294884,Juventus Next Gen U23,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+835601,Moise Kean,2000-02-28,26,Italy,,183.0,72.0,Right,90,F,['ST'],33000000.0,EUR,2704,Como,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+894863,Anastasios Douvikas,1999-08-02,27,Greece,,184.0,78.0,Right,9,F,['ST'],24000000.0,EUR,2704,Como,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1475557,Mattia Liberali,2007-04-06,19,Italy,,172.0,,Left,30,F,"['AM', 'RW']",10600000.0,EUR,2704,Como,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1879650,Samuele Pisati,2009-02-27,17,Italy,,182.0,,Right,58,F,,,,2704,Como,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1171451,Nico Paz,2004-09-08,22,Argentina,,185.0,,Left,10,M,['AM'],86000000.0,EUR,2704,Como,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1493689,Assane Diao,2005-09-07,21,Senegal,,185.0,,Right,11,M,"['RW', 'LW']",36000000.0,EUR,2704,Como,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1090019,Martin Baturina,2003-02-16,23,Croatia,,178.0,,Right,20,M,"['AM', 'LW']",51000000.0,EUR,2704,Como,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1086286,Máximo Perrone,2003-01-07,23,Argentina,,178.0,,Left,5,M,"['MC', 'DM']",34000000.0,EUR,2704,Como,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1002813,Yan Couto,2002-06-03,24,Brazil,,169.0,,Right,27,M,"['MR', 'DR']",17500000.0,EUR,2704,Como,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+911848,Lucas Da Cunha,2001-06-09,25,France,,174.0,,Left,7,M,"['MC', 'DM']",27000000.0,EUR,2704,Como,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1800245,Jesús Rodriguez,2005-11-21,20,Spain,,185.0,,Right,17,M,['LW'],32000000.0,EUR,2704,Como,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+930189,Samuele Ricci,2001-08-21,25,Italy,,182.0,,Right,21,M,"['MC', 'DM']",20000000.0,EUR,2704,Como,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1177723,Jayden Addai,2005-08-26,21,Netherlands,,176.0,,Left,42,M,['RW'],21000000.0,EUR,2704,Como,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+859027,Maxence Caqueret,2000-02-15,26,France,,174.0,63.0,Right,8,M,"['MC', 'DM', 'AM']",13400000.0,EUR,2704,Como,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+811629,Luis Milla,1994-10-07,31,Spain,,175.0,,Right,6,M,"['MC', 'DM']",7300000.0,EUR,2704,Como,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1802689,Adrian Lahdo,2007-12-26,18,Sweden,,179.0,,Right,15,M,['MC'],9000000.0,EUR,2704,Como,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2598583,Riccardo Cassano,2009-07-01,17,Italy,,177.0,,Right,49,M,,,,2704,Como,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1931505,Matteo Papaccioli,2008-05-09,18,Italy,,175.0,,Left,54,M,,,,2704,Como,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+826134,Trevoh Chalobah,1999-07-05,27,England,,190.0,,Right,99,D,"['DC', 'DR']",37000000.0,EUR,2704,Como,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1403348,Jacobo Ramón,2005-01-06,21,Spain,,196.0,,Right,4,D,['DC'],48000000.0,EUR,2704,Como,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1142238,Álex Valle,2004-04-25,22,Spain,,178.0,,Left,3,D,['DL'],12900000.0,EUR,2704,Como,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1112484,Kaiki,2003-03-08,23,Brazil,,172.0,,Left,16,D,['DL'],14800000.0,EUR,2704,Como,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1136721,Willy Kambwala,2004-08-25,22,DR Congo,,192.0,,Right,53,D,['DC'],3100000.0,EUR,2704,Como,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+974581,Ivan Smolčić,2000-08-17,26,Croatia,,181.0,,Right,28,D,['DR'],3800000.0,EUR,2704,Como,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+226974,Marc Kempf,1995-01-28,31,Germany,,186.0,87.0,Left,2,D,['DC'],3400000.0,EUR,2704,Como,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+870211,Alberto Dossena,1998-10-13,27,Italy,,195.0,,Right,13,D,['DC'],4700000.0,EUR,2704,Como,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+295133,Edoardo Goldaniga,1993-11-02,32,Italy,,193.0,82.0,Both,18,D,"['DC', 'DR']",1900000.0,EUR,2704,Como,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2290290,Lorenzo Bonsignori,2007-03-28,19,Italy,,185.0,,Left,57,D,['ML'],270000.0,EUR,2704,Como,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2697682,Adam Asfour,2009-04-09,17,France,,182.0,,Left,31,D,,,,2704,Como,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+920546,Robert Sánchez,1997-11-18,28,Spain,,197.0,,Right,97,G,['GK'],19900000.0,EUR,2704,Como,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+599114,Jean Butez,1995-06-08,31,France,,188.0,80.0,Right,1,G,['GK'],7700000.0,EUR,2704,Como,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+41444,Mauro Vigorito,1990-05-22,36,Italy,,186.0,81.0,Right,22,G,['GK'],155000.0,EUR,2704,Como,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1086417,Rasmus Højlund,2003-02-04,23,Denmark,,191.0,,Left,19,F,['ST'],66000000.0,EUR,2714,SSC Napoli,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+875136,Noa Lang,1999-06-17,27,Netherlands,,173.0,,Right,70,F,['LW'],22000000.0,EUR,2714,SSC Napoli,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+850993,David Neres,1997-03-03,29,Brazil,,175.0,66.0,Left,7,F,"['RW', 'LW']",17500000.0,EUR,2714,SSC Napoli,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1122835,Alisson Santos,2002-09-27,24,Brazil,,177.0,,Right,27,F,['LW'],29000000.0,EUR,2714,SSC Napoli,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1170773,Giovane,2003-11-24,22,Brazil,,184.0,,Left,23,F,['ST'],12600000.0,EUR,2714,SSC Napoli,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+962364,Lorenzo Lucca,2000-09-10,26,Italy,,201.0,,Right,20,F,['ST'],22000000.0,EUR,2714,SSC Napoli,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1069560,Antonio Vergara,2003-01-16,23,Italy,,182.0,,Left,26,F,['AM'],18200000.0,EUR,2714,SSC Napoli,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+70996,Kevin De Bruyne,1991-06-28,35,Belgium,,181.0,68.0,Right,11,M,"['AM', 'MC']",8300000.0,EUR,2714,SSC Napoli,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+879346,Scott McTominay,1996-12-08,29,Scotland,,193.0,88.0,Right,8,M,"['MC', 'DM', 'AM']",38000000.0,EUR,2714,SSC Napoli,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+787941,Frank Anguissa,1995-11-16,30,Cameroon,,184.0,78.0,Right,99,M,"['MC', 'DM']",14600000.0,EUR,2714,SSC Napoli,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+150383,Stanislav Lobotka,1994-11-25,31,Slovakia,,170.0,64.0,Both,68,M,"['MC', 'DM']",10300000.0,EUR,2714,SSC Napoli,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+235672,Matteo Politano,1993-08-03,33,Italy,,171.0,68.0,Left,21,M,"['RW', 'MR']",5300000.0,EUR,2714,SSC Napoli,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+907668,Billy Gilmour,2001-06-11,25,Scotland,,169.0,,Right,6,M,"['MC', 'DM']",18800000.0,EUR,2714,SSC Napoli,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1100544,Costantino Favasuli,2004-04-26,22,Italy,,178.0,,Right,2,M,"['MR', 'ML']",8300000.0,EUR,2714,SSC Napoli,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+904827,Benoît Badiashile,2001-03-26,25,France,,194.0,,Left,5,D,['DC'],14500000.0,EUR,2714,SSC Napoli,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+153257,Giovanni Di Lorenzo,1993-08-04,33,Italy,,182.0,,Right,22,D,"['DR', 'DC']",6800000.0,EUR,2714,SSC Napoli,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+332155,Amir Rrahmani,1994-02-24,32,Kosovo,,190.0,,Both,13,D,['DC'],10600000.0,EUR,2714,SSC Napoli,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+148899,Leonardo Spinazzola,1993-03-25,33,Italy,,185.0,73.0,Right,37,D,"['ML', 'DL']",3400000.0,EUR,2714,SSC Napoli,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+870263,Alessandro Buongiorno,1999-06-06,27,Italy,,191.0,82.0,Left,4,D,"['DC', 'DL']",27000000.0,EUR,2714,SSC Napoli,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+805078,Mathías Olivera,1997-10-31,28,Uruguay,,184.0,78.0,Left,17,D,"['DL', 'DC']",14500000.0,EUR,2714,SSC Napoli,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+984623,Rafa Marín,2002-05-19,24,Spain,,190.0,,Right,16,D,['DC'],15500000.0,EUR,2714,SSC Napoli,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+898815,Sam Beukema,1998-11-17,27,Netherlands,,188.0,,Right,31,D,"['DC', 'DR']",19400000.0,EUR,2714,SSC Napoli,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1165371,Luca Marianucci,2004-07-23,22,Italy,,186.0,,Right,35,D,['DC'],7500000.0,EUR,2714,SSC Napoli,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+356160,Vanja Milinković-Savić,1997-02-20,29,Serbia,,202.0,92.0,Right,32,G,['GK'],13900000.0,EUR,2714,SSC Napoli,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+592794,Alex Meret,1997-03-22,29,Italy,,190.0,77.0,Left,1,G,['GK'],7200000.0,EUR,2714,SSC Napoli,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+352728,Nikita Contini,1996-05-21,30,Italy,,190.0,82.0,Right,14,G,['GK'],390000.0,EUR,2714,SSC Napoli,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2220248,Claudio Pugliese,2008-04-15,18,Italy,,185.0,,Left,12,G,['GK'],,,2714,SSC Napoli,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+253367,Domenico Berardi,1994-08-01,32,Italy,,185.0,72.0,Left,10,F,['RW'],7600000.0,EUR,2793,Sassuolo,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+965008,Sebastiano Esposito,2002-07-02,24,Italy,,186.0,,Right,94,F,"['ST', 'AM']",13700000.0,EUR,2793,Sassuolo,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+932643,Armand Laurienté,1998-12-04,27,France,,177.0,,Right,45,F,['LW'],19900000.0,EUR,2793,Sassuolo,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1155625,Cristian Volpato,2003-11-15,22,Australia,,187.0,,Left,7,F,"['AM', 'RW']",9700000.0,EUR,2793,Sassuolo,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+983601,Kieron Bowie,2002-09-21,24,Scotland,,190.0,,Left,9,F,"['ST', 'RW']",8500000.0,EUR,2793,Sassuolo,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1957716,Gabriel Kulla,2008-02-20,18,Albania,,180.0,,Right,14,F,['ST'],1500000.0,EUR,2793,Sassuolo,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+829581,Nicholas Pierini,1998-08-06,28,Italy,,176.0,,Right,77,F,"['ST', 'AM']",1700000.0,EUR,2793,Sassuolo,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1034241,Laurs Skjellerup,2002-08-12,24,Denmark,,192.0,,Right,19,F,['ST'],1200000.0,EUR,2793,Sassuolo,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1134351,Ismael Koné,2002-06-06,24,Canada,,188.0,76.0,Right,90,M,['MC'],26000000.0,EUR,2793,Sassuolo,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1149288,Vasilije Adžić,2006-05-12,20,Montenegro,,187.0,,Right,17,M,"['MC', 'AM']",16399999.0,EUR,2793,Sassuolo,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+44241,Nemanja Matić,1988-08-01,38,Serbia,,194.0,85.0,Left,18,M,"['MC', 'DM']",1500000.0,EUR,2793,Sassuolo,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1162611,Benjamín Domínguez,2003-09-19,23,Argentina,,172.0,,Right,25,M,['LW'],9400000.0,EUR,2793,Sassuolo,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1142692,Rafael Obrador,2004-02-24,22,Spain,,181.0,,Left,33,M,"['DL', 'ML']",5200000.0,EUR,2793,Sassuolo,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+105905,Ibrahim Sulemana,2003-05-22,23,Ghana,,180.0,,Right,55,M,"['MC', 'DM']",5800000.0,EUR,2793,Sassuolo,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1823916,Darryl Bakola,2007-11-30,18,France,,178.0,70.0,Right,50,M,['MC'],15700000.0,EUR,2793,Sassuolo,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+924973,Kristian Thorstvedt,1999-03-13,27,Norway,,187.0,79.0,Left,42,M,"['MC', 'AM']",10300000.0,EUR,2793,Sassuolo,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1154898,Luca Lipani,2005-05-18,21,Italy,,185.0,,Right,35,M,['MC'],7700000.0,EUR,2793,Sassuolo,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+882592,Daniel Boloca,1998-12-22,27,Italy,,185.0,,Right,11,M,"['MC', 'DM']",3700000.0,EUR,2793,Sassuolo,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+928879,Andrea Ghion,2000-02-23,26,Italy,,180.0,,Right,8,M,"['DM', 'MC']",830000.0,EUR,2793,Sassuolo,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1838644,Christian Frangella,2006-11-25,19,Italy,,,,,33,M,['MC'],290000.0,EUR,2793,Sassuolo,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+933641,Jay Idzes,2000-06-02,26,Indonesia,,190.0,,Right,21,D,['DC'],14600000.0,EUR,2793,Sassuolo,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+257091,Duje Ćaleta-Car,1996-09-17,30,Croatia,,192.0,,Right,15,D,['DC'],2900000.0,EUR,2793,Sassuolo,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+886243,Sebastian Walukiewicz,2000-04-05,26,Poland,,188.0,80.0,Right,6,D,"['DR', 'DC']",4700000.0,EUR,2793,Sassuolo,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+989186,Ignace Van der Brempt,2002-04-01,24,Belgium,,187.0,,Right,20,D,['DR'],2700000.0,EUR,2793,Sassuolo,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+989276,Josh Doig,2002-05-18,24,Scotland,,189.0,,Left,3,D,['DL'],4400000.0,EUR,2793,Sassuolo,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1088899,Fedde Leysen,2003-07-09,23,Belgium,,191.0,,Left,16,D,"['DC', 'DL']",3800000.0,EUR,2793,Sassuolo,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+892430,Fali Candé,1998-01-24,28,Guinea-Bissau,,184.0,75.0,Left,5,D,"['DC', 'DL']",2800000.0,EUR,2793,Sassuolo,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1461516,Simone Cinquegrano,2004-06-25,22,Italy,,192.0,86.0,Right,46,D,"['DR', 'MR']",470000.0,EUR,2793,Sassuolo,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1069028,Edoardo Pieragnolo,2003-01-03,23,Italy,,184.0,,Left,15,D,"['DL', 'ML']",1900000.0,EUR,2793,Sassuolo,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1000252,Yeferson Paz,2002-06-13,24,Colombia,,176.0,,Right,17,D,"['DR', 'MR']",425000.0,EUR,2793,Sassuolo,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+991677,Cas Odenthal,2000-09-26,26,Netherlands,,190.0,,Right,26,D,"['DC', 'DR']",1200000.0,EUR,2793,Sassuolo,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1493485,Giorgio Vezzosi,2007-01-14,19,Italy,,187.0,,Right,36,D,['DC'],235000.0,EUR,2793,Sassuolo,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+888971,Arijanet Murić,1998-11-07,27,Kosovo,,198.0,,Right,49,G,['GK'],6900000.0,EUR,2793,Sassuolo,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+893752,Stefano Turati,2001-09-05,25,Italy,,188.0,,Right,80,G,['GK'],3100000.0,EUR,2793,Sassuolo,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+832375,Giacomo Satalino,1999-05-20,27,Italy,,188.0,75.0,Right,12,G,['GK'],435000.0,EUR,2793,Sassuolo,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+918862,Alessandro Russo,2001-03-31,25,Italy,,190.0,,Right,,G,['GK'],315000.0,EUR,2793,Sassuolo,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1868065,Lorenzo Nyarko,2007-10-20,18,Italy,,189.0,,Right,22,G,['GK'],105000.0,EUR,2793,Sassuolo,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+960441,Charles De Ketelaere,2001-03-10,25,Belgium,,192.0,,Left,17,F,"['AM', 'ST']",32000000.0,EUR,2686,Atalanta,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1019442,Kamaldeen Sulemana,2002-02-15,24,Ghana,,174.0,68.0,Right,7,F,"['LW', 'AM', 'ST']",16500000.0,EUR,2686,Atalanta,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+865651,Giacomo Raspadori,2000-02-18,26,Italy,,172.0,,Both,18,F,"['ST', 'AM']",23000000.0,EUR,2686,Atalanta,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+807301,Gianluca Scamacca,1999-01-01,27,Italy,,195.0,85.0,Right,9,F,['ST'],27000000.0,EUR,2686,Atalanta,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+839156,Nikola Krstović,2000-04-05,26,Montenegro,,185.0,,Right,90,F,['ST'],29000000.0,EUR,2686,Atalanta,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1065261,Jonathan Rowe,2003-04-30,23,England,,173.0,,Right,11,F,"['LW', 'RW']",29000000.0,EUR,2686,Atalanta,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+359226,Franck Kessié,1996-12-19,29,Côte d'Ivoire,,183.0,77.0,Right,19,M,"['MC', 'DM']",10800000.0,EUR,2686,Atalanta,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+984184,Nicola Zalewski,2002-01-23,24,Poland,,175.0,,Right,59,M,"['ML', 'AM']",18400000.0,EUR,2686,Atalanta,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+946888,Éderson,1999-07-07,27,Brazil,,183.0,,Right,13,M,"['MC', 'DM']",38000000.0,EUR,2686,Atalanta,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+190437,Mario Pašalić,1995-02-09,31,Croatia,,189.0,,Right,8,M,"['MC', 'DM', 'AM']",6200000.0,EUR,2686,Atalanta,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+980624,Lazar Samardžić,2002-02-24,24,Serbia,,183.0,,Left,10,M,"['AM', 'MC']",15500000.0,EUR,2686,Atalanta,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+838232,Eljif Elmas,1999-09-24,27,North Macedonia,,182.0,68.0,Right,99,M,"['MC', 'AM']",12600000.0,EUR,2686,Atalanta,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+826185,Raoul Bellanova,2000-05-17,26,Italy,,188.0,78.0,Right,16,M,['MR'],14600000.0,EUR,2686,Atalanta,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+132318,Davide Zappacosta,1992-06-11,34,Italy,,182.0,70.0,Right,77,M,"['MR', 'ML']",3800000.0,EUR,2686,Atalanta,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+902019,Gianluca Gaetano,2000-05-05,26,Italy,,183.0,,Right,70,M,"['AM', 'MC', 'DM']",11600000.0,EUR,2686,Atalanta,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1012177,Lorenzo Bernasconi,2003-11-16,22,Italy,,190.0,,Left,47,M,['ML'],21000000.0,EUR,2686,Atalanta,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1492462,Alberto Manzoni,2005-06-25,21,Italy,,178.0,,Right,52,M,['MC'],1100000.0,EUR,2686,Atalanta,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+973437,Odilon Kossounou,2001-01-04,25,Côte d'Ivoire,,191.0,,Right,3,D,"['DC', 'DR']",15500000.0,EUR,2686,Atalanta,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+142148,Sead Kolašinac,1993-06-20,33,Bosnia & Herzegovina,,183.0,,Left,23,D,"['DL', 'DC']",4200000.0,EUR,2686,Atalanta,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1012176,Giorgio Scalvini,2003-12-11,22,Italy,,194.0,,Right,42,D,"['DC', 'DR']",37000000.0,EUR,2686,Atalanta,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1157713,Isak Hien,1999-01-13,27,Sweden,,191.0,,Right,4,D,['DC'],21000000.0,EUR,2686,Atalanta,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1063373,Thomas Kristensen,2002-01-17,24,Denmark,,197.0,,Right,31,D,"['DC', 'DR', 'DL']",11600000.0,EUR,2686,Atalanta,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1432414,Relja Obrić,2006-04-11,20,Slovenia,,194.0,,Left,40,D,['DC'],1500000.0,EUR,2686,Atalanta,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+865646,Marco Carnesecchi,2000-07-01,26,Italy,,192.0,83.0,Right,29,G,['GK'],31000000.0,EUR,2686,Atalanta,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+176301,Marco Sportiello,1992-05-10,34,Italy,,192.0,87.0,Right,57,G,['GK'],730000.0,EUR,2686,Atalanta,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1165201,Thomas Pompei,2006-04-07,20,Italy,,188.0,,Left,22,G,['GK'],270000.0,EUR,2686,Atalanta,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1029748,Nikola Štulić,2001-09-08,25,Serbia,,188.0,,Right,9,F,['ST'],3200000.0,EUR,2689,Lecce,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+877979,Willem Geubbels,2001-08-16,25,France,,185.0,72.0,Right,69,F,['ST'],5500000.0,EUR,2689,Lecce,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+978327,Konan N'Dri,2000-10-27,25,Niger,,174.0,,Left,11,F,"['RW', 'ST']",1500000.0,EUR,2689,Lecce,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1157829,Amar Fatah,2004-02-19,22,Sweden,,180.0,,Right,7,F,['LW'],855000.0,EUR,2689,Lecce,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1417383,Paco Esteban,2006-05-02,20,Spain,,185.0,,Right,22,F,['ST'],465000.0,EUR,2689,Lecce,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+804621,Lassana Coulibaly,1996-04-10,30,Mali,,183.0,,Right,29,M,"['MC', 'DM']",2300000.0,EUR,2689,Lecce,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+877371,Ivan Ilić,2001-03-17,25,Serbia,,185.0,,Left,20,M,"['MC', 'DM']",6800000.0,EUR,2689,Lecce,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+849274,Youssef Maleh,1998-08-22,28,Morocco,,177.0,70.0,Left,14,M,"['MC', 'DM']",1600000.0,EUR,2689,Lecce,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1175854,Oumar Ngom,2004-03-09,22,Mauritania,,184.0,,Right,79,M,"['MC', 'DM']",2700000.0,EUR,2689,Lecce,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1142149,Medon Berisha,2003-10-21,22,Albania,,186.0,,Right,10,M,['MC'],4900000.0,EUR,2689,Lecce,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1019125,Omri Gandelman,2000-05-16,26,Israel,,188.0,,Left,16,M,"['AM', 'MC']",2800000.0,EUR,2689,Lecce,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1127590,Mohamed Kaba,2001-10-27,24,Guinea,,185.0,,Right,77,M,"['MC', 'DM']",2400000.0,EUR,2689,Lecce,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+984998,Santiago Pierotti,2001-04-03,25,Argentina,,189.0,,Right,50,M,"['RW', 'ST']",4200000.0,EUR,2689,Lecce,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1065154,Joël Monteiro,1999-08-05,27,Switzerland,,192.0,,Right,99,M,"['ML', 'LW']",3400000.0,EUR,2689,Lecce,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1130662,Sadik Fofana,2003-05-15,23,Togo,,192.0,,Right,8,M,"['DM', 'MC']",760000.0,EUR,2689,Lecce,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1403088,Olaf Gorter,2005-01-31,21,Netherlands,,182.0,,Right,28,M,"['MC', 'DM']",190000.0,EUR,2689,Lecce,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1149067,Niko Kovač,2005-04-08,21,Bosnia & Herzegovina,,184.0,,Both,80,M,"['MC', 'DM']",325000.0,EUR,2689,Lecce,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1913702,Hjalte Lærke,2007-04-23,19,Denmark,,187.0,,Left,34,M,['RW'],865000.0,EUR,2689,Lecce,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1651825,Tiago Gabriel,2004-12-26,21,Portugal,,194.0,,Right,44,D,['DC'],14600000.0,EUR,2689,Lecce,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1090374,Kialonda Gaspar,1997-09-27,29,Angola,,193.0,,Right,4,D,['DC'],2900000.0,EUR,2689,Lecce,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+945616,Antonino Gallo,2000-01-05,26,Italy,,183.0,,Left,25,D,['DL'],3200000.0,EUR,2689,Lecce,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1002045,Danilo Veiga,2002-09-25,24,Portugal,,183.0,,Right,17,D,['DR'],2400000.0,EUR,2689,Lecce,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1014287,Jamil Siebert,2002-04-02,24,Germany,,193.0,,Right,5,D,['DC'],4300000.0,EUR,2689,Lecce,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1397347,Ali Dembélé,2004-01-05,22,France,,185.0,,Right,2,D,['DR'],1300000.0,EUR,2689,Lecce,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+981470,Corrie Ndaba,1999-12-25,26,Ireland,,188.0,,Left,3,D,"['DL', 'DC']",955000.0,EUR,2689,Lecce,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1393594,Sebastian Esposito,2005-04-21,21,Australia,,188.0,81.0,Right,15,D,['DC'],580000.0,EUR,2689,Lecce,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1392819,Gaby Jean,2000-02-19,26,France,,191.0,75.0,Left,18,D,"['DC', 'DL']",1400000.0,EUR,2689,Lecce,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1609269,Elijah Scott,2006-02-03,20,USA,,177.0,,Right,31,D,"['DC', 'DR']",375000.0,EUR,2689,Lecce,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1517676,Vernon Addo,2005-05-24,21,Netherlands,,188.0,,Left,42,D,['DL'],170000.0,EUR,2689,Lecce,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+256667,Wladimiro Falcone,1995-04-12,31,Italy,,195.0,85.0,Right,30,G,['GK'],3600000.0,EUR,2689,Lecce,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1000347,Alexandru Borbei,2003-06-27,23,Romania,,183.0,,Right,32,G,['GK'],145000.0,EUR,2689,Lecce,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1587294,Plamen Penev,2008-04-22,18,Bulgaria,,191.0,,Left,33,G,['GK'],,,2689,Lecce,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+307036,Marco Bleve,1995-10-18,30,Italy,,184.0,74.0,Right,1,G,['GK'],325000.0,EUR,2689,Lecce,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+864898,Nicolò Zaniolo,1999-07-02,27,Italy,,189.0,79.0,Left,10,F,"['ST', 'AM']",14200000.0,EUR,2695,Udinese,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+796455,Vakoun Issouf Bayo,1997-01-10,29,Côte d'Ivoire,,184.0,72.0,Right,15,F,['ST'],2600000.0,EUR,2695,Udinese,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1536811,Idrissa Gueye,2006-09-16,20,Senegal,,188.0,,Right,7,F,['ST'],8800000.0,EUR,2695,Udinese,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+830858,Keinan Davis,1998-02-13,28,England,,189.0,,Left,9,F,['ST'],10300000.0,EUR,2695,Udinese,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1910431,Giulio Vinciati,2007-08-29,19,Italy,,180.0,,Right,45,F,['LW'],90000.0,EUR,2695,Udinese,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+858191,Giorgi Chakvetadze,1999-08-29,27,Georgia,,180.0,,Right,30,M,"['AM', 'LW']",3300000.0,EUR,2695,Udinese,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+825271,Jakub Piotrowski,1997-10-04,29,Poland,,188.0,78.0,Right,24,M,"['MC', 'DM']",4400000.0,EUR,2695,Udinese,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+904887,Jürgen Ekkelenkamp,2000-04-05,26,Netherlands,,188.0,,Right,32,M,"['AM', 'MC']",10300000.0,EUR,2695,Udinese,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1154894,Lennon Miller,2006-08-25,20,Scotland,,182.0,,Right,38,M,"['MC', 'DM']",9300000.0,EUR,2695,Udinese,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+351434,Hassane Kamara,1994-03-05,32,Côte d'Ivoire,,168.0,67.0,Left,11,M,['ML'],3200000.0,EUR,2695,Udinese,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1476922,Juan Arizala,2005-10-10,20,Colombia,,183.0,,Left,20,M,['DL'],3800000.0,EUR,2695,Udinese,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1427148,Lazar Jovanović,2006-11-30,19,Serbia,,182.0,,Right,91,M,['AM'],3800000.0,EUR,2695,Udinese,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+227894,Jesper Karlström,1995-06-21,31,Sweden,,179.0,,Right,8,M,"['DM', 'MC']",4099999.0,EUR,2695,Udinese,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1391375,Unai Gómez,2003-05-25,23,Spain,,183.0,,Left,46,M,"['AM', 'MC']",5200000.0,EUR,2695,Udinese,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+922928,Alessandro Zanoli,2000-10-03,26,Italy,,186.0,,Right,59,M,"['MR', 'DR']",4900000.0,EUR,2695,Udinese,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+575852,Sandi Lovrić,1998-03-28,28,Slovenia,,180.0,70.0,Right,4,M,['MC'],3400000.0,EUR,2695,Udinese,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1009661,Oier Zarraga,1999-01-04,27,Spain,,175.0,,Right,6,M,"['MC', 'DM']",1400000.0,EUR,2695,Udinese,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+66492,David Alaba,1992-06-24,34,Austria,,180.0,,Left,5,D,['DC'],2700000.0,EUR,2695,Udinese,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+892979,Oumar Solet,2000-02-07,26,France,,192.0,,Right,28,D,"['DC', 'DR', 'DL']",18800000.0,EUR,2695,Udinese,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+798147,Mërgim Vojvoda,1995-02-01,31,Kosovo,,187.0,78.0,Right,23,D,['DR'],2700000.0,EUR,2695,Udinese,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1127232,James Abankwah,2004-01-16,22,Ireland,,188.0,,Right,14,D,"['DC', 'DR']",7300000.0,EUR,2695,Udinese,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1495719,Matteo Palma,2008-03-13,18,Germany,,194.0,,Right,16,D,"['DC', 'DR']",6800000.0,EUR,2695,Udinese,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+58351,Christian Kabasele,1991-02-24,35,Belgium,,186.0,84.0,Right,27,D,"['DC', 'DR']",805000.0,EUR,2695,Udinese,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+848279,Enzo Ebosse,1999-03-11,27,Cameroon,,185.0,,Left,77,D,"['DC', 'DL', 'DR']",2700000.0,EUR,2695,Udinese,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1136399,Nicolò Bertola,2003-03-23,23,Italy,,185.0,,Right,13,D,"['DC', 'DR']",7500000.0,EUR,2695,Udinese,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+891656,Maduka Okoye,1999-08-28,27,Nigeria,,197.0,,Right,40,G,['GK'],10800000.0,EUR,2695,Udinese,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+886909,Bartosz Mrozek,2000-02-23,26,Poland,,191.0,79.0,Right,41,G,['GK'],1900000.0,EUR,2695,Udinese,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2899,Daniele Padelli,1985-10-25,40,Italy,,191.0,90.0,Right,93,G,['GK'],165000.0,EUR,2695,Udinese,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+341143,Giovanni Simeone,1995-07-05,31,Argentina,,179.0,81.0,Right,18,F,['ST'],7200000.0,EUR,2696,Torino,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+856737,Zakaria Aboukhlal,2000-02-18,26,Morocco,,179.0,,Both,7,F,"['RW', 'AM']",5500000.0,EUR,2696,Torino,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+38162,Duván Zapata,1991-04-01,35,Colombia,,189.0,88.0,Right,91,F,['ST'],2600000.0,EUR,2696,Torino,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+773409,Che Adams,1996-07-13,30,Scotland,,175.0,,Right,19,F,['ST'],4800000.0,EUR,2696,Torino,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+826026,Sandro Kulenović,1999-12-04,26,Croatia,,191.0,76.0,Right,17,F,['ST'],3400000.0,EUR,2696,Torino,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+839226,Pietro Pellegri,2001-03-17,25,Italy,,188.0,78.0,Right,11,F,['ST'],520000.0,EUR,2696,Torino,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1103488,Rafik Belghali,2002-06-07,24,Algeria,,177.0,73.0,Right,45,M,"['DR', 'MR']",12400000.0,EUR,2696,Torino,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+357596,Nikola Vlašić,1997-10-04,29,Croatia,,178.0,,Right,10,M,"['AM', 'MC']",10300000.0,EUR,2696,Torino,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1016788,Cesare Casadei,2003-01-10,23,Italy,,192.0,,Right,22,M,"['MC', 'DM']",15600000.0,EUR,2696,Torino,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+548178,Rolando Mandragora,1997-06-29,29,Italy,,183.0,76.0,Left,8,M,"['MC', 'DM']",7100000.0,EUR,2696,Torino,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+861979,Daniel Bragança,1999-05-27,27,Portugal,,178.0,,Left,21,M,"['MC', 'DM']",6400000.0,EUR,2696,Torino,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1030829,Gvidas Gineitis,2004-04-15,22,Lithuania,,191.0,61.0,Left,66,M,"['MC', 'DM']",7300000.0,EUR,2696,Torino,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1001945,Kian Fitz-Jim,2003-07-05,23,Netherlands,,173.0,,Right,28,M,"['MC', 'DM']",3200000.0,EUR,2696,Torino,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1142612,Emirhan İlkhan,2004-06-01,22,Türkiye,,175.0,,Right,6,M,"['DM', 'MC']",6300000.0,EUR,2696,Torino,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1868036,Alessio Cacciamani,2007-06-29,19,Italy,,170.0,,Right,77,M,['ML'],4800000.0,EUR,2696,Torino,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+965009,Gaetano Oristanio,2002-09-28,24,Italy,,174.0,,Left,11,M,"['ST', 'AM', 'MC']",4500000.0,EUR,2696,Torino,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1985762,Andrea Luongo,2008-02-16,18,Italy,,178.0,,Right,79,M,['MC'],1000000.0,EUR,2696,Torino,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+67769,Ricardo Rodríguez,1992-08-25,34,Switzerland,,182.0,77.0,Left,13,D,['DL'],1500000.0,EUR,2696,Torino,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1210848,Pietro Comuzzo,2005-02-20,21,Italy,,185.0,,Right,15,D,"['DC', 'DR']",18500000.0,EUR,2696,Torino,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1089453,Saúl Coco,1999-02-09,27,Equatorial Guinea,,188.0,,Right,23,D,"['DC', 'DR']",7700000.0,EUR,2696,Torino,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+840414,Ardian Ismajli,1996-09-30,30,Albania,,188.0,80.0,Right,44,D,['DC'],4700000.0,EUR,2696,Torino,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+122848,Cristiano Biraghi,1992-09-01,34,Italy,,184.0,78.0,Left,3,D,['DL'],860000.0,EUR,2696,Torino,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1526934,Niccolò Fortini,2006-02-13,20,Italy,,185.0,,Right,29,D,"['ML', 'DL']",10900000.0,EUR,2696,Torino,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1020141,Nathan Patterson,2001-10-16,24,Scotland,,189.0,,Right,2,D,"['DR', 'MR']",5400000.0,EUR,2696,Torino,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+814023,Eray Cömert,1998-02-04,28,Switzerland,,183.0,80.0,Right,5,D,['DC'],2700000.0,EUR,2696,Torino,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2220262,Manuel Carrascosa,2008-08-24,18,Spain,,193.0,,Left,63,D,['DC'],,,2696,Torino,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+871290,Lucas Perri,1997-12-10,28,Brazil,,196.0,95.0,Right,20,G,['GK'],9200000.0,EUR,2696,Torino,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1084846,Franco Israel,2000-04-22,26,Uruguay,,189.0,86.0,Right,81,G,['GK'],2400000.0,EUR,2696,Torino,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1471046,Diego Mascardi,2006-09-26,20,Italy,,198.0,,Right,26,G,['GK'],1400000.0,EUR,2696,Torino,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1519010,Lapo Siviero,2006-11-23,19,Italy,,195.0,,Right,76,G,['GK'],460000.0,EUR,2696,Torino,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1118606,David Romero,2003-03-25,23,Argentina,,179.0,,Right,9,F,['ST'],4900000.0,EUR,2690,Parma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1092081,Matija Frigan,2003-02-11,23,Croatia,,184.0,,Left,20,F,['ST'],7600000.0,EUR,2690,Parma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1486729,Nesta Elphege,2001-01-09,25,France,,196.0,,Left,23,F,['ST'],3700000.0,EUR,2690,Parma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1912962,Simone Lontani,2008-01-18,18,Italy,,181.0,,Right,76,F,['ST'],5700000.0,EUR,2690,Parma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2082104,Thomas de Martis,2008-06-26,18,Argentina,,181.0,,Right,25,F,['ST'],135000.0,EUR,2690,Parma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1542807,Ousmane Diallo,2007-06-12,19,Spain,,181.0,,Right,7,F,['ST'],1600000.0,EUR,2690,Parma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+856065,Pontus Almqvist,1999-07-10,27,Sweden,,183.0,69.0,Left,11,F,"['RW', 'ST', 'LW']",1700000.0,EUR,2690,Parma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+982615,El Bilal Touré,2001-10-03,25,Mali,,185.0,,Both,19,M,"['ST', 'LW']",11700000.0,EUR,2690,Parma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1459459,Benjamin Cremaschi,2005-03-02,21,USA,,180.0,,Right,8,M,['MC'],4300000.0,EUR,2690,Parma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+934384,Adrián Bernabé,2001-05-26,25,Spain,,170.0,,Left,10,M,"['MC', 'DM']",14100000.0,EUR,2690,Parma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1110136,Mandela Keita,2002-05-10,24,Belgium,,180.0,,Right,16,M,"['MC', 'DM']",18100000.0,EUR,2690,Parma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+876259,Hans Nicolussi Caviglia,2000-06-18,26,Italy,,184.0,,Right,41,M,"['DM', 'MC']",6200000.0,EUR,2690,Parma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1067204,Giovanni Fabbian,2003-01-14,23,Italy,,186.0,,Right,80,M,"['MC', 'AM']",9300000.0,EUR,2690,Parma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1086199,Franco Carboni,2003-04-04,23,Argentina,,190.0,,Left,29,M,"['DL', 'ML']",945000.0,EUR,2690,Parma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+891346,Emanuele Valeri,1998-12-07,27,Italy,,180.0,,Left,14,M,"['DL', 'ML']",2900000.0,EUR,2690,Parma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1201388,Christian Ordoñez,2004-06-24,22,Argentina,,177.0,67.0,Right,32,M,"['MC', 'DM']",7100000.0,EUR,2690,Parma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+794412,Vincent Sierro,1995-10-08,30,Switzerland,,184.0,75.0,Right,4,M,"['MC', 'DM']",2300000.0,EUR,2690,Parma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1542692,Abdou-Salam Konate,2006-11-25,19,Senegal,,189.0,,Right,47,M,"['MC', 'DM']",195000.0,EUR,2690,Parma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+604232,Diego Carlos,1993-03-15,33,Brazil,,185.0,79.0,Right,34,D,['DC'],5300000.0,EUR,2690,Parma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1516324,Mariano Troilo,2003-06-22,23,Argentina,,194.0,,Both,37,D,['DC'],9100000.0,EUR,2690,Parma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+984527,Abdoulaye Ndiaye,2002-04-10,24,Senegal,,195.0,,Left,3,D,['DC'],5800000.0,EUR,2690,Parma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+928103,Enrico Delprato,1999-11-10,26,Italy,,183.0,74.0,Right,15,D,"['DR', 'DC']",6600000.0,EUR,2690,Parma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+958517,Lautaro Valenti,1999-01-14,27,Argentina,,188.0,,Left,5,D,"['DC', 'DL']",2200000.0,EUR,2690,Parma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1963449,Sascha Britschgi,2006-08-27,20,Switzerland,,182.0,,Right,27,D,['MR'],9300000.0,EUR,2690,Parma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1584940,Dominik Drobnic ,2007-04-05,19,Slovenia,,194.0,,Left,72,D,['DC'],880000.0,EUR,2690,Parma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1100418,Giovanni Daffara,2004-12-05,21,Italy,,194.0,,Right,30,G,['GK'],3600000.0,EUR,2690,Parma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+990411,Edoardo Corvi,2001-03-23,25,Italy,,183.0,,Right,40,G,['GK'],3100000.0,EUR,2690,Parma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+865538,Simone Ghidotti,2000-03-19,26,Italy,,193.0,,Right,22,G,['GK'],390000.0,EUR,2690,Parma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2640015,Alessandro Mazzocchi,2008-04-08,18,Italy,,194.0,,Right,75,G,,,,2690,Parma,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1003011,Exequiel Zeballos,2002-04-24,24,Argentina,,174.0,,Right,22,F,['RW'],7200000.0,EUR,2729,Monza,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+795044,Patrick Cutrone,1998-01-03,28,Italy,,183.0,,Right,10,F,['ST'],3800000.0,EUR,2729,Monza,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+317699,Keita Baldé,1995-03-08,31,Senegal,,178.0,,Right,17,F,['ST'],860000.0,EUR,2729,Monza,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+877037,Cyril Ngonge,2000-05-26,26,Belgium,,179.0,,Left,16,F,"['RW', 'AM']",6800000.0,EUR,2729,Monza,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1146305,Gustavo Varela,2005-01-30,21,Portugal,,184.0,,Right,9,F,['ST'],5300000.0,EUR,2729,Monza,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+928122,Andrea Colpani,1999-05-11,27,Italy,,186.0,,Left,28,F,"['AM', 'RW']",3800000.0,EUR,2729,Monza,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+838907,Dany Mota,1998-05-02,28,Portugal,,180.0,,Right,47,F,"['ST', 'AM']",3100000.0,EUR,2729,Monza,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1440673,Jay Robinson,2007-03-14,19,England,,176.0,,Right,46,F,['LW'],8199999.0,EUR,2729,Monza,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+346676,Patrick Ciurria,1995-02-09,31,Italy,,178.0,,Both,26,F,"['MR', 'AM']",1000000.0,EUR,2729,Monza,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2559015,Pietro  Rota Bulò,2008-04-04,18,Italy,,,,,,F,,,,826808,Monza U20,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1525367,Ebenezer Akinsanmiro,2004-11-25,21,Nigeria,,184.0,,Right,14,M,['MC'],6700000.0,EUR,2729,Monza,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+869795,Michael Folorunsho,1998-02-07,28,Italy,,190.0,,Right,90,M,"['MC', 'AM']",4600000.0,EUR,2729,Monza,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1153434,Omari Forson,2004-07-20,22,England,,179.0,,Left,11,M,['LW'],1100000.0,EUR,2729,Monza,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+350210,Matteo Pessina,1997-04-21,29,Italy,,183.0,,Left,32,M,"['MC', 'DM']",4800000.0,EUR,2729,Monza,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+826326,Idrissa Touré,1998-04-29,28,Germany,,187.0,69.0,Right,27,M,"['MR', 'MC']",3900000.0,EUR,2729,Monza,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+856729,Samuele Birindelli,1999-07-19,27,Italy,,175.0,,Right,19,M,"['MR', 'DR']",2400000.0,EUR,2729,Monza,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1992105,Mathis Mout,2007-08-06,19,Italy,,181.0,,Left,80,M,['MC'],1900000.0,EUR,2729,Monza,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1547260,Kevin Martins,2005-01-31,21,Italy,,180.0,,Right,70,M,['MR'],390000.0,EUR,2729,Monza,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1424560,Leonardo Colombo,2005-06-04,21,Italy,,175.0,,Right,21,M,"['MC', 'DM']",4200000.0,EUR,2729,Monza,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1596636,Manga Foe Ondoa,2005-12-12,20,France,,183.0,,Right,8,M,['MC'],680000.0,EUR,2729,Monza,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1912462,Solomon Loubao,2005-12-03,20,France,,181.0,,Right,22,M,,,,486076,FC Sochaux 2,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1866697,Nicolo Ballabio,2008-03-01,18,Italy,,189.0,,Right,50,M,['MC'],,,2729,Monza,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2138595,Christian Mariani,2008-04-01,18,Italy,,,,,46,M,['MC'],,,826808,Monza U20,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2028067,Mattia Attinasi,2007-03-15,19,Italy,,,,Left,61,M,['ML'],27000.0,EUR,826808,Monza U20,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1499991,Jan Ziółkowski,2005-06-05,21,Poland,,194.0,,Right,4,D,['DC'],11600000.0,EUR,2729,Monza,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+878496,Ricardo Mangas,1998-03-18,28,Portugal,,179.0,61.0,Left,7,D,"['ML', 'DL', 'LW']",1900000.0,EUR,2729,Monza,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1126175,Saba Goglichidze,2004-06-25,22,Georgia,,192.0,,Right,2,D,"['DC', 'DR']",3400000.0,EUR,2729,Monza,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+827640,Valentin Antov,2000-11-09,25,Bulgaria,,185.0,,Right,6,D,"['DC', 'DR']",1600000.0,EUR,2729,Monza,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1397353,Adam Bakoune,2006-02-06,20,Morocco,,195.0,,Right,24,D,['DR'],1200000.0,EUR,2729,Monza,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1526933,Eddy Kouadio,2006-05-07,20,Italy,,191.0,,Right,60,D,"['DC', 'DR']",2700000.0,EUR,2729,Monza,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1479355,Yvan Maye,2006-03-21,20,France,,190.0,,Left,5,D,['DC'],540000.0,EUR,2729,Monza,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+970978,Andrea Carboni,2001-02-04,25,Italy,,185.0,,Left,44,D,"['DC', 'DL', 'DR']",2800000.0,EUR,2729,Monza,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+972567,Lorenzo Lucchesi,2003-05-09,23,Italy,,190.0,,Left,3,D,"['DC', 'DL', 'DR']",3200000.0,EUR,2729,Monza,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1984768,Manuel Villa,2008-05-12,18,Italy,,192.0,,Right,62,D,"['DC', 'DR']",,,826808,Monza U20,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2260576,Konstantinos Varesis,2009-01-02,17,Albania,,,,,43,D,['DC'],,,1146148,Fiorentina U17,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+861818,Demba Thiam,1998-03-09,28,Senegal,,202.0,,Right,20,G,['GK'],1900000.0,EUR,2729,Monza,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1014583,Noel Törnqvist,2002-02-01,24,Sweden,,195.0,,Left,1,G,['GK'],1900000.0,EUR,2729,Monza,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1405684,Aljaz Strajnar,2007-08-16,19,Slovenia,,185.0,,Right,43,G,['GK'],220000.0,EUR,2729,Monza,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2035776,Aleksandr Ballabio,2008-07-12,18,Italy,,189.0,,Right,50,G,,,,826808,Monza U20,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2418119,Marco Giuseppe Pirro,2008-10-24,17,Italy,,,,,,G,,,,826808,Monza U20,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1403559,Franco Mastantuono,2007-08-14,19,Argentina,,177.0,,Left,30,F,['RW'],44000000.0,EUR,2693,Fiorentina,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+987489,Beto,1998-01-31,28,Guinea-Bissau,,194.0,88.0,Right,23,F,['ST'],19300000.0,EUR,2693,Fiorentina,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+998951,Wilfried Gnonto,2003-11-05,22,Italy,,170.0,,Right,29,F,"['RW', 'LW']",17300000.0,EUR,2693,Fiorentina,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1099296,Mateo Pellegrino,2001-10-22,24,Argentina,,192.0,,Left,32,F,['ST'],14600000.0,EUR,2693,Fiorentina,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+893640,Riccardo Sottil,1999-06-03,27,Italy,,180.0,,Right,7,F,['LW'],1500000.0,EUR,2693,Fiorentina,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1493157,Alieu Njie,2005-05-14,21,Sweden,,185.0,,Right,25,F,['LW'],14500000.0,EUR,2693,Fiorentina,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2415458,Federico Croci,2010-06-29,16,Italy,,170.0,,Right,70,F,,,,311330,Fiorentina U18,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1990374,Sulayman Jallow,2007-05-04,19,Gambia,,187.0,,Right,71,F,['ST'],435000.0,EUR,2693,Fiorentina,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1888002,Christ Inao Oulaï,2006-04-06,20,Côte d'Ivoire,,173.0,,Right,42,M,"['MC', 'DM']",26000000.0,EUR,2693,Fiorentina,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+895764,Pedro Gonçalves,1998-06-28,28,Portugal,,173.0,65.0,Right,28,M,"['LW', 'AM']",27000000.0,EUR,2693,Fiorentina,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+901850,Nicolò Fagioli,2001-02-12,25,Italy,,178.0,,Right,44,M,"['MC', 'DM']",14700000.0,EUR,2693,Fiorentina,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1444690,Arthur Atta,2003-01-14,23,France,,189.0,,Right,14,M,"['MC', 'AM']",27000000.0,EUR,2693,Fiorentina,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1114422,Cher Ndour,2004-07-27,22,Italy,,190.0,,Both,27,M,"['MC', 'DM']",18900000.0,EUR,2693,Fiorentina,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+928800,Marco Brescianini,2000-01-20,26,Italy,,188.0,,Left,4,M,"['MC', 'DM']",8300000.0,EUR,2693,Fiorentina,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2025664,Brando Mazzeo,2007-10-04,19,Italy,,180.0,,Right,72,M,['LW'],230000.0,EUR,2693,Fiorentina,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1985764,Antonio Pirrò,2008-01-28,18,Italy,,177.0,,Left,73,M,,,,2693,Fiorentina,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1901143,Víctor Valdepeñas,2006-10-20,19,Spain,,188.0,,Left,21,D,['DC'],4500000.0,EUR,2693,Fiorentina,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+997103,Radu Drăguşin,2002-02-03,24,Romania,,191.0,,Right,3,D,['DC'],14800000.0,EUR,2693,Fiorentina,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1184308,Álex Jiménez,2005-05-08,21,Spain,,177.0,,Right,20,D,['DR'],19900000.0,EUR,2693,Fiorentina,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+822518,Dodô,1998-11-17,27,Brazil,,166.0,68.0,Right,2,D,"['DR', 'MR']",17400000.0,EUR,2693,Fiorentina,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+902031,João Mário,2000-01-03,26,Portugal,,178.0,,Both,17,D,"['DR', 'MR']",8600000.0,EUR,2693,Fiorentina,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+847467,Marin Pongračić,1997-09-11,29,Croatia,,193.0,,Right,5,D,"['DC', 'DR']",5900000.0,EUR,2693,Fiorentina,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1907760,Viery,2005-01-01,21,Brazil,,187.0,,Left,33,D,['DC'],6600000.0,EUR,2693,Fiorentina,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+893998,Luca Ranieri,1999-04-23,27,Italy,,187.0,74.0,Left,6,D,"['DC', 'DL']",6200000.0,EUR,2693,Fiorentina,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+972886,Fabiano Parisi,2000-11-09,25,Italy,,178.0,,Left,65,D,"['DL', 'ML']",5500000.0,EUR,2693,Fiorentina,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+69378,David De Gea,1990-11-07,35,Spain,,192.0,76.0,Right,43,G,['GK'],3300000.0,EUR,2693,Fiorentina,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+860306,Oliver Christensen,1999-03-22,27,Denmark,,190.0,82.0,Right,53,G,['GK'],1400000.0,EUR,2693,Fiorentina,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+139272,Luca Lezzerini,1995-03-24,31,Italy,,195.0,86.0,Right,19,G,['GK'],365000.0,EUR,2693,Fiorentina,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+798820,Artem Dovbyk,1997-06-21,29,Ukraine,,189.0,76.0,Left,9,F,['ST'],13900000.0,EUR,2685,Bologna,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+294597,Federico Bernardeschi,1994-02-15,32,Italy,,185.0,75.0,Left,10,F,"['RW', 'MR']",3600000.0,EUR,2685,Bologna,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+958982,Roberto Piccoli,2001-01-27,25,Italy,,190.0,,Right,91,F,['ST'],15100000.0,EUR,2685,Bologna,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+971005,Nicolò Cambiaghi,2000-12-28,25,Italy,,173.0,,Right,28,F,"['LW', 'ST']",12600000.0,EUR,2685,Bologna,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1937553,Jay Enem,2003-03-11,23,Netherlands,,193.0,,Right,22,F,['ST'],4800000.0,EUR,2685,Bologna,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1868083,Francesco Castaldo,2007-04-28,19,Italy,,,,Right,73,F,['ST'],160000.0,EUR,2685,Bologna,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1127191,Oussama El Azzouzi,2001-05-29,25,Morocco,,189.0,,Right,17,M,"['MC', 'DM']",1900000.0,EUR,2685,Bologna,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+793645,Riccardo Orsolini,1997-01-24,29,Italy,,183.0,73.0,Left,7,M,['RW'],15800000.0,EUR,2685,Bologna,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1100836,Samuel Mbangula,2004-01-16,22,Belgium,,180.0,,Right,11,M,['LW'],7300000.0,EUR,2685,Bologna,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+907152,Lewis Ferguson,1999-08-24,27,Scotland,,181.0,,Right,19,M,"['MC', 'DM', 'AM']",13000000.0,EUR,2685,Bologna,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+814882,Nikola Moro,1998-03-12,28,Croatia,,182.0,75.0,Right,6,M,"['MC', 'DM']",7200000.0,EUR,2685,Bologna,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+826064,Jens Odgaard,1999-03-31,27,Denmark,,188.0,,Left,21,M,"['AM', 'RW']",11400000.0,EUR,2685,Bologna,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+928796,Tommaso Pobega,1999-07-15,27,Italy,,188.0,,Both,4,M,"['MC', 'DM']",8199999.0,EUR,2685,Bologna,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1510920,Mikel Amondarain,2005-01-06,21,Argentina,,184.0,,Right,8,M,['DM'],3200000.0,EUR,2685,Bologna,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1986578,Marco Libra,2008-03-21,18,Venezuela,,182.0,,Right,18,M,['MC'],,,311321,Bologna U18,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1868092,Simone Negri,2007-12-05,18,Italy,,,,,74,M,['RW'],470000.0,EUR,2685,Bologna,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1544466,Luca Lai,2006-03-29,20,Italy,,176.0,,Left,71,M,['MC'],325000.0,EUR,2685,Bologna,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1120504,Abdel Rahim,2002-01-01,24,Niger,,184.0,75.0,Left,23,D,['DL'],3300000.0,EUR,2685,Bologna,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+965778,Arthur Theate,2000-05-25,26,Belgium,,186.0,,Left,3,D,"['DC', 'DL']",14600000.0,EUR,2685,Bologna,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+855829,Juan Miranda,2000-01-19,26,Spain,,185.0,79.0,Left,33,D,['DL'],15700000.0,EUR,2685,Bologna,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+933264,Torbjørn Heggem,1999-01-12,27,Norway,,192.0,,Left,14,D,['DC'],14000000.0,EUR,2685,Bologna,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+965264,Emil Holm,2000-05-13,26,Sweden,,191.0,,Right,2,D,"['DR', 'MR']",9000000.0,EUR,2685,Bologna,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1085913,Martin Vitík,2003-01-21,23,Czechia,,192.0,,Right,41,D,"['DC', 'DR']",13400000.0,EUR,2685,Bologna,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+928104,Nadir Zortea,1999-06-19,27,Italy,,187.0,,Right,20,D,"['DR', 'MR']",6600000.0,EUR,2685,Bologna,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1486808,Eivind Helland,2005-04-25,21,Norway,,196.0,,Right,5,D,"['DC', 'DR']",7400000.0,EUR,2685,Bologna,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+862697,Nicolò Casale,1998-02-14,28,Italy,,191.0,,Right,16,D,['DC'],4099999.0,EUR,2685,Bologna,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+14718,Lorenzo De Silvestri,1988-05-23,38,Italy,,185.0,84.0,Right,29,D,"['DR', 'MR']",540000.0,EUR,2685,Bologna,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+44906,Łukasz Skorupski,1991-05-05,35,Poland,,187.0,,Right,1,G,['GK'],1900000.0,EUR,2685,Bologna,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1530540,Massimo Pessina,2007-12-25,18,Italy,,186.0,,Right,25,G,['GK'],3800000.0,EUR,2685,Bologna,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1526395,Ukko Happonen,2007-03-13,19,Finland,,193.0,,Right,72,G,['GK'],46000.0,EUR,2685,Bologna,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2223023,Matteo Franceschelli,2008-08-08,18,Italy,,189.0,,Left,82,G,['GK'],,,2685,Bologna,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2191860,Robinho Júnior,2007-12-17,18,Brazil,,170.0,,Both,7,F,,5500000.0,EUR,2713,Genoa,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+45925,Stephan El Shaarawy,1992-10-27,33,Italy,,178.0,,Right,92,F,"['ML', 'AM', 'LW']",2200000.0,EUR,2713,Genoa,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+930191,Lorenzo Colombo,2002-03-08,24,Italy,,183.0,74.0,Left,29,F,['ST'],10900000.0,EUR,2713,Genoa,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1093695,Vitinha,2000-03-15,26,Portugal,,183.0,,Right,9,F,['ST'],8400000.0,EUR,2713,Genoa,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+888219,Junior Messias,1991-05-13,35,Brazil,,179.0,,Left,10,F,"['RW', 'MC']",1100000.0,EUR,2713,Genoa,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1618563,Lorenzo Venturino,2006-06-22,20,Italy,,178.0,,Right,76,F,['MR'],4600000.0,EUR,2713,Genoa,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+928047,Milutin Osmajić,1999-07-25,27,Montenegro,,186.0,,Right,18,F,['ST'],3300000.0,EUR,2713,Genoa,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1103911,Elias Havel,2003-04-16,23,Austria,,184.0,,Right,17,F,['ST'],2300000.0,EUR,2713,Genoa,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1605324,Joi Xheto Nuredini,2007-08-05,19,Albania,,188.0,,Right,86,F,['ST'],1100000.0,EUR,2713,Genoa,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+892924,Hamed Junior Traorè,2000-02-16,26,Côte d'Ivoire,,177.0,68.0,Right,26,M,"['AM', 'LW']",9400000.0,EUR,2713,Genoa,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+799054,Djibril Sow,1997-02-06,29,Switzerland,,184.0,77.0,Right,97,M,"['MC', 'DM']",7100000.0,EUR,2713,Genoa,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1012172,Tommaso Baldanzi,2003-03-23,23,Italy,,170.0,,Left,8,M,['AM'],8000000.0,EUR,2713,Genoa,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+918440,Morten Frendrup,2001-04-07,25,Denmark,,178.0,63.0,Right,32,M,"['MC', 'DM']",14400000.0,EUR,2713,Genoa,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1511706,Alexsandro Amorim,2005-05-18,21,Brazil,,177.0,70.0,Right,4,M,"['MC', 'DM']",8800000.0,EUR,2713,Genoa,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+609206,Kingsley Ehizibue,1995-05-25,31,Nigeria,,189.0,82.0,Right,3,M,"['MR', 'DR']",1600000.0,EUR,2713,Genoa,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+933203,Mikael Ellertsson,2002-03-11,24,Iceland,,182.0,,Left,77,M,"['ML', 'MC']",5600000.0,EUR,2713,Genoa,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1819079,Franz-Ethan Meichtry,2005-07-08,21,Switzerland,,186.0,80.0,Right,11,M,['MC'],5500000.0,EUR,2713,Genoa,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1985772,Samuel Wiafe,2008-06-22,18,Italy,,181.0,,Right,71,M,['MC'],2300000.0,EUR,2713,Genoa,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1403204,Gael Lafont,2006-06-07,20,France,,175.0,59.0,Left,75,M,"['MC', 'DM']",485000.0,EUR,2713,Genoa,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+184421,Stefano Sabelli,1993-01-13,33,Italy,,179.0,70.0,Right,20,M,"['MR', 'DR']",1300000.0,EUR,2713,Genoa,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1825906,Giovanni Lauricella,2007-01-11,19,Italy,,,,Left,,M,['MR'],,,826812,Genoa U20,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1992493,Dylan Judelson,2008-06-05,18,Canada,,180.0,,Right,41,M,['MC'],,,826812,Genoa U20,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2049482,Elia Spicuglia,2007-06-19,19,Italy,,187.0,,Right,97,M,['ST'],,,2713,Genoa,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1984032,Mattia Mendolia,2007-12-03,18,Italy,,,,Left,10,M,,,,826812,Genoa U20,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2615220,Mattia Brizzolari,2009-10-16,16,Italy,,,,,,M,,,,1145817,Genoa U17,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+889785,Johan Vásquez,1998-10-22,27,Mexico,,185.0,72.0,Left,22,D,"['DC', 'DR', 'DL']",13200000.0,EUR,2713,Genoa,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+879746,Leo Østigård,1999-11-28,26,Norway,,182.0,80.0,Right,5,D,['DC'],14300000.0,EUR,2713,Genoa,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1006089,Mario Mitaj,2003-08-06,23,Albania,,180.0,,Left,2,D,['DL'],5800000.0,EUR,2713,Genoa,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1068885,Alessandro Marcandalli,2002-10-25,23,Italy,,190.0,,Right,27,D,"['DC', 'DR']",14800000.0,EUR,2713,Genoa,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1399888,David Puczka,2005-01-26,21,Austria,,183.0,,Left,31,D,"['DL', 'ML']",3800000.0,EUR,2713,Genoa,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1404639,Sebastian Otoa,2004-05-13,22,Denmark,,198.0,,Right,34,D,['DC'],2700000.0,EUR,2713,Genoa,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+991577,Cody Drameh,2001-12-08,24,England,,175.0,,Right,16,D,"['DR', 'MR']",4300000.0,EUR,2713,Genoa,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1913428,Lukas Klisys,2007-01-04,19,Lithuania,,195.0,,,40,D,['DC'],94000.0,EUR,2713,Genoa,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1526308,Mamedi Doucoure,2007-01-19,19,France,,180.0,,Right,74,D,"['DC', 'DR']",390000.0,EUR,2713,Genoa,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2249092,Marcelo Vaz,2007-07-31,19,Guinea-Bissau,,183.0,,Left,85,D,['ML'],410000.0,EUR,2713,Genoa,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1884614,Fred,2008-04-04,18,Brazil,,,,Right,13,D,['DC'],,,2713,Genoa,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2217854,Alessandro Fabbri,2008-03-16,18,Italy,,186.0,,Left,80,D,['DC'],82000.0,EUR,826812,Genoa U20,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+556696,Justin Bijlow,1998-01-22,28,Netherlands,,190.0,73.0,Right,1,G,['GK'],4099999.0,EUR,2713,Genoa,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+595572,Daniele Sommariva,1997-07-18,29,Italy,,186.0,76.0,Right,39,G,['GK'],110000.0,EUR,2713,Genoa,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+985848,Franz Stolz,2001-02-14,25,Austria,,193.0,,Right,99,G,['GK'],650000.0,EUR,2713,Genoa,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1974150,Rendijs Mihelsons,2008-04-23,18,Latvia,,195.0,,Right,93,G,['GK'],97000.0,EUR,2713,Genoa,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+946381,Akor Adams,2000-01-29,26,Nigeria,,190.0,,Right,45,F,['ST'],14600000.0,EUR,2688,Venezia,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+879802,John Yeboah,2000-06-23,26,Ecuador,,170.0,,Left,10,F,"['ST', 'RW']",5800000.0,EUR,2688,Venezia,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1124624,Albion Rrahmani,2000-08-31,26,Kosovo,,187.0,,Both,7,F,['ST'],7200000.0,EUR,2688,Venezia,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+928921,Andrea Adorante,2000-02-05,26,Italy,,182.0,,Right,9,F,['ST'],4099999.0,EUR,2688,Venezia,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+886171,Lion Lauberbach,1998-02-15,28,Germany,,197.0,,Both,29,F,['ST'],2300000.0,EUR,2688,Venezia,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1898935,Alvin Obinna Okoro,2005-03-26,21,Italy,,185.0,,Right,90,F,['ST'],1900000.0,EUR,2688,Venezia,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1590761,Toni Fernández,2008-07-15,18,Spain,,175.0,,Left,77,M,['RW'],3100000.0,EUR,2688,Venezia,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+377512,Pasquale Mazzocchi,1995-07-27,31,Italy,,183.0,78.0,Right,70,M,"['MR', 'DR']",1400000.0,EUR,2688,Venezia,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+798002,Toma Bašić,1996-11-25,29,Croatia,,189.0,80.0,Left,26,M,"['MC', 'DM']",3100000.0,EUR,2688,Venezia,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+896180,Gianluca Busio,2002-05-28,24,USA,,170.0,61.0,Right,6,M,"['MC', 'DM']",7300000.0,EUR,2688,Venezia,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+909991,Simon Sohm,2001-04-11,25,Switzerland,,188.0,,Right,19,M,"['MC', 'AM', 'DM']",7800000.0,EUR,2688,Venezia,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+232224,Alfred Duncan,1993-03-10,33,Ghana,,178.0,78.0,Left,32,M,"['MC', 'DM']",775000.0,EUR,2688,Venezia,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1137526,Matteo Dagasso,2004-04-01,22,Italy,,185.0,,Left,30,M,['MC'],3700000.0,EUR,2688,Venezia,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+250501,Ridgeciano Haps,1993-06-12,33,Suriname,,175.0,66.0,Left,5,M,"['ML', 'DL']",650000.0,EUR,2688,Venezia,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1513549,Kornel Lisman,2006-02-20,20,Poland,,186.0,,Right,56,M,['LW'],580000.0,EUR,2688,Venezia,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+857178,Kike Pérez,1997-02-14,29,Spain,,184.0,,Left,71,M,['MC'],2300000.0,EUR,2688,Venezia,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1435035,Lamine Fanne,2004-01-30,22,Spain,,185.0,,Right,8,M,['MC'],1600000.0,EUR,2688,Venezia,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1198069,Richie Sagrado,2004-01-30,22,Belgium,,182.0,,Right,20,M,['MR'],1400000.0,EUR,2688,Venezia,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1394202,Antoine Hainaut,2002-02-18,24,France,,188.0,,Right,18,M,['MR'],4300000.0,EUR,2688,Venezia,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+886628,Þórir Jóhann Helgason,2000-09-28,26,Iceland,,187.0,,Right,21,M,"['MC', 'AM']",1700000.0,EUR,2688,Venezia,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+965005,Simone Panada,2002-06-02,24,Italy,,175.0,,Right,55,M,"['MC', 'DM']",775000.0,EUR,2688,Venezia,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2066755,Lorenzo Berardi,2006-04-05,20,Italy,,181.0,,Left,36,M,,430000.0,EUR,2688,Venezia,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1143667,Redouane Halhal,2003-03-05,23,Morocco,,187.0,,Right,25,D,['DC'],4800000.0,EUR,2688,Venezia,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+108484,Juan Jesus,1991-06-10,35,Brazil,,185.0,76.0,Left,15,D,['DC'],1500000.0,EUR,2688,Venezia,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1496360,Matias Moreno,2003-09-24,23,Argentina,,195.0,,Right,2,D,['DC'],5800000.0,EUR,2688,Venezia,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+976025,Armel Bella-Kotchap,2001-12-11,24,Germany,,190.0,,Right,17,D,['DC'],6700000.0,EUR,2688,Venezia,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+851282,Thierry Correia,1999-03-09,27,Portugal,,176.0,,Right,14,D,['DR'],2600000.0,EUR,2688,Venezia,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+880742,Bartol Franjić,2000-01-14,26,Croatia,,188.0,,Left,4,D,"['DC', 'DL']",1100000.0,EUR,2688,Venezia,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1388438,Joel Schingtienne,2002-08-14,24,Belgium,,188.0,,Right,3,D,"['DC', 'DR']",5400000.0,EUR,2688,Venezia,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+822485,Marin Šverko,1998-02-04,28,Croatia,,186.0,78.0,Left,33,D,"['DC', 'DR', 'DL']",1600000.0,EUR,2688,Venezia,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+1882599,Rufai Mohammed,2006-03-15,20,Ghana,,185.0,,Right,16,D,['DC'],320000.0,EUR,2688,Venezia,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+2144390,Ale Gomes,2008-02-14,18,Spain,,187.0,,Left,95,D,['DC'],515000.0,EUR,2688,Venezia,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+986355,Filip Stanković,2002-02-25,24,Serbia,,188.0,,Right,1,G,['GK'],7800000.0,EUR,2688,Venezia,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+253391,Lorenzo Montipò,1996-01-01,30,Italy,,191.0,72.0,Right,96,G,['GK'],1200000.0,EUR,2688,Venezia,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+125807,Matteo Grandi,1992-10-12,33,Italy,,190.0,,Right,23,G,['GK'],55000.0,EUR,2688,Venezia,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49
+899301,Alessio Pozzi,2000-12-14,25,Italy,,184.0,,Right,28,G,['GK'],430000.0,EUR,2688,Venezia,ITA,2026-2027,datafc_sofascore,2026-10-06 17:55:49

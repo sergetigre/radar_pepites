@@ -1,0 +1,22 @@
+﻿league,season,team,player,nation,pos,age,born,Playing Time_MP,Playing Time_Starts,Playing Time_Min,Playing Time_90s,Performance_GA,Performance_GA90,Performance_SoTA,Performance_Saves,Performance_Save%,Performance_W,Performance_D,Performance_L,Performance_CS,Performance_CS%,Penalty Kicks_PKatt,Penalty Kicks_PKA,Penalty Kicks_PKsv,Penalty Kicks_PKm,Penalty Kicks_Save%,_league_id,_season,_stat_type,_source,_scraped_at
+GER-Bundesliga,2627,Augsburg,Finn Dahmen,GER,GK,28-193,1998,4,4,360,4,6,1.5,27,21,77.8,2,1,1,1,25.0,0,0,0,0,,GER,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:29:19
+GER-Bundesliga,2627,Bayern Munich,Jonas Urbig,GER,GK,23-059,2003,1,1,90,1,1,1.0,1,0,0.0,1,0,0,0,0.0,0,0,0,0,,GER,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:29:19
+GER-Bundesliga,2627,Bayern Munich,Manuel Neuer,GER,GK,40-193,1986,3,3,270,3,1,0.33,7,6,85.7,2,1,0,2,66.7,0,0,0,0,,GER,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:29:19
+GER-Bundesliga,2627,Dortmund,Gregor Kobel,SUI,GK,28-304,1997,4,4,360,4,2,0.5,14,12,85.7,4,0,0,3,75.0,0,0,0,0,,GER,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:29:19
+GER-Bundesliga,2627,Elversberg,Nicolas Kristof,AUT,GK,26-290,1999,4,4,360,4,7,1.75,16,8,56.3,2,1,1,1,25.0,0,0,0,0,,GER,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:29:19
+GER-Bundesliga,2627,Frankfurt,Noah Atubolu,GER,GK,24-134,2002,4,4,360,4,10,2.5,30,20,66.7,1,2,1,0,0.0,1,0,1,0,100,GER,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:29:19
+GER-Bundesliga,2627,Freiburg,Mio Backhaus,GER,GK,22-173,2004,4,4,360,4,3,0.75,9,6,66.7,3,1,0,2,50.0,0,0,0,0,,GER,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:29:19
+GER-Bundesliga,2627,Gladbach,Moritz Nicolas,GER,GK,28-350,1997,4,4,360,4,16,4.0,38,22,57.9,0,0,4,0,0.0,0,0,0,0,,GER,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:29:19
+GER-Bundesliga,2627,Hamburger SV,Daniel Heuer Fernandes,POR,GK,33-327,1992,4,4,360,4,13,3.25,26,13,50.0,1,0,3,0,0.0,0,0,0,0,,GER,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:29:19
+GER-Bundesliga,2627,Hoffenheim,Oliver Baumann,GER,GK,36-126,1990,4,4,360,4,10,2.5,21,11,52.4,1,0,3,0,0.0,0,0,0,0,,GER,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:29:19
+GER-Bundesliga,2627,Köln,Marvin Schwäbe,GER,GK,31-164,1995,4,4,360,4,9,2.25,23,14,60.9,1,1,2,0,0.0,1,0,1,0,100,GER,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:29:19
+GER-Bundesliga,2627,Leverkusen,Mark Flekken,NED,GK,33-115,1993,4,4,360,4,5,1.25,14,9,64.3,2,1,1,2,50.0,0,0,0,0,,GER,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:29:19
+GER-Bundesliga,2627,Mainz 05,Alexander Schwolow,GER,GK,34-126,1992,2,2,180,2,3,1.5,8,5,62.5,2,0,0,1,50.0,2,1,0,1,0,GER,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:29:19
+GER-Bundesliga,2627,Mainz 05,Robin Zentner,GER,GK,31-343,1994,2,2,180,2,3,1.5,5,2,40.0,0,1,1,1,50.0,0,0,0,0,,GER,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:29:19
+GER-Bundesliga,2627,Paderborn 07,Nahuel Noll,GER,GK,23-203,2003,4,4,360,4,5,1.25,19,14,73.7,1,1,2,1,25.0,0,0,0,0,,GER,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:29:19
+GER-Bundesliga,2627,RB Leipzig,Maarten Vandevoordt,BEL,GK,24-222,2002,4,4,360,4,5,1.25,21,16,76.2,2,0,2,2,50.0,0,0,0,0,,GER,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:29:19
+GER-Bundesliga,2627,Schalke 04,Loris Karius,GER,GK,33-106,1993,4,4,360,4,4,1.0,27,23,85.2,1,2,1,2,50.0,0,0,0,0,,GER,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:29:19
+GER-Bundesliga,2627,Stuttgart,Fabian Bredlow,GER,GK,31-218,1995,4,4,360,4,9,2.25,24,15,62.5,1,0,3,0,0.0,0,0,0,0,,GER,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:29:19
+GER-Bundesliga,2627,Union Berlin,Frederik Rønnow,DEN,GK,34-063,1992,3,3,270,3,14,4.67,32,18,56.3,0,0,3,0,0.0,1,1,0,0,0,GER,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:29:19
+GER-Bundesliga,2627,Union Berlin,Matheo Raab,GER,GK,27-292,1998,1,1,90,1,3,3.0,3,0,0.0,0,1,0,0,0.0,0,0,0,0,,GER,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:29:19
+GER-Bundesliga,2627,Werder Bremen,Karl Jakob Hein,EST,GK,24-176,2002,4,4,360,4,8,2.0,18,10,55.6,2,1,1,0,0.0,1,0,1,0,100,GER,2026-2027,keeper,fbref_soccerdata,2026-10-06 13:29:19
