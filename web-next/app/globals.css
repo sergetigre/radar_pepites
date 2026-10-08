@@ -1,0 +1,305 @@
+@import "tailwindcss";
+
+/* Palette RadarPépites — portée telle quelle depuis web/utils/styles.py.
+   App toujours en thème sombre côté Streamlit (pas de bascule clair/sombre),
+   donc pas de variante "light" ici : copie conforme. */
+@theme {
+  --color-primary: #2dad7e;
+  --color-primary-light: #5dcba0;
+  --color-primary-dark: #1a8a5a;
+
+  --color-bg: #0a0a0a;
+  --color-sidebar: #0d0d0d;
+  --color-card: #111111;
+  --color-border: #1a1a1a;
+
+  --color-text: #ffffff;
+  --color-text-muted: #8a8a8a;
+  --color-text-nav: #dadada;
+
+  --color-danger: #e05252;
+  --color-warning: #e0b452;
+
+  --font-sans: var(--font-geist-sans), Arial, Helvetica, sans-serif;
+}
+
+body {
+  background: var(--color-bg);
+  color: var(--color-text);
+}
+
+/* Material Symbols (variable) en graisse fine — remplace Material Icons
+   Outlined (graisse fixe, trait trop épais). Classe conservée telle quelle
+   pour ne pas toucher tous les call-sites. */
+.material-icons-outlined {
+  font-family: "Material Symbols Outlined";
+  font-variation-settings:
+    "FILL" 0,
+    "wght" 200,
+    "GRAD" 0,
+    "opsz" 24;
+}
+
+/* ── Panneau Filtres repliable (<details> natif, cf. Filters.tsx) ────── */
+.filters-details > summary::-webkit-details-marker {
+  display: none;
+}
+.filters-details > summary {
+  list-style: none;
+}
+.filters-details > summary .chevron {
+  display: inline-block;
+  transition: transform 0.2s ease;
+  transform: rotate(-90deg);
+}
+.filters-details[open] > summary .chevron {
+  transform: rotate(0deg);
+}
+
+/* Composants portés 1:1 depuis web/utils/styles.py — classes réutilisées
+   telles quelles sur plusieurs pages (Tableau de bord, Championnats, ...),
+   d'où leur centralisation ici plutôt qu'en utilitaires Tailwind ad hoc. */
+
+.card {
+  background: var(--color-card);
+  border-radius: 12px;
+  padding: 16px;
+  border: 1px solid var(--color-border);
+  margin-bottom: 12px;
+}
+.card-accent {
+  border-left: 3px solid var(--color-primary);
+}
+.card:hover {
+  border-color: var(--color-primary);
+  transition: border-color 0.2s;
+}
+
+a.player-card-link {
+  text-decoration: none;
+  display: block;
+}
+.player-mini-card {
+  cursor: pointer;
+  transition: border-color 0.2s, transform 0.15s;
+}
+.player-mini-card:hover {
+  border-color: var(--color-primary);
+  transform: translateY(-2px);
+}
+.player-mini-card .pmc-name {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-weight: 700;
+  color: var(--color-text);
+  font-size: 0.95rem;
+  margin-bottom: 8px;
+}
+.player-mini-card .pmc-league {
+  font-size: 0.65rem;
+  color: var(--color-text-muted);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.player-mini-card .pmc-details {
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+  margin: 4px 0 10px 0;
+}
+
+.score-badge-sm {
+  display: inline-block;
+  background: var(--color-primary);
+  color: #000000;
+  font-weight: 700;
+  font-size: 0.85rem;
+  padding: 3px 10px;
+  border-radius: 6px;
+}
+
+.kpi-container {
+  background: var(--color-card);
+  border-radius: 10px;
+  padding: 12px;
+  border: 1px solid var(--color-border);
+}
+
+/* ── Header joueur (Radar Joueur/GK) ─────────────────── */
+.player-header {
+  background: var(--color-card);
+  border: 1px solid var(--color-border);
+  border-radius: 16px;
+  padding: 24px;
+  margin-bottom: 24px;
+}
+.player-name {
+  font-size: 1.8rem;
+  font-weight: 800;
+  color: var(--color-text);
+  margin: 0 0 4px 0;
+}
+.player-photo {
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  object-fit: cover;
+  background: var(--color-border);
+  border: 2px solid var(--color-border);
+  flex-shrink: 0;
+}
+.club-logo {
+  width: 18px;
+  height: 18px;
+  object-fit: contain;
+  display: block;
+}
+.flag-icon {
+  width: 18px;
+  height: 13px;
+  object-fit: cover;
+  border-radius: 2px;
+  margin-right: 5px;
+  vertical-align: middle;
+}
+.player-badge {
+  display: inline-flex;
+  align-items: center;
+  background: var(--color-border);
+  border: 1px solid #2dad7e22;
+  color: var(--color-text);
+  font-size: 0.8rem;
+  padding: 4px 10px;
+  border-radius: 6px;
+  margin: 3px 3px 3px 0;
+}
+
+.score-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, var(--color-primary), var(--color-primary-light));
+  color: #000000;
+  font-weight: 800;
+  font-size: 1.3rem;
+  line-height: 1;
+  white-space: nowrap;
+  min-width: 64px;
+  height: 64px;
+  padding: 0 10px;
+  border-radius: 12px;
+}
+
+.stat-counter {
+  display: inline-block;
+  background: #2dad7e22;
+  border: 1px solid var(--color-primary);
+  color: var(--color-primary);
+  font-size: 0.8rem;
+  font-weight: 700;
+  padding: 2px 10px;
+  border-radius: 20px;
+  margin-left: 8px;
+}
+.stat-counter.full {
+  background: var(--color-primary);
+  color: #000000;
+}
+
+/* ── Détail par saison (Progression) : meilleure/pire valeur ─────────── */
+.stat-best {
+  color: var(--color-primary);
+  font-weight: 700;
+}
+.stat-worst {
+  color: #e08a8a;
+}
+
+/* ── Profils similaires ───────────────────────────────── */
+.similar-card {
+  background: var(--color-card);
+  border: 1px solid var(--color-border);
+  border-radius: 10px;
+  padding: 12px 14px;
+  margin-bottom: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+a.similar-card-link {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+  transition: border-color 0.2s, transform 0.15s;
+}
+a.similar-card-link:hover {
+  border-color: var(--color-primary);
+  transform: translateY(-1px);
+}
+.similar-pct {
+  color: var(--color-primary);
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+/* ── Points forts / axes d'amélioration ──────────────── */
+.strength-item {
+  background: #0f5436;
+  border-left: 3px solid var(--color-primary);
+  border-radius: 0 8px 8px 0;
+  padding: 8px 12px;
+  margin: 5px 0;
+  font-size: 0.85rem;
+  color: var(--color-text);
+}
+.weakness-item {
+  background: #3d1a1a;
+  border-left: 3px solid var(--color-danger);
+  border-radius: 0 8px 8px 0;
+  padding: 8px 12px;
+  margin: 5px 0;
+  font-size: 0.85rem;
+  color: var(--color-text);
+}
+
+/* ── Barre percentile ─────────────────────────────────── */
+.pct-bar-container {
+  margin: 6px 0;
+}
+.pct-bar-label {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+  margin-bottom: 3px;
+}
+.pct-bar-label span:last-child {
+  color: var(--color-text);
+  font-weight: 600;
+}
+.pct-bar-track {
+  height: 6px;
+  background: var(--color-border);
+  border-radius: 3px;
+  overflow: hidden;
+}
+.pct-bar-fill {
+  height: 100%;
+  border-radius: 3px;
+  transition: width 0.3s ease;
+}
+
+/* ── Terrain SVG ──────────────────────────────────────── */
+.pitch-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* ── Ligne de classement (Championnats, Top 5 par catégorie) ───────── */
+.bar-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 8px 4px;
+}
