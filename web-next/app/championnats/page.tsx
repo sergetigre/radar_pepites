@@ -93,13 +93,14 @@ async function ChampionnatContent({
   ageMax: number;
   t: Dictionary;
 }) {
-  const [classement, gkTop] = await Promise.all([
+  const [classement, gkTop, gkTop5BySaves] = await Promise.all([
     getClassement(saison, ligues, postes.length > 0 ? postes : POSTES_ORDER, ageMax, minMin),
     getTopGkScore(saison, ligues, minMin, ageMax, 3, nationalites),
+    getTopGkScore(saison, ligues, minMin, ageMax, 5, nationalites, "saves_p90"),
   ]);
   const data = classement.filter((r) => nationalites.includes(r.nationalite_principale ?? ""));
 
-  if (data.length === 0) {
+  if (data.length === 0 && gkTop5BySaves.length === 0) {
     return <p className="text-text-muted mt-4">{t.championnats.noData}</p>;
   }
 
@@ -111,7 +112,7 @@ async function ChampionnatContent({
         {t.championnats.top5Title}
       </h3>
       <p className="text-text-muted text-sm mb-4">{t.championnats.top5Subtitle}</p>
-      <TopCategoryTabs data={data} saison={saison} />
+      <TopCategoryTabs data={data} gkData={gkTop5BySaves} saison={saison} />
 
       <hr className="border-border my-6" />
       <h3 className="text-[1.15rem] font-bold mb-1 flex items-center gap-1.5">

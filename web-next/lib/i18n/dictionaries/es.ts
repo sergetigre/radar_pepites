@@ -291,6 +291,8 @@ const es = {
     categoryDribblers: "Regateadores",
     categoryDefenders: "Defensas",
     categoryCreators: "Creadores",
+    categoryGoalkeepers: "Porteros",
+    rankedBy: "Clasificado por {metric}",
     gk: "Portero",
     defense: "Defensa",
     midfield: "Mediocampo",

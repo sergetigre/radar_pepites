@@ -162,6 +162,7 @@ export type TopGkScoreRow = {
   ligue: string;
   ligue_id: string;
   team_id_ss: number | null;
+  saves_p90: number | null;
 };
 
 // Portage de web/utils/db.py::get_top_gk_score() — sourcé directement de
@@ -177,22 +178,39 @@ export async function getTopGkScore(
   minMin: number,
   ageMax: number,
   n: number,
-  nationalites: string[]
+  nationalites: string[],
+  orderBy: "score" | "saves_p90" = "score"
 ): Promise<TopGkScoreRow[]> {
   if (ligueIds.length === 0 || nationalites.length === 0) return [];
-  const rows = await query`
-    SELECT f.joueur_id, j.nom_complet AS joueur, e.nom_complet AS equipe,
-           f.age, f.score_pepite_corrige AS score_corrige,
-           l.nom_complet AS ligue, f.ligue_id, e.team_id_ss
-    FROM public.fact_stats f
-    JOIN public.dim_joueurs j ON f.joueur_id = j.joueur_id
-    JOIN public.dim_equipes e ON f.equipe_id = e.equipe_id
-    JOIN public.dim_ligues  l ON f.ligue_id  = l.ligue_id
-    WHERE f.poste_id = 'GK' AND f.est_u23 = TRUE AND f.ligue_id = ANY(${ligueIds})
-      AND f.saison_id = ${saison} AND f.minutes >= ${minMin}
-      AND f.age <= ${ageMax} AND j.nationalite_principale = ANY(${nationalites})
-    ORDER BY f.score_pepite_corrige DESC NULLS LAST
-    LIMIT ${n}
-  `;
+  const rows =
+    orderBy === "saves_p90"
+      ? await query`
+          SELECT f.joueur_id, j.nom_complet AS joueur, e.nom_complet AS equipe,
+                 f.age, f.score_pepite_corrige AS score_corrige,
+                 l.nom_complet AS ligue, f.ligue_id, e.team_id_ss, f.saves_p90
+          FROM public.fact_stats f
+          JOIN public.dim_joueurs j ON f.joueur_id = j.joueur_id
+          JOIN public.dim_equipes e ON f.equipe_id = e.equipe_id
+          JOIN public.dim_ligues  l ON f.ligue_id  = l.ligue_id
+          WHERE f.poste_id = 'GK' AND f.est_u23 = TRUE AND f.ligue_id = ANY(${ligueIds})
+            AND f.saison_id = ${saison} AND f.minutes >= ${minMin}
+            AND f.age <= ${ageMax} AND j.nationalite_principale = ANY(${nationalites})
+          ORDER BY f.saves_p90 DESC NULLS LAST
+          LIMIT ${n}
+        `
+      : await query`
+          SELECT f.joueur_id, j.nom_complet AS joueur, e.nom_complet AS equipe,
+                 f.age, f.score_pepite_corrige AS score_corrige,
+                 l.nom_complet AS ligue, f.ligue_id, e.team_id_ss, f.saves_p90
+          FROM public.fact_stats f
+          JOIN public.dim_joueurs j ON f.joueur_id = j.joueur_id
+          JOIN public.dim_equipes e ON f.equipe_id = e.equipe_id
+          JOIN public.dim_ligues  l ON f.ligue_id  = l.ligue_id
+          WHERE f.poste_id = 'GK' AND f.est_u23 = TRUE AND f.ligue_id = ANY(${ligueIds})
+            AND f.saison_id = ${saison} AND f.minutes >= ${minMin}
+            AND f.age <= ${ageMax} AND j.nationalite_principale = ANY(${nationalites})
+          ORDER BY f.score_pepite_corrige DESC NULLS LAST
+          LIMIT ${n}
+        `;
   return rows as TopGkScoreRow[];
 }

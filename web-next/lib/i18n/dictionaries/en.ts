@@ -291,6 +291,8 @@ const en = {
     categoryDribblers: "Dribblers",
     categoryDefenders: "Defenders",
     categoryCreators: "Creators",
+    categoryGoalkeepers: "Goalkeepers",
+    rankedBy: "Ranked by {metric}",
     gk: "Goalkeeper",
     defense: "Defense",
     midfield: "Midfield",

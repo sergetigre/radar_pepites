@@ -302,6 +302,8 @@ const fr = {
     categoryDribblers: "Dribbleurs",
     categoryDefenders: "Défenseurs",
     categoryCreators: "Créateurs",
+    categoryGoalkeepers: "Gardiens",
+    rankedBy: "Classé par {metric}",
     gk: "Gardien",
     defense: "Défense",
     midfield: "Milieu",
