@@ -1,8 +1,12 @@
 // Portage 1:1 de web/utils/media.py — photos joueurs, logos clubs/ligues,
-// drapeaux pays. Hotlinks Sofascore directs (pas de stockage cote projet).
-// Fichier serveur ET client (aucune dependance a lib/db.ts).
+// drapeaux pays. Fichier serveur ET client (aucune dependance a lib/db.ts).
 
-const SOFASCORE_IMG_BASE = "https://www.sofascore.com/api/v1";
+// Passe par /api/img/... (voir app/api/img/[kind]/[id]/route.ts) plutôt que
+// par un hotlink direct vers Sofascore : Sofascore (protégé Cloudflare,
+// cf. commit scraper 573ad47) renvoie des 403 intermittents dès qu'un
+// visiteur charge plusieurs dizaines d'images en rafale — la route proxy
+// regroupe et met en cache ces requêtes côté serveur.
+const SOFASCORE_IMG_BASE = "/api/img";
 
 // ligue_id (dim_ligues) -> tournament_id Sofascore.
 export const LIGUE_TOURNAMENT_IDS: Record<string, number> = {
@@ -75,7 +79,7 @@ export function flagImageUrl(countryCode: string | null | undefined): string | n
 
 function sofascoreImageUrl(kind: string, entityId: number | null | undefined): string | null {
   if (entityId == null) return null;
-  return `${SOFASCORE_IMG_BASE}/${kind}/${entityId}/image`;
+  return `${SOFASCORE_IMG_BASE}/${kind}/${entityId}`;
 }
 
 export function playerPhotoUrl(playerIdSs: number | null | undefined): string | null {
