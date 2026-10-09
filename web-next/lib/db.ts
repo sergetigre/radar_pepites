@@ -22,6 +22,9 @@ const sql = neon(databaseUrl);
 // convertit donc les chaînes numériques après coup plutôt que de caster
 // ::float8 dans chaque requête portée depuis db.py.
 function coerceNumericStrings<T>(value: T): T {
+  if (Buffer.isBuffer(value) || value instanceof Uint8Array) {
+    return value;
+  }
   if (Array.isArray(value)) {
     return value.map(coerceNumericStrings) as unknown as T;
   }

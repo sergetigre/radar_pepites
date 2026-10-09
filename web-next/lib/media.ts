@@ -2,10 +2,12 @@
 // drapeaux pays. Fichier serveur ET client (aucune dependance a lib/db.ts).
 
 // Passe par /api/img/... (voir app/api/img/[kind]/[id]/route.ts) plutôt que
-// par un hotlink direct vers Sofascore : Sofascore (protégé Cloudflare,
-// cf. commit scraper 573ad47) renvoie des 403 intermittents dès qu'un
-// visiteur charge plusieurs dizaines d'images en rafale — la route proxy
-// regroupe et met en cache ces requêtes côté serveur.
+// par un hotlink direct vers Sofascore : Sofascore (Cloudflare, cf. commit
+// scraper 573ad47) bloque systématiquement les requêtes serveur-à-serveur
+// ET les rafales de hotlinks client — vérifié manuellement sur les deux.
+// Les images sont téléchargées une fois via navigateur réel
+// (etl/extract/download_media_assets.py) et stockées dans
+// public.media_assets ; cette route ne fait que les relire.
 const SOFASCORE_IMG_BASE = "/api/img";
 
 // ligue_id (dim_ligues) -> tournament_id Sofascore.
