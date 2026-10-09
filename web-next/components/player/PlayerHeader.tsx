@@ -1,9 +1,10 @@
 "use client";
 
-import { flagImageUrl, playerPhotoUrl, teamLogoUrl, ligueLogoUrl } from "@/lib/media";
+import { flagImageUrl, playerPhotoUrl, teamLogoUrl, ligueLogoUrl, ligueLogoInvert } from "@/lib/media";
 import { Icon } from "@/components/ui/Icon";
 import { formatNumber } from "@/lib/format";
 import { ligueColor } from "@/lib/ligue-colors";
+import { useI18n } from "@/components/i18n/I18nProvider";
 
 // Portage 1:1 de web/utils/components.py::ligue_court()
 const LIGUE_COURT_MAP: Record<string, string> = {
@@ -48,6 +49,7 @@ export type PlayerHeaderData = {
 
 // Portage 1:1 de web/utils/components.py::render_player_header()
 export function PlayerHeader({ row, isGk = false }: { row: PlayerHeaderData; isGk?: boolean }) {
+  const { t } = useI18n();
   const nom = row.nom_complet || "—";
   const age = row.age;
   const nat = row.nationalite_principale;
@@ -59,7 +61,10 @@ export function PlayerHeader({ row, isGk = false }: { row: PlayerHeaderData; isG
   const rangL = row.score_rang_ligue;
   const rangG = row.score_rang_global;
   const color = ligueColor(row.ligue_id);
-  const poste = row.poste_id || row.poste_principal || (isGk ? "GK" : "");
+  const posteCode = row.poste_id || row.poste_principal || (isGk ? "GK" : "");
+  const poste = posteCode
+    ? t.postes.labels[posteCode as keyof typeof t.postes.labels] ?? posteCode
+    : "";
   const saison = row.saison_courte || row.saison_id;
 
   const photoUrl = playerPhotoUrl(row.player_id_ss);
@@ -107,7 +112,7 @@ export function PlayerHeader({ row, isGk = false }: { row: PlayerHeaderData; isG
                 <img
                   src={ligueUrl}
                   alt=""
-                  className="club-logo"
+                  className={`ligue-logo${ligueLogoInvert(row.ligue_id) ? " ligue-logo-invert" : ""}`}
                   onError={(e) => {
                     e.currentTarget.style.display = "none";
                   }}
@@ -120,13 +125,13 @@ export function PlayerHeader({ row, isGk = false }: { row: PlayerHeaderData; isG
               {saison && (
                 <span className="player-badge">
                   <Icon name="event" size={14} />
-                  Saison {saison}
+                  {t.common.season} {saison}
                 </span>
               )}
               {age != null && (
                 <span className="player-badge">
                   <Icon name="cake" size={14} />
-                  {age} ans
+                  {age} {t.common.years}
                 </span>
               )}
               {nat && (

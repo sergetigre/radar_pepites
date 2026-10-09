@@ -39,9 +39,9 @@ export function SidebarShell({
           type="button"
           onClick={() => setMobileOpen(true)}
           aria-label="Ouvrir le menu"
-          className="flex items-center justify-center w-8 h-8 rounded-lg hover:bg-white/[0.06]"
+          className="flex items-center justify-center w-8 h-8 rounded-lg hover:bg-overlay"
         >
-          <Icon name="menu" size={22} color="#DADADA" />
+          <Icon name="menu" size={22} color="var(--color-text-nav)" />
         </button>
         <span className="font-extrabold text-primary tracking-wide">RadarPépites</span>
       </div>
@@ -70,7 +70,7 @@ export function SidebarShell({
         className="hidden md:flex fixed top-4 z-50 items-center justify-center w-7 h-7 rounded-full bg-card border border-border transition-[left] duration-200 hover:border-primary"
         style={{ left: collapsed ? 10 : 266 }}
       >
-        <Icon name={collapsed ? "chevron_right" : "chevron_left"} size={18} color="#8A8A8A" />
+        <Icon name={collapsed ? "chevron_right" : "chevron_left"} size={18} color="var(--color-text-muted)" />
       </button>
 
       <main className="flex-1 min-w-0 px-4 md:px-8 py-4 md:py-6 max-w-[1400px]">{children}</main>

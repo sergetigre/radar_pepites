@@ -3,6 +3,8 @@
 import ReactECharts from "echarts-for-react";
 import { RADAR_LABELS } from "@/lib/charts-config";
 import { formatNumber } from "@/lib/format";
+import { useTheme } from "@/components/theme/ThemeProvider";
+import { CHART_COLORS } from "@/lib/theme/chartColors";
 
 // Portage de web/utils/charts.py::radar_compare() — deux traces (A vert,
 // B rouge), pas de trace "Moyenne" (contrairement à radar_single).
@@ -12,14 +14,19 @@ export function RadarCompare({
   axes,
   nameA,
   nameB,
+  labels: labelsOverride,
 }: {
   rowA: Record<string, unknown>;
   rowB: Record<string, unknown>;
   axes: string[];
   nameA: string;
   nameB: string;
+  labels?: Record<string, string>;
 }) {
-  const labels = axes.map((a) => RADAR_LABELS[a] ?? a);
+  const { theme } = useTheme();
+  const c = CHART_COLORS[theme];
+  const labelMap = labelsOverride ?? RADAR_LABELS;
+  const labels = axes.map((a) => labelMap[a] ?? a);
   const valsA = axes.map((a) => Number(rowA[a] ?? 0));
   const valsB = axes.map((a) => Number(rowB[a] ?? 0));
 
@@ -28,16 +35,16 @@ export function RadarCompare({
     legend: {
       data: [nameA, nameB],
       bottom: 0,
-      textStyle: { color: "#FFFFFF" },
+      textStyle: { color: c.text },
     },
     radar: {
       indicator: labels.map((l) => ({ name: l, max: 100 })),
       shape: "polygon",
       splitNumber: 4,
-      axisName: { color: "#FFFFFF", fontSize: 9 },
-      splitLine: { lineStyle: { color: "#1A1A1A" } },
-      splitArea: { areaStyle: { color: ["#111111", "#111111"] } },
-      axisLine: { lineStyle: { color: "#1A1A1A" } },
+      axisName: { color: c.text, fontSize: 9 },
+      splitLine: { lineStyle: { color: c.grid } },
+      splitArea: { areaStyle: { color: [c.cardBg, c.cardBg] } },
+      axisLine: { lineStyle: { color: c.grid } },
     },
     series: [
       {
@@ -62,9 +69,9 @@ export function RadarCompare({
     ],
     tooltip: {
       trigger: "item",
-      backgroundColor: "#111111",
-      borderColor: "#1A1A1A",
-      textStyle: { color: "#FFFFFF" },
+      backgroundColor: c.tooltipBg,
+      borderColor: c.tooltipBorder,
+      textStyle: { color: c.text },
       formatter: (params: { seriesName: string; value: number[] }) => {
         const lines = labels.map((l, i) => `${l} : ${formatNumber(params.value[i])}`).join("<br/>");
         return `<b>${params.seriesName}</b><br/>${lines}`;

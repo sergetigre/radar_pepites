@@ -120,13 +120,17 @@ export type ClassementGkRow = {
   save_pct_fb: number | null;
   clean_sheets_fb: number | null;
   minutes_ss: number;
+  team_id_ss: number | null;
 };
 
-// Portage 1:1 de web/utils/db.py::get_classement_gk() — listing seulement
+// Portage de web/utils/db.py::get_classement_gk() — listing seulement
 // (gold.vue_top_u23_gk, sourcée de silver.keepers_combined), SANS Score
 // Pépite : incohérence connue avec /championnats (get_top_gk_score/
 // fact_stats, avec score), tranchée explicitement avec l'utilisateur —
 // ne pas corriger ici, reproduire le comportement actuel à l'identique.
+// Ajout de team_id_ss (logo club) : vue_top_u23_gk n'a pas d'equipe_id
+// direct, donc jointure via dim_joueurs.player_id_ss -> fact_stats (même
+// joueur_id + saison_id) -> dim_equipes, sans duplication de lignes.
 export async function getClassementGk(
   saison: string,
   ligues: string[],
@@ -135,12 +139,16 @@ export async function getClassementGk(
   if (ligues.length === 0) return [];
   const rows = await query`
     SELECT
-      player_id_ss, player_name, team_name, ligue_id, age_actuel,
-      saves_p90, goals_prevented_ss, save_pct_fb, clean_sheets_fb, minutes_ss
-    FROM gold.vue_top_u23_gk
-    WHERE saison_id = ${saison} AND ligue_id = ANY(${ligues})
-      AND minutes_ss >= ${minMin}
-    ORDER BY saves_p90 DESC NULLS LAST
+      g.player_id_ss, g.player_name, g.team_name, g.ligue_id, g.age_actuel,
+      g.saves_p90, g.goals_prevented_ss, g.save_pct_fb, g.clean_sheets_fb, g.minutes_ss,
+      e.team_id_ss
+    FROM gold.vue_top_u23_gk g
+    LEFT JOIN public.dim_joueurs j ON j.player_id_ss = g.player_id_ss
+    LEFT JOIN public.fact_stats f ON f.joueur_id = j.joueur_id AND f.saison_id = g.saison_id
+    LEFT JOIN public.dim_equipes e ON e.equipe_id = f.equipe_id
+    WHERE g.saison_id = ${saison} AND g.ligue_id = ANY(${ligues})
+      AND g.minutes_ss >= ${minMin}
+    ORDER BY g.saves_p90 DESC NULLS LAST
   `;
   return rows as ClassementGkRow[];
 }
@@ -151,6 +159,9 @@ export type TopGkScoreRow = {
   equipe: string;
   age: number;
   score_corrige: number | null;
+  ligue: string;
+  ligue_id: string;
+  team_id_ss: number | null;
 };
 
 // Portage de web/utils/db.py::get_top_gk_score() — sourcé directement de
@@ -158,7 +169,8 @@ export type TopGkScoreRow = {
 // compatible avec joueur_id/get_gk_fiche) : donne le vrai joueur_id
 // utilisable pour un lien Radar GK et le score_pepite_corrige. ligueId
 // (string) devenu ligueIds (string[]) + ajout nationalites : page
-// Championnats désormais multi-ligues, avec critère nationalité.
+// Championnats désormais multi-ligues, avec critère nationalité. Ajout
+// ligue_id + team_id_ss (logos).
 export async function getTopGkScore(
   saison: string,
   ligueIds: string[],
@@ -170,10 +182,12 @@ export async function getTopGkScore(
   if (ligueIds.length === 0 || nationalites.length === 0) return [];
   const rows = await query`
     SELECT f.joueur_id, j.nom_complet AS joueur, e.nom_complet AS equipe,
-           f.age, f.score_pepite_corrige AS score_corrige
+           f.age, f.score_pepite_corrige AS score_corrige,
+           l.nom_complet AS ligue, f.ligue_id, e.team_id_ss
     FROM public.fact_stats f
     JOIN public.dim_joueurs j ON f.joueur_id = j.joueur_id
     JOIN public.dim_equipes e ON f.equipe_id = e.equipe_id
+    JOIN public.dim_ligues  l ON f.ligue_id  = l.ligue_id
     WHERE f.poste_id = 'GK' AND f.est_u23 = TRUE AND f.ligue_id = ANY(${ligueIds})
       AND f.saison_id = ${saison} AND f.minutes >= ${minMin}
       AND f.age <= ${ageMax} AND j.nationalite_principale = ANY(${nationalites})

@@ -3,6 +3,8 @@
 import ReactECharts from "echarts-for-react";
 import { RADAR_AXES, RADAR_LABELS } from "@/lib/charts-config";
 import { formatNumber } from "@/lib/format";
+import { useTheme } from "@/components/theme/ThemeProvider";
+import { CHART_COLORS } from "@/lib/theme/chartColors";
 
 // Portage de web/utils/charts.py::radar_single() — trace "Moyenne" en
 // pointillés à 50 partout (référence), trace joueur par-dessus.
@@ -11,15 +13,20 @@ export function RadarSingle({
   poste,
   name,
   color,
+  labels: labelsOverride,
 }: {
   row: Record<string, unknown>;
   poste: string;
   name: string;
   color: string;
+  labels?: Record<string, string>;
 }) {
+  const { theme } = useTheme();
+  const c = CHART_COLORS[theme];
   const axes = RADAR_AXES[poste] ?? RADAR_AXES["CM"];
   const vals = axes.map((a) => Number(row[a] ?? 0));
-  const labels = axes.map((a) => RADAR_LABELS[a] ?? a);
+  const labelMap = labelsOverride ?? RADAR_LABELS;
+  const labels = axes.map((a) => labelMap[a] ?? a);
 
   const hex = color.replace("#", "");
   const r = parseInt(hex.slice(0, 2), 16);
@@ -31,16 +38,16 @@ export function RadarSingle({
     legend: {
       data: ["Moyenne", name],
       bottom: 0,
-      textStyle: { color: "#FFFFFF" },
+      textStyle: { color: c.text },
     },
     radar: {
       indicator: labels.map((l) => ({ name: l, max: 100 })),
       shape: "polygon",
       splitNumber: 4,
-      axisName: { color: "#FFFFFF", fontSize: 9 },
-      splitLine: { lineStyle: { color: "#1A1A1A" } },
-      splitArea: { areaStyle: { color: ["#111111", "#111111"] } },
-      axisLine: { lineStyle: { color: "#1A1A1A" } },
+      axisName: { color: c.text, fontSize: 9 },
+      splitLine: { lineStyle: { color: c.grid } },
+      splitArea: { areaStyle: { color: [c.cardBg, c.cardBg] } },
+      axisLine: { lineStyle: { color: c.grid } },
     },
     series: [
       {
@@ -50,9 +57,9 @@ export function RadarSingle({
             name: "Moyenne",
             value: axes.map(() => 50),
             symbol: "none",
-            lineStyle: { color: "rgba(255,255,255,0.15)", type: "dashed", width: 1 },
-            areaStyle: { color: "rgba(255,255,255,0.02)" },
-            itemStyle: { color: "rgba(255,255,255,0.15)" },
+            lineStyle: { color: c.faint, type: "dashed", width: 1 },
+            areaStyle: { color: c.faintArea },
+            itemStyle: { color: c.faint },
           },
           {
             name,
@@ -66,9 +73,9 @@ export function RadarSingle({
     ],
     tooltip: {
       trigger: "item",
-      backgroundColor: "#111111",
-      borderColor: "#1A1A1A",
-      textStyle: { color: "#FFFFFF" },
+      backgroundColor: c.tooltipBg,
+      borderColor: c.tooltipBorder,
+      textStyle: { color: c.text },
       formatter: (params: { seriesName: string; value: number[] }) => {
         const lines = labels.map((l, i) => `${l} : ${formatNumber(params.value[i])}`).join("<br/>");
         return `<b>${params.seriesName}</b><br/>${lines}`;

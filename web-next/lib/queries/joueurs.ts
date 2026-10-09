@@ -30,9 +30,13 @@ export type ClassementRow = {
   rating_reference: number | null;
   has_fbref_data: boolean;
   has_sofascore_data: boolean;
+  team_id_ss: number | null;
 };
 
-// Portage 1:1 de web/utils/db.py::get_classement()
+// Portage de web/utils/db.py::get_classement() — ajout de team_id_ss (logo
+// club) absent de gold.vue_score_pepite_ranking, récupéré via fact_stats/
+// dim_equipes (même (joueur_id, saison_id), donc pas de duplication de
+// lignes malgré le LEFT JOIN).
 export async function getClassement(
   saison: string,
   ligues: string[],
@@ -43,24 +47,27 @@ export async function getClassement(
   if (ligues.length === 0 || postes.length === 0) return [];
   const rows = await query`
     SELECT
-      rang_global, rang_ligue, joueur_id,
-      joueur, nom_court, poste_id, poste_label_fr,
-      ligue, ligue_id, equipe, pays,
-      age, nationalite_principale,
-      score_pepite, score_corrige,
-      buts_p90, xg_p90, assists_p90, xag_p90,
-      key_passes_p90, dribbles_p90,
-      tackles_p90, interceptions_p90,
-      minutes, couleur_hex, rating_reference,
-      has_fbref_data, has_sofascore_data
-    FROM gold.vue_score_pepite_ranking
-    WHERE est_u23 = TRUE
-      AND saison_id = ${saison}
-      AND minutes   >= ${minMin}
-      AND age       <= ${ageMax}
-      AND ligue_id  = ANY(${ligues})
-      AND poste_id  = ANY(${postes})
-    ORDER BY score_corrige DESC NULLS LAST
+      r.rang_global, r.rang_ligue, r.joueur_id,
+      r.joueur, r.nom_court, r.poste_id, r.poste_label_fr,
+      r.ligue, r.ligue_id, r.equipe, r.pays,
+      r.age, r.nationalite_principale,
+      r.score_pepite, r.score_corrige,
+      r.buts_p90, r.xg_p90, r.assists_p90, r.xag_p90,
+      r.key_passes_p90, r.dribbles_p90,
+      r.tackles_p90, r.interceptions_p90,
+      r.minutes, r.couleur_hex, r.rating_reference,
+      r.has_fbref_data, r.has_sofascore_data,
+      e.team_id_ss
+    FROM gold.vue_score_pepite_ranking r
+    LEFT JOIN public.fact_stats f ON f.joueur_id = r.joueur_id AND f.saison_id = r.saison_id
+    LEFT JOIN public.dim_equipes e ON e.equipe_id = f.equipe_id
+    WHERE r.est_u23 = TRUE
+      AND r.saison_id = ${saison}
+      AND r.minutes   >= ${minMin}
+      AND r.age       <= ${ageMax}
+      AND r.ligue_id  = ANY(${ligues})
+      AND r.poste_id  = ANY(${postes})
+    ORDER BY r.score_corrige DESC NULLS LAST
   `;
   return rows as ClassementRow[];
 }
@@ -183,6 +190,8 @@ type SimilarityRow = {
   joueur: string;
   equipe: string;
   ligue: string;
+  ligue_id: string;
+  team_id_ss: number | null;
 } & Record<(typeof SIMILARITY_COLS)[number], number | null>;
 
 export type SimilarPlayer = {
@@ -190,6 +199,8 @@ export type SimilarPlayer = {
   joueur: string;
   equipe: string;
   ligue: string;
+  ligue_id: string;
+  team_id_ss: number | null;
   similarite: number;
 };
 
@@ -221,6 +232,7 @@ export async function getProfilsSimilaires(
     SELECT
       f.joueur_id, j.nom_complet as joueur,
       e.nom_complet as equipe, l.nom_complet as ligue,
+      f.ligue_id, e.team_id_ss,
       f.pct_goals_p90, f.pct_xg_p90,
       f.pct_assists_p90, f.pct_xag_p90,
       f.pct_shots_p90, f.pct_key_passes_p90,
@@ -248,6 +260,8 @@ export async function getProfilsSimilaires(
       joueur: r.joueur,
       equipe: r.equipe,
       ligue: r.ligue,
+      ligue_id: r.ligue_id,
+      team_id_ss: r.team_id_ss,
       similarite: cosineSim(targetVec, vec(r)),
     }))
     .sort((a, b) => b.similarite - a.similarite)

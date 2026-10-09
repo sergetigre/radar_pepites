@@ -4,17 +4,29 @@ import ReactECharts from "echarts-for-react";
 import type { ClassementRow } from "@/lib/queries/joueurs";
 import { formatNumber } from "@/lib/format";
 import { ligueColor } from "@/lib/ligue-colors";
+import { teamLogoUrl } from "@/lib/media";
+import { useTheme } from "@/components/theme/ThemeProvider";
+import { CHART_COLORS } from "@/lib/theme/chartColors";
 
-// Portage de web/utils/charts.py::scatter_xg_buts() — bulles xG vs Buts,
-// couleur par ligue, taille par score_corrige, diagonale de référence y=x.
-// Couleur par ligue = palette dédiée (lib/ligue-colors.ts), la même que
-// partout ailleurs sur le site (cartes joueurs, header) — pas les vraies
-// couleurs de marque (dim_ligues.couleur_hex), trop proches les unes des
-// autres pour de la dataviz (plusieurs rouges, Pro League en noir invisible
-// sur fond sombre).
+// Portage de web/utils/charts.py::scatter_xg_buts() — xG vs Buts, un point
+// par joueur, taille par score_corrige, diagonale de référence y=x. Écart
+// vs. l'original : marqueur = logo du club (demande explicite) plutôt
+// qu'une bulle pleine ; fallback en cercle plein si le logo est
+// indisponible (pas de team_id_ss). Couleur par ligue (legend, toggle au
+// clic) = palette dédiée (lib/ligue-colors.ts), même logique qu'ailleurs
+// sur le site — pas les vraies couleurs de marque (dim_ligues.couleur_hex),
+// trop proches les unes des autres pour de la dataviz.
 type Row = Pick<
   ClassementRow,
-  "joueur" | "equipe" | "age" | "ligue" | "ligue_id" | "score_corrige" | "xg_p90" | "buts_p90"
+  | "joueur"
+  | "equipe"
+  | "age"
+  | "ligue"
+  | "ligue_id"
+  | "score_corrige"
+  | "xg_p90"
+  | "buts_p90"
+  | "team_id_ss"
 >;
 
 type Point = {
@@ -23,9 +35,12 @@ type Point = {
   equipe: string;
   age: number;
   score_corrige: number | null;
+  team_id_ss: number | null;
 };
 
 export function ScatterXgButs({ data }: { data: Row[] }) {
+  const { theme } = useTheme();
+  const c = CHART_COLORS[theme];
   const rows = data.filter((d) => d.xg_p90 != null && d.buts_p90 != null);
 
   const ligueOrder: string[] = [];
@@ -40,8 +55,8 @@ export function ScatterXgButs({ data }: { data: Row[] }) {
   const scores = rows.map((r) => r.score_corrige ?? 0);
   const minScore = Math.min(...scores, 0);
   const maxScore = Math.max(...scores, 1);
-  const minPx = 4;
-  const maxPx = 15;
+  const minPx = 16;
+  const maxPx = 32;
   const sizeFor = (score: number) => {
     if (maxScore === minScore) return (minPx + maxPx) / 2;
     const t = Math.sqrt((score - minScore) / (maxScore - minScore));
@@ -65,9 +80,22 @@ export function ScatterXgButs({ data }: { data: Row[] }) {
           equipe: r.equipe,
           age: r.age,
           score_corrige: r.score_corrige,
+          team_id_ss: r.team_id_ss,
         })
       ),
+    symbol: (_val: number[], params: { data: Point }) => {
+      const url = teamLogoUrl(params.data.team_id_ss);
+      return url ? `image://${url}` : "circle";
+    },
     symbolSize: (_val: number[], params: { data: Point }) => sizeFor(params.data.score_corrige ?? 0),
+    label: {
+      show: true,
+      position: "top",
+      distance: 4,
+      fontSize: 9,
+      color: c.textMuted,
+      formatter: (params: { data: Point }) => params.data.joueur,
+    },
   }));
 
   const refLine = {
@@ -79,14 +107,14 @@ export function ScatterXgButs({ data }: { data: Row[] }) {
     ],
     showSymbol: false,
     silent: true,
-    lineStyle: { color: "rgba(255,255,255,0.2)", type: "dashed", width: 1 },
+    lineStyle: { color: c.grid, type: "dashed", width: 1 },
     tooltip: { show: false },
     z: 1,
   };
 
   const option = {
     backgroundColor: "transparent",
-    grid: { left: 60, right: 20, top: 70, bottom: 55, backgroundColor: "#111111" },
+    grid: { left: 60, right: 20, top: 70, bottom: 55 },
     legend: {
       data: ligueOrder,
       top: 0,
@@ -95,36 +123,36 @@ export function ScatterXgButs({ data }: { data: Row[] }) {
       itemWidth: 10,
       itemHeight: 10,
       padding: [0, 0, 12, 0],
-      textStyle: { color: "#DADADA" },
+      textStyle: { color: c.text },
     },
     xAxis: {
       type: "value",
       name: "xG / 90 min",
       nameLocation: "middle",
       nameGap: 28,
-      nameTextStyle: { color: "#8A8A8A" },
+      nameTextStyle: { color: c.textMuted },
       min: 0,
       max: maxAxis,
-      splitLine: { lineStyle: { color: "#1A1A1A" } },
-      axisLabel: { color: "#8A8A8A", formatter: (v: number) => v.toFixed(2) },
+      splitLine: { lineStyle: { color: c.grid } },
+      axisLabel: { color: c.textMuted, formatter: (v: number) => v.toFixed(2) },
     },
     yAxis: {
       type: "value",
       name: "Buts / 90 min",
       nameLocation: "middle",
       nameGap: 40,
-      nameTextStyle: { color: "#8A8A8A" },
+      nameTextStyle: { color: c.textMuted },
       min: 0,
       max: maxAxis,
-      splitLine: { lineStyle: { color: "#1A1A1A" } },
-      axisLabel: { color: "#8A8A8A", formatter: (v: number) => v.toFixed(2) },
+      splitLine: { lineStyle: { color: c.grid } },
+      axisLabel: { color: c.textMuted, formatter: (v: number) => v.toFixed(2) },
     },
     series: [...series, refLine],
     tooltip: {
       trigger: "item",
-      backgroundColor: "#111111",
-      borderColor: "#1A1A1A",
-      textStyle: { color: "#FFFFFF" },
+      backgroundColor: c.tooltipBg,
+      borderColor: c.tooltipBorder,
+      textStyle: { color: c.text },
       formatter: (p: { data?: Point; value: [number, number] }) => {
         if (!p.data?.joueur) return "";
         const [xg, buts] = p.value;

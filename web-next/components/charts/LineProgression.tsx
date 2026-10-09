@@ -2,6 +2,9 @@
 
 import ReactECharts from "echarts-for-react";
 import { formatNumber } from "@/lib/format";
+import { useTheme } from "@/components/theme/ThemeProvider";
+import { CHART_COLORS } from "@/lib/theme/chartColors";
+import { useI18n } from "@/components/i18n/I18nProvider";
 
 export type ProgressionRow = { saison_courte: string } & Record<
   string,
@@ -21,6 +24,9 @@ export function LineProgression({
   joueur: string;
   metrics: Metric[];
 }) {
+  const { theme } = useTheme();
+  const { t } = useI18n();
+  const c = CHART_COLORS[theme];
   const categories = data.map((d) => d.saison_courte);
 
   const series = metrics.map((m) => ({
@@ -42,35 +48,35 @@ export function LineProgression({
   const option = {
     backgroundColor: "transparent",
     title: {
-      text: `Progression — ${joueur}`,
+      text: `${t.progression.title} — ${joueur}`,
       left: "center",
-      textStyle: { fontSize: 13, color: "#FFFFFF" },
+      textStyle: { fontSize: 13, color: c.text },
     },
-    legend: { bottom: 0, textStyle: { color: "#FFFFFF" } },
-    grid: { top: 50, left: 55, right: 30, bottom: 60, backgroundColor: "#111111" },
+    legend: { bottom: 0, textStyle: { color: c.text } },
+    grid: { top: 50, left: 55, right: 30, bottom: 60 },
     xAxis: {
       type: "category",
-      name: "Saison",
+      name: t.progression.axisSeason,
       nameLocation: "middle",
       nameGap: 30,
-      nameTextStyle: { color: "#8A8A8A" },
+      nameTextStyle: { color: c.textMuted },
       data: categories,
-      axisLabel: { color: "#8A8A8A" },
-      axisLine: { lineStyle: { color: "#1A1A1A" } },
+      axisLabel: { color: c.textMuted },
+      axisLine: { lineStyle: { color: c.grid } },
     },
     yAxis: {
       type: "value",
-      name: "Valeur /90 min",
-      nameTextStyle: { color: "#8A8A8A" },
-      axisLabel: { color: "#8A8A8A", formatter: (v: number) => formatNumber(v) },
-      splitLine: { lineStyle: { color: "#1A1A1A" } },
+      name: t.progression.axisValue,
+      nameTextStyle: { color: c.textMuted },
+      axisLabel: { color: c.textMuted, formatter: (v: number) => formatNumber(v) },
+      splitLine: { lineStyle: { color: c.grid } },
     },
     series,
     tooltip: {
       trigger: "axis",
-      backgroundColor: "#111111",
-      borderColor: "#1A1A1A",
-      textStyle: { color: "#FFFFFF" },
+      backgroundColor: c.tooltipBg,
+      borderColor: c.tooltipBorder,
+      textStyle: { color: c.text },
       valueFormatter: (v: number | string) => (typeof v === "number" ? formatNumber(v) : String(v)),
     },
   };

@@ -7,6 +7,8 @@ import { ScatterXgButs } from "@/components/charts/ScatterXgButs";
 import { KpiCard } from "@/components/ui/KpiCard";
 import { PlayerMiniCard } from "@/components/ui/PlayerMiniCard";
 import { formatNumber } from "@/lib/format";
+import { getLocale } from "@/lib/i18n/getLocale";
+import { getDictionary, interpolate } from "@/lib/i18n/dictionaries";
 
 // Portage 1:1 de web/pages/00_Tableau_de_bord.py
 export default async function Home({
@@ -15,7 +17,8 @@ export default async function Home({
   searchParams: Promise<Record<string, string | string[] | undefined>>;
 }) {
   const sp = await searchParams;
-  const [ligues, saisons] = await Promise.all([getLigues(), getSaisons()]);
+  const [ligues, saisons, locale] = await Promise.all([getLigues(), getSaisons(), getLocale()]);
+  const t = getDictionary(locale);
   const allLigueIds = ligues.map((l) => l.ligue_id);
   const { saison, ligues: filtreLigues, postes, minMin, ageMax } = parseFilters(
     sp,
@@ -28,15 +31,19 @@ export default async function Home({
       <div className="py-2.5 pb-5">
         <h1 className="text-[1.8rem] font-extrabold m-0 flex items-center gap-2">
           <span className="material-icons-outlined text-[28px] text-primary">dashboard</span>
-          Tableau de bord
+          {t.dashboard.title}
         </h1>
         <p className="text-text-muted mt-1 text-sm">
-          Saison {saison} · {filtreLigues.length} ligue(s) · {postes.length} poste(s)
+          {interpolate(t.dashboard.subtitle, {
+            season: saison,
+            leagues: filtreLigues.length,
+            positions: postes.length,
+          })}
         </p>
       </div>
 
       {filtreLigues.length === 0 || postes.length === 0 ? (
-        <p className="text-warning">Sélectionnez au moins une ligue et un poste dans les filtres.</p>
+        <p className="text-warning">{t.dashboard.selectFilters}</p>
       ) : (
         <DashboardContent
           saison={saison}
@@ -44,6 +51,7 @@ export default async function Home({
           postes={postes}
           minMin={minMin}
           ageMax={ageMax}
+          t={t}
         />
       )}
     </div>
@@ -56,12 +64,14 @@ async function DashboardContent({
   postes,
   minMin,
   ageMax,
+  t,
 }: {
   saison: string;
   ligues: string[];
   postes: string[];
   minMin: number;
   ageMax: number;
+  t: ReturnType<typeof getDictionary>;
 }) {
   const [kpis, df, dfLigue] = await Promise.all([
     getKpis(saison, ligues, postes, minMin, ageMax),
@@ -77,10 +87,10 @@ async function DashboardContent({
   return (
     <>
       <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
-        <KpiCard label="👥 Joueurs U23" value={kpis.nb.toLocaleString("en-US")} />
-        <KpiCard label="🏆 Ligues" value={String(kpis.ligues)} />
-        <KpiCard label="📊 Score moyen" value={formatNumber(kpis.moy)} />
-        <KpiCard label="⭐ Meilleur score" value={formatNumber(kpis.max)} />
+        <KpiCard label={`👥 ${t.dashboard.kpiPlayers}`} value={kpis.nb.toLocaleString("en-US")} />
+        <KpiCard label={`🏆 ${t.dashboard.kpiLeagues}`} value={String(kpis.ligues)} />
+        <KpiCard label={`📊 ${t.dashboard.kpiAvgScore}`} value={formatNumber(kpis.moy)} />
+        <KpiCard label={`⭐ ${t.dashboard.kpiBestScore}`} value={formatNumber(kpis.max)} />
       </div>
 
       <div className="my-5" />
@@ -89,23 +99,23 @@ async function DashboardContent({
         <div>
           <h4 className="text-[1.05rem] font-bold mb-2 flex items-center gap-1.5">
             <span className="material-icons-outlined text-[18px] text-primary">bar_chart</span>
-            Top 10 Score Pépite
+            {t.dashboard.top10Title}
           </h4>
           {df.length > 0 ? (
             <BarTop10 data={df} />
           ) : (
-            <p className="text-text-muted text-sm">Aucune donnée pour ces filtres.</p>
+            <p className="text-text-muted text-sm">{t.common.noData}</p>
           )}
         </div>
         <div>
           <h4 className="text-[1.05rem] font-bold mb-2 flex items-center gap-1.5">
             <span className="material-icons-outlined text-[18px] text-primary">scatter_plot</span>
-            xG vs Buts
+            {t.dashboard.scatterTitle}
           </h4>
           {dfAtt.length > 0 ? (
             <ScatterXgButs data={dfAtt} />
           ) : (
-            <p className="text-text-muted text-sm">Aucune donnée pour ces filtres.</p>
+            <p className="text-text-muted text-sm">{t.common.noData}</p>
           )}
         </div>
       </div>
@@ -113,7 +123,7 @@ async function DashboardContent({
       <hr className="border-border my-6" />
       <h4 className="text-[1.05rem] font-bold mb-3 flex items-center gap-1.5">
         <span className="material-icons-outlined text-[18px] text-primary">public</span>
-        Meilleure pépite par ligue
+        {t.dashboard.bestByLeagueTitle}
       </h4>
 
       {dfLigue.length > 0 ? (
@@ -123,7 +133,7 @@ async function DashboardContent({
           ))}
         </div>
       ) : (
-        <p className="text-text-muted text-sm">Aucune donnée pour ces filtres.</p>
+        <p className="text-text-muted text-sm">{t.common.noData}</p>
       )}
     </>
   );

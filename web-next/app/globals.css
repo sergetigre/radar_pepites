@@ -1,8 +1,11 @@
 @import "tailwindcss";
 
 /* Palette RadarPépites — portée telle quelle depuis web/utils/styles.py.
-   App toujours en thème sombre côté Streamlit (pas de bascule clair/sombre),
-   donc pas de variante "light" ici : copie conforme. */
+   Thème sombre par défaut (fidèle à l'origine Streamlit, qui n'avait pas de
+   bascule). Variante "light" ajoutée ensuite, pilotée par l'attribut
+   data-theme sur <html> (cf. ThemeProvider) — mêmes noms de variables
+   réassignés plus bas, donc tous les composants/classes Tailwind qui
+   utilisent bg-bg/text-text/border-border/etc. suivent automatiquement. */
 @theme {
   --color-primary: #2dad7e;
   --color-primary-light: #5dcba0;
@@ -20,12 +23,46 @@
   --color-danger: #e05252;
   --color-warning: #e0b452;
 
-  --font-sans: var(--font-geist-sans), Arial, Helvetica, sans-serif;
+  --color-stat-worst: #e08a8a;
+  --color-strength-bg: #0f5436;
+  --color-weakness-bg: #3d1a1a;
+
+  /* Survol/sélection discrets sur bg-card ou bg-bg — blanc translucide en
+     sombre, noir translucide en clair (cf. override plus bas), pour que
+     .hover\:bg-overlay reste visible dans les deux thèmes. */
+  --color-overlay: rgba(255, 255, 255, 0.06);
+
+  --font-sans: var(--font-montserrat), Arial, Helvetica, sans-serif;
+}
+
+:root[data-theme="light"] {
+  --color-primary: #1f9d6c;
+  --color-primary-light: #2dad7e;
+  --color-primary-dark: #157a52;
+
+  --color-bg: #ffffff;
+  --color-sidebar: #fafafa;
+  --color-card: #f5f5f6;
+  --color-border: #e3e3e5;
+
+  --color-text: #15171a;
+  --color-text-muted: #6b7280;
+  --color-text-nav: #333740;
+
+  --color-danger: #c6433f;
+  --color-warning: #a8701a;
+
+  --color-stat-worst: #b8463f;
+  --color-strength-bg: #e3f5ec;
+  --color-weakness-bg: #fbeaea;
+
+  --color-overlay: rgba(0, 0, 0, 0.05);
 }
 
 body {
   background: var(--color-bg);
   color: var(--color-text);
+  transition: background-color 0.15s ease, color 0.15s ease;
 }
 
 /* Material Symbols (variable) en graisse fine — remplace Material Icons
@@ -154,6 +191,25 @@ a.player-card-link {
   object-fit: contain;
   display: block;
 }
+/* Classe distincte de .club-logo pour les logos de ligue (même taille,
+   mais certains — ex. Ligue 1 — sont en noir et ont besoin d'un filtre
+   CSS pour rester visibles sur le thème sombre, cf. ligueLogoInvert()
+   dans lib/media.ts, appliqué au cas par cas plutôt qu'un fond clair
+   généralisé à tous les logos). */
+.ligue-logo {
+  width: 18px;
+  height: 18px;
+  object-fit: contain;
+  display: block;
+  flex-shrink: 0;
+}
+/* Logos de ligue en noir (ex. Ligue 1, cf. ligueLogoInvert() dans
+   lib/media.ts) : inversés en blanc UNIQUEMENT en thème sombre — en thème
+   clair le logo noir d'origine est déjà parfaitement visible sur fond
+   blanc, l'inverser le rendrait blanc-sur-blanc (invisible). */
+:root[data-theme="dark"] .ligue-logo-invert {
+  filter: brightness(0) invert(1);
+}
 .flag-icon {
   width: 18px;
   height: 13px;
@@ -166,7 +222,7 @@ a.player-card-link {
   display: inline-flex;
   align-items: center;
   background: var(--color-border);
-  border: 1px solid #2dad7e22;
+  border: 1px solid color-mix(in srgb, var(--color-primary) 13%, transparent);
   color: var(--color-text);
   font-size: 0.8rem;
   padding: 4px 10px;
@@ -192,7 +248,7 @@ a.player-card-link {
 
 .stat-counter {
   display: inline-block;
-  background: #2dad7e22;
+  background: color-mix(in srgb, var(--color-primary) 13%, transparent);
   border: 1px solid var(--color-primary);
   color: var(--color-primary);
   font-size: 0.8rem;
@@ -212,7 +268,7 @@ a.player-card-link {
   font-weight: 700;
 }
 .stat-worst {
-  color: #e08a8a;
+  color: var(--color-stat-worst);
 }
 
 /* ── Profils similaires ───────────────────────────────── */
@@ -244,7 +300,7 @@ a.similar-card-link:hover {
 
 /* ── Points forts / axes d'amélioration ──────────────── */
 .strength-item {
-  background: #0f5436;
+  background: var(--color-strength-bg);
   border-left: 3px solid var(--color-primary);
   border-radius: 0 8px 8px 0;
   padding: 8px 12px;
@@ -253,7 +309,7 @@ a.similar-card-link:hover {
   color: var(--color-text);
 }
 .weakness-item {
-  background: #3d1a1a;
+  background: var(--color-weakness-bg);
   border-left: 3px solid var(--color-danger);
   border-radius: 0 8px 8px 0;
   padding: 8px 12px;
@@ -300,6 +356,7 @@ a.similar-card-link:hover {
 .bar-row {
   display: flex;
   align-items: center;
-  gap: 12px;
+  column-gap: 12px;
+  row-gap: 4px;
   padding: 8px 4px;
 }

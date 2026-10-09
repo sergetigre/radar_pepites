@@ -4,21 +4,25 @@ import { useMemo, useState } from "react";
 import { useRouter } from "next/navigation";
 import type { ClassementGkRow } from "@/lib/queries/gardiens";
 import { formatNumber } from "@/lib/format";
+import { teamLogoUrl, ligueLogoUrl, ligueLogoInvert } from "@/lib/media";
+import type { Dictionary } from "@/lib/i18n/dictionaries";
 
 type Row = ClassementGkRow & { rang_dynamique: number };
 
-const COLS: { key: keyof Row; label: string }[] = [
-  { key: "rang_dynamique", label: "Rang" },
-  { key: "player_name", label: "Gardien" },
-  { key: "team_name", label: "Équipe" },
-  { key: "ligue_id", label: "Ligue" },
-  { key: "age_actuel", label: "Âge" },
-  { key: "saves_p90", label: "Arrêts/90" },
-  { key: "goals_prevented_ss", label: "Buts évités" },
-  { key: "save_pct_fb", label: "% Arrêts" },
-  { key: "clean_sheets_fb", label: "Clean sheets" },
-  { key: "minutes_ss", label: "Minutes" },
-];
+function buildCols(t: Dictionary): { key: keyof Row; label: string }[] {
+  return [
+    { key: "rang_dynamique", label: t.explorer.colRank },
+    { key: "player_name", label: t.classementGk.colGk },
+    { key: "team_name", label: t.explorer.colTeam },
+    { key: "ligue_id", label: t.explorer.colLeague },
+    { key: "age_actuel", label: t.explorer.colAge },
+    { key: "saves_p90", label: t.metricsShort.saves_p90 },
+    { key: "goals_prevented_ss", label: t.metricsShort.goals_prevented },
+    { key: "save_pct_fb", label: t.metrics.pct_save_pct },
+    { key: "clean_sheets_fb", label: t.metrics.pct_clean_sheets_pct },
+    { key: "minutes_ss", label: t.explorer.colMinutes },
+  ];
+}
 
 function formatCell(row: Row, key: keyof Row): string {
   const v = row[key];
@@ -33,9 +37,10 @@ function formatCell(row: Row, key: keyof Row): string {
 // d'onglet Graphiques ici (asymétrie volontaire avec Explorer, présente
 // dans le code source). Classement_id affiché brut (ex. "ENG"), pas le nom
 // complet de ligue — autre écart assumé avec Explorer, fidèle à l'original.
-export function ClassementGkTable({ data }: { data: ClassementGkRow[] }) {
+export function ClassementGkTable({ data, t }: { data: ClassementGkRow[]; t: Dictionary }) {
   const router = useRouter();
   const [search, setSearch] = useState("");
+  const COLS = useMemo(() => buildCols(t), [t]);
 
   const filtered: Row[] = useMemo(() => {
     const base = search
@@ -60,8 +65,8 @@ export function ClassementGkTable({ data }: { data: ClassementGkRow[] }) {
         type="text"
         value={search}
         onChange={(e) => setSearch(e.target.value)}
-        placeholder="🔍 Filtrer par nom..."
-        className="w-full max-w-md bg-card border border-border rounded-lg px-3 py-2 text-sm text-white mb-4"
+        placeholder={`🔍 ${t.classementGk.searchPlaceholder}`}
+        className="w-full max-w-md bg-card border border-border rounded-lg px-3 py-2 text-sm text-text mb-4"
       />
       <div className="overflow-x-auto mb-3">
         <table className="w-full text-sm border-collapse">
@@ -79,11 +84,35 @@ export function ClassementGkTable({ data }: { data: ClassementGkRow[] }) {
               <tr
                 key={row.player_id_ss}
                 onClick={() => selectRow(row)}
-                className="border-b border-border/50 cursor-pointer hover:bg-white/5"
+                className="border-b border-border/50 cursor-pointer hover:bg-overlay"
               >
                 {COLS.map((c) => (
                   <td key={c.key} className="py-1.5 pr-4 tabular-nums">
-                    {formatCell(row, c.key)}
+                    {c.key === "team_name" ? (
+                      <span className="flex items-center gap-1 whitespace-nowrap">
+                        {teamLogoUrl(row.team_id_ss) && (
+                          // eslint-disable-next-line @next/next/no-img-element
+                          <img src={teamLogoUrl(row.team_id_ss)!} alt="" className="club-logo" />
+                        )}
+                        {row.team_name}
+                      </span>
+                    ) : c.key === "ligue_id" ? (
+                      <span className="flex items-center gap-1 whitespace-nowrap">
+                        {ligueLogoUrl(row.ligue_id) && (
+                          // eslint-disable-next-line @next/next/no-img-element
+                          <img
+                            src={ligueLogoUrl(row.ligue_id)!}
+                            alt=""
+                            className={`ligue-logo${
+                              ligueLogoInvert(row.ligue_id) ? " ligue-logo-invert" : ""
+                            }`}
+                          />
+                        )}
+                        {row.ligue_id}
+                      </span>
+                    ) : (
+                      formatCell(row, c.key)
+                    )}
                   </td>
                 ))}
               </tr>
@@ -91,10 +120,7 @@ export function ClassementGkTable({ data }: { data: ClassementGkRow[] }) {
           </tbody>
         </table>
       </div>
-      <p className="text-text-muted text-xs">
-        ℹ️ L&apos;âge est calculé par rapport à aujourd&apos;hui, pas à la saison affichée — à
-        interpréter avec prudence pour les saisons passées.
-      </p>
+      <p className="text-text-muted text-xs">ℹ️ {t.classementGk.ageDisclaimer}</p>
     </div>
   );
 }

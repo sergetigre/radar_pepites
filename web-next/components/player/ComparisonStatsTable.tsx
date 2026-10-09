@@ -16,6 +16,7 @@ export function ComparisonStatsTable({
   nameB,
   decimals = 2,
   showBetter = false,
+  statLabel = "Stat",
 }: {
   stats: StatDef[];
   rowA: Record<string, unknown>;
@@ -24,13 +25,14 @@ export function ComparisonStatsTable({
   nameB: string;
   decimals?: number;
   showBetter?: boolean;
+  statLabel?: string;
 }) {
   return (
     <div className="overflow-x-auto">
       <table className="w-full text-sm border-collapse">
         <thead>
           <tr className="border-b border-border">
-            <th className="text-left py-2 pr-4 text-text-muted font-semibold">Stat</th>
+            <th className="text-left py-2 pr-4 text-text-muted font-semibold">{statLabel}</th>
             <th className="text-left py-2 pr-4 text-text-muted font-semibold">{nameA}</th>
             <th className="text-left py-2 text-text-muted font-semibold">{nameB}</th>
           </tr>

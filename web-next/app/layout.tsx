@@ -1,14 +1,18 @@
 import type { Metadata, Viewport } from "next";
-import { Geist } from "next/font/google";
+import { Montserrat } from "next/font/google";
 import { Suspense } from "react";
 import "./globals.css";
 import { Nav } from "@/components/sidebar/Nav";
 import { Filters } from "@/components/sidebar/Filters";
 import { SidebarShell } from "@/components/sidebar/SidebarShell";
 import { getLigues, getSaisons } from "@/lib/queries/referentiels";
+import { getLocale } from "@/lib/i18n/getLocale";
+import { I18nProvider } from "@/components/i18n/I18nProvider";
+import { getTheme } from "@/lib/theme/getTheme";
+import { ThemeProvider } from "@/components/theme/ThemeProvider";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+const montserrat = Montserrat({
+  variable: "--font-montserrat",
   subsets: ["latin"],
 });
 
@@ -23,10 +27,19 @@ export const viewport: Viewport = {
 };
 
 export default async function RootLayout({ children }: LayoutProps<"/">) {
-  const [ligues, saisons] = await Promise.all([getLigues(), getSaisons()]);
+  const [ligues, saisons, locale, theme] = await Promise.all([
+    getLigues(),
+    getSaisons(),
+    getLocale(),
+    getTheme(),
+  ]);
 
   return (
-    <html lang="fr" className={`${geistSans.variable} h-full antialiased`}>
+    <html
+      lang={locale}
+      data-theme={theme}
+      className={`${montserrat.variable} h-full antialiased`}
+    >
       <head>
         <link
           rel="stylesheet"
@@ -34,18 +47,22 @@ export default async function RootLayout({ children }: LayoutProps<"/">) {
         />
       </head>
       <body className="min-h-full flex flex-col md:flex-row bg-bg text-text">
-        <SidebarShell
-          sidebar={
-            <>
-              <Nav />
-              <Suspense fallback={null}>
-                <Filters ligues={ligues} saisons={saisons} />
-              </Suspense>
-            </>
-          }
-        >
-          {children}
-        </SidebarShell>
+        <ThemeProvider theme={theme}>
+          <I18nProvider locale={locale}>
+            <SidebarShell
+              sidebar={
+                <>
+                  <Nav />
+                  <Suspense fallback={null}>
+                    <Filters ligues={ligues} saisons={saisons} />
+                  </Suspense>
+                </>
+              }
+            >
+              {children}
+            </SidebarShell>
+          </I18nProvider>
+        </ThemeProvider>
       </body>
     </html>
   );

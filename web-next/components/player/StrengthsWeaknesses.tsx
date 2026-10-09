@@ -1,10 +1,14 @@
-import { PCT_INTERPRETATIONS } from "@/lib/strengths-weaknesses";
 import { Icon } from "@/components/ui/Icon";
+import { getLocale } from "@/lib/i18n/getLocale";
+import { getDictionary, interpolate } from "@/lib/i18n/dictionaries";
 
-// Portage 1:1 de web/utils/components.py::render_strengths_weaknesses()
-export function StrengthsWeaknesses({ row }: { row: Record<string, unknown> }) {
+// Portage de web/utils/components.py::render_strengths_weaknesses() —
+// PCT_INTERPRETATIONS déplacé dans les dictionnaires i18n (lib/i18n/
+// dictionaries/{fr,en,es}.ts, clé pctInterpretations) pour être traduit.
+export async function StrengthsWeaknesses({ row }: { row: Record<string, unknown> }) {
+  const t = getDictionary(await getLocale());
   const pcts: [string, number][] = [];
-  for (const col of Object.keys(PCT_INTERPRETATIONS)) {
+  for (const col of Object.keys(t.pctInterpretations)) {
     const v = row[col];
     if (typeof v === "number") pcts.push([col, v]);
   }
@@ -19,14 +23,15 @@ export function StrengthsWeaknesses({ row }: { row: Record<string, unknown> }) {
       <div>
         <div className="text-[0.7rem] font-bold uppercase tracking-[2px] text-primary mb-2.5 flex items-center gap-1">
           <Icon name="trending_up" />
-          Points forts
+          {t.radar.strengths}
         </div>
         {strengths.length > 0 ? (
           strengths.map(([c, v]) => (
             <div key={c} className="strength-item">
-              <div>{PCT_INTERPRETATIONS[c][1]}</div>
+              <div>{t.pctInterpretations[c as keyof typeof t.pctInterpretations][0]}</div>
               <div className="text-[0.65rem] opacity-60 mt-1">
-                Top {Math.max(1, 100 - Math.trunc(v))}% à son poste · {PCT_INTERPRETATIONS[c][0]}
+                {interpolate(t.radar.topAtPosition, { pct: Math.max(1, 100 - Math.trunc(v)) })} ·{" "}
+                {t.metrics[c as keyof typeof t.metrics] ?? c}
               </div>
             </div>
           ))
@@ -37,15 +42,15 @@ export function StrengthsWeaknesses({ row }: { row: Record<string, unknown> }) {
       <div>
         <div className="text-[0.7rem] font-bold uppercase tracking-[2px] text-danger mb-2.5 flex items-center gap-1">
           <Icon name="trending_down" color="#E05252" />
-          Axes d&apos;amélioration
+          {t.radar.weaknesses}
         </div>
         {weaknesses.length > 0 ? (
           weaknesses.map(([c, v]) => (
             <div key={c} className="weakness-item">
-              <div>{PCT_INTERPRETATIONS[c][2]}</div>
+              <div>{t.pctInterpretations[c as keyof typeof t.pctInterpretations][1]}</div>
               <div className="text-[0.65rem] opacity-60 mt-1">
-                Parmi les {Math.max(1, Math.trunc(v))}% les plus faibles à son poste ·{" "}
-                {PCT_INTERPRETATIONS[c][0]}
+                {interpolate(t.radar.amongWeakest, { pct: Math.max(1, Math.trunc(v)) })} ·{" "}
+                {t.metrics[c as keyof typeof t.metrics] ?? c}
               </div>
             </div>
           ))

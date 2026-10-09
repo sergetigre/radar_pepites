@@ -95,7 +95,7 @@ export function SearchCombobox({
         onChange={(e) => setTerm(e.target.value)}
         onFocus={() => results.length > 0 && setOpen(true)}
         placeholder={placeholder}
-        className="w-full bg-card border border-border rounded-lg px-3 py-2 text-sm text-white"
+        className="w-full bg-card border border-border rounded-lg px-3 py-2 text-sm text-text"
       />
       {open && results.length > 0 && (
         <div className="absolute z-10 mt-1 w-full bg-card border border-border rounded-lg max-h-72 overflow-y-auto">
@@ -104,7 +104,7 @@ export function SearchCombobox({
               key={`${r.joueur_id}-${r.saison_id ?? ""}`}
               type="button"
               onClick={() => select(r)}
-              className="block w-full text-left px-3 py-2 text-sm text-white hover:bg-white/5"
+              className="block w-full text-left px-3 py-2 text-sm text-text hover:bg-overlay"
             >
               {unique ? r.joueur : r.joueur_saison}
             </button>

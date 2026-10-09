@@ -3,21 +3,8 @@ import { SearchCombobox } from "@/components/ui/SearchCombobox";
 import { ComparisonPanel } from "@/components/player/ComparisonPanel";
 import { ComparisonStatsTable } from "@/components/player/ComparisonStatsTable";
 import { Icon } from "@/components/ui/Icon";
-
-const STATS_TABLEAU = [
-  { label: "Score Pépite ★", col: "score_pepite_corrige" },
-  { label: "Buts/90", col: "buts_p90" },
-  { label: "xG/90", col: "xg_p90" },
-  { label: "Assists/90", col: "passes_dec_p90" },
-  { label: "xAG/90", col: "xag_p90" },
-  { label: "Key Passes/90", col: "key_passes_p90" },
-  { label: "Dribbles/90", col: "dribbles_p90" },
-  { label: "Tacles/90", col: "tackles_p90" },
-  { label: "Interceptions/90", col: "interceptions_p90" },
-  { label: "Précision passes", col: "passes_pct" },
-  { label: "Minutes", col: "minutes", integer: true },
-  { label: "Matchs", col: "matchs_joues", integer: true },
-];
+import { getLocale } from "@/lib/i18n/getLocale";
+import { getDictionary } from "@/lib/i18n/dictionaries";
 
 // Portage 1:1 de web/pages/03_Comparaison.py
 export default async function ComparaisonPage({
@@ -25,6 +12,22 @@ export default async function ComparaisonPage({
 }: {
   searchParams: Promise<Record<string, string | string[] | undefined>>;
 }) {
+  const t = getDictionary(await getLocale());
+  const STATS_TABLEAU = [
+    { label: "Score Pépite ★", col: "score_pepite_corrige" },
+    { label: t.metrics.pct_goals_p90, col: "buts_p90" },
+    { label: t.metrics.pct_xg_p90, col: "xg_p90" },
+    { label: t.metrics.pct_assists_p90, col: "passes_dec_p90" },
+    { label: t.metrics.pct_xag_p90, col: "xag_p90" },
+    { label: t.metrics.pct_key_passes_p90, col: "key_passes_p90" },
+    { label: t.metrics.pct_dribbles_p90, col: "dribbles_p90" },
+    { label: t.metrics.pct_tackles_p90, col: "tackles_p90" },
+    { label: t.metrics.pct_interceptions_p90, col: "interceptions_p90" },
+    { label: t.metrics.pct_passes_pct, col: "passes_pct" },
+    { label: t.progression.colMinutes, col: "minutes", integer: true },
+    { label: t.progression.colMatches, col: "matchs_joues", integer: true },
+  ];
+
   const sp = await searchParams;
   const getStr = (k: string) => (typeof sp[k] === "string" ? (sp[k] as string) : undefined);
   const idARaw = getStr("joueur_a");
@@ -44,17 +47,15 @@ export default async function ComparaisonPage({
     <div>
       <h1 className="text-[1.8rem] font-extrabold mb-2 flex items-center gap-2">
         <Icon name="compare_arrows" size={28} />
-        Comparaison
+        {t.comparison.title}
       </h1>
-      <p className="text-text-muted text-sm mb-6">
-        Comparez deux joueurs ou le même joueur sur différentes saisons.
-      </p>
+      <p className="text-text-muted text-sm mb-6">{t.comparison.subtitle}</p>
 
       <div className="grid grid-cols-1 lg:grid-cols-[5fr_1fr_5fr] gap-4 items-start">
         <div>
           <div className="text-primary font-bold flex items-center gap-1.5 mb-2.5">
             <Icon name="circle" size={14} />
-            Joueur A
+            {t.comparison.playerA}
           </div>
           <SearchCombobox
             kind="joueurs"
@@ -68,7 +69,7 @@ export default async function ComparaisonPage({
         <div>
           <div className="text-danger font-bold flex items-center gap-1.5 mb-2.5">
             <Icon name="circle" size={14} color="#E05252" />
-            Joueur B
+            {t.comparison.playerB}
           </div>
           <SearchCombobox
             kind="joueurs"
@@ -81,33 +82,33 @@ export default async function ComparaisonPage({
       </div>
 
       {!idARaw || !idBRaw ? (
-        <p className="text-text-muted mt-6">
-          Sélectionnez les deux joueurs pour lancer la comparaison.
-        </p>
+        <p className="text-text-muted mt-6">{t.comparison.selectBoth}</p>
       ) : !rowA || !rowB ? (
-        <p className="text-warning mt-6">Données insuffisantes.</p>
+        <p className="text-warning mt-6">{t.common.insufficientData}</p>
       ) : (
         <>
           <hr className="border-border my-6" />
           <ComparisonPanel
             rowA={rowA}
             rowB={rowB}
-            nameA={`${rowA.nom_court || "Joueur A"} — ${saisonA}`}
-            nameB={`${rowB.nom_court || "Joueur B"} — ${saisonB}`}
+            nameA={`${rowA.nom_court || t.comparison.playerA} — ${saisonA}`}
+            nameB={`${rowB.nom_court || t.comparison.playerB} — ${saisonB}`}
+            t={t}
           />
 
           <hr className="border-border my-6" />
           <h4 className="text-[1.05rem] font-bold mb-3 flex items-center gap-1.5">
             <Icon name="table_chart" size={18} />
-            Statistiques détaillées
+            {t.comparison.detailedStats}
           </h4>
           <ComparisonStatsTable
             stats={STATS_TABLEAU}
             rowA={rowA}
             rowB={rowB}
-            nameA={`${rowA.nom_court || "Joueur A"} — ${saisonA}`}
-            nameB={`${rowB.nom_court || "Joueur B"} — ${saisonB}`}
+            nameA={`${rowA.nom_court || t.comparison.playerA} — ${saisonA}`}
+            nameB={`${rowB.nom_court || t.comparison.playerB} — ${saisonB}`}
             showBetter
+            statLabel={t.comparison.stat}
           />
         </>
       )}

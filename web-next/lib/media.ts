@@ -91,3 +91,12 @@ export function ligueLogoUrl(ligueId: string | null | undefined): string | null 
   const tid = LIGUE_TOURNAMENT_IDS[ligueId.trim().toUpperCase()];
   return tid ? sofascoreImageUrl("unique-tournament", tid) : null;
 }
+
+// Certains logos de ligue (ex. Ligue 1) sont en noir et invisibles sur le
+// thème sombre du site — on les force en blanc via filtre CSS plutôt que
+// d'ajouter un fond clair derrière tous les logos de ligue.
+const DARK_LIGUE_LOGOS = new Set(["FRA"]);
+export function ligueLogoInvert(ligueId: string | null | undefined): boolean {
+  if (!ligueId) return false;
+  return DARK_LIGUE_LOGOS.has(ligueId.trim().toUpperCase());
+}

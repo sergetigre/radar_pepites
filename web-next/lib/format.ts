@@ -7,3 +7,14 @@ export function formatNumber(v: number | null | undefined, decimals = 2): string
   if (v == null || !Number.isFinite(v)) return "—";
   return v.toFixed(decimals);
 }
+
+// Équivalent côté client de unaccent() + LOWER() utilisé dans les requêtes
+// SQL de recherche (lib/queries/search.ts) — pour les listes filtrées
+// entièrement en JS (ex. ChampionnatFilters), où "e" doit aussi trouver
+// "é", "è", "ê"...
+export function unaccent(s: string): string {
+  return s
+    .normalize("NFD")
+    .replace(/[̀-ͯ]/g, "")
+    .toLowerCase();
+}

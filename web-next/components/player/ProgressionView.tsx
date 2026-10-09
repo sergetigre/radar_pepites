@@ -5,6 +5,7 @@ import { LineProgression, type Metric, type ProgressionRow } from "@/components/
 import { BarProgression } from "@/components/charts/BarProgression";
 import { Icon } from "@/components/ui/Icon";
 import { formatNumber } from "@/lib/format";
+import { useI18n } from "@/components/i18n/I18nProvider";
 
 // highlight: true pour les colonnes de performance réelle (stats /90,
 // score) — surlignées meilleure valeur en vert / pire en rouge atténué
@@ -37,9 +38,10 @@ export function ProgressionView({
   tableCols: ColDef[];
   fbrefNotice?: boolean;
 }) {
+  const { t } = useI18n();
   const saisonsDispo = data.map((d) => d.saison_courte);
   const [saisonsSel, setSaisonsSel] = useState<Set<string>>(() => new Set(saisonsDispo));
-  const [view, setView] = useState<"Courbe" | "Barres groupées">("Courbe");
+  const [view, setView] = useState<"curve" | "bars">("curve");
   const [metricsSelLabels, setMetricsSelLabels] = useState<Set<string>>(
     () => new Set(defaultSelectedLabels)
   );
@@ -86,7 +88,7 @@ export function ProgressionView({
   return (
     <div>
       <div className="mb-4">
-        <label className="block text-[0.8rem] text-text-nav mb-1.5">Saisons à afficher</label>
+        <label className="block text-[0.8rem] text-text-nav mb-1.5">{t.progression.seasonsToShow}</label>
         <div className="flex flex-wrap gap-2">
           {saisonsDispo.map((s) => (
             <button
@@ -106,20 +108,17 @@ export function ProgressionView({
       </div>
 
       {dfFiltre.length === 0 ? (
-        <p className="text-text-muted text-sm">Sélectionnez au moins une saison.</p>
+        <p className="text-text-muted text-sm">{t.progression.selectAtLeastOneSeason}</p>
       ) : (
         <>
           {fbrefNotice && !dfFiltre.some((d) => d.has_fbref_data) && (
-            <p className="text-text-muted text-sm mb-3">
-              ℹ️ % Arrêts et Clean sheets % non disponibles pour cette ligue (données fbref
-              absentes).
-            </p>
+            <p className="text-text-muted text-sm mb-3">ℹ️ {t.progression.fbrefNotice}</p>
           )}
 
           <div className="mb-4 flex items-center gap-4 flex-wrap">
-            <span className="text-[0.8rem] text-text-nav">Type de visualisation</span>
-            {(["Courbe", "Barres groupées"] as const).map((v) => (
-              <label key={v} className="flex items-center gap-1.5 text-sm text-white">
+            <span className="text-[0.8rem] text-text-nav">{t.progression.visualizationType}</span>
+            {(["curve", "bars"] as const).map((v) => (
+              <label key={v} className="flex items-center gap-1.5 text-sm text-text">
                 <input
                   type="radio"
                   name="view"
@@ -127,13 +126,13 @@ export function ProgressionView({
                   onChange={() => setView(v)}
                   className="accent-primary"
                 />
-                {v}
+                {v === "curve" ? t.progression.curve : t.progression.groupedBars}
               </label>
             ))}
           </div>
 
           <div className="mb-4">
-            <label className="block text-[0.8rem] text-text-nav mb-1.5">Métriques</label>
+            <label className="block text-[0.8rem] text-text-nav mb-1.5">{t.progression.metrics}</label>
             <div className="flex flex-wrap gap-2">
               {metricsDefault.map((m) => (
                 <button
@@ -152,16 +151,16 @@ export function ProgressionView({
             </div>
           </div>
 
-          {view === "Courbe" ? (
+          {view === "curve" ? (
             <LineProgression data={dfFiltre} joueur={joueur} metrics={metricsSel} />
           ) : (
-            <BarProgression data={dfFiltre} joueur={joueur} cols={metricsSel.map((m) => m.col)} />
+            <BarProgression data={dfFiltre} joueur={joueur} metrics={metricsSel} />
           )}
 
           <hr className="border-border my-6" />
           <h4 className="text-[1.05rem] font-bold mb-3 flex items-center gap-1.5">
             <Icon name="table_chart" size={18} />
-            Détail par saison
+            {t.progression.detailBySeason}
           </h4>
           <div className="overflow-x-auto">
             <table className="w-full text-sm border-collapse">

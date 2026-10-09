@@ -46,10 +46,14 @@ export type TopLigueRow = {
   age: number;
   score_corrige: number;
   couleur_hex: string | null;
+  team_id_ss: number | null;
+  nationalite_principale: string | null;
 };
 
-// Portage 1:1 de la requête top_par_ligue() inline dans
-// web/pages/00_Tableau_de_bord.py
+// Portage de la requête top_par_ligue() inline dans
+// web/pages/00_Tableau_de_bord.py — ajout de team_id_ss (logo club) et
+// nationalite_principale (drapeau), même jointure que getClassement()
+// (lib/queries/joueurs.ts).
 export async function topParLigue(
   saison: string,
   ligues: string[],
@@ -58,14 +62,18 @@ export async function topParLigue(
   ageMax: number
 ): Promise<TopLigueRow[]> {
   const rows = await query`
-    SELECT DISTINCT ON (ligue_id)
-      joueur_id, joueur, poste_id, ligue, ligue_id,
-      equipe, age, score_corrige, couleur_hex
-    FROM gold.vue_score_pepite_ranking
-    WHERE est_u23=TRUE AND saison_id=${saison}
-      AND ligue_id = ANY(${ligues}) AND poste_id = ANY(${postes})
-      AND minutes>=${minMin} AND age<=${ageMax}
-    ORDER BY ligue_id, score_corrige DESC
+    SELECT DISTINCT ON (r.ligue_id)
+      r.joueur_id, r.joueur, r.poste_id, r.ligue, r.ligue_id,
+      r.equipe, r.age, r.score_corrige, r.couleur_hex,
+      r.nationalite_principale,
+      e.team_id_ss
+    FROM gold.vue_score_pepite_ranking r
+    LEFT JOIN public.fact_stats f ON f.joueur_id = r.joueur_id AND f.saison_id = r.saison_id
+    LEFT JOIN public.dim_equipes e ON e.equipe_id = f.equipe_id
+    WHERE r.est_u23=TRUE AND r.saison_id=${saison}
+      AND r.ligue_id = ANY(${ligues}) AND r.poste_id = ANY(${postes})
+      AND r.minutes>=${minMin} AND r.age<=${ageMax}
+    ORDER BY r.ligue_id, r.score_corrige DESC
   `;
   return rows as TopLigueRow[];
 }

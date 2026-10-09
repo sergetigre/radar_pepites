@@ -4,6 +4,7 @@ import { useEffect, useState } from "react";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { FAMILLES_POSTES, ALL_POSTES, type Ligue } from "@/lib/constants/postes";
 import { MINUTES_OPTIONS, parseFilters } from "@/lib/filters";
+import { useI18n } from "@/components/i18n/I18nProvider";
 
 export { parseFilters } from "@/lib/filters";
 
@@ -19,6 +20,7 @@ export function Filters({ ligues, saisons }: { ligues: Ligue[]; saisons: string[
   const router = useRouter();
   const pathname = usePathname();
   const searchParams = useSearchParams();
+  const { t } = useI18n();
 
   const allLigueIds = ligues.map((l) => l.ligue_id);
   const current = parseFilters(searchParams, allLigueIds, saisons[0] ?? "");
@@ -70,7 +72,7 @@ export function Filters({ ligues, saisons }: { ligues: Ligue[]; saisons: string[
             <span className="material-icons-outlined text-[16px] align-middle mr-1 text-primary">
               tune
             </span>
-            Filtres
+            {t.sidebar.filters}
           </span>
           <span className="material-icons-outlined text-[16px] chevron" aria-hidden>
             expand_more
@@ -80,11 +82,11 @@ export function Filters({ ligues, saisons }: { ligues: Ligue[]; saisons: string[
         <div className="pt-1">
           {/* Saison */}
           <div>
-            <label className="block text-[0.8rem] text-text-nav mb-1">Saison</label>
+            <label className="block text-[0.8rem] text-text-nav mb-1">{t.sidebar.season}</label>
             <select
               value={current.saison}
               onChange={(e) => updateParams({ saison: e.target.value })}
-              className="w-full bg-card border border-border rounded-lg px-2 py-1.5 text-sm text-white mb-3"
+              className="w-full bg-card border border-border rounded-lg px-2 py-1.5 text-sm text-text mb-3"
             >
               {saisons.map((s) => (
                 <option key={s} value={s}>
@@ -96,9 +98,9 @@ export function Filters({ ligues, saisons }: { ligues: Ligue[]; saisons: string[
 
           {/* Ligues */}
           <div>
-            <div className="text-[0.72rem] font-semibold text-white mt-3 mb-1.5">
+            <div className="text-[0.72rem] font-semibold text-text mt-3 mb-1.5">
               <span className="material-icons-outlined text-[15px] align-middle mr-1">public</span>
-              Ligues
+              {t.sidebar.leagues}
             </div>
             <div className="grid grid-cols-2 gap-2 mb-1.5">
               <button
@@ -106,18 +108,18 @@ export function Filters({ ligues, saisons }: { ligues: Ligue[]; saisons: string[
                 onClick={() => setAll("ligues")}
                 className="text-xs border border-primary text-primary rounded-lg py-1 hover:bg-primary hover:text-black transition-colors"
               >
-                Tout
+                {t.common.all}
               </button>
               <button
                 type="button"
                 onClick={() => setNone("ligues")}
                 className="text-xs border border-primary text-primary rounded-lg py-1 hover:bg-primary hover:text-black transition-colors"
               >
-                Aucun
+                {t.common.none}
               </button>
             </div>
             {ligues.map((l) => (
-              <label key={l.ligue_id} className="flex items-center gap-2 text-[0.78rem] text-white py-0.5">
+              <label key={l.ligue_id} className="flex items-center gap-2 text-[0.78rem] text-text py-0.5">
                 <input
                   type="checkbox"
                   checked={current.ligues.includes(l.ligue_id)}
@@ -131,9 +133,9 @@ export function Filters({ ligues, saisons }: { ligues: Ligue[]; saisons: string[
 
           {/* Postes */}
           <div>
-            <div className="text-[0.72rem] font-semibold text-white mt-3 mb-1.5">
+            <div className="text-[0.72rem] font-semibold text-text mt-3 mb-1.5">
               <span className="material-icons-outlined text-[15px] align-middle mr-1">person</span>
-              Postes
+              {t.sidebar.positions}
             </div>
             <div className="grid grid-cols-2 gap-2 mb-1.5">
               <button
@@ -141,31 +143,31 @@ export function Filters({ ligues, saisons }: { ligues: Ligue[]; saisons: string[
                 onClick={() => setAll("postes")}
                 className="text-xs border border-primary text-primary rounded-lg py-1 hover:bg-primary hover:text-black transition-colors"
               >
-                Tout
+                {t.common.all}
               </button>
               <button
                 type="button"
                 onClick={() => setNone("postes")}
                 className="text-xs border border-primary text-primary rounded-lg py-1 hover:bg-primary hover:text-black transition-colors"
               >
-                Aucun
+                {t.common.none}
               </button>
             </div>
             {Object.entries(FAMILLES_POSTES).map(([famille, codes]) => (
               <details key={famille} open className="mb-1">
                 <summary className="text-[0.78rem] text-text-nav cursor-pointer py-1">
-                  {famille}
+                  {t.postes.familles[famille as keyof typeof t.postes.familles] ?? famille}
                 </summary>
                 <div className="pl-2">
-                  {Object.entries(codes).map(([code, label]) => (
-                    <label key={code} className="flex items-center gap-2 text-[0.78rem] text-white py-0.5">
+                  {Object.keys(codes).map((code) => (
+                    <label key={code} className="flex items-center gap-2 text-[0.78rem] text-text py-0.5">
                       <input
                         type="checkbox"
                         checked={current.postes.includes(code)}
                         onChange={() => toggleListValue("postes", ALL_POSTES, code)}
                         className="accent-primary"
                       />
-                      {label}
+                      {t.postes.labels[code as keyof typeof t.postes.labels] ?? code}
                     </label>
                   ))}
                 </div>
@@ -174,8 +176,8 @@ export function Filters({ ligues, saisons }: { ligues: Ligue[]; saisons: string[
           </div>
 
           {/* Minutes min */}
-          <label className="block text-[0.8rem] text-white mt-3 mb-1">
-            ⏱️ Minutes min : {MINUTES_OPTIONS[minMinIdx]}
+          <label className="block text-[0.8rem] text-text mt-3 mb-1">
+            ⏱️ {t.sidebar.minMinutes} : {MINUTES_OPTIONS[minMinIdx]}
           </label>
           <input
             type="range"
@@ -197,7 +199,9 @@ export function Filters({ ligues, saisons }: { ligues: Ligue[]; saisons: string[
           />
 
           {/* Âge max */}
-          <label className="block text-[0.8rem] text-white mt-3 mb-1">🎂 Âge max : {ageMax}</label>
+          <label className="block text-[0.8rem] text-text mt-3 mb-1">
+            🎂 {t.sidebar.maxAge} : {ageMax}
+          </label>
           <input
             type="range"
             min={16}
@@ -214,7 +218,9 @@ export function Filters({ ligues, saisons }: { ligues: Ligue[]; saisons: string[
       </details>
 
       <div className="border-t border-border mt-4 mb-2" />
-      <p className="text-[0.72rem] text-text-muted">RadarPépites v1.0 · 10 ligues · 3 saisons</p>
+      <p className="text-[0.72rem] text-text-muted">
+        RadarPépites v1.0 · 10 {t.sidebar.footer} · 3 {t.sidebar.footerSeasons}
+      </p>
     </div>
   );
 }

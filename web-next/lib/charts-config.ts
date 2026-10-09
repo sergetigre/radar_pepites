@@ -15,12 +15,20 @@ export const RADAR_AXES: Record<string, string[]> = {
   DF: ["pct_interceptions_p90", "pct_tackles_p90", "pct_degagements_p90", "pct_duels_aeriens_pct", "pct_passes_pct"],
 };
 
-// Portage 1:1 de web/pages/03_Comparaison.py::ALL_STATS_COMPARE — liste des
+// Portage de web/pages/03_Comparaison.py::ALL_STATS_COMPARE — liste des
 // stats proposées au sélecteur (4 à 8) pour le radar de comparaison libre.
-export const ALL_STATS_COMPARE: Record<string, string[]> = {
-  "⚽ Offensif": ["pct_goals_p90", "pct_xg_p90", "pct_assists_p90", "pct_xag_p90", "pct_shots_p90"],
-  "🎯 Passes": ["pct_key_passes_p90", "pct_passes_pct", "pct_dribbles_p90"],
-  "🛡️ Défense": ["pct_tackles_p90", "pct_interceptions_p90", "pct_degagements_p90", "pct_duels_aeriens_pct"],
+// Clés traduites (⚽/🎯/🛡️ + radar.offensive/passing/defense) plutôt que du
+// texte FR en dur, pour rester cohérent entre les 3 langues.
+export const ALL_STATS_COMPARE_KEYS = ["offensive", "passing", "defense"] as const;
+export const ALL_STATS_COMPARE: Record<(typeof ALL_STATS_COMPARE_KEYS)[number], string[]> = {
+  offensive: ["pct_goals_p90", "pct_xg_p90", "pct_assists_p90", "pct_xag_p90", "pct_shots_p90"],
+  passing: ["pct_key_passes_p90", "pct_passes_pct", "pct_dribbles_p90"],
+  defense: ["pct_tackles_p90", "pct_interceptions_p90", "pct_degagements_p90", "pct_duels_aeriens_pct"],
+};
+export const ALL_STATS_COMPARE_ICONS: Record<(typeof ALL_STATS_COMPARE_KEYS)[number], string> = {
+  offensive: "⚽",
+  passing: "🎯",
+  defense: "🛡️",
 };
 
 export const RADAR_LABELS: Record<string, string> = {

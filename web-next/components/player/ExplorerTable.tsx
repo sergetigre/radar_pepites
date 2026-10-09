@@ -5,30 +5,19 @@ import { useRouter } from "next/navigation";
 import { ScatterXgButs } from "@/components/charts/ScatterXgButs";
 import type { ClassementRow } from "@/lib/queries/joueurs";
 import { formatNumber } from "@/lib/format";
+import { teamLogoUrl, ligueLogoUrl, ligueLogoInvert } from "@/lib/media";
+import type { Dictionary } from "@/lib/i18n/dictionaries";
 
 type Row = ClassementRow & { rang_dynamique: number };
 
-// highlight: true pour les colonnes de performance réelle — meilleure
-// valeur en vert / pire en rouge atténué, recalculé sur les lignes
-// actuellement affichées (après recherche rapide) — même principe que
-// "Détail par saison" (Progression).
-const COLS: { key: keyof Row; label: string; highlight?: boolean }[] = [
-  { key: "rang_dynamique", label: "Rang" },
-  { key: "joueur", label: "Joueur" },
-  { key: "equipe", label: "Équipe" },
-  { key: "ligue", label: "Ligue" },
-  { key: "poste_id", label: "Poste" },
-  { key: "age", label: "Âge" },
-  { key: "score_corrige", label: "Score ★", highlight: true },
-  { key: "xg_p90", label: "xG/90", highlight: true },
-  { key: "buts_p90", label: "Buts/90", highlight: true },
-  { key: "minutes", label: "Minutes" },
-];
-
-function formatCell(row: Row, key: keyof Row): string {
+function formatCell(row: Row, key: keyof Row, t: Dictionary): string {
   const v = row[key];
   if (v == null) return "—";
   if (key === "score_corrige" || key === "xg_p90" || key === "buts_p90") return formatNumber(v as number);
+  if (key === "poste_id") {
+    const code = v as string;
+    return t.postes.labels[code as keyof typeof t.postes.labels] ?? code;
+  }
   return String(v);
 }
 
@@ -38,13 +27,30 @@ function toCsvValue(v: unknown): string {
   return /[",\n]/.test(s) ? `"${s.replace(/"/g, '""')}"` : s;
 }
 
-// Portage 1:1 de web/pages/01_Explorer.py — recherche rapide, rang
-// dynamique (recalculé sur score_corrige après filtre texte, pas
-// rang_global qui est figé), export CSV, clic-ligne -> Radar Joueur.
-export function ExplorerTable({ data, saison }: { data: ClassementRow[]; saison: string }) {
+// Portage de web/pages/01_Explorer.py — recherche rapide, rang dynamique
+// (recalculé sur score_corrige après filtre texte, pas rang_global qui est
+// figé), export CSV, clic-ligne -> Radar Joueur.
+export function ExplorerTable({ data, saison, t }: { data: ClassementRow[]; saison: string; t: Dictionary }) {
   const router = useRouter();
   const [search, setSearch] = useState("");
   const [tab, setTab] = useState<"classement" | "graphiques">("classement");
+
+  // highlight: true pour les colonnes de performance réelle — meilleure
+  // valeur en vert / pire en rouge atténué, recalculé sur les lignes
+  // actuellement affichées (après recherche rapide) — même principe que
+  // "Détail par saison" (Progression).
+  const COLS: { key: keyof Row; label: string; highlight?: boolean }[] = [
+    { key: "rang_dynamique", label: t.explorer.colRank },
+    { key: "joueur", label: t.explorer.colPlayer },
+    { key: "equipe", label: t.explorer.colTeam },
+    { key: "ligue", label: t.explorer.colLeague },
+    { key: "poste_id", label: t.explorer.colPosition },
+    { key: "age", label: t.explorer.colAge },
+    { key: "score_corrige", label: t.explorer.colScore, highlight: true },
+    { key: "xg_p90", label: "xG/90", highlight: true },
+    { key: "buts_p90", label: "Buts/90", highlight: true },
+    { key: "minutes", label: t.explorer.colMinutes },
+  ];
 
   const filtered: Row[] = useMemo(() => {
     const base = search
@@ -86,6 +92,7 @@ export function ExplorerTable({ data, saison }: { data: ClassementRow[]; saison:
       if (entry.best !== undefined || entry.worst !== undefined) result[c.key] = entry;
     }
     return result;
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [filtered]);
 
   function exportCsv() {
@@ -110,8 +117,8 @@ export function ExplorerTable({ data, saison }: { data: ClassementRow[]; saison:
       <div className="flex gap-1 mb-4 border-b border-border">
         {(
           [
-            ["classement", "📋 Classement"],
-            ["graphiques", "📊 Graphiques"],
+            ["classement", `📋 ${t.explorer.tabRanking}`],
+            ["graphiques", `📊 ${t.explorer.tabCharts}`],
           ] as const
         ).map(([key, label]) => (
           <button
@@ -133,8 +140,8 @@ export function ExplorerTable({ data, saison }: { data: ClassementRow[]; saison:
             type="text"
             value={search}
             onChange={(e) => setSearch(e.target.value)}
-            placeholder="🔍 Filtrer par nom de joueur..."
-            className="w-full max-w-md bg-card border border-border rounded-lg px-3 py-2 text-sm text-white mb-4"
+            placeholder={`🔍 ${t.explorer.searchPlaceholder}`}
+            className="w-full max-w-md bg-card border border-border rounded-lg px-3 py-2 text-sm text-text mb-4"
           />
           <div className="overflow-x-auto mb-4">
             <table className="w-full text-sm border-collapse">
@@ -152,7 +159,7 @@ export function ExplorerTable({ data, saison }: { data: ClassementRow[]; saison:
                   <tr
                     key={row.joueur_id}
                     onClick={() => selectRow(row)}
-                    className="border-b border-border/50 cursor-pointer hover:bg-white/5"
+                    className="border-b border-border/50 cursor-pointer hover:bg-overlay"
                   >
                     {COLS.map((c) => {
                       const v = row[c.key];
@@ -166,7 +173,31 @@ export function ExplorerTable({ data, saison }: { data: ClassementRow[]; saison:
                             isBest ? "stat-best" : isWorst ? "stat-worst" : ""
                           }`}
                         >
-                          {formatCell(row, c.key)}
+                          {c.key === "equipe" ? (
+                            <span className="flex items-center gap-1 whitespace-nowrap">
+                              {teamLogoUrl(row.team_id_ss) && (
+                                // eslint-disable-next-line @next/next/no-img-element
+                                <img src={teamLogoUrl(row.team_id_ss)!} alt="" className="club-logo" />
+                              )}
+                              {row.equipe}
+                            </span>
+                          ) : c.key === "ligue" ? (
+                            <span className="flex items-center gap-1 whitespace-nowrap">
+                              {ligueLogoUrl(row.ligue_id) && (
+                                // eslint-disable-next-line @next/next/no-img-element
+                                <img
+                                  src={ligueLogoUrl(row.ligue_id)!}
+                                  alt=""
+                                  className={`ligue-logo${
+                                    ligueLogoInvert(row.ligue_id) ? " ligue-logo-invert" : ""
+                                  }`}
+                                />
+                              )}
+                              {row.ligue}
+                            </span>
+                          ) : (
+                            formatCell(row, c.key, t)
+                          )}
                         </td>
                       );
                     })}
@@ -180,13 +211,13 @@ export function ExplorerTable({ data, saison }: { data: ClassementRow[]; saison:
             onClick={exportCsv}
             className="text-sm border border-primary text-primary rounded-lg px-4 py-2 hover:bg-primary hover:text-black transition-colors"
           >
-            ⬇️ Exporter en CSV
+            ⬇️ {t.explorer.exportCsv}
           </button>
         </>
       ) : dfG.length > 0 ? (
         <ScatterXgButs data={dfG} />
       ) : (
-        <p className="text-text-muted text-sm">Données insuffisantes pour le graphique.</p>
+        <p className="text-text-muted text-sm">{t.explorer.insufficientDataChart}</p>
       )}
     </div>
   );

@@ -7,6 +7,8 @@ import { TopCategoryTabs } from "@/components/championnats/TopCategoryTabs";
 import { OnzeType } from "@/components/championnats/OnzeType";
 import { PepitesSousCotees } from "@/components/championnats/PepitesSousCotees";
 import { Icon } from "@/components/ui/Icon";
+import { getLocale } from "@/lib/i18n/getLocale";
+import { getDictionary, interpolate, type Dictionary } from "@/lib/i18n/dictionaries";
 
 // DM (Milieu défensif) volontairement absent — cf. commentaire dans
 // components/championnats/OnzeType.tsx.
@@ -23,6 +25,7 @@ export default async function ChampionnatsPage({
 }: {
   searchParams: Promise<Record<string, string | string[] | undefined>>;
 }) {
+  const t = getDictionary(await getLocale());
   const sp = await searchParams;
   const [ligues, saisons, nationalites] = await Promise.all([
     getLigues(),
@@ -43,22 +46,21 @@ export default async function ChampionnatsPage({
     <div>
       <h1 className="text-[1.8rem] font-extrabold mb-1 flex items-center gap-2">
         <Icon name="emoji_events" size={28} />
-        Top pépites
+        {t.championnats.title}
       </h1>
-      <p className="text-text-muted text-sm mb-1">
-        Classements, onze type et pépites sous-cotées — sur une ou plusieurs ligues, filtrables par
-        nationalité pour cibler une recherche de recrutement.
-      </p>
+      <p className="text-text-muted text-sm mb-1">{t.championnats.subtitle}</p>
       <p className="text-text-muted text-sm mb-5">
-        Saison {saison} · {selLigues.length} ligue(s) · {selNationalites.length} nationalité(s)
+        {interpolate(t.championnats.subtitleCounts, {
+          season: saison,
+          leagues: selLigues.length,
+          nationalities: selNationalites.length,
+        })}
       </p>
 
-      <ChampionnatFilters nationalites={nationalites} />
+      <ChampionnatFilters nationalites={nationalites} t={t} />
 
       {selLigues.length === 0 || postes.length === 0 || selNationalites.length === 0 ? (
-        <p className="text-warning">
-          Sélectionnez au moins une ligue, un poste (filtres) et une nationalité.
-        </p>
+        <p className="text-warning">{t.championnats.selectFilters}</p>
       ) : (
         <ChampionnatContent
           saison={saison}
@@ -67,6 +69,7 @@ export default async function ChampionnatsPage({
           nationalites={selNationalites}
           minMin={minMin}
           ageMax={ageMax}
+          t={t}
         />
       )}
     </div>
@@ -80,6 +83,7 @@ async function ChampionnatContent({
   nationalites,
   minMin,
   ageMax,
+  t,
 }: {
   saison: string;
   ligues: string[];
@@ -87,6 +91,7 @@ async function ChampionnatContent({
   nationalites: string[];
   minMin: number;
   ageMax: number;
+  t: Dictionary;
 }) {
   const [classement, gkTop] = await Promise.all([
     getClassement(saison, ligues, postes.length > 0 ? postes : POSTES_ORDER, ageMax, minMin),
@@ -95,7 +100,7 @@ async function ChampionnatContent({
   const data = classement.filter((r) => nationalites.includes(r.nationalite_principale ?? ""));
 
   if (data.length === 0) {
-    return <p className="text-text-muted mt-4">Aucune donnée avec les filtres actuels.</p>;
+    return <p className="text-text-muted mt-4">{t.championnats.noData}</p>;
   }
 
   return (
@@ -103,33 +108,25 @@ async function ChampionnatContent({
       <hr className="border-border my-6" />
       <h3 className="text-[1.15rem] font-bold mb-1 flex items-center gap-1.5">
         <Icon name="leaderboard" size={20} />
-        Top 5 par catégorie
+        {t.championnats.top5Title}
       </h3>
-      <p className="text-text-muted text-sm mb-4">
-        Les 5 joueurs les plus performants sur chaque qualité, parmi la sélection filtrée.
-      </p>
+      <p className="text-text-muted text-sm mb-4">{t.championnats.top5Subtitle}</p>
       <TopCategoryTabs data={data} saison={saison} />
 
       <hr className="border-border my-6" />
       <h3 className="text-[1.15rem] font-bold mb-1 flex items-center gap-1.5">
         <Icon name="sports_soccer" size={20} />
-        Onze type proposé
+        {t.championnats.onzeTypeTitle}
       </h3>
-      <p className="text-text-muted text-sm mb-2">
-        Titulaire (équipe, âge, note) + doublures juste en dessous, par poste — toutes ligues et
-        nationalités sélectionnées confondues.
-      </p>
+      <p className="text-text-muted text-sm mb-2">{t.championnats.onzeTypeSubtitle}</p>
       <OnzeType data={data} gkTop={gkTop} saison={saison} />
 
       <hr className="border-border my-6" />
       <h3 className="text-[1.15rem] font-bold mb-1 flex items-center gap-1.5">
         <Icon name="diamond" size={20} />
-        Pépites sous-cotées
+        {t.championnats.pepitesTitle}
       </h3>
-      <p className="text-text-muted text-sm mb-4">
-        Score Pépite élevé (top 20% de la sélection) mais temps de jeu encore en dessous de la
-        médiane — potentiel pas encore pleinement exploité.
-      </p>
+      <p className="text-text-muted text-sm mb-4">{t.championnats.pepitesSubtitle}</p>
       <PepitesSousCotees data={data} saison={saison} />
     </>
   );
