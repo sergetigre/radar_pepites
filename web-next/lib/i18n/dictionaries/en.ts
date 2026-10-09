@@ -49,8 +49,6 @@ const en = {
     season: "Season",
     leagues: "Leagues",
     positions: "Positions",
-    minMinutes: "Min minutes",
-    maxAge: "Max age",
     showMenu: "Show menu",
     hideMenu: "Hide menu",
     footer: "leagues",

@@ -53,8 +53,6 @@ const fr = {
     season: "Saison",
     leagues: "Ligues",
     positions: "Postes",
-    minMinutes: "Minutes min",
-    maxAge: "Âge max",
     showMenu: "Afficher le menu",
     hideMenu: "Masquer le menu",
     footer: "ligues",

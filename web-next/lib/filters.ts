@@ -3,7 +3,6 @@ import { ALL_POSTES } from "@/lib/constants/postes";
 // Partagé Server Components (lecture SQL) / composant client Filters —
 // aucune dépendance à lib/db.ts ici, donc importable des deux côtés.
 
-export const MINUTES_OPTIONS = [90, 180, 270, 450, 900, 1350, 1800];
 export const DEFAULT_MIN_MIN = 450;
 export const DEFAULT_AGE_MAX = 23;
 

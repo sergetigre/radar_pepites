@@ -1,9 +1,8 @@
 "use client";
 
-import { useEffect, useState } from "react";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { FAMILLES_POSTES, ALL_POSTES, type Ligue } from "@/lib/constants/postes";
-import { MINUTES_OPTIONS, parseFilters } from "@/lib/filters";
+import { parseFilters } from "@/lib/filters";
 import { useI18n } from "@/components/i18n/I18nProvider";
 
 export { parseFilters } from "@/lib/filters";
@@ -24,22 +23,6 @@ export function Filters({ ligues, saisons }: { ligues: Ligue[]; saisons: string[
 
   const allLigueIds = ligues.map((l) => l.ligue_id);
   const current = parseFilters(searchParams, allLigueIds, saisons[0] ?? "");
-
-  // État local pour les deux sliders : l'affichage suit la souris en temps
-  // réel, mais la navigation (router.push -> refetch serveur) ne se
-  // déclenche qu'au relâchement. Sans ça, onChange d'un <input type=range>
-  // contrôlé par React se déclenche à CHAQUE pixel de glissement, donc
-  // chaque micro-mouvement relançait une requête serveur complète — le
-  // curseur devenait saccadé et quasi impossible à régler précisément.
-  const minMinIdxFromUrl = (() => {
-    const idx = MINUTES_OPTIONS.indexOf(current.minMin);
-    return idx === -1 ? 3 : idx;
-  })();
-  const [minMinIdx, setMinMinIdx] = useState(minMinIdxFromUrl);
-  const [ageMax, setAgeMax] = useState(current.ageMax);
-
-  useEffect(() => setMinMinIdx(minMinIdxFromUrl), [minMinIdxFromUrl]);
-  useEffect(() => setAgeMax(current.ageMax), [current.ageMax]);
 
   function updateParams(patch: Partial<Record<string, string>>) {
     const params = new URLSearchParams(searchParams.toString());
@@ -175,45 +158,6 @@ export function Filters({ ligues, saisons }: { ligues: Ligue[]; saisons: string[
             ))}
           </div>
 
-          {/* Minutes min */}
-          <label className="block text-[0.8rem] text-text mt-3 mb-1">
-            ⏱️ {t.sidebar.minMinutes} : {MINUTES_OPTIONS[minMinIdx]}
-          </label>
-          <input
-            type="range"
-            min={0}
-            max={MINUTES_OPTIONS.length - 1}
-            step={1}
-            value={minMinIdx}
-            onChange={(e) => setMinMinIdx(Number(e.target.value))}
-            onMouseUp={(e) =>
-              updateParams({ min_min: String(MINUTES_OPTIONS[Number(e.currentTarget.value)]) })
-            }
-            onTouchEnd={(e) =>
-              updateParams({ min_min: String(MINUTES_OPTIONS[Number(e.currentTarget.value)]) })
-            }
-            onKeyUp={(e) =>
-              updateParams({ min_min: String(MINUTES_OPTIONS[Number(e.currentTarget.value)]) })
-            }
-            className="w-full accent-primary"
-          />
-
-          {/* Âge max */}
-          <label className="block text-[0.8rem] text-text mt-3 mb-1">
-            🎂 {t.sidebar.maxAge} : {ageMax}
-          </label>
-          <input
-            type="range"
-            min={16}
-            max={23}
-            step={1}
-            value={ageMax}
-            onChange={(e) => setAgeMax(Number(e.target.value))}
-            onMouseUp={(e) => updateParams({ age_max: e.currentTarget.value })}
-            onTouchEnd={(e) => updateParams({ age_max: e.currentTarget.value })}
-            onKeyUp={(e) => updateParams({ age_max: e.currentTarget.value })}
-            className="w-full accent-primary"
-          />
         </div>
       </details>
 

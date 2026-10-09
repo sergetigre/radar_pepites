@@ -49,8 +49,6 @@ const es = {
     season: "Temporada",
     leagues: "Ligas",
     positions: "Posiciones",
-    minMinutes: "Minutos mín.",
-    maxAge: "Edad máx.",
     showMenu: "Mostrar menú",
     hideMenu: "Ocultar menú",
     footer: "ligas",
