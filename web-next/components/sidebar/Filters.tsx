@@ -163,7 +163,8 @@ export function Filters({ ligues, saisons }: { ligues: Ligue[]; saisons: string[
 
       <div className="border-t border-border mt-4 mb-2" />
       <p className="text-[0.72rem] text-text-muted">
-        RadarPépites v1.0 · 10 {t.sidebar.footer} · 3 {t.sidebar.footerSeasons}
+        RadarPépites v1.0 · 10 {t.sidebar.footer} · {saisons.length} {t.sidebar.footerSeasons} ·{" "}
+        {t.sidebar.footerBy} Tigré SK
       </p>
     </div>
   );

@@ -52,6 +52,7 @@ const es = {
     showMenu: "Mostrar menú",
     hideMenu: "Ocultar menú",
     footer: "ligas",
+    footerBy: "por",
     footerSeasons: "temporadas",
   },
   theme: {
