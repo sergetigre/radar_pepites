@@ -4,6 +4,7 @@ import type { SimilarPlayer } from "@/lib/queries/joueurs";
 import { teamLogoUrl, ligueLogoUrl, ligueLogoInvert } from "@/lib/media";
 import { getLocale } from "@/lib/i18n/getLocale";
 import { getDictionary } from "@/lib/i18n/dictionaries";
+import { SafeImg } from "@/components/ui/SafeImg";
 
 // Portage de web/utils/components.py::render_similar_players() — chaque
 // carte ouvre le radar du joueur correspondant (ajout vs. l'original, qui
@@ -37,21 +38,14 @@ export async function SimilarPlayers({
               <div>
                 <div className="font-semibold text-[0.9rem]">{p.joueur}</div>
                 <div className="flex items-center gap-1 text-[0.75rem] text-text-muted mt-0.5">
-                  {clubUrl && (
-                    // eslint-disable-next-line @next/next/no-img-element
-                    <img src={clubUrl} alt="" className="club-logo" />
-                  )}
+                  <SafeImg src={clubUrl} className="club-logo" />
                   <span>{p.equipe}</span>
                 </div>
                 <div className="flex items-center gap-1 text-[0.75rem] text-text-muted mt-0.5">
-                  {ligueUrl && (
-                    // eslint-disable-next-line @next/next/no-img-element
-                    <img
-                      src={ligueUrl}
-                      alt=""
-                      className={`ligue-logo${ligueLogoInvert(p.ligue_id) ? " ligue-logo-invert" : ""}`}
-                    />
-                  )}
+                  <SafeImg
+                    src={ligueUrl}
+                    className={`ligue-logo${ligueLogoInvert(p.ligue_id) ? " ligue-logo-invert" : ""}`}
+                  />
                   <span>{p.ligue}</span>
                 </div>
               </div>

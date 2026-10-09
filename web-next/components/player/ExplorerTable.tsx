@@ -7,6 +7,7 @@ import type { ClassementRow } from "@/lib/queries/joueurs";
 import { formatNumber } from "@/lib/format";
 import { teamLogoUrl, ligueLogoUrl, ligueLogoInvert } from "@/lib/media";
 import type { Dictionary } from "@/lib/i18n/dictionaries";
+import { SafeImg } from "@/components/ui/SafeImg";
 
 type Row = ClassementRow & { rang_dynamique: number };
 
@@ -175,24 +176,17 @@ export function ExplorerTable({ data, saison, t }: { data: ClassementRow[]; sais
                         >
                           {c.key === "equipe" ? (
                             <span className="flex items-center gap-1 whitespace-nowrap">
-                              {teamLogoUrl(row.team_id_ss) && (
-                                // eslint-disable-next-line @next/next/no-img-element
-                                <img src={teamLogoUrl(row.team_id_ss)!} alt="" className="club-logo" />
-                              )}
+                              <SafeImg src={teamLogoUrl(row.team_id_ss)} className="club-logo" />
                               {row.equipe}
                             </span>
                           ) : c.key === "ligue" ? (
                             <span className="flex items-center gap-1 whitespace-nowrap">
-                              {ligueLogoUrl(row.ligue_id) && (
-                                // eslint-disable-next-line @next/next/no-img-element
-                                <img
-                                  src={ligueLogoUrl(row.ligue_id)!}
-                                  alt=""
-                                  className={`ligue-logo${
-                                    ligueLogoInvert(row.ligue_id) ? " ligue-logo-invert" : ""
-                                  }`}
-                                />
-                              )}
+                              <SafeImg
+                                src={ligueLogoUrl(row.ligue_id)}
+                                className={`ligue-logo${
+                                  ligueLogoInvert(row.ligue_id) ? " ligue-logo-invert" : ""
+                                }`}
+                              />
                               {row.ligue}
                             </span>
                           ) : (

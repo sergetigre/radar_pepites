@@ -3,6 +3,7 @@ import { formatNumber } from "@/lib/format";
 import { teamLogoUrl, ligueLogoUrl, ligueLogoInvert } from "@/lib/media";
 import { getLocale } from "@/lib/i18n/getLocale";
 import { getDictionary } from "@/lib/i18n/dictionaries";
+import { SafeImg } from "@/components/ui/SafeImg";
 
 type PlayerLike = {
   joueur_id: number;
@@ -54,19 +55,15 @@ export async function FormationCard({
           {titulaire.joueur}
         </div>
         <div className="flex items-center gap-1 text-[0.7rem] text-text-muted mt-0.5">
-          {clubUrl && (
-            // eslint-disable-next-line @next/next/no-img-element
-            <img src={clubUrl} alt="" className="club-logo" />
-          )}
+          <SafeImg src={clubUrl} className="club-logo" />
           <span className="whitespace-nowrap overflow-hidden text-ellipsis min-w-0">
             {titulaire.equipe} · {titulaire.age} {t.common.years}
           </span>
         </div>
         {ligueUrl && (
           <div className="flex items-center gap-1 text-[0.7rem] text-text-muted mb-1.5 mt-0.5">
-            <img
+            <SafeImg
               src={ligueUrl}
-              alt=""
               className={`ligue-logo${ligueLogoInvert(titulaire.ligue_id) ? " ligue-logo-invert" : ""}`}
             />
             {titulaire.ligue && (

@@ -4,6 +4,7 @@ import { formatNumber } from "@/lib/format";
 import { flagImageUrl, teamLogoUrl, ligueLogoUrl, ligueLogoInvert } from "@/lib/media";
 import { getLocale } from "@/lib/i18n/getLocale";
 import { getDictionary } from "@/lib/i18n/dictionaries";
+import { SafeImg } from "@/components/ui/SafeImg";
 
 // Interpolation linéaire — réplique pandas/numpy Series.quantile() par
 // défaut (method="linear"), NaN exclus au préalable par l'appelant.
@@ -61,29 +62,19 @@ export async function PepitesSousCotees({ data, saison }: { data: ClassementRow[
             <div className="card card-accent player-mini-card" style={{ borderLeftColor: "#5DCBA0" }}>
               <div className="pmc-name">
                 💎
-                {flagUrl && (
-                  // eslint-disable-next-line @next/next/no-img-element
-                  <img src={flagUrl} alt="" className="flag-icon" />
-                )}
+                <SafeImg src={flagUrl} className="flag-icon" />
                 {row.joueur}
               </div>
               <div className="pmc-league flex items-center gap-1 mt-1">
                 <span>{posteLabel} ·</span>
-                {clubUrl && (
-                  // eslint-disable-next-line @next/next/no-img-element
-                  <img src={clubUrl} alt="" className="club-logo" />
-                )}
+                <SafeImg src={clubUrl} className="club-logo" />
                 <span>{row.equipe}</span>
               </div>
               <div className="pmc-league flex items-center gap-1 mt-0.5">
-                {ligueUrl && (
-                  // eslint-disable-next-line @next/next/no-img-element
-                  <img
-                    src={ligueUrl}
-                    alt=""
-                    className={`ligue-logo${ligueLogoInvert(row.ligue_id) ? " ligue-logo-invert" : ""}`}
-                  />
-                )}
+                <SafeImg
+                  src={ligueUrl}
+                  className={`ligue-logo${ligueLogoInvert(row.ligue_id) ? " ligue-logo-invert" : ""}`}
+                />
                 <span>{row.ligue}</span>
               </div>
               <div className="pmc-details">

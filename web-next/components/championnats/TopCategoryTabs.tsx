@@ -7,6 +7,7 @@ import type { TopGkScoreRow } from "@/lib/queries/gardiens";
 import { teamLogoUrl, ligueLogoUrl, ligueLogoInvert } from "@/lib/media";
 import { useI18n } from "@/components/i18n/I18nProvider";
 import { interpolate } from "@/lib/i18n/dictionaries";
+import { SafeImg } from "@/components/ui/SafeImg";
 
 const MEDALS: Record<number, string> = { 1: "🥇", 2: "🥈", 3: "🥉" };
 
@@ -152,21 +153,14 @@ export function TopCategoryTabs({
                       {row.joueur}
                     </div>
                     <div className="flex items-center gap-1 text-text-muted text-[0.7rem]">
-                      {clubUrl && (
-                        // eslint-disable-next-line @next/next/no-img-element
-                        <img src={clubUrl} alt="" className="club-logo" />
-                      )}
+                      <SafeImg src={clubUrl} className="club-logo" />
                       <span className="whitespace-nowrap overflow-hidden text-ellipsis min-w-0">
                         {row.equipe} · {row.posteLabel}
                       </span>
-                      {ligueUrl && (
-                        // eslint-disable-next-line @next/next/no-img-element
-                        <img
-                          src={ligueUrl}
-                          alt=""
-                          className={`ligue-logo${ligueLogoInvert(row.ligue_id) ? " ligue-logo-invert" : ""}`}
-                        />
-                      )}
+                      <SafeImg
+                        src={ligueUrl}
+                        className={`ligue-logo${ligueLogoInvert(row.ligue_id) ? " ligue-logo-invert" : ""}`}
+                      />
                     </div>
                   </div>
                   <div className="order-3 md:order-4 min-w-[56px] shrink-0 text-right font-bold text-text text-[0.82rem] whitespace-nowrap">

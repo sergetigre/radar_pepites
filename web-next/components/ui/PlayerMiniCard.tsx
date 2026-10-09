@@ -5,6 +5,7 @@ import { ligueColor } from "@/lib/ligue-colors";
 import { teamLogoUrl, ligueLogoUrl, ligueLogoInvert, flagImageUrl } from "@/lib/media";
 import { getLocale } from "@/lib/i18n/getLocale";
 import { getDictionary } from "@/lib/i18n/dictionaries";
+import { SafeImg } from "@/components/ui/SafeImg";
 
 // Portage de la carte "pépite" cliquable de web/pages/00_Tableau_de_bord.py
 // (render_html + classes .card/.player-mini-card) — ajout logo club + logo
@@ -26,30 +27,18 @@ export async function PlayerMiniCard({ row, saison }: { row: TopLigueRow; saison
     >
       <div className="card card-accent player-mini-card" style={{ borderLeftColor: color }}>
         <div className="pmc-name">
-          {flagUrl ? (
-            // eslint-disable-next-line @next/next/no-img-element
-            <img src={flagUrl} alt="" className="flag-icon" />
-          ) : (
-            "⚽"
-          )}
+          {flagUrl ? <SafeImg src={flagUrl} className="flag-icon" /> : "⚽"}
           {row.joueur}
         </div>
         <div className="pmc-league flex items-center gap-1 mt-1">
-          {clubUrl && (
-            // eslint-disable-next-line @next/next/no-img-element
-            <img src={clubUrl} alt="" className="club-logo" />
-          )}
+          <SafeImg src={clubUrl} className="club-logo" />
           <span>{row.equipe}</span>
         </div>
         <div className="pmc-league flex items-center gap-1 mt-0.5">
-          {ligueUrl && (
-            // eslint-disable-next-line @next/next/no-img-element
-            <img
-              src={ligueUrl}
-              alt=""
-              className={`ligue-logo${ligueLogoInvert(row.ligue_id) ? " ligue-logo-invert" : ""}`}
-            />
-          )}
+          <SafeImg
+            src={ligueUrl}
+            className={`ligue-logo${ligueLogoInvert(row.ligue_id) ? " ligue-logo-invert" : ""}`}
+          />
           <span>{row.ligue}</span>
         </div>
         <div className="pmc-details">

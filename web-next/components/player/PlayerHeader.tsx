@@ -5,6 +5,7 @@ import { Icon } from "@/components/ui/Icon";
 import { formatNumber } from "@/lib/format";
 import { ligueColor } from "@/lib/ligue-colors";
 import { useI18n } from "@/components/i18n/I18nProvider";
+import { SafeImg } from "@/components/ui/SafeImg";
 
 // Portage 1:1 de web/utils/components.py::ligue_court()
 const LIGUE_COURT_MAP: Record<string, string> = {
@@ -77,15 +78,7 @@ export function PlayerHeader({ row, isGk = false }: { row: PlayerHeaderData; isG
       <div className="flex justify-between items-start flex-wrap gap-4">
         <div className="flex gap-4 flex-1 min-w-[200px]">
           {photoUrl ? (
-            // eslint-disable-next-line @next/next/no-img-element
-            <img
-              src={photoUrl}
-              alt={nom}
-              className="player-photo"
-              onError={(e) => {
-                e.currentTarget.style.display = "none";
-              }}
-            />
+            <SafeImg src={photoUrl} alt={nom} className="player-photo" />
           ) : (
             <div className="player-photo" />
           )}
@@ -94,30 +87,13 @@ export function PlayerHeader({ row, isGk = false }: { row: PlayerHeaderData; isG
               className="text-[0.75rem] font-bold uppercase tracking-wide mb-1.5 flex items-center gap-1.5 flex-wrap"
               style={{ color }}
             >
-              {clubUrl && (
-                // eslint-disable-next-line @next/next/no-img-element
-                <img
-                  src={clubUrl}
-                  alt=""
-                  className="club-logo"
-                  onError={(e) => {
-                    e.currentTarget.style.display = "none";
-                  }}
-                />
-              )}
+              <SafeImg src={clubUrl} className="club-logo" />
               <span>{equipe}</span>
               <span className="opacity-60">·</span>
-              {ligueUrl && (
-                // eslint-disable-next-line @next/next/no-img-element
-                <img
-                  src={ligueUrl}
-                  alt=""
-                  className={`ligue-logo${ligueLogoInvert(row.ligue_id) ? " ligue-logo-invert" : ""}`}
-                  onError={(e) => {
-                    e.currentTarget.style.display = "none";
-                  }}
-                />
-              )}
+              <SafeImg
+                src={ligueUrl}
+                className={`ligue-logo${ligueLogoInvert(row.ligue_id) ? " ligue-logo-invert" : ""}`}
+              />
               <span>{ligue}</span>
             </div>
             <div className="player-name">{nom}</div>
@@ -137,15 +113,7 @@ export function PlayerHeader({ row, isGk = false }: { row: PlayerHeaderData; isG
               {nat && (
                 <span className="player-badge">
                   {flagUrl ? (
-                    // eslint-disable-next-line @next/next/no-img-element
-                    <img
-                      src={flagUrl}
-                      alt=""
-                      className="flag-icon"
-                      onError={(e) => {
-                        e.currentTarget.style.display = "none";
-                      }}
-                    />
+                    <SafeImg src={flagUrl} className="flag-icon" />
                   ) : (
                     <Icon name="flag" size={14} />
                   )}
