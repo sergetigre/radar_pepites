@@ -73,12 +73,17 @@ def get_connection():
     database_url = os.environ.get("DATABASE_URL")
     if not database_url:
         raise RuntimeError("DATABASE_URL introuvable dans config/.env")
-    # connect_timeout borne l'établissement de la connexion ; statement_timeout
-    # borne l'exécution d'une requête une fois connecté — sans ça, un aléa
+    # connect_timeout borne l'établissement de la connexion — sans ça, un aléa
     # réseau peut bloquer indéfiniment un run_step_cli.py en arrière-plan
     # (déjà documenté côté silver_transformer.get_engine() : jusqu'à 47 min
-    # observées sans connect_timeout).
-    return psycopg2.connect(database_url, connect_timeout=10, options="-c statement_timeout=15000")
+    # observées). statement_timeout passé en options de connexion échoue sur
+    # le endpoint pooler Neon ("unsupported startup parameter") — posé via un
+    # SET après coup à la place, qui lui passe très bien par le pooler.
+    conn = psycopg2.connect(database_url, connect_timeout=10)
+    with conn.cursor() as cur:
+        cur.execute("SET statement_timeout = '15s'")
+    conn.commit()
+    return conn
 
 
 def insert_run_start(stage: str, step: str) -> int:
