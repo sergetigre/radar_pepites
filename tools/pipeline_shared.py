@@ -73,7 +73,12 @@ def get_connection():
     database_url = os.environ.get("DATABASE_URL")
     if not database_url:
         raise RuntimeError("DATABASE_URL introuvable dans config/.env")
-    return psycopg2.connect(database_url)
+    # connect_timeout borne l'établissement de la connexion ; statement_timeout
+    # borne l'exécution d'une requête une fois connecté — sans ça, un aléa
+    # réseau peut bloquer indéfiniment un run_step_cli.py en arrière-plan
+    # (déjà documenté côté silver_transformer.get_engine() : jusqu'à 47 min
+    # observées sans connect_timeout).
+    return psycopg2.connect(database_url, connect_timeout=10, options="-c statement_timeout=15000")
 
 
 def insert_run_start(stage: str, step: str) -> int:
