@@ -56,7 +56,6 @@ SAISON_MAP = {
 }
 
 STAT_TYPES_FIELD  = ["standard", "shooting", "playing_time", "misc"]
-STAT_TYPES_KEEPER = ["keeper", "keeper_adv"]
 
 
 # ── Logging ────────────────────────────────────────────────────────────────────
@@ -871,23 +870,18 @@ def build_players_combined(engine, logger: logging.Logger):
 def load_fbref_keepers(engine, logger: logging.Logger):
     logger.info("[4/7] Chargement FBref gardiens → silver.keepers_fbref")
 
-    groups: dict[tuple, dict[str, Path]] = {}
-    for tag, glob_pat in [("keeper", "*_keeper.csv"), ("keeper_adv", "*_keeper_adv.csv")]:
-        for f in sorted(BRONZE_DIR.glob(glob_pat)):
-            league_id = league_from_filename(f.name)
-            saison    = saison_from_filename(f.name)
-            if league_id and saison:
-                key = (league_id, saison)
-                groups.setdefault(key, {})[tag] = f
+    groups: dict[tuple, Path] = {}
+    for f in sorted(BRONZE_DIR.glob("*_keeper.csv")):
+        league_id = league_from_filename(f.name)
+        saison    = saison_from_filename(f.name)
+        if league_id and saison:
+            groups[(league_id, saison)] = f
 
     total_upserted = 0
 
-    for (league_id, saison), files in sorted(groups.items()):
-        if "keeper" not in files:
-            continue
-
+    for (league_id, saison), keeper_file in sorted(groups.items()):
         try:
-            df = normalize_columns(pd.read_csv(files["keeper"], low_memory=False))
+            df = normalize_columns(pd.read_csv(keeper_file, low_memory=False))
         except Exception as e:
             logger.error(f"  Lecture keeper {league_id}|{saison}: {e}")
             continue

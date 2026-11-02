@@ -4,7 +4,7 @@ RadarPépites — Scraping FBref via soccerdata (Big 5 uniquement)
 
 Stat types collectés :
   standard, shooting, playing_time, misc  → tous joueurs
-  keeper, keeper_adv                      → gardiens uniquement
+  keeper                                  → gardiens uniquement
 
 Sorties : data/bronze/YYYYMMDD_HHMMSS_{league_id}_{saison}_{stat_type}.csv
 Logs    : logs/fbref_all_YYYYMMDD_HHMMSS.log
@@ -40,13 +40,15 @@ FBREF_LEAGUE_CODES = {
     "FRA": "FRA-Ligue 1",
 }
 
+# "keeper_adv" volontairement absent : soccerdata.FBref.read_player_season_stats()
+# ne l'accepte pas (TypeError, stat_type doit être dans standard/keeper/
+# shooting/playing_time/misc) — jamais supporté par la lib, pas une régression.
 STAT_TYPES = [
     "standard",
     "shooting",
     "playing_time",
     "misc",
     "keeper",
-    "keeper_adv",
 ]
 
 REQUEST_DELAY_SEC = 4.0
