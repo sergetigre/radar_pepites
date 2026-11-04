@@ -12,10 +12,58 @@ jamais sur Vercel, jamais depuis le site déployé.
 - Python avec les dépendances du projet (`pip install -r requirements.txt`).
 - Google Chrome installé (utilisé par `undetected-chromedriver`).
 - `config/.env` avec `DATABASE_URL` renseignée (même base Neon que le site).
+- Pour la vue visuelle (section 2) : Node.js + `npm install` une première
+  fois dans `tools/pipeline-ui/` (même `DATABASE_URL` à copier dans
+  `tools/pipeline-ui/.env.local`).
+- Si le bouton ▶ ne fait rien (exécution instantanée sans logs) : ajouter
+  `PYTHON_BIN=<chemin complet vers python.exe>` dans
+  `tools/pipeline-ui/.env.local`. Sur certaines installs Windows, la
+  commande `python` nue pointe vers le stub "App Execution Alias" du
+  Microsoft Store, qui plante silencieusement quand il est lancé depuis
+  Node.js (pas depuis un terminal) — trouver le vrai chemin avec
+  `where python` en PowerShell (prendre l'entrée qui n'est **pas** dans
+  `AppData\Local\Microsoft\WindowsApps`).
 
 ---
 
-## 2. Lancer le tableau de bord
+## 2. Vue visuelle (recommandé)
+
+Les étapes affichées comme des nœuds reliés par des flèches (ordre réel des
+dépendances), cliquables pour voir le détail et lancer :
+
+```bash
+cd tools/pipeline-ui
+npm run dev
+```
+
+Ouvre `http://localhost:3000`. Chaque nœud a son propre bouton **▶** (lance
+l'étape directement) qui devient **⏹** pendant l'exécution (arrête
+proprement — tue tout l'arbre de processus, y compris le navigateur
+Chrome si l'étape en avait ouvert un). Cliquer sur le nœud (pas sur le
+bouton) ouvre un panneau à droite avec sa description, son dernier succès,
+les logs en direct pendant l'exécution, et ses derniers runs. Le point de
+couleur sur chaque nœud indique son état : gris = jamais exécuté, jaune =
+en cours, vert = succès, rouge = échec, gris foncé = arrêté manuellement.
+
+Pas de **Pause** : les scripts Python n'ont pas de mécanisme pour
+suspendre puis reprendre une collecte en cours (contrairement à Images,
+qui est incrémental et peut être relancé sans tout refaire, FBref/Sofascore
+repartiraient de zéro). Arrêter puis relancer plus tard est l'équivalent
+pratique.
+
+C'est un **outil d'affichage/déclenchement, pas un éditeur** : la structure
+du pipeline (quelles étapes existent, dans quel ordre) est fixe, définie
+dans `tools/pipeline-ui/lib/pipelineConfig.ts` — on n'y glisse-dépose pas de
+nouvelles étapes.
+
+Comme le reste de l'outillage pipeline, c'est **local uniquement** : les
+clics sur ▶ Lancer passent par un petit serveur Next.js local qui exécute
+`tools/run_step_cli.py` (même mécanisme, même traçabilité que ci-dessous),
+jamais déployé publiquement.
+
+---
+
+## 3. Alternative : tableau de bord Streamlit
 
 Depuis la racine du projet :
 
@@ -64,7 +112,7 @@ d'erreur.
 
 ---
 
-## 3. Alternative en ligne de commande
+## 4. Alternative en ligne de commande
 
 Pour un run long sans garder l'onglet Streamlit ouvert (ex. lancer le soir
 et vérifier le lendemain) :
@@ -82,7 +130,7 @@ lancés en ligne de commande.
 
 ---
 
-## 4. Problèmes connus
+## 5. Problèmes connus
 
 - **Un `[FAIL]` sur `keeper_adv` pendant FBref** : n'existe plus — ce type
   de stat n'était pas supporté par la bibliothèque `soccerdata` et a été

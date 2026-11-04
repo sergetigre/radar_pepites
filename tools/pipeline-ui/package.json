@@ -1,0 +1,24 @@
+{
+  "name": "pipeline-ui",
+  "version": "0.1.0",
+  "private": true,
+  "description": "RadarPépites — vue visuelle locale du pipeline ETL (jamais déployée). Déclenche tools/run_step_cli.py.",
+  "scripts": {
+    "dev": "next dev --webpack",
+    "build": "next build --webpack",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "16.4.4",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "reactflow": "^11.11.4",
+    "@neondatabase/serverless": "^1.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^5",
+    "@types/node": "^22",
+    "@types/react": "^19",
+    "@types/react-dom": "^19"
+  }
+}
